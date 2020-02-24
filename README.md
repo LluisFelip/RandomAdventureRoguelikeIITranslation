@@ -5,14 +5,14 @@ This is the main repository for the Random Adventure Roguelike II content transl
 ## Current translations
 
 <ul>
-  <li>The <b>English</b> translation is in the <b>values</b> folder. This one is created by @LluisFelip, the creator of RAR II. If you find a typo or something, feel free to collaborate! <3</li>
-  <li>The <b>Spanish</b> translation is in the <b>values-es</b> folder. This one has been translated by @LluisFelip, but, again, if you find a typo or any error, feel free to collaborate! :D</li>
-  <li>The <b>French</b> translation is in the <b>values-fr</b> folder. It's translated by @Senneih_cram (Discord).</li>
-  <li>The <b>Polish</b> translation is in the <b>values-pl</b> folder. It's translated by @Herob.</li>
-  <li>The <b>Russian</b> translation is in the <b>values-ru</b> folder. It's translated by @kola132 and @MeMaxik (Discord).</li>
-  <li>The <b>Korean</b> translation is in the <b>values-kr</b> folder. It's translated by @RockstarZ (Discord).</li>
-  <li>The <b>Czech</b> translation is in the <b>values-cs</b> folder. It's translated by @BearerOfTheCurse (Discord).</li>
-  <li>The <b>Turkish</b> translation is in the <b>values-tr</b> folder. It's translated by @CansuKarayel.</li>
+  <li>The <b>English</b> translation is in the <b>values</b> folder. Translated by @LluisFelip, the creator of RAR II. If you find a typo or something, feel free to collaborate! <3</li>
+  <li>The <b>Spanish</b> translation is in the <b>values-es</b> folder. Translated by @LluisFelip, but, again, if you find a typo or any error, feel free to collaborate! :D</li>
+  <li>The <b>French</b> translation is in the <b>values-fr</b> folder. Translated by @Senneih_cram (Discord).</li>
+  <li>The <b>Polish</b> translation is in the <b>values-pl</b> folder. Translated by @Herob.</li>
+  <li>The <b>Russian</b> translation is in the <b>values-ru</b> folder. Translated by @kola132 and @MeMaxik (Discord).</li>
+  <li>The <b>Korean</b> translation is in the <b>values-kr</b> folder. Translated by @RockstarZ (Discord).</li>
+  <li>The <b>Czech</b> translation is in the <b>values-cs</b> folder. Translated by @BearerOfTheCurse (Discord).</li>
+  <li>The <b>Turkish</b> translation is in the <b>values-tr</b> folder. Translated by @CansuKarayel.</li>
 </ul>
 
 *If you miss something in the list, tell me and I will add it!
