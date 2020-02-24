@@ -1,2 +1,5 @@
-# RARII_Translation
-A repository to help the translators and myself translate Random Adventure Roguelike II
+# RARII Translation
+
+This is the main repository for the Random Adventure Roguelike II content translations!
+
+(WORK IN PROGRESS)
