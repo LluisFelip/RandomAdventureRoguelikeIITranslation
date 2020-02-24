@@ -5,8 +5,8 @@ This is the main repository for the Random Adventure Roguelike II content transl
 ## Current translations
 
 <ul>
-  <li>The <b>English</b> translation is in the <b>values</b> folder. This one is created by @LluisFelip, the creator of RAR II. If you find a typo or something, create an issue or make a <b>Pull request</b> to address it <3</li>
-  <li>The <b>Spanish</b> translation is in the <b>values-es</b> folder. This one has been translated by @LluisFelip, but, again, if you find a typo or any error, feel free to create an issue or make a <b>Pull request</b> to address it.</li>
+  <li>The <b>English</b> translation is in the <b>values</b> folder. This one is created by @LluisFelip, the creator of RAR II. If you find a typo or something, feel free to collaborate! <3</li>
+  <li>The <b>Spanish</b> translation is in the <b>values-es</b> folder. This one has been translated by @LluisFelip, but, again, if you find a typo or any error, feel free to collaborate! :D</li>
   <li>The <b>French</b> translation is in the <b>values-fr</b> folder. It's translated by @Senneih_cram (Discord).</li>
   <li>The <b>Polish</b> translation is in the <b>values-pl</b> folder. It's translated by @Herob.</li>
   <li>The <b>Russian</b> translation is in the <b>values-ru</b> folder. It's translated by @kola132 and @MeMaxik (Discord).</li>
