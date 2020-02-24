@@ -2,6 +2,8 @@
 
 This is the main repository for the Random Adventure Roguelike II content translations!
 
+## Current translations
+
 <ul>
   <li>The <b>English</b> translation is in the <b>values</b> folder. This one is created by @LluisFelip, the creator of RAR II. If you find a typo or something, create an issue or make a <b>Pull request</b> to address it <3</li>
   <li>The <b>Spanish</b> translation is in the <b>values-es</b> folder. This one has been translated by @LluisFelip, but, again, if you find a typo or any error, feel free to create an issue or make a <b>Pull request</b> to address it.</li>
@@ -14,4 +16,20 @@ This is the main repository for the Random Adventure Roguelike II content transl
 If you want to contribute with one of the existing languages or a new one, please, contact me at lluisfelip87@gmail.com or (Discord)[https://discord.gg/8YMrfgw] or (Reddit)[https://www.reddit.com/r/randomadventurerogue/] or directly open a **Pull Request**.
 
 
-(WORK IN PROGRESS)
+## Important Rules
+
+- Be polite. In commits, Pull Requests, issues… Feel free to participate and collaborate, but, please, be respectful and nice to the others :D 
+
+
+## Any questions or problems becoming part of RAR II's Translators?
+
+Feel free to contact me via email to lluisfelip87@gmail.com or participate in the (Discord Channel)[https://discord.gg/8YMrfgw] or even the (Subreddit)[https://www.reddit.com/r/randomadventurerogue/]. :)
+ 
+
+
+## Coffee or Patreon?
+I created this Ko-fi and Patreon pages because sometimes people asked me in the past on how to be able to donate or help me continue with my work. I wasn't sure if adding these here, but here they are, in case you want to contribute to my caffeine addiction: [BUY ME A KO-FI](https://ko-fi.com/archison) - [PATREON](https://patreon.com/archison) - THANKS A LOT!
+
+
+------------------------------------------------------------------------------------------------------------------------------
+
