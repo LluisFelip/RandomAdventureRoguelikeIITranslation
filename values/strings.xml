@@ -3307,6 +3307,8 @@
     <string name="dungeon_loot_message">You obtained: %s</string>
     <string name="found_item">Found: %s</string>
     <string name="dungeon_entrance_name">&font_stone;%1$s &font_end;(%2$s)</string>
+
+    <!-- TODO: Translate to other languages -->
     <string name="tile_content_type_dungeon_portal">&font_stone;Dungeon &font_end;&font_portal;Portal&font_end;</string>
 
     <string name="dungeon_north_content">&font_cyan;North&font_end;: %1$s</string>
@@ -3328,5 +3330,6 @@
     <string name="button_next">Next</string>
 
     <string name="dead_reason_unknown">Died!</string>
+    <string name="food_cooked_fish">&font_white;Cooked &font_end;&font_blue;Fish&font_end;</string>
 
 </resources>
