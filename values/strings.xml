@@ -3330,6 +3330,6 @@
     <string name="button_next">Next</string>
 
     <string name="dead_reason_unknown">Died!</string>
-    <string name="food_cooked_fish">&font_white;Cooked &font_end;&font_blue;Fish&font_end;</string>
+    <string name="food_cooked_fish">&font_white;Cooked &font_end;&font_cyan;Fish&font_end;</string>
 
 </resources>
