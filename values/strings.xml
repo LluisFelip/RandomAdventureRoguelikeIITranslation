@@ -3347,6 +3347,10 @@
 
     <string name="dead_reason_unknown">Died!</string>
     <string name="food_cooked_fish">&font_white;Cooked &font_end;&font_blue;Fish&font_end;</string>
+    <string name="share_dialog_title">Share</string>
+    <string name="share_dialog_message">Share your hero\'s status as an image or as text!</string>
+    <string name="button_share_image">As Image</string>
+    <string name="button_share_text">As Text</string>
 
 
 </resources>
