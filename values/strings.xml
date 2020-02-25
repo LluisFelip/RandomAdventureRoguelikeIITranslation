@@ -129,6 +129,22 @@
 
     <string name="new_game_hero_name_with_roman_number" translatable="false">%1$s %2$s</string>
 
+    <string name="monster_type_plant" translatable="false">Plant</string>
+    <string name="monster_type_beast" translatable="false">Beast</string>
+    <string name="monster_type_humanoid" translatable="false">Humanoid</string>
+    <string name="monster_type_construct" translatable="false">Construct</string>
+    <string name="monster_type_fiend" translatable="false">Fiend</string>
+    <string name="monster_type_fey" translatable="false">Fey</string>
+    <string name="monster_type_dragon" translatable="false">Dragon</string>
+    <string name="monster_type_undead" translatable="false">Undead</string>
+    <string name="monster_type_elemental" translatable="false">Elemental</string>
+    <string name="monster_type_swarm" translatable="false">Swarm</string>
+    <string name="monster_type_monstrosity" translatable="false">Monstrosity</string>
+    <string name="monster_type_aberration" translatable="false">Aberration</string>
+    <string name="monster_type_giant" translatable="false">Giant</string>
+    <string name="monster_type_ooze" translatable="false">Ooze</string>
+    <string name="monster_type_celestial" translatable="false">Celestial</string>
+
     <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
     <!-- TRANSLATE                                                                               -->
     <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
@@ -3330,6 +3346,7 @@
     <string name="button_next">Next</string>
 
     <string name="dead_reason_unknown">Died!</string>
-    <string name="food_cooked_fish">&font_white;Cooked &font_end;&font_cyan;Fish&font_end;</string>
+    <string name="food_cooked_fish">&font_white;Cooked &font_end;&font_blue;Fish&font_end;</string>
+
 
 </resources>
