@@ -3304,8 +3304,6 @@
 
     <string name="gold_number" translatable="false">&font_gold;%1$d&font_end;</string>
 
-
-    <!-- FIXME: #194 DEV - TRANSLATE -->
     <string name="tile_content_type_dungeon">Dungeon</string>
     <string name="dungeon_name">Dungeon</string>
     <string name="dungeon_title">%1$s - Floor &font_cyan;%2$d &font_end;(&font_cyan;%3$d&font_end;, &font_cyan;%4$d&font_end;)</string>

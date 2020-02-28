@@ -100,6 +100,7 @@
     <!ENTITY font_mark_magenta "&lt;font color=&quot;#ff00ff&quot;&gt;">
     <!ENTITY font_mark_cyan "&lt;font color=&quot;#00ffff&quot;&gt;">
     <!ENTITY font_dungeon_boss "&lt;font color=&quot;#FF3DFF&quot;&gt;">
+    <!ENTITY font_beetle_talisman "&lt;font color=&quot;#FFAE28&quot;&gt;">
     ]>
 
 <resources xmlns:tools="http://schemas.android.com/tools">
@@ -3306,6 +3307,7 @@
     <string name="dungeon_deep_forest">&font_dark_green;Deep &font_end;&font_green;Forest&font_end;</string>
     <string name="dungeon_old_tomb">&font_silver;Old &font_end;&font_stone;Tomb&font_end;</string>
     <string name="dungeon_ancient_ruins">&font_gold;Ancient &font_end;&font_ruins;Ruins&font_end;</string>
+    <string name="dungeon_pyramid">&font_beetle_talisman;Pyramid&font_end;</string>
     <string name="dungeon_big_cave">&font_stone;Big &font_end;&font_end;&font_cave;Cave&font_end;</string>
     <string name="dungeon_icy_cave">&font_ice;Icy &font_end;&font_cave;Cave&font_end;</string>
     <string name="dungeon_lava_cave">&font_red;Lava &font_end;&font_cave;Cave&font_end;</string>
@@ -3351,6 +3353,14 @@
     <string name="share_dialog_message">Share your hero\'s status as an image or as text!</string>
     <string name="button_share_image">As Image</string>
     <string name="button_share_text">As Text</string>
+
+
+    <string name="material_type_beetle_talisman">&font_beetle_talisman;Beetle Talisman&font_end;</string>
+    <string name="pyramid_its_closed">It\'s closed…</string>
+    <string name="pyramid_its_closed_can_open">It\'s closed but it seems to be reacting with your &font_beetle_talisman;Beetle Talisman&font_end;…</string>
+    <string name="pyramid_interact">Interact</string>
+    <string name="pyramid_opened">The pyramid absorbs the &font_beetle_talisman;Beetle Talisman&font_end;
+        and opens!</string>
 
 
 </resources>
