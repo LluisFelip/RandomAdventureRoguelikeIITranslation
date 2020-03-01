@@ -3361,6 +3361,13 @@
     <string name="pyramid_interact">Interact</string>
     <string name="pyramid_opened">The pyramid absorbs the &font_beetle_talisman;Beetle Talisman&font_end;
         and opens!</string>
+    <string name="material_type_jade">Jade</string>
+    <string name="material_type_quartz">Quartz</string>
+    <string name="material_type_jasper">Jasper</string>
+    <string name="material_type_sodalite">Sodalite</string>
+    <string name="material_type_onyx">Onyx</string>
+    <string name="material_type_serpentine">Serpentine</string>
+    <string name="material_type_aragonite">Aragonite</string>
 
 
 </resources>
