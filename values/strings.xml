@@ -3402,4 +3402,6 @@
     <string name="creator_appeared_message">Suddenly, a supreme being, nothing like you\'ve seen before, appears in front of you… And, you know, deep inside, this is nothing else than… &font_asterisk_creator;Archison&font_end;, &font_asterisk_creator;The Creator&font_end;.</string>
     <string name="combat_monster_healed_completely">%s healed completely!</string>
 
+    <string name="item_info_creator_medal">It is a bright medal, a memory of the time you killed &font_asterisk_creator;The Creator&font_end;.</string>
+
 </resources>
