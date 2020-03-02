@@ -155,6 +155,8 @@
     <string name="monster_type_ooze" translatable="false">Ooze</string>
     <string name="monster_type_celestial" translatable="false">Celestial</string>
 
+    <string name="infinity_island_infinity_level" translatable="false">[+&font_infinity;%d&font_end;]</string>
+
     <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
     <!-- TRANSLATE                                                                               -->
     <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
