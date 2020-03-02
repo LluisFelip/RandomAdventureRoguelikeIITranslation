@@ -3398,5 +3398,8 @@
 
     <!-- FIXME: CONTINUE HERE -->
     <string name="wise_ascend_message_1">You want to &font_alchemist;Ascend&font_end;?</string>
+    <string name="creator_appeared_title">&font_asterisk_creator;The Creator &font_end;Appeared</string>
+    <string name="creator_appeared_message">Suddenly, a supreme being, nothing like you\'ve seen before, appears in front of you… And, you know, deep inside, this is nothing else than… &font_asterisk_creator;Archison&font_end;, &font_asterisk_creator;The Creator&font_end;.</string>
+    <string name="combat_monster_healed_completely">%s healed completely!</string>
 
 </resources>
