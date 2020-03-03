@@ -3393,7 +3393,7 @@
     <string name="title_the_creator_female">%1$s, the &font_asterisk_creator;Creator&font_end;</string>
     <string name="title_the_creator_no_gender">%1$s, the &font_asterisk_creator;Creator&font_end;</string>
 
-    <string name="wise_have_creator_medal">… you … you are unbelievable! You met The &font_asterisk_creator;Creator&font_end;? You killed him and obtained %s? I\'m afraid the only thing left to do for you is to Ascend…</string>
+    <string name="wise_have_creator_medal">I… I can\'t remember anything… I… was… The &font_asterisk_creator;Creator&font_end;? You… and obtained a %s? I\'m afraid the only thing left to do for you is to &font_asterisk_creator;Ascend&font_end;…</string>
 
     <string name="wise_ascend_message_1">You want to &font_alchemist;Ascend&font_end;?</string>
     <string name="creator_appeared_title">&font_asterisk_creator;The Creator &font_end;Appeared</string>
@@ -3401,5 +3401,15 @@
     <string name="combat_monster_healed_completely">%s healed completely!</string>
 
     <string name="item_info_creator_medal">It is a bright medal, a memory of the time you killed &font_asterisk_creator;The Creator&font_end;.</string>
+
+    <string name="wise_main_story_island_first_message">Hello, hero! I\'ll be here if you need help!&br;&br;Talk to me if you need to rest or if you want to leave this place…</string>
+    <string name="wise_main_story_island_second_message">Do you want to restore your &font_health;health &font_end;, &font_mana;mana &font_end;and &font_hunger;hunger &font_end;for &font_gold;%1$d gold&font_end;? (A &font_primary_light;&italic;[CHECKPOINT] &italic_end;&font_end;will be saved)&br;&br;…or…&br;&br;Do you want to leave this place? It will disappear forever, you\'ll lose half of the &font_gold;gold &font_end;you are carrying, half from the &font_gold;BANK&font_end;, and you\'ll have to start looking for the &font_cyan;Pieces Of Map &font_end;again.</string>
+    <string name="wise_leave_island_confirmation_message">Are you sure you want to leave?&br;&br;This place will disappear forever, you\'ll lose half of the &font_gold;gold &font_end;you are carrying, half from the &font_gold;BANK&font_end;, and you\'ll have to start looking for the &font_cyan;Pieces Of Map &font_end;again.</string>
+
+    <string name="button_rest">Rest</string>
+    <string name="button_leave_island">Leave</string>
+
+    <string name="wise_completely_rested">You feel completely rested!</string>
+    <string name="wise_main_story_island_lost_gold_and_memory">You lost some &font_gold;gold &font_end;and some of your memories…</string>
 
 </resources>
