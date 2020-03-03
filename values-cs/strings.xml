@@ -100,6 +100,16 @@
     <!ENTITY font_mark_magenta "&lt;font color=&quot;#ff00ff&quot;&gt;">
     <!ENTITY font_mark_cyan "&lt;font color=&quot;#00ffff&quot;&gt;">
     <!ENTITY font_dungeon_boss "&lt;font color=&quot;#FF3DFF&quot;&gt;">
+    <!ENTITY font_beetle_talisman "&lt;font color=&quot;#FFAE28&quot;&gt;">
+    <!ENTITY font_jade "&lt;font color=&quot;#00a86b&quot;&gt;">
+    <!ENTITY font_quartz "&lt;font color=&quot;#e9dfe0&quot;&gt;">
+    <!ENTITY font_jasper "&lt;font color=&quot;#d73b3e&quot;&gt;">
+    <!ENTITY font_sodalite "&lt;font color=&quot;#3e5b99&quot;&gt;">
+    <!ENTITY font_onyx "&lt;font color=&quot;#666666&quot;&gt;">
+    <!ENTITY font_serpentine "&lt;font color=&quot;#78a680&quot;&gt;">
+    <!ENTITY font_aragonite "&lt;font color=&quot;#F39965&quot;&gt;">
+    <!ENTITY font_saphir "&lt;font color=&quot;#0f52ba&quot;&gt;">
+    <!ENTITY font_ruby "&lt;font color=&quot;#e0115f&quot;&gt;">
     ]>
 
 <resources xmlns:tools="http://schemas.android.com/tools">
@@ -3328,5 +3338,48 @@
     <string name="button_next">Next</string>
 
     <string name="dead_reason_unknown">Died!</string>
+    <string name="food_cooked_fish">&font_white;Cooked &font_end;&font_blue;Fish&font_end;</string>
+    <string name="share_dialog_title">Share</string>
+    <string name="share_dialog_message">Share your hero\'s status as an image or as text!</string>
+    <string name="button_share_image">As Image</string>
+    <string name="button_share_text">As Text</string>
+
+    <string name="material_type_beetle_talisman">&font_beetle_talisman;Beetle Talisman&font_end;</string>
+
+    <string name="pyramid_its_closed">It\'s closed…</string>
+    <string name="pyramid_its_closed_can_open">It\'s closed but it seems to be reacting with your &font_beetle_talisman;Beetle Talisman&font_end;…</string>
+    <string name="pyramid_interact">Interact</string>
+    <string name="pyramid_opened">The pyramid absorbs the &font_beetle_talisman;Beetle Talisman &font_end;and opens!</string>
+
+    <string name="material_type_jade">&font_jade;Jade&font_end;</string>
+    <string name="material_type_quartz">&font_quartz;Quartz&font_end;</string>
+    <string name="material_type_jasper">&font_jasper;Jasper&font_end;</string>
+    <string name="material_type_sodalite">&font_sodalite;Sodalite&font_end;</string>
+    <string name="material_type_onyx">&font_onyx;Onyx&font_end;</string>
+    <string name="material_type_serpentine">&font_serpentine;Serpentine&font_end;</string>
+    <string name="material_type_aragonite">&font_aragonite;Aragonite&font_end;</string>
+
+    <string name="material_type_saphir">&font_saphir;Saphir&font_end;</string>
+    <string name="material_type_ruby">&font_ruby;Ruby&font_end;</string>
+
+    <string name="material_type_ankh">&font_gold;Ankh&font_end;</string>
+
+    <string name="material_type_infinity_energy">&font_infinity;Infinity &font_end;&font_cyan;Energy&font_end;</string>
+    <string name="material_type_creator_medal">&font_asterisk_creator;Creator &font_end;&font_white;Medal&font_end;</string>
+    <string name="achievement_name_capture_creator">How could you?!</string>
+    <string name="achievement_name_desc_capture_creator">Capture the Creator!</string>
+
+    <string name="title_the_creator_male">%1$s, the &font_asterisk_creator;Creator&font_end;</string>
+    <string name="title_the_creator_female">%1$s, the &font_asterisk_creator;Creator&font_end;</string>
+    <string name="title_the_creator_no_gender">%1$s, the &font_asterisk_creator;Creator&font_end;</string>
+
+    <string name="wise_have_creator_medal">… you … you are unbelievable! You met The &font_asterisk_creator;Creator&font_end;? You killed him and obtained %s? I\'m afraid the only thing left to do for you is to Ascend…</string>
+
+    <string name="wise_ascend_message_1">You want to &font_alchemist;Ascend&font_end;?</string>
+    <string name="creator_appeared_title">&font_asterisk_creator;The Creator &font_end;Appeared</string>
+    <string name="creator_appeared_message">Suddenly, a supreme being, nothing like you\'ve seen before, appears in front of you… And, you know, deep inside, this is nothing else than… &font_asterisk_creator;Archison&font_end;, &font_asterisk_creator;The Creator&font_end;.</string>
+    <string name="combat_monster_healed_completely">%s healed completely!</string>
+
+    <string name="item_info_creator_medal">It is a bright medal, a memory of the time you killed &font_asterisk_creator;The Creator&font_end;.</string>
 
 </resources>

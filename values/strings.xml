@@ -3337,7 +3337,6 @@
     <string name="found_item">Found: %s</string>
     <string name="dungeon_entrance_name">&font_stone;%1$s &font_end;(%2$s)</string>
 
-    <!-- TODO: Translate to other languages -->
     <string name="tile_content_type_dungeon_portal">&font_stone;Dungeon &font_end;&font_portal;Portal&font_end;</string>
 
     <string name="dungeon_north_content">&font_cyan;North&font_end;: %1$s</string>
@@ -3396,7 +3395,6 @@
 
     <string name="wise_have_creator_medal">… you … you are unbelievable! You met The &font_asterisk_creator;Creator&font_end;? You killed him and obtained %s? I\'m afraid the only thing left to do for you is to Ascend…</string>
 
-    <!-- FIXME: CONTINUE HERE -->
     <string name="wise_ascend_message_1">You want to &font_alchemist;Ascend&font_end;?</string>
     <string name="creator_appeared_title">&font_asterisk_creator;The Creator &font_end;Appeared</string>
     <string name="creator_appeared_message">Suddenly, a supreme being, nothing like you\'ve seen before, appears in front of you… And, you know, deep inside, this is nothing else than… &font_asterisk_creator;Archison&font_end;, &font_asterisk_creator;The Creator&font_end;.</string>
