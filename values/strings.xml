@@ -157,6 +157,8 @@
 
     <string name="infinity_island_infinity_level" translatable="false">[+&font_infinity;%d&font_end;]</string>
 
+    <string name="monster_creator_name" translatable="false">Archison</string>
+
     <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
     <!-- TRANSLATE                                                                               -->
     <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
@@ -2746,9 +2748,6 @@
     <string name="void_master_after_killing_text_2">You again…? Well… I\'m surprised you arrived so far with my &font_void;Void &font_end;Monsters around the world… I\'ll see you again…</string>
     <string name="void_master_after_killing_text_3">Well well… You are wearing a complete set of the &font_void;Void&font_end;… Right now there\'s nothing else I can offer… But come soon, and I\'ll give you something you need…</string>
 
-    <!-- TODO: #884 DEV - Uncomment this -->
-    <!--    <string name="void_master_after_killing_text_3">Well well… You are wearing a complete set of the &font_void;Void&font_end;… You are worthy to posses this &font_infinity;Infinity &font_end;&font_gold;Key&font_end;… Good luck…</string>-->
-
     <string name="your_ship_appears_magically">Your &font_wood;Ship &font_end;appears…</string>
 
     <string name="void_monster_prefix">&font_void;Void&font_end;</string>
@@ -3411,5 +3410,9 @@
 
     <string name="wise_completely_rested">You feel completely rested!</string>
     <string name="wise_main_story_island_lost_gold_and_memory">You lost some &font_gold;gold &font_end;and some of your memories…</string>
+
+    <string name="creator_pre_combat_message">Finally! After all this time, watching you, laughing at your stupid deaths, you are finally strong enough to at least bear my presence… Let\'s see how quick I KILL YOU. Mmmmmwwwwahahahahahahaha!</string>
+
+    <string name="void_master_after_killing_text_4">Well well… You are wearing a complete set of the &font_void;Void&font_end;… Here you are, you will know what to do with it…</string>
 
 </resources>
