@@ -513,8 +513,7 @@
     <string name="item_info_merchants_mark">Этот знак может быть ценен для чего-то, ил кого-то…</string>
     <string name="item_info_tool_chopping_axe">Используйте, чтобы &font_wood;рубить деревья &font_end;для добычи &font_wood;Дерева&font_end;.</string>
     <string name="item_info_tool_pickaxe">Используйте, чтобы &font_stone;долбить камни &font_end;для добычи &font_stone;Камня &font_end;и других минералов.</string>
-    <string name="item_info_tool_fishing_rod">Используйте, чтобы &font_cyan;рыбачить&font_end;
-        в &font_cyan;Рыбных местах&font_end;.</string>
+    <string name="item_info_tool_fishing_rod">Используйте, чтобы &font_cyan;рыбачить &font_end;в &font_cyan;Рыбных местах&font_end;.</string>
     <string name="item_info_tool_net">Используйте для ловли &font_insect;Насекомых&font_end;.</string>
     <string name="item_info_tool_skinning_knife">Используйте для &font_skin;освежевания &font_end;&font_green;тела монстра &font_end;, чтобы получить &font_skin;Шкуру&font_end;.</string>
     <string name="item_info_tool_meat_cleaver">Используйте для разделки&font_green;тела монстра &font_end;, чтобы получить &font_green;Плоть Монстра&font_end;.</string>
@@ -529,8 +528,7 @@
     <string name="item_info_teleport_stone">Используйте для перемещения в последнюю &font_inn;Гостиницу &font_end;в которой вы спали, или в вашу начальную точку на этом &font_cyan;острове&font_end;.</string>
     <string name="item_info_piece_of_map">&font_cyan;Кусок Карты&font_end;. Чтобы понять что это, найдите больше кусков…</string>
     <string name="item_info_dark_orb">Мистическая &font_dark_orb;Тёмная Сфера&font_end;. А вы чего ожидали?</string>
-    <string name="item_info_bomb_normal">Бросьте &font_bomb;Бомбу&font_end;
-        во врага во время битвы.</string>
+    <string name="item_info_bomb_normal">Бросьте &font_bomb;Бомбу &font_end;во врага во время битвы.</string>
     <string name="item_info_bomb_fire">Бросьте &font_attack;Огненную&font_end; &font_bomb;Бомбу &font_end;во врага во время боя. Может &font_attack;поджечь&font_end;.</string>
     <string name="item_info_bomb_ice">Бросьте &font_ice;Морозную&font_end; &font_bomb;Бомбу &font_end;во врага во время сражения. Может &font_ice;заморозить &font_end;.</string>
     <string name="item_info_bomb_electric">Бросьте &font_electric;Электрическую &font_end;&font_bomb;Бомбу &font_end;во врага во время схватки. Может &font_electric;парализовать &font_end;.</string>
@@ -849,32 +847,32 @@
     <string name="level_up_pets_increase">&br;&font_pet;Количество Питомцев &font_end;увеличено на &font_gold;%1$d&font_end;</string>
     <string name="level_up_skill_point">&br;Вы получили &font_cyan;%1$d &font_end;Очков Навыков.</string>
 
-    <string name="combat_monster_attacked_player">&font_red;%1$s &font_end;attacked!&br;You received &font_red;%2$d &font_end;damage!</string>
+    <string name="combat_monster_attacked_player">&font_red;%1$s &font_end;attacked!&br;Вы получили &font_red;%2$d &font_end;урона!</string>
     <string name="combat_monster_action_attacked_player">&font_red;%1$s &font_end;attacked with its &font_red;%2$s&font_end;!&br;You received &font_red;%3$d &font_end;damage!</string>
     <string name="combat_player_attacked_monster_damage">You attacked!&br;&font_red;%1$s &font_end;received &font_red;%2$d &font_end;damage!</string>
     <string name="combat_player_skill_dealt_damage">&font_red;%1$s &font_end;received &font_red;%2$d &font_end;damage!</string>
-    <string name="combat_player_skill_restored_health">You restored &font_health;%1$d &font_end;health!</string>
-    <string name="combat_player_skill_restored_mana">You restored &font_mana;%1$d &font_end;mana!</string>
+    <string name="combat_player_skill_restored_health">Вы восстановили &font_health;%1$d &font_end;здоровья!</string>
+    <string name="combat_player_skill_restored_mana">Вы восстановили &font_mana;%1$d &font_end;маны!</string>
     <string name="combat_player_skill_dealt_damage_n_times">You hit &font_cyan;%1$d &font_end;times! &font_red;%2$s &font_end;received &font_red;%3$d &font_end;damage!</string>
-    <string name="combat_player_skill_attacks_first">You attack first!</string>
+    <string name="combat_player_skill_attacks_first">Вы атакуете первым!</string>
     <string name="combat_dont_know_any_skill">You don\'t know any &font_skill_attack;Skills&font_end;!</string>
     <string name="combat_dont_know_any_spell">You don\'t know any &font_mana;Spells&font_end;!</string>
-    <string name="combat_cant_cast_skill">You don\'t have enough resources to do this!</string>
-    <string name="combat_cant_cast_spell">You don\'t have enough resources to cast this!</string>
+    <string name="combat_cant_cast_skill">У вас не хватает сил чтобы сделать это!</string>
+    <string name="combat_cant_cast_spell">У вас не хватает маны чтобы сделат это!</string>
     <string name="combat_already_captured">You have already captured it!</string>
     <string name="combat_cant_carry_more_pets">You can\'t have more pets!</string>
     <string name="combat_monster_dead_vanishes">%1$s turns to dust!</string>
     <string name="combat_monster_attacks">%1$s attacks!</string>
-    <string name="combat_fight">Fight</string>
-    <string name="combat_player_flee_fails">You tried to escape and failed…</string>
-    <string name="combat_player_flee_succeeds">You escaped successfully!</string>
-    <string name="combat_killed_monster">You killed %1$s!</string>
+    <string name="combat_fight">Атаковать</string>
+    <string name="combat_player_flee_fails">Вы пытаетесь сбежать, но вам не удаётся...</string>
+    <string name="combat_player_flee_succeeds">Вы смогли убежать!</string>
+    <string name="combat_killed_monster">Вы убили %1$s!</string>
     <string name="combat_player_is_dead">%1$s&br;died at level &font_cyan;%2$d&font_end;!</string>
     <string name="combat_corpse_name">Corpse of %1$s</string>
     <string name="combat_monster_attacking_symbol">-&font_dark_red;A&font_end;-</string>
-    <string name="combat_cant_flee_from_monster">Can\'t flee from %1$s…</string>
-    <string name="combat_monster_obtained_gold">Obtained &font_gold;%1$d&font_end; gold.</string>
-    <string name="combat_monster_obtained_item">Obtained %1$s.</string>
+    <string name="combat_cant_flee_from_monster">Вы не можете убежать от %1$s…</string>
+    <string name="combat_monster_obtained_gold">Получено &font_gold;%1$d&font_end; золота.</string>
+    <string name="combat_monster_obtained_item">Получено %1$s.</string>
     <string name="combat_you_throw_the_bucket_to">You throw the %1$s to %2$s! %3$s receives &font_red;%4$d &font_end;damage!</string>
 
     <!-- REFACTOR -->
@@ -965,7 +963,7 @@
 
 
     <!-- Do not translate this, instead, each language should have its own quotes, pop culture references, some kind of jokes, etc… -->
-    <string name="villager_quotes">
+    <string name="villager_quotes" translatable="false">
         <![CDATA[
     Buy more, buy more now. Buy and be happy.\n
     Our time is yours.\n
@@ -1027,7 +1025,7 @@
     Everything is an adventure if you\'re always lost.\n
     All those moments will be lost in time, like tears in rain.\n
     Eat cheese or perish.\n
-    I\'m here to kick gum and chew butt…wait, that\'s not right…\n
+    I\'m here to kick gum and chew butt...wait, that\'s not right...\n
     I\'m against crime, and I\'m not ashamed to admit it.\n
     We all make choices in life, but in the end, our choices make us.\n
     A man who praises a man to his face is full of ulterior motives.\n
@@ -1056,18 +1054,18 @@
 ]]>
     </string>
 
-    <string name="merchants_title">&font_gold;Merchants &font_end;(&font_gold;%1$d&font_end;)</string>
-    <string name="merchant_text_you_have_no_merchants_right_now">You haven\'t found any merchants yet…</string>
+    <string name="merchants_title">&font_gold;Торговцы &font_end;(&font_gold;%1$d&font_end;)</string>
+    <string name="merchant_text_you_have_no_merchants_right_now">Ты пока не нашёл ни одного торговца…</string>
     <string name="merchant_quest_description">&font_gold;%1$s&font_end; at &font_cyan;%2$d&font_end;, &font_cyan;%3$d &font_end;has asked you to bring &font_cyan;%4$d &font_end;%5$s. You currently have %6$s. [&font_cyan;%7$s&font_end;]</string>
 
-    <string name="quest_quests_title">&font_cyan;Quests &font_end;(&font_cyan;%1$d&font_end;)</string>
-    <string name="quest_text_for_gold">for %1$s Gold</string>
-    <string name="quest_text_reward">Reward: %1$s Gold</string>
+    <string name="quest_quests_title">&font_cyan;Квесты &font_end;(&font_cyan;%1$d&font_end;)</string>
+    <string name="quest_text_for_gold">за %1$s Золота</string>
+    <string name="quest_text_reward">Награда: %1$s Золота</string>
     <string name="quest_island_name_parenthesis">[&font_cyan;%1$s&font_end;]</string>
-    <string name="quest_snackbar_action_go">Go</string>
-    <string name="quest_text_you_have_no_quests_right_now">You have no quests right now…</string>
-    <string name="quest_completed_quest">Completed %1$s</string>
-    <string name="quest_item_found">Found %1$s!</string>
+    <string name="quest_snackbar_action_go">Иди</string>
+    <string name="quest_text_you_have_no_quests_right_now">Сейчас у вас нет заданий…</string>
+    <string name="quest_completed_quest">Завершено %1$s</string>
+    <string name="quest_item_found">Найдено %1$s!</string>
     <string name="quest_bring_crafted_food_text_giving">I\'m hungry! I\'d love to eat %1$s… Could you &font_gold;buy &font_end;or &font_cyan;craft &font_end;one and bring it to me?</string>
     <string name="quest_bring_crafted_food_text_desc">You have to &font_gold;buy &font_end;or &font_cyan;craft &font_end;a %1$s and bring it to %2$s at %3$s,%4$s</string>
     <string name="quest_bring_crafted_food_text_complete_desc">Thanks! I love it!</string>
@@ -1075,7 +1073,7 @@
     <string name="quest_bring_crafted_food_text_bring">Do you have the %1$s? Give it to me, please!</string>
     <string name="quest_bring_crafted_food_thanks">Thanks! I love it!</string>
     <string name="quest_added_quest">Added Quest (%1$s)</string>
-    <string name="quest_complete">Quest complete!</string>
+    <string name="quest_complete">Залание выполнено!</string>
     <string name="quest_kill_single_monster_text_giving">Kill the %1$s at &font_cyan;%2$d&font_end;, &font_cyan;%3$d&font_end; </string>
     <string name="quest_find_lost_item_text_giving">I\'ve lost %1$s… The last time I saw it, I think it was around %2$s, %3$s… Please, &font_cyan;Search &font_end;for it and return it to me! Thank you!</string>
     <string name="quest_find_lost_item_text_reward">Here\'s your reward: %1$s!</string>
@@ -1086,29 +1084,29 @@
     <string name="quest_find_lost_item_tile_content_name">This is a quest item. You have to return it to its owner.</string>
 
     <!-- REFACTOR!-->
-    <string name="quest_find_lost_item_item_name_001" tools:ignore="UnusedResources">a magic box</string>
-    <string name="quest_find_lost_item_item_name_002" tools:ignore="UnusedResources">a mysterious bag</string>
-    <string name="quest_find_lost_item_item_name_003" tools:ignore="UnusedResources">a secret document</string>
-    <string name="quest_find_lost_item_item_name_004" tools:ignore="UnusedResources">a stinky thing</string>
-    <string name="quest_find_lost_item_item_name_005" tools:ignore="UnusedResources">a map with an X</string>
-    <string name="quest_find_lost_item_item_name_006" tools:ignore="UnusedResources">a family picture</string>
-    <string name="quest_find_lost_item_item_name_007" tools:ignore="UnusedResources">a bucket of flowers</string>
-    <string name="quest_find_lost_item_item_name_008" tools:ignore="UnusedResources">a can of dog food</string>
-    <string name="quest_find_lost_item_item_name_009" tools:ignore="UnusedResources">a key</string>
-    <string name="quest_find_lost_item_item_name_010" tools:ignore="UnusedResources">a valuable disk</string>
-    <string name="quest_find_lost_item_item_name_011" tools:ignore="UnusedResources">a nice hat</string>
-    <string name="quest_find_lost_item_item_name_012" tools:ignore="UnusedResources">a potato</string>
-    <string name="quest_find_lost_item_item_name_013" tools:ignore="UnusedResources">a raincoat</string>
-    <string name="quest_find_lost_item_item_name_014" tools:ignore="UnusedResources">a magic mirror</string>
-    <string name="quest_find_lost_item_item_name_015" tools:ignore="UnusedResources">a guitar without strings</string>
-    <string name="quest_find_lost_item_item_name_016" tools:ignore="UnusedResources">a gift box</string>
-    <string name="quest_find_lost_item_item_name_017" tools:ignore="UnusedResources">a king\'s diary</string>
-    <string name="quest_find_lost_item_item_name_018" tools:ignore="UnusedResources">a golden tooth</string>
-    <string name="quest_find_lost_item_item_name_019" tools:ignore="UnusedResources">a toy</string>
-    <string name="quest_find_lost_item_item_name_020" tools:ignore="UnusedResources">a glove</string>
-    <string name="quest_find_lost_item_item_name_021" tools:ignore="UnusedResources">a smashed pumpkin</string>
-    <string name="quest_find_lost_item_item_name_022" tools:ignore="UnusedResources">a piece of paper</string>
-    <string name="quest_find_lost_item_item_name_023" tools:ignore="UnusedResources">a love letter</string>
+    <string name="quest_find_lost_item_item_name_001" tools:ignore="UnusedResources">магическая коробка</string>
+    <string name="quest_find_lost_item_item_name_002" tools:ignore="UnusedResources">мистическая сумка</string>
+    <string name="quest_find_lost_item_item_name_003" tools:ignore="UnusedResources">секретный документ</string>
+    <string name="quest_find_lost_item_item_name_004" tools:ignore="UnusedResources">вонючая вещь</string>
+    <string name="quest_find_lost_item_item_name_005" tools:ignore="UnusedResources">карта с крестиком</string>
+    <string name="quest_find_lost_item_item_name_006" tools:ignore="UnusedResources">фамильная картина</string>
+    <string name="quest_find_lost_item_item_name_007" tools:ignore="UnusedResources">ведро с цветами</string>
+    <string name="quest_find_lost_item_item_name_008" tools:ignore="UnusedResources">банка собачьей еды</string>
+    <string name="quest_find_lost_item_item_name_009" tools:ignore="UnusedResources">ключ</string>
+    <string name="quest_find_lost_item_item_name_010" tools:ignore="UnusedResources">ценный диск</string>
+    <string name="quest_find_lost_item_item_name_011" tools:ignore="UnusedResources">милая шляпа</string>
+    <string name="quest_find_lost_item_item_name_012" tools:ignore="UnusedResources">ценный диск</string>
+    <string name="quest_find_lost_item_item_name_013" tools:ignore="UnusedResources">дождевик</string>
+    <string name="quest_find_lost_item_item_name_014" tools:ignore="UnusedResources">магическое зеркало</string>
+    <string name="quest_find_lost_item_item_name_015" tools:ignore="UnusedResources">гитара без струн</string>
+    <string name="quest_find_lost_item_item_name_016" tools:ignore="UnusedResources">подарочная коробка</string>
+    <string name="quest_find_lost_item_item_name_017" tools:ignore="UnusedResources">дневник короля</string>
+    <string name="quest_find_lost_item_item_name_018" tools:ignore="UnusedResources">золотой зуб</string>
+    <string name="quest_find_lost_item_item_name_019" tools:ignore="UnusedResources">игрушка</string>
+    <string name="quest_find_lost_item_item_name_020" tools:ignore="UnusedResources">aперчатка</string>
+    <string name="quest_find_lost_item_item_name_021" tools:ignore="UnusedResources">разбитая тыква</string>
+    <string name="quest_find_lost_item_item_name_022" tools:ignore="UnusedResources">клочок бумаги</string>
+    <string name="quest_find_lost_item_item_name_023" tools:ignore="UnusedResources">любовное письмо</string>
     <string name="quest_find_lost_item_item_name_024" tools:ignore="UnusedResources">a beer can</string>
     <string name="quest_find_lost_item_item_name_025" tools:ignore="UnusedResources">a wine bottle</string>
     <string name="quest_find_lost_item_item_name_026" tools:ignore="UnusedResources">a newspaper</string>
@@ -1381,6 +1379,7 @@
     <string name="action_hunter_action_description_negative">There are no &font_red;bosses &font_end;in the island…</string>
     <string name="action_treasure_hunter">&font_cyan;Hunt&font_end; &font_chest;Treasures&font_end;</string>
     <string name="action_treasure_hunter_treasure_hunter">Sense how many &font_chest;hidden items &font_end;are in the island.</string>
+    <string name="action_treasure_hunter_action_description">You &font_cyan;sense &font_end;how many &font_chest;hidden items &font_end;are in the island.</string>
     <string name="action_treasure_hunter_action_description_positive_singular">You sense &font_cyan;%1$d &font_end;&font_chest;hidden items&font_end;.</string>
     <string name="action_treasure_hunter_action_description_positive_plural">You sense &font_cyan;%1$d &font_end;&font_chest;hidden items&font_end;.</string>
     <string name="action_treasure_hunter_action_description_negative">There are no &font_chest;hidden items&font_end;…</string>
@@ -1991,8 +1990,7 @@
     <string name="skill_unbreakable_description">If a &font_red;Monster&font_end;\'s attack would kill you, you resist it and survive with &font_health;1 &font_end;health point. Be careful of hunger or weather damage…</string>
     <string name="skill_unbreakable_skill_saves_you">Your &font_cyan;Unbreakable&font_end; skill saves you!</string>
     <string name="skill_berserk">&font_attack;Berserk&font_end;</string>
-    <string name="skill_berserk_description">In combat, using the "Attack" command increases a &font_cyan;10%&font_end;
-        the damage each turn. When using a different action in combat, the &font_cyan;Berserk &font_end;bonus is lost.</string>
+    <string name="skill_berserk_description">In combat, using the "Attack" command increases a &font_cyan;10% &font_end;the damage each turn. When using a different action in combat, the &font_cyan;Berserk &font_end;bonus is lost.</string>
     <string name="skill_berserk_increased_to">&font_attack;Berserk &font_end;bonus increased to &font_cyan;x%1$s&font_end;!</string>
     <string name="skill_berserk_lost">&font_attack;Berserk&font_end; bonus lost…</string>
     <string name="skill_chef">&font_food;Chef&font_end;</string>
@@ -2344,10 +2342,6 @@
     <string name="merchant_abandon_quest_title">Abandon &font_gold;Merchant&font_end; Quest</string>
     <string name="merchant_abandon_quest_message">Are you sure you want to abandon &italic;\"%1$s\"&italic_end;?</string>
 
-
-    <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
-    <!-- Pending to translate: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
-
     <string name="settings_language">&font_cyan;Язык&font_end;</string>
     <string name="settings_translated_by">Перевели: %s</string>
 
@@ -2596,7 +2590,6 @@
 
     <string name="settings_change_language_title">Change Language</string>
     <string name="settings_change_language_message">Are you sure you want to change the language?&br;&br;The app needs to reset to apply the language changes.&br;&br;Restart app? (You won\'t lose your game data)</string>
-
 
     <string name="weapon_type_staff">&font_mana;Staff&font_end;</string>
 
@@ -3086,7 +3079,6 @@
     <string name="material_old_paper_piece">Old Paper Piece</string>
     <string name="item_info_old_paper_piece">It has some strange drawings on it…</string>
     <string name="tile_content_type_nautical_chart_treasure_island">Nautical Chart (&font_gold;Treasure &font_end;&font_cyan;Island&font_end;)</string>
-
     <string name="craft_various_title">Craft Various</string>
     <string name="craft_various_message">What amount do you want to craft?&br;&br;(You have enough materials to craft &font_cyan;%1$d&font_end;. The maximum amount allowed to craft is &font_cyan;%2$d&font_end;)</string>
     <string name="crafted_amount">Crafted &font_cyan;%1$d&font_end;!</string>
