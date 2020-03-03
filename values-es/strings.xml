@@ -96,7 +96,20 @@
     <!ENTITY font_tyrant "&lt;font color=&quot;#CCAEAE&quot;&gt;">
     <!ENTITY font_pink "&lt;font color=&quot;#FF69B4&quot;&gt;">
     <!ENTITY font_epic "&lt;font color=&quot;#FF3DFF&quot;&gt;">
+    <!ENTITY font_mark_yellow "&lt;font color=&quot;#FFFF00&quot;&gt;">
+    <!ENTITY font_mark_magenta "&lt;font color=&quot;#ff00ff&quot;&gt;">
+    <!ENTITY font_mark_cyan "&lt;font color=&quot;#00ffff&quot;&gt;">
     <!ENTITY font_dungeon_boss "&lt;font color=&quot;#FF3DFF&quot;&gt;">
+    <!ENTITY font_beetle_talisman "&lt;font color=&quot;#FFAE28&quot;&gt;">
+    <!ENTITY font_jade "&lt;font color=&quot;#00a86b&quot;&gt;">
+    <!ENTITY font_quartz "&lt;font color=&quot;#e9dfe0&quot;&gt;">
+    <!ENTITY font_jasper "&lt;font color=&quot;#d73b3e&quot;&gt;">
+    <!ENTITY font_sodalite "&lt;font color=&quot;#3e5b99&quot;&gt;">
+    <!ENTITY font_onyx "&lt;font color=&quot;#666666&quot;&gt;">
+    <!ENTITY font_serpentine "&lt;font color=&quot;#78a680&quot;&gt;">
+    <!ENTITY font_aragonite "&lt;font color=&quot;#F39965&quot;&gt;">
+    <!ENTITY font_saphir "&lt;font color=&quot;#0f52ba&quot;&gt;">
+    <!ENTITY font_ruby "&lt;font color=&quot;#e0115f&quot;&gt;">
     ]>
 
 <resources xmlns:tools="http://schemas.android.com/tools">

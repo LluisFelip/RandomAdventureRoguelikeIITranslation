@@ -99,6 +99,17 @@
     <!ENTITY font_mark_yellow "&lt;font color=&quot;#FFFF00&quot;&gt;">
     <!ENTITY font_mark_magenta "&lt;font color=&quot;#ff00ff&quot;&gt;">
     <!ENTITY font_mark_cyan "&lt;font color=&quot;#00ffff&quot;&gt;">
+    <!ENTITY font_dungeon_boss "&lt;font color=&quot;#FF3DFF&quot;&gt;">
+    <!ENTITY font_beetle_talisman "&lt;font color=&quot;#FFAE28&quot;&gt;">
+    <!ENTITY font_jade "&lt;font color=&quot;#00a86b&quot;&gt;">
+    <!ENTITY font_quartz "&lt;font color=&quot;#e9dfe0&quot;&gt;">
+    <!ENTITY font_jasper "&lt;font color=&quot;#d73b3e&quot;&gt;">
+    <!ENTITY font_sodalite "&lt;font color=&quot;#3e5b99&quot;&gt;">
+    <!ENTITY font_onyx "&lt;font color=&quot;#666666&quot;&gt;">
+    <!ENTITY font_serpentine "&lt;font color=&quot;#78a680&quot;&gt;">
+    <!ENTITY font_aragonite "&lt;font color=&quot;#F39965&quot;&gt;">
+    <!ENTITY font_saphir "&lt;font color=&quot;#0f52ba&quot;&gt;">
+    <!ENTITY font_ruby "&lt;font color=&quot;#e0115f&quot;&gt;">
     ]>
 
 <resources xmlns:tools="http://schemas.android.com/tools">
@@ -1352,6 +1363,8 @@
     <string name="content_description_tile_content_image">Tile Content Image</string>
     <string name="content_description_recipe_image">The recipe image</string>
     <string name="content_description_weapon_image">Weapon Image</string>
+    <string name="content_description_monster_icon">Monster Icon</string>
+    <string name="content_description_dungeon_current_position_info">Current dungeon position button</string>
 
     <string name="crafting_title">&font_cyan;Crafting&font_end;</string>
     <string name="crafting_title_with_recipe">&font_cyan;Crafting &font_end;[%1$s]</string>
