@@ -468,7 +468,7 @@
     <string name="purifying_tree_text_purified_label">{ &font_purifying;Oczyszczono &font_end;}</string>
 
     <string name="material_wood_eq">&font_wood;Drewno&font_end;</string>
-    <string name="material_leather_eq">&font_leather;Skóra&font_end;</string>
+    <string name="material_leather_eq">&font_leather;Wyprawiona Skóra&font_end;</string>
     <string name="material_bone_eq">&font_bone;Kośc&font_end;</string>
     <string name="material_copper_eq">&font_copper;Miedź&font_end;</string>
     <string name="material_tin_eq">&font_tin;Cyna&font_end;</string>
@@ -517,8 +517,8 @@
     <string name="material_string">&font_string;Nić&font_end;</string>
     <string name="material_fish">&font_cyan;Ryba&font_end;</string>
     <string name="material_insect">&font_insect;Robak&font_end;</string>
-    <string name="material_skin">&font_skin;Futro&font_end;</string>
-    <string name="material_leather">&font_leather;Skóra&font_end;</string>
+    <string name="material_skin">&font_skin;Skóra&font_end;</string>
+    <string name="material_leather">&font_leather;Wyprawiona Skóra&font_end;</string>
     <string name="material_yin_piece">Element &font_black_low;Yin&font_end;</string>
     <string name="material_yang_piece">Element &font_white;Yang&font_end;</string>
     <string name="material_yin">&font_black_low;Yin&font_end;</string>
@@ -888,121 +888,121 @@
         Zwiększono &font_mana;Intelekt&font_end; do &font_mana;%6$d&font_end;&br;
     </string>
 
-    <string name="level_up_inventory_increase">&br;Increased your &font_gold;Inventory Capacity &font_end;to &font_gold;%1$d&font_end;</string>
-    <string name="level_up_pets_increase">&br;Increased your &font_pet;Pets Capacity &font_end;to &font_gold;%1$d&font_end;</string>
-    <string name="level_up_skill_point">&br;You earned &font_cyan;%1$d &font_end;Skill Points.</string>
+    <string name="level_up_inventory_increase">&br;Zwiększono &font_gold;Pojemność Ekwipunku &font_end;do &font_gold;%1$d&font_end;</string>
+    <string name="level_up_pets_increase">&br;Zwiększono &font_pet;Pets Capacity &font_end;do &font_gold;%1$d&font_end;</string>
+    <string name="level_up_skill_point">&br;Otrzymałeś &font_cyan;%1$d &font_end;Skill Points.</string>
 
-    <string name="combat_monster_attacked_player">&font_red;%1$s &font_end;attacked!&br;You received &font_red;%2$d &font_end;damage!</string>
-    <string name="combat_monster_action_attacked_player">&font_red;%1$s &font_end;attacked with its &font_red;%2$s&font_end;!&br;You received &font_red;%3$d &font_end;damage!</string>
-    <string name="combat_player_attacked_monster_damage">You attacked!&br;&font_red;%1$s &font_end;received &font_red;%2$d &font_end;damage!</string>
-    <string name="combat_player_skill_dealt_damage">&font_red;%1$s &font_end;received &font_red;%2$d &font_end;damage!</string>
-    <string name="combat_player_skill_restored_health">You restored &font_health;%1$d &font_end;health!</string>
-    <string name="combat_player_skill_restored_mana">You restored &font_mana;%1$d &font_end;mana!</string>
-    <string name="combat_player_skill_dealt_damage_n_times">You hit &font_cyan;%1$d &font_end;times! &font_red;%2$s &font_end;received &font_red;%3$d &font_end;damage!</string>
-    <string name="combat_player_skill_attacks_first">You attack first!</string>
-    <string name="combat_dont_know_any_skill">You don\'t know any &font_skill_attack;Skills&font_end;!</string>
-    <string name="combat_dont_know_any_spell">You don\'t know any &font_mana;Spells&font_end;!</string>
-    <string name="combat_cant_cast_skill">You don\'t have enough resources to do this!</string>
-    <string name="combat_cant_cast_spell">You don\'t have enough resources to cast this!</string>
-    <string name="combat_already_captured">You have already captured it!</string>
-    <string name="combat_cant_carry_more_pets">You can\'t have more pets!</string>
-    <string name="combat_monster_dead_vanishes">%1$s turns to dust!</string>
-    <string name="combat_monster_attacks">%1$s attacks!</string>
-    <string name="combat_fight">Fight</string>
-    <string name="combat_player_flee_fails">You tried to escape and failed…</string>
-    <string name="combat_player_flee_succeeds">You escaped successfully!</string>
-    <string name="combat_killed_monster">You killed %1$s!</string>
-    <string name="combat_player_is_dead">%1$s&br;died at level &font_cyan;%2$d&font_end;!</string>
-    <string name="combat_corpse_name">Corpse of %1$s</string>
+    <string name="combat_monster_attacked_player">&font_red;%1$s &font_end;zaatakował!&br;Zadał &font_red;%2$d &font_end;puntków obrażeń!</string>
+    <string name="combat_monster_action_attacked_player">&font_red;%1$s &font_end;zaatakował używając: &font_red;%2$s&font_end;!&br;Zadał tym &font_red;%3$d &font_end;puntków obrażeń!</string>
+    <string name="combat_player_attacked_monster_damage">Atak!&br;Zadano &font_red;%1$s &font_end; &font_red;%2$d &font_end;puntków obrażeń!</string>
+    <string name="combat_player_skill_dealt_damage">Zadano &font_red;%1$s &font_end; &font_red;%2$d &font_end;punktów obrażeń!</string>
+    <string name="combat_player_skill_restored_health">Przywrócono &font_health;%1$d &font_end;punktów zdrowia!</string>
+    <string name="combat_player_skill_restored_mana">Przywrócono &font_mana;%1$d &font_end;punktów many!</string>
+    <string name="combat_player_skill_dealt_damage_n_times">Zaatakowano &font_cyan;%1$d &font_end;razy zadając &font_red;%2$s &font_end; &font_red;%3$d &font_end;puntków obrażeń!</string>
+    <string name="combat_player_skill_attacks_first">Zaczynasz!</string>
+    <string name="combat_dont_know_any_skill">Nie masz jeszcze żadnych &font_skill_attack;umięjętności&font_end;!</string>
+    <string name="combat_dont_know_any_spell">Nie znasz jeszcze żadnych &font_mana;Zaklęć&font_end;!</string>
+    <string name="combat_cant_cast_skill">Nie masz sił, aby użyć tej techniki!</string>
+    <string name="combat_cant_cast_spell">Twój umysł jest zbyt wyczerpany, aby użyć zaklęcia!</string>
+    <string name="combat_already_captured">Już jest twój!</string>
+    <string name="combat_cant_carry_more_pets">Nie możesz mieć więcej zwierząt!</string>
+    <string name="combat_monster_dead_vanishes">%1$s obraca się w proch!</string>
+    <string name="combat_monster_attacks">%1$s przechodzi do ofensywy!</string>
+    <string name="combat_fight">Walcz</string>
+    <string name="combat_player_flee_fails">Próba nawiania się nie powiodła...</string>
+    <string name="combat_player_flee_succeeds">Nawiano!</string>
+    <string name="combat_killed_monster">%1$s nie żyje!</string>
+    <string name="combat_player_is_dead">%1$s&br;Śmierć na poziomie &font_cyan;%2$d&font_end;!</string>
+    <string name="combat_corpse_name">Zwłoki %1$s</string>
     <string name="combat_monster_attacking_symbol">-&font_dark_red;A&font_end;-</string>
-    <string name="combat_cant_flee_from_monster">Can\'t flee from %1$s…</string>
-    <string name="combat_monster_obtained_gold">Obtained &font_gold;%1$d&font_end; gold.</string>
-    <string name="combat_monster_obtained_item">Obtained %1$s.</string>
-    <string name="combat_you_throw_the_bucket_to">You throw the %1$s to %2$s! %3$s receives &font_red;%4$d &font_end;damage!</string>
+    <string name="combat_cant_flee_from_monster">Nie można nawiać przed %1$s…</string>
+    <string name="combat_monster_obtained_gold">Zdobyto złota:  &font_gold;%1$d&font_end;</string>
+    <string name="combat_monster_obtained_item">Zdobyto %1$s.</string>
+    <string name="combat_you_throw_the_bucket_to">Rzucasz %1$s w %2$s! Zadano %3$s &font_red;%4$d &font_end; punktów obrażeń!</string>
 
     <!-- REFACTOR -->
-    <string name="villager_text_hello_1" tools:ignore="UnusedResources">Hi!</string>
-    <string name="villager_text_hello_2" tools:ignore="UnusedResources">Hi, hero!</string>
-    <string name="villager_text_hello_3" tools:ignore="UnusedResources">Hi, adventurer!</string>
-    <string name="villager_text_hello_4" tools:ignore="UnusedResources">Hello!</string>
-    <string name="villager_text_hello_5" tools:ignore="UnusedResources">Hello, adventurer!</string>
-    <string name="villager_text_hello_6" tools:ignore="UnusedResources">Hello, hero!</string>
-    <string name="villager_text_hello_7" tools:ignore="UnusedResources">Hey…</string>
-    <string name="villager_text_hello_8" tools:ignore="UnusedResources">Hey, adventurer…</string>
-    <string name="villager_text_hello_9" tools:ignore="UnusedResources">Hey, hero…</string>
-    <string name="villager_text_hello_10" tools:ignore="UnusedResources">Nice to meet you!</string>
-    <string name="villager_text_hello_11" tools:ignore="UnusedResources">Nice to meet you, adventurer!</string>
-    <string name="villager_text_hello_12" tools:ignore="UnusedResources">Nice to meet you, hero!</string>
-    <string name="villager_text_hello_13" tools:ignore="UnusedResources">How\'s it going?</string>
-    <string name="villager_text_hello_14" tools:ignore="UnusedResources">How\'s it going, adventurer?</string>
-    <string name="villager_text_hello_15" tools:ignore="UnusedResources">How\'s it going, hero?</string>
-    <string name="villager_text_hello_16" tools:ignore="UnusedResources">How are you doing?</string>
-    <string name="villager_text_hello_17" tools:ignore="UnusedResources">How are you doing, adventurer?</string>
-    <string name="villager_text_hello_18" tools:ignore="UnusedResources">How are you doing, hero?</string>
+    <string name="villager_text_hello_1" tools:ignore="UnusedResources">Hejo!</string>
+    <string name="villager_text_hello_2" tools:ignore="UnusedResources">Hejo bohaterze!</string>
+    <string name="villager_text_hello_3" tools:ignore="UnusedResources">Hejo awanturniku!</string>
+    <string name="villager_text_hello_4" tools:ignore="UnusedResources">Witaj!</string>
+    <string name="villager_text_hello_5" tools:ignore="UnusedResources">Witaj awanturniku!</string>
+    <string name="villager_text_hello_6" tools:ignore="UnusedResources">Witaj bohaterze!</string>
+    <string name="villager_text_hello_7" tools:ignore="UnusedResources">Hejka…</string>
+    <string name="villager_text_hello_8" tools:ignore="UnusedResources">Hejka awanturniku!</string>
+    <string name="villager_text_hello_9" tools:ignore="UnusedResources">Hejka bohaterze!</string>
+    <string name="villager_text_hello_10" tools:ignore="UnusedResources">Miło Cię poznać!</string>
+    <string name="villager_text_hello_11" tools:ignore="UnusedResources">Miło Cię poznać, awanturniku!</string>
+    <string name="villager_text_hello_12" tools:ignore="UnusedResources">Miło Cię poznać, bohaterze!</string>
+    <string name="villager_text_hello_13" tools:ignore="UnusedResources">Jak leci?</string>
+    <string name="villager_text_hello_14" tools:ignore="UnusedResources">Jak leci, awanturniku?</string>
+    <string name="villager_text_hello_15" tools:ignore="UnusedResources">Jak leci, bohaterze?</string>
+    <string name="villager_text_hello_16" tools:ignore="UnusedResources">Co tam porabiasz?</string>
+    <string name="villager_text_hello_17" tools:ignore="UnusedResources">Co tam porabiasz, awanturniku?</string>
+    <string name="villager_text_hello_18" tools:ignore="UnusedResources">Co tam porabiasz, bohaterze?</string>
     <string name="villager_text_hello_19" tools:ignore="UnusedResources">Mmm…</string>
     <string name="villager_text_hello_20" tools:ignore="UnusedResources">Pse…</string>
-    <string name="villager_text_hello_21" tools:ignore="UnusedResources">Wow!</string>
-    <string name="villager_text_hello_22" tools:ignore="UnusedResources">Oh!</string>
+    <string name="villager_text_hello_21" tools:ignore="UnusedResources">Łał!</string>
+    <string name="villager_text_hello_22" tools:ignore="UnusedResources">O!</string>
     <string name="villager_text_hello_23" tools:ignore="UnusedResources">Eh!</string>
-    <string name="villager_text_hello_24" tools:ignore="UnusedResources">Hey!</string>
-    <string name="villager_text_hello_25" tools:ignore="UnusedResources">Howdy!</string>
-    <string name="villager_text_hello_26" tools:ignore="UnusedResources">What\'s up?</string>
-    <string name="villager_text_hello_27" tools:ignore="UnusedResources">What\'s up, adventurer?</string>
-    <string name="villager_text_hello_28" tools:ignore="UnusedResources">What\'s up, hero?</string>
-    <string name="villager_text_hello_29" tools:ignore="UnusedResources">Hi…</string>
-    <string name="villager_text_hello_30" tools:ignore="UnusedResources">Hello…</string>
+    <string name="villager_text_hello_24" tools:ignore="UnusedResources">Hej!</string>
+    <string name="villager_text_hello_25" tools:ignore="UnusedResources">Cześć!</string>
+    <string name="villager_text_hello_26" tools:ignore="UnusedResources">Co słychać?</string>
+    <string name="villager_text_hello_27" tools:ignore="UnusedResources">Co słychać, awanturniku?</string>
+    <string name="villager_text_hello_28" tools:ignore="UnusedResources">Co słychać, bohaterze?</string>
+    <string name="villager_text_hello_29" tools:ignore="UnusedResources">Hej…</string>
+    <string name="villager_text_hello_30" tools:ignore="UnusedResources">Hejka…</string>
     <string name="villager_text_hello_31" tools:ignore="UnusedResources">…</string>
-    <string name="villager_text_hello_32" tools:ignore="UnusedResources">Well…</string>
-    <string name="villager_text_hello_33" tools:ignore="UnusedResources">So…</string>
-    <string name="villager_text_hello_34" tools:ignore="UnusedResources">What\'s new?</string>
-    <string name="villager_text_hello_35" tools:ignore="UnusedResources">G\'day!</string>
-    <string name="villager_text_hello_36" tools:ignore="UnusedResources">Yo!</string>
-    <string name="villager_text_hello_37" tools:ignore="UnusedResources">Hello.</string>
-    <string name="villager_text_hello_38" tools:ignore="UnusedResources">Hi.</string>
-    <string name="villager_text_hello_39" tools:ignore="UnusedResources">Hey.</string>
+    <string name="villager_text_hello_32" tools:ignore="UnusedResources">Więc…</string>
+    <string name="villager_text_hello_33" tools:ignore="UnusedResources">No…</string>
+    <string name="villager_text_hello_34" tools:ignore="UnusedResources">Coś się zmieniło ostatnio?</string>
+    <string name="villager_text_hello_35" tools:ignore="UnusedResources">Dobry day!</string>
+    <string name="villager_text_hello_36" tools:ignore="UnusedResources">Joł!</string>
+    <string name="villager_text_hello_37" tools:ignore="UnusedResources">Cześć.</string>
+    <string name="villager_text_hello_38" tools:ignore="UnusedResources">Hejo.</string>
+    <string name="villager_text_hello_39" tools:ignore="UnusedResources">Niech będzie pochwalony.</string>
     <string name="villager_text_hello_40" tools:ignore="UnusedResources" />
 
 
     <string name="villager_i_need_help">
         <![CDATA[
-    I need help with something…\n
-    Can I ask you for a favor?\n
-    I\'d be grateful if you could help me…\n
-    Could you help me with something?\n
-    You look like someone who can help!\n
-    If you aren\'t busy, I\'d need something from you…\n
-    Could you please help?\n
-    Could you please help me?\n
-    My family and I would be grateful if you could help us…\n
-    My family and I need something…\n
-    There\'s something I need…\n
-    Would you be so kind to help me?\n
-    Could you help me out?\n
-    I\'m afraid I must ask you for a favor…\n
-    If it isn\'t much to ask, I need you to do something…\n
-    Could you please help me with something?\n
-    Could you give me a hand?\n
-    We need help with something…\n
-    We need to ask you for a favor…\n
-    I know we haven\'t met before, but I must ask you for a favor…\n
-    I\'ve had this problem for a long time and I could use your help with it…\n
-    We aren\'t used to having strangers around here… Can I ask you for a favor?\n
-    We aren\'t used to having strangers around here… Can you do me a favor?\n
-    You are not from around here, are you? Can you do something for me?\n
-    You are not from around here, are you? May I ask you for a favor?\n
-    Where do you come from? Is it too much if I ask you for this…\n
-    Ah, if it isn\'t much trouble, could you help me with something?\n
-    I am in trouble and would really appreciate some help. Would you be willing to help?\n
-    Before you leave, could you help with something? It\'s a matter of vital importance…\n
-    Before you leave, could you help me?\n
-    Before you leave, would you help me?\n
-    Before you go, could you help me?\n
-    Before you go, would you help me?\n
-    Before you go, please can you do me a favor?\n
-    Can you help with something?\n
-    Can you help me out with something, please?\n
-    Can you help me with something, please?\n
-    I heard you are a good hero. Would you help me please?
+    Potrzebuję pomocy z czymś…\n
+    Mogę Cię o coś prosić?\n
+    Pomożesz mi? Będę postokroć wdzięczny!\n
+    Pomożesz mi w czymś?\n
+    Wyglądasz mi na kogoś, kto może mi pomóc!\n
+    Jeżeli masz czas, pomóż mi…\n
+    Mogę prosić Cię o pomoc?\n
+    Proszę ładnie o pomoc!\n
+    Moja rodzina byłaby Ci wdzięczna gdybyś coś zrobił…\n
+    Ja i moja rodzina Cię potrzebujemy…\n
+    Potrzebuję czegoś…\n
+    Miło by było, gdybyś pomógł!\n
+    Czy mógłbyś mi pomóc?\n
+    Obawiam się, że muszę Cię o coś poprosić…\n
+    Jeśli nie jest to za wiele, chcę, żebyś coś zrobił…\n
+    Czy mógłbyś mi w czymś pomóc?\n
+    Ofiarowałbyś mi pomocną dłoń?\n
+    Potrzebujemy pomocy…\n
+    Musimy Cię prosić o coś…\n
+    Wiem, że nigdy wcześniej się nie spotkaliśmy, ale muszę Cię o coś prosić…\n
+    Ten problem nastręcza sie od jakiegoś czasu i chcę, abyś go rozwiązał…\n
+    Rzadko tu widujemy obcych... Pomożesz ?\n
+    Rzadko tu widujemy obcych... Zrobiłbyś mi przysługę?\n
+    Nie jesteś stąd, co nie? Zrobisz coś dla mnie?\n
+    Nie jesteś stąd, co nie? Mogę Cię prosić o przysługę?\n
+    Skąd pochodzisz? Nie wiem, czy nie proszę o zbyt wiele, a konkretnie o to...\n
+    Ah, jeżeliś taki silny, to może mi pomożesz w czymś?\n
+    Jestem w tarapatach i potrzebuję pomocy. Udzielisz mi jej?\n
+    Zanim odejdziesz, pomożesz mi? To sprawa niecierpiącej zwłoki…\n
+    Zanim odejdziesz, pomożesz?\n
+    Zanim odejdziesz, pomógłbyś mi?\n
+    Zanim pójdziesz, pomożesz?\n
+    Zanim pójdziesz, poratowałbyś mnie?\n
+    Zanim pójdziesz, mógłbym prosić Cię o przysługę?\n
+    Pomożesz mi w czymś?\n
+    Proszę, pomóz mi...\n
+    Ładnie proszę, pomóż mi w czymś.\n
+    Słyszałem, że kawał z Ciebie bohatera. Więc jak będzie, pomożesz?
         ]]>
     </string>
 
@@ -1010,23 +1010,23 @@
     <!-- Do not translate this, instead, each language should have its own quotes, pop culture references, some kind of jokes, etc… -->
     <string name="villager_quotes" translatable="false">
         <![CDATA[
-    Buy more, buy more now. Buy and be happy.\n
-    Our time is yours.\n
-    Do it for the fat lady.\n
-    From this moment we travel together East. Always to the East.\n
-    Stay away from normal people. They\'re stupid.\n
-    To what do we owe the extreme pleasure of this surprising visit?\n
+    Pokażę Ci swoje towary.\n
+    Ciemność, widzę ciemność!\n
+    Broda mędrcem nie czyni.\n
+    Kierunek - wschód! Tam musi być jakaś cywilizacja!\n
+    Nie debatuj z idiotami. Sprowadzą Cię do swojego poziomu a potem pokonają doświadczeniem.\n
+    Zależy jak leży.\n
     Klaatu barada nikto.\n
-    Wake up, we\'re here. Why are you shaking? Are you okay?\n
-    Your mission was to retrieve Dr. Durand Durand from Tau Ceti!\n
-    Out here on the perimeter there are no stars.\n
-    I only can see in black and white…\n
-    I don\'t know why you gotta be so undemanding.\n
-    You need chaos inside to give birth to a dancing star.\n
-    Involving yourself in status quo creativity is counter-revolutionary!\n
-    We constructed pyramids in honour of our escaping.\n
-    No eternal reward will forgive us now for wasting the dawn.\n
-    Can\'t live without a spinal cord, son.\n
+    Ja Cię kocham, a ty śpisz.\n
+    Ograniczenia są dla innych!\n
+    Na koniec świata i jeszcze dalej!\n
+    Nikt mnie nie przekona, że czarne jest czarne a białe jest białe!\n
+    Ja lubie wolmo.\n
+    Tyle słońca w całym świecie, nie widziałeś tego jeszcze!\n
+    Mówienie prawdy w epoce zakłamania jest rewolucyjnym czynem!\n
+    Ja lubie szypko.\n
+    Nie patrzcie na człowieka, jeno na jego uczynki..\n
+    Bez Boga ani do proga.\n
     Kain refused the sacrifice.\n
     Now how about cuttin the rebop?\n
     There may be other universes, but ours seems to be based on war and games.\n
