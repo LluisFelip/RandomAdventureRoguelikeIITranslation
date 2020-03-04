@@ -3427,5 +3427,9 @@
     <string name="cassette_collections">Collections</string>
     <string name="collection_dungeons">Dungeons</string>
     <string name="button_play">Play</string>
+    <string name="cassette_rar1_menu">RAR I - Menu</string>
+    <string name="cassette_rar1_journey">RAR I - Journey</string>
+    <string name="cassette_rar1_game_over">RAR I - Game Over</string>
+    <string name="cassette_rar1_collections">RAR I - Collections</string>
 
 </resources>
