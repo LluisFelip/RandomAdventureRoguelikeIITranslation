@@ -3425,5 +3425,7 @@
     <string name="cassette_journey">Journey</string>
     <string name="cassette_game_over">Game Over</string>
     <string name="cassette_collections">Collections</string>
+    <string name="collection_dungeons">Dungeons</string>
+    <string name="button_play">Play</string>
 
 </resources>
