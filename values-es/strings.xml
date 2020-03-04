@@ -630,7 +630,7 @@
     <string name="tile_type_giant_nest">Nido de Gigantes</string>
     <string name="tile_type_crater">Cráter</string>
     <string name="tile_type_witch_hut">Cabaña de la Bruja</string>
-    <string name="tile_type_tyrant_quarters">Cuártel del Tirano</string>
+    <string name="tile_type_tyrant_quarters">Cuartel del Tirano</string>
     <string name="tile_type_oasis">Oasis</string>
     <string name="tile_type_pyramid">Pirámide</string>
     <string name="tile_type_frozen_cave">Cueva Helada</string>
@@ -3266,7 +3266,7 @@
     <string name="dungeon_old_tomb">&font_stone;Tumba &font_end;&font_silver;Vieja&font_end;</string>
     <string name="dungeon_ancient_ruins">&font_ruins;Ruinas &font_end;&font_gold;Antiguas&font_end;</string>
     <string name="dungeon_big_cave">&font_stone;Gran &font_end;&font_end;&font_cave;Cueva&font_end;</string>
-    <string name="dungeon_icy_cave">&font_cave;Cueva&font_end;&font_ice;Helada&font_end;</string>
+    <string name="dungeon_icy_cave">&font_cave;Cueva &font_end;&font_ice;Helada&font_end;</string>
     <string name="dungeon_lava_cave">&font_cave;Cueva &font_end;&font_red;Lava&font_end;</string>
 
     <string name="dungeon_exit">Salir</string>
