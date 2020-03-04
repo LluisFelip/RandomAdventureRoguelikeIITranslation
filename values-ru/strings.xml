@@ -3354,7 +3354,7 @@
     <string name="title_the_creator_female">%1$s, the &font_asterisk_creator;Creator&font_end;</string>
     <string name="title_the_creator_no_gender">%1$s, the &font_asterisk_creator;Creator&font_end;</string>
 
-    <string name="wise_have_creator_medal">… you … you are unbelievable! You met The &font_asterisk_creator;Creator&font_end;? You killed him and obtained %s? I\'m afraid the only thing left to do for you is to Ascend…</string>
+    <string name="wise_have_creator_medal">You… you are unbelievable! You killed the &font_asterisk_creator;Creator &font_end;and obtained a %s? I\'m afraid the only thing left to do for you is to &font_asterisk_creator;Ascend&font_end;…</string>
 
     <string name="wise_ascend_message_1">You want to &font_alchemist;Ascend&font_end;?</string>
     <string name="creator_appeared_title">&font_asterisk_creator;The Creator &font_end;Appeared</string>
