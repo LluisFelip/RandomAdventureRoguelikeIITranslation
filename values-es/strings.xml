@@ -3308,60 +3308,66 @@
 
     <!-- FIXME: TRANSLATE TO SPANISH -->
 
-    <string name="food_cooked_fish">&font_white;Cooked &font_end;&font_blue;Fish&font_end;</string>
-    <string name="share_dialog_title">Share</string>
-    <string name="share_dialog_message">Share your hero\'s status as an image or as text!</string>
-    <string name="button_share_image">As Image</string>
-    <string name="button_share_text">As Text</string>
+    <string name="food_cooked_fish">&font_blue;Pescado &font_end;&font_white;Cocinado&font_end;</string>
+    <string name="share_dialog_title">Compartir</string>
+    <string name="share_dialog_message">¡Comparte tu héroe como una imagen o como texto!</string>
+    <string name="button_share_image">Como Imagen</string>
+    <string name="button_share_text">Como Texto</string>
 
-    <string name="material_type_beetle_talisman">&font_beetle_talisman;Beetle Talisman&font_end;</string>
+    <string name="material_type_beetle_talisman">&font_beetle_talisman;Talismán Escarabajo&font_end;</string>
 
-    <string name="pyramid_its_closed">It\'s closed…</string>
-    <string name="pyramid_its_closed_can_open">It\'s closed but it seems to be reacting with your &font_beetle_talisman;Beetle Talisman&font_end;…</string>
-    <string name="pyramid_interact">Interact</string>
-    <string name="pyramid_opened">The pyramid absorbs the &font_beetle_talisman;Beetle Talisman &font_end;and opens!</string>
+    <string name="pyramid_its_closed">Está cerrada…</string>
+    <string name="pyramid_its_closed_can_open">Está cerrada pero parece que tu &font_beetle_talisman;Talismán Escarabajo &font_end;está reaccionando…</string>
+    <string name="pyramid_interact">Interactuar</string>
+    <string name="pyramid_opened">La Pirámide absorbe el &font_beetle_talisman;Talismán Escarabajo &font_end;y se abre!</string>
 
     <string name="material_type_jade">&font_jade;Jade&font_end;</string>
-    <string name="material_type_quartz">&font_quartz;Quartz&font_end;</string>
+    <string name="material_type_quartz">&font_quartz;Quarzo&font_end;</string>
     <string name="material_type_jasper">&font_jasper;Jasper&font_end;</string>
-    <string name="material_type_sodalite">&font_sodalite;Sodalite&font_end;</string>
+    <string name="material_type_sodalite">&font_sodalite;Sodalita&font_end;</string>
     <string name="material_type_onyx">&font_onyx;Onyx&font_end;</string>
-    <string name="material_type_serpentine">&font_serpentine;Serpentine&font_end;</string>
-    <string name="material_type_aragonite">&font_aragonite;Aragonite&font_end;</string>
+    <string name="material_type_serpentine">&font_serpentine;Serpentina&font_end;</string>
+    <string name="material_type_aragonite">&font_aragonite;Aragonita&font_end;</string>
 
-    <string name="material_type_saphir">&font_saphir;Saphir&font_end;</string>
-    <string name="material_type_ruby">&font_ruby;Ruby&font_end;</string>
+    <string name="material_type_saphir">&font_saphir;Zafiro&font_end;</string>
+    <string name="material_type_ruby">&font_ruby;Rubí&font_end;</string>
 
     <string name="material_type_ankh">&font_gold;Ankh&font_end;</string>
 
-    <string name="material_type_infinity_energy">&font_infinity;Infinity &font_end;&font_cyan;Energy&font_end;</string>
-    <string name="material_type_creator_medal">&font_asterisk_creator;Creator &font_end;&font_white;Medal&font_end;</string>
-    <string name="achievement_name_capture_creator">How could you?!</string>
-    <string name="achievement_name_desc_capture_creator">Capture the Creator!</string>
+    <string name="material_type_infinity_energy">&font_cyan;Energía &font_end;&font_infinity;Infinita&font_end;</string>
+    <string name="material_type_creator_medal">&font_white;Medalla &font_end;del &font_asterisk_creator;Creador&font_end;</string>
+    <string name="achievement_name_capture_creator">¿Cómo has podido?</string>
+    <string name="achievement_name_desc_capture_creator">¡Captura a El Creador!</string>
 
-    <string name="title_the_creator_male">%1$s, the &font_asterisk_creator;Creator&font_end;</string>
-    <string name="title_the_creator_female">%1$s, the &font_asterisk_creator;Creator&font_end;</string>
-    <string name="title_the_creator_no_gender">%1$s, the &font_asterisk_creator;Creator&font_end;</string>
+    <string name="title_the_creator_male">%1$s, el &font_asterisk_creator;Creador&font_end;</string>
+    <string name="title_the_creator_female">%1$s, la &font_asterisk_creator;Creadora&font_end;</string>
+    <string name="title_the_creator_no_gender">%1$s, &font_asterisk_creator;Creadorx&font_end;</string>
 
-    <string name="wise_have_creator_medal">… you … you are unbelievable! You met The &font_asterisk_creator;Creator&font_end;? You killed him and obtained %s? I\'m afraid the only thing left to do for you is to Ascend…</string>
+    <string name="wise_have_creator_medal">… tú …¡eres increíble! ¿Has encontrado al &font_asterisk_creator;Creador&font_end;? ¿Le has matado y has obtenido %s? Me temo que lo único que te queda por hacer ahora es &font_alchemist;Ascender&font_end;…</string>
 
-    <string name="wise_ascend_message_1">You want to &font_alchemist;Ascend&font_end;?</string>
-    <string name="creator_appeared_title">&font_asterisk_creator;The Creator &font_end;Appeared</string>
-    <string name="creator_appeared_message">Suddenly, a supreme being, nothing like you\'ve seen before, appears in front of you… And, you know, deep inside, this is nothing else than… &font_asterisk_creator;Archison&font_end;, &font_asterisk_creator;The Creator&font_end;.</string>
-    <string name="combat_monster_healed_completely">%s healed completely!</string>
+    <string name="wise_ascend_message_1">¿Quieres &font_alchemist;Ascender&font_end;?</string>
 
-    <string name="item_info_creator_medal">It is a bright medal, a memory of the time you killed &font_asterisk_creator;The Creator&font_end;.</string>
+    <string name="creator_appeared_title">¡El &font_asterisk_creator;Creador &font_end;ha aparecido!</string>
+    <string name="creator_appeared_message">De repente, un ser superior, como nada que hayas visto hasta ahora, aparece frente a tí… Y, sabes, dentro de tí, que se trata de… &font_asterisk_creator;Archison&font_end;, el &font_asterisk_creator;Creador&font_end;.</string>
 
-    <string name="wise_main_story_island_first_message">Hello, hero! I\'ll be here if you need help!&br;&br;Talk to me if you need to rest or if you want to leave this place…</string>
-    <string name="wise_main_story_island_second_message">Do you want to restore your &font_health;health &font_end;, &font_mana;mana &font_end;and &font_hunger;hunger &font_end;for &font_gold;%1$d gold&font_end;? (A &font_primary_light;&italic;[CHECKPOINT] &italic_end;&font_end;will be saved)&br;&br;…or…&br;&br;Do you want to leave this place? It will disappear forever, you\'ll lose half of the &font_gold;gold &font_end;you are carrying, half from the &font_gold;BANK&font_end;, and you\'ll have to start looking for the &font_cyan;Pieces Of Map &font_end;again.</string>
-    <string name="wise_leave_island_confirmation_message">Are you sure you want to leave?&br;&br;This place will disappear forever, you\'ll lose half of the &font_gold;gold &font_end;you are carrying, half from the &font_gold;BANK&font_end;, and you\'ll have to start looking for the &font_cyan;Pieces Of Map &font_end;again.</string>
+    <string name="combat_monster_healed_completely">¡%s se cura completamente!</string>
 
-    <string name="button_rest">Rest</string>
-    <string name="button_leave_island">Leave</string>
+    <string name="item_info_creator_medal">Es una medalla brillante, un recuerdo de la ocasión en la que mataste al &font_asterisk_creator;Creador&font_end;.</string>
 
-    <string name="wise_completely_rested">You feel completely rested!</string>
-    <string name="wise_main_story_island_lost_gold_and_memory">You lost some &font_gold;gold &font_end;and some of your memories…</string>
+    <string name="wise_main_story_island_first_message">Hola, héroe! Estaré aquí si me necesitas.&br;&br;Habla conmigo si quieres descansar o si quieres abandonar este lugar…</string>
+    <string name="wise_main_story_island_second_message">¿Quieres recuperar tu &font_health;salud &font_end;, &font_mana;maná &font_end;y &font_hunger;hambre &font_end;por &font_gold;%1$d &font_end;monedas de &font_gold;oro&font_end;? (Se guardará un &font_primary_light;&italic;[CHECKPOINT] &italic_end;&font_end;)&br;&br;…o…&br;&br;¿Quieres abandonar este lugar? Desaparecerá para siempre, perderás la mitad de tu &font_gold;oro &font_end;, incluído el del &font_gold;Banco&font_end;, y tendrás que buscar las &font_cyan;Piezas de Mapa &font_end;de nuevo…</string>
+    <string name="wise_leave_island_confirmation_message">¿Estás seguro de que te quieres ir?&br;&br;Desaparecerá para siempre, perderás la mitad de tu &font_gold;oro &font_end;, incluído el del &font_gold;Banco&font_end;, y tendrás que buscar las &font_cyan;Piezas de Mapa &font_end;de nuevo…</string>
 
-    <string name="creator_pre_combat_message">Finally! After all this time, watching you, laughing at your stupid deaths, you are finally strong enough to at least bear my presence… Let\'s see how quick I KILL YOU. Mmmmmwwwwahahahahahahaha!</string>
+    <string name="button_rest">Descansar</string>
+    <string name="button_leave_island">Irse</string>
+
+    <string name="wise_completely_rested">¡Te sientes completamente recuperado!</string>
+    <string name="wise_main_story_island_lost_gold_and_memory">Has perdido tu &font_gold;oro &font_end;y algunos de tus recuerdos…</string>
+
+    <string name="creator_pre_combat_message_1">Sabes… No es fácil ser el &font_asterisk_creator;Creador&font_end;. Always coding, adding greater challenges, fixing bugs, answering emails, chatting in discord, reddit, the web, etc…</string>
+    <string name="creator_pre_combat_message_2">And all of it for what? Tell me, why am I supposed to do this? I can\'t stand the pressure anymore…!</string>
+    <string name="creator_pre_combat_message_3">GET READY TO DIE! Mmmmmwwwwahahahahahahaha!</string>
+
+    <string name="void_master_after_killing_text_4">Well well… You are wearing a complete set of the &font_void;Void&font_end;… Here you are, you will know what to do with it…</string>
 
 </resources>
