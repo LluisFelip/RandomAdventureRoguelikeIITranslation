@@ -3361,12 +3361,31 @@
     <string name="wise_completely_rested">¡Te sientes completamente recuperado!</string>
     <string name="wise_main_story_island_lost_gold_and_memory">Has perdido tu &font_gold;oro &font_end;y algunos de tus recuerdos…</string>
 
-    <!-- FIXME: TRANSLATE TO SPANISH -->
+    <string name="creator_pre_combat_message_1">Sabes… No es fácil ser el &font_asterisk_creator;Creador&font_end;. Siempre programando, añadiendo nuevos retos, corrigiendo errores, contestando los mails, chateando en Discord, Reddit, la web, etc…</string>
+    <string name="creator_pre_combat_message_2">¿Y todo eso para qué? Dime, ¿por qué se supone que estoy haciendo esto? No puedo soportar la presión más…!</string>
+    <string name="creator_pre_combat_message_3">¡PREPÁRATE PARA MORIR! Mmmmmwwwwahahahahahahaha!</string>
 
-    <string name="creator_pre_combat_message_1">Sabes… No es fácil ser el &font_asterisk_creator;Creador&font_end;. Always coding, adding greater challenges, fixing bugs, answering emails, chatting in discord, reddit, the web, etc…</string>
-    <string name="creator_pre_combat_message_2">And all of it for what? Tell me, why am I supposed to do this? I can\'t stand the pressure anymore…!</string>
-    <string name="creator_pre_combat_message_3">GET READY TO DIE! Mmmmmwwwwahahahahahahaha!</string>
+    <string name="void_master_after_killing_text_4">Vaya, vaya… Llevas un set completo del &font_void;Vacío&font_end;… Toma, coge esto, tú sabrás lo que debes hacer con ello…</string>
 
-    <string name="void_master_after_killing_text_4">Well well… You are wearing a complete set of the &font_void;Void&font_end;… Here you are, you will know what to do with it…</string>
+    <string name="dungeon_infinite_vortex">&font_void;Vórtice &font_end;&font_infinity;Infinito&font_end;</string>
+    <string name="collection_tiles">Tiles</string>
+    <string name="collection_cassettes">Casetes</string>
+    <string name="cassette_menu">Menú</string>
+    <string name="cassette_new_game">Juego Nuevo</string>
+    <string name="cassette_journey">Aventura</string>
+    <string name="cassette_game_over">Game Over</string>
+    <string name="cassette_collections">Colecciones</string>
+    <string name="collection_dungeons">Mazmorras</string>
+
+    <string name="button_play">Reproducir</string>
+
+    <string name="cassette_rar1_menu">RAR I - Menú</string>
+    <string name="cassette_rar1_journey">RAR I - Aventura</string>
+    <string name="cassette_rar1_game_over">RAR I - Game Over</string>
+    <string name="cassette_rar1_collections">RAR I - Colecciones</string>
+
+    <string name="tile_content_type_cassette">&font_alchemist;Casete&font_end;</string>
+    <string name="cassette_name">&font_alchemist;Casete &font_end;(%s)</string>
+    <string name="item_info_cassette">Parece ser un tipo de reliquia… Quién sabe cómo y para qué se usará…</string>
 
 </resources>

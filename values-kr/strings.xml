@@ -3397,4 +3397,25 @@
     <string name="creator_pre_combat_message_3">GET READY TO DIE! Mmmmmwwwwahahahahahahaha!</string>
 
     <string name="void_master_after_killing_text_4">Well well… You are wearing a complete set of the &font_void;Void&font_end;… Here you are, you will know what to do with it…</string>
+
+    <string name="dungeon_infinite_vortex">&font_infinity;Infinite &font_end;&font_void;Vortex&font_end;</string>
+    <string name="collection_tiles">Tiles</string>
+    <string name="collection_cassettes">Cassettes</string>
+    <string name="cassette_menu">Menu</string>
+    <string name="cassette_new_game">New Game</string>
+    <string name="cassette_journey">Journey</string>
+    <string name="cassette_game_over">Game Over</string>
+    <string name="cassette_collections">Collections</string>
+    <string name="collection_dungeons">Dungeons</string>
+
+    <string name="button_play">Play</string>
+
+    <string name="cassette_rar1_menu">RAR I - Menu</string>
+    <string name="cassette_rar1_journey">RAR I - Journey</string>
+    <string name="cassette_rar1_game_over">RAR I - Game Over</string>
+    <string name="cassette_rar1_collections">RAR I - Collections</string>
+
+    <string name="tile_content_type_cassette">&font_alchemist;Cassette&font_end;</string>
+    <string name="cassette_name">&font_alchemist;Cassette &font_end;(%s)</string>
+    <string name="item_info_cassette">This seems to be an ancient relic of sorts. Who knows what is this used for…</string>
 </resources>
