@@ -3411,10 +3411,12 @@
     <string name="wise_completely_rested">You feel completely rested!</string>
     <string name="wise_main_story_island_lost_gold_and_memory">You lost some &font_gold;gold &font_end;and some of your memories…</string>
 
+    <!-- FIXME: Update strings -->
     <string name="creator_pre_combat_message_1">You know… It\’s not easy to be &font_asterisk_creator;The Creator&font_end;… Siempre programando, añadiendo nuevos retos, corrigiendo fallos, contestando correos, atendiendo en Discord, Reddit, publicando nuevos post… Bueno, no sé si sabes de lo que te hablo, ¡qué más da!</string>
     <string name="creator_pre_combat_message_2">¿Y todo eso para qué? Dime, ¿por qué se supone que debo hacer todo esto? ¡No puedo soportar la presión mucho más!</string>
     <string name="creator_pre_combat_message_3">¡PREPÁRATE PARA MORIR! Mmmmmwwwwahahahahahahaha!</string>
 
     <string name="void_master_after_killing_text_4">Vaya, vaya… Llevas un set completo del &font_void;Vacío&font_end;… Toma, coge esto, tú sabrás lo que debes hacer con ello…</string>
+    <string name="dungeon_infinite_vortex">&font_infinity;;Infinite &font_end;&font_void;Vortex&font_end;</string>
 
 </resources>
