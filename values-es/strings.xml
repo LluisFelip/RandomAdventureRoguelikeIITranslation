@@ -3305,9 +3305,6 @@
 
     <string name="dead_reason_unknown">¡Mueres!</string>
 
-
-    <!-- FIXME: TRANSLATE TO SPANISH -->
-
     <string name="food_cooked_fish">&font_blue;Pescado &font_end;&font_white;Cocinado&font_end;</string>
     <string name="share_dialog_title">Compartir</string>
     <string name="share_dialog_message">¡Comparte tu héroe como una imagen o como texto!</string>
@@ -3363,6 +3360,8 @@
 
     <string name="wise_completely_rested">¡Te sientes completamente recuperado!</string>
     <string name="wise_main_story_island_lost_gold_and_memory">Has perdido tu &font_gold;oro &font_end;y algunos de tus recuerdos…</string>
+
+    <!-- FIXME: TRANSLATE TO SPANISH -->
 
     <string name="creator_pre_combat_message_1">Sabes… No es fácil ser el &font_asterisk_creator;Creador&font_end;. Always coding, adding greater challenges, fixing bugs, answering emails, chatting in discord, reddit, the web, etc…</string>
     <string name="creator_pre_combat_message_2">And all of it for what? Tell me, why am I supposed to do this? I can\'t stand the pressure anymore…!</string>
