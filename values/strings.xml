@@ -3464,7 +3464,7 @@
     <string name="tile_content_type_cassette_collector">&font_alchemist;Cassette &font_end;&font_gold;Collector&font_end;</string>
     <string name="tile_content_type_cassette_collector_with_gem">&font_alchemist;Cassette &font_end;&font_gold;Collector &font_end;(%s)</string>
 
-    <string name="cassette_collector_message">Hello! I\'m a &font_alchemist;Cassette &font_end;&font_gold;Colletor&font_end;!&br;&br;If you happen to have any &font_alchemist;Cassette&font_end;, would you give it to me? I would give you a %1$s in exchange…</string>
+    <string name="cassette_collector_message">Hello! I\'m a &font_alchemist;Cassette &font_end;&font_gold;Collector&font_end;!&br;&br;If you happen to have any &font_alchemist;Cassette&font_end;, would you give it to me? I would give you a %1$s in exchange…</string>
     <string name="cassette_collector_you_dont_have_any_cassette">You don\'t have any &font_alchemist;Cassette&font_end;…</string>
 
     <string name="collection_material">Material</string>
@@ -3473,7 +3473,7 @@
     <string name="material_type_green_opal">&font_green;Green &font_end;&font_onyx;Opal&font_end;</string>
     <string name="material_type_blue_opal">&font_blue;Blue &font_end;&font_onyx;Opal&font_end;</string>
 
-    <string name="sphinx_info_with_ankh">You look at the giant &font_pyramid;Sphinx &font_end;and are amazed about its size and beauty. It seems pretty old. The &font_gold;Ankh &font_end;in your pocket starts to vibrate. Do you want to use it?</string>
+    <string name="sphinx_info_with_ankh">You look at the giant &font_pyramid;Sphinx &font_end;and are amazed about its size and beauty. It seems pretty old.&br;&br;The &font_gold;Ankh &font_end;in your pocket starts to vibrate. Do you want to use it?</string>
     <string name="monster_appears">%s appears!</string>
 
     <string name="monster_action_shadow_ray">Shadow Ray</string>
@@ -3483,4 +3483,15 @@
     <string name="monster_action_game_glitch">Game Glitch</string>
     <string name="monster_action_reality_crash">Reality Crash</string>
 
+    <string name="item_info_ankh">It seems to have a small drawing of a &font_pyramid;Sphinx&font_end;…</string>
+
+    <string name="inventory_use_red_opal">Use &font_red;Red &font_end;&font_onyx;Opal &font_end;to increase your max. hunger by &font_hunger;%1$d&font_end;.</string>
+    <string name="inventory_use_green_opal">Use &font_green;Green &font_end;&font_onyx;Opal &font_end;to increase your max. health by &font_health;%1$d&font_end;.</string>
+    <string name="inventory_use_blue_opal">Use &font_blue;Blue &font_end;&font_onyx;Opal &font_end;to increase your max. mana by &font_mana;%1$d&font_end;.</string>
+    <string name="inventory_use_infinity_energy">Use &font_infinity;Infinity &font_end;&font_cyan;Energy &font_end;to completely restore your &font_health;health &font_end;, &font_mana;mana &font_end;and &font_hunger;hunger&font_end;.</string>
+
+    <string name="inventory_used_infinity_energy">Used &font_infinity;Infinity &font_end;&font_cyan;Energy&font_end;!</string>
+
+    <string name="item_info_ascension_flame">You feel this &asterisk_ascend_color;Ascension &font_end;&font_red;Flame &font_end;
+        is the most powerful thing you\'ve ever touched… You wonder what may this be used for…</string>
 </resources>
