@@ -3459,4 +3459,6 @@
 
     <string name="main_story_7_the_tyrant_message_6_new">Use this &font_wood;Stairway &font_end;To &font_red;Hell &font_end;to find him…</string>
 
+    <string name="text_cant_move_here">Can\'t move here…</string>
+
 </resources>

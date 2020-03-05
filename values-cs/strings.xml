@@ -3392,6 +3392,14 @@
     <string name="wise_completely_rested">You feel completely rested!</string>
     <string name="wise_main_story_island_lost_gold_and_memory">You lost some &font_gold;gold &font_end;and some of your memories…</string>
 
-    <string name="creator_pre_combat_message">Finally! After all this time, watching you, laughing at your stupid deaths, you are finally strong enough to at least bear my presence… Let\'s see how quick I KILL YOU. Mmmmmwwwwahahahahahahaha!</string>
+    <string name="tile_content_stairway_to_hell">&font_wood;Stairway &font_end;To &font_red;Hell&font_end;</string>
+    <string name="tile_content_highway_to_heaven">&font_corrupted_god;Highway &font_end;To &font_heaven;Heaven&font_end;</string>
+
+    <string name="main_story_stairway_to_hell_advice_wont_be_able_to_come_back_to_island">If you enter the %1$s you won\'t be able to come back to %2$s!&br;&br;Enter anyway?</string>
+    <string name="main_story_7_stairway_to_hell_appears">A &font_wood;Stairway &font_end;To &font_red;Hell &font_end;appears!</string>
+
+    <string name="main_story_7_the_tyrant_message_6_new">Use this &font_wood;Stairway &font_end;To &font_red;Hell &font_end;to find him…</string>
+
+    <string name="text_cant_move_here">Can\'t move here…</string>
 
 </resources>
