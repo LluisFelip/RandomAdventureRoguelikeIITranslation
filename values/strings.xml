@@ -3416,7 +3416,8 @@
     <string name="creator_pre_combat_message_2">And all of it for what? Tell me, why am I supposed to do this? I can\'t stand the pressure anymore…!</string>
     <string name="creator_pre_combat_message_3">GET READY TO DIE! Mmmmmwwwwahahahahahahaha!</string>
 
-    <string name="void_master_after_killing_text_4">Vaya, vaya… Llevas un set completo del &font_void;Vacío&font_end;… Toma, coge esto, tú sabrás lo que debes hacer con ello…</string>
+    <string name="void_master_after_killing_text_4">Well well… You are wearing a complete set of the &font_void;Void&font_end;… Here you are, you will know what to do with it…</string>
+
     <string name="dungeon_infinite_vortex">&font_infinity;Infinite &font_end;&font_void;Vortex&font_end;</string>
     <string name="collection_tiles">Tiles</string>
     <string name="collection_cassettes">Cassettes</string>
