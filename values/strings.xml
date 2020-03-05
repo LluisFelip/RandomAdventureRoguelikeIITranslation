@@ -110,6 +110,7 @@
     <!ENTITY font_aragonite "&lt;font color=&quot;#F39965&quot;&gt;">
     <!ENTITY font_saphir "&lt;font color=&quot;#0f52ba&quot;&gt;">
     <!ENTITY font_ruby "&lt;font color=&quot;#e0115f&quot;&gt;">
+    <!ENTITY asterisk_ascend_color "&lt;font color=&quot;#9C27B0&quot;&gt;">
     ]>
 
 <resources xmlns:tools="http://schemas.android.com/tools">
@@ -210,7 +211,7 @@
     <string name="select_game_slot_asterisc_level">&font_asterisk_level;&bold;\*&bold_end;&font_end;</string>
     <string name="select_game_slot_asterisc_main_story_completed">&font_asterisk_main_story;&bold;\*&bold_end;&font_end;</string>
     <string name="select_game_slot_asterisc_void_master_killed">&font_asterisk_void_master;&bold;\*&bold_end;&font_end;</string>
-    <string name="select_game_slot_asterisc_ascended">&font_alchemist;&bold;\*&bold_end;&font_end;</string>
+    <string name="select_game_slot_asterisc_ascended">&asterisk_ascend_color;&bold;\*&bold_end;&font_end;</string>
     <string name="select_game_slot_asterisc_met_the_creator">&font_asterisk_creator;&bold;\*&bold_end;&font_end;</string>
     <string name="select_game_slot_erase_game_title">Delete game?</string>
 
@@ -434,7 +435,7 @@
     <string name="status_main_story_times">Main Story Completed Times: &font_green;%1$d&font_end;</string>
     <string name="status_void_master_times">Void Master Killed Times: &font_green;%1$d&font_end;</string>
     <string name="status_deaths">Deaths: &font_red;%1$d&font_end;</string>
-    <string name="status_ascended_times">Ascended Times: &font_green;%1$d&font_end;</string>
+    <string name="status_ascended_times">Ascended Times: &asterisk_ascend_color;%1$d&font_end;</string>
     <string name="status_met_the_creator_times">Met The Creator Times: &font_green;%1$d&font_end;</string>
     <string name="status_general">&font_cyan;General&font_end;</string>
     <string name="status_health">Health:&font_health;\t%1$d&font_end;/&font_health;%2$d&font_end;</string>
@@ -3392,9 +3393,9 @@
     <string name="title_the_creator_female">%1$s, the &font_asterisk_creator;Creator&font_end;</string>
     <string name="title_the_creator_no_gender">%1$s, the &font_asterisk_creator;Creator&font_end;</string>
 
-    <string name="wise_have_creator_medal">You… you are unbelievable! You killed the &font_asterisk_creator;Creator &font_end;and obtained a %s? I\'m afraid the only thing left to do for you is to &font_asterisk_creator;Ascend&font_end;…</string>
+    <string name="wise_have_creator_medal">You… you are unbelievable! You killed the &font_asterisk_creator;Creator &font_end;and obtained a %s? I\'m afraid the only thing left to do for you is to &asterisk_ascend_color;Ascend&font_end;…</string>
 
-    <string name="wise_ascend_message_1">You want to &font_alchemist;Ascend&font_end;?</string>
+    <string name="wise_ascend_message_1">You want to &asterisk_ascend_color;Ascend&font_end;?</string>
     <string name="creator_appeared_title">&font_asterisk_creator;The Creator &font_end;Appeared</string>
     <string name="creator_appeared_message">Suddenly, a supreme being, nothing like you\'ve seen before, appears in front of you… And, you know, deep inside, this is nothing else than… &font_asterisk_creator;Archison&font_end;, &font_asterisk_creator;The Creator&font_end;.</string>
     <string name="combat_monster_healed_completely">%s healed completely!</string>
@@ -3436,5 +3437,17 @@
     <string name="tile_content_type_cassette">&font_alchemist;Cassette&font_end;</string>
     <string name="cassette_name">&font_alchemist;Cassette &font_end;(%s)</string>
     <string name="item_info_cassette">This seems to be an ancient relic of sorts. Who knows what is this used for…</string>
+
+    <string name="wise_ascend_message_confirmation">If you &asterisk_ascend_color;Ascend&font_end;, you\'ll start over from level 1. You\'ll forget every island, quest, etc…, and you\'ll lose all your items, your gold… BUT, you\'ll have improved starting stats, you\'ll obtain an &asterisk_ascend_color;Ascension &font_end;&font_red;Flame&font_end;…!</string>
+    <string name="wise_ascend_message_confirmation_2">Are you sure you want to &asterisk_ascend_color;Ascend&font_end;?</string>
+
+    <string name="ascend_toast">Everything becomes dark…</string>
+    <string name="ascend_end_toast">…you feel alive again…</string>
+
+    <string name="title_the_ascended_male">%1$s, the &asterisk_ascend_color;Ascended&font_end;</string>
+    <string name="title_the_ascended_female">%1$s, the &asterisk_ascend_color;Ascended&font_end;</string>
+    <string name="title_the_ascended_no_gender">%1$s, the &asterisk_ascend_color;Ascended&font_end;</string>
+
+    <string name="material_type_ascension_flame">&asterisk_ascend_color;Ascension &font_end;&font_red;Flame&font_end;</string>
 
 </resources>
