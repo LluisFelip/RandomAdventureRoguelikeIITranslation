@@ -3469,4 +3469,18 @@
 
     <string name="collection_material">Material</string>
 
+    <string name="material_type_red_opal">&font_red;Red &font_end;&font_onyx;Opal&font_end;</string>
+    <string name="material_type_green_opal">&font_green;Green &font_end;&font_onyx;Opal&font_end;</string>
+    <string name="material_type_blue_opal">&font_blue;Blue &font_end;&font_onyx;Opal&font_end;</string>
+
+    <string name="sphinx_info_with_ankh">You look at the giant &font_pyramid;Sphinx &font_end;and are amazed about its size and beauty. It seems pretty old. The &font_gold;Ankh &font_end;in your pocket starts to vibrate. Do you want to use it?</string>
+    <string name="monster_appears">%s appears!</string>
+
+    <string name="monster_action_shadow_ray">Shadow Ray</string>
+    <string name="monster_action_infinity_punch">Infinity Punch</string>
+    <string name="monster_action_everything">Everything</string>
+    <string name="monster_action_annoying_bug">Annoying Bug</string>
+    <string name="monster_action_game_glitch">Game Glitch</string>
+    <string name="monster_action_reality_crash">Reality Crash</string>
+
 </resources>
