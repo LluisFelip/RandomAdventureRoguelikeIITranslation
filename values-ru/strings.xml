@@ -99,25 +99,9 @@
     <!ENTITY font_mark_yellow "&lt;font color=&quot;#FFFF00&quot;&gt;">
     <!ENTITY font_mark_magenta "&lt;font color=&quot;#ff00ff&quot;&gt;">
     <!ENTITY font_mark_cyan "&lt;font color=&quot;#00ffff&quot;&gt;">
-    <!ENTITY font_dungeon_boss "&lt;font color=&quot;#FF3DFF&quot;&gt;">
-    <!ENTITY font_beetle_talisman "&lt;font color=&quot;#FFAE28&quot;&gt;">
-    <!ENTITY font_jade "&lt;font color=&quot;#00a86b&quot;&gt;">
-    <!ENTITY font_quartz "&lt;font color=&quot;#e9dfe0&quot;&gt;">
-    <!ENTITY font_jasper "&lt;font color=&quot;#d73b3e&quot;&gt;">
-    <!ENTITY font_sodalite "&lt;font color=&quot;#3e5b99&quot;&gt;">
-    <!ENTITY font_onyx "&lt;font color=&quot;#666666&quot;&gt;">
-    <!ENTITY font_serpentine "&lt;font color=&quot;#78a680&quot;&gt;">
-    <!ENTITY font_aragonite "&lt;font color=&quot;#F39965&quot;&gt;">
-    <!ENTITY font_saphir "&lt;font color=&quot;#0f52ba&quot;&gt;">
-    <!ENTITY font_ruby "&lt;font color=&quot;#e0115f&quot;&gt;">
     ]>
 
 <resources xmlns:tools="http://schemas.android.com/tools">
-
-
-    <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
-    <!-- TRANSLATE                                                                               -->
-    <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
 
     <plurals name="quest_kill_monsters_text_giving" tools:ignore="MissingQuantity">
         <item quantity="one">Убей для меня %1$s %2$s монстра</item>
@@ -127,6 +111,22 @@
         <item quantity="one">Убей %1$s %2$s монстра</item>
         <item quantity="other">Убей %1$s %2$s монстра</item>
     </plurals>
+
+    <string name="marked_char_with_color" tools:ignore="MissingTranslation">[&lt;font color=\"%1$s\"&gt;%2$c&font_end;]</string>
+    <string name="mark_white" tools:ignore="MissingTranslation">&font_white;#ffffff&font_end;</string>
+    <string name="mark_red" tools:ignore="MissingTranslation">&font_red;#ff0000&font_end;</string>
+    <string name="mark_green" tools:ignore="MissingTranslation">&font_green;#00ff00&font_end;</string>
+    <string name="mark_blue" tools:ignore="MissingTranslation">&font_blue;#0000ff&font_end;</string>
+    <string name="mark_yellow" tools:ignore="MissingTranslation">&font_mark_yellow;#ffff00&font_end;</string>
+    <string name="mark_magenta" tools:ignore="MissingTranslation">&font_mark_magenta;#ff00ff&font_end;</string>
+    <string name="mark_cyan" tools:ignore="MissingTranslation">&font_mark_cyan;#00ffff&font_end;</string>
+
+    <string name="text_br" tools:ignore="MissingTranslation">&br;</string>
+
+    <string name="app_name">RAR II</string>
+    <string name="menu_title">Random Adventure&line_break;Roguelike&line_break;II</string>
+    <string name="title_">Random&line_break;Adventure&line_break;Roguelike</string>
+    <string name="title_2">II</string>
 
     <string name="menu_new_game">Новая игра</string>
     <string name="menu_continue_button">&font_cyan;Продолжить&font_end;&br;%1$s [&font_cyan;%2$d&font_end;]</string>
@@ -171,6 +171,7 @@
     <string name="collection_icon">Иконка Коллекций</string>
     <string name="collection_merchants_mark">Пометка Торговца</string>
     <string name="collection_insects">Насекомые</string>
+    <string name="collection_villagers">Жители</string>
     <string name="collection_animals">Животные</string>
 
     <string name="about_reddit">RAR II на Reddit</string>
@@ -220,6 +221,7 @@
     <string name="cemetery_remove_player">Удалить этого игрока?</string>
     <string name="cemetery_permadeath">(&font_red;Х&font_end;)</string>
     <string name="cemetery_no_permadeath">(&font_green;Н&font_end;)</string>
+    <string name="cemetery_died_at">Умер &font_cyan;%1$d&font_end;, &font_cyan;%2$d &font_end;in &font_cyan;%3$s&font_end;</string>
 
     <string name="button_permadeath">Хардкор</string>
     <string name="button_no_permadeath">Обычный</string>
@@ -325,8 +327,7 @@
     <string name="button_scrap_per_gold">Фрагменты: &font_gold;%1$d&font_end; Золота</string>
     <string name="button_feedback">&font_cyan;Отзыв&font_end;</string>
     <string name="button_blacksmith_upgrade_equipment">Улучшить &font_green;\*&font_end;Снаряжение</string>
-    <string name="button_blacksmith_scrap_equipment">&font_copper;Разобрать&font_end;
-        Снаряжениеt</string>
+    <string name="button_blacksmith_scrap_equipment">&font_copper;Разобрать&font_end; Снаряжениеt</string>
     <string name="button_blacksmith_craft_bars">Создать &font_gold;Слитки&font_end;</string>
     <string name="button_scrap">Разобрать</string>
 
@@ -344,9 +345,11 @@
     <string name="inventory_cooked_thing">Приготовил %1$s!</string>
     <string name="inventory_pickup">Подобрал %1$s!</string>
     <string name="inventory_damaged_by">Получил %1$s урона!</string>
+    <string name="inventory_equipped_wielded_symbol"><![CDATA[>]]></string>
     <string name="inventory_pickup_gold">Подобрал &font_gold;%1$d&font_end; золота!</string>
     <string name="inventory_required_level_x">&italic;Необходимый уровень: &font_cyan;%1$d&font_end;&italic_end;</string>
     <string name="inventory_palm_tree_drop">%1$s упал с &font_coconut;Пальмы&font_end;!</string>
+    <string name="inventory_equipment_title">&font_wood;Снаряжение&font_end;</string>
     <string name="inventory_equipment_title_with_level">&font_wood;Снаряжение &font_end;[&font_wood;µ&font_end;: &font_cyan;%1$d&font_end;]</string>
     <string name="inventory_equipment_empty">(пусто)</string>
     <string name="inventory_not_enough_space">Ваш инвентарь &font_red;полон&font_end;!</string>
@@ -513,7 +516,7 @@
     <string name="item_info_merchants_mark">Этот знак может быть ценен для чего-то, ил кого-то…</string>
     <string name="item_info_tool_chopping_axe">Используйте, чтобы &font_wood;рубить деревья &font_end;для добычи &font_wood;Дерева&font_end;.</string>
     <string name="item_info_tool_pickaxe">Используйте, чтобы &font_stone;долбить камни &font_end;для добычи &font_stone;Камня &font_end;и других минералов.</string>
-    <string name="item_info_tool_fishing_rod">Используйте, чтобы &font_cyan;рыбачить &font_end;в &font_cyan;Рыбных местах&font_end;.</string>
+    <string name="item_info_tool_fishing_rod">Используйте, чтобы &font_cyan;рыбачить&font_end; в &font_cyan;Рыбных местах&font_end;.</string>
     <string name="item_info_tool_net">Используйте для ловли &font_insect;Насекомых&font_end;.</string>
     <string name="item_info_tool_skinning_knife">Используйте для &font_skin;освежевания &font_end;&font_green;тела монстра &font_end;, чтобы получить &font_skin;Шкуру&font_end;.</string>
     <string name="item_info_tool_meat_cleaver">Используйте для разделки&font_green;тела монстра &font_end;, чтобы получить &font_green;Плоть Монстра&font_end;.</string>
@@ -528,7 +531,7 @@
     <string name="item_info_teleport_stone">Используйте для перемещения в последнюю &font_inn;Гостиницу &font_end;в которой вы спали, или в вашу начальную точку на этом &font_cyan;острове&font_end;.</string>
     <string name="item_info_piece_of_map">&font_cyan;Кусок Карты&font_end;. Чтобы понять что это, найдите больше кусков…</string>
     <string name="item_info_dark_orb">Мистическая &font_dark_orb;Тёмная Сфера&font_end;. А вы чего ожидали?</string>
-    <string name="item_info_bomb_normal">Бросьте &font_bomb;Бомбу &font_end;во врага во время битвы.</string>
+    <string name="item_info_bomb_normal">Бросьте &font_bomb;Бомбу&font_end; во врага во время битвы.</string>
     <string name="item_info_bomb_fire">Бросьте &font_attack;Огненную&font_end; &font_bomb;Бомбу &font_end;во врага во время боя. Может &font_attack;поджечь&font_end;.</string>
     <string name="item_info_bomb_ice">Бросьте &font_ice;Морозную&font_end; &font_bomb;Бомбу &font_end;во врага во время сражения. Может &font_ice;заморозить &font_end;.</string>
     <string name="item_info_bomb_electric">Бросьте &font_electric;Электрическую &font_end;&font_bomb;Бомбу &font_end;во врага во время схватки. Может &font_electric;парализовать &font_end;.</string>
@@ -828,6 +831,7 @@
     <string name="food_milk">Молоко</string>
     <string name="food_cereal">Cereal</string>
     <string name="food_fruit">Фрукт</string>
+    <string name="food_cooked_meat">Приготовленное мясо</string>
     <string name="food_egg">Яйцо</string>
     <string name="food_tomato">Помидор</string>
     <string name="food_cheese">Сыр</string>
@@ -838,8 +842,7 @@
         &font_health;Здоровье&font_end; увеличено на &font_health;%1$d&font_end;&br;
         &font_mana;Мана&font_end; увеличена на &font_mana;%2$d&font_end;&br; &font_attack;Attack&font_end;
         увеличена на &font_attack;%3$d&font_end;&br; &font_defense;Защита&font_end;
-        увеличена на &font_defense;%4$d&font_end;&br; &font_speed;Скорость&font_end;
-        увеличена на &font_speed;%5$d&font_end;&br;
+        увеличена на &font_defense;%4$d&font_end;&br; &font_speed;Скорость&font_end; увеличена на &font_speed;%5$d&font_end;&br;
         &font_mana;Интеллект&font_end; увеличен на &font_mana;%6$d&font_end;&br;
     </string>
 
@@ -1103,58 +1106,58 @@
     <string name="quest_find_lost_item_item_name_017" tools:ignore="UnusedResources">дневник короля</string>
     <string name="quest_find_lost_item_item_name_018" tools:ignore="UnusedResources">золотой зуб</string>
     <string name="quest_find_lost_item_item_name_019" tools:ignore="UnusedResources">игрушка</string>
-    <string name="quest_find_lost_item_item_name_020" tools:ignore="UnusedResources">aперчатка</string>
+    <string name="quest_find_lost_item_item_name_020" tools:ignore="UnusedResources">перчатка</string>
     <string name="quest_find_lost_item_item_name_021" tools:ignore="UnusedResources">разбитая тыква</string>
     <string name="quest_find_lost_item_item_name_022" tools:ignore="UnusedResources">клочок бумаги</string>
     <string name="quest_find_lost_item_item_name_023" tools:ignore="UnusedResources">любовное письмо</string>
-    <string name="quest_find_lost_item_item_name_024" tools:ignore="UnusedResources">a beer can</string>
-    <string name="quest_find_lost_item_item_name_025" tools:ignore="UnusedResources">a wine bottle</string>
-    <string name="quest_find_lost_item_item_name_026" tools:ignore="UnusedResources">a newspaper</string>
-    <string name="quest_find_lost_item_item_name_027" tools:ignore="UnusedResources">a golf stick</string>
-    <string name="quest_find_lost_item_item_name_028" tools:ignore="UnusedResources">a screwdriver</string>
-    <string name="quest_find_lost_item_item_name_029" tools:ignore="UnusedResources">a screw</string>
-    <string name="quest_find_lost_item_item_name_030" tools:ignore="UnusedResources">a rare book</string>
-    <string name="quest_find_lost_item_item_name_031" tools:ignore="UnusedResources">a mask</string>
-    <string name="quest_find_lost_item_item_name_032" tools:ignore="UnusedResources">a cauliflower</string>
-    <string name="quest_find_lost_item_item_name_033" tools:ignore="UnusedResources">an antique coin</string>
-    <string name="quest_find_lost_item_item_name_034" tools:ignore="UnusedResources">an antique picture</string>
+    <string name="quest_find_lost_item_item_name_024" tools:ignore="UnusedResources">пивная банка</string>
+    <string name="quest_find_lost_item_item_name_025" tools:ignore="UnusedResources">бктыдка вина</string>
+    <string name="quest_find_lost_item_item_name_026" tools:ignore="UnusedResources">газета</string>
+    <string name="quest_find_lost_item_item_name_027" tools:ignore="UnusedResources">клюшка для гольфа</string>
+    <string name="quest_find_lost_item_item_name_028" tools:ignore="UnusedResources">отвертка</string>
+    <string name="quest_find_lost_item_item_name_029" tools:ignore="UnusedResources">винт</string>
+    <string name="quest_find_lost_item_item_name_030" tools:ignore="UnusedResources">редкая книга</string>
+    <string name="quest_find_lost_item_item_name_031" tools:ignore="UnusedResources">маска</string>
+    <string name="quest_find_lost_item_item_name_032" tools:ignore="UnusedResources">цветная капуста</string>
+    <string name="quest_find_lost_item_item_name_033" tools:ignore="UnusedResources">старинная монета</string>
+    <string name="quest_find_lost_item_item_name_034" tools:ignore="UnusedResources">античная картина</string>
     <string name="quest_find_lost_item_item_name_035" tools:ignore="UnusedResources">a memory</string>
-    <string name="quest_find_lost_item_item_name_036" tools:ignore="UnusedResources">a book without pages</string>
-    <string name="quest_find_lost_item_item_name_037" tools:ignore="UnusedResources">an elf\'s ear</string>
-    <string name="quest_find_lost_item_item_name_038" tools:ignore="UnusedResources">a cucumber</string>
-    <string name="quest_find_lost_item_item_name_039" tools:ignore="UnusedResources">a pickle</string>
-    <string name="quest_find_lost_item_item_name_040" tools:ignore="UnusedResources">a princes shoe</string>
-    <string name="quest_find_lost_item_item_name_041" tools:ignore="UnusedResources">a fancy dress</string>
-    <string name="quest_find_lost_item_item_name_042" tools:ignore="UnusedResources">a bag of snacks</string>
-    <string name="quest_find_lost_item_item_name_043" tools:ignore="UnusedResources">a bag of laughs</string>
-    <string name="quest_find_lost_item_item_name_044" tools:ignore="UnusedResources">a delicate vase</string>
-    <string name="quest_find_lost_item_item_name_045" tools:ignore="UnusedResources">a nail file</string>
-    <string name="quest_find_lost_item_item_name_046" tools:ignore="UnusedResources">a chalk</string>
-    <string name="quest_find_lost_item_item_name_047" tools:ignore="UnusedResources">a needle</string>
-    <string name="quest_find_lost_item_item_name_048" tools:ignore="UnusedResources">a cork</string>
-    <string name="quest_find_lost_item_item_name_049" tools:ignore="UnusedResources">a magnet</string>
-    <string name="quest_find_lost_item_item_name_050" tools:ignore="UnusedResources">a button</string>
-    <string name="quest_find_lost_item_item_name_051" tools:ignore="UnusedResources">a bookmark</string>
-    <string name="quest_find_lost_item_item_name_052" tools:ignore="UnusedResources">a red jumper</string>
-    <string name="quest_find_lost_item_item_name_053" tools:ignore="UnusedResources">a blue t-shirt</string>
-    <string name="quest_find_lost_item_item_name_054" tools:ignore="UnusedResources">a green shirt</string>
-    <string name="quest_find_lost_item_item_name_055" tools:ignore="UnusedResources">a hand mirror</string>
-    <string name="quest_find_lost_item_item_name_056" tools:ignore="UnusedResources">a used sock</string>
-    <string name="quest_find_lost_item_item_name_057" tools:ignore="UnusedResources">an old figurine</string>
-    <string name="quest_find_lost_item_item_name_058" tools:ignore="UnusedResources">a familiar face</string>
-    <string name="quest_find_lost_item_item_name_059" tools:ignore="UnusedResources">a weird stone</string>
-    <string name="quest_find_lost_item_item_name_060" tools:ignore="UnusedResources">an amazing spider</string>
-    <string name="quest_find_lost_item_item_name_061" tools:ignore="UnusedResources">a picture of a dog</string>
-    <string name="quest_find_lost_item_item_name_062" tools:ignore="UnusedResources">a picture of a cat</string>
-    <string name="quest_find_lost_item_item_name_063" tools:ignore="UnusedResources">a very valuable painting</string>
-    <string name="quest_find_lost_item_item_name_064" tools:ignore="UnusedResources">a useless tool</string>
-    <string name="quest_find_lost_item_item_name_065" tools:ignore="UnusedResources">a weird device</string>
-    <string name="quest_find_lost_item_item_name_066" tools:ignore="UnusedResources">a hate letter</string>
-    <string name="quest_find_lost_item_item_name_067" tools:ignore="UnusedResources">a bird statue</string>
-    <string name="quest_find_lost_item_item_name_068" tools:ignore="UnusedResources">a cake</string>
-    <string name="quest_find_lost_item_item_name_069" tools:ignore="UnusedResources">a zipper</string>
-    <string name="quest_find_lost_item_item_name_070" tools:ignore="UnusedResources">an elegant blouse</string>
-    <string name="quest_find_lost_item_item_name_071" tools:ignore="UnusedResources">a solar watch</string>
+    <string name="quest_find_lost_item_item_name_036" tools:ignore="UnusedResources">книга без страниц </string>
+    <string name="quest_find_lost_item_item_name_037" tools:ignore="UnusedResources">эльфийское ухо</string>
+    <string name="quest_find_lost_item_item_name_038" tools:ignore="UnusedResources">огурец</string>
+    <string name="quest_find_lost_item_item_name_039" tools:ignore="UnusedResources">рассол</string>
+    <string name="quest_find_lost_item_item_name_040" tools:ignore="UnusedResources">обувь принцев</string>
+    <string name="quest_find_lost_item_item_name_041" tools:ignore="UnusedResources">необычное платье</string>
+    <string name="quest_find_lost_item_item_name_042" tools:ignore="UnusedResources">мешок закусок</string>
+    <string name="quest_find_lost_item_item_name_043" tools:ignore="UnusedResources">сумка со смехом</string>
+    <string name="quest_find_lost_item_item_name_044" tools:ignore="UnusedResources">хрупкая ваза</string>
+    <string name="quest_find_lost_item_item_name_045" tools:ignore="UnusedResources">пилочка для ногтей</string>
+    <string name="quest_find_lost_item_item_name_046" tools:ignore="UnusedResources">мел</string>
+    <string name="quest_find_lost_item_item_name_047" tools:ignore="UnusedResources">игла</string>
+    <string name="quest_find_lost_item_item_name_048" tools:ignore="UnusedResources">пробка</string>
+    <string name="quest_find_lost_item_item_name_049" tools:ignore="UnusedResources">магнит</string>
+    <string name="quest_find_lost_item_item_name_050" tools:ignore="UnusedResources">кнопка</string>
+    <string name="quest_find_lost_item_item_name_051" tools:ignore="UnusedResources">закладка</string>
+    <string name="quest_find_lost_item_item_name_052" tools:ignore="UnusedResources">красный джемпер</string>
+    <string name="quest_find_lost_item_item_name_053" tools:ignore="UnusedResources">синяя футболка</string>
+    <string name="quest_find_lost_item_item_name_054" tools:ignore="UnusedResources">зеленая рубашка</string>
+    <string name="quest_find_lost_item_item_name_055" tools:ignore="UnusedResources">ручное зеркало</string>
+    <string name="quest_find_lost_item_item_name_056" tools:ignore="UnusedResources">использованный носок</string>
+    <string name="quest_find_lost_item_item_name_057" tools:ignore="UnusedResources">старая статуэтка</string>
+    <string name="quest_find_lost_item_item_name_058" tools:ignore="UnusedResources">знакомое лицо</string>
+    <string name="quest_find_lost_item_item_name_059" tools:ignore="UnusedResources">странный камень</string>
+    <string name="quest_find_lost_item_item_name_060" tools:ignore="UnusedResources">удивительный паук</string>
+    <string name="quest_find_lost_item_item_name_061" tools:ignore="UnusedResources">картина с собакой</string>
+    <string name="quest_find_lost_item_item_name_062" tools:ignore="UnusedResources">картина с котом</string>
+    <string name="quest_find_lost_item_item_name_063" tools:ignore="UnusedResources">очень ценная картина</string>
+    <string name="quest_find_lost_item_item_name_064" tools:ignore="UnusedResources">бесполезный инструмент</string>
+    <string name="quest_find_lost_item_item_name_065" tools:ignore="UnusedResources">странное устройство</string>
+    <string name="quest_find_lost_item_item_name_066" tools:ignore="UnusedResources">ненавистное письмо</string>
+    <string name="quest_find_lost_item_item_name_067" tools:ignore="UnusedResources">статуя птицы</string>
+    <string name="quest_find_lost_item_item_name_068" tools:ignore="UnusedResources">торт</string>
+    <string name="quest_find_lost_item_item_name_069" tools:ignore="UnusedResources">молния</string>
+    <string name="quest_find_lost_item_item_name_070" tools:ignore="UnusedResources">элегантная блузка</string>
+    <string name="quest_find_lost_item_item_name_071" tools:ignore="UnusedResources">солнечные часы</string>
 
     <string name="quest_bring_items_text_giving">I need %1$s %2$s…</string>
     <string name="quest_bring_items_text_quest_screen">Bring %1$s %2$s to %3$s at %4$s, %5$s</string>
@@ -1340,8 +1343,6 @@
     <string name="content_description_tile_content_image">Tile Content Image</string>
     <string name="content_description_recipe_image">The recipe image</string>
     <string name="content_description_weapon_image">Weapon Image</string>
-    <string name="content_description_monster_icon">Monster Icon</string>
-    <string name="content_description_dungeon_current_position_info">Current dungeon position button</string>
 
     <string name="crafting_title">&font_cyan;Crafting&font_end;</string>
     <string name="crafting_title_with_recipe">Crafting [%1$s]</string>
@@ -1368,8 +1369,10 @@
     <string name="action_explorer_action_description_positive">You sense an &font_inn;Inn &font_end;at &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end;.</string>
     <string name="action_explorer_action_description_negative">There is no &font_inn;Inn &font_end;in this island…</string>
     <string name="action_contractor">&font_cyan;Sense&font_end; &font_cyan;Quests&font_end;</string>
+    <string name="action_contractor_title">&font_cyan;Sensing&font_end; &font_cyan;quests&font_end;</string>
     <string name="action_contractor_desc">Senses how many &font_cyan;quests&font_end; are still pending to be found in the island.</string>
     <string name="action_trader">&font_cyan;Sense&font_end; &font_gold;Merchants&font_end;</string>
+    <string name="action_trader_title">&font_cyan;Sensing&font_end; &font_gold;merchants&font_end;</string>
     <string name="action_trader_desc">Senses how many &font_gold;merchants&font_end; are still pending to find in the island.</string>
     <string name="action_hunter">&font_cyan;Sense&font_end; &font_red;Bosses&font_end;&font_end;</string>
     <string name="action_hunter_description">Sense how many &font_red;bosses&font_end; are in the island…</string>
@@ -1601,6 +1604,7 @@
     <string name="pets_list">Pets List</string>
     <string name="pets_abandon_pet_message">Are you sure you want to abandon %1$s? It will disappear &italic;forever&italic_end;…</string>
     <string name="pets_abandon_pet_abandoned_message">You abandoned %1$s… Farewell…</string>
+    <string name="pets_text_your_pet">Your pet</string>
 
     <string name="text_player_experience_given">You gained &font_cyan;%1$d &font_end;experience!</string>
     <string name="text_pet_experience_given">%1$s gained &font_cyan;%2$d &font_end;experience!</string>
@@ -1656,6 +1660,8 @@
     <string name="tile_content_type_slave">Slave</string>
     <string name="tile_content_type_guard">Guard</string>
     <string name="tile_content_type_pet">&font_pet;Pet&font_end;</string>
+    <string name="tile_content_type_merchants_guild">Merchants\' Guild</string>
+    <string name="tile_content_type_nautical_chart">Nautical Chart</string>
     <string name="tile_content_type_nautical_chart_black_island">Nautical Chart (&font_black_low;Black &font_end;&font_cyan;Island&font_end;)</string>
     <string name="tile_content_type_nautical_chart_white_island">Nautical Chart (&font_white;White &font_end;&font_cyan;Island&font_end;)</string>
     <string name="tile_content_type_whetstone">Whetstone</string>
@@ -1671,6 +1677,7 @@
     <string name="tile_content_type_farm">Farm</string>
     <string name="tile_content_type_windmill">Windmill</string>
     <string name="tile_content_type_house">House</string>
+    <string name="tile_content_type_house_in_flames">House In Flames</string>
     <string name="tile_content_type_destroyed_house">Destroyed House</string>
     <string name="tile_content_type_abandoned_house">Abandoned House</string>
     <string name="tile_content_type_stone_bridge">Stone Bridge</string>
@@ -1708,9 +1715,11 @@
     <string name="tile_content_type_purifying_tree">&font_purifying;Purifying&font_end; &font_wood;Tree&font_end;</string>
     <string name="tile_content_type_yin_yang_amulet">&font_black_low;Yin&font_end; &font_white;Yang &font_end;Amulet</string>
     <string name="tile_content_type_royal_seal">&font_gold;Royal Seal&font_end;</string>
+    <string name="tile_content_type_yang">&font_white;Yang&font_end; Amulet</string>
     <string name="tile_content_type_iron_bucket_water">&font_water;Water&font_end; &font_iron;Bucket&font_end;</string>
     <string name="tile_content_type_iron_bucket_lava">&font_attack;Lava&font_end; &font_iron;Bucket&font_end;</string>
     <string name="tile_content_type_iron_bucket_mana">&font_mana;Mana&font_end; &font_iron;Bucket&font_end;</string>
+    <string name="tile_content_type_iron_bucket_milk">&font_white;Milk&font_end; &font_iron;Bucket&font_end;</string>
 
     <string name="wooden_sign_write">Write in &font_wooden_sign;Wooden Sign&font_end;</string>
     <string name="wooden_sign_text_chopped_the">Chopped the %1$s.</string>
@@ -1830,6 +1839,8 @@
     <string name="blacksmith_message">Hello! Do you need to improve any "&font_green;\*&font_end;" equipment?&br;&br;Maybe scrap a piece of equipment?&br;&br;I can also craft bars from your ores if you need it.&br;&br;Just tell me and I\'ll do my best!&br;&br;Remember, I can\'t work with wielded or equipped items.</string>
     <string name="blacksmith_no_equipment_message">I\'m sorry, but you don\'t seem to have any equipment I can improve…</string>
     <string name="blacksmith_no_equipment_message_scrap">I\'m sorry, but you don\'t seem to have any equipment I can scrap…</string>
+    <string name="blacksmith_no_equipment_message_ores">I\'m sorry, but you don\'t seem to have any ore…</string>
+    <string name="blacksmith_choose_equipment">Choose the equipment:</string>
     <string name="blacksmith_cost" tools:ignore="PluralsCandidate">&font_gold;%1$d Gold&font_end;</string>
     <string name="blacksmith_improved_equipment_to_level">Improved %1$s!</string>
     <string name="blacksmith_title">&font_iron;Blacksmith&font_end;</string>
@@ -1990,7 +2001,8 @@
     <string name="skill_unbreakable_description">If a &font_red;Monster&font_end;\'s attack would kill you, you resist it and survive with &font_health;1 &font_end;health point. Be careful of hunger or weather damage…</string>
     <string name="skill_unbreakable_skill_saves_you">Your &font_cyan;Unbreakable&font_end; skill saves you!</string>
     <string name="skill_berserk">&font_attack;Berserk&font_end;</string>
-    <string name="skill_berserk_description">In combat, using the "Attack" command increases a &font_cyan;10% &font_end;the damage each turn. When using a different action in combat, the &font_cyan;Berserk &font_end;bonus is lost.</string>
+    <string name="skill_berserk_description">In combat, using the "Attack" command increases a &font_cyan;10%&font_end;
+        the damage each turn. When using a different action in combat, the &font_cyan;Berserk &font_end;bonus is lost.</string>
     <string name="skill_berserk_increased_to">&font_attack;Berserk &font_end;bonus increased to &font_cyan;x%1$s&font_end;!</string>
     <string name="skill_berserk_lost">&font_attack;Berserk&font_end; bonus lost…</string>
     <string name="skill_chef">&font_food;Chef&font_end;</string>
@@ -2049,6 +2061,7 @@
     <string name="spells_spell_damage">&br;Damage: &font_red;%1$d&font_end;%% &font_mana;Intelligence&font_end;</string>
     <string name="spells_casts_spell">You cast %1$s!</string>
     <string name="spells_empty_message">You don\'t know any &font_mana;Spells &font_end;yet…</string>
+    <string name="spell_book_need_to_learn_spell_first">&italic;You need to know %1$s to learn this spell&italic_end;</string>
     <string name="spell_fireball_name">&font_attack;Fireball&font_end;</string>
     <string name="spell_fireball_desc">Throws a &font_attack;fireball &font_end;at the enemy. Can &font_attack;burn&font_end;.</string>
     <string name="spell_fireball_desc_combat">You throw a &font_attack;fireball&font_end; at %1$s! %2$s receives &font_red;%3$d &font_end;damage.</string>
@@ -2180,8 +2193,12 @@
 
     <string name="weapon_spell_effect">&italic;Effect: %1$s (&font_cyan;%2$d&font_end;%%)&italic_end;</string>
 
+    <string name="special_armor_type_yinyang">&italic;Hunger Max.: &font_hunger;%d&font_end;&italic_end;</string>
+    <string name="special_armor_type_royal_shield">&italic;Health Max.: &font_health;%d&font_end;&italic_end;</string>
+
     <string name="spell_learnt">Learned %1$s!</string>
     <string name="spell_already_known">&font_mana;Spell&font_end; %1$s already known!</string>
+    <string name="spell_of_a_lower_level_necessary">%1$s spell of level &font_cyan;%2$d &font_end;is necessary to learn this.</string>
 
     <string name="magic_type_fire">&font_attack;Огонь&font_end;</string>
     <string name="magic_type_water">&font_water;Вода&font_end;</string>
@@ -2281,6 +2298,7 @@
     <string name="main_story_7_the_tyrant_message_7">I recommend you go prepared. The &font_red;Lava &font_end;and &font_red;Hell &font_end;in general will hurt you, and the monsters there are nothing like mine…</string>
     <string name="main_story_7_the_tyrant_message_8">Good luck, and if they ask, I didn\'t tell you anything!</string>
     <string name="tyrant_disappears">&font_red;The Tyrant&font_end; vanishes…</string>
+    <string name="your_ship_disappears">Your &font_wood;Ship&font_end; disappears!</string>
     <string name="main_story_7_ship_is_back">Your &font_wood;Ship&font_end; is back…</string>
     <string name="main_story_7_the_tyrant_pre_combat_message_1">Eh? What do you think you are doing here?</string>
     <string name="main_story_7_the_tyrant_pre_combat_message_2">Hahaha! Let\'s see how long you live until I KILL YOU!</string>
@@ -2310,6 +2328,13 @@
     <string name="main_story_10_dialog_message">You lost your consciousness as soon as the &font_wood;Ship &font_end;starts sailing…</string>
     <string name="main_story_sail_advice_wont_be_able_to_come_back_to_island">If you sail, you won\'t be able to come back to %1$s!&br;&br;Do you want to sail?</string>
     <string name="main_story_heaven_gate_advice_wont_be_able_to_come_back_to_island">If you enter the %1$s you won\'t be able to come back to %2$s!&br;&br;Enter anyway?</string>
+
+    <string name="professional_type_butcher">Butcher</string>
+    <string name="professional_type_skinner">Skinner</string>
+    <string name="professional_type_woodcutter">Woodcutter</string>
+    <string name="professional_type_miner">Miner</string>
+    <string name="professional_type_fisherman">Fisherman</string>
+    <string name="professional_type_bughunter">Bug Hunter</string>
 
     <string name="professional_quest_giving_quest_0">Hello, hero! Do you want to learn the basics of the %1$s profession?</string>
     <string name="professional_quest_giving_quest_1_dialog">Bring me a %1$s and I will explain the rest! You can &font_cyan;craft &font_end;it if you learn the recipe or directly buy it from a &font_gold;shop&font_end;.</string>
@@ -2341,6 +2366,10 @@
 
     <string name="merchant_abandon_quest_title">Abandon &font_gold;Merchant&font_end; Quest</string>
     <string name="merchant_abandon_quest_message">Are you sure you want to abandon &italic;\"%1$s\"&italic_end;?</string>
+
+
+    <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+    <!-- Pending to translate: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
 
     <string name="settings_language">&font_cyan;Язык&font_end;</string>
     <string name="settings_translated_by">Перевели: %s</string>
@@ -2583,6 +2612,7 @@
     <string name="quest_bring_animal_text_complete_desc">Oh! It\'s even cuter than I thought! Thanks a lot!</string>
     <string name="quest_bring_animal_text_negative">I\'m afraid you don\'t have the &font_animal;%1$s &font_end;with you… Come back when you find one, you\'d make me so happy!</string>
     <string name="quest_bring_animal_text_bring">Have you found the &font_animal;%1$s&font_end;? Show me!</string>
+    <string name="quest_bring_animal_thanks">Oh! I love it! It\'s even cuter than I thought! Thanks a lot!</string>
 
     <string name="tile_content_type_island_map">&font_cyan;Island &font_end;&font_gold;Map&font_end;</string>
     <string name="item_info_island_map">Use this &font_cyan;Island &font_end;&font_gold;Map &font_end;to see the island map without needing to explore it completely.&br;&br;(You\'ll need to explore the island if you want to complete it 100%.)</string>
@@ -2590,6 +2620,7 @@
 
     <string name="settings_change_language_title">Change Language</string>
     <string name="settings_change_language_message">Are you sure you want to change the language?&br;&br;The app needs to reset to apply the language changes.&br;&br;Restart app? (You won\'t lose your game data)</string>
+
 
     <string name="weapon_type_staff">&font_mana;Staff&font_end;</string>
 
@@ -2653,6 +2684,7 @@
     <string name="skill_monster_mastery">Управление &font_pet;Монстрами&font_end;</string>
 
     <string name="spell_book_need_skill_level">&italic;Your %1$s is not high enough to learn this &font_mana;spell&font_end;&italic_end;</string>
+    <string name="spell_mana_reduction_text">&italic;(&font_mana;%1$d&font_end;)&italic_end;</string>
 
     <string name="stats_extra_max_mana">Max. &font_mana;Mana&font_end;: &font_mana;%d&font_end;</string>
     <string name="stats_extra_max_health">Max. &font_health;Health&font_end;: &font_health;%d&font_end;</string>
@@ -2753,6 +2785,7 @@
     <string name="title_warrior_male">%1$s, the &font_attack;Warrior&font_end;</string>
     <string name="title_wizard_male">%1$s, the &font_mana;Wizard&font_end;</string>
     <string name="title_cleric_male">%1$s, the &font_health;Cleric&font_end;</string>
+    <string name="title_pet_master_male">%1$s, the &font_pet;Pet Master&font_end;</string>
     <string name="title_worker_male">%1$s, the &font_wood;Worker&font_end;</string>
     <string name="title_alchemist_male">%1$s, the &font_alchemist;Alchemist&font_end;</string>
     <string name="title_blacksmith_male">%1$s, the &font_iron;Blacksmith&font_end;</string>
@@ -2761,6 +2794,7 @@
     <string name="title_warrior_female">%1$s, the &font_attack;Warrior&font_end;</string>
     <string name="title_wizard_female">%1$s, the &font_mana;Wizard&font_end;</string>
     <string name="title_cleric_female">%1$s, the &font_health;Cleric&font_end;</string>
+    <string name="title_pet_master_female">%1$s, the &font_pet;Pet Master&font_end;</string>
     <string name="title_worker_female">%1$s, the &font_wood;Worker&font_end;</string>
     <string name="title_alchemist_female">%1$s, the &font_alchemist;Alchemist&font_end;</string>
     <string name="title_blacksmith_female">%1$s, the &font_iron;Blacksmith&font_end;</string>
@@ -2820,7 +2854,6 @@
     <string name="title_the_animal_lover_male">%1$s, the &font_animal;Animal Lover&font_end;</string>
     <string name="title_the_purifier_male">%1$s, the &font_purifying;Purifier&font_end;</string>
     <string name="title_the_ranger_male">%1$s, the &font_wood;Ranger&font_end;</string>
-    <string name="title_the_librarian_male">%1$s, the &font_wood;Librarian&font_end;</string>
 
     <string name="title_the_strongest_female">%1$s, the &font_attack;Strongest&font_end;</string>
     <string name="title_the_broke_female">%1$s, the &font_gold;Broke&font_end;</string>
@@ -2869,11 +2902,11 @@
     <string name="title_the_animal_lover_female">%1$s, the &font_animal;Animal Lover&font_end;</string>
     <string name="title_the_purifier_female">%1$s, the &font_purifying;Purifier&font_end;</string>
     <string name="title_the_ranger_female">%1$s, the &font_wood;Ranger&font_end;</string>
-    <string name="title_the_librarian_female">%1$s, the &font_wood;Librarian&font_end;</string>
 
     <string name="title_warrior_no_gender">%1$s, the &font_attack;Warrior&font_end;</string>
     <string name="title_wizard_no_gender">%1$s, the &font_mana;Wizard&font_end;</string>
     <string name="title_cleric_no_gender">%1$s, the &font_health;Cleric&font_end;</string>
+    <string name="title_pet_master_no_gender">%1$s, the &font_pet;Pet Master&font_end;</string>
     <string name="title_worker_no_gender">%1$s, the &font_wood;Worker&font_end;</string>
     <string name="title_alchemist_no_gender">%1$s, the &font_alchemist;Alchemist&font_end;</string>
     <string name="title_blacksmith_no_gender">%1$s, the &font_iron;Blacksmith&font_end;</string>
@@ -2925,13 +2958,14 @@
     <string name="title_the_animal_lover_no_gender">%1$s, the &font_animal;Animal Lover&font_end;</string>
     <string name="title_the_purifier_no_gender">%1$s, the &font_purifying;Purifier&font_end;</string>
     <string name="title_the_ranger_no_gender">%1$s, the &font_wood;Ranger&font_end;</string>
-    <string name="title_the_librarian_no_gender">%1$s, the &font_wood;Librarian&font_end;</string>
 
     <string name="skill_crafter">&font_cyan;Crafter&font_end;</string>
     <string name="skill_crafter_description">Allows to &font_cyan;Craft&font_end; with both the items in the &font_wood;Inventory &font_end;and the ones in the &font_wood;Stash&font_end;</string>
     <string name="bug_was_a">The &font_insect;Bug &font_end;was a &font_insect;%1$s&font_end;!</string>
 
     <string name="button_sort_by_quantity">Sort (Quantity)</string>
+
+    <string name="number_between_parenthesis">(&font_cyan;%1$d&font_end;)</string>
 
     <string name="no_gender">None</string>
 
@@ -2973,10 +3007,10 @@
 
     <string name="race_attributes_with_numbers">Attack: &font_attack;%1$s &font_end;Defe.: &font_defense;%2$s&font_end;&br;Intel.: &font_mana;%3$s &font_end;Speed: &font_speed;%4$s&font_end;</string>
 
-    <string name="status_attack_new">Attack:&font_attack;\t%1$d &font_end;&br;(Base (%2$d%%): &font_attack;%3$d&font_end;, Eq (%4$d%%): &font_attack;%5$d&font_end;, +Temp: &font_attack;%6$d&font_end;)</string>
-    <string name="status_defense_new">Defense:&font_defense;\t%1$d &font_end;&br;(Base (%2$d%%): &font_defense;%3$d&font_end;, Eq (%4$d%%): &font_defense;%5$d&font_end;, +Temp: &font_defense;%6$d&font_end;)</string>
-    <string name="status_speed_new">Speed:\t&font_speed;%1$d &font_end;&br;(Base (%2$d%%): &font_speed;%3$d&font_end;, Eq (%4$d%%): &font_speed;%5$d&font_end;, +Temp: &font_speed;%6$d&font_end;)</string>
-    <string name="status_intelligence_new">Intelligence:\t&font_mana;%1$d &font_end;&br;(Base (%2$d%%): &font_mana;%3$d&font_end;, Eq (%4$d%%): &font_mana;%5$d&font_end;, +Temp: &font_mana;%6$d&font_end;)</string>
+    <string name="status_attack_new">Attack:&font_attack;\t%1$d &font_end;&br;(Base: &font_attack;%2$d&font_end;, Eq: &font_attack;%3$d&font_end;)</string>
+    <string name="status_defense_new">Defense:\t&font_defense;%1$d &font_end;&br;(Base: &font_defense;%2$d&font_end;, Eq: &font_defense;%3$d&font_end;)</string>
+    <string name="status_speed_new">Speed:\t&font_speed;%1$d &font_end;&br;(Base: &font_speed;%2$d&font_end;, Eq: &font_speed;%3$d&font_end;)</string>
+    <string name="status_intelligence_new">Intelligence:\t&font_mana;%1$d &font_end;&br;(Base: &font_mana;%2$d&font_end;, Eq: &font_mana;%3$d&font_end;)</string>
 
     <string name="skill_natural_explorer">&font_cyan;Natural Explorer&font_end;</string>
     <string name="skill_natural_explorer_description">Can see the surrounding tiles when moving around, making it easier to explore.</string>
@@ -2988,8 +3022,8 @@
     <string name="elf_traits">&font_cyan;* &font_end;Starts with &font_cyan;5 &font_end;x &font_plant;Plant &font_end;and &font_cyan;5 &font_end;x &font_mushroom;Mushroom&font_end;.&br;&br;&font_mana;Mana Flow&font_end;: Regenerates &font_cyan;1% &font_end;&font_mana;mana &font_end;every turn if &font_health;health &font_end;is over &font_cyan;50%&font_end;.&br;&br;&font_mana;Elven Magic&font_end;: Have extra &font_mana;mana &font_end;(&font_cyan;+25&font_end;).</string>
     <string name="drow_traits">&font_portal;Teleport&font_end;: Can &font_portal;teleport &font_end;to a random location in the island.&br;&br;&font_mana;Mana Flow&font_end;: Regenerates &font_cyan;1% &font_end;&font_mana;mana &font_end;every turn if &font_health;health &font_end;is over &font_cyan;50%&font_end;.&br;&br;&font_mana;Elven Magic&font_end;: Have extra &font_mana;mana &font_end;(&font_cyan;+25&font_end;).</string>
     <string name="undead_traits">&font_green;Weather Immunity&font_end;: Immune to &font_red;Hot &font_end;or &font_tundra;Cold &font_end;damage.&br;&br;&font_health;Unbreakable&font_end;: If a &font_red;Monster&font_end;\'s attack would kill you, you resist it and survive with &font_health;1 &font_end;health point.&br;&br;&font_hunger;Undead Hunger&font_end;: &font_hunger;Hunger &font_end;increases faster, but can eat from corpses to restore &font_hunger;Hunger&font_end;, &font_health;Health &font_end;and &font_mana;Mana&font_end;.</string>
-    <string name="orc_traits">&font_dark_green;Tough Skin&font_end;: &font_cyan;5%% &font_end;damage reduction in combat.&br;&br;&font_attack;Berserk&font_end;: In combat, using the "Attack" command increases a &font_cyan;10%% &font_end;the damage each turn. When using a different action in combat, the &font_attack;Berserk &font_end;bonus is lost.&br;&br;&font_dark_green;First Strike&font_end;: When attacking a monster, performs an initial hit.&br;&br;</string>
-    <string name="lizard_traits">&font_health;Regeneration&font_end;: Regenerates &font_cyan;2%% &font_end;of &font_health;health &font_end;every turn when the weather is &font_yellow;Sunny&font_end;.&br;&br;&font_cyan;Slippery&font_end;: Always succeeds fleeing (if fleeing is allowed).&br;&br;&font_insect;Insect Eater&font_end;: Can &font_hunger;eat &font_end;&font_insect;insects &font_end;without having to capture them.</string>
+    <string name="orc_traits">&font_dark_green;Tough Skin&font_end;: &font_cyan;5%&font_end; damage reduction in combat.&br;&br;&font_attack;Berserk&font_end;: In combat, using the "Attack" command increases a &font_cyan;10% &font_end;the damage each turn. When using a different action in combat, the &font_attack;Berserk &font_end;bonus is lost.&br;&br;&font_dark_green;First Strike&font_end;: When attacking a monster, performs an initial hit.&br;&br;</string>
+    <string name="lizard_traits">&font_health;Regeneration&font_end;: Regenerates &font_cyan;2% &font_end;of &font_health;health &font_end;every turn when the weather is &font_yellow;Sunny&font_end;.&br;&br;&font_cyan;Slippery&font_end;: Always succeeds fleeing (if fleeing is allowed).&br;&br;&font_insect;Insect Eater&font_end;: Can &font_hunger;eat &font_end;&font_insect;insects &font_end;without having to capture them.</string>
     <string name="unknown_traits">&font_cyan;* &font_end;Start with &font_cyan;15 &font_end;Skill Points.&br;&br;&font_cyan;* &font_end;Start with a random &font_cyan;Nautical Chart&font_end;&br;&br;&font_cyan;* &font_end;Start with a random &font_mana;Spell &font_end;Book.</string>
 
     <string name="item_beer">&font_gold;Beer&font_end;</string>
@@ -3008,7 +3042,7 @@
     <string name="skill_gnomic_space_description">Increases the inventory size by &font_cyan;10&font_end;.</string>
 
     <string name="skill_mana_flow">&font_mana;Mana Flow&font_end;</string>
-    <string name="skill_mana_flow_description">Regenerates &font_cyan;1%&font_end; &font_mana;mana &font_end;every turn if &font_mana;health &font_end;is over &font_cyan;50%&font_end;.</string>
+    <string name="skill_mana_flow_description">Regenerates &font_cyan;1%&font_end; &font_mana;mana &font_end;every turn if &font_mana;health &font_end;is over &font_cyan;50%%&font_end;.</string>
 
     <string name="skill_reckoner">&font_cyan;Reckoner&font_end;</string>
     <string name="skill_reckoner_description">Can always see the difficulty of killing a &font_red;Monster&font_end;.</string>
@@ -3079,6 +3113,7 @@
     <string name="material_old_paper_piece">Old Paper Piece</string>
     <string name="item_info_old_paper_piece">It has some strange drawings on it…</string>
     <string name="tile_content_type_nautical_chart_treasure_island">Nautical Chart (&font_gold;Treasure &font_end;&font_cyan;Island&font_end;)</string>
+    <string name="craft_various">Craft Various (&font_cyan;%1$d&font_end;)</string>
     <string name="craft_various_title">Craft Various</string>
     <string name="craft_various_message">What amount do you want to craft?&br;&br;(You have enough materials to craft &font_cyan;%1$d&font_end;. The maximum amount allowed to craft is &font_cyan;%2$d&font_end;)</string>
     <string name="crafted_amount">Crafted &font_cyan;%1$d&font_end;!</string>
@@ -3135,9 +3170,6 @@
     <string name="settings_show_main_stats">Show Main Stats</string>
 
     <string name="ranged_weapon_type_bow">&font_wood;Bow&font_end;</string>
-    <string name="ranged_weapon_type_crossbow">&font_speed;Crossbow&font_end;</string>
-    <string name="ranged_weapon_type_slingshot">&font_speed;Slingshot&font_end;</string>
-
     <string name="tile_content_type_ranged_weapon">Ranged Weapon</string>
 
     <string name="content_description_ranged_weapon_image">Ranged Weapon</string>
@@ -3181,10 +3213,8 @@
     <string name="item_obsidian_slingshot">&font_obsidian;Obsidian&font_end; Slingshot</string>
 
     <string name="skill_bow_mastery">&font_wood;Bow &font_end;Mastery</string>
-    <string name="skill_crossbow_mastery">&font_speed;Crossbow &font_end;Mastery</string>
-    <string name="skill_slingshot_mastery">&font_speed;Slingshot &font_end;Mastery</string>
-
     <string name="skill_bow_mastery_desc">As it levels up, slightly increases the damage of shooting with a &font_wood;Bow&font_end;.</string>
+
     <string name="skill_crossbow_mastery_desc">As it levels up, slightly increases the damage of shooting with a &font_speed;Crossbow&font_end;.</string>
     <string name="skill_slingshot_mastery_desc">As it levels up, slightly increases the damage of shooting with a &font_speed;Slingshot&font_end;.</string>
 
@@ -3206,6 +3236,8 @@
     <string name="shortcut_pet_attack">Pet Attack</string>
 
     <string name="food_trail_mix">&font_nut;Trail Mix&font_end;</string>
+
+    <string name="cyan_text" tools:ignore="MissingTranslation">&font_cyan;%1$s&font_end;</string>
 
     <string name="island_discovered">Island Discovered</string>
 
@@ -3255,118 +3287,27 @@
 
     <string name="material_type_bolt">&font_wood;Bolt&font_end;</string>
 
+    <string name="gold_number" translatable="false">&font_gold;%1$d&font_end;</string>
+
+
+    <!-- FIXME: #194 DEV - TRANSLATE -->
     <string name="tile_content_type_dungeon">Dungeon</string>
+    <string name="dungeon_name">Dungeon</string>
     <string name="dungeon_title">%1$s - Floor &font_cyan;%2$d &font_end;(&font_cyan;%3$d&font_end;, &font_cyan;%4$d&font_end;)</string>
     <string name="dungeon_go_up">Go Up</string>
     <string name="dungeon_go_down">Go Down</string>
 
     <string name="dungeon_abandoned_mine">&font_wood;Abandoned &font_end;&font_stone;Mine&font_end;</string>
     <string name="dungeon_dungeon">&font_stone;Dungeon&font_end;</string>
-    <string name="dungeon_grotto">&font_iron;Grotto&font_end;</string>
-    <string name="dungeon_deep_forest">&font_dark_green;Deep &font_end;&font_green;Forest&font_end;</string>
-    <string name="dungeon_old_tomb">&font_silver;Old &font_end;&font_stone;Tomb&font_end;</string>
-    <string name="dungeon_ancient_ruins">&font_gold;Ancient &font_end;&font_ruins;Ruins&font_end;</string>
     <string name="dungeon_big_cave">&font_stone;Big &font_end;&font_end;&font_cave;Cave&font_end;</string>
     <string name="dungeon_icy_cave">&font_ice;Icy &font_end;&font_cave;Cave&font_end;</string>
     <string name="dungeon_lava_cave">&font_red;Lava &font_end;&font_cave;Cave&font_end;</string>
-
     <string name="dungeon_exit">Exit</string>
     <string name="dungeon_question_mark">\?</string>
     <string name="dungeon_exit_dungeon">You exit %1$s.</string>
-    <string name="dungeon_accessibility">You are at &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end;
-        in %3$s, Floor &font_cyan;%4$d&font_end;.&br;&br;You can move to the following directions: %5$s.</string>
+    <string name="dungeon_accessibility">You are at &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end; in %3$s, Floor &font_cyan;%4$d&font_end;.&br;&br;You can move to the following directions: %5$s.</string>
     <string name="dungeon_can_go_up">You can go &font_cyan;up &font_end;from here.</string>
     <string name="dungeon_can_go_down">You can go &font_cyan;down &font_end;from here.</string>
     <string name="dungeon_can_exit">You can &font_cyan;exit &font_end;from here.</string>
-    <string name="dungeon_enter">You enter %s…</string>
-    <string name="tile_type_dungeon">Dungeon</string>
-    <string name="dungeon_loot">&font_cyan;Loot&font_end;</string>
-    <string name="dungeon_loot_message">You obtained: %s</string>
-    <string name="found_item">Found: %s</string>
-    <string name="dungeon_entrance_name">&font_stone;%1$s &font_end;(%2$s)</string>
-    <string name="tile_content_type_dungeon_portal">&font_stone;Dungeon &font_end;&font_portal;Portal&font_end;</string>
 
-    <string name="dungeon_north_content">&font_cyan;North&font_end;: %1$s</string>
-    <string name="dungeon_south_content">&font_cyan;South&font_end;: %1$s</string>
-    <string name="dungeon_east_content">&font_cyan;East&font_end;: %1$s</string>
-    <string name="dungeon_west_content">&font_cyan;West&font_end;: %1$s</string>
-
-    <string name="dungeon_boss">&font_dungeon_boss;Boss&font_end;</string>
-    <string name="settings_show_combat_shortcuts">Enable Combat Shortcuts</string>
-
-    <string name="dungeon_enter_portal">Enter Portal</string>
-    <string name="dungeon_entered_portal">You entered the portal and appeared at the entrance of the dungeon!</string>
-
-    <string name="advantage_librarian">&font_wood;Librarian&font_end;</string>
-    <string name="advantage_librarian_desc">(You will start with a random crafting recipe, an &font_cyan;experience &font_end;potion and 5 &font_cyan;skill &font_end;points)</string>
-
-    <string name="dungeon_tutorial_title">Dungeons</string>
-    <string name="dungeon_tutorial_message_1">Welcome to your first dungeon, hero!</string>
-    <string name="dungeon_tutorial_message_2">In the dungeons, every item you find will be given to you when you leave the dungeon.</string>
-    <string name="dungeon_tutorial_message_3">You won\'t be able to change your equipment, craft, use items, etc… except while in combat!</string>
-    <string name="dungeon_tutorial_message_4">A Boss monster awaits in the last floor of the dungeons. Be careful though, the deeper the floor, the more dangerous the monsters can be!</string>
-    <string name="dungeon_tutorial_message_5">Good luck, and be careful!</string>
-    <string name="button_next">Next</string>
-
-    <string name="dead_reason_unknown">¡Died!</string>
-
-    <string name="food_cooked_fish">&font_white;Cooked &font_end;&font_blue;Fish&font_end;</string>
-    <string name="share_dialog_title">Share</string>
-    <string name="share_dialog_message">Share your hero\'s status as an image or as text!</string>
-    <string name="button_share_image">As Image</string>
-    <string name="button_share_text">As Text</string>
-
-    <string name="material_type_beetle_talisman">&font_beetle_talisman;Beetle Talisman&font_end;</string>
-
-    <string name="pyramid_its_closed">It\'s closed…</string>
-    <string name="pyramid_its_closed_can_open">It\'s closed but it seems to be reacting with your &font_beetle_talisman;Beetle Talisman&font_end;…</string>
-    <string name="pyramid_interact">Interact</string>
-    <string name="pyramid_opened">The pyramid absorbs the &font_beetle_talisman;Beetle Talisman &font_end;and opens!</string>
-
-    <string name="material_type_jade">&font_jade;Jade&font_end;</string>
-    <string name="material_type_quartz">&font_quartz;Quartz&font_end;</string>
-    <string name="material_type_jasper">&font_jasper;Jasper&font_end;</string>
-    <string name="material_type_sodalite">&font_sodalite;Sodalite&font_end;</string>
-    <string name="material_type_onyx">&font_onyx;Onyx&font_end;</string>
-    <string name="material_type_serpentine">&font_serpentine;Serpentine&font_end;</string>
-    <string name="material_type_aragonite">&font_aragonite;Aragonite&font_end;</string>
-
-    <string name="material_type_saphir">&font_saphir;Saphir&font_end;</string>
-    <string name="material_type_ruby">&font_ruby;Ruby&font_end;</string>
-
-    <string name="material_type_ankh">&font_gold;Ankh&font_end;</string>
-
-    <string name="material_type_infinity_energy">&font_infinity;Infinity &font_end;&font_cyan;Energy&font_end;</string>
-    <string name="material_type_creator_medal">&font_asterisk_creator;Creator &font_end;&font_white;Medal&font_end;</string>
-    <string name="achievement_name_capture_creator">How could you?!</string>
-    <string name="achievement_name_desc_capture_creator">Capture the Creator!</string>
-
-    <string name="title_the_creator_male">%1$s, the &font_asterisk_creator;Creator&font_end;</string>
-    <string name="title_the_creator_female">%1$s, the &font_asterisk_creator;Creator&font_end;</string>
-    <string name="title_the_creator_no_gender">%1$s, the &font_asterisk_creator;Creator&font_end;</string>
-
-    <string name="wise_have_creator_medal">… you … you are unbelievable! You met The &font_asterisk_creator;Creator&font_end;? You killed him and obtained %s? I\'m afraid the only thing left to do for you is to Ascend…</string>
-
-    <string name="wise_ascend_message_1">You want to &font_alchemist;Ascend&font_end;?</string>
-    <string name="creator_appeared_title">&font_asterisk_creator;The Creator &font_end;Appeared</string>
-    <string name="creator_appeared_message">Suddenly, a supreme being, nothing like you\'ve seen before, appears in front of you… And, you know, deep inside, this is nothing else than… &font_asterisk_creator;Archison&font_end;, &font_asterisk_creator;The Creator&font_end;.</string>
-    <string name="combat_monster_healed_completely">%s healed completely!</string>
-
-    <string name="item_info_creator_medal">It is a bright medal, a memory of the time you killed &font_asterisk_creator;The Creator&font_end;.</string>
-
-    <string name="wise_main_story_island_first_message">Hello, hero! I\'ll be here if you need help!&br;&br;Talk to me if you need to rest or if you want to leave this place…</string>
-    <string name="wise_main_story_island_second_message">Do you want to restore your &font_health;health &font_end;, &font_mana;mana &font_end;and &font_hunger;hunger &font_end;for &font_gold;%1$d gold&font_end;? (A &font_primary_light;&italic;[CHECKPOINT] &italic_end;&font_end;will be saved)&br;&br;…or…&br;&br;Do you want to leave this place? It will disappear forever, you\'ll lose half of the &font_gold;gold &font_end;you are carrying, half from the &font_gold;BANK&font_end;, and you\'ll have to start looking for the &font_cyan;Pieces Of Map &font_end;again.</string>
-    <string name="wise_leave_island_confirmation_message">Are you sure you want to leave?&br;&br;This place will disappear forever, you\'ll lose half of the &font_gold;gold &font_end;you are carrying, half from the &font_gold;BANK&font_end;, and you\'ll have to start looking for the &font_cyan;Pieces Of Map &font_end;again.</string>
-
-    <string name="button_rest">Rest</string>
-    <string name="button_leave_island">Leave</string>
-
-    <string name="wise_completely_rested">You feel completely rested!</string>
-    <string name="wise_main_story_island_lost_gold_and_memory">You lost some &font_gold;gold &font_end;and some of your memories…</string>
-
-    <string name="creator_pre_combat_message_1">You know… It\’s not easy to be &font_asterisk_creator;The Creator&font_end;… Always coding, adding greater challenges, fixing bugs, answering emails, chatting in discord, reddit, the web, etc…</string>
-    <string name="creator_pre_combat_message_2">And all of it for what? Tell me, why am I supposed to do this? I can\'t stand the pressure anymore…!</string>
-    <string name="creator_pre_combat_message_3">GET READY TO DIE! Mmmmmwwwwahahahahahahaha!</string>
-
-    <string name="void_master_after_killing_text_4">Well well… You are wearing a complete set of the &font_void;Void&font_end;… Here you are, you will know what to do with it…</string>
 </resources>
