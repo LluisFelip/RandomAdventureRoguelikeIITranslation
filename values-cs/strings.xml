@@ -3481,7 +3481,7 @@
     <string name="sign_in_dialog_title">Google Play Games</string>
     <string name="sign_in_dialog_message">Sign in to Google Play Games to access Achievements and Leader Boards!</string>
 
-    <string name="updated_leaderboards">[UPDATED LEADER BOARDS]</string>
+    <string name="updated_leaderboards">&font_primary_light;&italic;[UPDATED LEADER BOARDS]&italic_end;&font_end;</string>
 
 
 </resources>
