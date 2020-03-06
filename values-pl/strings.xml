@@ -3320,9 +3320,15 @@
 
     <string name="dungeon_abandoned_mine">&font_wood;Abandoned &font_end;&font_stone;Mine&font_end;</string>
     <string name="dungeon_dungeon">&font_stone;Dungeon&font_end;</string>
+    <string name="dungeon_grotto">&font_iron;Grotto&font_end;</string>
+    <string name="dungeon_deep_forest">&font_dark_green;Deep &font_end;&font_green;Forest&font_end;</string>
+    <string name="dungeon_old_tomb">&font_silver;Old &font_end;&font_stone;Tomb&font_end;</string>
+    <string name="dungeon_ancient_ruins">&font_gold;Ancient &font_end;&font_ruins;Ruins&font_end;</string>
+    <string name="dungeon_pyramid">&font_beetle_talisman;Pyramid&font_end;</string>
     <string name="dungeon_big_cave">&font_stone;Big &font_end;&font_end;&font_cave;Cave&font_end;</string>
     <string name="dungeon_icy_cave">&font_ice;Icy &font_end;&font_cave;Cave&font_end;</string>
     <string name="dungeon_lava_cave">&font_red;Lava &font_end;&font_cave;Cave&font_end;</string>
+    
     <string name="dungeon_exit">Exit</string>
     <string name="dungeon_question_mark">\?</string>
     <string name="dungeon_exit_dungeon">You exit %1$s.</string>
