@@ -2247,29 +2247,29 @@
     <string name="main_story_the_carpenter_5">Ce &font_red;monstre&font_end; que tu viens tout juste de vaincre était la raison de pourquoi on n\'avait plus aucun &font_wood;bateau &font_end;sur cette île. Il les a tous coulé!</string>
     <string name="main_story_the_carpenter_5b">Si j\'en avait un, je serais parti moi même trouver des indices sur les quartiers du &font_red;Tyrant &font_end;pour que je puisse lui botter le * ! (si je n\'étais pas aussi vieux…)</string>
     <string name="main_story_the_carpenter_6">Tu dis avoir trouvé une &font_wood;Épave &font_end;vers &font_cyan;%1$d&font_end;, &font_cyan;%2$d &font_end;? Je pense pouvoir le réparer si tu me ramènes assez de &font_wood;Bois&font_end;!</string>
-    <string name="main_story_the_carpenter_7">Here, take my &font_wood;Chopping&font_end; Axe! You will be able to chop a &font_wood;Tree &font_end;with it to gather &font_wood;Wood&font_end;.</string>
-    <string name="main_story_the_carpenter_8">Okay, I will wait near the &font_wood;Shipwreck &font_end;while you go find the &font_wood;Wood&font_end;! I think &font_cyan;5 &font_end;pieces will be enough. See you there later!</string>
-    <string name="main_story_the_carpenter_left">&font_wood;The Old Carpenter &font_end;left…</string>
-    <string name="main_story_the_carpenter_shipwreck_button">Tell him about the &font_wood;Shipwreck&font_end;</string>
-    <string name="main_story_3">Find &font_cyan;5&font_end; x &font_wood;Wood&font_end; and bring it to &font_wood;The Old Carpenter &font_end;in &font_cyan;%1$d&font_end;, &font_cyan;%2$d &font_end;so he will be able to repair the &font_wood;Shipwreck&font_end;!.</string>
-    <string name="main_story_the_carpenter_second_dialog_1">Hi! Have you found &font_cyan;5 &font_end;pieces of &font_wood;Wood&font_end;?</string>
-    <string name="main_story_the_carpenter_second_dialog_1_not_enough">Oh, you don\'t have enough… come back when you have at least &font_cyan;5 &font_end;pieces of &font_wood;Wood&font_end;!</string>
-    <string name="main_story_the_carpenter_second_dialog_2">Oh, great! I\'ll start working immediately!</string>
-    <string name="main_story_the_carpenter_second_dialog_repairing_ship">&font_wood;The Old Carpenter &font_end;is repairing the &font_wood;Ship&font_end;</string>
-    <string name="main_story_the_carpenter_third_dialog_1">Great! I haven\'t lost my touch! You now can travel to other islands in search for clues to find &font_red;The Tyrant&font_end;! Good luck, and thank you for everything!</string>
-    <string name="main_story_the_carpenter_end_dialog">Hello, hero! How is your quest to find &font_red;The Tyrant &font_end;going?</string>
-    <string name="main_story_4">Find &font_cyan;clues&font_end; about the whereabouts of &font_red;The Tyrant&font_end;.</string>
-    <string name="main_story_5_dialog_message">The &font_red;monster &font_end;dropped a strange &font_cyan;Piece Of Map&font_end;. You don\'t know what it exactly is. You should ask a &font_cyan;Cartographer &font_end;about it.</string>
-    <string name="main_story_5">Talk with a &font_cyan;Cartographer&font_end; about the &font_cyan;Piece of Map &font_end;you found. It surely is related with &font_red;The Tyrant &font_end;whereabouts.</string>
-    <string name="shop_cartographer">Cartographer</string>
-    <string name="main_story_cartographer_dialog_1">Hello! What can I help you with?</string>
-    <string name="main_story_cartographer_dialog_button_show_piece_of_map">Show the &font_cyan;Piece Of Map&font_end;</string>
-    <string name="main_story_cartographer_dialog_2">Oh my… is this what I think it is? I can\'t believe it!</string>
-    <string name="main_story_cartographer_dialog_3">This is one &font_cyan;Piece Of Map &font_end;from the legends! It\'s real!</string>
-    <string name="main_story_cartographer_dialog_4">Excuse me for the excitement… I never thought I\'d see something like this…</string>
-    <string name="main_story_cartographer_dialog_5" tools:ignore="PluralsCandidate">Well, the legend says that if you find the %1$d pieces, you\'ll be able to find &font_red;The Tyrant&font_end; &font_cyan;Island&font_end;… I thought it was just a legend, but now I see it exists…</string>
-    <string name="main_story_cartographer_dialog_6">Be careful on your journey to find the &font_cyan;Pieces Of Map&font_end;. The monsters guarding them are very dangerous…</string>
-    <string name="main_story_6">Find &font_cyan;%1$d &font_end;x &font_cyan;Piece of Map&font_end;. &font_cyan;The Cartographer &font_end;told you that when you do, you\'ll be able to join the pieces into a &font_cyan;Nautical Chart &font_end;and finally be able to find &font_red;The Tyrant &font_end;whereabouts.</string>
+    <string name="main_story_the_carpenter_7">Tenez, prenez ma &font_wood;Hache&font_end; ! Vous pourrez couper les &font_wood;Arbres &font_end;pour récupérer du &font_wood;Bois&font_end;.</string>
+    <string name="main_story_the_carpenter_8">Bon, j'attendrai près de &font_wood;l'Épave &font_end;pendant que tu vas chercher le &font_wood;Bois&font_end;! &font_cyan;5 &font_end;pièces devrait être suffisant. À bientôt!</string>
+    <string name="main_story_the_carpenter_left">&font_wood;Le Vieux Charpentier &font_end;s'en va…</string>
+    <string name="main_story_the_carpenter_shipwreck_button">Lui parler de &font_wood;l'Épave&font_end;</string>
+    <string name="main_story_3">Trouvez &font_cyan;5&font_end; x &font_wood;Bois&font_end; et rapportez le au &font_wood;Vieux Charpentier &font_end;vers &font_cyan;%1$d&font_end;, &font_cyan;%2$d &font_end;pour qu'il puisse réparer &font_wood;l'Épave&font_end;!.</string>
+    <string name="main_story_the_carpenter_second_dialog_1">Bonjour! Avez-vous trouvé &font_cyan;5 &font_end;pièces de &font_wood;Bois&font_end;?</string>
+    <string name="main_story_the_carpenter_second_dialog_1_not_enough">Oh, vous n'en avez pas assez… revenez quand vous aurez au moins &font_cyan;5 &font_end;pièces de &font_wood;Bois&font_end;!</string>
+    <string name="main_story_the_carpenter_second_dialog_2">Oh, parfait! Commençons immédiatement!</string>
+    <string name="main_story_the_carpenter_second_dialog_repairing_ship">&font_wood;Le Vieux Charpentier &font_end;est en train de réparer le &font_wood;Bateau&font_end;</string>
+    <string name="main_story_the_carpenter_third_dialog_1">J'ai pas perdu la main, vous pouvez maintenant naviguer à travers les îles à la recherche d'indice pour trouver &font_red;Le Tyrant&font_end;! Bonne chance, et merci pour tout!</string>
+    <string name="main_story_the_carpenter_end_dialog">Bonjour, héro! Comment est-ce que la traque du&font_red; Tyrant &font_end;se passe?</string>
+    <string name="main_story_4">Trouve des &font_cyan;indices&font_end; sur les faits et gestes du&font_red; Tyrant&font_end;.</string>
+    <string name="main_story_5_dialog_message">Le &font_red;monstre &font_end;à laché un &font_cyan;Morceau De Carte&font_end;. Tu ne sais pas exactement ce que ça représente. Tu devrais en parler à un &font_cyan;Cartographe&font_end;.</string>
+    <string name="main_story_5">Parler avec un &font_cyan;Cartographe&font_end; à propos d'un &font_cyan;Morceau De Carte &font_end;que tu as trouvé. Ça a peut être un lien avec &font_red;Le Tyrant &font_end;.</string>
+    <string name="shop_cartographer">Cartographe</string>
+    <string name="main_story_cartographer_dialog_1">Bonjour! Comment est-ce que je peux vous aider?</string>
+    <string name="main_story_cartographer_dialog_button_show_piece_of_map">Montrer le &font_cyan;Bout de Carte&font_end;</string>
+    <string name="main_story_cartographer_dialog_2">Oh mais… est-ce que c'est ce que je pense? je ne peux pas y croire!</string>
+    <string name="main_story_cartographer_dialog_3">C'est l'un des &font_cyan;Morceau De Carte &font_end;de la légende! C'est réel!</string>
+    <string name="main_story_cartographer_dialog_4">Désolé pour toute cette agitation… Je ne pensais jamais la voir de ma vie…</string>
+    <string name="main_story_cartographer_dialog_5" tools:ignore="PluralsCandidate">En faites, la légende raconte que si tu rassembles les %1$d morceau, tu seras capable de trouver &font_cyan;l'Île&font_end; du &font_red;Tyrant&font_end;… Du moins, je pensais que ce n'était qu'une légende, mais voici la preuve du contraire sous mes yeux…</string>
+    <string name="main_story_cartographer_dialog_6">Je te conseillerai d'être prudent lors de la récupération des &font_cyan;Morceau De Carte&font_end;. Les monstres les gardant sont généralement très puissant…</string>
+    <string name="main_story_6">Trouvez &font_cyan;%1$d &font_end;x &font_cyan;Morceau De Carte&font_end;. &font_cyan;Le Cartographe &font_end;vous a raconté qu'en joignant ceux-ci, vous seriez capable de trouver l'île ou réside &font_red;Le Tyrant&font_end;.</string>
     <string name="main_story_6_got_a_piece_total_amount" tools:ignore="PluralsCandidate">Got a &font_cyan;Piece of Map&font_end;! You\'ve got %1$d pieces! %2$d pieces left…</string>
     <string name="main_story_6_got_the_pieces" tools:ignore="PluralsCandidate">Got all the pieces! Join them as &font_cyan;The Cartographer &font_end;told you to…</string>
     <string name="main_story_7">Follow the &font_cyan;Nautical Chart&font_end; to &font_red;The Tyrant&font_end; &font_cyan;Island &font_end;and kill him!</string>
