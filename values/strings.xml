@@ -3492,6 +3492,9 @@
 
     <string name="inventory_used_infinity_energy">Used &font_infinity;Infinity &font_end;&font_cyan;Energy&font_end;!</string>
 
-    <string name="item_info_ascension_flame">You feel this &asterisk_ascend_color;Ascension &font_end;&font_red;Flame &font_end;
-        is the most powerful thing you\'ve ever touched… You wonder what may this be used for…</string>
+    <string name="item_info_ascension_flame">You feel this &asterisk_ascend_color;Ascension &font_end;&font_red;Flame &font_end;is the most powerful thing you\'ve ever touched… You wonder what may this be used for…</string>
+    <string name="settings_leaderboards">Leaderboards</string>
+
+    <string name="error_accessing_leaderboards">Error accessing leaderboards…</string>
+    <string name="error_signing_inn">Error signing inn</string>
 </resources>

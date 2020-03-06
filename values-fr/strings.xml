@@ -2248,35 +2248,38 @@
     <string name="main_story_the_carpenter_5b">Si j\'en avait un, je serais parti moi même trouver des indices sur les quartiers du &font_red;Tyrant &font_end;pour que je puisse lui botter le * ! (si je n\'étais pas aussi vieux…)</string>
     <string name="main_story_the_carpenter_6">Tu dis avoir trouvé une &font_wood;Épave &font_end;vers &font_cyan;%1$d&font_end;, &font_cyan;%2$d &font_end;? Je pense pouvoir le réparer si tu me ramènes assez de &font_wood;Bois&font_end;!</string>
     <string name="main_story_the_carpenter_7">Tenez, prenez ma &font_wood;Hache&font_end; ! Vous pourrez couper les &font_wood;Arbres &font_end;pour récupérer du &font_wood;Bois&font_end;.</string>
-    <string name="main_story_the_carpenter_8">Bon, j'attendrai près de &font_wood;l'Épave &font_end;pendant que tu vas chercher le &font_wood;Bois&font_end;! &font_cyan;5 &font_end;pièces devrait être suffisant. À bientôt!</string>
-    <string name="main_story_the_carpenter_left">&font_wood;Le Vieux Charpentier &font_end;s'en va…</string>
-    <string name="main_story_the_carpenter_shipwreck_button">Lui parler de &font_wood;l'Épave&font_end;</string>
-    <string name="main_story_3">Trouvez &font_cyan;5&font_end; x &font_wood;Bois&font_end; et rapportez le au &font_wood;Vieux Charpentier &font_end;vers &font_cyan;%1$d&font_end;, &font_cyan;%2$d &font_end;pour qu'il puisse réparer &font_wood;l'Épave&font_end;!.</string>
+    <string name="main_story_the_carpenter_8">Bon, j\'attendrai près de &font_wood;l\'Épave &font_end;pendant que tu vas chercher le &font_wood;Bois&font_end;! &font_cyan;5 &font_end;pièces devrait être suffisant. À bientôt!</string>
+    <string name="main_story_the_carpenter_left">&font_wood;Le Vieux Charpentier &font_end;s\'en va…</string>
+    <string name="main_story_the_carpenter_shipwreck_button">Lui parler de &font_wood;l\'Épave&font_end;</string>
+    <string name="main_story_3">Trouvez &font_cyan;5&font_end; x &font_wood;Bois&font_end; et rapportez le au &font_wood;Vieux Charpentier &font_end;vers &font_cyan;%1$d&font_end;, &font_cyan;%2$d &font_end;pour qu\'il puisse réparer &font_wood;l\'Épave&font_end;!.</string>
     <string name="main_story_the_carpenter_second_dialog_1">Bonjour! Avez-vous trouvé &font_cyan;5 &font_end;pièces de &font_wood;Bois&font_end;?</string>
-    <string name="main_story_the_carpenter_second_dialog_1_not_enough">Oh, vous n'en avez pas assez… revenez quand vous aurez au moins &font_cyan;5 &font_end;pièces de &font_wood;Bois&font_end;!</string>
+    <string name="main_story_the_carpenter_second_dialog_1_not_enough">Oh, vous n\'en avez pas assez… revenez quand vous aurez au moins &font_cyan;5 &font_end;pièces de &font_wood;Bois&font_end;!</string>
     <string name="main_story_the_carpenter_second_dialog_2">Oh, parfait! Commençons immédiatement!</string>
     <string name="main_story_the_carpenter_second_dialog_repairing_ship">&font_wood;Le Vieux Charpentier &font_end;est en train de réparer le &font_wood;Bateau&font_end;</string>
-    <string name="main_story_the_carpenter_third_dialog_1">J'ai pas perdu la main, vous pouvez maintenant naviguer à travers les îles à la recherche d'indice pour trouver &font_red;Le Tyrant&font_end;! Bonne chance, et merci pour tout!</string>
-    <string name="main_story_the_carpenter_end_dialog">Bonjour, héro! Comment est-ce que la traque du&font_red; Tyrant &font_end;se passe?</string>
-    <string name="main_story_4">Trouve des &font_cyan;indices&font_end; sur les faits et gestes du&font_red; Tyrant&font_end;.</string>
+    <string name="main_story_the_carpenter_third_dialog_1">J\'ai pas perdu la main, vous pouvez maintenant naviguer à travers les îles à la recherche d\'indice pour trouver &font_red;Le Tyrant&font_end;! Bonne chance, et merci pour tout!</string>
+    <string name="main_story_the_carpenter_end_dialog">Bonjour, héro! Comment est-ce que la traque du&font_red;
+        Tyrant &font_end;se passe?</string>
+    <string name="main_story_4">Trouve des &font_cyan;indices&font_end; sur les faits et gestes du&font_red;
+        Tyrant&font_end;.</string>
     <string name="main_story_5_dialog_message">Le &font_red;monstre &font_end;à laché un &font_cyan;Morceau De Carte&font_end;. Tu ne sais pas exactement ce que ça représente. Tu devrais en parler à un &font_cyan;Cartographe&font_end;.</string>
-    <string name="main_story_5">Parler avec un &font_cyan;Cartographe&font_end; à propos d'un &font_cyan;Morceau De Carte &font_end;que tu as trouvé. Ça a peut être un lien avec &font_red;Le Tyrant &font_end;.</string>
+    <string name="main_story_5">Parler avec un &font_cyan;Cartographe &font_end;à propos d\'un &font_cyan;Morceau De Carte &font_end;que tu as trouvé. Ça a peut être un lien avec &font_red;Le Tyrant&font_end;.</string>
     <string name="shop_cartographer">Cartographe</string>
     <string name="main_story_cartographer_dialog_1">Bonjour! Comment est-ce que je peux vous aider?</string>
     <string name="main_story_cartographer_dialog_button_show_piece_of_map">Montrer le &font_cyan;Bout de Carte&font_end;</string>
-    <string name="main_story_cartographer_dialog_2">Oh mais… est-ce que c'est ce que je pense? je ne peux pas y croire!</string>
-    <string name="main_story_cartographer_dialog_3">C'est l'un des &font_cyan;Morceau De Carte &font_end;de la légende! C'est réel!</string>
+    <string name="main_story_cartographer_dialog_2">Oh mais… est-ce que c\'est ce que je pense? je ne peux pas y croire!</string>
+    <string name="main_story_cartographer_dialog_3">C\'est l\'un des &font_cyan;Morceau De Carte &font_end;de la légende! C\'est réel!</string>
     <string name="main_story_cartographer_dialog_4">Désolé pour toute cette agitation… Je ne pensais jamais la voir de ma vie…</string>
-    <string name="main_story_cartographer_dialog_5" tools:ignore="PluralsCandidate">En faites, la légende raconte que si tu rassembles les %1$d morceau, tu seras capable de trouver &font_cyan;l'Île&font_end; du &font_red;Tyrant&font_end;… Du moins, je pensais que ce n'était qu'une légende, mais voici la preuve du contraire sous mes yeux…</string>
-    <string name="main_story_cartographer_dialog_6">Je te conseillerai d'être prudent lors de la récupération des &font_cyan;Morceau De Carte&font_end;. Les monstres les gardant sont généralement très puissant…</string>
-    <string name="main_story_6">Trouvez &font_cyan;%1$d &font_end;x &font_cyan;Morceau De Carte&font_end;. &font_cyan;Le Cartographe &font_end;vous a raconté qu'en joignant ceux-ci, vous seriez capable de trouver l'île ou réside &font_red;Le Tyrant&font_end;.</string>
+    <string name="main_story_cartographer_dialog_5" tools:ignore="PluralsCandidate">En faites, la légende raconte que si tu rassembles les %1$d morceau, tu seras capable de trouver &font_cyan;l\'Île&font_end;
+        du &font_red;Tyrant&font_end;… Du moins, je pensais que ce n\'était qu\'une légende, mais voici la preuve du contraire sous mes yeux…</string>
+    <string name="main_story_cartographer_dialog_6">Je te conseillerai d\'être prudent lors de la récupération des &font_cyan;Morceau De Carte&font_end;. Les monstres les gardant sont généralement très puissant…</string>
+    <string name="main_story_6">Trouvez &font_cyan;%1$d &font_end;x &font_cyan;Morceau De Carte&font_end;. &font_cyan;Le Cartographe &font_end;vous a raconté qu\'en joignant ceux-ci, vous seriez capable de trouver l\'île ou réside &font_red;Le Tyrant&font_end;.</string>
     <string name="main_story_6_got_a_piece_total_amount" tools:ignore="PluralsCandidate">Got a &font_cyan;Piece of Map&font_end;! You\'ve got %1$d pieces! %2$d pieces left…</string>
     <string name="main_story_6_got_the_pieces" tools:ignore="PluralsCandidate">Got all the pieces! Join them as &font_cyan;The Cartographer &font_end;told you to…</string>
     <string name="main_story_7">Follow the &font_cyan;Nautical Chart&font_end; to &font_red;The Tyrant&font_end; &font_cyan;Island &font_end;and kill him!</string>
     <string name="main_story_7_advice_before_sail_title">Travel to &font_red;The Tyrant&font_end; &font_cyan;Island&font_end;?</string>
     <string name="main_story_7_advice_before_sail_message">Are you prepared? You may not make it back from there…</string>
     <string name="monster_thetyrant">The Tyrant</string>
-    <string name="main_story_7_the_tyrant_message_1">S\'il vous plaît, arrêtez ! Je me rend !</string>
+    <string name="main_story_7_the_tyrant_message_1">S\'il vous plaît, arrêtez! Je me rend !</string>
     <string name="main_story_7_the_tyrant_message_2">I was just following orders… he… he said he would kill me if I didn\'t follow his orders…</string>
     <string name="main_story_7_the_tyrant_message_2_button">Who?</string>
     <string name="main_story_7_the_tyrant_message_3">I can\'t tell… well… you were going to kill me anyway… so…</string>
@@ -2996,7 +2999,7 @@
     <string name="elf_traits">&font_cyan;* &font_end;Starts with &font_cyan;5 &font_end;x &font_plant;Plant &font_end;and &font_cyan;5 &font_end;x &font_mushroom;Mushroom&font_end;.&br;&br;&font_mana;Mana Flow&font_end;: Regenerates &font_cyan;1% &font_end;&font_mana;mana &font_end;every turn if &font_health;health &font_end;is over &font_cyan;50%&font_end;.&br;&br;&font_mana;Elven Magic&font_end;: Have extra &font_mana;mana &font_end;(&font_cyan;+25&font_end;).</string>
     <string name="drow_traits">&font_portal;Teleport&font_end;: Can &font_portal;teleport &font_end;to a random location in the island.&br;&br;&font_mana;Mana Flow&font_end;: Regenerates &font_cyan;1% &font_end;&font_mana;mana &font_end;every turn if &font_health;health &font_end;is over &font_cyan;50%&font_end;.&br;&br;&font_mana;Elven Magic&font_end;: Have extra &font_mana;mana &font_end;(&font_cyan;+25&font_end;).</string>
     <string name="undead_traits">&font_green;Weather Immunity&font_end;: Immune to &font_red;Hot &font_end;or &font_tundra;Cold &font_end;damage.&br;&br;&font_health;Unbreakable&font_end;: If a &font_red;Monster&font_end;\'s attack would kill you, you resist it and survive with &font_health;1 &font_end;health point.&br;&br;&font_hunger;Undead Hunger&font_end;: &font_hunger;Hunger &font_end;increases faster, but can eat from corpses to restore &font_hunger;Hunger&font_end;, &font_health;Health &font_end;and &font_mana;Mana&font_end;.</string>
-    <string name="orc_traits">&font_dark_green;Tough Skin&font_end;: &font_cyan;5%% &font_end;damage reduction in combat.&br;&br;&font_attack;Berserk&font_end;: In combat, using the "Attack" command increases a &font_cyan;10%% &font_end;the damage each turn. When using a different action in combat, the &font_attack;Berserk &font_end;bonus is lost.&br;&br;&font_dark_green;First Strike&font_end;: When attacking a monster, performs an initial hit.&br;&br;</string>
+    <string name="orc_traits">&font_dark_green;Tough Skin&font_end;: &font_cyan;5% &font_end;damage reduction in combat.&br;&br;&font_attack;Berserk&font_end;: In combat, using the "Attack" command increases a &font_cyan;10% &font_end;the damage each turn. When using a different action in combat, the &font_attack;Berserk &font_end;bonus is lost.&br;&br;&font_dark_green;First Strike&font_end;: When attacking a monster, performs an initial hit.&br;&br;</string>
     <string name="lizard_traits">&font_health;Regeneration&font_end;: Regenerates &font_cyan;2% &font_end;of &font_health;health &font_end;every turn when the weather is &font_yellow;Sunny&font_end;.&br;&br;&font_cyan;Slippery&font_end;: Always succeeds fleeing (if fleeing is allowed).&br;&br;&font_insect;Insect Eater&font_end;: Can &font_hunger;eat &font_end;&font_insect;insects &font_end;without having to capture them.</string>
     <string name="unknown_traits">&font_cyan;* &font_end;Start with &font_cyan;15 &font_end;Skill Points.&br;&br;&font_cyan;* &font_end;Start with a random &font_cyan;Nautical Chart&font_end;&br;&br;&font_cyan;* &font_end;Start with a random &font_mana;Spell &font_end;Book.</string>
 

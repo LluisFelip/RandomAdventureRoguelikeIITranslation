@@ -110,6 +110,7 @@
     <!ENTITY font_aragonite "&lt;font color=&quot;#F39965&quot;&gt;">
     <!ENTITY font_saphir "&lt;font color=&quot;#0f52ba&quot;&gt;">
     <!ENTITY font_ruby "&lt;font color=&quot;#e0115f&quot;&gt;">
+    <!ENTITY asterisk_ascend_color "&lt;font color=&quot;#9C27B0&quot;&gt;">
     ]>
 
 <resources xmlns:tools="http://schemas.android.com/tools">
@@ -3401,5 +3402,78 @@
     <string name="main_story_7_the_tyrant_message_6_new">Use this &font_wood;Stairway &font_end;To &font_red;Hell &font_end;to find him…</string>
 
     <string name="text_cant_move_here">Can\'t move here…</string>
+
+    <string name="creator_pre_combat_message_1">You know… It\’s not easy to be &font_asterisk_creator;The Creator&font_end;… Always coding, adding greater challenges, fixing bugs, answering emails, chatting in discord, reddit, the web, etc…</string>
+    <string name="creator_pre_combat_message_2">And all of it for what? Tell me, why am I supposed to do this? I can\'t stand the pressure anymore…!</string>
+    <string name="creator_pre_combat_message_3">GET READY TO DIE! Mmmmmwwwwahahahahahahaha!</string>
+
+    <string name="void_master_after_killing_text_4">Well well… You are wearing a complete set of the &font_void;Void&font_end;… Here you are, you will know what to do with it…</string>
+
+    <string name="dungeon_infinite_vortex">&font_infinity;Infinite &font_end;&font_void;Vortex&font_end;</string>
+    <string name="collection_tiles">Tiles</string>
+    <string name="collection_cassettes">Cassettes</string>
+    <string name="cassette_menu">Menu</string>
+    <string name="cassette_new_game">New Game</string>
+    <string name="cassette_journey">Journey</string>
+    <string name="cassette_game_over">Game Over</string>
+    <string name="cassette_collections">Collections</string>
+    <string name="collection_dungeons">Dungeons</string>
+
+    <string name="button_play">Play</string>
+
+    <string name="cassette_rar1_menu">RAR I - Menu</string>
+    <string name="cassette_rar1_journey">RAR I - Journey</string>
+    <string name="cassette_rar1_game_over">RAR I - Game Over</string>
+    <string name="cassette_rar1_collections">RAR I - Collections</string>
+
+    <string name="tile_content_type_cassette">&font_alchemist;Cassette&font_end;</string>
+    <string name="cassette_name">&font_alchemist;Cassette &font_end;(%s)</string>
+    <string name="item_info_cassette">This seems to be an ancient relic of sorts. Who knows what is this used for…</string>
+
+    <string name="wise_ascend_message_confirmation">If you &asterisk_ascend_color;Ascend&font_end;, you\'ll start over from level 1. You\'ll forget every island, quest, etc…, and you\'ll lose all your items, your gold… BUT, you\'ll have improved starting stats, you\'ll obtain an &asterisk_ascend_color;Ascension &font_end;&font_red;Flame&font_end;…!</string>
+    <string name="wise_ascend_message_confirmation_2">Are you sure you want to &asterisk_ascend_color;Ascend&font_end;?</string>
+
+    <string name="ascend_toast">Everything becomes dark…</string>
+    <string name="ascend_end_toast">…you feel alive again…</string>
+
+    <string name="title_the_ascended_male">%1$s, the &asterisk_ascend_color;Ascended&font_end;</string>
+    <string name="title_the_ascended_female">%1$s, the &asterisk_ascend_color;Ascended&font_end;</string>
+    <string name="title_the_ascended_no_gender">%1$s, the &asterisk_ascend_color;Ascended&font_end;</string>
+
+    <string name="material_type_ascension_flame">&asterisk_ascend_color;Ascension &font_end;&font_red;Flame&font_end;</string>
+
+    <string name="tile_content_type_cassette_collector">&font_alchemist;Cassette &font_end;&font_gold;Collector&font_end;</string>
+    <string name="tile_content_type_cassette_collector_with_gem">&font_alchemist;Cassette &font_end;&font_gold;Collector &font_end;(%s)</string>
+
+    <string name="cassette_collector_message">Hello! I\'m a &font_alchemist;Cassette &font_end;&font_gold;Collector&font_end;!&br;&br;If you happen to have any &font_alchemist;Cassette&font_end;, would you give it to me? I would give you a %1$s in exchange…</string>
+    <string name="cassette_collector_you_dont_have_any_cassette">You don\'t have any &font_alchemist;Cassette&font_end;…</string>
+
+    <string name="collection_material">Material</string>
+
+    <string name="material_type_red_opal">&font_red;Red &font_end;&font_onyx;Opal&font_end;</string>
+    <string name="material_type_green_opal">&font_green;Green &font_end;&font_onyx;Opal&font_end;</string>
+    <string name="material_type_blue_opal">&font_blue;Blue &font_end;&font_onyx;Opal&font_end;</string>
+
+    <string name="sphinx_info_with_ankh">You look at the giant &font_pyramid;Sphinx &font_end;and are amazed about its size and beauty. It seems pretty old.&br;&br;The &font_gold;Ankh &font_end;in your pocket starts to vibrate. Do you want to use it?</string>
+    <string name="monster_appears">%s appears!</string>
+
+    <string name="monster_action_shadow_ray">Shadow Ray</string>
+    <string name="monster_action_infinity_punch">Infinity Punch</string>
+    <string name="monster_action_everything">Everything</string>
+    <string name="monster_action_annoying_bug">Annoying Bug</string>
+    <string name="monster_action_game_glitch">Game Glitch</string>
+    <string name="monster_action_reality_crash">Reality Crash</string>
+
+    <string name="item_info_ankh">It seems to have a small drawing of a &font_pyramid;Sphinx&font_end;…</string>
+
+    <string name="inventory_use_red_opal">Use &font_red;Red &font_end;&font_onyx;Opal &font_end;to increase your max. hunger by &font_hunger;%1$d&font_end;.</string>
+    <string name="inventory_use_green_opal">Use &font_green;Green &font_end;&font_onyx;Opal &font_end;to increase your max. health by &font_health;%1$d&font_end;.</string>
+    <string name="inventory_use_blue_opal">Use &font_blue;Blue &font_end;&font_onyx;Opal &font_end;to increase your max. mana by &font_mana;%1$d&font_end;.</string>
+    <string name="inventory_use_infinity_energy">Use &font_infinity;Infinity &font_end;&font_cyan;Energy &font_end;to completely restore your &font_health;health &font_end;, &font_mana;mana &font_end;and &font_hunger;hunger&font_end;.</string>
+
+    <string name="inventory_used_infinity_energy">Used &font_infinity;Infinity &font_end;&font_cyan;Energy&font_end;!</string>
+
+    <string name="item_info_ascension_flame">You feel this &asterisk_ascend_color;Ascension &font_end;&font_red;Flame &font_end;is the most powerful thing you\'ve ever touched… You wonder what may this be used for…</string>
+
 
 </resources>
