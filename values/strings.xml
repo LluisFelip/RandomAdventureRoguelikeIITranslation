@@ -3506,5 +3506,6 @@
 
     <string name="tool_wasted">%1$s is wasted! Use a %2$s to repair it.</string>
     <string name="tile_content_type_repair_kit">Repair Kit</string>
+    <string name="dark_orb_vibrates">The %1$s vibrates…</string>
 
 </resources>
