@@ -1630,7 +1630,6 @@
     <string name="tile_content_type_pet">&font_pet;Compagnon&font_end;</string>
     <string name="tile_content_type_nautical_chart_black_island">Carte de Navigation (&font_black_low;Île Noire&font_end;)</string>
     <string name="tile_content_type_nautical_chart_white_island">Carte de Navigation (&font_white;Île Blanche&font_end;)</string>
-    <string name="tile_content_type_whetstone">Pierre à aiguiser</string>
     <string name="tile_content_type_spell_book">Livre de &font_mana;Sort&font_end;</string>
     <string name="tile_content_type_explorer">Explorateur</string>
     <string name="tile_content_type_meditator">Mediteur</string>

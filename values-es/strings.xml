@@ -1649,7 +1649,6 @@
     <string name="tile_content_type_pet">&font_pet;Mascota&font_end;</string>
     <string name="tile_content_type_nautical_chart_black_island">Carta Náutica (&font_cyan;Isla &font_end;&font_black_low;Negra&font_end;)</string>
     <string name="tile_content_type_nautical_chart_white_island">Carta Náutica (&font_cyan;Isla &font_end;&font_white;Blanca&font_end;)</string>
-    <string name="tile_content_type_whetstone">Piedra de Afilar</string>
     <string name="tile_content_type_spell_book">Libro de &font_mana;Hechizo&font_end;</string>
     <string name="tile_content_type_explorer">Explorador</string>
     <string name="tile_content_type_meditator">Meditador</string>

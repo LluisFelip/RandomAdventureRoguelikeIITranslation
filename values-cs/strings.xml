@@ -1689,7 +1689,6 @@
     <string name="tile_content_type_pet">&font_pet;Pet&font_end;</string>
     <string name="tile_content_type_nautical_chart_black_island">Nautical Chart (&font_black_low;Black &font_end;&font_cyan;Island&font_end;)</string>
     <string name="tile_content_type_nautical_chart_white_island">Nautical Chart (&font_white;White &font_end;&font_cyan;Island&font_end;)</string>
-    <string name="tile_content_type_whetstone">Whetstone</string>
     <string name="tile_content_type_spell_book">&font_mana;Spell&font_end; Book</string>
     <string name="tile_content_type_explorer">Explorer</string>
     <string name="tile_content_type_meditator">Meditator</string>
