@@ -115,30 +115,31 @@
 
 <resources xmlns:tools="http://schemas.android.com/tools">
 
-  <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
-  <!-- DO NOT TRANSLATE                                                                        -->
-  <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+    <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+    <!-- DO NOT TRANSLATE                                                                        -->
+    <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
 
-<string name="marked_char_with_color" translatable="false">[&lt;font color=\"%1$s\"&gt;%2$c&font_end;]</string>
-<string name="mark_white" translatable="false">&font_white;#ffffff&font_end;</string>
-<string name="mark_red" translatable="false">&font_red;#ff0000&font_end;</string>
-<string name="mark_green" translatable="false">&font_green;#00ff00&font_end;</string>
-<string name="mark_blue" translatable="false">&font_blue;#0000ff&font_end;</string>
-<string name="mark_yellow" translatable="false">&font_mark_yellow;#ffff00&font_end;</string>
-<string name="mark_magenta" translatable="false">&font_mark_magenta;#ff00ff&font_end;</string>
-<string name="mark_cyan" translatable="false">&font_mark_cyan;#00ffff&font_end;</string>
+    <string name="marked_char_with_color" translatable="false">[&lt;font color=\"%1$s\"&gt;%2$c&font_end;]</string>
+    <string name="mark_white" translatable="false">&font_white;#ffffff&font_end;</string>
+    <string name="mark_red" translatable="false">&font_red;#ff0000&font_end;</string>
+    <string name="mark_green" translatable="false">&font_green;#00ff00&font_end;</string>
+    <string name="mark_blue" translatable="false">&font_blue;#0000ff&font_end;</string>
+    <string name="mark_yellow" translatable="false">&font_mark_yellow;#ffff00&font_end;</string>
+    <string name="mark_magenta" translatable="false">&font_mark_magenta;#ff00ff&font_end;</string>
+    <string name="mark_cyan" translatable="false">&font_mark_cyan;#00ffff&font_end;</string>
 
-<string name="text_br" translatable="false">&br;</string>
+    <string name="text_br" translatable="false">&br;</string>
 
-<string name="cyan_text" translatable="false">&font_cyan;%1$s&font_end;</string>
-<string name="gold_number" translatable="false">&font_gold;%1$d&font_end;</string>
+    <string name="cyan_text" translatable="false">&font_cyan;%1$s&font_end;</string>
+    <string name="gold_number" translatable="false">&font_gold;%1$d&font_end;</string>
 
-<string name="app_name" translatable="false">RAR II</string>
-<string name="menu_title" translatable="false">Random Adventure&line_break;Roguelike&line_break;II</string>
-<string name="title_" translatable="false">Random&line_break;Adventure&line_break;Roguelike</string>
-<string name="title_2" translatable="false">II</string>
+    <string name="app_name" translatable="false">RAR II</string>
+    <string name="menu_title" translatable="false">Random Adventure&line_break;Roguelike&line_break;II</string>
+    <string name="title_" translatable="false">Random&line_break;Adventure&line_break;Roguelike</string>
+    <string name="title_2" translatable="false">II</string>
 
-<string name="new_game_hero_name_with_roman_number" translatable="false">%1$s %2$s</string>
+    <string name="new_game_hero_name_with_roman_number" translatable="false">%1$s %2$s</string>
+
 
     <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
     <!-- TRANSLATE                                                                               -->
@@ -240,25 +241,29 @@
     <string name="advantage_librarian">&font_wood;사서&font_end;</string>
     <string name="advantage_librarian_desc">(당신은 무작위 제작 레시피, &font_cyan;경험치&font_end;물약 그리고 5 &font_cyan;스킬&font_end;포인트를 갖고 시작합니다)</string>
     <string name="advantage_random_desc">(당신은 무작위 특기로 시작합니다)</string>
-    <string name="advantage_warrior_desc">(당신은 &font_attack;무기&font_end;,&font_defense;방패&font_end; 그리고 &font_defense;갑옷을&font_end; 가지고 시작합니다)</string>
+    <string name="advantage_warrior_desc">(당신은 &font_attack;무기&font_end;,&font_defense;방패&font_end;
+        그리고 &font_defense;갑옷을&font_end; 가지고 시작합니다)</string>
     <string name="advantage_ranger_desc">(당신은 &font_speed;원거리&font_end;무기 그리고 약간의 탄약을 가지고 시작합니다)</string>
 
 
     <!-- NOTE FOR LANGUAGES ALREADY TRANSLATED: Translate these three  - - - - - - - - - - - - - -->
     <string name="advantage_wizard_desc">(당신은 무작위 &font_mana;주문 &font_end;그리고 &font_mana;지팡이&font_end;를 가지고 시작합니다)</string>
     <string name="advantage_cleric_desc">(당신은 &font_health;회복&font_end; &font_mana;주문 &font_end;그리고 &font_mana;지팡이&font_end;를 가지고 시작합니다)</string>
-    <string name="advantage_petmaster_desc">(당신은 &font_red;몬스터&font_end; &font_pet;포획&font_end; &font_mana;주문&font_end;, 그리고 CR &font_cyan;0&font_end; &font_red;몬스터&font_end; &font_pet;펫&font_end; 그리고 &font_pet;펫 &font_end;&font_cyan;목걸이&font_end;를 가지고 시작합니다)</string>
+    <string name="advantage_petmaster_desc">(당신은 &font_red;몬스터&font_end; &font_pet;포획&font_end; &font_mana;주문&font_end;, 그리고 CR &font_cyan;0&font_end; &font_red;몬스터&font_end; &font_pet;펫&font_end;
+        그리고 &font_pet;펫 &font_end;&font_cyan;목걸이&font_end;를 가지고 시작합니다)</string>
     <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
 
     <string name="advantage_worker_desc">(당신은 무작위 &font_cyan;도구&font_end;를 가지고 시작합니다)</string>
     <string name="advantage_alchemist_desc">(당신은 &font_cyan;1 &font_end;가지 타입의 물약 제작 능력 그리고 &font_cyan;3 &font_end;개의 무작위 재료를 가지고 시작합니다)</string>
-    <string name="advantage_blacksmith_desc">(당신은 &font_attack;무기&font_end; 제작 능력,&font_defense;방패&font_end;,&font_defense;갑옷 &font_end;그리고&font_cyan; 3&font_end;개의 무작위 재료를 가지고 시작합니다)</string>
+    <string name="advantage_blacksmith_desc">(당신은 &font_attack;무기&font_end; 제작 능력,&font_defense;방패&font_end;,&font_defense;갑옷 &font_end;그리고&font_cyan;
+        3&font_end;개의 무작위 재료를 가지고 시작합니다)</string>
     <string name="advantage_noble_desc">(당신은 추가의 &font_gold;골드&font_end;를 가지고 시작합니다)</string>
     <string name="advantage_random_selected">%1$s로 시작!</string>
 
     <string name="new_game_permadeath_question">난이도를 골라주세요…?</string>
     <string name="new_game_permadeath_selected">&font_red;&bold;PERMADEATH&bold_end;&font_end; 모드가 선택되었습니다.&br;&br;당신이 &font_red;사망&font_end;한다면, 당신은 &font_cyan;모든걸 잃습니다. &font_end;그리고 당신은 &font_cyan;새롭게 시작해야합니다&font_end;!</string>
-    <string name="new_game_no_permadeath_selected">&font_red;&bold;NO PERMADEATH&bold_end;&font_end; 모드가 선택되었습니다.&br;&br;당신이 사망한다면, 당신은 &font_primary_light;&italic;[저장된 체크포인트] &italic_end;&font_end;에서 다시 시작할 수 있습니다.(&font_inn;여관&font_end;에서 쉬거나, &font_cyan;레벨 업&font_end;을 하면 &font_primary_light;&italic;[저장된 체크포인트]&italic_end;&font_end;가 생성됩니다.).</string>
+    <string name="new_game_no_permadeath_selected">&font_red;&bold;NO PERMADEATH&bold_end;&font_end;
+        모드가 선택되었습니다.&br;&br;당신이 사망한다면, 당신은 &font_primary_light;&italic;[저장된 체크포인트] &italic_end;&font_end;에서 다시 시작할 수 있습니다.(&font_inn;여관&font_end;에서 쉬거나, &font_cyan;레벨 업&font_end;을 하면 &font_primary_light;&italic;[저장된 체크포인트]&italic_end;&font_end;가 생성됩니다.).</string>
     <string name="saved_checkpoint">&font_primary_light;&italic;[저장된 체크포인트]&italic_end;&font_end;</string>
 
     <string name="cemetery_clear">초기화</string>
@@ -431,9 +436,7 @@
     <string name="status_player_name">%1$s</string>
     <string name="status_player_level">레벨 &font_cyan;%1$d&font_end;</string>
     <string name="status_player_experience_needed">경험치: &font_cyan;%1$d&font_end;/&font_cyan;%2$d&font_end;</string>
-    <string name="status_player_gold">골드: &font_gold;%1$d&font_end;
-        (&font_gold;%2$d &font_end;+ &font_gold;%3$d&font_end;
-        &font_gold;(은행)&font_end;)</string>
+    <string name="status_player_gold">골드: &font_gold;%1$d &font_end;(&font_gold;%2$d &font_end;+ &font_gold;%3$d &font_end;&font_gold;(은행)&font_end;)</string>
     <string name="status_permadeath">&font_red;&bold;PERMADEATH&bold_end;&font_end;</string>
     <string name="status_no_permadeath">&font_green;&bold;NO PERMADEATH&bold_end;&font_end;</string>
 
@@ -465,7 +468,7 @@
     <string name="item_experience_potion">&font_cyan;경험치&font_end; 물약</string>
     <string name="item_temporary_potion">&font_white;[일시적]&font_end;</string>
     <string name="item_heal_potion_amount">&font_health;체력&font_end; 물약 (&font_health;%1$d&font_end;)</string>
-    <string name="item_mana_potion_amount">&font_mana;마나&font_end; 물약 (&font_mana;%1$d&font_end;)</string>
+    <string name="item_mana_potion_amount">&font_mana;마나 &font_end;물약 (&font_mana;%1$d&font_end;)</string>
     <string name="item_experience_potion_amount">&font_cyan;경험치&font_end; 물약 (&font_cyan;%1$d&font_end;)</string>
     <string name="item_temporary_potion_amount">%1$s &font_white;[일시적]&font_end; (&font_cyan;%2$d&font_end;)</string>
     <string name="item_shield">방패</string>
@@ -475,11 +478,11 @@
     <string name="item_dark_orb">어둠 구체</string>
     <string name="item_magic_stone_transformed_item">%1$s을(를) %2$s로 바꾸었습니다!</string>
 
-    <string name="purifying_seed_plant_message">&font_purifying;정화의&font_end; &font_plant;씨앗을&font_end; 심을까요?&br;&br;한번 &font_wood;나무&font_end; &font_purifying;정화&font_end;을(를) 시작하면, 섬에 몬스터들이 생기는 것을 막아줍니다.&br;&br;물을 줘야하는걸 기억하세요. &font_water;물&font_end; &font_iron;양동이 &font_end;로 자라게 하세요.</string>
+    <string name="purifying_seed_plant_message">&font_purifying;정화의&font_end; &font_plant;씨앗을 &font_end;심을까요?&br;&br;한번 &font_wood;나무&font_end; &font_purifying;정화&font_end;을(를) 시작하면, 섬에 몬스터들이 생기는 것을 막아줍니다.&br;&br;물을 줘야하는걸 기억하세요. &font_water;물&font_end; &font_iron;양동이 &font_end;로 자라게 하세요.</string>
     <string name="purifying_seed_island_already_purified">어떤 마법의 힘이 심는 것을 막습니다… (이 섬은 이미 정화되었습니다…)</string>
     <string name="purifying_seed_island_already_planted_purified_seed">어떤 마법의 힘이 심는 것을 막습니다… (이 섬은 &font_purifying;정화의&font_end; &font_plant;씨앗 &font_end;이 이미 심어졌습니다…)</string>
-    <string name="purifying_seed_planted">당신은 &font_purifying;정화의&font_end; &font_plant;씨앗을&font_end; 심었습니다.</string>
-    <string name="purifying_seed_watered_magically_grows">&font_purifying;정화의&font_end; &font_plant;씨앗 &font_end;이 마법의 힘으로 &font_purifying;정화의&font_end; &font_wood;나무가&font_end; 되었습니다! 당신은 섬이 정화 되었다는걸 느낍니다.</string>
+    <string name="purifying_seed_planted">당신은 &font_purifying;정화의&font_end; &font_plant;씨앗을 &font_end;심었습니다.</string>
+    <string name="purifying_seed_watered_magically_grows">&font_purifying;정화의&font_end; &font_plant;씨앗 &font_end;이 마법의 힘으로 &font_purifying;정화의&font_end; &font_wood;나무가 &font_end;되었습니다! 당신은 섬이 정화 되었다는걸 느낍니다.</string>
     <string name="purifying_tree_chop_title">&font_purifying;정화의&font_end; &font_wood;나무&font_end;를 자를까요?</string>
     <string name="purifying_tree_chop_message">당신은 &font_purifying;정화의&font_end; &font_wood;나무&font_end;를 잘랐습니다. 이 섬은 더이상 정화되지 않습니다, 몬스터들이 다시 소환됩니다…</string>
     <string name="purifying_tree_island_no_longer_purified">이 섬은 더 이상 정화되지 않습니다… 당신은 악의 기운을 다시 느낍니다…</string>
@@ -561,7 +564,8 @@
     <string name="item_info_tool_pickaxe">이것을 사용하여 &font_stone;돌을 캐서&font_end; &font_stone;돌&font_end;이나 다른 재료를 얻으세요.</string>
     <string name="item_info_tool_fishing_rod">이것을 사용하여 &font_cyan;낚시터&font_end;에서 &font_cyan;낚시&font_end;를 하세요.</string>
     <string name="item_info_tool_net">이것을 사용하여 &font_insect;곤충&font_end;을 잡으세요.</string>
-    <string name="item_info_tool_skinning_knife">이것을 사용하여 &font_green;몬스터의 시체&font_end;에서 &font_skin;피부를&font_end; 얻으세요.</string>
+    <string name="item_info_tool_skinning_knife">이것을 사용하여 &font_green;몬스터의 시체&font_end;에서 &font_skin;피부를&font_end;
+        얻으세요.</string>
     <string name="item_info_tool_meat_cleaver">이것을 사용하여 &font_green;몬스터의 시체&font_end;에서 &font_green;몬스터 살점&font_end;을 얻으세요.</string>
     <string name="item_info_monster_flesh_edible">이것을 먹고 포만감을 &font_green;%1$d&font_end;만큼 채우세요.</string>
     <string name="item_info_monster_flesh_not_edible">이것을 &font_attack;캠프파이어&font_end;에 조리하고 먹을 수 있게 하세요.</string>
@@ -909,7 +913,7 @@
     <string name="combat_monster_dead_vanishes">%1$s은(는) 모래로 바뀌었습니다!</string>
     <string name="combat_monster_attacks">%1$s가 공격합니다!</string>
     <string name="combat_fight">전투</string>
-    <string name="combat_player_flee_fails"도망치려 했지만 실패했습니다…</string>
+    <string name="combat_player_flee_fails">도망치려 실패했습니다 했지만…</string>
     <string name="combat_player_flee_succeeds">성공적으로 도망쳤습니다!</string>
     <string name="combat_killed_monster">%1$s을(를) 죽였습니다!</string>
     <string name="combat_player_is_dead"> &font_cyan;%1$s &font_end;은(는) &line_break;레벨&font_cyan;%2$d&font_end;에 죽었습니다!</string>
@@ -1122,7 +1126,7 @@
     <string name="quest_kill_single_monster_text_giving">%1$s를 죽여라. &font_cyan;%2$d&font_end;, &font_cyan;%3$d&font_end;에 있는. </string>
     <string name="quest_find_lost_item_text_giving">나는 %1$s을(를) 잃어버렸어… 내가 마지막으로 봤을때, 나는 %2$s, %3$s쯤에서 봤어… 제발, 그것을 &font_cyan;찾아서 &font_end;나에게 가져다줘!</string>
     <string name="quest_find_lost_item_text_reward">여기, 너의 보상이야: %1$s!</string>
-    <string name="quest_find_lost_item_text_quest_screen_find">너는 %1$s을(를) 찾아야해. &font_cyan;찾아봐&font_end; %2$s, %3$s 근처에서.</string>
+    <string name="quest_find_lost_item_text_quest_screen_find">너는 %1$s을(를) 찾아야해. &font_cyan;찾아봐 &font_end;%2$s, %3$s 근처에서.</string>
     <string name="quest_find_lost_item_text_quest_screen_return">%1$s을(를) %2$s에게 가져다 주세요. %3$s, %4$s에 있는.</string>
     <string name="quest_find_lost_item_text_villager_complete">%1$s을(를) 가져다줘서 고마워!</string>
     <string name="quest_find_item_now_return_to">%1$s을(를) 찾았습니다! &font_cyan;%2$s &font_end;에게 가져다 주세요. &font_cyan;%3$d&font_end;, &font_cyan;%4$d&font_end;에 있는.</string>
@@ -1231,7 +1235,7 @@
     <string name="quest_rescue_someone_name_12" tools:ignore="UnusedResources">어린아이</string>
     <string name="quest_rescue_someone_name_13" tools:ignore="UnusedResources">아들</string>
     <string name="quest_rescue_someone_name_14" tools:ignore="UnusedResources">딸</string>
-    <string name="quest_rescue_someone_name_15" tools:ignore="UnusedResources">친구<string>
+    <string name="quest_rescue_someone_name_15" tools:ignore="UnusedResources">친구</string>
     <string name="quest_rescue_someone_name_16" tools:ignore="UnusedResources">제빵사</string>
     <string name="quest_rescue_someone_name_17" tools:ignore="UnusedResources">은행원</string>
     <string name="quest_rescue_someone_name_18" tools:ignore="UnusedResources">이웃 주민</string>
@@ -1283,7 +1287,7 @@
     <string name="quest_rescue_someone_name_64" tools:ignore="UnusedResources">불쌍한 여자</string>
     <string name="quest_rescue_someone_name_65" tools:ignore="UnusedResources">불쌍한 남자</string>
     <string name="quest_rescue_someone_name_66" tools:ignore="UnusedResources">불쌍한 남자아이</string>
-    <string name="quest_rescue_someone_name_67" tools:ignore="UnusedResources">불쌍한 여자아이/string>
+    <string name="quest_rescue_someone_name_67" tools:ignore="UnusedResources">불쌍한 여자아이</string>
     <string name="quest_rescue_someone_name_68" tools:ignore="UnusedResources">불쌍한 아가씨</string>
     <string name="quest_rescue_someone_name_69" tools:ignore="UnusedResources">신사</string>
     <string name="quest_rescue_someone_name_70" tools:ignore="UnusedResources">숙녀</string>
@@ -1379,7 +1383,8 @@
     <string name="crafting_title_with_recipe">[%1$s] 제조중</string>
     <string name="craft_text_you_know_no_crafting_recipes">당신은 아직 &font_cyan;제조 &font_end;레시피를 모릅니다.</string>
     <string name="crafting_recipe_learnt">%1$s을(를) 제조 하는 법을 배웠습니다!</string>
-    <string name="crafting_recipe_already_known">&italic;&font_cyan;제조&font_end; 레시피를 이미 알고 있습니다!&italic_end;</string>
+    <string name="crafting_recipe_already_known">&italic;&font_cyan;제조&font_end;
+        레시피를 이미 알고 있습니다!&italic_end;</string>
     <string name="crafting_recipe_name">[레시피&font_cyan;제조&font_end;] %1$s</string>
     <string name="crafting_you_crafted_item">%1$s을(를) 제작하였습니다!!</string>
     <string name="crafting_you_crafted_item_but_dropped_it">%1$s을(를) 제조하였지만 떨어뜨렸습니다, 인벤토리에 공간이 없습니다!</string>
@@ -1388,7 +1393,7 @@
     <string name="skills_title">스킬</string>
     <string name="skills_skill_learnt">%1$s 스킬을 배웠습니다!</string>
     <string name="skills_tree_title">&font_cyan;스킬 트리&font_end;
-      (&font_cyan;%1$d&font_end; 스킬 포인트)</string>
+        (&font_cyan;%1$d&font_end; 스킬 포인트)</string>
     <string name="skills_empty_message">당신은 아직 &font_cyan;스킬&font_end;이 없습니다…</string>
     <string name="skills_empty_tree_message">당신은 아직 배울 &font_cyan;스킬&font_end;이 없습니다…</string>
     <string name="skills_necessary_skill_text">요구 스킬: &font_cyan;%1$s&font_end;</string>
@@ -1432,15 +1437,17 @@
     <string name="skill_bughunter_description">이 스킬이 높을수록, 벌레를 잡을 확률이 높아집니다.</string>
     <string name="skill_furrier_description">이 스킬이 높을수록, 몬스터의 가죽을 벗길 확률이 높아집니다.</string>
     <string name="skill_butcher_description">이 스킬이 높을수록, 몬스터의 시체를 도살할 확률이 높아집니다.</string>
-    <string name="skill_sword_mastery_description">전투 중에 &font_skill_attack;검&font_end;으로 공격시 &font_skill_attack;검&font_end; 전투 기술이 해제됩니다.</string>
-    <string name="skill_dagger_mastery_description">전투 중에 &font_skill_attack;단검&font_end;으로 공격시 &font_skill_attack;단검 &font_end; 전투 기술이 해제됩니다.</string>
+    <string name="skill_sword_mastery_description">전투 중에 &font_skill_attack;검&font_end;으로 공격시 &font_skill_attack;검&font_end;
+        전투 기술이 해제됩니다.</string>
+    <string name="skill_dagger_mastery_description">전투 중에 &font_skill_attack;단검&font_end;으로 공격시 &font_skill_attack;단검 &font_end;
+        전투 기술이 해제됩니다.</string>
     <string name="skill_spear_mastery_description">전투 중에 &font_skill_attack;창 &font_end;으로 공격시 &font_skill_attack;창 &font_end;전투 기술이 해제됩니다.</string>
     <string name="skill_axe_mastery_description">전투 중에 &font_skill_attack;도끼 &font_end;으로 공격시 &font_skill_attack;도끼 &font_end;전투 기술이 해제됩니다.</string>
     <string name="skill_mace_mastery_description">전투 중에 &font_skill_attack;철퇴 &font_end;으로 공격시 &font_skill_attack;철퇴 &font_end;전투 기술이 해제됩니다.</string>
     <string name="skill_level_up">%1$s &font_cyan;스킬&font_end;의 레벨이 상승하여
-      &font_cyan;%2$d&font_end;가 되었습니다.</string>
+        &font_cyan;%2$d&font_end;가 되었습니다.</string>
     <string name="spell_level_up">%1$s &font_cyan;주문&font_end;의 레벨이 상승하여
-      &font_cyan;%2$d&font_end;가 되었습니다.</string>
+        &font_cyan;%2$d&font_end;가 되었습니다.</string>
     <string name="skill_failed">%1$s이(가) 실패하였습니다.</string>
     <string name="skill_damage_multiplier">피해: &font_red;%1$d&font_end;%% &font_attack;공격&font_end;</string>
     <string name="skill_number_of_attacks">&font_cyan;%1$d&font_end;번 공격</string>
@@ -1924,11 +1931,13 @@
     <string name="thief_stole_gold">당신은 주머니가 가벼워진 것을 느꼈습니다…</string>
 
     <string name="tile_content_stone_bridge_desc">오래됬지만 웅장한 &font_stone;돌 다리&font_end;입니다.</string>
-    <string name="tile_content_type_pyramid_desc">거대하고 인상깊은 &font_pyramid;피라미드&font_end; 입니다.</string>
+    <string name="tile_content_type_pyramid_desc">거대하고 인상깊은 &font_pyramid;피라미드&font_end;
+        입니다.</string>
     <string name="tile_content_type_windmill_desc_first">거대한 &font_wood;풍차&font_end;입니다. 안에 약간의 &font_food;음식&font_end;이 있는 것 처럼 보입니다!</string>
     <string name="tile_content_type_windmill_desc_second">거대한 &font_wood;풍차&font_end;입니다. 안에는 아무것도 없습니다.</string>
 
-    <string name="teleport_stone_teleported_to_x_y">당신은 &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end; 로 텔레포트 했습니다!</string>
+    <string name="teleport_stone_teleported_to_x_y">당신은 &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end;
+        로 텔레포트 했습니다!</string>
 
     <string name="merchant_master_marks_exchanged_message">오, 당신이군요… &font_gold;상인의 길드&font_end;를 도와준 것을 감사하게 생각하네.</string>
     <string name="merchant_master_no_business_with_you">나는 당신과 할 이야기가 없소…</string>
@@ -1937,7 +1946,8 @@
     <string name="merchant_master_not_enough">당신은 충분한 &font_cyan;상인의 징표&font_end;를 가지고 있지 않소…&br;&br;&font_cyan;%1$d&font_end;개를 모은 후에 다시 오시오.</string>
 
     <string name="temple_explore_the_temple_it_seems_dangerous">%1$s을(를) 탐사할까요? 위험해 보입니다…</string>
-    <string name="temple_explore_1">%1$s에 들어갔습니다. 기나긴 통로 끝에 두가지 문이 있습니다 : &font_red;빨간 문&font_end; 그리고 &font_blue;파란 문&font_end;. 어떤 것을 열까요?</string>
+    <string name="temple_explore_1">%1$s에 들어갔습니다. 기나긴 통로 끝에 두가지 문이 있습니다 : &font_red;빨간 문&font_end;
+        그리고 &font_blue;파란 문&font_end;. 어떤 것을 열까요?</string>
     <string name="temple_explore_1_red_door">&font_red;빨간 문&font_end;</string>
     <string name="temple_explore_1_blue_door">&font_blue;파란 문&font_end;</string>
     <string name="temple_explore_2_a">기나긴 통로 끝에 두가지 레버가 있습니다. &font_cyan;오른쪽 &font_end;또는 &font_cyan;왼쪽&font_end;으로 당길 수 있을 것 같습니다. 어느쪽으로 당길까요?</string>
@@ -2032,7 +2042,7 @@
     <string name="skill_blacksmith_description">더 좋은 무기, 방패 그리고 갑옷을 만들 확률이 증가합니다. &font_cyan;대장장이 &font_end;레벨이 높을수록, 결과가 좋습니다.</string>
     <string name="skill_photosynthetic">&font_cyan;광합성&font_end;</string>
     <string name="skill_photosynthetic_description">날씨가 &font_yellow;화창&font_end;하면, 배고픔이 증가하지 않습니다.</string>
-    <string name="skill_photosynthetic_absorbed_from_sun">당신은  &font_yellow;태양&font_end;의 에너지를 흡수하였습니다. &font_cyan;광합성 &font_end;스킬 덕분입니다.</string>
+    <string name="skill_photosynthetic_absorbed_from_sun">당신은 &font_yellow;태양&font_end;의 에너지를 흡수하였습니다. &font_cyan;광합성 &font_end;스킬 덕분입니다.</string>
     <string name="skill_analyst">&font_cyan;분석가&font_end;</string>
     <string name="skill_analyst_description">&font_red;몬스터&font_end;의 메인 스탯을 볼 수 있게 해줍니다.</string>
     <string name="skill_analysed_monster">%1$s을(를) 분석 하였습니다!.</string>
@@ -2161,7 +2171,8 @@
     <string name="spell_capture_monster_combat_success">&font_green;성공&font_end;! %1$s 을(를) 쓰러트리면 포획이 완료됩니다.</string>
     <string name="spell_capture_monster_combat_fail">실패! 당신은 %1$s을(를) &font_pet;포획&font_end;에 실패했습니다.</string>
     <string name="spell_calmmonster_name">&font_red;몬스터&font_end; &font_pet;진정&font_end;</string>
-    <string name="spell_calmmonster_desc">&font_red;몬스터&font_end;를 &font_pet;진정&font_end;시켜 &font_pet;포획 &font_end; 확률을 증가시킵니다. &font_cyan;도망&font_end;갈 가능성이 있습니다.</string>
+    <string name="spell_calmmonster_desc">&font_red;몬스터&font_end;를 &font_pet;진정&font_end;시켜 &font_pet;포획 &font_end;
+        확률을 증가시킵니다. &font_cyan;도망&font_end;갈 가능성이 있습니다.</string>
     <string name="spell_calmmonster_desc_combat_success">당신은 %1$s을(를) &font_pet;진정&font_end;시켰습니다!</string>
     <string name="spell_calmmonster_desc_combat_fails">당신은 %1$s을(를) &font_pet;진정&font_end;에 실패했습니다…</string>
     <string name="text_monster_is_already_calmed">%1$s은(는) 이미 진정 되어있습니다!</string>
@@ -2194,7 +2205,8 @@
     <string name="spell_effect_combat_burnt">%1$s은(는) &font_attack;화상&font_end;을 입었습니다!</string>
     <string name="spell_effect_combat_frozen">%1$s은(는) &font_tundra;동상&font_end;을 입었습니다!</string>
     <string name="spell_effect_combat_blocked">%1$s은(는) &font_electric;막혔습니다&font_end;!</string>
-    <string name="spell_effect_combat_paralysed">%1$s은(는) &font_electric;마비&font_end; 되었습니다!</string>
+    <string name="spell_effect_combat_paralysed">%1$s은(는) &font_electric;마비&font_end;
+        되었습니다!</string>
     <string name="spell_effect_burnt_damage">%1$s은(는) &font_attack;화상&font_end;으로 &font_red;%2$d &font_end;데미지를 입었습니다!</string>
     <string name="spell_effect_burnt_is_gone">%1$s은(는) 더 이상 &font_attack;화상&font_end;이 아닙니다.</string>
     <string name="spell_effect_frozen_is_gone">%1$s은(는) 더 이상 &font_tundra;동상&font_end;이 아닙니다.</string>
@@ -2265,19 +2277,23 @@
     <string name="main_story_inn_dialog_3">섬의 &font_wood;목수&font_end;가 모험심이 넘쳐서 그곳에 갔다가 돌아오지 않고 있어요… 제발, 가능하다면 &font_red;몬스터&font_end;를 죽이고 그를 구출해주세요!</string>
     <string name="main_story_inn_dialog_2_button">뭘 할 수 있을까?</string>
     <string name="main_story_1_stand_up_button">일어나기</string>
-    <string name="main_story_2">&font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end; 에 있는 &font_cave;동굴&font_end;에서 &font_red;몬스터&font_end;를 죽이고 &font_wood;늙은 목수&font_end;를 구하세요.</string>
+    <string name="main_story_2">&font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end;
+        에 있는 &font_cave;동굴&font_end;에서 &font_red;몬스터&font_end;를 죽이고 &font_wood;늙은 목수&font_end;를 구하세요.</string>
     <string name="main_story_the_carpenter_1">구해줘서 고맙소! 여기서 죽는줄만 알았다오!</string>
     <string name="main_story_the_carpenter_2">한자기 떠도는 이야기가 있는데, &font_red;폭군 &font_end;몬스터가 여기 있고 그것의 존재를 찾고있소…</string>
     <string name="main_story_the_carpenter_3">당신은 &font_red;폭군&font_end;이 누군줄 모르오? 오… 짧게 말하면: 그는 최근에 악이 전세계에 퍼진 이유라고 할 수 있소.</string>
     <string name="main_story_the_carpenter_4">그가 어디있는지 아무도 모르지만, 전설로 내려오는 이야기로는 진정한 영웅이 그를 물리칠 수 있을 것이라고 말하오…</string>
     <string name="main_story_the_carpenter_5">당신이 죽인 이 &font_red;몬스터&font_end;때문에 섬에 있는 모든 &font_wood;배&font_end;가 없어졌다오. 그가 다 부수었거든!</string>
     <string name="main_story_the_carpenter_5b">배가 있다면, &font_red;폭군&font_end;에 대한 정보를 찾고 내가 그를 무찌를것이오! (내가 너무 늙지만 않았다면…)</string>
-    <string name="main_story_the_carpenter_6">당신은 &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end; 에서 &font_wood;난파선&font_end;을 찾았다고 하지 않았소? 충분한 &font_wood;목재&font_end;를 가져다 준다면 고칠 수 있을것이오!</string>
+    <string name="main_story_the_carpenter_6">당신은 &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end;
+        에서 &font_wood;난파선&font_end;을 찾았다고 하지 않았소? 충분한 &font_wood;목재&font_end;를 가져다 준다면 고칠 수 있을것이오!</string>
     <string name="main_story_the_carpenter_7">여기, 나의 &font_wood;도끼&font_end;를 가져가시오! 당신은 &font_wood;나무&font_end;를 자르고 &font_wood;목재&font_end;를 얻을 수 있소.</string>
-    <string name="main_story_the_carpenter_8">좋소, 나는 &font_wood;목재&font_end;를 찾기 전까지 &font_wood;난파선&font_end; 근처에 있겠소! 내 생각으론 &font_cyan;5 &font_end;개면 충분할 것 같소. 나중에 보게나!</string>
+    <string name="main_story_the_carpenter_8">좋소, 나는 &font_wood;목재&font_end;를 찾기 전까지 &font_wood;난파선&font_end;
+        근처에 있겠소! 내 생각으론 &font_cyan;5 &font_end;개면 충분할 것 같소. 나중에 보게나!</string>
     <string name="main_story_the_carpenter_left">&font_wood;늙은 목수&font_end;는 떠났습니다…</string>
     <string name="main_story_the_carpenter_shipwreck_button">&font_wood;난파선&font_end;에 대해 이야기하기</string>
-    <string name="main_story_3">&font_wood;목재&font_end; &font_cyan;5&font_end; 개를 &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end; 에 있는 &font_wood;늙은 목수&font_end;에게 가져다 주고 &font_wood;난파선&font_end;을 고치세요!.</string>
+    <string name="main_story_3">&font_wood;목재&font_end; &font_cyan;5&font_end; 개를 &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end;
+        에 있는 &font_wood;늙은 목수&font_end;에게 가져다 주고 &font_wood;난파선&font_end;을 고치세요!.</string>
     <string name="main_story_the_carpenter_second_dialog_1">반갑네! &font_wood;목재&font_end; &font_cyan;5 &font_end;개를 가져왔는가?</string>
     <string name="main_story_the_carpenter_second_dialog_1_not_enough">오, 충분하지 않구만… 최소 &font_wood;목재&font_end; &font_cyan;5 &font_end;개를 가져다 주게나!</string>
     <string name="main_story_the_carpenter_second_dialog_2">오, 좋구만! 바로 작업에 들어가겠네!</string>
@@ -2613,873 +2629,873 @@
     <string name="achievement_desc_gotta_catch_em_all">게임에 있는 모든 몬스터 포획하기</string>
     <string name="achievement_desc_animal_lover">게임에 있는 모든 몬스터 길들이기</string>
 
-        <string name="quest_bring_animal_text_giving">Oh… I have a dream… I\'d love to see a &font_animal;%1$s &font_end;at least once in my life… Could you bring one to me?</string>
-        <string name="quest_bring_animal_text_desc">You have to find an animal: &font_animal;%1$s &font_end;and bring it to %2$s at %3$s,%4$s</string>
-        <string name="quest_bring_animal_text_complete_desc">Oh! It\'s even cuter than I thought! Thanks a lot!</string>
-        <string name="quest_bring_animal_text_negative">I\'m afraid you don\'t have the &font_animal;%1$s &font_end;with you… Come back when you find one, you\'d make me so happy!</string>
-        <string name="quest_bring_animal_text_bring">Have you found the &font_animal;%1$s&font_end;? Show me!</string>
-
-        <string name="tile_content_type_island_map">&font_cyan;Island &font_end;&font_gold;Map&font_end;</string>
-        <string name="item_info_island_map">Use this &font_cyan;Island &font_end;&font_gold;Map &font_end;to see the island map without needing to explore it completely.&br;&br;(You\'ll need to explore the island if you want to complete it 100%%.)</string>
-        <string name="island_map_island_name">(&font_cyan;%1$s&font_end;)</string>
-
-        <string name="settings_change_language_title">Change Language</string>
-        <string name="settings_change_language_message">Are you sure you want to change the language?&br;&br;The app needs to reset to apply the language changes.&br;&br;Restart app? (You won\'t lose your game data)</string>
-
-
-        <string name="weapon_type_staff">&font_mana;Staff&font_end;</string>
-
-        <string name="item_wood_staff">&font_wood;Wood&font_end; Staff</string>
-        <string name="item_bone_staff">&font_bone;Bone&font_end; Staff</string>
-        <string name="item_copper_staff">&font_copper;Copper&font_end; Staff</string>
-        <string name="item_tin_staff">&font_tin;Tin&font_end; Staff</string>
-        <string name="item_iron_staff">&font_iron;Iron&font_end; Staff</string>
-        <string name="item_bronze_staff">&font_bronze;Bronze&font_end; Staff</string>
-        <string name="item_silver_staff">&font_silver;Silver&font_end; Staff</string>
-        <string name="item_gold_staff">&font_gold;Gold&font_end; Staff</string>
-        <string name="item_diamond_staff">&font_diamond;Diamond&font_end; Staff</string>
-        <string name="item_obsidian_staff">&font_obsidian;Obsidian&font_end; Staff</string>
-
-        <string name="skill_staff_mastery">&font_mana;Staff &font_end;Mastery</string>
-        <string name="skill_staff_mastery_description">Attacking with a &font_mana;Staff &font_end;in combat unlocks &font_mana;Staff &font_end;Combat Skills.</string>
-        <string name="weapon_skill_staff_hit">&font_skill_attack;Hit&font_end;</string>
-        <string name="weapon_skill_staff_hit_desc">Strikes the enemy.</string>
-        <string name="weapon_skill_staff_hit_attack">You strongly strike the enemy!</string>
-        <string name="weapon_skill_staff_absorption">&font_skill_attack;Mana Absorption&font_end;</string>
-        <string name="weapon_skill_staff_absorption_desc">Absorbs mana from the enemy.</string>
-        <string name="weapon_skill_staff_absorption_attack">You absorb mana from the enemy!</string>
-        <string name="weapon_skill_staff_great_hit">&font_skill_attack;Great Hit&font_end;</string>
-        <string name="weapon_skill_staff_great_hit_desc">Strongly strikes the enemy.</string>
-        <string name="weapon_skill_staff_great_hit_attack">You strongly strike the enemy!</string>
-        <string name="weapon_skill_staff_mana_thief">&font_skill_attack;Mana Thief&font_end;</string>
-        <string name="weapon_skill_staff_mana_thief_desc">Steals mana from the enemy.</string>
-        <string name="weapon_skill_staff_mana_thief_attack">You hit and steal mana from the enemy!</string>
-        <string name="weapon_skill_staff_ultimate_strike">&font_skill_attack;Ultimate Strike&font_end;</string>
-        <string name="weapon_skill_staff_ultimate_strike_desc">Strongly hits the enemy with the staff.</string>
-        <string name="weapon_skill_staff_ultimate_strike_attack">You hit the enemy with all your strength!</string>
-
-        <string name="material_unicorn_horn">&font_unicorn;Unicorn&font_end; Horn</string>
-        <string name="item_unicorn_horn_spear">&font_unicorn;Unicorn&font_end; Horn Spear</string>
-
-        <string name="material_goat_wool">&font_white;Goat Cashmere&font_end;</string>
-        <string name="material_tentacle">&font_pet;Tentacle&font_end;</string>
-        <string name="material_owl_feather">&font_wood;Owl Feather&font_end;</string>
-        <string name="material_spider_silk">&font_tundra;Spider Silk&font_end;</string>
-        <string name="material_snake_scale">&font_green;Snake Scale&font_end;</string>
-        <string name="material_crocodile_tear">&font_glass;Crocodile Tear&font_end;</string>
-        <string name="material_emerald">&font_emerald;Emerald&font_end;</string>
-        <string name="material_void_dust">&font_void;Void Dust&font_end;</string>
-
-        <string name="skill_fire_mastery_description">Increase your &font_red;Fire &font_end;Mastery by casting &font_red;Fire &font_end;spells.&br;&br;Levelling up this mastery allows to learn new spells of this type of magic by reading the corresponding &font_mana;Spell &font_end;Book.&br;&br;Each level decreases the &font_mana;mana &font_end;cost by a small percentage.</string>
-        <string name="skill_water_mastery_description">Increase your &font_water;Water &font_end;Mastery by casting &font_water;Water &font_end;spells.&br;&br;Levelling up this mastery allows to learn new spells of this type of magic by reading the corresponding &font_mana;Spell &font_end;Book.&br;&br;Each level decreases the &font_mana;mana &font_end;cost by a small percentage.</string>
-        <string name="skill_ice_mastery_description">Increase your &font_ice;Ice &font_end;Mastery by casting &font_ice;Ice &font_end;spells.&br;&br;Levelling up this mastery allows to learn new spells of this type of magic by reading the corresponding &font_mana;Spell &font_end;Book.&br;&br;Each level decreases the &font_mana;mana &font_end;cost by a small percentage.</string>
-        <string name="skill_air_mastery_description">Increase your &font_spell_wind;Air &font_end;Mastery by casting &font_spell_wind;Air &font_end;spells.&br;&br;Levelling up this mastery allows to learn new spells of this type of magic by reading the corresponding &font_mana;Spell &font_end;Book.&br;&br;Each level decreases the &font_mana;mana &font_end;cost by a small percentage.</string>
-        <string name="skill_electric_mastery_description">Increase your &font_electric;Electric &font_end;Mastery by casting &font_electric;Electric &font_end;spells.&br;&br;Levelling up this mastery allows to learn new spells of this type of magic by reading the corresponding &font_mana;Spell &font_end;Book.&br;&br;Each level decreases the &font_mana;mana &font_end;cost by a small percentage.</string>
-        <string name="skill_earth_mastery_description">Increase your &font_wood;Earth &font_end;Mastery by casting &font_wood;Earth &font_end;spells.&br;&br;Levelling up this mastery allows to learn new spells of this type of magic by reading the corresponding &font_mana;Spell &font_end;Book.&br;&br;Each level decreases the &font_mana;mana &font_end;cost by a small percentage.</string>
-        <string name="skill_life_mastery_description">Increase your &font_health;Life &font_end;Mastery by casting &font_health;Life &font_end;spells.&br;&br;Levelling up this mastery allows to learn new spells of this type of magic by reading the corresponding &font_mana;Spell &font_end;Book.&br;&br;Each level decreases the &font_mana;mana &font_end;cost by a small percentage.</string>
-        <string name="skill_monster_mastery_description">Increase your &font_pet;Monster &font_end;Mastery by casting &font_pet;Monster &font_end;spells.&br;&br;Levelling up this mastery allows to learn new spells of this type of magic by reading the corresponding &font_mana;Spell &font_end;Book.&br;&br;Each level decreases the &font_mana;mana &font_end;cost by a small percentage.</string>
-
-        <string name="skill_fire_mastery">&font_red;Fire &font_end;Mastery</string>
-        <string name="skill_water_mastery">&font_water;Water &font_end;Mastery</string>
-        <string name="skill_ice_mastery">&font_ice;Ice &font_end;Mastery</string>
-        <string name="skill_air_mastery">&font_spell_wind;Air &font_end;Mastery</string>
-        <string name="skill_electric_mastery">&font_electric;Electric &font_end;Mastery</string>
-        <string name="skill_earth_mastery">&font_wood;Earth &font_end;Mastery</string>
-        <string name="skill_life_mastery">&font_health;Life &font_end;Mastery</string>
-        <string name="skill_monster_mastery">&font_pet;Monster &font_end;Mastery</string>
-
-        <string name="spell_book_need_skill_level">&italic;Your %1$s is not high enough to learn this &font_mana;spell&font_end;&italic_end;</string>
-
-        <string name="stats_extra_max_mana">Max. &font_mana;Mana&font_end;: &font_mana;%d&font_end;</string>
-        <string name="stats_extra_max_health">Max. &font_health;Health&font_end;: &font_health;%d&font_end;</string>
-        <string name="stats_extra_max_hunger">Max. &font_hunger;Hunger&font_end;: &font_hunger;%d&font_end;</string>
-
-        <string name="item_crocodile_tear_ring">&font_glass;Crocodile Tear &font_end;Ring</string>
-        <string name="item_snake_scale_boots">&font_scale;Snake Scale &font_end;Boots</string>
-        <string name="item_spider_silk_pants">&font_tundra;Spider Silk &font_end;Pants</string>
-        <string name="item_owl_feather_gloves">&font_wood;Owl Feather &font_end;Gloves</string>
-        <string name="item_goat_wool_robes">&font_wood;Cashmere &font_end;Robe</string>
-        <string name="item_emerald_amulet">&font_emerald;Emerald &font_end;Amulet</string>
-
-        <string name="settings_vibration">Vibration</string>
-
-        <string name="skill_bigpockets">&font_wood;Big Pockets&font_end;</string>
-        <string name="skill_backpacker">&font_wood;Backpacker&font_end;</string>
-        <string name="skill_bigpockets_description">Increases the number of items you can carry by &bold;&font_cyan;5&font_end;&bold_end;</string>
-        <string name="skill_backpacker_description">Increases the number of items you can carry by &bold;&font_cyan;10&font_end;&bold_end;</string>
-
-        <string name="tile_content_type_gate_desc">This strange &font_gate;Gate &font_end;seems to need something to be activated…</string>
-        <string name="button_gate_use_dark_orb">Use &font_dark_orb;Dark Orb&font_end;</string>
-
-        <string name="open_gate_message">You feel a strong dark energy coming from the &font_gate;Open Gate&font_end;. Are you sure you want to enter it?</string>
-        <string name="entering_dark_gate_open">Entering &font_gate;Open Dark Gate&font_end;</string>
-
-        <string name="weather_emptiness">Emptiness</string>
-
-        <string name="island_type_void">Void</string>
-        <string name="island_type_infinity">Infinity</string>
-        <string name="tile_type_void">Void</string>
-        <string name="tile_type_void_vortex">Void Vortex</string>
-        <string name="tile_type_energy_source">Infinity Origin</string>
-        <string name="tile_type_infinity">Infinity</string>
-
-        <string name="dark_orb_gate_open">The &font_gate;Dark Gate &font_end;suddenly opens in front of you, there\'s a lot of &italic;dark energy &italic_end;coming out from it…</string>
-
-        <string name="void_master_after_killing_text">Killing me, you have activated the end for you and the rest of mortals… get ready for the &font_void;Void &font_end;Monsters appearing in your world…</string>
-        <string name="void_master_after_killing_text_2">You again…? Well… I\'m surprised you arrived so far with my &font_void;Void &font_end;Monsters around the world… I\'ll see you again…</string>
-        <string name="void_master_after_killing_text_3">Well well… You are wearing a complete set of the &font_void;Void&font_end;… Right now there\'s nothing else I can offer… But come soon, and I\'ll give you something you need…</string>
-
-        <!-- TODO: #884 DEV - Uncomment this -->
-        <!--    <string name="void_master_after_killing_text_3">Well well… You are wearing a complete set of the &font_void;Void&font_end;… You are worthy to posses this &font_infinity;Infinity &font_end;&font_gold;Key&font_end;… Good luck…</string>-->
-
-        <string name="your_ship_appears_magically">Your &font_wood;Ship &font_end;appears…</string>
-
-        <string name="void_monster_prefix">&font_void;Void&font_end;</string>
-
-        <string name="item_void_helmet">&font_void;Void &font_end;Helmet</string>
-        <string name="item_void_armor">&font_void;Void &font_end;Plate</string>
-        <string name="item_void_pants">&font_void;Void &font_end;Pants</string>
-        <string name="item_void_boots">&font_void;Void &font_end;Boots</string>
-        <string name="item_void_gloves">&font_void;Void &font_end;Gloves</string>
-        <string name="item_void_amulet">&font_void;Void &font_end;Amulet</string>
-        <string name="item_void_ring">&font_void;Void &font_end;Ring</string>
-
-        <string name="tile_content_type_infinity_door">&font_infinity;Infinity &font_end;&font_gold;Door&font_end;</string>
-        <string name="infinity_door_open">&font_infinity;Infinity &font_end;&font_gold;Door &font_end;(&font_green;Open&font_end;)</string>
-        <string name="infinity_door_closed">&font_infinity;Infinity &font_end;&font_gold;Door &font_end;(&font_red;Closed&font_end;)</string>
-        <string name="item_infinity_key">&font_infinity;Infinity &font_end;&font_gold;Key&font_end;</string>
-        <string name="button_open_with_infinity_key">Open with &font_infinity;Infinity &font_end;&font_gold;Key&font_end;</string>
-        <string name="item_info_infinity_key">A glowing mysterious &font_gold;Key&font_end;…</string>
-        <string name="infinity_door_enter_title">&font_infinity;Infinity &font_end;&font_gold;Door&font_end;</string>
-        <string name="infinity_door_enter_message">Enter the &font_infinity;Infinity &font_end;&font_gold;Door&font_end;?</string>
-        <string name="entering_infinity_door">Entering &font_infinity;Infinity &font_end;&font_gold;Door&font_end;</string>
-        <string name="infinity_door_opened">You open the &font_infinity;Infinity &font_end;&font_gold;Door&font_end;!</string>
-
-        <string name="infinity_door_closed_message">It\'s a locked door, there\'s nothing around it… looks like it needs some sort of &font_gold;Key &font_end;to open it…</string>
-
-        <string name="achievements_clear_title">Are you sure?</string>
-        <string name="collections_clear_title">Are you sure?</string>
-        <string name="collections_cleared">Collections cleared!</string>
-        <string name="cemetery_cleared">Cemetery cleared!</string>
-        <string name="achievements_cleared">Achievements cleared!</string>
-
-        <string name="button_unfold_output_text">Show output text button</string>
-        <string name="settings_map_controls">Show Minimap Buttons</string>
-        <string name="settings_output_controls">Show Output Button</string>
-        <string name="forget_crafting_recipe_title">Forget Crafting Recipe?</string>
-        <string name="forget_crafting_recipe_message">Do you want to forget how to craft %1$s?</string>
-
-        <string name="crafting_recipe_migration_alert_title">Crafting Recipes</string>
-        <string name="crafting_recipe_migration_alert_message">The &font_red;Evil Forces &font_end;have stolen your crafting recipes knowledge, but the &font_wise;Wise &font_end;has taught you all the recipes you could know…&br;&br;The &font_asterisk_creator;Creator &font_end;hopes you use them wisely!</string>
-        <string name="crafting_recipe_legacy">[Legacy]</string>
-        <string name="crafting_recipe_legacy_cant_learn">&italic;You can\'t learn a Legacy Recipe&italic_end;</string>
-
-        <string name="skill_pet_collector">&font_pet;Pet Collector&font_end;</string>
-        <string name="skill_zoologist">&font_pet;Zoologist&font_end;</string>
-        <string name="skill_pet_hoarder">&font_pet;Pet Hoarder&font_end;</string>
-
-        <string name="skill_pet_collector_description">Increases the maximum &font_red;monster&font_end; &font_pet;pets &font_end;you can have by &bold;&font_cyan;5&font_end;&bold_end;</string>
-        <string name="skill_zoologist_description">Increases the maximum &font_red;monster&font_end; &font_pet;pets &font_end;you can have by &bold;&font_cyan;5&font_end;&bold_end;</string>
-        <string name="skill_pet_hoarder_description">Increases the maximum &font_red;monster&font_end; &font_pet;pets &font_end;you can have by &bold;&font_cyan;10&font_end;&bold_end;</string>
-
-        <string name="ee_your_tongue_hurts">Your tongue hurts… what is wrong with it?</string>
-        <string name="ee_kirito">Oh, you got a mysterious discount at the %1$s!</string>
-
-        <string name="only_placeholder">%1$s</string>
-
-        <string name="title_warrior_male">%1$s, the &font_attack;Warrior&font_end;</string>
-        <string name="title_wizard_male">%1$s, the &font_mana;Wizard&font_end;</string>
-        <string name="title_cleric_male">%1$s, the &font_health;Cleric&font_end;</string>
-        <string name="title_worker_male">%1$s, the &font_wood;Worker&font_end;</string>
-        <string name="title_alchemist_male">%1$s, the &font_alchemist;Alchemist&font_end;</string>
-        <string name="title_blacksmith_male">%1$s, the &font_iron;Blacksmith&font_end;</string>
-        <string name="title_noble_male">%1$s, the &font_gold;Noble&font_end;</string>
-
-        <string name="title_warrior_female">%1$s, the &font_attack;Warrior&font_end;</string>
-        <string name="title_wizard_female">%1$s, the &font_mana;Wizard&font_end;</string>
-        <string name="title_cleric_female">%1$s, the &font_health;Cleric&font_end;</string>
-        <string name="title_worker_female">%1$s, the &font_wood;Worker&font_end;</string>
-        <string name="title_alchemist_female">%1$s, the &font_alchemist;Alchemist&font_end;</string>
-        <string name="title_blacksmith_female">%1$s, the &font_iron;Blacksmith&font_end;</string>
-        <string name="title_noble_female">%1$s, the &font_gold;Noble&font_end;</string>
-        <string name="male">Man</string>
-        <string name="female">Woman</string>
-        <string name="new_game_whats_your_sex">… and what is your sex?</string>
-        <string name="title_unlocked">[Title unlocked: %1$s]</string>
-        <string name="settings_show_player_title">Show title</string>
-        <string name="settings_player_title">&font_cyan;Player Title&font_end;</string>
-        <string name="settings_select_title">Select Title</string>
-
-        <string name="title_the_strongest_male">%1$s, the &font_attack;Strongest&font_end;</string>
-        <string name="title_the_broke_male">%1$s, the &font_gold;Broke&font_end;</string>
-        <string name="title_the_wealthy_male">%1$s, the &font_gold;Wealthy&font_end;</string>
-        <string name="title_the_filthy_rich_male">%1$s, the &font_gold;Filthy Rich&font_end;</string>
-        <string name="title_the_killer_male">%1$s, the &font_attack;Killer&font_end;</string>
-        <string name="title_the_assassin_male">%1$s, the &font_attack;Assassin&font_end;</string>
-        <string name="title_the_terminator_male">%1$s, the &font_attack;Terminator&font_end;</string>
-        <string name="title_the_questor_male">%1$s, the &font_quest;Questor&font_end;</string>
-        <string name="title_the_hard_worker_male">%1$s, the &font_quest;Hard Worker&font_end;</string>
-        <string name="title_the_employee_male">%1$s, the &font_quest;Employee&font_end;</string>
-        <string name="title_the_traveller_male">%1$s, the &font_cyan;Traveller&font_end;</string>
-        <string name="title_the_willy_fog_male">%1$s, the &font_cyan;Willy Fog&font_end;</string>
-        <string name="title_the_explorer_male">%1$s, the &font_cyan;Explorer&font_end;</string>
-        <string name="title_the_completionist_male">%1$s, the &font_cyan;Completionist&font_end;</string>
-        <string name="title_the_pet_collector_male">%1$s, the &font_pet;Pet Collector&font_end;</string>
-        <string name="title_the_pet_master_male">%1$s, the &font_pet;Pet Master&font_end;</string>
-        <string name="title_the_skilled_male">%1$s, the &font_cyan;Skilled&font_end;</string>
-        <string name="title_the_skill_master_male">%1$s, the &font_cyan;Skill Master&font_end;</string>
-        <string name="title_the_wizard_apprentice_male">%1$s, the &font_mana;Wizard Apprentice&font_end;</string>
-        <string name="title_the_wizard_master_male">%1$s, the &font_mana;Wizard Master&font_end;</string>
-        <string name="title_the_crafter_male">%1$s, the &font_cyan;Crafter&font_end;</string>
-        <string name="title_the_crafter_artist_male">%1$s, the &font_cyan;Craft Artist&font_end;</string>
-        <string name="title_the_crafter_master_male">%1$s, the &font_cyan;Craft Master&font_end;</string>
-        <string name="title_the_woodcutter_male">%1$s, the &font_wood;Woodcutter&font_end;</string>
-        <string name="title_the_lumberjack_male">%1$s, the &font_wood;Lumberjack&font_end;</string>
-        <string name="title_the_hauler_male">%1$s, the &font_stone;Hauler&font_end;</string>
-        <string name="title_the_miner_male">%1$s, the &font_stone;Miner&font_end;</string>
-        <string name="title_the_fisherman_male">%1$s, the &font_cyan;Fisherman&font_end;</string>
-        <string name="title_the_bughunter_male">%1$s, the &font_insect;Bug Hunter&font_end;</string>
-        <string name="title_the_entomologist_male">%1$s, the &font_insect;Entomologist&font_end;</string>
-        <string name="title_the_butcherer_male">%1$s, the &font_red;Butcherer&font_end;</string>
-        <string name="title_the_skinner_male">%1$s, the &font_skin;Skinner&font_end;</string>
-        <string name="title_the_furrier_male">%1$s, the &font_skin;Furrier&font_end;</string>
-        <string name="title_the_romantic_male">%1$s, the &font_pink;Romantic&font_end;</string>
-        <string name="title_the_merchant_male">%1$s, the &font_gold;Merchant&font_end;</string>
-        <string name="title_the_merchant_master_male">%1$s, the &font_gold;Merchant Master&font_end;</string>
-        <string name="title_the_bomberman_male">%1$s, the &font_bomb;Bomberman&font_end;</string>
-        <string name="title_the_mimic_male">%1$s, the &font_attack;Mimic&font_end;</string>
-        <string name="title_the_champion_male">%1$s, the &font_attack;Champion&font_end;</string>
-        <string name="title_the_encyclokiller_male">%1$s, the &font_attack;Encyclokiller&font_end;</string>
-        <string name="title_the_tyrant_male">%1$s, the &font_tyrant;Tyrant&font_end;</string>
-        <string name="title_the_devil_male">%1$s, the &font_red;Devil&font_end;</string>
-        <string name="title_the_corrupted_god_male">%1$s, the &font_corrupted_god;Corrupted God&font_end;</string>
-        <string name="title_the_obsessed_male">%1$s, the &font_wise;Obsessed&font_end;</string>
-        <string name="title_the_animal_lover_male">%1$s, the &font_animal;Animal Lover&font_end;</string>
-        <string name="title_the_purifier_male">%1$s, the &font_purifying;Purifier&font_end;</string>
-        <string name="title_the_ranger_male">%1$s, the &font_wood;Ranger&font_end;</string>
-        <string name="title_the_librarian_male">%1$s, the &font_wood;Librarian&font_end;</string>
-
-        <string name="title_the_strongest_female">%1$s, the &font_attack;Strongest&font_end;</string>
-        <string name="title_the_broke_female">%1$s, the &font_gold;Broke&font_end;</string>
-        <string name="title_the_wealthy_female">%1$s, the &font_gold;Wealthy&font_end;</string>
-        <string name="title_the_filthy_rich_female">%1$s, the &font_gold;Filthy Rich&font_end;</string>
-        <string name="title_the_killer_female">%1$s, the &font_attack;Killer&font_end;</string>
-        <string name="title_the_assassin_female">%1$s, the &font_attack;Assassin&font_end;</string>
-        <string name="title_the_terminator_female">%1$s, the &font_attack;Terminator&font_end;</string>
-        <string name="title_the_questor_female">%1$s, the &font_quest;Questor&font_end;</string>
-        <string name="title_the_hard_worker_female">%1$s, the &font_quest;Hard Worker&font_end;</string>
-        <string name="title_the_employee_female">%1$s, the &font_quest;Employee&font_end;</string>
-        <string name="title_the_traveller_female">%1$s, the &font_cyan;Traveller&font_end;</string>
-        <string name="title_the_willy_fog_female">%1$s, the &font_cyan;Willy Fog&font_end;</string>
-        <string name="title_the_explorer_female">%1$s, the &font_cyan;Explorer&font_end;</string>
-        <string name="title_the_completionist_female">%1$s, the &font_cyan;Completionist&font_end;</string>
-        <string name="title_the_pet_collector_female">%1$s, the &font_pet;Pet Collector&font_end;</string>
-        <string name="title_the_pet_master_female">%1$s, the &font_pet;Pet Master&font_end;</string>
-        <string name="title_the_skilled_female">%1$s, the &font_cyan;Skilled&font_end;</string>
-        <string name="title_the_skill_master_female">%1$s, the &font_cyan;Skill Master&font_end;</string>
-        <string name="title_the_wizard_apprentice_female">%1$s, the &font_mana;Wizard Apprentice&font_end;</string>
-        <string name="title_the_wizard_master_female">%1$s, the &font_mana;Wizard Master&font_end;</string>
-        <string name="title_the_crafter_female">%1$s, the &font_cyan;Crafter&font_end;</string>
-        <string name="title_the_crafter_artist_female">%1$s, the &font_cyan;Craft Artist&font_end;</string>
-        <string name="title_the_crafter_master_female">%1$s, the &font_cyan;Craft Master&font_end;</string>
-        <string name="title_the_woodcutter_female">%1$s, the &font_wood;Woodcutter&font_end;</string>
-        <string name="title_the_lumberjack_female">%1$s, the &font_wood;Lumberjack&font_end;</string>
-        <string name="title_the_hauler_female">%1$s, the &font_stone;Hauler&font_end;</string>
-        <string name="title_the_miner_female">%1$s, the &font_stone;Miner&font_end;</string>
-        <string name="title_the_fisherman_female">%1$s, the &font_cyan;Fisherman&font_end;</string>
-        <string name="title_the_bughunter_female">%1$s, the &font_insect;Bug Hunter&font_end;</string>
-        <string name="title_the_entomologist_female">%1$s, the &font_insect;Entomologist&font_end;</string>
-        <string name="title_the_butcherer_female">%1$s, the &font_red;Butcherer&font_end;</string>
-        <string name="title_the_skinner_female">%1$s, the &font_skin;Skinner&font_end;</string>
-        <string name="title_the_furrier_female">%1$s, the &font_skin;Furrier&font_end;</string>
-        <string name="title_the_romantic_female">%1$s, the &font_pink;Romantic&font_end;</string>
-        <string name="title_the_merchant_female">%1$s, the &font_gold;Merchant&font_end;</string>
-        <string name="title_the_merchant_master_female">%1$s, the &font_gold;Merchant Master&font_end;</string>
-        <string name="title_the_bomberman_female">%1$s, the &font_bomb;Bomberman&font_end;</string>
-        <string name="title_the_mimic_female">%1$s, the &font_attack;Mimic&font_end;</string>
-        <string name="title_the_champion_female">%1$s, the &font_attack;Champion&font_end;</string>
-        <string name="title_the_encyclokiller_female">%1$s, the &font_attack;Encyclokiller&font_end;</string>
-        <string name="title_the_tyrant_female">%1$s, the &font_tyrant;Tyrant&font_end;</string>
-        <string name="title_the_devil_female">%1$s, the &font_red;Devil&font_end;</string>
-        <string name="title_the_corrupted_god_female">%1$s, the &font_corrupted_god;Corrupted God&font_end;</string>
-        <string name="title_the_obsessed_female">%1$s, the &font_wise;Obsessed&font_end;</string>
-        <string name="title_the_animal_lover_female">%1$s, the &font_animal;Animal Lover&font_end;</string>
-        <string name="title_the_purifier_female">%1$s, the &font_purifying;Purifier&font_end;</string>
-        <string name="title_the_ranger_female">%1$s, the &font_wood;Ranger&font_end;</string>
-        <string name="title_the_librarian_female">%1$s, the &font_wood;Librarian&font_end;</string>
-
-        <string name="title_warrior_no_gender">%1$s, the &font_attack;Warrior&font_end;</string>
-        <string name="title_wizard_no_gender">%1$s, the &font_mana;Wizard&font_end;</string>
-        <string name="title_cleric_no_gender">%1$s, the &font_health;Cleric&font_end;</string>
-        <string name="title_worker_no_gender">%1$s, the &font_wood;Worker&font_end;</string>
-        <string name="title_alchemist_no_gender">%1$s, the &font_alchemist;Alchemist&font_end;</string>
-        <string name="title_blacksmith_no_gender">%1$s, the &font_iron;Blacksmith&font_end;</string>
-        <string name="title_noble_no_gender">%1$s, the &font_gold;Noble&font_end;</string>
-        <string name="title_the_strongest_no_gender">%1$s, the &font_attack;Strongest&font_end;</string>
-        <string name="title_the_broke_no_gender">%1$s, the &font_gold;Broke&font_end;</string>
-        <string name="title_the_wealthy_no_gender">%1$s, the &font_gold;Wealthy&font_end;</string>
-        <string name="title_the_filthy_rich_no_gender">%1$s, the &font_gold;Filthy Rich&font_end;</string>
-        <string name="title_the_killer_no_gender">%1$s, the &font_attack;Killer&font_end;</string>
-        <string name="title_the_assassin_no_gender">%1$s, the &font_attack;Assassin&font_end;</string>
-        <string name="title_the_terminator_no_gender">%1$s, the &font_attack;Terminator&font_end;</string>
-        <string name="title_the_questor_no_gender">%1$s, the &font_quest;Questor&font_end;</string>
-        <string name="title_the_hard_worker_no_gender">%1$s, the &font_quest;Hard Worker&font_end;</string>
-        <string name="title_the_employee_no_gender">%1$s, the &font_quest;Employee&font_end;</string>
-        <string name="title_the_traveller_no_gender">%1$s, the &font_cyan;Traveller&font_end;</string>
-        <string name="title_the_willy_fog_no_gender">%1$s, the &font_cyan;Willy Fog&font_end;</string>
-        <string name="title_the_explorer_no_gender">%1$s, the &font_cyan;Explorer&font_end;</string>
-        <string name="title_the_completionist_no_gender">%1$s, the &font_cyan;Completionist&font_end;</string>
-        <string name="title_the_pet_collector_no_gender">%1$s, the &font_pet;Pet Collector&font_end;</string>
-        <string name="title_the_pet_master_no_gender">%1$s, the &font_pet;Pet Master&font_end;</string>
-        <string name="title_the_skilled_no_gender">%1$s, the &font_cyan;Skilled&font_end;</string>
-        <string name="title_the_skill_master_no_gender">%1$s, the &font_cyan;Skill Master&font_end;</string>
-        <string name="title_the_wizard_apprentice_no_gender">%1$s, the &font_mana;Wizard Apprentice&font_end;</string>
-        <string name="title_the_wizard_master_no_gender">%1$s, the &font_mana;Wizard Master&font_end;</string>
-        <string name="title_the_crafter_no_gender">%1$s, the &font_cyan;Crafter&font_end;</string>
-        <string name="title_the_crafter_artist_no_gender">%1$s, the &font_cyan;Craft Artist&font_end;</string>
-        <string name="title_the_crafter_master_no_gender">%1$s, the &font_cyan;Craft Master&font_end;</string>
-        <string name="title_the_woodcutter_no_gender">%1$s, the &font_wood;Woodcutter&font_end;</string>
-        <string name="title_the_lumberjack_no_gender">%1$s, the &font_wood;Lumberjack&font_end;</string>
-        <string name="title_the_hauler_no_gender">%1$s, the &font_stone;Hauler&font_end;</string>
-        <string name="title_the_miner_no_gender">%1$s, the &font_stone;Miner&font_end;</string>
-        <string name="title_the_fisherman_no_gender">%1$s, the &font_cyan;Fisherman&font_end;</string>
-        <string name="title_the_bughunter_no_gender">%1$s, the &font_insect;Bug Hunter&font_end;</string>
-        <string name="title_the_entomologist_no_gender">%1$s, the &font_insect;Entomologist&font_end;</string>
-        <string name="title_the_butcherer_no_gender">%1$s, the &font_red;Butcherer&font_end;</string>
-        <string name="title_the_skinner_no_gender">%1$s, the &font_skin;Skinner&font_end;</string>
-        <string name="title_the_furrier_no_gender">%1$s, the &font_skin;Furrier&font_end;</string>
-        <string name="title_the_romantic_no_gender">%1$s, the &font_pink;Romantic&font_end;</string>
-        <string name="title_the_merchant_no_gender">%1$s, the &font_gold;Merchant&font_end;</string>
-        <string name="title_the_merchant_master_no_gender">%1$s, the &font_gold;Merchant Master&font_end;</string>
-        <string name="title_the_bomberman_no_gender">%1$s, the &font_bomb;Bomberman&font_end;</string>
-        <string name="title_the_mimic_no_gender">%1$s, the &font_attack;Mimic&font_end;</string>
-        <string name="title_the_champion_no_gender">%1$s, the &font_attack;Champion&font_end;</string>
-        <string name="title_the_encyclokiller_no_gender">%1$s, the &font_attack;Encyclokiller&font_end;</string>
-        <string name="title_the_tyrant_no_gender">%1$s, the &font_tyrant;Tyrant&font_end;</string>
-        <string name="title_the_devil_no_gender">%1$s, the &font_red;Devil&font_end;</string>
-        <string name="title_the_corrupted_god_no_gender">%1$s, the &font_corrupted_god;Corrupted God&font_end;</string>
-        <string name="title_the_obsessed_no_gender">%1$s, the &font_wise;Obsessed&font_end;</string>
-        <string name="title_the_animal_lover_no_gender">%1$s, the &font_animal;Animal Lover&font_end;</string>
-        <string name="title_the_purifier_no_gender">%1$s, the &font_purifying;Purifier&font_end;</string>
-        <string name="title_the_ranger_no_gender">%1$s, the &font_wood;Ranger&font_end;</string>
-        <string name="title_the_librarian_no_gender">%1$s, the &font_wood;Librarian&font_end;</string>
-
-        <string name="skill_crafter">&font_cyan;Crafter&font_end;</string>
-        <string name="skill_crafter_description">Allows to &font_cyan;Craft&font_end; with both the items in the &font_wood;Inventory &font_end;and the ones in the &font_wood;Stash&font_end;</string>
-        <string name="bug_was_a">The &font_insect;Bug &font_end;was a &font_insect;%1$s&font_end;!</string>
-
-        <string name="button_sort_by_quantity">Sort (Quantity)</string>
-
-        <string name="no_gender">None</string>
-
-        <string name="shop_magic">&font_mana;Magic &font_end;&font_gold;Shop&font_end;</string>
-
-        <string name="quest_rescue_someone_following_you_grouped">&font_quest;%1$d &font_end;people are here, following you…</string>
-
-        <string name="feed_no_food">You don\'t have food…</string>
-
-        <string name="achievement_name_animal_lover">Animal Whisperer</string>
-
-        <string name="food_fish_stick">&font_cyan;Fish &font_end;&font_wood;Stick&font_end;</string>
-
-        <string name="new_game_whats_your_race">… and what is your race?</string>
-
-        <string name="race_human">&font_cyan;Human&font_end;</string>
-        <string name="race_dwarf">&font_red;Dwarf&font_end;</string>
-        <string name="race_halfling">&font_speed;Halfling&font_end;</string>
-        <string name="race_gnome">&font_green;Gnome&font_end;</string>
-        <string name="race_elf">&font_gold;Elf&font_end;</string>
-        <string name="race_drow">&font_black_low;Drow&font_end;</string>
-        <string name="race_undead">&font_mushroom;Undead&font_end;</string>
-        <string name="race_orc">&font_dark_green;Orc&font_end;</string>
-        <string name="race_lizard">&font_yellow;Lizard&font_end;</string>
-        <string name="race_unknown">&font_white;Unknown&font_end;</string>
-
-        <string name="race_human_desc">They are the most adaptable and flexible of the common races. Their alignment resides in the fine line between good and evil. They are balanced in fighting and magic and have an innate knowledge of crafting, and are natural explorers.</string>
-        <string name="race_dwarf_desc">They used to live under the mountains just caring about their mines and beers, but due to the recent spreading of evil in the world, many have started to explore the world to live their own legends like their ancestors did in the past. They are one of the strongest races, having great mining skills, and they are the only ones capable of crafting Beer.</string>
-        <string name="race_halfling_desc">Even though they have appeared on books and stories, almost no one has seen one in their life, as Halflings are peaceful people who live in their own hidden villages, cooking, eating, reading about stories from the first era, and living all kinds of fantasy in their minds. Since evil has started spreading around the world, some of the most brave Halfling have started their own adventures like the ones they read on their books.</string>
-        <string name="race_gnome_desc">They take delight in life, enjoying every moment of invention, exploration and investigation. They used to be focused just on their inventions, and exploration, but recently many brave Gnomes have been seen adventuring around the world.</string>
-        <string name="race_elf_desc">Elves are magical people of otherworldly grace, living in the world but not entirely part of it. Selfish and egocentric, they are worried about their future due to the increased presence of evil, so they have started to become more present in the world in search for their salvation.</string>
-        <string name="race_drow_desc">Generally known as the evil version of the regular elves. They are extremely intelligent, charismatic and dexterous, but share surface elves\' comparative frailty and slight frames. They are characterized by white or silver hair and obsidian black skin.</string>
-        <string name="race_undead_desc">Once living humans brought to life in a horrifying state of undeath through the practice of necromantic magic. They have great strength and intelligence but lack of speed. Their hunger increases faster than the other races, but they can eat corpses to restore Mana, Hunger, and Health.</string>
-        <string name="race_orc_desc">Bestial and savage, orcs band together as trıbes, living on hunting and raiding. As lovers of war, they have found a great enemy in the evil that has recently spread around the world. They have started to relate to other races with whom they had only spoken in the language of weapons and magic not so long ago.</string>
-        <string name="race_lizard_desc">They are semi-aquatic reptilian humanoids. Their skin was covered in scales and varied in color from dark green through to shades of brown and gray. The most brave of them have been travelling around the world, finding other places to expand their lifes and be able to help in the destruction of evil.</string>
-        <string name="race_unknown_desc">A strange being who no one has ever seen before. Balanced, smart, and able to adapt to any situation, their purpose in life is a mystery.</string>
-        <string name="race_attributes">Attributes</string>
-        <string name="race_traits">Traits</string>
-
-        <string name="race_attributes_with_numbers">Attack: &font_attack;%1$s &font_end;Defe.: &font_defense;%2$s&font_end;&br;Intel.: &font_mana;%3$s &font_end;Speed: &font_speed;%4$s&font_end;</string>
-
-        <string name="status_attack_new">Attack:&font_attack;\t%1$d &font_end;&br;(Base (%2$d%%): &font_attack;%3$d&font_end;, Eq (%4$d%%): &font_attack;%5$d&font_end;, +Temp: &font_attack;%6$d&font_end;)</string>
-        <string name="status_defense_new">Defense:&font_defense;\t%1$d &font_end;&br;(Base (%2$d%%): &font_defense;%3$d&font_end;, Eq (%4$d%%): &font_defense;%5$d&font_end;, +Temp: &font_defense;%6$d&font_end;)</string>
-        <string name="status_speed_new">Speed:\t&font_speed;%1$d &font_end;&br;(Base (%2$d%%): &font_speed;%3$d&font_end;, Eq (%4$d%%): &font_speed;%5$d&font_end;, +Temp: &font_speed;%6$d&font_end;)</string>
-        <string name="status_intelligence_new">Intelligence:\t&font_mana;%1$d &font_end;&br;(Base (%2$d%%): &font_mana;%3$d&font_end;, Eq (%4$d%%): &font_mana;%5$d&font_end;, +Temp: &font_mana;%6$d&font_end;)</string>
-
-        <string name="skill_natural_explorer">&font_cyan;Natural Explorer&font_end;</string>
-        <string name="skill_natural_explorer_description">Can see the surrounding tiles when moving around, making it easier to explore.</string>
-
-        <string name="human_traits">&font_cyan;* &font_end;Start knowing some basic crafting recipes.&br;&br;&font_cyan;* &font_end;Start with some &font_food;food&font_end;.&br;&br;&font_cyan;Natural Explorer&font_end;: Can see the surrounding tiles when moving around, making it easier to explore.</string>
-        <string name="dwarf_traits">&font_cyan;* &font_end;Starts with a &font_silver;Pickaxe&font_end;.&br;&br;&font_cyan;Blacksmith&font_end;: Increases the chances of crafting better weapons, shields and armors. (Level &font_cyan;%1$d&font_end;).&br;&br;&font_gold;Beer &font_end;&font_cyan;Crafter&font_end;: Can craft &font_gold;Beer &font_end;and &font_epic;Epic&font_end; &font_gold;Beer &font_end;(and start with the necessary materials to craft a &font_gold;Beer&font_end;).</string>
-        <string name="halfling_traits">&font_food;Foodie&font_end;: Increased max. hunger, allowing to resist longer without eating.&br;&br;&font_food;Gourmet&font_end;: Increases the hunger restored when eating.&br;&br;&font_cyan;Discrete&font_end;: Reduces the probability of being attacked by a &font_red;Monster &font_end;by &font_cyan;33&font_end;%.</string>
-        <string name="gnome_traits">&font_wood;Gnomic Space&font_end;: Increases the inventory size by &font_cyan;10&font_end;.&br;&br;&font_bomb;Bomber&font_end;: Starts with some &font_gunpowder;Gunpowder&font_end;, various &font_bomb;Bombs &font_end;and knowing how to craft them.&br;&br;&font_cyan;Perceptive&font_end;: Detects when there\'s something hidden, so you can &font_cyan;Search &font_end;to find it.</string>
-        <string name="elf_traits">&font_cyan;* &font_end;Starts with &font_cyan;5 &font_end;x &font_plant;Plant &font_end;and &font_cyan;5 &font_end;x &font_mushroom;Mushroom&font_end;.&br;&br;&font_mana;Mana Flow&font_end;: Regenerates &font_cyan;1% &font_end;&font_mana;mana &font_end;every turn if &font_health;health &font_end;is over &font_cyan;50%&font_end;.&br;&br;&font_mana;Elven Magic&font_end;: Have extra &font_mana;mana &font_end;(&font_cyan;+25&font_end;).</string>
-        <string name="drow_traits">&font_portal;Teleport&font_end;: Can &font_portal;teleport &font_end;to a random location in the island.&br;&br;&font_mana;Mana Flow&font_end;: Regenerates &font_cyan;1% &font_end;&font_mana;mana &font_end;every turn if &font_health;health &font_end;is over &font_cyan;50%&font_end;.&br;&br;&font_mana;Elven Magic&font_end;: Have extra &font_mana;mana &font_end;(&font_cyan;+25&font_end;).</string>
-        <string name="undead_traits">&font_green;Weather Immunity&font_end;: Immune to &font_red;Hot &font_end;or &font_tundra;Cold &font_end;damage.&br;&br;&font_health;Unbreakable&font_end;: If a &font_red;Monster&font_end;\'s attack would kill you, you resist it and survive with &font_health;1 &font_end;health point.&br;&br;&font_hunger;Undead Hunger&font_end;: &font_hunger;Hunger &font_end;increases faster, but can eat from corpses to restore &font_hunger;Hunger&font_end;, &font_health;Health &font_end;and &font_mana;Mana&font_end;.</string>
-        <string name="orc_traits">&font_dark_green;Tough Skin&font_end;: &font_cyan;5%% &font_end;damage reduction in combat.&br;&br;&font_attack;Berserk&font_end;: In combat, using the "Attack" command increases a &font_cyan;10%% &font_end;the damage each turn. When using a different action in combat, the &font_attack;Berserk &font_end;bonus is lost.&br;&br;&font_dark_green;First Strike&font_end;: When attacking a monster, performs an initial hit.&br;&br;</string>
-        <string name="lizard_traits">&font_health;Regeneration&font_end;: Regenerates &font_cyan;2% &font_end;of &font_health;health &font_end;every turn when the weather is &font_yellow;Sunny&font_end;.&br;&br;&font_cyan;Slippery&font_end;: Always succeeds fleeing (if fleeing is allowed).&br;&br;&font_insect;Insect Eater&font_end;: Can &font_hunger;eat &font_end;&font_insect;insects &font_end;without having to capture them.</string>
-        <string name="unknown_traits">&font_cyan;* &font_end;Start with &font_cyan;15 &font_end;Skill Points.&br;&br;&font_cyan;* &font_end;Start with a random &font_cyan;Nautical Chart&font_end;&br;&br;&font_cyan;* &font_end;Start with a random &font_mana;Spell &font_end;Book.</string>
-
-        <string name="item_beer">&font_gold;Beer&font_end;</string>
-        <string name="item_epic_beer">&font_epic;Epic&font_end; &font_gold;Beer&font_end;</string>
-        <string name="item_info_beer">Drink this to restore &font_cyan;%1$d%% &font_end;of your &font_health;health&font_end;, &font_mana;mana &font_end;and &font_hunger;hunger&font_end;!</string>
-
-        <string name="drink_beer_restored">Drank &font_gold;Beer &font_end;and restored &font_health;%1$d &font_end;health, &font_mana;%2$d &font_end;mana and &font_hunger;%3$d &font_end;hunger!</string>
-
-        <string name="skill_foodie">&font_food;Foodie&font_end;</string>
-        <string name="skill_gourmet">&font_food;Gourmet&font_end;</string>
-
-        <string name="skill_foodie_description">Increased max. hunger, allowing to resist longer without eating.</string>
-        <string name="skill_gourmet_description">Increases the hunger restored when eating.</string>
-
-        <string name="skill_gnomic_space">&font_wood;Gnomic Space&font_end;</string>
-        <string name="skill_gnomic_space_description">Increases the inventory size by &font_cyan;10&font_end;.</string>
-
-        <string name="skill_mana_flow">&font_mana;Mana Flow&font_end;</string>
-        <string name="skill_mana_flow_description">Regenerates &font_cyan;1%&font_end; &font_mana;mana &font_end;every turn if &font_mana;health &font_end;is over &font_cyan;50%&font_end;.</string>
-
-        <string name="skill_reckoner">&font_cyan;Reckoner&font_end;</string>
-        <string name="skill_reckoner_description">Can always see the difficulty of killing a &font_red;Monster&font_end;.</string>
-
-        <string name="reckon_easy">[&font_green;Easy&font_end;]</string>
-        <string name="reckon_fair">[&font_yellow;Fair&font_end;]</string>
-        <string name="reckon_hard">[&font_red;Hard&font_end;]</string>
-
-        <string name="skill_weather_immunity">&font_green;Weather Immunity&font_end;</string>
-        <string name="skill_weather_immunity_description">Immune to &font_red;Hot &font_end;or &font_tundra;Cold &font_end;damage.</string>
-
-        <string name="skill_undead_hunger">&font_hunger;Undead Hunger&font_end;</string>
-        <string name="skill_undead_hunger_description">&font_hunger;Hunger &font_end;increases faster, but can eat from corpses to restore &font_hunger;Hunger&font_end;, &font_health;Health &font_end;and &font_mana;Mana&font_end;.</string>
-
-        <string name="skill_undead_hunger_ate_corpse">Ate %1$s and restored &font_health;%2$d &font_end;health, &font_mana;%3$d &font_end;mana and &font_hunger;%4$d &font_end;hunger!</string>
-
-        <string name="skill_tough_skin">&font_dark_green;Tough Skin&font_end;</string>
-        <string name="skill_tough_skin_description">&font_cyan;5% &font_end;damage reduction in combat.</string>
-
-        <string name="skill_first_strike">&font_dark_green;First Strike&font_end;</string>
-        <string name="skill_first_strike_description">When attacking a monster, performs an initial hit.</string>
-
-        <string name="skill_regeneration">&font_health;Regeneration&font_end;</string>
-        <string name="skill_regeneration_description">Regenerates &font_cyan;2% &font_end;of &font_health;health &font_end;every turn when the weather is &font_yellow;Sunny&font_end;</string>
-
-        <string name="skill_slippery">&font_cyan;Slippery&font_end;</string>
-        <string name="skill_slippery_description">Always succeeds fleeing (if fleeing is allowed).</string>
-
-        <string name="skill_insect_eater">&font_insect;Insect Eater&font_end;</string>
-        <string name="skill_insect_eater_description">Can &font_hunger;eat &font_end;&font_insect;insects &font_end;without having to capture them.</string>
-
-        <string name="skill_insect_eater_ate_insect">Ate &font_insect;%1$s &font_end;and restored &font_cyan;%2$d &font_end;&font_hunger;hunger&font_end;.</string>
-
-        <string name="easter_egg_dwarf_mine">I am a Dwarf and I\'m digging a hole…</string>
-
-        <string name="skill_weapon_learner">&font_iron;Weapon Learner&font_end;</string>
-        <string name="skill_weapon_learner_description">Learn the Weapon Mastery skills faster.</string>
-        <string name="settings_craft_toast_enabled">Enable Crafting Toast</string>
-        <string name="button_all">All</string>
-        <string name="cemetery_clear_message">Do you want to delete all the dead heroes data?</string>
-
-        <string name="menu_cemetery_all">Cemetery (&font_cyan;All&font_end;)</string>
-        <string name="menu_cemetery_permadeath">Cemetery (&font_red;Permadeath&font_end;)</string>
-        <string name="menu_cemetery_no_permadeath">Cemetery (&font_green;No Permadeath&font_end;)</string>
-
-        <string name="game_over_rank_permadeath">You ranked &font_cyan;#%d &font_end;on &font_red;Permadeath &font_end;in the Cemetery.</string>
-        <string name="game_over_rank_no_permadeath">You ranked &font_cyan;#%d &font_end;on &font_green;No Permadeath &font_end;in the Cemetery.</string>
-
-        <string name="blacksmith_level_up_button">Level Up &font_iron;Blacksmith&font_end;: &font_gold;%1$d&font_end;</string>
-        <string name="blacksmith_level">&font_iron;Blacksmith &font_end;Level: &font_cyan;%1$d&font_end;</string>
-        <string name="blacksmith_levelup_dialog_text">Level up Blacksmith per &font_gold;%1$d &font_end;gold?&br;&br;(Slightly improves the levelled up equipment, increases the success rate of &font_copper;scrapping &font_end;, and reduces the cost of crafting bars)</string>
-        <string name="blacksmith_scrap_probability">Success rate: %1$s%%</string>
-        <string name="success_lower_than_100">&font_cyan;%1$d&font_end;</string>
-        <string name="success_100">&font_green;%1$d&font_end;</string>
-
-        <string name="bar_inn_text_extra_cost_undead">"We don\'t like having people like you around…"&br;&br;</string>
-        <string name="bar_inn_text_normal_cost">"Hello, how are you?"&br;&br;</string>
-        <string name="bar_inn_text_lower_cost">"Welcome! I hope you have a great day!"&br;&br;</string>
-
-        <string name="shop_bad_text">"Come on, I don\'t have all day for this…"</string>
-        <string name="shop_normal_text">"Hello, what can I help you with?"</string>
-        <string name="shop_nice_text">"Welcome! It\'s nice to do business with you!"</string>
-        <string name="button_share">Share</string>
-        <string name="achievement_desc_purifier">Purify an island for the first time</string>
-        <string name="achievement_name_purifier">Purifier</string>
-
-        <string name="island_type_treasure">Treasure</string>
-        <string name="material_old_paper_piece">Old Paper Piece</string>
-        <string name="item_info_old_paper_piece">It has some strange drawings on it…</string>
-        <string name="tile_content_type_nautical_chart_treasure_island">Nautical Chart (&font_gold;Treasure &font_end;&font_cyan;Island&font_end;)</string>
-        <string name="craft_various_title">Craft Various</string>
-        <string name="craft_various_message">What amount do you want to craft?&br;&br;(You have enough materials to craft &font_cyan;%1$d&font_end;. The maximum amount allowed to craft is &font_cyan;%2$d&font_end;)</string>
-        <string name="crafted_amount">Crafted &font_cyan;%1$d&font_end;!</string>
-
-        <string name="settings_navigation_buttons_position">Navigation Buttons Position</string>
-
-        <string name="skill_unarmed_mastery">&font_skill_attack;Unarmed &font_end;Mastery</string>
-        <string name="skill_unarmed_mastery_description">Attacking with no &font_skill_attack;weapon &font_end;in combat unlocks &font_skill_attack;Unarmed &font_end;Combat Skills.</string>
-
-        <string name="weapon_skill_unarmed_punch">Punch</string>
-        <string name="weapon_skill_unarmed_punch_desc">Punches the enemy.</string>
-        <string name="weapon_skill_unarmed_punch_attack">You punch the enemy!</string>
-
-        <string name="weapon_skill_unarmed_hammerfist">Hammer Fist</string>
-        <string name="weapon_skill_unarmed_hammerfist_desc">Punches the enemy from above.</string>
-        <string name="weapon_skill_unarmed_hammerfist_attack">You punch the enemy from above!</string>
-
-        <string name="weapon_skill_unarmed_magicfist">Magic Fist</string>
-        <string name="weapon_skill_unarmed_magicfist_desc">Hits and absorbs mana from the enemy.</string>
-        <string name="weapon_skill_unarmed_magicfist_attack">¡You hit and absorb mana from the enemy!</string>
-
-        <string name="weapon_skill_unarmed_double_punch">Double Punch</string>
-        <string name="weapon_skill_unarmed_double_punch_desc">Punches the enemy two times.</string>
-        <string name="weapon_skill_unarmed_double_punch_attack">You punch two times the enemy!</string>
-
-        <string name="weapon_skill_unarmed_fastfist">Fast Fist</string>
-        <string name="weapon_skill_unarmed_fastfist_desc">Punches the enemy strongly. Always attacks first.</string>
-        <string name="weapon_skill_unarmed_fastfist_attack">You push the enemy strongly!</string>
-
-        <string name="material_type_cartographer_stone">&font_cyan;Cartographer &font_end;&font_stone;Stone&font_end;</string>
-        <string name="world_info_empty">(No info added, use a &font_cyan;Cartographer &font_end;&font_stone;Stone &font_end;to add a text to an island)</string>
-        <string name="button_plus">+</string>
-        <string name="button_mark">Mark</string>
-        <string name="button_add_info">Add Info</string>
-        <string name="world_mark_island_message">To help you in your adventures, you can &font_cyan;mark &font_end;an island with a single character to be shown in the island list, and/or write some &font_cyan;info &font_end;about an it. You\'ll need a &font_cyan;Cartographer &font_end;&font_stone;Stone &font_end;for each of these actions.&br;&br;You currently have &font_cyan;%1$d &font_end;&font_cyan;Cartographer &font_end;&font_stone;Stones&font_end;</string>
-
-        <string name="world_add_info_message">Add info for the island (You can add line breaks by writing \'br\' between &lt; and &gt;. Max. characters allowed: &font_cyan;%1$d&font_end;):</string>
-        <string name="world_add_info_message_replacing">There\'s already info added to this island, adding info will replace the current info!&br;&br;Add info for the island (You can add line breaks by writing \'br\' between &lt; and &gt;. Max. characters allowed: &font_cyan;%1$d&font_end;):</string>
-        <string name="world_add_info_length_error" tools:ignore="PluralsCandidate">Write between 1 and %d characters…</string>
-        <string name="world_add_mark_length_error">Write 1 character…</string>
-        <string name="world_mark_island_no_cartographer_stone">You need a &font_cyan;Cartographer &font_end;&font_stone;Stone &font_end;to be able to do this…</string>
-        <string name="button_add_mark">Add Mark</string>
-        <string name="world_add_mark_message">Add a mark to be displayed in the island list (write only &font_cyan;1 &font_end;character.):</string>
-        <string name="world_add_mark_message_replacing">There\'s already one mark added to this island, adding a new one will replace the previous mark.&br;&br;Add a mark to be displayed in the island list (write only &font_cyan;1 &font_end;character):</string>
-        <string name="mark_color_title">Choose color for the mark:</string>
-
-        <string name="craft_would_die_crafting">You\'re dying of &font_hunger;hunger&font_end;!</string>
-
-        <string name="skill_teleport">&font_portal;Teleport&font_end;</string>
-        <string name="skill_teleport_desc">&font_portal;Teleports &font_end;to a random location in the island. Costs &font_mana;10 mana &font_end;points.</string>
-
-        <string name="yang_amulet">&font_white;Yang &font_end;Amulet</string>
-
-        <string name="settings_show_main_stats">Show Main Stats</string>
-
-        <string name="ranged_weapon_type_bow">&font_speed;Bow&font_end;</string>
-        <string name="ranged_weapon_type_crossbow">&font_speed;Crossbow&font_end;</string>
-        <string name="ranged_weapon_type_slingshot">&font_speed;Slingshot&font_end;</string>
-
-        <string name="tile_content_type_ranged_weapon">Ranged Weapon</string>
-
-        <string name="item_info_ranged_weapon">Wield this to be able to shoot monsters before engaging into combat.&br;%1$s&br;%2$s</string>
-
-        <string name="item_wood_bow">&font_wood;Wood&font_end; Bow</string>
-        <string name="item_bone_bow">&font_bone;Bone&font_end; Bow</string>
-        <string name="item_copper_bow">&font_copper;Copper&font_end; Bow</string>
-        <string name="item_tin_bow">&font_tin;Tin&font_end; Bow</string>
-        <string name="item_iron_bow">&font_iron;Iron&font_end; Bow</string>
-        <string name="item_bronze_bow">&font_bronze;Bronze&font_end; Bow</string>
-        <string name="item_silver_bow">&font_silver;Silver&font_end; Bow</string>
-        <string name="item_gold_bow">&font_gold;Gold&font_end; Bow</string>
-        <string name="item_diamond_bow">&font_diamond;Diamond&font_end; Bow</string>
-        <string name="item_obsidian_bow">&font_obsidian;Obsidian&font_end; Bow</string>
-
-        <string name="item_wood_crossbow">&font_wood;Wood&font_end; Crossbow</string>
-        <string name="item_bone_crossbow">&font_bone;Bone&font_end; Crossbow</string>
-        <string name="item_copper_crossbow">&font_copper;Copper&font_end; Crossbow</string>
-        <string name="item_tin_crossbow">&font_tin;Tin&font_end; Crossbow</string>
-        <string name="item_iron_crossbow">&font_iron;Iron&font_end; Crossbow</string>
-        <string name="item_bronze_crossbow">&font_bronze;Bronze&font_end; Crossbow</string>
-        <string name="item_silver_crossbow">&font_silver;Silver&font_end; Crossbow</string>
-        <string name="item_gold_crossbow">&font_gold;Gold&font_end; Crossbow</string>
-        <string name="item_diamond_crossbow">&font_diamond;Diamond&font_end; Crossbow</string>
-        <string name="item_obsidian_crossbow">&font_obsidian;Obsidian&font_end; Crossbow</string>
-
-        <string name="item_wood_slingshot">&font_wood;Wood&font_end; Slingshot</string>
-        <string name="item_bone_slingshot">&font_bone;Bone&font_end; Slingshot</string>
-        <string name="item_copper_slingshot">&font_copper;Copper&font_end; Slingshot</string>
-        <string name="item_tin_slingshot">&font_tin;Tin&font_end; Slingshot</string>
-        <string name="item_iron_slingshot">&font_iron;Iron&font_end; Slingshot</string>
-        <string name="item_bronze_slingshot">&font_bronze;Bronze&font_end; Slingshot</string>
-        <string name="item_silver_slingshot">&font_silver;Silver&font_end; Slingshot</string>
-        <string name="item_gold_slingshot">&font_gold;Gold&font_end; Slingshot</string>
-        <string name="item_diamond_slingshot">&font_diamond;Diamond&font_end; Slingshot</string>
-        <string name="item_obsidian_slingshot">&font_obsidian;Obsidian&font_end; Slingshot</string>
-
-        <string name="button_shoot">Shoot</string>
-        <string name="ranged_weapon_shoot_monster">You shot %1$s with your %2$s and dealt &font_speed;%3$d &font_end;damage!</string>
-        <string name="material_type_arrow">&font_wood;Arrow&font_end;</string>
-        <string name="ranged_weapon_need_ammunition">You need %1$s to do that!</string>
-
-        <string name="skill_bow_mastery">&font_speed;Bow &font_end;Mastery</string>
-        <string name="skill_crossbow_mastery">&font_speed;Crossbow &font_end;Mastery</string>
-        <string name="skill_slingshot_mastery">&font_speed;Slingshot &font_end;Mastery</string>
-
-        <string name="skill_bow_mastery_desc">As it levels up, slightly increases the damage of shooting with a &font_speed;Bow&font_end;.</string>
-        <string name="skill_crossbow_mastery_desc">As it levels up, slightly increases the damage of shooting with a &font_speed;Crossbow&font_end;.</string>
-        <string name="skill_slingshot_mastery_desc">As it levels up, slightly increases the damage of shooting with a &font_speed;Slingshot&font_end;.</string>
-
-        <string name="combat_shortcut_empty">(empty)</string>
-        <string name="combat_shortcut_skill">Skill</string>
-        <string name="combat_shortcut_spell">Spell</string>
-
-        <string name="button_shortcut">*</string>
-
-
-        <string name="shortcut_title">Shortcut</string>
-        <string name="shortcut_message">Select combat shortcut to set.</string>
-        <string name="shortcut_1">Shortcut 1</string>
-        <string name="shortcut_2">Shortcut 2</string>
-        <string name="shortcut_toast">Added %1$s to combat shortcut %2$d!</string>
-        <string name="combat_shortcut_pet_attack">Pet Attack</string>
-        <string name="shortcut_pet_attack">Pet Attack</string>
-
-        <string name="food_trail_mix">&font_nut;Trail Mix&font_end;</string>
-
-        <string name="island_discovered">Island Discovered</string>
-
-        <string name="island_arrival_speaking_natives">Speaking with the natives, you learn this %1$s island is called &font_cyan;%2$s&font_end;.</string>
-        <string name="island_arrival_sense_island">You sense this %1$s island is called &font_cyan;%2$s&font_end;.</string>
-
-        <string name="island_arrival_type_valley">You discover an island. It seems to be covered with grass, plenty of plants and small mountains.</string>
-        <string name="island_arrival_type_forest">You discover an island seemingly covered with trees and exotic monsters.</string>
-        <string name="island_arrival_type_mountain">You discover a mountainous island. There are lots of rocks, and you feel you\'ll need to climb a lot.</string>
-        <string name="island_arrival_type_swamp">You discover an island. The smell and the flies in the air are a sign of danger.</string>
-        <string name="island_arrival_type_savanna">You discover an island. There are scattered shrubs and isolated trees and the temperature is quite comfortable.</string>
-        <string name="island_arrival_type_jungle">You discover an island with thick trees, plants and lots of vegetation. Who knows what dangers lie ahead…</string>
-        <string name="island_arrival_type_desert">You discover an island. The sand and the sun are the main things you see around.</string>
-        <string name="island_arrival_type_tundra">You discover an island. The ice and the cold temperature makes you wonder if it is a good idea to explore this place.</string>
-        <string name="island_arrival_type_taiga">You discover an island. The cold temperature and the ice makes you wonder if it is a good idea to explore this place.</string>
-        <string name="island_arrival_type_mesa">You discover an island which seems to be a flat-topped hill bounded from all sides by steep escarpments.</string>
-        <string name="island_arrival_type_beach">You arrive at what seems to be an archipelago. You\'ll have to swim a lot if you want to explore all the secrets of this place.</string>
-        <string name="island_arrival_type_lake">You discover an island containing some sort of lake and abundant vegetation.</string>
-        <string name="island_arrival_type_barrens">You discover an island with a variety of biomes.</string>
-        <string name="island_arrival_type_volcano">You discover an island. The hot temperature and the vision of smoke are a sign of danger.</string>
-        <string name="island_arrival_type_high_mountains">You discover a mountainous island. There seem to be the highest mountains you\'ve ever seen.</string>
-
-        <string name="island_arrival_type_giants">You discover an island where everything seems to be bigger than the regular islands you\'ve been before.</string>
-        <string name="island_arrival_type_dragons">You discover an island where you smell sulfur and feel the presence of dangerous creatures.</string>
-        <string name="island_arrival_type_undead">You discover an island where there seems to be almost no life left.</string>
-        <string name="island_arrival_type_plant">You discover an island where everything is mainly green. It seems to be full of dangerous plants.</string>
-        <string name="island_arrival_type_fey">You discover a mysterious island. The trees and dense vegetation are hiding exotic and dangerous creatures.</string>
-        <string name="island_arrival_type_beast">You discover an island. The screams of the beasts living here make you stand still for a moment. What kind of place is this?</string>
-        <string name="island_arrival_type_humanoid">You discover an island. You notice nothing special about this place, but you think it\'ll be hard to tell friend from foe.</string>
-        <string name="island_arrival_type_construct">You discover an island. Every monster you sense around seem to be somehow artificial or not organic.</string>
-        <string name="island_arrival_type_elemental">You discover an island. You sense a lot of energy in this island, it seems a dangerous place to explore.</string>
-        <string name="island_arrival_type_swarm">You discover an island. It seems to be some sort of swamp, and you can\'t stop hearing a constant buzz all the time.</string>
-        <string name="island_arrival_type_ooze">You discover an island. It seems there\'s nothing around you but something tells you there\'s something else here.</string>
-        <string name="island_arrival_type_aberration">You discover an island. This is not a normal island. You can feel huge and ugly monsters live here.</string>
-
-        <string name="island_arrival_type_tyrant">As soon as you step in this island, you feel the chills and realise this island is going to be tough.</string>
-        <string name="island_arrival_type_hell">Lava and fire. This is Hell. You smell the sulfur and see the place is full of demons and evil beings.</string>
-        <string name="island_arrival_type_heaven">The clouds, the cold air and the beings in this place… You have the feeling this is the most dangerous place you\'ve ever been.</string>
-
-        <string name="island_arrival_type_black_island">As soon as you arrive to this island, the emptiness and the strange beings inhabiting this place make you feel uncomfortable.</string>
-        <string name="island_arrival_type_white_island">As soon as you arrive to this island, the emptiness and the strange beings inhabiting this place make you feel uncomfortable.</string>
-
-        <string name="island_arrival_type_void_island">This is different than any other place you\'ve been so far. You feel nothing. You are surrounded by &font_void;void &font_end;and have no idea of what you\'ll find here.</string>
-
-        <string name="island_arrival_type_infinity_island">You are in an infinity island. Reality seems to bend here.</string>
-        <string name="island_arrival_type_treasure_island">You discover a small island. There seems to be nothing else but sand and soon realise something great awaits.</string>
-
-        <string name="material_type_bolt">&font_wood;Bolt&font_end;</string>
-
-        <string name="tile_content_type_dungeon">Dungeon</string>
-        <string name="dungeon_title">%1$s - Floor &font_cyan;%2$d &font_end;(&font_cyan;%3$d&font_end;, &font_cyan;%4$d&font_end;)</string>
-        <string name="dungeon_go_up">Go Up</string>
-        <string name="dungeon_go_down">Go Down</string>
-
-        <string name="dungeon_abandoned_mine">&font_wood;Abandoned &font_end;&font_stone;Mine&font_end;</string>
-        <string name="dungeon_dungeon">&font_stone;Dungeon&font_end;</string>
-        <string name="dungeon_grotto">&font_iron;Grotto&font_end;</string>
-        <string name="dungeon_deep_forest">&font_dark_green;Deep &font_end;&font_green;Forest&font_end;</string>
-        <string name="dungeon_old_tomb">&font_silver;Old &font_end;&font_stone;Tomb&font_end;</string>
-        <string name="dungeon_ancient_ruins">&font_gold;Ancient &font_end;&font_ruins;Ruins&font_end;</string>
-        <string name="dungeon_big_cave">&font_stone;Big &font_end;&font_end;&font_cave;Cave&font_end;</string>
-        <string name="dungeon_icy_cave">&font_ice;Icy &font_end;&font_cave;Cave&font_end;</string>
-        <string name="dungeon_lava_cave">&font_red;Lava &font_end;&font_cave;Cave&font_end;</string>
-
-        <string name="dungeon_exit">Exit</string>
-        <string name="dungeon_question_mark">\?</string>
-        <string name="dungeon_exit_dungeon">You exit %1$s.</string>
-        <string name="dungeon_accessibility">You are at &font_cyan;%1$d&font_end;, &font_cyan;%2$d &font_end;in %3$s, Floor &font_cyan;%4$d&font_end;.&br;&br;You can move to the following directions: %5$s.</string>
-        <string name="dungeon_can_go_up">You can go &font_cyan;up &font_end;from here.</string>
-        <string name="dungeon_can_go_down">You can go &font_cyan;down &font_end;from here.</string>
-        <string name="dungeon_can_exit">You can &font_cyan;exit &font_end;from here.</string>
-        <string name="dungeon_enter">You enter %s…</string>
-        <string name="tile_type_dungeon">Dungeon</string>
-        <string name="dungeon_loot">&font_cyan;Loot&font_end;</string>
-        <string name="dungeon_loot_message">You obtained: %s</string>
-        <string name="found_item">Found: %s</string>
-        <string name="dungeon_entrance_name">&font_stone;%1$s &font_end;(%2$s)</string>
-        <string name="tile_content_type_dungeon_portal">&font_stone;Dungeon &font_end;&font_portal;Portal&font_end;</string>
-
-        <string name="dungeon_north_content">&font_cyan;North&font_end;: %1$s</string>
-        <string name="dungeon_south_content">&font_cyan;South&font_end;: %1$s</string>
-        <string name="dungeon_east_content">&font_cyan;East&font_end;: %1$s</string>
-        <string name="dungeon_west_content">&font_cyan;West&font_end;: %1$s</string>
-        <string name="dungeon_boss">&font_dungeon_boss;Boss&font_end;</string>
-        <string name="settings_show_combat_shortcuts">Enable Combat Shortcuts</string>
-
-        <string name="dungeon_enter_portal">Enter Portal</string>
-        <string name="dungeon_entered_portal">You entered the portal and appeared at the entrance of the dungeon!</string>
-
-        <string name="dungeon_tutorial_title">Dungeons</string>
-        <string name="dungeon_tutorial_message_1">Welcome to your first dungeon, hero!</string>
-        <string name="dungeon_tutorial_message_2">In the dungeons, every item you find will be given to you when you leave the dungeon.</string>
-        <string name="dungeon_tutorial_message_3">You won\'t be able to change your equipment, craft, use items, etc… except while in combat!</string>
-        <string name="dungeon_tutorial_message_4">A Boss monster awaits in the last floor of the dungeons. Be careful though, the deeper the floor, the more dangerous the monsters can be!</string>
-        <string name="dungeon_tutorial_message_5">Good luck, and be careful!</string>
-        <string name="button_next">Next</string>
-
-        <string name="dead_reason_unknown">Died!</string>
-
-        <string name="food_cooked_fish">&font_white;Cooked &font_end;&font_blue;Fish&font_end;</string>
-        <string name="share_dialog_title">Share</string>
-        <string name="share_dialog_message">Share your hero\'s status as an image or as text!</string>
-        <string name="button_share_image">As Image</string>
-        <string name="button_share_text">As Text</string>
-
-        <string name="material_type_beetle_talisman">&font_beetle_talisman;Beetle Talisman&font_end;</string>
-
-        <string name="pyramid_its_closed">It\'s closed…</string>
-        <string name="pyramid_its_closed_can_open">It\'s closed but it seems to be reacting with your &font_beetle_talisman;Beetle Talisman&font_end;…</string>
-        <string name="pyramid_interact">Interact</string>
-        <string name="pyramid_opened">The pyramid absorbs the &font_beetle_talisman;Beetle Talisman &font_end;and opens!</string>
-
-        <string name="material_type_jade">&font_jade;Jade&font_end;</string>
-        <string name="material_type_quartz">&font_quartz;Quartz&font_end;</string>
-        <string name="material_type_jasper">&font_jasper;Jasper&font_end;</string>
-        <string name="material_type_sodalite">&font_sodalite;Sodalite&font_end;</string>
-        <string name="material_type_onyx">&font_onyx;Onyx&font_end;</string>
-        <string name="material_type_serpentine">&font_serpentine;Serpentine&font_end;</string>
-        <string name="material_type_aragonite">&font_aragonite;Aragonite&font_end;</string>
-
-        <string name="material_type_saphir">&font_saphir;Saphir&font_end;</string>
-        <string name="material_type_ruby">&font_ruby;Ruby&font_end;</string>
-
-        <string name="material_type_ankh">&font_gold;Ankh&font_end;</string>
-
-        <string name="material_type_infinity_energy">&font_infinity;Infinity &font_end;&font_cyan;Energy&font_end;</string>
-        <string name="material_type_creator_medal">&font_asterisk_creator;Creator &font_end;&font_white;Medal&font_end;</string>
-        <string name="achievement_name_capture_creator">How could you?!</string>
-        <string name="achievement_name_desc_capture_creator">Capture the Creator!</string>
-
-        <string name="title_the_creator_male">%1$s, the &font_asterisk_creator;Creator&font_end;</string>
-        <string name="title_the_creator_female">%1$s, the &font_asterisk_creator;Creator&font_end;</string>
-        <string name="title_the_creator_no_gender">%1$s, the &font_asterisk_creator;Creator&font_end;</string>
-
-        <string name="wise_have_creator_medal">You… you are unbelievable! You killed the &font_asterisk_creator;Creator &font_end;and obtained a %s? I\'m afraid the only thing left to do for you is to &font_asterisk_creator;Ascend&font_end;…</string>
-
-        <string name="wise_ascend_message_1">You want to &font_alchemist;Ascend&font_end;?</string>
-        <string name="creator_appeared_title">&font_asterisk_creator;The Creator &font_end;Appeared</string>
-        <string name="creator_appeared_message">Suddenly, a supreme being, nothing like you\'ve seen before, appears in front of you… And, you know, deep inside, this is nothing else than… &font_asterisk_creator;Archison&font_end;, &font_asterisk_creator;The Creator&font_end;.</string>
-        <string name="combat_monster_healed_completely">%s healed completely!</string>
-
-        <string name="item_info_creator_medal">It is a bright medal, a memory of the time you killed &font_asterisk_creator;The Creator&font_end;.</string>
-        <string name="wise_main_story_island_first_message">Hello, hero! I\'ll be here if you need help!&br;&br;Talk to me if you need to rest or if you want to leave this place…</string>
-        <string name="wise_main_story_island_second_message">Do you want to restore your &font_health;health &font_end;, &font_mana;mana &font_end;and &font_hunger;hunger &font_end;for &font_gold;%1$d gold&font_end;? (A &font_primary_light;&italic;[CHECKPOINT] &italic_end;&font_end;will be saved)&br;&br;…or…&br;&br;Do you want to leave this place? It will disappear forever, you\'ll lose half of the &font_gold;gold &font_end;you are carrying, half from the &font_gold;BANK&font_end;, and you\'ll have to start looking for the &font_cyan;Pieces Of Map &font_end;again.</string>
-        <string name="wise_leave_island_confirmation_message">Are you sure you want to leave?&br;&br;This place will disappear forever, you\'ll lose half of the &font_gold;gold &font_end;you are carrying, half from the &font_gold;BANK&font_end;, and you\'ll have to start looking for the &font_cyan;Pieces Of Map &font_end;again.</string>
-
-        <string name="button_rest">Rest</string>
-        <string name="button_leave_island">Leave</string>
-
-        <string name="wise_completely_rested">You feel completely rested!</string>
-        <string name="wise_main_story_island_lost_gold_and_memory">You lost some &font_gold;gold &font_end;and some of your memories…</string>
-
-        <string name="creator_pre_combat_message_1">You know… It\’s not easy to be &font_asterisk_creator;The Creator&font_end;… Always coding, adding greater challenges, fixing bugs, answering emails, chatting in discord, reddit, the web, etc…</string>
-        <string name="creator_pre_combat_message_2">And all of it for what? Tell me, why am I supposed to do this? I can\'t stand the pressure anymore…!</string>
-        <string name="creator_pre_combat_message_3">GET READY TO DIE! Mmmmmwwwwahahahahahahaha!</string>
-
-        <string name="void_master_after_killing_text_4">Well well… You are wearing a complete set of the &font_void;Void&font_end;… Here you are, you will know what to do with it…</string>
-
-        <string name="dungeon_infinite_vortex">&font_infinity;Infinite &font_end;&font_void;Vortex&font_end;</string>
-        <string name="collection_tiles">Tiles</string>
-        <string name="collection_cassettes">Cassettes</string>
-        <string name="cassette_menu">Menu</string>
-        <string name="cassette_new_game">New Game</string>
-        <string name="cassette_journey">Journey</string>
-        <string name="cassette_game_over">Game Over</string>
-        <string name="cassette_collections">Collections</string>
-        <string name="collection_dungeons">Dungeons</string>
-
-        <string name="button_play">Play</string>
-
-        <string name="cassette_rar1_menu">RAR I - Menu</string>
-        <string name="cassette_rar1_journey">RAR I - Journey</string>
-        <string name="cassette_rar1_game_over">RAR I - Game Over</string>
-        <string name="cassette_rar1_collections">RAR I - Collections</string>
-
-        <string name="tile_content_type_cassette">&font_alchemist;Cassette&font_end;</string>
-        <string name="cassette_name">&font_alchemist;Cassette &font_end;(%s)</string>
-        <string name="item_info_cassette">This seems to be an ancient relic of sorts. Who knows what is this used for…</string>
-
-        <string name="wise_ascend_message_confirmation">If you &asterisk_ascend_color;Ascend&font_end;, you\'ll start over from level 1. You\'ll forget every island, quest, etc…, and you\'ll lose all your items, your gold… BUT, you\'ll have improved starting stats, you\'ll obtain an &asterisk_ascend_color;Ascension &font_end;&font_red;Flame&font_end;…!</string>
-        <string name="wise_ascend_message_confirmation_2">Are you sure you want to &asterisk_ascend_color;Ascend&font_end;?</string>
-
-        <string name="ascend_toast">Everything becomes dark…</string>
-        <string name="ascend_end_toast">…you feel alive again…</string>
-
-        <string name="title_the_ascended_male">%1$s, the &asterisk_ascend_color;Ascended&font_end;</string>
-        <string name="title_the_ascended_female">%1$s, the &asterisk_ascend_color;Ascended&font_end;</string>
-        <string name="title_the_ascended_no_gender">%1$s, the &asterisk_ascend_color;Ascended&font_end;</string>
-
-        <string name="material_type_ascension_flame">&asterisk_ascend_color;Ascension &font_end;&font_red;Flame&font_end;</string>
-
-        <string name="tile_content_stairway_to_hell">&font_wood;Stairway &font_end;To &font_red;Hell&font_end;</string>
-        <string name="tile_content_highway_to_heaven">&font_corrupted_god;Highway &font_end;To &font_heaven;Heaven&font_end;</string>
-
-        <string name="main_story_stairway_to_hell_advice_wont_be_able_to_come_back_to_island">If you enter the %1$s you won\'t be able to come back to %2$s!&br;&br;Enter anyway?</string>
-        <string name="main_story_7_stairway_to_hell_appears">A &font_wood;Stairway &font_end;To &font_red;Hell &font_end;appears!</string>
-
-        <string name="main_story_7_the_tyrant_message_6_new">Use this &font_wood;Stairway &font_end;To &font_red;Hell &font_end;to find him…</string>
-
-        <string name="text_cant_move_here">Can\'t move here…</string>
-
-        <string name="tile_content_type_cassette_collector">&font_alchemist;Cassette &font_end;&font_gold;Collector&font_end;</string>
-        <string name="tile_content_type_cassette_collector_with_gem">&font_alchemist;Cassette &font_end;&font_gold;Collector &font_end;(%s)</string>
-
-        <string name="cassette_collector_message">Hello! I\'m a &font_alchemist;Cassette &font_end;&font_gold;Collector&font_end;!&br;&br;If you happen to have any &font_alchemist;Cassette&font_end;, would you give it to me? I would give you a %1$s in exchange…</string>
-        <string name="cassette_collector_you_dont_have_any_cassette">You don\'t have any &font_alchemist;Cassette&font_end;…</string>
-
-        <string name="collection_material">Material</string>
-
-        <string name="material_type_red_opal">&font_red;Red &font_end;&font_onyx;Opal&font_end;</string>
-        <string name="material_type_green_opal">&font_green;Green &font_end;&font_onyx;Opal&font_end;</string>
-        <string name="material_type_blue_opal">&font_blue;Blue &font_end;&font_onyx;Opal&font_end;</string>
-
-        <string name="sphinx_info_with_ankh">You look at the giant &font_pyramid;Sphinx &font_end;and are amazed about its size and beauty. It seems pretty old.&br;&br;The &font_gold;Ankh &font_end;in your pocket starts to vibrate. Do you want to use it?</string>
-        <string name="monster_appears">%s appears!</string>
-
-        <string name="monster_action_shadow_ray">Shadow Ray</string>
-        <string name="monster_action_infinity_punch">Infinity Punch</string>
-        <string name="monster_action_everything">Everything</string>
-        <string name="monster_action_annoying_bug">Annoying Bug</string>
-        <string name="monster_action_game_glitch">Game Glitch</string>
-        <string name="monster_action_reality_crash">Reality Crash</string>
-
-        <string name="item_info_ankh">It seems to have a small drawing of a &font_pyramid;Sphinx&font_end;…</string>
-
-        <string name="inventory_use_red_opal">Use &font_red;Red &font_end;&font_onyx;Opal &font_end;to increase your max. hunger by &font_hunger;%1$d&font_end;.</string>
-        <string name="inventory_use_green_opal">Use &font_green;Green &font_end;&font_onyx;Opal &font_end;to increase your max. health by &font_health;%1$d&font_end;.</string>
-        <string name="inventory_use_blue_opal">Use &font_blue;Blue &font_end;&font_onyx;Opal &font_end;to increase your max. mana by &font_mana;%1$d&font_end;.</string>
-        <string name="inventory_use_infinity_energy">Use &font_infinity;Infinity &font_end;&font_cyan;Energy &font_end;to completely restore your &font_health;health &font_end;, &font_mana;mana &font_end;and &font_hunger;hunger&font_end;.</string>
-
-        <string name="inventory_used_infinity_energy">Used &font_infinity;Infinity &font_end;&font_cyan;Energy&font_end;!</string>
-
-        <string name="item_info_ascension_flame">You feel this &asterisk_ascend_color;Ascension &font_end;&font_red;Flame &font_end;is the most powerful thing you\'ve ever touched… You wonder what may this be used for…</string>
-        <string name="settings_leaderboards">Leaderboards</string>
-
-        <string name="error_signing_in">Error singing in…</string>
-        <string name="error_accessing_leaderboards">Error accessing leader boards…</string>
-        <string name="sign_in_dialog_title">Google Play Games</string>
-        <string name="sign_in_dialog_message">Sign in to Google Play Games to access Achievements and Leader Boards!</string>
-
-        <string name="updated_leaderboards">&font_primary_light;&italic;[UPDATED LEADER BOARDS]&italic_end;&font_end;</string>
-    </resources>
+    <string name="quest_bring_animal_text_giving">Oh… I have a dream… I\'d love to see a &font_animal;%1$s &font_end;at least once in my life… Could you bring one to me?</string>
+    <string name="quest_bring_animal_text_desc">You have to find an animal: &font_animal;%1$s &font_end;and bring it to %2$s at %3$s,%4$s</string>
+    <string name="quest_bring_animal_text_complete_desc">Oh! It\'s even cuter than I thought! Thanks a lot!</string>
+    <string name="quest_bring_animal_text_negative">I\'m afraid you don\'t have the &font_animal;%1$s &font_end;with you… Come back when you find one, you\'d make me so happy!</string>
+    <string name="quest_bring_animal_text_bring">Have you found the &font_animal;%1$s&font_end;? Show me!</string>
+
+    <string name="tile_content_type_island_map">&font_cyan;Island &font_end;&font_gold;Map&font_end;</string>
+    <string name="item_info_island_map">Use this &font_cyan;Island &font_end;&font_gold;Map &font_end;to see the island map without needing to explore it completely.&br;&br;(You\'ll need to explore the island if you want to complete it 100%%.)</string>
+    <string name="island_map_island_name">(&font_cyan;%1$s&font_end;)</string>
+
+    <string name="settings_change_language_title">Change Language</string>
+    <string name="settings_change_language_message">Are you sure you want to change the language?&br;&br;The app needs to reset to apply the language changes.&br;&br;Restart app? (You won\'t lose your game data)</string>
+
+
+    <string name="weapon_type_staff">&font_mana;Staff&font_end;</string>
+
+    <string name="item_wood_staff">&font_wood;Wood&font_end; Staff</string>
+    <string name="item_bone_staff">&font_bone;Bone&font_end; Staff</string>
+    <string name="item_copper_staff">&font_copper;Copper&font_end; Staff</string>
+    <string name="item_tin_staff">&font_tin;Tin&font_end; Staff</string>
+    <string name="item_iron_staff">&font_iron;Iron&font_end; Staff</string>
+    <string name="item_bronze_staff">&font_bronze;Bronze&font_end; Staff</string>
+    <string name="item_silver_staff">&font_silver;Silver&font_end; Staff</string>
+    <string name="item_gold_staff">&font_gold;Gold&font_end; Staff</string>
+    <string name="item_diamond_staff">&font_diamond;Diamond&font_end; Staff</string>
+    <string name="item_obsidian_staff">&font_obsidian;Obsidian&font_end; Staff</string>
+
+    <string name="skill_staff_mastery">&font_mana;Staff &font_end;Mastery</string>
+    <string name="skill_staff_mastery_description">Attacking with a &font_mana;Staff &font_end;in combat unlocks &font_mana;Staff &font_end;Combat Skills.</string>
+    <string name="weapon_skill_staff_hit">&font_skill_attack;Hit&font_end;</string>
+    <string name="weapon_skill_staff_hit_desc">Strikes the enemy.</string>
+    <string name="weapon_skill_staff_hit_attack">You strongly strike the enemy!</string>
+    <string name="weapon_skill_staff_absorption">&font_skill_attack;Mana Absorption&font_end;</string>
+    <string name="weapon_skill_staff_absorption_desc">Absorbs mana from the enemy.</string>
+    <string name="weapon_skill_staff_absorption_attack">You absorb mana from the enemy!</string>
+    <string name="weapon_skill_staff_great_hit">&font_skill_attack;Great Hit&font_end;</string>
+    <string name="weapon_skill_staff_great_hit_desc">Strongly strikes the enemy.</string>
+    <string name="weapon_skill_staff_great_hit_attack">You strongly strike the enemy!</string>
+    <string name="weapon_skill_staff_mana_thief">&font_skill_attack;Mana Thief&font_end;</string>
+    <string name="weapon_skill_staff_mana_thief_desc">Steals mana from the enemy.</string>
+    <string name="weapon_skill_staff_mana_thief_attack">You hit and steal mana from the enemy!</string>
+    <string name="weapon_skill_staff_ultimate_strike">&font_skill_attack;Ultimate Strike&font_end;</string>
+    <string name="weapon_skill_staff_ultimate_strike_desc">Strongly hits the enemy with the staff.</string>
+    <string name="weapon_skill_staff_ultimate_strike_attack">You hit the enemy with all your strength!</string>
+
+    <string name="material_unicorn_horn">&font_unicorn;Unicorn&font_end; Horn</string>
+    <string name="item_unicorn_horn_spear">&font_unicorn;Unicorn&font_end; Horn Spear</string>
+
+    <string name="material_goat_wool">&font_white;Goat Cashmere&font_end;</string>
+    <string name="material_tentacle">&font_pet;Tentacle&font_end;</string>
+    <string name="material_owl_feather">&font_wood;Owl Feather&font_end;</string>
+    <string name="material_spider_silk">&font_tundra;Spider Silk&font_end;</string>
+    <string name="material_snake_scale">&font_green;Snake Scale&font_end;</string>
+    <string name="material_crocodile_tear">&font_glass;Crocodile Tear&font_end;</string>
+    <string name="material_emerald">&font_emerald;Emerald&font_end;</string>
+    <string name="material_void_dust">&font_void;Void Dust&font_end;</string>
+
+    <string name="skill_fire_mastery_description">Increase your &font_red;Fire &font_end;Mastery by casting &font_red;Fire &font_end;spells.&br;&br;Levelling up this mastery allows to learn new spells of this type of magic by reading the corresponding &font_mana;Spell &font_end;Book.&br;&br;Each level decreases the &font_mana;mana &font_end;cost by a small percentage.</string>
+    <string name="skill_water_mastery_description">Increase your &font_water;Water &font_end;Mastery by casting &font_water;Water &font_end;spells.&br;&br;Levelling up this mastery allows to learn new spells of this type of magic by reading the corresponding &font_mana;Spell &font_end;Book.&br;&br;Each level decreases the &font_mana;mana &font_end;cost by a small percentage.</string>
+    <string name="skill_ice_mastery_description">Increase your &font_ice;Ice &font_end;Mastery by casting &font_ice;Ice &font_end;spells.&br;&br;Levelling up this mastery allows to learn new spells of this type of magic by reading the corresponding &font_mana;Spell &font_end;Book.&br;&br;Each level decreases the &font_mana;mana &font_end;cost by a small percentage.</string>
+    <string name="skill_air_mastery_description">Increase your &font_spell_wind;Air &font_end;Mastery by casting &font_spell_wind;Air &font_end;spells.&br;&br;Levelling up this mastery allows to learn new spells of this type of magic by reading the corresponding &font_mana;Spell &font_end;Book.&br;&br;Each level decreases the &font_mana;mana &font_end;cost by a small percentage.</string>
+    <string name="skill_electric_mastery_description">Increase your &font_electric;Electric &font_end;Mastery by casting &font_electric;Electric &font_end;spells.&br;&br;Levelling up this mastery allows to learn new spells of this type of magic by reading the corresponding &font_mana;Spell &font_end;Book.&br;&br;Each level decreases the &font_mana;mana &font_end;cost by a small percentage.</string>
+    <string name="skill_earth_mastery_description">Increase your &font_wood;Earth &font_end;Mastery by casting &font_wood;Earth &font_end;spells.&br;&br;Levelling up this mastery allows to learn new spells of this type of magic by reading the corresponding &font_mana;Spell &font_end;Book.&br;&br;Each level decreases the &font_mana;mana &font_end;cost by a small percentage.</string>
+    <string name="skill_life_mastery_description">Increase your &font_health;Life &font_end;Mastery by casting &font_health;Life &font_end;spells.&br;&br;Levelling up this mastery allows to learn new spells of this type of magic by reading the corresponding &font_mana;Spell &font_end;Book.&br;&br;Each level decreases the &font_mana;mana &font_end;cost by a small percentage.</string>
+    <string name="skill_monster_mastery_description">Increase your &font_pet;Monster &font_end;Mastery by casting &font_pet;Monster &font_end;spells.&br;&br;Levelling up this mastery allows to learn new spells of this type of magic by reading the corresponding &font_mana;Spell &font_end;Book.&br;&br;Each level decreases the &font_mana;mana &font_end;cost by a small percentage.</string>
+
+    <string name="skill_fire_mastery">&font_red;Fire &font_end;Mastery</string>
+    <string name="skill_water_mastery">&font_water;Water &font_end;Mastery</string>
+    <string name="skill_ice_mastery">&font_ice;Ice &font_end;Mastery</string>
+    <string name="skill_air_mastery">&font_spell_wind;Air &font_end;Mastery</string>
+    <string name="skill_electric_mastery">&font_electric;Electric &font_end;Mastery</string>
+    <string name="skill_earth_mastery">&font_wood;Earth &font_end;Mastery</string>
+    <string name="skill_life_mastery">&font_health;Life &font_end;Mastery</string>
+    <string name="skill_monster_mastery">&font_pet;Monster &font_end;Mastery</string>
+
+    <string name="spell_book_need_skill_level">&italic;Your %1$s is not high enough to learn this &font_mana;spell&font_end;&italic_end;</string>
+
+    <string name="stats_extra_max_mana">Max. &font_mana;Mana&font_end;: &font_mana;%d&font_end;</string>
+    <string name="stats_extra_max_health">Max. &font_health;Health&font_end;: &font_health;%d&font_end;</string>
+    <string name="stats_extra_max_hunger">Max. &font_hunger;Hunger&font_end;: &font_hunger;%d&font_end;</string>
+
+    <string name="item_crocodile_tear_ring">&font_glass;Crocodile Tear &font_end;Ring</string>
+    <string name="item_snake_scale_boots">&font_scale;Snake Scale &font_end;Boots</string>
+    <string name="item_spider_silk_pants">&font_tundra;Spider Silk &font_end;Pants</string>
+    <string name="item_owl_feather_gloves">&font_wood;Owl Feather &font_end;Gloves</string>
+    <string name="item_goat_wool_robes">&font_wood;Cashmere &font_end;Robe</string>
+    <string name="item_emerald_amulet">&font_emerald;Emerald &font_end;Amulet</string>
+
+    <string name="settings_vibration">Vibration</string>
+
+    <string name="skill_bigpockets">&font_wood;Big Pockets&font_end;</string>
+    <string name="skill_backpacker">&font_wood;Backpacker&font_end;</string>
+    <string name="skill_bigpockets_description">Increases the number of items you can carry by &bold;&font_cyan;5&font_end;&bold_end;</string>
+    <string name="skill_backpacker_description">Increases the number of items you can carry by &bold;&font_cyan;10&font_end;&bold_end;</string>
+
+    <string name="tile_content_type_gate_desc">This strange &font_gate;Gate &font_end;seems to need something to be activated…</string>
+    <string name="button_gate_use_dark_orb">Use &font_dark_orb;Dark Orb&font_end;</string>
+
+    <string name="open_gate_message">You feel a strong dark energy coming from the &font_gate;Open Gate&font_end;. Are you sure you want to enter it?</string>
+    <string name="entering_dark_gate_open">Entering &font_gate;Open Dark Gate&font_end;</string>
+
+    <string name="weather_emptiness">Emptiness</string>
+
+    <string name="island_type_void">Void</string>
+    <string name="island_type_infinity">Infinity</string>
+    <string name="tile_type_void">Void</string>
+    <string name="tile_type_void_vortex">Void Vortex</string>
+    <string name="tile_type_energy_source">Infinity Origin</string>
+    <string name="tile_type_infinity">Infinity</string>
+
+    <string name="dark_orb_gate_open">The &font_gate;Dark Gate &font_end;suddenly opens in front of you, there\'s a lot of &italic;dark energy &italic_end;coming out from it…</string>
+
+    <string name="void_master_after_killing_text">Killing me, you have activated the end for you and the rest of mortals… get ready for the &font_void;Void &font_end;Monsters appearing in your world…</string>
+    <string name="void_master_after_killing_text_2">You again…? Well… I\'m surprised you arrived so far with my &font_void;Void &font_end;Monsters around the world… I\'ll see you again…</string>
+    <string name="void_master_after_killing_text_3">Well well… You are wearing a complete set of the &font_void;Void&font_end;… Right now there\'s nothing else I can offer… But come soon, and I\'ll give you something you need…</string>
+
+    <!-- TODO: #884 DEV - Uncomment this -->
+    <!--    <string name="void_master_after_killing_text_3">Well well… You are wearing a complete set of the &font_void;Void&font_end;… You are worthy to posses this &font_infinity;Infinity &font_end;&font_gold;Key&font_end;… Good luck…</string>-->
+
+    <string name="your_ship_appears_magically">Your &font_wood;Ship &font_end;appears…</string>
+
+    <string name="void_monster_prefix">&font_void;Void&font_end;</string>
+
+    <string name="item_void_helmet">&font_void;Void &font_end;Helmet</string>
+    <string name="item_void_armor">&font_void;Void &font_end;Plate</string>
+    <string name="item_void_pants">&font_void;Void &font_end;Pants</string>
+    <string name="item_void_boots">&font_void;Void &font_end;Boots</string>
+    <string name="item_void_gloves">&font_void;Void &font_end;Gloves</string>
+    <string name="item_void_amulet">&font_void;Void &font_end;Amulet</string>
+    <string name="item_void_ring">&font_void;Void &font_end;Ring</string>
+
+    <string name="tile_content_type_infinity_door">&font_infinity;Infinity &font_end;&font_gold;Door&font_end;</string>
+    <string name="infinity_door_open">&font_infinity;Infinity &font_end;&font_gold;Door &font_end;(&font_green;Open&font_end;)</string>
+    <string name="infinity_door_closed">&font_infinity;Infinity &font_end;&font_gold;Door &font_end;(&font_red;Closed&font_end;)</string>
+    <string name="item_infinity_key">&font_infinity;Infinity &font_end;&font_gold;Key&font_end;</string>
+    <string name="button_open_with_infinity_key">Open with &font_infinity;Infinity &font_end;&font_gold;Key&font_end;</string>
+    <string name="item_info_infinity_key">A glowing mysterious &font_gold;Key&font_end;…</string>
+    <string name="infinity_door_enter_title">&font_infinity;Infinity &font_end;&font_gold;Door&font_end;</string>
+    <string name="infinity_door_enter_message">Enter the &font_infinity;Infinity &font_end;&font_gold;Door&font_end;?</string>
+    <string name="entering_infinity_door">Entering &font_infinity;Infinity &font_end;&font_gold;Door&font_end;</string>
+    <string name="infinity_door_opened">You open the &font_infinity;Infinity &font_end;&font_gold;Door&font_end;!</string>
+
+    <string name="infinity_door_closed_message">It\'s a locked door, there\'s nothing around it… looks like it needs some sort of &font_gold;Key &font_end;to open it…</string>
+
+    <string name="achievements_clear_title">Are you sure?</string>
+    <string name="collections_clear_title">Are you sure?</string>
+    <string name="collections_cleared">Collections cleared!</string>
+    <string name="cemetery_cleared">Cemetery cleared!</string>
+    <string name="achievements_cleared">Achievements cleared!</string>
+
+    <string name="button_unfold_output_text">Show output text button</string>
+    <string name="settings_map_controls">Show Minimap Buttons</string>
+    <string name="settings_output_controls">Show Output Button</string>
+    <string name="forget_crafting_recipe_title">Forget Crafting Recipe?</string>
+    <string name="forget_crafting_recipe_message">Do you want to forget how to craft %1$s?</string>
+
+    <string name="crafting_recipe_migration_alert_title">Crafting Recipes</string>
+    <string name="crafting_recipe_migration_alert_message">The &font_red;Evil Forces &font_end;have stolen your crafting recipes knowledge, but the &font_wise;Wise &font_end;has taught you all the recipes you could know…&br;&br;The &font_asterisk_creator;Creator &font_end;hopes you use them wisely!</string>
+    <string name="crafting_recipe_legacy">[Legacy]</string>
+    <string name="crafting_recipe_legacy_cant_learn">&italic;You can\'t learn a Legacy Recipe&italic_end;</string>
+
+    <string name="skill_pet_collector">&font_pet;Pet Collector&font_end;</string>
+    <string name="skill_zoologist">&font_pet;Zoologist&font_end;</string>
+    <string name="skill_pet_hoarder">&font_pet;Pet Hoarder&font_end;</string>
+
+    <string name="skill_pet_collector_description">Increases the maximum &font_red;monster&font_end; &font_pet;pets &font_end;you can have by &bold;&font_cyan;5&font_end;&bold_end;</string>
+    <string name="skill_zoologist_description">Increases the maximum &font_red;monster&font_end; &font_pet;pets &font_end;you can have by &bold;&font_cyan;5&font_end;&bold_end;</string>
+    <string name="skill_pet_hoarder_description">Increases the maximum &font_red;monster&font_end; &font_pet;pets &font_end;you can have by &bold;&font_cyan;10&font_end;&bold_end;</string>
+
+    <string name="ee_your_tongue_hurts">Your tongue hurts… what is wrong with it?</string>
+    <string name="ee_kirito">Oh, you got a mysterious discount at the %1$s!</string>
+
+    <string name="only_placeholder">%1$s</string>
+
+    <string name="title_warrior_male">%1$s, the &font_attack;Warrior&font_end;</string>
+    <string name="title_wizard_male">%1$s, the &font_mana;Wizard&font_end;</string>
+    <string name="title_cleric_male">%1$s, the &font_health;Cleric&font_end;</string>
+    <string name="title_worker_male">%1$s, the &font_wood;Worker&font_end;</string>
+    <string name="title_alchemist_male">%1$s, the &font_alchemist;Alchemist&font_end;</string>
+    <string name="title_blacksmith_male">%1$s, the &font_iron;Blacksmith&font_end;</string>
+    <string name="title_noble_male">%1$s, the &font_gold;Noble&font_end;</string>
+
+    <string name="title_warrior_female">%1$s, the &font_attack;Warrior&font_end;</string>
+    <string name="title_wizard_female">%1$s, the &font_mana;Wizard&font_end;</string>
+    <string name="title_cleric_female">%1$s, the &font_health;Cleric&font_end;</string>
+    <string name="title_worker_female">%1$s, the &font_wood;Worker&font_end;</string>
+    <string name="title_alchemist_female">%1$s, the &font_alchemist;Alchemist&font_end;</string>
+    <string name="title_blacksmith_female">%1$s, the &font_iron;Blacksmith&font_end;</string>
+    <string name="title_noble_female">%1$s, the &font_gold;Noble&font_end;</string>
+    <string name="male">Man</string>
+    <string name="female">Woman</string>
+    <string name="new_game_whats_your_sex">… and what is your sex?</string>
+    <string name="title_unlocked">[Title unlocked: %1$s]</string>
+    <string name="settings_show_player_title">Show title</string>
+    <string name="settings_player_title">&font_cyan;Player Title&font_end;</string>
+    <string name="settings_select_title">Select Title</string>
+
+    <string name="title_the_strongest_male">%1$s, the &font_attack;Strongest&font_end;</string>
+    <string name="title_the_broke_male">%1$s, the &font_gold;Broke&font_end;</string>
+    <string name="title_the_wealthy_male">%1$s, the &font_gold;Wealthy&font_end;</string>
+    <string name="title_the_filthy_rich_male">%1$s, the &font_gold;Filthy Rich&font_end;</string>
+    <string name="title_the_killer_male">%1$s, the &font_attack;Killer&font_end;</string>
+    <string name="title_the_assassin_male">%1$s, the &font_attack;Assassin&font_end;</string>
+    <string name="title_the_terminator_male">%1$s, the &font_attack;Terminator&font_end;</string>
+    <string name="title_the_questor_male">%1$s, the &font_quest;Questor&font_end;</string>
+    <string name="title_the_hard_worker_male">%1$s, the &font_quest;Hard Worker&font_end;</string>
+    <string name="title_the_employee_male">%1$s, the &font_quest;Employee&font_end;</string>
+    <string name="title_the_traveller_male">%1$s, the &font_cyan;Traveller&font_end;</string>
+    <string name="title_the_willy_fog_male">%1$s, the &font_cyan;Willy Fog&font_end;</string>
+    <string name="title_the_explorer_male">%1$s, the &font_cyan;Explorer&font_end;</string>
+    <string name="title_the_completionist_male">%1$s, the &font_cyan;Completionist&font_end;</string>
+    <string name="title_the_pet_collector_male">%1$s, the &font_pet;Pet Collector&font_end;</string>
+    <string name="title_the_pet_master_male">%1$s, the &font_pet;Pet Master&font_end;</string>
+    <string name="title_the_skilled_male">%1$s, the &font_cyan;Skilled&font_end;</string>
+    <string name="title_the_skill_master_male">%1$s, the &font_cyan;Skill Master&font_end;</string>
+    <string name="title_the_wizard_apprentice_male">%1$s, the &font_mana;Wizard Apprentice&font_end;</string>
+    <string name="title_the_wizard_master_male">%1$s, the &font_mana;Wizard Master&font_end;</string>
+    <string name="title_the_crafter_male">%1$s, the &font_cyan;Crafter&font_end;</string>
+    <string name="title_the_crafter_artist_male">%1$s, the &font_cyan;Craft Artist&font_end;</string>
+    <string name="title_the_crafter_master_male">%1$s, the &font_cyan;Craft Master&font_end;</string>
+    <string name="title_the_woodcutter_male">%1$s, the &font_wood;Woodcutter&font_end;</string>
+    <string name="title_the_lumberjack_male">%1$s, the &font_wood;Lumberjack&font_end;</string>
+    <string name="title_the_hauler_male">%1$s, the &font_stone;Hauler&font_end;</string>
+    <string name="title_the_miner_male">%1$s, the &font_stone;Miner&font_end;</string>
+    <string name="title_the_fisherman_male">%1$s, the &font_cyan;Fisherman&font_end;</string>
+    <string name="title_the_bughunter_male">%1$s, the &font_insect;Bug Hunter&font_end;</string>
+    <string name="title_the_entomologist_male">%1$s, the &font_insect;Entomologist&font_end;</string>
+    <string name="title_the_butcherer_male">%1$s, the &font_red;Butcherer&font_end;</string>
+    <string name="title_the_skinner_male">%1$s, the &font_skin;Skinner&font_end;</string>
+    <string name="title_the_furrier_male">%1$s, the &font_skin;Furrier&font_end;</string>
+    <string name="title_the_romantic_male">%1$s, the &font_pink;Romantic&font_end;</string>
+    <string name="title_the_merchant_male">%1$s, the &font_gold;Merchant&font_end;</string>
+    <string name="title_the_merchant_master_male">%1$s, the &font_gold;Merchant Master&font_end;</string>
+    <string name="title_the_bomberman_male">%1$s, the &font_bomb;Bomberman&font_end;</string>
+    <string name="title_the_mimic_male">%1$s, the &font_attack;Mimic&font_end;</string>
+    <string name="title_the_champion_male">%1$s, the &font_attack;Champion&font_end;</string>
+    <string name="title_the_encyclokiller_male">%1$s, the &font_attack;Encyclokiller&font_end;</string>
+    <string name="title_the_tyrant_male">%1$s, the &font_tyrant;Tyrant&font_end;</string>
+    <string name="title_the_devil_male">%1$s, the &font_red;Devil&font_end;</string>
+    <string name="title_the_corrupted_god_male">%1$s, the &font_corrupted_god;Corrupted God&font_end;</string>
+    <string name="title_the_obsessed_male">%1$s, the &font_wise;Obsessed&font_end;</string>
+    <string name="title_the_animal_lover_male">%1$s, the &font_animal;Animal Lover&font_end;</string>
+    <string name="title_the_purifier_male">%1$s, the &font_purifying;Purifier&font_end;</string>
+    <string name="title_the_ranger_male">%1$s, the &font_wood;Ranger&font_end;</string>
+    <string name="title_the_librarian_male">%1$s, the &font_wood;Librarian&font_end;</string>
+
+    <string name="title_the_strongest_female">%1$s, the &font_attack;Strongest&font_end;</string>
+    <string name="title_the_broke_female">%1$s, the &font_gold;Broke&font_end;</string>
+    <string name="title_the_wealthy_female">%1$s, the &font_gold;Wealthy&font_end;</string>
+    <string name="title_the_filthy_rich_female">%1$s, the &font_gold;Filthy Rich&font_end;</string>
+    <string name="title_the_killer_female">%1$s, the &font_attack;Killer&font_end;</string>
+    <string name="title_the_assassin_female">%1$s, the &font_attack;Assassin&font_end;</string>
+    <string name="title_the_terminator_female">%1$s, the &font_attack;Terminator&font_end;</string>
+    <string name="title_the_questor_female">%1$s, the &font_quest;Questor&font_end;</string>
+    <string name="title_the_hard_worker_female">%1$s, the &font_quest;Hard Worker&font_end;</string>
+    <string name="title_the_employee_female">%1$s, the &font_quest;Employee&font_end;</string>
+    <string name="title_the_traveller_female">%1$s, the &font_cyan;Traveller&font_end;</string>
+    <string name="title_the_willy_fog_female">%1$s, the &font_cyan;Willy Fog&font_end;</string>
+    <string name="title_the_explorer_female">%1$s, the &font_cyan;Explorer&font_end;</string>
+    <string name="title_the_completionist_female">%1$s, the &font_cyan;Completionist&font_end;</string>
+    <string name="title_the_pet_collector_female">%1$s, the &font_pet;Pet Collector&font_end;</string>
+    <string name="title_the_pet_master_female">%1$s, the &font_pet;Pet Master&font_end;</string>
+    <string name="title_the_skilled_female">%1$s, the &font_cyan;Skilled&font_end;</string>
+    <string name="title_the_skill_master_female">%1$s, the &font_cyan;Skill Master&font_end;</string>
+    <string name="title_the_wizard_apprentice_female">%1$s, the &font_mana;Wizard Apprentice&font_end;</string>
+    <string name="title_the_wizard_master_female">%1$s, the &font_mana;Wizard Master&font_end;</string>
+    <string name="title_the_crafter_female">%1$s, the &font_cyan;Crafter&font_end;</string>
+    <string name="title_the_crafter_artist_female">%1$s, the &font_cyan;Craft Artist&font_end;</string>
+    <string name="title_the_crafter_master_female">%1$s, the &font_cyan;Craft Master&font_end;</string>
+    <string name="title_the_woodcutter_female">%1$s, the &font_wood;Woodcutter&font_end;</string>
+    <string name="title_the_lumberjack_female">%1$s, the &font_wood;Lumberjack&font_end;</string>
+    <string name="title_the_hauler_female">%1$s, the &font_stone;Hauler&font_end;</string>
+    <string name="title_the_miner_female">%1$s, the &font_stone;Miner&font_end;</string>
+    <string name="title_the_fisherman_female">%1$s, the &font_cyan;Fisherman&font_end;</string>
+    <string name="title_the_bughunter_female">%1$s, the &font_insect;Bug Hunter&font_end;</string>
+    <string name="title_the_entomologist_female">%1$s, the &font_insect;Entomologist&font_end;</string>
+    <string name="title_the_butcherer_female">%1$s, the &font_red;Butcherer&font_end;</string>
+    <string name="title_the_skinner_female">%1$s, the &font_skin;Skinner&font_end;</string>
+    <string name="title_the_furrier_female">%1$s, the &font_skin;Furrier&font_end;</string>
+    <string name="title_the_romantic_female">%1$s, the &font_pink;Romantic&font_end;</string>
+    <string name="title_the_merchant_female">%1$s, the &font_gold;Merchant&font_end;</string>
+    <string name="title_the_merchant_master_female">%1$s, the &font_gold;Merchant Master&font_end;</string>
+    <string name="title_the_bomberman_female">%1$s, the &font_bomb;Bomberman&font_end;</string>
+    <string name="title_the_mimic_female">%1$s, the &font_attack;Mimic&font_end;</string>
+    <string name="title_the_champion_female">%1$s, the &font_attack;Champion&font_end;</string>
+    <string name="title_the_encyclokiller_female">%1$s, the &font_attack;Encyclokiller&font_end;</string>
+    <string name="title_the_tyrant_female">%1$s, the &font_tyrant;Tyrant&font_end;</string>
+    <string name="title_the_devil_female">%1$s, the &font_red;Devil&font_end;</string>
+    <string name="title_the_corrupted_god_female">%1$s, the &font_corrupted_god;Corrupted God&font_end;</string>
+    <string name="title_the_obsessed_female">%1$s, the &font_wise;Obsessed&font_end;</string>
+    <string name="title_the_animal_lover_female">%1$s, the &font_animal;Animal Lover&font_end;</string>
+    <string name="title_the_purifier_female">%1$s, the &font_purifying;Purifier&font_end;</string>
+    <string name="title_the_ranger_female">%1$s, the &font_wood;Ranger&font_end;</string>
+    <string name="title_the_librarian_female">%1$s, the &font_wood;Librarian&font_end;</string>
+
+    <string name="title_warrior_no_gender">%1$s, the &font_attack;Warrior&font_end;</string>
+    <string name="title_wizard_no_gender">%1$s, the &font_mana;Wizard&font_end;</string>
+    <string name="title_cleric_no_gender">%1$s, the &font_health;Cleric&font_end;</string>
+    <string name="title_worker_no_gender">%1$s, the &font_wood;Worker&font_end;</string>
+    <string name="title_alchemist_no_gender">%1$s, the &font_alchemist;Alchemist&font_end;</string>
+    <string name="title_blacksmith_no_gender">%1$s, the &font_iron;Blacksmith&font_end;</string>
+    <string name="title_noble_no_gender">%1$s, the &font_gold;Noble&font_end;</string>
+    <string name="title_the_strongest_no_gender">%1$s, the &font_attack;Strongest&font_end;</string>
+    <string name="title_the_broke_no_gender">%1$s, the &font_gold;Broke&font_end;</string>
+    <string name="title_the_wealthy_no_gender">%1$s, the &font_gold;Wealthy&font_end;</string>
+    <string name="title_the_filthy_rich_no_gender">%1$s, the &font_gold;Filthy Rich&font_end;</string>
+    <string name="title_the_killer_no_gender">%1$s, the &font_attack;Killer&font_end;</string>
+    <string name="title_the_assassin_no_gender">%1$s, the &font_attack;Assassin&font_end;</string>
+    <string name="title_the_terminator_no_gender">%1$s, the &font_attack;Terminator&font_end;</string>
+    <string name="title_the_questor_no_gender">%1$s, the &font_quest;Questor&font_end;</string>
+    <string name="title_the_hard_worker_no_gender">%1$s, the &font_quest;Hard Worker&font_end;</string>
+    <string name="title_the_employee_no_gender">%1$s, the &font_quest;Employee&font_end;</string>
+    <string name="title_the_traveller_no_gender">%1$s, the &font_cyan;Traveller&font_end;</string>
+    <string name="title_the_willy_fog_no_gender">%1$s, the &font_cyan;Willy Fog&font_end;</string>
+    <string name="title_the_explorer_no_gender">%1$s, the &font_cyan;Explorer&font_end;</string>
+    <string name="title_the_completionist_no_gender">%1$s, the &font_cyan;Completionist&font_end;</string>
+    <string name="title_the_pet_collector_no_gender">%1$s, the &font_pet;Pet Collector&font_end;</string>
+    <string name="title_the_pet_master_no_gender">%1$s, the &font_pet;Pet Master&font_end;</string>
+    <string name="title_the_skilled_no_gender">%1$s, the &font_cyan;Skilled&font_end;</string>
+    <string name="title_the_skill_master_no_gender">%1$s, the &font_cyan;Skill Master&font_end;</string>
+    <string name="title_the_wizard_apprentice_no_gender">%1$s, the &font_mana;Wizard Apprentice&font_end;</string>
+    <string name="title_the_wizard_master_no_gender">%1$s, the &font_mana;Wizard Master&font_end;</string>
+    <string name="title_the_crafter_no_gender">%1$s, the &font_cyan;Crafter&font_end;</string>
+    <string name="title_the_crafter_artist_no_gender">%1$s, the &font_cyan;Craft Artist&font_end;</string>
+    <string name="title_the_crafter_master_no_gender">%1$s, the &font_cyan;Craft Master&font_end;</string>
+    <string name="title_the_woodcutter_no_gender">%1$s, the &font_wood;Woodcutter&font_end;</string>
+    <string name="title_the_lumberjack_no_gender">%1$s, the &font_wood;Lumberjack&font_end;</string>
+    <string name="title_the_hauler_no_gender">%1$s, the &font_stone;Hauler&font_end;</string>
+    <string name="title_the_miner_no_gender">%1$s, the &font_stone;Miner&font_end;</string>
+    <string name="title_the_fisherman_no_gender">%1$s, the &font_cyan;Fisherman&font_end;</string>
+    <string name="title_the_bughunter_no_gender">%1$s, the &font_insect;Bug Hunter&font_end;</string>
+    <string name="title_the_entomologist_no_gender">%1$s, the &font_insect;Entomologist&font_end;</string>
+    <string name="title_the_butcherer_no_gender">%1$s, the &font_red;Butcherer&font_end;</string>
+    <string name="title_the_skinner_no_gender">%1$s, the &font_skin;Skinner&font_end;</string>
+    <string name="title_the_furrier_no_gender">%1$s, the &font_skin;Furrier&font_end;</string>
+    <string name="title_the_romantic_no_gender">%1$s, the &font_pink;Romantic&font_end;</string>
+    <string name="title_the_merchant_no_gender">%1$s, the &font_gold;Merchant&font_end;</string>
+    <string name="title_the_merchant_master_no_gender">%1$s, the &font_gold;Merchant Master&font_end;</string>
+    <string name="title_the_bomberman_no_gender">%1$s, the &font_bomb;Bomberman&font_end;</string>
+    <string name="title_the_mimic_no_gender">%1$s, the &font_attack;Mimic&font_end;</string>
+    <string name="title_the_champion_no_gender">%1$s, the &font_attack;Champion&font_end;</string>
+    <string name="title_the_encyclokiller_no_gender">%1$s, the &font_attack;Encyclokiller&font_end;</string>
+    <string name="title_the_tyrant_no_gender">%1$s, the &font_tyrant;Tyrant&font_end;</string>
+    <string name="title_the_devil_no_gender">%1$s, the &font_red;Devil&font_end;</string>
+    <string name="title_the_corrupted_god_no_gender">%1$s, the &font_corrupted_god;Corrupted God&font_end;</string>
+    <string name="title_the_obsessed_no_gender">%1$s, the &font_wise;Obsessed&font_end;</string>
+    <string name="title_the_animal_lover_no_gender">%1$s, the &font_animal;Animal Lover&font_end;</string>
+    <string name="title_the_purifier_no_gender">%1$s, the &font_purifying;Purifier&font_end;</string>
+    <string name="title_the_ranger_no_gender">%1$s, the &font_wood;Ranger&font_end;</string>
+    <string name="title_the_librarian_no_gender">%1$s, the &font_wood;Librarian&font_end;</string>
+
+    <string name="skill_crafter">&font_cyan;Crafter&font_end;</string>
+    <string name="skill_crafter_description">Allows to &font_cyan;Craft&font_end; with both the items in the &font_wood;Inventory &font_end;and the ones in the &font_wood;Stash&font_end;</string>
+    <string name="bug_was_a">The &font_insect;Bug &font_end;was a &font_insect;%1$s&font_end;!</string>
+
+    <string name="button_sort_by_quantity">Sort (Quantity)</string>
+
+    <string name="no_gender">None</string>
+
+    <string name="shop_magic">&font_mana;Magic &font_end;&font_gold;Shop&font_end;</string>
+
+    <string name="quest_rescue_someone_following_you_grouped">&font_quest;%1$d &font_end;people are here, following you…</string>
+
+    <string name="feed_no_food">You don\'t have food…</string>
+
+    <string name="achievement_name_animal_lover">Animal Whisperer</string>
+
+    <string name="food_fish_stick">&font_cyan;Fish &font_end;&font_wood;Stick&font_end;</string>
+
+    <string name="new_game_whats_your_race">… and what is your race?</string>
+
+    <string name="race_human">&font_cyan;Human&font_end;</string>
+    <string name="race_dwarf">&font_red;Dwarf&font_end;</string>
+    <string name="race_halfling">&font_speed;Halfling&font_end;</string>
+    <string name="race_gnome">&font_green;Gnome&font_end;</string>
+    <string name="race_elf">&font_gold;Elf&font_end;</string>
+    <string name="race_drow">&font_black_low;Drow&font_end;</string>
+    <string name="race_undead">&font_mushroom;Undead&font_end;</string>
+    <string name="race_orc">&font_dark_green;Orc&font_end;</string>
+    <string name="race_lizard">&font_yellow;Lizard&font_end;</string>
+    <string name="race_unknown">&font_white;Unknown&font_end;</string>
+
+    <string name="race_human_desc">They are the most adaptable and flexible of the common races. Their alignment resides in the fine line between good and evil. They are balanced in fighting and magic and have an innate knowledge of crafting, and are natural explorers.</string>
+    <string name="race_dwarf_desc">They used to live under the mountains just caring about their mines and beers, but due to the recent spreading of evil in the world, many have started to explore the world to live their own legends like their ancestors did in the past. They are one of the strongest races, having great mining skills, and they are the only ones capable of crafting Beer.</string>
+    <string name="race_halfling_desc">Even though they have appeared on books and stories, almost no one has seen one in their life, as Halflings are peaceful people who live in their own hidden villages, cooking, eating, reading about stories from the first era, and living all kinds of fantasy in their minds. Since evil has started spreading around the world, some of the most brave Halfling have started their own adventures like the ones they read on their books.</string>
+    <string name="race_gnome_desc">They take delight in life, enjoying every moment of invention, exploration and investigation. They used to be focused just on their inventions, and exploration, but recently many brave Gnomes have been seen adventuring around the world.</string>
+    <string name="race_elf_desc">Elves are magical people of otherworldly grace, living in the world but not entirely part of it. Selfish and egocentric, they are worried about their future due to the increased presence of evil, so they have started to become more present in the world in search for their salvation.</string>
+    <string name="race_drow_desc">Generally known as the evil version of the regular elves. They are extremely intelligent, charismatic and dexterous, but share surface elves\' comparative frailty and slight frames. They are characterized by white or silver hair and obsidian black skin.</string>
+    <string name="race_undead_desc">Once living humans brought to life in a horrifying state of undeath through the practice of necromantic magic. They have great strength and intelligence but lack of speed. Their hunger increases faster than the other races, but they can eat corpses to restore Mana, Hunger, and Health.</string>
+    <string name="race_orc_desc">Bestial and savage, orcs band together as trıbes, living on hunting and raiding. As lovers of war, they have found a great enemy in the evil that has recently spread around the world. They have started to relate to other races with whom they had only spoken in the language of weapons and magic not so long ago.</string>
+    <string name="race_lizard_desc">They are semi-aquatic reptilian humanoids. Their skin was covered in scales and varied in color from dark green through to shades of brown and gray. The most brave of them have been travelling around the world, finding other places to expand their lifes and be able to help in the destruction of evil.</string>
+    <string name="race_unknown_desc">A strange being who no one has ever seen before. Balanced, smart, and able to adapt to any situation, their purpose in life is a mystery.</string>
+    <string name="race_attributes">Attributes</string>
+    <string name="race_traits">Traits</string>
+
+    <string name="race_attributes_with_numbers">Attack: &font_attack;%1$s &font_end;Defe.: &font_defense;%2$s&font_end;&br;Intel.: &font_mana;%3$s &font_end;Speed: &font_speed;%4$s&font_end;</string>
+
+    <string name="status_attack_new">Attack:&font_attack;\t%1$d &font_end;&br;(Base (%2$d%%): &font_attack;%3$d&font_end;, Eq (%4$d%%): &font_attack;%5$d&font_end;, +Temp: &font_attack;%6$d&font_end;)</string>
+    <string name="status_defense_new">Defense:&font_defense;\t%1$d &font_end;&br;(Base (%2$d%%): &font_defense;%3$d&font_end;, Eq (%4$d%%): &font_defense;%5$d&font_end;, +Temp: &font_defense;%6$d&font_end;)</string>
+    <string name="status_speed_new">Speed:\t&font_speed;%1$d &font_end;&br;(Base (%2$d%%): &font_speed;%3$d&font_end;, Eq (%4$d%%): &font_speed;%5$d&font_end;, +Temp: &font_speed;%6$d&font_end;)</string>
+    <string name="status_intelligence_new">Intelligence:\t&font_mana;%1$d &font_end;&br;(Base (%2$d%%): &font_mana;%3$d&font_end;, Eq (%4$d%%): &font_mana;%5$d&font_end;, +Temp: &font_mana;%6$d&font_end;)</string>
+
+    <string name="skill_natural_explorer">&font_cyan;Natural Explorer&font_end;</string>
+    <string name="skill_natural_explorer_description">Can see the surrounding tiles when moving around, making it easier to explore.</string>
+
+    <string name="human_traits">&font_cyan;* &font_end;Start knowing some basic crafting recipes.&br;&br;&font_cyan;* &font_end;Start with some &font_food;food&font_end;.&br;&br;&font_cyan;Natural Explorer&font_end;: Can see the surrounding tiles when moving around, making it easier to explore.</string>
+    <string name="dwarf_traits">&font_cyan;* &font_end;Starts with a &font_silver;Pickaxe&font_end;.&br;&br;&font_cyan;Blacksmith&font_end;: Increases the chances of crafting better weapons, shields and armors. (Level &font_cyan;%1$d&font_end;).&br;&br;&font_gold;Beer &font_end;&font_cyan;Crafter&font_end;: Can craft &font_gold;Beer &font_end;and &font_epic;Epic&font_end; &font_gold;Beer &font_end;(and start with the necessary materials to craft a &font_gold;Beer&font_end;).</string>
+    <string name="halfling_traits">&font_food;Foodie&font_end;: Increased max. hunger, allowing to resist longer without eating.&br;&br;&font_food;Gourmet&font_end;: Increases the hunger restored when eating.&br;&br;&font_cyan;Discrete&font_end;: Reduces the probability of being attacked by a &font_red;Monster &font_end;by &font_cyan;33&font_end;%.</string>
+    <string name="gnome_traits">&font_wood;Gnomic Space&font_end;: Increases the inventory size by &font_cyan;10&font_end;.&br;&br;&font_bomb;Bomber&font_end;: Starts with some &font_gunpowder;Gunpowder&font_end;, various &font_bomb;Bombs &font_end;and knowing how to craft them.&br;&br;&font_cyan;Perceptive&font_end;: Detects when there\'s something hidden, so you can &font_cyan;Search &font_end;to find it.</string>
+    <string name="elf_traits">&font_cyan;* &font_end;Starts with &font_cyan;5 &font_end;x &font_plant;Plant &font_end;and &font_cyan;5 &font_end;x &font_mushroom;Mushroom&font_end;.&br;&br;&font_mana;Mana Flow&font_end;: Regenerates &font_cyan;1% &font_end;&font_mana;mana &font_end;every turn if &font_health;health &font_end;is over &font_cyan;50%&font_end;.&br;&br;&font_mana;Elven Magic&font_end;: Have extra &font_mana;mana &font_end;(&font_cyan;+25&font_end;).</string>
+    <string name="drow_traits">&font_portal;Teleport&font_end;: Can &font_portal;teleport &font_end;to a random location in the island.&br;&br;&font_mana;Mana Flow&font_end;: Regenerates &font_cyan;1% &font_end;&font_mana;mana &font_end;every turn if &font_health;health &font_end;is over &font_cyan;50%&font_end;.&br;&br;&font_mana;Elven Magic&font_end;: Have extra &font_mana;mana &font_end;(&font_cyan;+25&font_end;).</string>
+    <string name="undead_traits">&font_green;Weather Immunity&font_end;: Immune to &font_red;Hot &font_end;or &font_tundra;Cold &font_end;damage.&br;&br;&font_health;Unbreakable&font_end;: If a &font_red;Monster&font_end;\'s attack would kill you, you resist it and survive with &font_health;1 &font_end;health point.&br;&br;&font_hunger;Undead Hunger&font_end;: &font_hunger;Hunger &font_end;increases faster, but can eat from corpses to restore &font_hunger;Hunger&font_end;, &font_health;Health &font_end;and &font_mana;Mana&font_end;.</string>
+    <string name="orc_traits">&font_dark_green;Tough Skin&font_end;: &font_cyan;5%% &font_end;damage reduction in combat.&br;&br;&font_attack;Berserk&font_end;: In combat, using the "Attack" command increases a &font_cyan;10%% &font_end;the damage each turn. When using a different action in combat, the &font_attack;Berserk &font_end;bonus is lost.&br;&br;&font_dark_green;First Strike&font_end;: When attacking a monster, performs an initial hit.&br;&br;</string>
+    <string name="lizard_traits">&font_health;Regeneration&font_end;: Regenerates &font_cyan;2% &font_end;of &font_health;health &font_end;every turn when the weather is &font_yellow;Sunny&font_end;.&br;&br;&font_cyan;Slippery&font_end;: Always succeeds fleeing (if fleeing is allowed).&br;&br;&font_insect;Insect Eater&font_end;: Can &font_hunger;eat &font_end;&font_insect;insects &font_end;without having to capture them.</string>
+    <string name="unknown_traits">&font_cyan;* &font_end;Start with &font_cyan;15 &font_end;Skill Points.&br;&br;&font_cyan;* &font_end;Start with a random &font_cyan;Nautical Chart&font_end;&br;&br;&font_cyan;* &font_end;Start with a random &font_mana;Spell &font_end;Book.</string>
+
+    <string name="item_beer">&font_gold;Beer&font_end;</string>
+    <string name="item_epic_beer">&font_epic;Epic&font_end; &font_gold;Beer&font_end;</string>
+    <string name="item_info_beer">Drink this to restore &font_cyan;%1$d%% &font_end;of your &font_health;health&font_end;, &font_mana;mana &font_end;and &font_hunger;hunger&font_end;!</string>
+
+    <string name="drink_beer_restored">Drank &font_gold;Beer &font_end;and restored &font_health;%1$d &font_end;health, &font_mana;%2$d &font_end;mana and &font_hunger;%3$d &font_end;hunger!</string>
+
+    <string name="skill_foodie">&font_food;Foodie&font_end;</string>
+    <string name="skill_gourmet">&font_food;Gourmet&font_end;</string>
+
+    <string name="skill_foodie_description">Increased max. hunger, allowing to resist longer without eating.</string>
+    <string name="skill_gourmet_description">Increases the hunger restored when eating.</string>
+
+    <string name="skill_gnomic_space">&font_wood;Gnomic Space&font_end;</string>
+    <string name="skill_gnomic_space_description">Increases the inventory size by &font_cyan;10&font_end;.</string>
+
+    <string name="skill_mana_flow">&font_mana;Mana Flow&font_end;</string>
+    <string name="skill_mana_flow_description">Regenerates &font_cyan;1%&font_end; &font_mana;mana &font_end;every turn if &font_mana;health &font_end;is over &font_cyan;50%&font_end;.</string>
+
+    <string name="skill_reckoner">&font_cyan;Reckoner&font_end;</string>
+    <string name="skill_reckoner_description">Can always see the difficulty of killing a &font_red;Monster&font_end;.</string>
+
+    <string name="reckon_easy">[&font_green;Easy&font_end;]</string>
+    <string name="reckon_fair">[&font_yellow;Fair&font_end;]</string>
+    <string name="reckon_hard">[&font_red;Hard&font_end;]</string>
+
+    <string name="skill_weather_immunity">&font_green;Weather Immunity&font_end;</string>
+    <string name="skill_weather_immunity_description">Immune to &font_red;Hot &font_end;or &font_tundra;Cold &font_end;damage.</string>
+
+    <string name="skill_undead_hunger">&font_hunger;Undead Hunger&font_end;</string>
+    <string name="skill_undead_hunger_description">&font_hunger;Hunger &font_end;increases faster, but can eat from corpses to restore &font_hunger;Hunger&font_end;, &font_health;Health &font_end;and &font_mana;Mana&font_end;.</string>
+
+    <string name="skill_undead_hunger_ate_corpse">Ate %1$s and restored &font_health;%2$d &font_end;health, &font_mana;%3$d &font_end;mana and &font_hunger;%4$d &font_end;hunger!</string>
+
+    <string name="skill_tough_skin">&font_dark_green;Tough Skin&font_end;</string>
+    <string name="skill_tough_skin_description">&font_cyan;5% &font_end;damage reduction in combat.</string>
+
+    <string name="skill_first_strike">&font_dark_green;First Strike&font_end;</string>
+    <string name="skill_first_strike_description">When attacking a monster, performs an initial hit.</string>
+
+    <string name="skill_regeneration">&font_health;Regeneration&font_end;</string>
+    <string name="skill_regeneration_description">Regenerates &font_cyan;2% &font_end;of &font_health;health &font_end;every turn when the weather is &font_yellow;Sunny&font_end;</string>
+
+    <string name="skill_slippery">&font_cyan;Slippery&font_end;</string>
+    <string name="skill_slippery_description">Always succeeds fleeing (if fleeing is allowed).</string>
+
+    <string name="skill_insect_eater">&font_insect;Insect Eater&font_end;</string>
+    <string name="skill_insect_eater_description">Can &font_hunger;eat &font_end;&font_insect;insects &font_end;without having to capture them.</string>
+
+    <string name="skill_insect_eater_ate_insect">Ate &font_insect;%1$s &font_end;and restored &font_cyan;%2$d &font_end;&font_hunger;hunger&font_end;.</string>
+
+    <string name="easter_egg_dwarf_mine">I am a Dwarf and I\'m digging a hole…</string>
+
+    <string name="skill_weapon_learner">&font_iron;Weapon Learner&font_end;</string>
+    <string name="skill_weapon_learner_description">Learn the Weapon Mastery skills faster.</string>
+    <string name="settings_craft_toast_enabled">Enable Crafting Toast</string>
+    <string name="button_all">All</string>
+    <string name="cemetery_clear_message">Do you want to delete all the dead heroes data?</string>
+
+    <string name="menu_cemetery_all">Cemetery (&font_cyan;All&font_end;)</string>
+    <string name="menu_cemetery_permadeath">Cemetery (&font_red;Permadeath&font_end;)</string>
+    <string name="menu_cemetery_no_permadeath">Cemetery (&font_green;No Permadeath&font_end;)</string>
+
+    <string name="game_over_rank_permadeath">You ranked &font_cyan;#%d &font_end;on &font_red;Permadeath &font_end;in the Cemetery.</string>
+    <string name="game_over_rank_no_permadeath">You ranked &font_cyan;#%d &font_end;on &font_green;No Permadeath &font_end;in the Cemetery.</string>
+
+    <string name="blacksmith_level_up_button">Level Up &font_iron;Blacksmith&font_end;: &font_gold;%1$d&font_end;</string>
+    <string name="blacksmith_level">&font_iron;Blacksmith &font_end;Level: &font_cyan;%1$d&font_end;</string>
+    <string name="blacksmith_levelup_dialog_text">Level up Blacksmith per &font_gold;%1$d &font_end;gold?&br;&br;(Slightly improves the levelled up equipment, increases the success rate of &font_copper;scrapping &font_end;, and reduces the cost of crafting bars)</string>
+    <string name="blacksmith_scrap_probability">Success rate: %1$s%%</string>
+    <string name="success_lower_than_100">&font_cyan;%1$d&font_end;</string>
+    <string name="success_100">&font_green;%1$d&font_end;</string>
+
+    <string name="bar_inn_text_extra_cost_undead">"We don\'t like having people like you around…"&br;&br;</string>
+    <string name="bar_inn_text_normal_cost">"Hello, how are you?"&br;&br;</string>
+    <string name="bar_inn_text_lower_cost">"Welcome! I hope you have a great day!"&br;&br;</string>
+
+    <string name="shop_bad_text">"Come on, I don\'t have all day for this…"</string>
+    <string name="shop_normal_text">"Hello, what can I help you with?"</string>
+    <string name="shop_nice_text">"Welcome! It\'s nice to do business with you!"</string>
+    <string name="button_share">Share</string>
+    <string name="achievement_desc_purifier">Purify an island for the first time</string>
+    <string name="achievement_name_purifier">Purifier</string>
+
+    <string name="island_type_treasure">Treasure</string>
+    <string name="material_old_paper_piece">Old Paper Piece</string>
+    <string name="item_info_old_paper_piece">It has some strange drawings on it…</string>
+    <string name="tile_content_type_nautical_chart_treasure_island">Nautical Chart (&font_gold;Treasure &font_end;&font_cyan;Island&font_end;)</string>
+    <string name="craft_various_title">Craft Various</string>
+    <string name="craft_various_message">What amount do you want to craft?&br;&br;(You have enough materials to craft &font_cyan;%1$d&font_end;. The maximum amount allowed to craft is &font_cyan;%2$d&font_end;)</string>
+    <string name="crafted_amount">Crafted &font_cyan;%1$d&font_end;!</string>
+
+    <string name="settings_navigation_buttons_position">Navigation Buttons Position</string>
+
+    <string name="skill_unarmed_mastery">&font_skill_attack;Unarmed &font_end;Mastery</string>
+    <string name="skill_unarmed_mastery_description">Attacking with no &font_skill_attack;weapon &font_end;in combat unlocks &font_skill_attack;Unarmed &font_end;Combat Skills.</string>
+
+    <string name="weapon_skill_unarmed_punch">Punch</string>
+    <string name="weapon_skill_unarmed_punch_desc">Punches the enemy.</string>
+    <string name="weapon_skill_unarmed_punch_attack">You punch the enemy!</string>
+
+    <string name="weapon_skill_unarmed_hammerfist">Hammer Fist</string>
+    <string name="weapon_skill_unarmed_hammerfist_desc">Punches the enemy from above.</string>
+    <string name="weapon_skill_unarmed_hammerfist_attack">You punch the enemy from above!</string>
+
+    <string name="weapon_skill_unarmed_magicfist">Magic Fist</string>
+    <string name="weapon_skill_unarmed_magicfist_desc">Hits and absorbs mana from the enemy.</string>
+    <string name="weapon_skill_unarmed_magicfist_attack">¡You hit and absorb mana from the enemy!</string>
+
+    <string name="weapon_skill_unarmed_double_punch">Double Punch</string>
+    <string name="weapon_skill_unarmed_double_punch_desc">Punches the enemy two times.</string>
+    <string name="weapon_skill_unarmed_double_punch_attack">You punch two times the enemy!</string>
+
+    <string name="weapon_skill_unarmed_fastfist">Fast Fist</string>
+    <string name="weapon_skill_unarmed_fastfist_desc">Punches the enemy strongly. Always attacks first.</string>
+    <string name="weapon_skill_unarmed_fastfist_attack">You push the enemy strongly!</string>
+
+    <string name="material_type_cartographer_stone">&font_cyan;Cartographer &font_end;&font_stone;Stone&font_end;</string>
+    <string name="world_info_empty">(No info added, use a &font_cyan;Cartographer &font_end;&font_stone;Stone &font_end;to add a text to an island)</string>
+    <string name="button_plus">+</string>
+    <string name="button_mark">Mark</string>
+    <string name="button_add_info">Add Info</string>
+    <string name="world_mark_island_message">To help you in your adventures, you can &font_cyan;mark &font_end;an island with a single character to be shown in the island list, and/or write some &font_cyan;info &font_end;about an it. You\'ll need a &font_cyan;Cartographer &font_end;&font_stone;Stone &font_end;for each of these actions.&br;&br;You currently have &font_cyan;%1$d &font_end;&font_cyan;Cartographer &font_end;&font_stone;Stones&font_end;</string>
+
+    <string name="world_add_info_message">Add info for the island (You can add line breaks by writing \'br\' between &lt; and &gt;. Max. characters allowed: &font_cyan;%1$d&font_end;):</string>
+    <string name="world_add_info_message_replacing">There\'s already info added to this island, adding info will replace the current info!&br;&br;Add info for the island (You can add line breaks by writing \'br\' between &lt; and &gt;. Max. characters allowed: &font_cyan;%1$d&font_end;):</string>
+    <string name="world_add_info_length_error" tools:ignore="PluralsCandidate">Write between 1 and %d characters…</string>
+    <string name="world_add_mark_length_error">Write 1 character…</string>
+    <string name="world_mark_island_no_cartographer_stone">You need a &font_cyan;Cartographer &font_end;&font_stone;Stone &font_end;to be able to do this…</string>
+    <string name="button_add_mark">Add Mark</string>
+    <string name="world_add_mark_message">Add a mark to be displayed in the island list (write only &font_cyan;1 &font_end;character.):</string>
+    <string name="world_add_mark_message_replacing">There\'s already one mark added to this island, adding a new one will replace the previous mark.&br;&br;Add a mark to be displayed in the island list (write only &font_cyan;1 &font_end;character):</string>
+    <string name="mark_color_title">Choose color for the mark:</string>
+
+    <string name="craft_would_die_crafting">You\'re dying of &font_hunger;hunger&font_end;!</string>
+
+    <string name="skill_teleport">&font_portal;Teleport&font_end;</string>
+    <string name="skill_teleport_desc">&font_portal;Teleports &font_end;to a random location in the island. Costs &font_mana;10 mana &font_end;points.</string>
+
+    <string name="yang_amulet">&font_white;Yang &font_end;Amulet</string>
+
+    <string name="settings_show_main_stats">Show Main Stats</string>
+
+    <string name="ranged_weapon_type_bow">&font_speed;Bow&font_end;</string>
+    <string name="ranged_weapon_type_crossbow">&font_speed;Crossbow&font_end;</string>
+    <string name="ranged_weapon_type_slingshot">&font_speed;Slingshot&font_end;</string>
+
+    <string name="tile_content_type_ranged_weapon">Ranged Weapon</string>
+
+    <string name="item_info_ranged_weapon">Wield this to be able to shoot monsters before engaging into combat.&br;%1$s&br;%2$s</string>
+
+    <string name="item_wood_bow">&font_wood;Wood&font_end; Bow</string>
+    <string name="item_bone_bow">&font_bone;Bone&font_end; Bow</string>
+    <string name="item_copper_bow">&font_copper;Copper&font_end; Bow</string>
+    <string name="item_tin_bow">&font_tin;Tin&font_end; Bow</string>
+    <string name="item_iron_bow">&font_iron;Iron&font_end; Bow</string>
+    <string name="item_bronze_bow">&font_bronze;Bronze&font_end; Bow</string>
+    <string name="item_silver_bow">&font_silver;Silver&font_end; Bow</string>
+    <string name="item_gold_bow">&font_gold;Gold&font_end; Bow</string>
+    <string name="item_diamond_bow">&font_diamond;Diamond&font_end; Bow</string>
+    <string name="item_obsidian_bow">&font_obsidian;Obsidian&font_end; Bow</string>
+
+    <string name="item_wood_crossbow">&font_wood;Wood&font_end; Crossbow</string>
+    <string name="item_bone_crossbow">&font_bone;Bone&font_end; Crossbow</string>
+    <string name="item_copper_crossbow">&font_copper;Copper&font_end; Crossbow</string>
+    <string name="item_tin_crossbow">&font_tin;Tin&font_end; Crossbow</string>
+    <string name="item_iron_crossbow">&font_iron;Iron&font_end; Crossbow</string>
+    <string name="item_bronze_crossbow">&font_bronze;Bronze&font_end; Crossbow</string>
+    <string name="item_silver_crossbow">&font_silver;Silver&font_end; Crossbow</string>
+    <string name="item_gold_crossbow">&font_gold;Gold&font_end; Crossbow</string>
+    <string name="item_diamond_crossbow">&font_diamond;Diamond&font_end; Crossbow</string>
+    <string name="item_obsidian_crossbow">&font_obsidian;Obsidian&font_end; Crossbow</string>
+
+    <string name="item_wood_slingshot">&font_wood;Wood&font_end; Slingshot</string>
+    <string name="item_bone_slingshot">&font_bone;Bone&font_end; Slingshot</string>
+    <string name="item_copper_slingshot">&font_copper;Copper&font_end; Slingshot</string>
+    <string name="item_tin_slingshot">&font_tin;Tin&font_end; Slingshot</string>
+    <string name="item_iron_slingshot">&font_iron;Iron&font_end; Slingshot</string>
+    <string name="item_bronze_slingshot">&font_bronze;Bronze&font_end; Slingshot</string>
+    <string name="item_silver_slingshot">&font_silver;Silver&font_end; Slingshot</string>
+    <string name="item_gold_slingshot">&font_gold;Gold&font_end; Slingshot</string>
+    <string name="item_diamond_slingshot">&font_diamond;Diamond&font_end; Slingshot</string>
+    <string name="item_obsidian_slingshot">&font_obsidian;Obsidian&font_end; Slingshot</string>
+
+    <string name="button_shoot">Shoot</string>
+    <string name="ranged_weapon_shoot_monster">You shot %1$s with your %2$s and dealt &font_speed;%3$d &font_end;damage!</string>
+    <string name="material_type_arrow">&font_wood;Arrow&font_end;</string>
+    <string name="ranged_weapon_need_ammunition">You need %1$s to do that!</string>
+
+    <string name="skill_bow_mastery">&font_speed;Bow &font_end;Mastery</string>
+    <string name="skill_crossbow_mastery">&font_speed;Crossbow &font_end;Mastery</string>
+    <string name="skill_slingshot_mastery">&font_speed;Slingshot &font_end;Mastery</string>
+
+    <string name="skill_bow_mastery_desc">As it levels up, slightly increases the damage of shooting with a &font_speed;Bow&font_end;.</string>
+    <string name="skill_crossbow_mastery_desc">As it levels up, slightly increases the damage of shooting with a &font_speed;Crossbow&font_end;.</string>
+    <string name="skill_slingshot_mastery_desc">As it levels up, slightly increases the damage of shooting with a &font_speed;Slingshot&font_end;.</string>
+
+    <string name="combat_shortcut_empty">(empty)</string>
+    <string name="combat_shortcut_skill">Skill</string>
+    <string name="combat_shortcut_spell">Spell</string>
+
+    <string name="button_shortcut">*</string>
+
+
+    <string name="shortcut_title">Shortcut</string>
+    <string name="shortcut_message">Select combat shortcut to set.</string>
+    <string name="shortcut_1">Shortcut 1</string>
+    <string name="shortcut_2">Shortcut 2</string>
+    <string name="shortcut_toast">Added %1$s to combat shortcut %2$d!</string>
+    <string name="combat_shortcut_pet_attack">Pet Attack</string>
+    <string name="shortcut_pet_attack">Pet Attack</string>
+
+    <string name="food_trail_mix">&font_nut;Trail Mix&font_end;</string>
+
+    <string name="island_discovered">Island Discovered</string>
+
+    <string name="island_arrival_speaking_natives">Speaking with the natives, you learn this %1$s island is called &font_cyan;%2$s&font_end;.</string>
+    <string name="island_arrival_sense_island">You sense this %1$s island is called &font_cyan;%2$s&font_end;.</string>
+
+    <string name="island_arrival_type_valley">You discover an island. It seems to be covered with grass, plenty of plants and small mountains.</string>
+    <string name="island_arrival_type_forest">You discover an island seemingly covered with trees and exotic monsters.</string>
+    <string name="island_arrival_type_mountain">You discover a mountainous island. There are lots of rocks, and you feel you\'ll need to climb a lot.</string>
+    <string name="island_arrival_type_swamp">You discover an island. The smell and the flies in the air are a sign of danger.</string>
+    <string name="island_arrival_type_savanna">You discover an island. There are scattered shrubs and isolated trees and the temperature is quite comfortable.</string>
+    <string name="island_arrival_type_jungle">You discover an island with thick trees, plants and lots of vegetation. Who knows what dangers lie ahead…</string>
+    <string name="island_arrival_type_desert">You discover an island. The sand and the sun are the main things you see around.</string>
+    <string name="island_arrival_type_tundra">You discover an island. The ice and the cold temperature makes you wonder if it is a good idea to explore this place.</string>
+    <string name="island_arrival_type_taiga">You discover an island. The cold temperature and the ice makes you wonder if it is a good idea to explore this place.</string>
+    <string name="island_arrival_type_mesa">You discover an island which seems to be a flat-topped hill bounded from all sides by steep escarpments.</string>
+    <string name="island_arrival_type_beach">You arrive at what seems to be an archipelago. You\'ll have to swim a lot if you want to explore all the secrets of this place.</string>
+    <string name="island_arrival_type_lake">You discover an island containing some sort of lake and abundant vegetation.</string>
+    <string name="island_arrival_type_barrens">You discover an island with a variety of biomes.</string>
+    <string name="island_arrival_type_volcano">You discover an island. The hot temperature and the vision of smoke are a sign of danger.</string>
+    <string name="island_arrival_type_high_mountains">You discover a mountainous island. There seem to be the highest mountains you\'ve ever seen.</string>
+
+    <string name="island_arrival_type_giants">You discover an island where everything seems to be bigger than the regular islands you\'ve been before.</string>
+    <string name="island_arrival_type_dragons">You discover an island where you smell sulfur and feel the presence of dangerous creatures.</string>
+    <string name="island_arrival_type_undead">You discover an island where there seems to be almost no life left.</string>
+    <string name="island_arrival_type_plant">You discover an island where everything is mainly green. It seems to be full of dangerous plants.</string>
+    <string name="island_arrival_type_fey">You discover a mysterious island. The trees and dense vegetation are hiding exotic and dangerous creatures.</string>
+    <string name="island_arrival_type_beast">You discover an island. The screams of the beasts living here make you stand still for a moment. What kind of place is this?</string>
+    <string name="island_arrival_type_humanoid">You discover an island. You notice nothing special about this place, but you think it\'ll be hard to tell friend from foe.</string>
+    <string name="island_arrival_type_construct">You discover an island. Every monster you sense around seem to be somehow artificial or not organic.</string>
+    <string name="island_arrival_type_elemental">You discover an island. You sense a lot of energy in this island, it seems a dangerous place to explore.</string>
+    <string name="island_arrival_type_swarm">You discover an island. It seems to be some sort of swamp, and you can\'t stop hearing a constant buzz all the time.</string>
+    <string name="island_arrival_type_ooze">You discover an island. It seems there\'s nothing around you but something tells you there\'s something else here.</string>
+    <string name="island_arrival_type_aberration">You discover an island. This is not a normal island. You can feel huge and ugly monsters live here.</string>
+
+    <string name="island_arrival_type_tyrant">As soon as you step in this island, you feel the chills and realise this island is going to be tough.</string>
+    <string name="island_arrival_type_hell">Lava and fire. This is Hell. You smell the sulfur and see the place is full of demons and evil beings.</string>
+    <string name="island_arrival_type_heaven">The clouds, the cold air and the beings in this place… You have the feeling this is the most dangerous place you\'ve ever been.</string>
+
+    <string name="island_arrival_type_black_island">As soon as you arrive to this island, the emptiness and the strange beings inhabiting this place make you feel uncomfortable.</string>
+    <string name="island_arrival_type_white_island">As soon as you arrive to this island, the emptiness and the strange beings inhabiting this place make you feel uncomfortable.</string>
+
+    <string name="island_arrival_type_void_island">This is different than any other place you\'ve been so far. You feel nothing. You are surrounded by &font_void;void &font_end;and have no idea of what you\'ll find here.</string>
+
+    <string name="island_arrival_type_infinity_island">You are in an infinity island. Reality seems to bend here.</string>
+    <string name="island_arrival_type_treasure_island">You discover a small island. There seems to be nothing else but sand and soon realise something great awaits.</string>
+
+    <string name="material_type_bolt">&font_wood;Bolt&font_end;</string>
+
+    <string name="tile_content_type_dungeon">Dungeon</string>
+    <string name="dungeon_title">%1$s - Floor &font_cyan;%2$d &font_end;(&font_cyan;%3$d&font_end;, &font_cyan;%4$d&font_end;)</string>
+    <string name="dungeon_go_up">Go Up</string>
+    <string name="dungeon_go_down">Go Down</string>
+
+    <string name="dungeon_abandoned_mine">&font_wood;Abandoned &font_end;&font_stone;Mine&font_end;</string>
+    <string name="dungeon_dungeon">&font_stone;Dungeon&font_end;</string>
+    <string name="dungeon_grotto">&font_iron;Grotto&font_end;</string>
+    <string name="dungeon_deep_forest">&font_dark_green;Deep &font_end;&font_green;Forest&font_end;</string>
+    <string name="dungeon_old_tomb">&font_silver;Old &font_end;&font_stone;Tomb&font_end;</string>
+    <string name="dungeon_ancient_ruins">&font_gold;Ancient &font_end;&font_ruins;Ruins&font_end;</string>
+    <string name="dungeon_big_cave">&font_stone;Big &font_end;&font_end;&font_cave;Cave&font_end;</string>
+    <string name="dungeon_icy_cave">&font_ice;Icy &font_end;&font_cave;Cave&font_end;</string>
+    <string name="dungeon_lava_cave">&font_red;Lava &font_end;&font_cave;Cave&font_end;</string>
+
+    <string name="dungeon_exit">Exit</string>
+    <string name="dungeon_question_mark">\?</string>
+    <string name="dungeon_exit_dungeon">You exit %1$s.</string>
+    <string name="dungeon_accessibility">You are at &font_cyan;%1$d&font_end;, &font_cyan;%2$d &font_end;in %3$s, Floor &font_cyan;%4$d&font_end;.&br;&br;You can move to the following directions: %5$s.</string>
+    <string name="dungeon_can_go_up">You can go &font_cyan;up &font_end;from here.</string>
+    <string name="dungeon_can_go_down">You can go &font_cyan;down &font_end;from here.</string>
+    <string name="dungeon_can_exit">You can &font_cyan;exit &font_end;from here.</string>
+    <string name="dungeon_enter">You enter %s…</string>
+    <string name="tile_type_dungeon">Dungeon</string>
+    <string name="dungeon_loot">&font_cyan;Loot&font_end;</string>
+    <string name="dungeon_loot_message">You obtained: %s</string>
+    <string name="found_item">Found: %s</string>
+    <string name="dungeon_entrance_name">&font_stone;%1$s &font_end;(%2$s)</string>
+    <string name="tile_content_type_dungeon_portal">&font_stone;Dungeon &font_end;&font_portal;Portal&font_end;</string>
+
+    <string name="dungeon_north_content">&font_cyan;North&font_end;: %1$s</string>
+    <string name="dungeon_south_content">&font_cyan;South&font_end;: %1$s</string>
+    <string name="dungeon_east_content">&font_cyan;East&font_end;: %1$s</string>
+    <string name="dungeon_west_content">&font_cyan;West&font_end;: %1$s</string>
+    <string name="dungeon_boss">&font_dungeon_boss;Boss&font_end;</string>
+    <string name="settings_show_combat_shortcuts">Enable Combat Shortcuts</string>
+
+    <string name="dungeon_enter_portal">Enter Portal</string>
+    <string name="dungeon_entered_portal">You entered the portal and appeared at the entrance of the dungeon!</string>
+
+    <string name="dungeon_tutorial_title">Dungeons</string>
+    <string name="dungeon_tutorial_message_1">Welcome to your first dungeon, hero!</string>
+    <string name="dungeon_tutorial_message_2">In the dungeons, every item you find will be given to you when you leave the dungeon.</string>
+    <string name="dungeon_tutorial_message_3">You won\'t be able to change your equipment, craft, use items, etc… except while in combat!</string>
+    <string name="dungeon_tutorial_message_4">A Boss monster awaits in the last floor of the dungeons. Be careful though, the deeper the floor, the more dangerous the monsters can be!</string>
+    <string name="dungeon_tutorial_message_5">Good luck, and be careful!</string>
+    <string name="button_next">Next</string>
+
+    <string name="dead_reason_unknown">Died!</string>
+
+    <string name="food_cooked_fish">&font_white;Cooked &font_end;&font_blue;Fish&font_end;</string>
+    <string name="share_dialog_title">Share</string>
+    <string name="share_dialog_message">Share your hero\'s status as an image or as text!</string>
+    <string name="button_share_image">As Image</string>
+    <string name="button_share_text">As Text</string>
+
+    <string name="material_type_beetle_talisman">&font_beetle_talisman;Beetle Talisman&font_end;</string>
+
+    <string name="pyramid_its_closed">It\'s closed…</string>
+    <string name="pyramid_its_closed_can_open">It\'s closed but it seems to be reacting with your &font_beetle_talisman;Beetle Talisman&font_end;…</string>
+    <string name="pyramid_interact">Interact</string>
+    <string name="pyramid_opened">The pyramid absorbs the &font_beetle_talisman;Beetle Talisman &font_end;and opens!</string>
+
+    <string name="material_type_jade">&font_jade;Jade&font_end;</string>
+    <string name="material_type_quartz">&font_quartz;Quartz&font_end;</string>
+    <string name="material_type_jasper">&font_jasper;Jasper&font_end;</string>
+    <string name="material_type_sodalite">&font_sodalite;Sodalite&font_end;</string>
+    <string name="material_type_onyx">&font_onyx;Onyx&font_end;</string>
+    <string name="material_type_serpentine">&font_serpentine;Serpentine&font_end;</string>
+    <string name="material_type_aragonite">&font_aragonite;Aragonite&font_end;</string>
+
+    <string name="material_type_saphir">&font_saphir;Saphir&font_end;</string>
+    <string name="material_type_ruby">&font_ruby;Ruby&font_end;</string>
+
+    <string name="material_type_ankh">&font_gold;Ankh&font_end;</string>
+
+    <string name="material_type_infinity_energy">&font_infinity;Infinity &font_end;&font_cyan;Energy&font_end;</string>
+    <string name="material_type_creator_medal">&font_asterisk_creator;Creator &font_end;&font_white;Medal&font_end;</string>
+    <string name="achievement_name_capture_creator">How could you?!</string>
+    <string name="achievement_name_desc_capture_creator">Capture the Creator!</string>
+
+    <string name="title_the_creator_male">%1$s, the &font_asterisk_creator;Creator&font_end;</string>
+    <string name="title_the_creator_female">%1$s, the &font_asterisk_creator;Creator&font_end;</string>
+    <string name="title_the_creator_no_gender">%1$s, the &font_asterisk_creator;Creator&font_end;</string>
+
+    <string name="wise_have_creator_medal">You… you are unbelievable! You killed the &font_asterisk_creator;Creator &font_end;and obtained a %s? I\'m afraid the only thing left to do for you is to &font_asterisk_creator;Ascend&font_end;…</string>
+
+    <string name="wise_ascend_message_1">You want to &font_alchemist;Ascend&font_end;?</string>
+    <string name="creator_appeared_title">&font_asterisk_creator;The Creator &font_end;Appeared</string>
+    <string name="creator_appeared_message">Suddenly, a supreme being, nothing like you\'ve seen before, appears in front of you… And, you know, deep inside, this is nothing else than… &font_asterisk_creator;Archison&font_end;, &font_asterisk_creator;The Creator&font_end;.</string>
+    <string name="combat_monster_healed_completely">%s healed completely!</string>
+
+    <string name="item_info_creator_medal">It is a bright medal, a memory of the time you killed &font_asterisk_creator;The Creator&font_end;.</string>
+    <string name="wise_main_story_island_first_message">Hello, hero! I\'ll be here if you need help!&br;&br;Talk to me if you need to rest or if you want to leave this place…</string>
+    <string name="wise_main_story_island_second_message">Do you want to restore your &font_health;health &font_end;, &font_mana;mana &font_end;and &font_hunger;hunger &font_end;for &font_gold;%1$d gold&font_end;? (A &font_primary_light;&italic;[CHECKPOINT] &italic_end;&font_end;will be saved)&br;&br;…or…&br;&br;Do you want to leave this place? It will disappear forever, you\'ll lose half of the &font_gold;gold &font_end;you are carrying, half from the &font_gold;BANK&font_end;, and you\'ll have to start looking for the &font_cyan;Pieces Of Map &font_end;again.</string>
+    <string name="wise_leave_island_confirmation_message">Are you sure you want to leave?&br;&br;This place will disappear forever, you\'ll lose half of the &font_gold;gold &font_end;you are carrying, half from the &font_gold;BANK&font_end;, and you\'ll have to start looking for the &font_cyan;Pieces Of Map &font_end;again.</string>
+
+    <string name="button_rest">Rest</string>
+    <string name="button_leave_island">Leave</string>
+
+    <string name="wise_completely_rested">You feel completely rested!</string>
+    <string name="wise_main_story_island_lost_gold_and_memory">You lost some &font_gold;gold &font_end;and some of your memories…</string>
+
+    <string name="creator_pre_combat_message_1">You know… It\’s not easy to be &font_asterisk_creator;The Creator&font_end;… Always coding, adding greater challenges, fixing bugs, answering emails, chatting in discord, reddit, the web, etc…</string>
+    <string name="creator_pre_combat_message_2">And all of it for what? Tell me, why am I supposed to do this? I can\'t stand the pressure anymore…!</string>
+    <string name="creator_pre_combat_message_3">GET READY TO DIE! Mmmmmwwwwahahahahahahaha!</string>
+
+    <string name="void_master_after_killing_text_4">Well well… You are wearing a complete set of the &font_void;Void&font_end;… Here you are, you will know what to do with it…</string>
+
+    <string name="dungeon_infinite_vortex">&font_infinity;Infinite &font_end;&font_void;Vortex&font_end;</string>
+    <string name="collection_tiles">Tiles</string>
+    <string name="collection_cassettes">Cassettes</string>
+    <string name="cassette_menu">Menu</string>
+    <string name="cassette_new_game">New Game</string>
+    <string name="cassette_journey">Journey</string>
+    <string name="cassette_game_over">Game Over</string>
+    <string name="cassette_collections">Collections</string>
+    <string name="collection_dungeons">Dungeons</string>
+
+    <string name="button_play">Play</string>
+
+    <string name="cassette_rar1_menu">RAR I - Menu</string>
+    <string name="cassette_rar1_journey">RAR I - Journey</string>
+    <string name="cassette_rar1_game_over">RAR I - Game Over</string>
+    <string name="cassette_rar1_collections">RAR I - Collections</string>
+
+    <string name="tile_content_type_cassette">&font_alchemist;Cassette&font_end;</string>
+    <string name="cassette_name">&font_alchemist;Cassette &font_end;(%s)</string>
+    <string name="item_info_cassette">This seems to be an ancient relic of sorts. Who knows what is this used for…</string>
+
+    <string name="wise_ascend_message_confirmation">If you &asterisk_ascend_color;Ascend&font_end;, you\'ll start over from level 1. You\'ll forget every island, quest, etc…, and you\'ll lose all your items, your gold… BUT, you\'ll have improved starting stats, you\'ll obtain an &asterisk_ascend_color;Ascension &font_end;&font_red;Flame&font_end;…!</string>
+    <string name="wise_ascend_message_confirmation_2">Are you sure you want to &asterisk_ascend_color;Ascend&font_end;?</string>
+
+    <string name="ascend_toast">Everything becomes dark…</string>
+    <string name="ascend_end_toast">…you feel alive again…</string>
+
+    <string name="title_the_ascended_male">%1$s, the &asterisk_ascend_color;Ascended&font_end;</string>
+    <string name="title_the_ascended_female">%1$s, the &asterisk_ascend_color;Ascended&font_end;</string>
+    <string name="title_the_ascended_no_gender">%1$s, the &asterisk_ascend_color;Ascended&font_end;</string>
+
+    <string name="material_type_ascension_flame">&asterisk_ascend_color;Ascension &font_end;&font_red;Flame&font_end;</string>
+
+    <string name="tile_content_stairway_to_hell">&font_wood;Stairway &font_end;To &font_red;Hell&font_end;</string>
+    <string name="tile_content_highway_to_heaven">&font_corrupted_god;Highway &font_end;To &font_heaven;Heaven&font_end;</string>
+
+    <string name="main_story_stairway_to_hell_advice_wont_be_able_to_come_back_to_island">If you enter the %1$s you won\'t be able to come back to %2$s!&br;&br;Enter anyway?</string>
+    <string name="main_story_7_stairway_to_hell_appears">A &font_wood;Stairway &font_end;To &font_red;Hell &font_end;appears!</string>
+
+    <string name="main_story_7_the_tyrant_message_6_new">Use this &font_wood;Stairway &font_end;To &font_red;Hell &font_end;to find him…</string>
+
+    <string name="text_cant_move_here">Can\'t move here…</string>
+
+    <string name="tile_content_type_cassette_collector">&font_alchemist;Cassette &font_end;&font_gold;Collector&font_end;</string>
+    <string name="tile_content_type_cassette_collector_with_gem">&font_alchemist;Cassette &font_end;&font_gold;Collector &font_end;(%s)</string>
+
+    <string name="cassette_collector_message">Hello! I\'m a &font_alchemist;Cassette &font_end;&font_gold;Collector&font_end;!&br;&br;If you happen to have any &font_alchemist;Cassette&font_end;, would you give it to me? I would give you a %1$s in exchange…</string>
+    <string name="cassette_collector_you_dont_have_any_cassette">You don\'t have any &font_alchemist;Cassette&font_end;…</string>
+
+    <string name="collection_material">Material</string>
+
+    <string name="material_type_red_opal">&font_red;Red &font_end;&font_onyx;Opal&font_end;</string>
+    <string name="material_type_green_opal">&font_green;Green &font_end;&font_onyx;Opal&font_end;</string>
+    <string name="material_type_blue_opal">&font_blue;Blue &font_end;&font_onyx;Opal&font_end;</string>
+
+    <string name="sphinx_info_with_ankh">You look at the giant &font_pyramid;Sphinx &font_end;and are amazed about its size and beauty. It seems pretty old.&br;&br;The &font_gold;Ankh &font_end;in your pocket starts to vibrate. Do you want to use it?</string>
+    <string name="monster_appears">%s appears!</string>
+
+    <string name="monster_action_shadow_ray">Shadow Ray</string>
+    <string name="monster_action_infinity_punch">Infinity Punch</string>
+    <string name="monster_action_everything">Everything</string>
+    <string name="monster_action_annoying_bug">Annoying Bug</string>
+    <string name="monster_action_game_glitch">Game Glitch</string>
+    <string name="monster_action_reality_crash">Reality Crash</string>
+
+    <string name="item_info_ankh">It seems to have a small drawing of a &font_pyramid;Sphinx&font_end;…</string>
+
+    <string name="inventory_use_red_opal">Use &font_red;Red &font_end;&font_onyx;Opal &font_end;to increase your max. hunger by &font_hunger;%1$d&font_end;.</string>
+    <string name="inventory_use_green_opal">Use &font_green;Green &font_end;&font_onyx;Opal &font_end;to increase your max. health by &font_health;%1$d&font_end;.</string>
+    <string name="inventory_use_blue_opal">Use &font_blue;Blue &font_end;&font_onyx;Opal &font_end;to increase your max. mana by &font_mana;%1$d&font_end;.</string>
+    <string name="inventory_use_infinity_energy">Use &font_infinity;Infinity &font_end;&font_cyan;Energy &font_end;to completely restore your &font_health;health &font_end;, &font_mana;mana &font_end;and &font_hunger;hunger&font_end;.</string>
+
+    <string name="inventory_used_infinity_energy">Used &font_infinity;Infinity &font_end;&font_cyan;Energy&font_end;!</string>
+
+    <string name="item_info_ascension_flame">You feel this &asterisk_ascend_color;Ascension &font_end;&font_red;Flame &font_end;is the most powerful thing you\'ve ever touched… You wonder what may this be used for…</string>
+    <string name="settings_leaderboards">Leaderboards</string>
+
+    <string name="error_signing_in">Error singing in…</string>
+    <string name="error_accessing_leaderboards">Error accessing leader boards…</string>
+    <string name="sign_in_dialog_title">Google Play Games</string>
+    <string name="sign_in_dialog_message">Sign in to Google Play Games to access Achievements and Leader Boards!</string>
+
+    <string name="updated_leaderboards">&font_primary_light;&italic;[UPDATED LEADER BOARDS]&italic_end;&font_end;</string>
+</resources>
