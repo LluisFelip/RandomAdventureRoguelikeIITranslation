@@ -111,6 +111,7 @@
     <!ENTITY font_saphir "&lt;font color=&quot;#0f52ba&quot;&gt;">
     <!ENTITY font_ruby "&lt;font color=&quot;#e0115f&quot;&gt;">
     <!ENTITY asterisk_ascend_color "&lt;font color=&quot;#2196F3&quot;&gt;">
+    <!ENTITY font_pearl "&lt;font color=&quot;#CACFCA&quot;&gt;">
     ]>
 
 <resources xmlns:tools="http://schemas.android.com/tools">
@@ -3539,5 +3540,9 @@
 
     <string name="autolevelup_levelled_up">%1$s auto-levelled up to level &font_cyan;%2$d&font_end;</string>
     <string name="received_void_weapon">You received %1$s!</string>
-    <string name="settings_auto_pick_up_enabled">Combat auto pick-up enabled</string>
+    <string name="settings_auto_pick_up_enabled">Auto pick-up enabled</string>
+    <string name="material_seaweed">&font_red;Seaweed&font_end;</string>
+    <string name="material_pearl">&font_pearl;Pearl&font_end;</string>
+
+    <string name="dungeon_coral_cave">&font_red;Coral &font_end;&font_cave;Cave&font_end;</string>
 </resources>
