@@ -161,6 +161,11 @@
 
     <string name="monster_creator_name" translatable="false">Archison</string>
 
+    <string name="plus_number" translatable="false">+&font_cyan;%d&font_end;</string>
+
+
+
+
     <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
     <!-- TRANSLATE                                                                               -->
     <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
@@ -3545,4 +3550,5 @@
     <string name="material_pearl">&font_pearl;Pearl&font_end;</string>
 
     <string name="dungeon_coral_cave">&font_red;Coral &font_end;&font_cave;Cave&font_end;</string>
+
 </resources>
