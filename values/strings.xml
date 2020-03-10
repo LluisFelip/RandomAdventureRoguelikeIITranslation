@@ -3501,9 +3501,6 @@
 
     <string name="updated_leaderboards">&font_primary_light;&italic;[UPDATED LEADER BOARDS]&italic_end;&font_end;</string>
 
-
-    <!-- FIXME: UPDATE STRINGS -->
-
     <string name="tool_wasted">%1$s is wasted! Use a %2$s to repair it.</string>
     <string name="tile_content_type_repair_kit">Repair Kit</string>
     <string name="dark_orb_vibrates">The %1$s vibrates…</string>
@@ -3542,4 +3539,5 @@
 
     <string name="autolevelup_levelled_up">%1$s auto-levelled up to level &font_cyan;%2$d&font_end;</string>
     <string name="received_void_weapon">You received %1$s!</string>
+    <string name="settings_auto_pick_up_enabled">Combat auto pick-up enabled</string>
 </resources>
