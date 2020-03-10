@@ -3552,10 +3552,16 @@
     <string name="item_info_torch">Use this to see further in dungeons!</string>
     <string name="torch_use_question">Do you want to use a &font_red;Torch&font_end; to see better?&br;&br;It will last until you exit %1$s.</string>
     <string name="ascension_flame_lights_up_the_place">The &asterisk_ascend_color;Ascension &font_end;&font_red;Flame &font_end;lights up the place!</string>
+
     <string name="skill_points_to_base_stats">Use your &font_cyan;Skill Points &font_end;to increase your base stats.&br;&br;You currently have &font_cyan;%d &font_end;SP.</string>
     <string name="skill_points_to_base_stats_attack">Increase &font_attack;Attack &font_end;(&font_cyan;%1$d &font_end;SP) [&font_attack;%2$d&font_end;]</string>
     <string name="skill_points_to_base_stats_defense">Increase &font_defense;Defense &font_end;(&font_cyan;%1$d &font_end;SP) [&font_defense;%2$d&font_end;]</string>
     <string name="skill_points_to_base_stats_speed">Increase &font_speed;Speed &font_end;(&font_cyan;%1$d &font_end;SP) [&font_speed;%2$d&font_end;]</string>
     <string name="skill_points_to_base_stats_intelligence">Increase &font_mana;Intelligence &font_end;(&font_cyan;%1$d &font_end;SP) [&font_mana;%2$d&font_end;]</string>
+
+    <string name="increased_base_attack_to">Increased base &font_attack;Attack &font_end;to &font_attack;%1$d&font_end;.</string>
+    <string name="increased_base_defense_to">Increased base &font_defense;Defense &font_end;to &font_defense;%1$d&font_end;.</string>
+    <string name="increased_base_speed_to">Increased base &font_speed;Speed &font_end;to &font_speed;%1$d&font_end;.</string>
+    <string name="increased_base_intelligence_to">Increased base &font_mana;Intelligence &font_end;to &font_mana;%1$d&font_end;.</string>
 
 </resources>
