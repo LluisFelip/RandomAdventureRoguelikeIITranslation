@@ -111,6 +111,8 @@
     <!ENTITY font_saphir "&lt;font color=&quot;#0f52ba&quot;&gt;">
     <!ENTITY font_ruby "&lt;font color=&quot;#e0115f&quot;&gt;">
     <!ENTITY asterisk_ascend_color "&lt;font color=&quot;#2196F3&quot;&gt;">
+    <!ENTITY font_pearl "&lt;font color=&quot;#CACFCA&quot;&gt;">
+    <!ENTITY font_coral "&lt;font color=&quot;#FF00BF&quot;&gt;">
     ]>
 
 <resources xmlns:tools="http://schemas.android.com/tools">
@@ -337,7 +339,8 @@
     <string name="button_scrap_per_gold">Фрагменты: &font_gold;%1$d&font_end; Золота</string>
     <string name="button_feedback">&font_cyan;Отзыв&font_end;</string>
     <string name="button_blacksmith_upgrade_equipment">Улучшить &font_green;\*&font_end;Снаряжение</string>
-    <string name="button_blacksmith_scrap_equipment">&font_copper;Разобрать&font_end; Снаряжениеt</string>
+    <string name="button_blacksmith_scrap_equipment">&font_copper;Разобрать&font_end;
+        Снаряжениеt</string>
     <string name="button_blacksmith_craft_bars">Создать &font_gold;Слитки&font_end;</string>
     <string name="button_scrap">Разобрать</string>
 
@@ -524,7 +527,8 @@
     <string name="item_info_merchants_mark">Этот знак может быть ценен для чего-то, ил кого-то…</string>
     <string name="item_info_tool_chopping_axe">Используйте, чтобы &font_wood;рубить деревья &font_end;для добычи &font_wood;Дерева&font_end;.</string>
     <string name="item_info_tool_pickaxe">Используйте, чтобы &font_stone;долбить камни &font_end;для добычи &font_stone;Камня &font_end;и других минералов.</string>
-    <string name="item_info_tool_fishing_rod">Используйте, чтобы &font_cyan;рыбачить&font_end; в &font_cyan;Рыбных местах&font_end;.</string>
+    <string name="item_info_tool_fishing_rod">Используйте, чтобы &font_cyan;рыбачить&font_end;
+        в &font_cyan;Рыбных местах&font_end;.</string>
     <string name="item_info_tool_net">Используйте для ловли &font_insect;Насекомых&font_end;.</string>
     <string name="item_info_tool_skinning_knife">Используйте для &font_skin;освежевания &font_end;&font_green;тела монстра &font_end;, чтобы получить &font_skin;Шкуру&font_end;.</string>
     <string name="item_info_tool_meat_cleaver">Используйте для разделки&font_green;тела монстра &font_end;, чтобы получить &font_green;Плоть Монстра&font_end;.</string>
@@ -539,7 +543,8 @@
     <string name="item_info_teleport_stone">Используйте для перемещения в последнюю &font_inn;Гостиницу &font_end;в которой вы спали, или в вашу начальную точку на этом &font_cyan;острове&font_end;.</string>
     <string name="item_info_piece_of_map">&font_cyan;Кусок Карты&font_end;. Чтобы понять что это, найдите больше кусков…</string>
     <string name="item_info_dark_orb">Мистическая &font_dark_orb;Тёмная Сфера&font_end;. А вы чего ожидали?</string>
-    <string name="item_info_bomb_normal">Бросьте &font_bomb;Бомбу&font_end; во врага во время битвы.</string>
+    <string name="item_info_bomb_normal">Бросьте &font_bomb;Бомбу&font_end;
+        во врага во время битвы.</string>
     <string name="item_info_bomb_fire">Бросьте &font_attack;Огненную&font_end; &font_bomb;Бомбу &font_end;во врага во время боя. Может &font_attack;поджечь&font_end;.</string>
     <string name="item_info_bomb_ice">Бросьте &font_ice;Морозную&font_end; &font_bomb;Бомбу &font_end;во врага во время сражения. Может &font_ice;заморозить &font_end;.</string>
     <string name="item_info_bomb_electric">Бросьте &font_electric;Электрическую &font_end;&font_bomb;Бомбу &font_end;во врага во время схватки. Может &font_electric;парализовать &font_end;.</string>
@@ -849,7 +854,8 @@
         &font_health;Здоровье&font_end; увеличено на &font_health;%1$d&font_end;&br;
         &font_mana;Мана&font_end; увеличена на &font_mana;%2$d&font_end;&br; &font_attack;Attack&font_end;
         увеличена на &font_attack;%3$d&font_end;&br; &font_defense;Защита&font_end;
-        увеличена на &font_defense;%4$d&font_end;&br; &font_speed;Скорость&font_end; увеличена на &font_speed;%5$d&font_end;&br;
+        увеличена на &font_defense;%4$d&font_end;&br; &font_speed;Скорость&font_end;
+        увеличена на &font_speed;%5$d&font_end;&br;
         &font_mana;Интеллект&font_end; увеличен на &font_mana;%6$d&font_end;&br;
     </string>
 
@@ -3500,4 +3506,25 @@
 
     <string name="autolevelup_levelled_up">%1$s auto-levelled up to level &font_cyan;%2$d&font_end;</string>
     <string name="received_void_weapon">You received %1$s!</string>
+
+    <string name="settings_auto_pick_up_enabled">Auto pick-up enabled</string>
+    <string name="material_seaweed">&font_red;Seaweed&font_end;</string>
+    <string name="material_pearl">&font_pearl;Pearl&font_end;</string>
+
+    <string name="dungeon_coral_cave">&font_coral;Coral &font_end;&font_cave;Cave&font_end;</string>
+    <string name="tile_content_type_torch">&font_red;Torch&font_end;</string>
+    <string name="item_info_torch">Use this to see further in dungeons!</string>
+    <string name="torch_use_question">Do you want to use a &font_red;Torch&font_end; to see better?&br;&br;It will last until you exit %1$s.</string>
+    <string name="ascension_flame_lights_up_the_place">The &asterisk_ascend_color;Ascension &font_end;&font_red;Flame &font_end;lights up the place!</string>
+
+    <string name="skill_points_to_base_stats">Use your &font_cyan;Skill Points &font_end;to increase your base stats.&br;&br;You currently have &font_cyan;%d &font_end;SP.</string>
+    <string name="skill_points_to_base_stats_attack">Increase &font_attack;Attack &font_end;(&font_cyan;%1$d &font_end;SP) [&font_attack;%2$d&font_end;]</string>
+    <string name="skill_points_to_base_stats_defense">Increase &font_defense;Defense &font_end;(&font_cyan;%1$d &font_end;SP) [&font_defense;%2$d&font_end;]</string>
+    <string name="skill_points_to_base_stats_speed">Increase &font_speed;Speed &font_end;(&font_cyan;%1$d &font_end;SP) [&font_speed;%2$d&font_end;]</string>
+    <string name="skill_points_to_base_stats_intelligence">Increase &font_mana;Intelligence &font_end;(&font_cyan;%1$d &font_end;SP) [&font_mana;%2$d&font_end;]</string>
+
+    <string name="increased_base_attack_to">Increased base &font_attack;Attack &font_end;to &font_attack;%1$d&font_end;.</string>
+    <string name="increased_base_defense_to">Increased base &font_defense;Defense &font_end;to &font_defense;%1$d&font_end;.</string>
+    <string name="increased_base_speed_to">Increased base &font_speed;Speed &font_end;to &font_speed;%1$d&font_end;.</string>
+    <string name="increased_base_intelligence_to">Increased base &font_mana;Intelligence &font_end;to &font_mana;%1$d&font_end;.</string>
 </resources>

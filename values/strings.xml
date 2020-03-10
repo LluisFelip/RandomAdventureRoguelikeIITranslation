@@ -112,6 +112,7 @@
     <!ENTITY font_ruby "&lt;font color=&quot;#e0115f&quot;&gt;">
     <!ENTITY asterisk_ascend_color "&lt;font color=&quot;#2196F3&quot;&gt;">
     <!ENTITY font_pearl "&lt;font color=&quot;#CACFCA&quot;&gt;">
+    <!ENTITY font_coral "&lt;font color=&quot;#FF00BF&quot;&gt;">
     ]>
 
 <resources xmlns:tools="http://schemas.android.com/tools">
@@ -3442,7 +3443,7 @@
     <string name="cassette_name">&font_alchemist;Cassette &font_end;(%s)</string>
     <string name="item_info_cassette">This seems to be an ancient relic of sorts. Who knows what is this used for…</string>
 
-    <string name="wise_ascend_message_confirmation">If you &asterisk_ascend_color;Ascend&font_end;, you\'ll start over from level 1. You\'ll forget every island, quest, etc…, and you\'ll lose all your items, your gold… BUT, you\'ll have improved starting stats, you\'ll obtain an &asterisk_ascend_color;Ascension &font_end;&font_red;Flame&font_end;…!</string>
+    <string name="wise_ascend_message_confirmation">If you &asterisk_ascend_color;Ascend&font_end;, you\'ll start over from level 1. You\'ll forget every island, quest, etc…, and you\'ll lose all your items, your gold… BUT, you\'ll have improved starting stats, you\'ll obtain an &asterisk_ascend_color;Ascension &font_end;&font_red;Flame&font_end;, and you will be able to learn all the &italic;racial skills &font_end;from the &font_cyan;Skills Tree&font_end;…!</string>
     <string name="wise_ascend_message_confirmation_2">Are you sure you want to &asterisk_ascend_color;Ascend&font_end;?</string>
 
     <string name="ascend_toast">Everything becomes dark…</string>
@@ -3543,11 +3544,12 @@
 
     <string name="autolevelup_levelled_up">%1$s auto-levelled up to level &font_cyan;%2$d&font_end;</string>
     <string name="received_void_weapon">You received %1$s!</string>
+
     <string name="settings_auto_pick_up_enabled">Auto pick-up enabled</string>
     <string name="material_seaweed">&font_red;Seaweed&font_end;</string>
     <string name="material_pearl">&font_pearl;Pearl&font_end;</string>
 
-    <string name="dungeon_coral_cave">&font_red;Coral &font_end;&font_cave;Cave&font_end;</string>
+    <string name="dungeon_coral_cave">&font_coral;Coral &font_end;&font_cave;Cave&font_end;</string>
     <string name="tile_content_type_torch">&font_red;Torch&font_end;</string>
     <string name="item_info_torch">Use this to see further in dungeons!</string>
     <string name="torch_use_question">Do you want to use a &font_red;Torch&font_end; to see better?&br;&br;It will last until you exit %1$s.</string>
