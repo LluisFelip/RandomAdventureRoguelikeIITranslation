@@ -3482,4 +3482,43 @@
     <string name="sign_in_dialog_message">Sign in to Google Play Games to access Achievements and Leader Boards!</string>
 
     <string name="updated_leaderboards">&font_primary_light;&italic;[UPDATED LEADER BOARDS]&italic_end;&font_end;</string>
+
+    <string name="tool_wasted">%1$s is wasted! Use a %2$s to repair it.</string>
+    <string name="tile_content_type_repair_kit">Repair Kit</string>
+    <string name="dark_orb_vibrates">The %1$s vibrates…</string>
+    <string name="tile_content_type_void_merchant">&font_void;Void &font_end;&font_gold;Merchant&font_end;</string>
+
+    <string name="void_merchant_message_1">Hello…&br;&br;</string>
+    <string name="void_merchant_message_2">Do you… do you have a &font_dark_orb;Dark Orb&font_end;?&br;&br;Would you give it to me? I would give you a special &font_void;weapon &font_end;in exchange…</string>
+    <string name="void_merchant_message_dont_have">You don\'t have a &font_dark_orb;Dark Orb&font_end;… don\'t waste my time… Go waste yours…</string>
+    <string name="void_merchant_message_have">Oh my &font_void;void&font_end;…! Thanks… As I promised, this is for you…</string>
+    <string name="void_merchant_message_have_2">Come back if you have more…</string>
+
+    <string name="settings_show_gold_on_top">Show Gold on top</string>
+    <string name="skill_whip_mastery">&font_void;Whip &font_end;Mastery</string>
+    <string name="skill_whip_mastery_desc">Attacking with a &font_void;Whip &font_end;in combat unlocks &font_void;Whip &font_end;Combat Skills.</string>
+    <string name="weapon_type_whip">&font_void;Whip&font_end;</string>
+
+    <string name="weapon_skill_whip_fast_lash">&font_speed;Fast &font_end;&font_void;Lash&font_end;</string>
+    <string name="weapon_skill_whip_fast_lash_desc">Lashes the enemy quickly. Always attacks first.</string>
+    <string name="weapon_skill_whip_fast_lash_attack">You lash the enemy!</string>
+
+    <string name="weapon_skill_whip_healing_lash">&font_health;Healing &font_end;&font_void;Lash&font_end;</string>
+    <string name="weapon_skill_whip_healing_lash_desc">Lashes the enemy and absorbs its health.</string>
+    <string name="weapon_skill_whip_healing_lash_attack">You lash the enemy and absorb its health!</string>
+
+    <string name="weapon_skill_whip_double_whip">&font_void;Double Whip&font_end;</string>
+    <string name="weapon_skill_whip_double_whip_desc">Attacks twice with the whip.</string>
+    <string name="weapon_skill_whip_double_whip_attack">You attack twice with the whip!</string>
+
+    <string name="weapon_skill_whip_absorbing_lash">&font_health;Absorbing &font_end;&font_void;Whip&font_end;</string>
+    <string name="weapon_skill_whip_absorbing_lash_desc">Attacks and absorbs both mana and health from the enemy.</string>
+    <string name="weapon_skill_whip_absorbing_lash_attack">You attack and absorb mana and health from the enemy!</string>
+
+    <string name="weapon_skill_whip_ultimate_lash">&font_void;Ultimate Lash&font_end;</string>
+    <string name="weapon_skill_whip_ultimate_lash_desc">Lashes strongly the enemy.</string>
+    <string name="weapon_skill_whip_ultimate_lash_attack">You lash strongly the enemy!</string>
+
+    <string name="autolevelup_levelled_up">%1$s auto-levelled up to level &font_cyan;%2$d&font_end;</string>
+    <string name="received_void_weapon">You received %1$s!</string>
 </resources>
