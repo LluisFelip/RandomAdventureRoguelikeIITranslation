@@ -164,8 +164,6 @@
     <string name="plus_number" translatable="false">+&font_cyan;%d&font_end;</string>
 
 
-
-
     <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
     <!-- TRANSLATE                                                                               -->
     <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
@@ -3553,5 +3551,6 @@
     <string name="tile_content_type_torch">&font_red;Torch&font_end;</string>
     <string name="item_info_torch">Use this to see further in dungeons!</string>
     <string name="torch_use_question">Do you want to use a &font_red;Torch&font_end; to see better?&br;&br;It will last until you exit %1$s.</string>
+    <string name="ascension_flame_lights_up_the_place">The &asterisk_ascend_color;Ascension &font_end;&font_red;Flame &font_end;lights up the place!</string>
 
 </resources>
