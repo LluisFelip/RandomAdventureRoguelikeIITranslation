@@ -110,7 +110,7 @@
     <!ENTITY font_aragonite "&lt;font color=&quot;#F39965&quot;&gt;">
     <!ENTITY font_saphir "&lt;font color=&quot;#0f52ba&quot;&gt;">
     <!ENTITY font_ruby "&lt;font color=&quot;#e0115f&quot;&gt;">
-    <!ENTITY asterisk_ascend_color "&lt;font color=&quot;#9C27B0&quot;&gt;">
+    <!ENTITY asterisk_ascend_color "&lt;font color=&quot;#2196F3&quot;&gt;">
     ]>
 
 <resources xmlns:tools="http://schemas.android.com/tools">
