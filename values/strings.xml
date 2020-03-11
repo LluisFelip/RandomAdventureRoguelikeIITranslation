@@ -3587,5 +3587,8 @@
     <string name="title_the_cartographer_male">%1$s, the &font_cyan;Cartographer&font_end;</string>
     <string name="title_the_cartographer_female">%1$s, the &font_cyan;Cartographer&font_end;</string>
     <string name="title_the_cartographer_no_gender">%1$s, the &font_cyan;Cartographer&font_end;</string>
+    <string name="blacksmith_repair_tool_button">Repair (&font_gold;%d&font_end;)</string>
+
+    <string name="button_blacksmith_repair_tools">Repair &font_cyan;Tools&font_end;</string>
 
 </resources>
