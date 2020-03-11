@@ -3576,5 +3576,6 @@
     <string name="completely_purified_island">You completely &font_purifying;* Purified * &font_end;the island and obtained a &font_purifying;Pure Essence&font_end;!</string>
     <string name="purifying_tree_text_completely_purified_label">{ &font_purifying;* Purified *&font_end;}</string>
     <string name="tile_type_water">Water</string>
+    <string name="settings_show_squares_map">Show squares in map</string>
 
 </resources>
