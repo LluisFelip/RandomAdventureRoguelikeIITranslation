@@ -940,7 +940,7 @@
     <string name="combat_monster_obtained_item">Obtained %1$s.</string>
     <string name="combat_you_throw_the_bucket_to">You throw the %1$s to %2$s! %3$s receives &font_red;%4$d &font_end;damage!</string>
 
-    <!-- REFACTOR -->
+
     <string name="villager_text_hello_1" tools:ignore="UnusedResources">Hi!</string>
     <string name="villager_text_hello_2" tools:ignore="UnusedResources">Hi, hero!</string>
     <string name="villager_text_hello_3" tools:ignore="UnusedResources">Hi, adventurer!</string>
@@ -1148,7 +1148,7 @@
     <string name="quest_find_item_now_return_to">You found %1$s! Now return it to &font_cyan;%2$s &font_end;at &font_cyan;%3$d&font_end;, &font_cyan;%4$d&font_end;.</string>
     <string name="quest_find_lost_item_tile_content_name">This is a quest item. You have to return it to its owner.</string>
 
-    <!-- REFACTOR -->
+
     <string name="quest_find_lost_item_item_name_001" tools:ignore="UnusedResources">a magic box</string>
     <string name="quest_find_lost_item_item_name_002" tools:ignore="UnusedResources">a mysterious bag</string>
     <string name="quest_find_lost_item_item_name_003" tools:ignore="UnusedResources">a secret document</string>
@@ -1236,7 +1236,7 @@
     <string name="quest_rescue_someone_text_output_rescued">Rescued \"%1$s\"!</string>
     <string name="quest_rescue_someone_following_you">&font_quest;%1$s &font_end;is here, following you…</string>
 
-    <!-- REFACTOR!-->
+
     <string name="quest_rescue_someone_name_1" tools:ignore="UnusedResources">The Princess</string>
     <string name="quest_rescue_someone_name_2" tools:ignore="UnusedResources">The Prince</string>
     <string name="quest_rescue_someone_name_3" tools:ignore="UnusedResources">The Queen</string>
@@ -2747,9 +2747,6 @@
     <string name="void_master_after_killing_text">Killing me, you have activated the end for you and the rest of mortals… get ready for the &font_void;Void &font_end;Monsters appearing in your world…</string>
     <string name="void_master_after_killing_text_2">You again…? Well… I\'m surprised you arrived so far with my &font_void;Void &font_end;Monsters around the world… I\'ll see you again…</string>
     <string name="void_master_after_killing_text_3">Well well… You are wearing a complete set of the &font_void;Void&font_end;… Right now there\'s nothing else I can offer… But come soon, and I\'ll give you something you need…</string>
-
-    <!-- TODO: #884 DEV - Uncomment this -->
-    <!--    <string name="void_master_after_killing_text_3">Well well… You are wearing a complete set of the &font_void;Void&font_end;… You are worthy to posses this &font_infinity;Infinity &font_end;&font_gold;Key&font_end;… Good luck…</string>-->
 
     <string name="your_ship_appears_magically">Your &font_wood;Ship &font_end;appears…</string>
 

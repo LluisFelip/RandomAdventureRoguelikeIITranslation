@@ -945,7 +945,7 @@
     <string name="combat_monster_obtained_item">Obtained %1$s.</string>
     <string name="combat_you_throw_the_bucket_to">You throw the %1$s to %2$s! %3$s receives &font_red;%4$d &font_end;damage!</string>
 
-    <!-- REFACTOR -->
+
     <string name="villager_text_hello_1" tools:ignore="UnusedResources">Hi!</string>
     <string name="villager_text_hello_2" tools:ignore="UnusedResources">Hi, hero!</string>
     <string name="villager_text_hello_3" tools:ignore="UnusedResources">Hi, adventurer!</string>
@@ -1153,7 +1153,7 @@
     <string name="quest_find_item_now_return_to">You found %1$s! Now return it to &font_cyan;%2$s &font_end;at &font_cyan;%3$d&font_end;, &font_cyan;%4$d&font_end;.</string>
     <string name="quest_find_lost_item_tile_content_name">This is a quest item. You have to return it to its owner.</string>
 
-    <!-- REFACTOR -->
+
     <string name="quest_find_lost_item_item_name_001" tools:ignore="UnusedResources">a magic box</string>
     <string name="quest_find_lost_item_item_name_002" tools:ignore="UnusedResources">a mysterious bag</string>
     <string name="quest_find_lost_item_item_name_003" tools:ignore="UnusedResources">a secret document</string>
@@ -1241,7 +1241,7 @@
     <string name="quest_rescue_someone_text_output_rescued">Rescued \"%1$s\"!</string>
     <string name="quest_rescue_someone_following_you">&font_quest;%1$s &font_end;is here, following you…</string>
 
-    <!-- REFACTOR!-->
+
     <string name="quest_rescue_someone_name_1" tools:ignore="UnusedResources">The Princess</string>
     <string name="quest_rescue_someone_name_2" tools:ignore="UnusedResources">The Prince</string>
     <string name="quest_rescue_someone_name_3" tools:ignore="UnusedResources">The Queen</string>
@@ -3443,7 +3443,7 @@
     <string name="cassette_name">&font_alchemist;Cassette &font_end;(%s)</string>
     <string name="item_info_cassette">This seems to be an ancient relic of sorts. Who knows what is this used for…</string>
 
-    <string name="wise_ascend_message_confirmation">If you &asterisk_ascend_color;Ascend&font_end;, you\'ll start over from level 1. You\'ll forget every island, quest, etc…, and you\'ll lose all your items, your gold… BUT, you\'ll have improved starting stats, you\'ll obtain an &asterisk_ascend_color;Ascension &font_end;&font_red;Flame&font_end;, and you will be able to learn all the &italic;racial skills &font_end;from the &font_cyan;Skills Tree&font_end;…!</string>
+    <string name="wise_ascend_message_confirmation">If you &asterisk_ascend_color;Ascend&font_end;, you\'ll start over from level 1. You\'ll forget every island, quest, etc…, and you\'ll lose all your items, your gold… BUT, you\'ll have improved starting stats, you\'ll obtain an &asterisk_ascend_color;Ascension &font_end;&font_red;Flame&font_end;…!</string>
     <string name="wise_ascend_message_confirmation_2">Are you sure you want to &asterisk_ascend_color;Ascend&font_end;?</string>
 
     <string name="ascend_toast">Everything becomes dark…</string>
@@ -3544,7 +3544,6 @@
 
     <string name="autolevelup_levelled_up">%1$s auto-levelled up to level &font_cyan;%2$d&font_end;</string>
     <string name="received_void_weapon">You received %1$s!</string>
-
     <string name="settings_auto_pick_up_enabled">Auto pick-up enabled</string>
     <string name="material_seaweed">&font_red;Seaweed&font_end;</string>
     <string name="material_pearl">&font_pearl;Pearl&font_end;</string>

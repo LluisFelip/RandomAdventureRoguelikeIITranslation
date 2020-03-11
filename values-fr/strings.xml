@@ -1851,11 +1851,7 @@
     <string name="troll_not_enough_gold">Tu n\'as pas assez &font_gold;d\'or&font_end;! Le %1$s t\'attaque !</string>
     <string name="troll_leaves_happily_with_your_money">%1$s gambade ailleurs avec son or fraichement acquis…</string>
     <string name="explorer_you_dont_have_the_necessary_island_soul" tools:ignore="UnusedResources">Tu ne possède pas la bonne &font_cyan;Âme de l\'Île&font_end;…</string>
-
-    <!-- TODO: Translate this again, sorry! :) -->
     <string name="explorer_im_looking_for_an_island_soul">Hello! I\'m a passionate explorer and I\'m looking for an %1$s! If you happen to have one, could you give it to me?&br;&br;I will give you a &font_cyan;special &font_end;item in exchange!</string>
-    <!-- <string name="explorer_im_looking_for_an_island_soul">Bonjour! Je suis un explorateur passionné et je recherche une %1$s! Si vous en possédez une, pouvez vous me la donner s\'il vous plaît ?&br;&br;Je vous donnerai une &font_cyan;Recette &font_end;de &font_cyan;Craft &font_end;plutôt &font_cyan;spéciale &font_end;à propos de %2$s en échange !</string> -->
-
     <string name="explorer_already_given">Rebonjour! Merci pour l\'%1$s! Je n\'ai toujours pas réussit a trouver comment l\'utiliser… À bientôt, l\'ami!</string>
     <string name="explorer_gaven_you">L\'%1$s vous offre un(e) %2$s!</string>
     <string name="waterfall_info">Il y a une magnifique &font_water;Chute D\'Eau&font_end; près de vous. Tu la contemples un moment avant de reprendre ton aventure.</string>
@@ -2704,8 +2700,6 @@
     <string name="void_master_after_killing_text">Killing me, you have activated the end for you and the rest of mortals… get ready for the &font_void;Void &font_end;Monsters appearing in your world…</string>
     <string name="void_master_after_killing_text_2">You again…? Well… I\'m surprised you arrived so far with my &font_void;Void &font_end;Monsters around the world… I\'ll see you again…</string>
     <string name="void_master_after_killing_text_3">Well well… You are wearing a complete set of the &font_void;Void&font_end;… Right now there\'s nothing else I can offer… But come soon, and I\'ll give you something you need…</string>
-    <!-- TODO: #884 Uncomment this -->
-    <!--    <string name="void_master_after_killing_text_3">Well well… You are wearing a complete set of the &font_void;Void&font_end;… You are worthy to posses this &font_infinity;Infinity &font_end;&font_gold;Key&font_end;… Good luck…</string>-->
 
     <string name="your_ship_appears_magically">Your &font_wood;Ship &font_end;appears…</string>
 
