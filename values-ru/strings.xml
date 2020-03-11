@@ -3505,7 +3505,7 @@
     <string name="autolevelup_levelled_up">%1$s auto-levelled up to level &font_cyan;%2$d&font_end;</string>
     <string name="received_void_weapon">You received %1$s!</string>
 
-    <string name="settings_auto_pick_up_enabled">Auto pick-up enabled</string>
+    <string name="settings_auto_pick_up_enabled">Combat auto pick-up enabled</string>
     <string name="material_seaweed">&font_red;Seaweed&font_end;</string>
     <string name="material_pearl">&font_pearl;Pearl&font_end;</string>
 
