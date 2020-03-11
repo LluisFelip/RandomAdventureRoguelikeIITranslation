@@ -3569,6 +3569,7 @@
     <string name="skill_dungeoneer">&font_stone;Dungeoneer&font_end;</string>
     <string name="skill_dungeoneer_description">Discovers the type of &font_stone;Dungeon &font_end;in an island if there is one.</string>
     <string name="skill_dungeoneer_action">Sense &font_stone;Dungeon&font_end;</string>
+    <string name="skill_dungeoneer_action_title">Sensing &font_stone;Dungeons&font_end;</string>
     <string name="skill_dungeoneer_success">You sense there\'s a %s!</string>
     <string name="skill_dungeoneer_no_dungeon_detected">You don\'t detect any &font_stone;Dungeon&font_end;…</string>
 
