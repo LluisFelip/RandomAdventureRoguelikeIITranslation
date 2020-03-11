@@ -3572,5 +3572,8 @@
     <string name="skill_dungeoneer_action_title">Sensing &font_stone;Dungeons&font_end;</string>
     <string name="skill_dungeoneer_success">You sense there\'s a %s!</string>
     <string name="skill_dungeoneer_no_dungeon_detected">You don\'t detect any &font_stone;Dungeon&font_end;…</string>
+    <string name="material_pure_essence">&font_purifying;Pure Essence&font_end;</string>
+    <string name="completely_purified_island_and_obtained_pure_essence">You completely &font_purifying;Purified &font_end;the island and obtain &font_purifying;Pure Essence&font_end;!</string>
+    <string name="purifying_tree_text_completely_purified_label">{ &font_purifying;* Purified *&font_end;}</string>
 
 </resources>
