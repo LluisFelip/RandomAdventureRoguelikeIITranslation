@@ -3577,12 +3577,7 @@
     <string name="purifying_tree_text_completely_purified_label">{ &font_purifying;* Purified *&font_end;}</string>
     <string name="tile_type_water">Water</string>
     <string name="settings_show_squares_map">Show squares in map</string>
-
-    <string name="advantage_cartographer">&font_cyan;Cartographer&font_end;</string>
-    <string name="advantage_cartographer_desc">(You will start with an &font_cyan;Island &font_end;&font_gold;Map &font_end;and a random &font_cyan;Nautical Chart&font_end;)</string>
-    
-    <string name="title_the_cartographer_male">%1$s, the &font_cyan;Cartographer&font_end;</string>
-    <string name="title_the_cartographer_female">%1$s, the &font_cyan;Cartographer&font_end;</string>
-    <string name="title_the_cartographer_no_gender">%1$s, the &font_cyan;Cartographer&font_end;</string>
+    <string name="island_remove_mark">Remove Mark</string>
+    <string name="island_remove_text">Remove Text</string>
 
 </resources>
