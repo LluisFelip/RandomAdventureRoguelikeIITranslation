@@ -3591,4 +3591,6 @@
 
     <string name="button_blacksmith_repair_tools">Repair &font_cyan;Tools&font_end;</string>
 
+    <string name="settings_leaderboards_wip">Leaderboards (Beta)</string>
+
 </resources>
