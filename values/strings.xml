@@ -3592,5 +3592,10 @@
     <string name="button_blacksmith_repair_tools">Repair &font_cyan;Tools&font_end;</string>
 
     <string name="settings_leaderboards_wip">Leaderboards (Beta)</string>
+    <string name="button_quit">Quit</string>
+    <string name="quit_quest_title">Quit Quest</string>
+    <string name="quit_quest_message">Do you want to quit \'%s\'?&br;&br;</string>
+    <string name="quit_quest_confirmation_message">Are yous sure you want to quit \'%s\'?&br;&br;You won\'t be able to undo this action…</string>
+    <string name="quest_quit">You quit \'%s\'…</string>
 
 </resources>
