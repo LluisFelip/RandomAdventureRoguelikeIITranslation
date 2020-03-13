@@ -3597,5 +3597,6 @@
     <string name="quit_quest_message">Do you want to quit \'%s\'?&br;&br;</string>
     <string name="quit_quest_confirmation_message">Are yous sure you want to quit \'%s\'?&br;&br;You won\'t be able to undo this action…</string>
     <string name="quest_quit">You quit \'%s\'…</string>
+    <string name="tool_doesnt_need_to_be_repaired">This tool doesn\'t need to be repaired!</string>
 
 </resources>
