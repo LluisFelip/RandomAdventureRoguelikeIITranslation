@@ -3605,5 +3605,12 @@
 
     <string name="content_description_arrow_to_unfold">Arrow to unfold this</string>
     <string name="settings_show_hero_icon">Show Hero Icon</string>
+    <string name="pets_combat_is_dead">%s can\'t attack because it\'s dead!</string>
+    <string name="pets_combat_died">%s died!</string>
+    <string name="pets_combat_received_damage">Your %1$s received &font_red;%2$d &font_end;damage!</string>
+    <string name="combat_heal_message">Cast to yourself or to %s?</string>
+    <string name="button_you">Me</string>
+
+    <string name="pets_combat_health_restored">%1$s restored &font_health;%2$d &font_end;health!</string>
 
 </resources>
