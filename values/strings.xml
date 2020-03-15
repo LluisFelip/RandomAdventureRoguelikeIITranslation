@@ -3603,4 +3603,7 @@
 
     <string name="merchant_quest_quit_description">&font_gold;%1$s&font_end; at &font_cyan;%2$d&font_end;, &font_cyan;%3$d &font_end;has asked you to bring &font_cyan;%4$d &font_end;%5$s.</string>
 
+    <string name="content_description_arrow_to_unfold">Arrow to unfold this</string>
+    <string name="settings_show_hero_icon">Show Hero Icon</string>
+
 </resources>
