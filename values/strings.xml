@@ -3613,4 +3613,18 @@
 
     <string name="pets_combat_health_restored">%1$s restored &font_health;%2$d &font_end;health!</string>
 
+    <string name="spell_revive_pet_name">&font_health;Revive &font_end;&font_pet;Pet&font_end;</string>
+    <string name="spell_revive_pet_desc">Cast this to &font_health;revive &font_end;your &font_pet;pet&font_end;.</string>
+    <string name="spell_revive_pet_desc_combat_success">You &font_health;revive &font_end;your &font_pet;pet&font_end;!</string>
+
+    <string name="pets_combat_revived">You revived %s!</string>
+    <string name="item_info_potion_pet_heal">Give this to your &font_pet;pet &font_end;to heal it &font_health;%1$s&font_end;%%.</string>
+    <string name="your_pet_quaffs_potion">%1$s quaffs %2$s!</string>
+
+    <string name="tile_content_type_heal_pet_potion">&font_health;Heal &font_end;&font_pet;Pet &font_end;Potion</string>
+    <string name="tile_content_type_mana_pet_potion">&font_mana;Mana &font_end;&font_pet;Pet &font_end;Potion</string>
+
+    <string name="item_name_heal_pet_potion">&font_health;Heal &font_end;&font_pet;Pet &font_end;Potion (&font_health;%1$d&font_end;%%)</string>
+    <string name="item_name_mana_pet_potion">&font_mana;Mana &font_end;&font_pet;Pet &font_end;Potion (&font_health;%1$d&font_end;%%)</string>
+
 </resources>
