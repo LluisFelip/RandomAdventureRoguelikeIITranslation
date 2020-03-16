@@ -12,7 +12,7 @@
     <!ENTITY font_black_low "&lt;font color=&quot;#777777&quot;&gt;">
     <!ENTITY font_asterisk_level "&lt;font color=&quot;#8BC34A&quot;&gt;">
     <!ENTITY font_asterisk_main_story "&lt;font color=&quot;#F44336&quot;&gt;">
-    <!ENTITY font_asterisk_void_master "&lt;font color=&quot;#2196F3&quot;&gt;">
+    <!ENTITY font_asterisk_void_master "&lt;font color=&quot;#C500FF&quot;&gt;">
     <!ENTITY font_asterisk_creator "&lt;font color=&quot;#FFEB3B&quot;&gt;">
     <!ENTITY font_scale "&lt;font color=&quot;#02BD00&quot;&gt;">
     <!ENTITY font_attack "&lt;font color=&quot;#FF1A1A&quot;&gt;">
@@ -3574,7 +3574,7 @@
     <string name="skill_dungeoneer_success">You sense there\'s a %s!</string>
     <string name="skill_dungeoneer_no_dungeon_detected">You don\'t detect any &font_stone;Dungeon&font_end;…</string>
     <string name="material_pure_essence">&font_purifying;Pure Essence&font_end;</string>
-    <string name="completely_purified_island">You completely &font_purifying;* Purified * &font_end;the island and obtained a &font_purifying;Pure Essence&font_end;!</string>
+    <string name="completely_purified_island">The island is now completely &font_purifying;* Purified * &font_end;and you obtained &font_purifying;Pure Essence&font_end;!</string>
     <string name="purifying_tree_text_completely_purified_label">{ &font_purifying;* Purified *&font_end;}</string>
     <string name="tile_type_water">Water</string>
     <string name="settings_show_squares_map">Show squares in map</string>
@@ -3647,5 +3647,8 @@
 
     <string name="broken_dark_gate_message_not_repairable">The &font_void;Dark &font_end;&font_stone;Gate &font_end;is broken… maybe it could be repaired if having enough &font_void;Dark &font_end;&font_stone;Stone&font_end;…</string>
     <string name="broken_dark_gate_message_repairable">The &font_void;Dark &font_end;&font_stone;Gate &font_end;is broken… it seems you have enough &font_void;Dark &font_end;&font_stone;Stone &font_end;to repair it!&br;&br;Repair &font_void;Dark &font_end;&font_stone;Gate &font_end;with %d &font_void;Dark &font_end;&font_stone;Stones&font_end;?</string>
+    <string name="purifying_tree_message_with_monsters">A pure and shiny %1$s is here.&br;&br;You look at its bright purple leaves, but can count %2$d red leaves…</string>
+    <string name="purifying_tree_message_no_monsters_no_completely_purified">A pure and shiny %1$s is here.&br;&br;You look at its bright purple leaves, and there are no more red leaves…&br;&br;There is something here for you…</string>
+    <string name="purifying_tree_message_no_monsters_completely_purified">A pure and shiny %1$s is here.&br;&br;You look at its bright purple leaves and feel how your &font_health;health &font_end;and &font_mana;mana &font_end;are completely restored…</string>
 
 </resources>

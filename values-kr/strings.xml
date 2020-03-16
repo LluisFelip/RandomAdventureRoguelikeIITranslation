@@ -12,7 +12,7 @@
     <!ENTITY font_black_low "&lt;font color=&quot;#777777&quot;&gt;">
     <!ENTITY font_asterisk_level "&lt;font color=&quot;#8BC34A&quot;&gt;">
     <!ENTITY font_asterisk_main_story "&lt;font color=&quot;#F44336&quot;&gt;">
-    <!ENTITY font_asterisk_void_master "&lt;font color=&quot;#2196F3&quot;&gt;">
+    <!ENTITY font_asterisk_void_master "&lt;font color=&quot;#C500FF&quot;&gt;">
     <!ENTITY font_asterisk_creator "&lt;font color=&quot;#FFEB3B&quot;&gt;">
     <!ENTITY font_scale "&lt;font color=&quot;#02BD00&quot;&gt;">
     <!ENTITY font_attack "&lt;font color=&quot;#FF1A1A&quot;&gt;">
