@@ -3620,18 +3620,24 @@
 
     <string name="pets_combat_revived">You revived %s!</string>
     <string name="item_info_potion_pet_heal">Give this to your &font_pet;pet &font_end;to heal it &font_health;%1$s&font_end;%%.</string>
+    <string name="item_info_potion_pet_revive">Give this to your &font_pet;pet &font_end;to &font_health;revive &font_end;and &font_health;heal &font_end;it a &font_health;%1$s&font_end;%%.</string>
     <string name="your_pet_quaffs_potion">%1$s quaffs %2$s!</string>
 
     <string name="tile_content_type_heal_pet_potion">&font_health;Heal &font_end;&font_pet;Pet &font_end;Potion</string>
     <string name="tile_content_type_mana_pet_potion">&font_mana;Mana &font_end;&font_pet;Pet &font_end;Potion</string>
+    <string name="tile_content_type_revive_pet_potion">&font_health;Revive &font_end;&font_pet;Pet &font_end;Potion</string>
 
     <string name="item_name_heal_pet_potion">&font_health;Heal &font_end;&font_pet;Pet &font_end;Potion (&font_health;%1$d&font_end;%%)</string>
     <string name="item_name_mana_pet_potion">&font_mana;Mana &font_end;&font_pet;Pet &font_end;Potion (&font_health;%1$d&font_end;%%)</string>
+    <string name="item_name_revive_pet_potion">&font_health;Revive &font_end;&font_pet;Pet &font_end;Potion (&font_health;%1$d&font_end;%%)</string>
 
     <string name="tile_content_type_pet_shop">&font_pet;Pet &font_end;&font_gold;Shop&font_end;</string>
     <string name="pet_item_name">&font_pet;Pet &font_end; (%1$s)</string>
     <string name="item_info_pet_item">Buy this to add this &font_pet;Pet &font_end;as a companion in your adventures!</string>
 
     <string name="pets_couldn_pick_up">You can\'t take %s with you, not enough space for &font_pet;pets&font_end;!</string>
+    <string name="pets_already_healthy">Your %1$s is already &font_health;healthy&font_end;!</string>
+    <string name="pets_already_healthy_mana">The &font_mana;mana &font_end;of your %1$s is already full!</string>
+    <string name="pets_already_alive">Your %1$s is already alive!</string>
 
 </resources>
