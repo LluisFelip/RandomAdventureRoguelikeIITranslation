@@ -3566,6 +3566,7 @@
     <string name="increased_base_intelligence_to">Increased base &font_mana;Intelligence &font_end;to &font_mana;%1$d&font_end;.</string>
 
 
+    <!-- FIXME: Update Strings -->
     <string name="skill_dungeoneer">&font_stone;Dungeoneer&font_end;</string>
     <string name="skill_dungeoneer_description">Discovers the type of &font_stone;Dungeon &font_end;in an island if there is one.</string>
     <string name="skill_dungeoneer_action">Sense &font_stone;Dungeon&font_end;</string>
@@ -3626,5 +3627,10 @@
 
     <string name="item_name_heal_pet_potion">&font_health;Heal &font_end;&font_pet;Pet &font_end;Potion (&font_health;%1$d&font_end;%%)</string>
     <string name="item_name_mana_pet_potion">&font_mana;Mana &font_end;&font_pet;Pet &font_end;Potion (&font_health;%1$d&font_end;%%)</string>
+
+    <string name="tile_content_type_pet_shop">&font_pet;Pet &font_end;&font_gold;Shop&font_end;</string>
+    <string name="pet_item_name">&font_pet;Pet &font_end; (%1$s)</string>
+    <string name="tile_content_type_pet">&font_pet;Pet&font_end;</string>
+    <string name="item_info_pet_item">Buy this to add this &font_pet;Pet &font_end;as a companion in your adventures!</string>
 
 </resources>
