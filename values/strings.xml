@@ -3641,5 +3641,11 @@
     <string name="pets_already_alive">Your %1$s is already alive!</string>
 
     <string name="tile_content_type_dark_stone">&font_void;Dark &font_end;&font_stone;Stone&font_end;</string>
+    <string name="tile_content_type_broken_dark_gate">Broken &font_void;Dark &font_end;&font_stone;Gate&font_end;</string>
+    <string name="repairing">Repairing %s</string>
+    <string name="repaired">Repaired %s!</string>
+
+    <string name="broken_dark_gate_message_not_repairable">The &font_void;Dark &font_end;&font_stone;Gate &font_end;is broken… maybe it could be repaired if having enough &font_void;Dark &font_end;&font_stone;Stone&font_end;…</string>
+    <string name="broken_dark_gate_message_repairable">The &font_void;Dark &font_end;&font_stone;Gate &font_end;is broken… it seems you have enough &font_void;Dark &font_end;&font_stone;Stone &font_end;to repair it!&br;&br;Repair &font_void;Dark &font_end;&font_stone;Gate &font_end;with %d &font_void;Dark &font_end;&font_stone;Stones&font_end;?</string>
 
 </resources>
