@@ -3565,8 +3565,6 @@
     <string name="increased_base_speed_to">Increased base &font_speed;Speed &font_end;to &font_speed;%1$d&font_end;.</string>
     <string name="increased_base_intelligence_to">Increased base &font_mana;Intelligence &font_end;to &font_mana;%1$d&font_end;.</string>
 
-
-    <!-- FIXME: Update Strings -->
     <string name="skill_dungeoneer">&font_stone;Dungeoneer&font_end;</string>
     <string name="skill_dungeoneer_description">Discovers the type of &font_stone;Dungeon &font_end;in an island if there is one.</string>
     <string name="skill_dungeoneer_action">Sense &font_stone;Dungeon&font_end;</string>
@@ -3658,5 +3656,6 @@
     <string name="purifying_tree_message_no_monsters_completely_purified">A pure and shiny %1$s is here.&br;&br;You look at its bright purple leaves and feel how your &font_health;health &font_end;and &font_mana;mana &font_end;are completely restored…</string>
 
     <string name="item_info_experience_pet_potion">Give this to your &font_pet;pet &font_end;to make it gain %1$s &font_cyan;experience &font_end;instantly.</string>
+    <string name="button_oh_no">Oh no…</string>
 
 </resources>
