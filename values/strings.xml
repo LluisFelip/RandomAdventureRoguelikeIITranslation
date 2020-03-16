@@ -3630,7 +3630,8 @@
 
     <string name="tile_content_type_pet_shop">&font_pet;Pet &font_end;&font_gold;Shop&font_end;</string>
     <string name="pet_item_name">&font_pet;Pet &font_end; (%1$s)</string>
-    <string name="tile_content_type_pet">&font_pet;Pet&font_end;</string>
     <string name="item_info_pet_item">Buy this to add this &font_pet;Pet &font_end;as a companion in your adventures!</string>
+
+    <string name="pets_couldn_pick_up">You can\'t take %s with you, not enough space for &font_pet;pets&font_end;!</string>
 
 </resources>
