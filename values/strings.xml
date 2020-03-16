@@ -3622,6 +3622,9 @@
     <string name="item_info_potion_pet_heal">Give this to your &font_pet;pet &font_end;to heal it &font_health;%1$s&font_end;%%.</string>
     <string name="item_info_potion_pet_revive">Give this to your &font_pet;pet &font_end;to &font_health;revive &font_end;and &font_health;heal &font_end;it a &font_health;%1$s&font_end;%%.</string>
     <string name="your_pet_quaffs_potion">%1$s quaffs %2$s!</string>
+    <string name="your_pet_quaffs_potion_revived">%1$s revived with &font_health;%2$d &font_end;health points!</string>
+    <string name="your_pet_quaffs_potion_healed">%1$s healed &font_health;%2$d &font_end;health points!</string>
+    <string name="your_pet_quaffs_potion_restored">%1$s restored &font_mana;%2$d &font_end;mana points!</string>
 
     <string name="tile_content_type_heal_pet_potion">&font_health;Heal &font_end;&font_pet;Pet &font_end;Potion</string>
     <string name="tile_content_type_mana_pet_potion">&font_mana;Mana &font_end;&font_pet;Pet &font_end;Potion</string>
