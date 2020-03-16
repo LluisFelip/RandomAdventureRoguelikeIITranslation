@@ -3640,4 +3640,6 @@
     <string name="pets_already_healthy_mana">The &font_mana;mana &font_end;of your %1$s is already full!</string>
     <string name="pets_already_alive">Your %1$s is already alive!</string>
 
+    <string name="tile_content_type_dark_stone">&font_void;Dark &font_end;&font_stone;Stone&font_end;</string>
+
 </resources>
