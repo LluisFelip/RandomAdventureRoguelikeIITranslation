@@ -3663,5 +3663,7 @@
     <string name="status_sound_and_vibration">&font_cyan;Sound / Vibration&font_end;</string>
     <string name="status_game_ui_title">&font_cyan;Game UI&font_end;</string>
     <string name="status_various_title">&font_cyan;Various&font_end;</string>
+    <string name="settings_music_volume">Music Volume</string>
+    <string name="settings_sound_volume">Sound Volume</string>
 
 </resources>
