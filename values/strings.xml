@@ -3242,9 +3242,9 @@
     <string name="skill_crossbow_mastery">&font_speed;Crossbow &font_end;Mastery</string>
     <string name="skill_slingshot_mastery">&font_speed;Slingshot &font_end;Mastery</string>
 
-    <string name="skill_bow_mastery_desc">As it levels up, slightly increases the damage of shooting with a &font_speed;Bow&font_end;.</string>
-    <string name="skill_crossbow_mastery_desc">As it levels up, slightly increases the damage of shooting with a &font_speed;Crossbow&font_end;.</string>
-    <string name="skill_slingshot_mastery_desc">As it levels up, slightly increases the damage of shooting with a &font_speed;Slingshot&font_end;.</string>
+    <string name="skill_bow_mastery_desc">As it levels up, slightly increases the damage of shooting with a &font_speed;Bow &font_end;and the probability of recovering the &font_wood;Arrows &font_end;used.</string>
+    <string name="skill_crossbow_mastery_desc">As it levels up, slightly increases the damage of shooting with a &font_speed;Crossbow&font_end;and the probability of recovering the &font_wood;Bolt &font_end;used.</string>
+    <string name="skill_slingshot_mastery_desc">As it levels up, slightly increases the damage of shooting with a &font_speed;Slingshot&font_end;and the probability of recovering the &font_stone;Stone &font_end;used.</string>
 
     <string name="combat_shortcut_empty">(empty)</string>
     <string name="combat_shortcut_skill">Skill</string>
@@ -3659,8 +3659,6 @@
     <string name="button_oh_no">Oh no…</string>
 
 
-
-
     <!--FIXME: Update strings -->
 
     <string name="status_sound_and_vibration">&font_cyan;Sound / Vibration&font_end;</string>
@@ -3670,5 +3668,7 @@
     <string name="settings_sound_volume">Sound Volume</string>
 
     <string name="tile_content_type_purifying_seed_planted">&font_purifying;Purifying&font_end; &font_plant;Seed &font_end;(&font_green;Planted&font_end;)</string>
+
+    <string name="dropped_ammo_toast">Some of the &font_wood;ammo &font_end;used was saved!</string>
 
 </resources>
