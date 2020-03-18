@@ -3658,6 +3658,9 @@
     <string name="item_info_experience_pet_potion">Give this to your &font_pet;pet &font_end;to make it gain %1$s &font_cyan;experience &font_end;instantly.</string>
     <string name="button_oh_no">Oh no…</string>
 
+
+
+
     <!--FIXME: Update strings -->
 
     <string name="status_sound_and_vibration">&font_cyan;Sound / Vibration&font_end;</string>
@@ -3665,5 +3668,7 @@
     <string name="status_various_title">&font_cyan;Various&font_end;</string>
     <string name="settings_music_volume">Music Volume</string>
     <string name="settings_sound_volume">Sound Volume</string>
+
+    <string name="tile_content_type_purifying_seed_planted">&font_purifying;Purifying&font_end; &font_plant;Seed &font_end;(&font_green;Planted&font_end;)</string>
 
 </resources>
