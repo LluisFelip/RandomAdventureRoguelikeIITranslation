@@ -3671,4 +3671,6 @@
 
     <string name="dropped_ammo_toast">Some of the &font_wood;ammo &font_end;used was saved!</string>
 
+    <string name="craft_not_enough_inventory_space">You don\'t have enough space in your inventory…</string>
+
 </resources>
