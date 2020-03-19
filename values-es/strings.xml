@@ -3081,7 +3081,7 @@
     <string name="tile_content_type_nautical_chart_treasure_island">Carta Náutica (&font_cyan;Isla &font_end;del &font_gold;Tesoro&font_end;)</string>
 
     <string name="craft_various_title">Fabricar Varios</string>
-    <string name="craft_various_message">¿Qué cantidad quieres fabricar?&br;&br;(Puedes fabricar hasta &font_cyan;%1$d&font_end;. El máximo permitido para fabricar de golpe es &font_cyan;%2$d&font_end;)</string>
+    <string name="craft_various_message_not_stackable">¿Qué cantidad quieres fabricar?&br;&br;(Puedes fabricar hasta &font_cyan;%1$d&font_end;, el máximo permitido para fabricar de golpe es &font_cyan;%2$d&font_end;, y tienes espacio en tu inventario para &font_cyan;%3$d &font_end;objetos más, así que el máximo que puedes fabricar es: &font_cyan;%4$d&font_end;)</string>
     <string name="crafted_amount">¡Has fabricado &font_cyan;%1$d&font_end;!</string>
 
     <string name="settings_navigation_buttons_position">Posición Botones Navegación</string>

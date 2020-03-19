@@ -3131,7 +3131,7 @@
     <string name="tile_content_type_nautical_chart_treasure_island">Nautical Chart (&font_gold;Treasure &font_end;&font_cyan;Island&font_end;)</string>
     <string name="craft_various">Craft Various (&font_cyan;%1$d&font_end;)</string>
     <string name="craft_various_title">Craft Various</string>
-    <string name="craft_various_message">What amount do you want to craft?&br;&br;(You have enough materials to craft &font_cyan;%1$d&font_end;. The maximum amount allowed to craft is &font_cyan;%2$d&font_end;)</string>
+    <string name="craft_various_message_not_stackable">What amount do you want to craft?&br;&br;(You have enough materials to craft &font_cyan;%1$d&font_end;, the maximum amount allowed to craft is &font_cyan;%2$d&font_end;, and you have enough space in your inventory to craft &font_cyan;%3$d&font_end;, so, the maximum you can craft is: &font_cyan;%4$d&font_end;)</string>
     <string name="crafted_amount">Crafted &font_cyan;%1$d&font_end;!</string>
 
     <string name="settings_navigation_buttons_position">Navigation Buttons Position</string>
