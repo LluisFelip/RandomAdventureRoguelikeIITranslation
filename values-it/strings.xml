@@ -1341,7 +1341,7 @@
     <string name="quest_rescue_someone_text_villager_give_rescue_someone">Leave %1$s with %2$s.</string>
 
     <string name="item_temporary_potion_mule">&font_wood;Mule&font_end; Potion</string>
-    <string name="item_temporary_potion_mule_info">Drink this to temporarily increase your capacity of carrying items by %1$s.</string>
+    <string name="item_temporary_potion_mule_info">Drink this to temporarily increase your capacity of carrying items.</string>
     <string name="item_temporary_potion_mule_quaff">Temporarily increased inventory capacity to &font_wood;%1$d&font_end;</string>
     <string name="item_temporary_potion_mule_remove">The effects of the &font_wood;Mule &font_end;Potion wear off…</string>
     <string name="item_temporary_potion_coward">&font_glass;Coward &font_end;Potion</string>

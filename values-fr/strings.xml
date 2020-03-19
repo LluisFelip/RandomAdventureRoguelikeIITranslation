@@ -1244,7 +1244,7 @@
     <string name="quest_rescue_someone_text_villager_give_rescue_someone">Laisser %1$s avec %2$s.</string>
 
     <string name="item_temporary_potion_mule">Potion de la &font_wood;Mule&font_end; </string>
-    <string name="item_temporary_potion_mule_info">Bois ça pour augmenter temporairement ta capacité à porter des objets à %1$s de plus.</string>
+    <string name="item_temporary_potion_mule_info">Bois ça pour augmenter temporairement ta capacité à porter des objets.</string>
     <string name="item_temporary_potion_mule_quaff">Inventaire temporairement augmenté de &font_wood;%1$d&font_end;</string>
     <string name="item_temporary_potion_mule_remove">Les effets de la Potion de la &font_wood;Mule &font_end;se dissipe…</string>
     <string name="item_temporary_potion_coward">Potion du &font_glass;Fuyard&font_end;</string>

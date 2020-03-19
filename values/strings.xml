@@ -1346,7 +1346,7 @@
     <string name="quest_rescue_someone_text_villager_give_rescue_someone">Leave %1$s with %2$s.</string>
 
     <string name="item_temporary_potion_mule">&font_wood;Mule&font_end; Potion</string>
-    <string name="item_temporary_potion_mule_info">Drink this to temporarily increase your capacity of carrying items by %1$s.</string>
+    <string name="item_temporary_potion_mule_info">Drink this to temporarily increase your capacity of carrying items.</string>
     <string name="item_temporary_potion_mule_quaff">Temporarily increased inventory capacity to &font_wood;%1$d&font_end;</string>
     <string name="item_temporary_potion_mule_remove">The effects of the &font_wood;Mule &font_end;Potion wear off…</string>
     <string name="item_temporary_potion_coward">&font_glass;Coward &font_end;Potion</string>
@@ -3672,5 +3672,16 @@
 
     <string name="craft_various_message_stackable">What amount do you want to craft?&br;&br;(You have enough materials to craft &font_cyan;%1$d&font_end;)</string>
     <string name="craft_various_message_stackable_higher_than_the_max">What amount do you want to craft?&br;&br;(You have enough materials to craft &font_cyan;%1$d&font_end;, but the maximum amount allowed to craft is &font_cyan;%2$d&font_end;)</string>
+
+
+    <!-- TODO: Update strings -->
+    <string name="arrow_item_info">The &font_wood;ammo &font_end;used to shoot a &font_wood;Bow&font_end;.</string>
+    <string name="bolt_item_info">The &font_wood;ammo &font_end;used to shoot a &font_wood;Crossbow&font_end;.</string>
+    <string name="stone_item_info">A material used to &font_cyan;Craft &font_end;other items. It also is the &font_wood;ammo &font_end;used to shoot with a &font_wood;Slingshot&font_end;.</string>
+    <string name="cartographer_stone_info">Allows to mark or add information to your islands from the island list.</string>
+    <string name="wooden_sign_info">Use this to create a &font_wood;Wooden Sign &font_end;anywhere and write some text on it. It will be shown in the map as an &font_wood;X&font_end;.</string>
+
+    <string name="button_blacksmith_ask_about_material_tiers">Ask about &font_wood;material &font_end;&font_cyan;tiers&font_end;</string>
+    <string name="blacksmith_material_tiers_message">Oh, you want to know about the material tiers? That\'s easy, but listen carefully. This is the order:&br;&br;&font_wood;Wood &font_end;-> &font_leather;Leather &font_end;-> &font_copper;Copper &font_end;-> &font_tin;Tin &font_end;-> &font_iron;Iron &font_end;-> &font_bronze;Bronze &font_end;-> &font_silver;Silver &font_end;-> &font_gold;Gold &font_end;-> &font_diamond;Diamond &font_end;-> &font_obsidian;Obsidian &font_end;&br;&br;There are a some other very rare materials but I don\'t think you will ever be able to find them…</string>
 
 </resources>

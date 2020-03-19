@@ -1268,7 +1268,7 @@
     <string name="quest_rescue_someone_text_villager_give_rescue_someone">Dejar %1$s con %2$s.</string>
 
     <string name="item_temporary_potion_mule">Poción de &font_wood;Mula&font_end;</string>
-    <string name="item_temporary_potion_mule_info">Bebe esto para incrementar temporalmente tu capacidad de carga en %1$s puntos.</string>
+    <string name="item_temporary_potion_mule_info">Bebe esto para incrementar temporalmente el tamaño de tu inventario.</string>
     <string name="item_temporary_potion_mule_quaff">Incrementada temporalmente la capacidad del inventario a &font_wood;%1$d&font_end;</string>
     <string name="item_temporary_potion_mule_remove">Los efectos de la Poción de &font_wood;Mula &font_end;desaparecen…</string>
     <string name="item_temporary_potion_coward">Poción de &font_glass;Cobarde&font_end;</string>
