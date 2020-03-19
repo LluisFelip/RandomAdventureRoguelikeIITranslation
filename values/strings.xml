@@ -3682,6 +3682,6 @@
     <string name="wooden_sign_info">Use this to create a &font_wood;Wooden Sign &font_end;anywhere and write some text on it. It will be shown in the map as an &font_wood;X&font_end;.</string>
 
     <string name="button_blacksmith_ask_about_material_tiers">Ask about &font_wood;material &font_end;&font_cyan;tiers&font_end;</string>
-    <string name="blacksmith_material_tiers_message">Oh, you want to know about the material tiers? That\'s easy, but listen carefully. This is the order:&br;&br;&font_wood;Wood &font_end;-> &font_leather;Leather &font_end;-> &font_copper;Copper &font_end;-> &font_tin;Tin &font_end;-> &font_iron;Iron &font_end;-> &font_bronze;Bronze &font_end;-> &font_silver;Silver &font_end;-> &font_gold;Gold &font_end;-> &font_diamond;Diamond &font_end;-> &font_obsidian;Obsidian &font_end;&br;&br;There are a some other very rare materials but I don\'t think you will ever be able to find them…</string>
+    <string name="blacksmith_material_tiers_message">Oh, you want to know about the material tiers? This is the order:&br;&br;&font_wood;Wood &font_end;-> &font_leather;Leather &font_end;-> &font_copper;Copper &font_end;-> &font_tin;Tin &font_end;-> &font_iron;Iron &font_end;-> &font_bronze;Bronze &font_end;-> &font_silver;Silver &font_end;-> &font_gold;Gold &font_end;-> &font_diamond;Diamond &font_end;-> &font_obsidian;Obsidian &font_end;&br;&br;There are a some other very rare materials but I don\'t think you will ever be able to find them…</string>
 
 </resources>
