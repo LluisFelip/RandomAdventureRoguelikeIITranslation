@@ -3616,4 +3616,20 @@
 
     <string name="item_info_experience_pet_potion">Give this to your &font_pet;pet &font_end;to make it gain %1$s &font_cyan;experience &font_end;instantly.</string>
     <string name="button_oh_no">Oh no…</string>
+
+    <string name="status_sound_and_vibration">&font_cyan;Sound / Vibration&font_end;</string>
+    <string name="status_game_ui_title">&font_cyan;Game UI&font_end;</string>
+    <string name="status_various_title">&font_cyan;Various&font_end;</string>
+    <string name="settings_music_volume">Music Volume</string>
+    <string name="settings_sound_volume">Sound Volume</string>
+
+    <string name="tile_content_type_purifying_seed_planted">&font_purifying;Purifying&font_end; &font_plant;Seed &font_end;(&font_green;Planted&font_end;)</string>
+
+    <string name="dropped_ammo_toast">Some of the &font_wood;ammo &font_end;is able to be retrieved!</string>
+
+    <string name="craft_not_enough_inventory_space">You don\'t have enough space in your inventory…</string>
+
+    <string name="craft_various_message_stackable">What amount do you want to craft?&br;&br;(You have enough materials to craft &font_cyan;%1$d&font_end;)</string>
+    <string name="craft_various_message_stackable_higher_than_the_max">What amount do you want to craft?&br;&br;(You have enough materials to craft &font_cyan;%1$d&font_end;, but the maximum amount allowed to craft is &font_cyan;%2$d&font_end;)</string>
+
 </resources>
