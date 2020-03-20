@@ -577,8 +577,8 @@
     <string name="item_info_recipe">Read this to learn how to &font_cyan;craft &font_end;%1$s.</string>
     <string name="item_info_firecamp">Start this %1$s to be able to &font_green;cook&font_end;.</string>
     <string name="item_info_food">Eat this to reduce your hunger by &font_green;%1$d&font_end;.</string>
-    <string name="item_info_potion">Quaff this to restore %1$s health.</string>
-    <string name="item_info_mana_potion">Quaff this to restore %1$s mana.</string>
+    <string name="item_info_potion">Quaff this to restore %1$s &font_health;health&font_end;.</string>
+    <string name="item_info_mana_potion">Quaff this to restore %1$s &font_mana;mana&font_end;.</string>
     <string name="item_info_experience_potion">Quaff this to gain %1$s &font_cyan;experience &font_end;instantly.</string>
     <string name="item_info_material">A material used to &font_cyan;Craft &font_end;other items.</string>
     <string name="item_info_merchants_mark">This special symbol may be valuable for something or someone…</string>
@@ -3675,6 +3675,15 @@
 
 
     <!-- TODO: Update strings -->
+    <string name="item_info_potion_pet_heal_recipe_info">Give this to your &font_pet;pet &font_end;to &font_health;heal &font_end;it.</string>
+    <string name="item_info_potion_pet_mana">Give this to your &font_pet;pet &font_end;to restore its &font_mana;mana &font_end;by a &font_mana;%1$s&font_end;%%.</string>
+    <string name="item_info_potion_pet_mana_recipe_info">Give this to your &font_pet;pet &font_end;to restore its &font_mana;mana&font_end;.</string>
+    <string name="item_info_experience_pet_potion_recipe_info">Give this to your &font_pet;pet &font_end;to make it gain &font_cyan;experience &font_end;instantly.</string>
+    <string name="item_info_heal_potion_recipe_info">Quaff this to restore your &font_health;health&font_end;.</string>
+    <string name="item_info_mana_potion_recipe_info">Quaff this to restore your &font_mana;mana&font_end;.</string>
+    <string name="item_info_experience_potion_recipe_info">Quaff this to gain &font_cyan;experience &font_end;instantly.</string>
+    <string name="item_info_potion_pet_revive_recipe_info_recipe_info">Give this to your &font_pet;pet &font_end;to &font_health;revive &font_end;and &font_health;heal &font_end;it.</string>
+
     <string name="arrow_item_info">The &font_wood;ammo &font_end;used to shoot a &font_wood;Bow&font_end;.</string>
     <string name="bolt_item_info">The &font_wood;ammo &font_end;used to shoot a &font_wood;Crossbow&font_end;.</string>
     <string name="stone_item_info">A material used to &font_cyan;Craft &font_end;other items. It also is the &font_wood;ammo &font_end;used to shoot with a &font_wood;Slingshot&font_end;.</string>
