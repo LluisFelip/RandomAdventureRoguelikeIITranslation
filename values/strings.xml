@@ -3673,8 +3673,6 @@
     <string name="craft_various_message_stackable">What amount do you want to craft?&br;&br;(You have enough materials to craft &font_cyan;%1$d&font_end;)</string>
     <string name="craft_various_message_stackable_higher_than_the_max">What amount do you want to craft?&br;&br;(You have enough materials to craft &font_cyan;%1$d&font_end;, but the maximum amount allowed to craft is &font_cyan;%2$d&font_end;)</string>
 
-
-    <!-- TODO: Update strings -->
     <string name="item_info_potion_pet_heal_recipe_info">Give this to your &font_pet;pet &font_end;to &font_health;heal &font_end;it.</string>
     <string name="item_info_potion_pet_mana">Give this to your &font_pet;pet &font_end;to restore its &font_mana;mana &font_end;by a &font_mana;%1$s&font_end;%%.</string>
     <string name="item_info_potion_pet_mana_recipe_info">Give this to your &font_pet;pet &font_end;to restore its &font_mana;mana&font_end;.</string>

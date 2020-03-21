@@ -185,7 +185,6 @@
     <string name="collection_icon">Ikony leksykonu</string>
     <string name="collection_merchants_mark">Znaki handlarskie</string>
     <string name="collection_insects">Robaki</string>
-    <string name="collection_villagers">Osadnicy</string>
     <string name="collection_animals">Zwierzęta</string>
 
     <string name="about_reddit">RAR II na Reddicie</string>
@@ -241,7 +240,6 @@
     <string name="cemetery_remove_player">Usunąć tego gracza?</string>
     <string name="cemetery_permadeath">(&font_red;D&font_end;)</string>
     <string name="cemetery_no_permadeath">(&font_green;B&font_end;)</string>
-    <string name="cemetery_died_at">Zmarły na &font_cyan;%1$d&font_end;, &font_cyan;%2$d &font_end;w &font_cyan;%3$s&font_end;</string>
 
     <string name="button_permadeath">Definitywny</string>
     <string name="button_no_permadeath">Bezpieczny</string>
@@ -347,8 +345,7 @@
     <string name="button_scrap_per_gold">Zezłomuj: &font_gold;%1$d&font_end; złota</string>
     <string name="button_feedback">&font_cyan;Feedback&font_end;</string>
     <string name="button_blacksmith_upgrade_equipment">Ulepsz &font_green;\*&font_end;uzbrojenie</string>
-    <string name="button_blacksmith_scrap_equipment">&font_copper;Zezłomuj&font_end;
-        uzbrojenie</string>
+    <string name="button_blacksmith_scrap_equipment">&font_copper;Zezłomuj &font_end;uzbrojenie</string>
     <string name="button_blacksmith_craft_bars">Wykuj &font_gold;sztabki&font_end;</string>
     <string name="button_scrap">Zezłomuj</string>
 
@@ -366,11 +363,9 @@
     <string name="inventory_cooked_thing">Ugotowano %1$s!</string>
     <string name="inventory_pickup">Podniesiono %1$s!</string>
     <string name="inventory_damaged_by">Uderzony przez %1$s!</string>
-    <string name="inventory_equipped_wielded_symbol"><![CDATA[>]]></string>
     <string name="inventory_pickup_gold">Podniesiono &font_gold;%1$d&font_end; złota!</string>
     <string name="inventory_required_level_x">&italic;Wymagany poziom: &font_cyan;%1$d&font_end;&italic_end;</string>
     <string name="inventory_palm_tree_drop">Spadło %1$s z &font_coconut;palmy&font_end;!</string>
-    <string name="inventory_equipment_title">&font_wood;Uzbrojenie&font_end;</string>
     <string name="inventory_equipment_title_with_level">&font_wood;Uzbrojenie &font_end;[&font_wood;µ&font_end;: &font_cyan;%1$d&font_end;]</string>
     <string name="inventory_equipment_empty">(brak)</string>
     <string name="inventory_not_enough_space">Twój ekwipunek jest &font_red;pełny&font_end;!</string>
@@ -1425,7 +1420,6 @@
     <string name="action_hunter_action_description_negative">There are no &font_red;bosses &font_end;in the island…</string>
     <string name="action_treasure_hunter">&font_cyan;Hunt&font_end; &font_chest;Treasures&font_end;</string>
     <string name="action_treasure_hunter_treasure_hunter">Sense how many &font_chest;hidden items &font_end;are in the island.</string>
-    <string name="action_treasure_hunter_action_description">You &font_cyan;sense &font_end;how many &font_chest;hidden items &font_end;are in the island.</string>
     <string name="action_treasure_hunter_action_description_positive_singular">You sense &font_cyan;%1$d &font_end;&font_chest;hidden items&font_end;.</string>
     <string name="action_treasure_hunter_action_description_positive_plural">You sense &font_cyan;%1$d &font_end;&font_chest;hidden items&font_end;.</string>
     <string name="action_treasure_hunter_action_description_negative">There are no &font_chest;hidden items&font_end;…</string>
@@ -1700,7 +1694,6 @@
     <string name="tile_content_type_slave">Slave</string>
     <string name="tile_content_type_guard">Guard</string>
     <string name="tile_content_type_pet">&font_pet;Pet&font_end;</string>
-    <string name="tile_content_type_nautical_chart">Nautical Chart</string>
     <string name="tile_content_type_nautical_chart_black_island">Nautical Chart (&font_black_low;Black &font_end;&font_cyan;Island&font_end;)</string>
     <string name="tile_content_type_nautical_chart_white_island">Nautical Chart (&font_white;White &font_end;&font_cyan;Island&font_end;)</string>
     <string name="tile_content_type_spell_book">&font_mana;Spell&font_end; Book</string>
@@ -1715,7 +1708,6 @@
     <string name="tile_content_type_farm">Farm</string>
     <string name="tile_content_type_windmill">Windmill</string>
     <string name="tile_content_type_house">House</string>
-    <string name="tile_content_type_house_in_flames">House In Flames</string>
     <string name="tile_content_type_destroyed_house">Destroyed House</string>
     <string name="tile_content_type_abandoned_house">Abandoned House</string>
     <string name="tile_content_type_stone_bridge">Stone Bridge</string>
@@ -2981,8 +2973,6 @@
 
     <string name="button_sort_by_quantity">Sort (Quantity)</string>
 
-    <string name="number_between_parenthesis">(&font_cyan;%1$d&font_end;)</string>
-
     <string name="no_gender">None</string>
 
     <string name="shop_magic">&font_mana;Magic &font_end;&font_gold;Shop&font_end;</string>
@@ -3129,7 +3119,6 @@
     <string name="material_old_paper_piece">Old Paper Piece</string>
     <string name="item_info_old_paper_piece">It has some strange drawings on it…</string>
     <string name="tile_content_type_nautical_chart_treasure_island">Nautical Chart (&font_gold;Treasure &font_end;&font_cyan;Island&font_end;)</string>
-    <string name="craft_various">Craft Various (&font_cyan;%1$d&font_end;)</string>
     <string name="craft_various_title">Craft Various</string>
     <string name="craft_various_message_not_stackable">What amount do you want to craft?&br;&br;(You have enough materials to craft &font_cyan;%1$d&font_end;, the maximum amount allowed to craft is &font_cyan;%2$d&font_end;, and you have enough space in your inventory to craft &font_cyan;%3$d&font_end;, so, the maximum you can craft is: &font_cyan;%4$d&font_end;)</string>
     <string name="crafted_amount">Crafted &font_cyan;%1$d&font_end;!</string>
@@ -3312,7 +3301,6 @@
     <string name="gold_number" translatable="false">&font_gold;%1$d&font_end;</string>
 
     <string name="tile_content_type_dungeon">Dungeon</string>
-    <string name="dungeon_name">Dungeon</string>
     <string name="dungeon_title">%1$s - Floor &font_cyan;%2$d &font_end;(&font_cyan;%3$d&font_end;, &font_cyan;%4$d&font_end;)</string>
     <string name="dungeon_go_up">Go Up</string>
     <string name="dungeon_go_down">Go Down</string>
