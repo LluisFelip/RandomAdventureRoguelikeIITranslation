@@ -3717,9 +3717,6 @@
         &br;&br;Good luck with your new adventures,&br;%11$s!
     </string>
 
-
-    <!-- FIXME: Update strings.xml-->
-
     <string name="monster_action_break_reality">Break Reality</string>
     <string name="monster_action_discord_spam">Discord Spam</string>
 

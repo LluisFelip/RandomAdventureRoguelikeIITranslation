@@ -3710,4 +3710,30 @@
         &br;&br;Good luck with your new adventures,&br;%11$s!
     </string>
 
+    <string name="monster_action_break_reality">Break Reality</string>
+    <string name="monster_action_discord_spam">Discord Spam</string>
+
+    <string name="monster_action_translate_reality">Translate Reality</string>
+    <string name="monster_action_anime_transformation">Anime Transformation</string>
+
+    <string name="monster_action_sleep_deprivation">Sleep Deprivation</string>
+    <string name="monster_action_infinity_test">Infinity Test</string>
+
+    <string name="monster_action_infinity_donation">Infinity Donation</string>
+    <string name="monster_action_infinity_patreon">Infinity Patreon</string>
+
+    <string name="monster_action_island_spam">Island Spam</string>
+    <string name="monster_action_infinite_islands">Infinite Islands</string>
+
+    <string name="monster_action_infinity_email">Infinity Email</string>
+
+    <string name="monster_action_infinity_love">Infinity Love</string>
+    <string name="monster_action_infinity_patience">Infinity Patience</string>
+    <string name="monster_action_infinity_work">Infinity Work</string>
+
+    <string name="monster_action_discord_message">Discord Message</string>
+    <string name="monster_action_reddit_post">Reddit Post</string>
+    <string name="monster_action_song_composition">Song Composition</string>
+    <string name="monster_action_game_update">Game Update</string>
+
 </resources>
