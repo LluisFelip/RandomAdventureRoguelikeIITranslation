@@ -1120,23 +1120,7 @@
     I kick ass for the Lord!\n
     Have you seen Archison? I need to talk to him about getting off this stupid island.\n
     What is a man but a miserable pile of secrets?\n
-    Don\'t focus too much on the game or you\'ll take the wrong bus.\n
-    You\'re new to the underground, aren\'tcha?\n
-    1000101? Nice!\n
-    Yesterday I went down a mine, I met a monster, pretty nice, the poor guy told me that heroes often bully him to steal his maps and stuff…\n
-    The meek shall inherit the Earth, but not its mineral rights.\n
-    Love ain\'t blind, it has to be enlightening. Otherwise, it ain\'t love.\n
-    Top Secret,<br>Bottom Secret\n
-    You\'ve finally arrived, but our records don\'t show from where…\n
-    I need a life…\n
-    You interrupted me.\n
-    Tread lightly, lest you wake a dragon in slumber.\n
-    Purify an island? Ridiculous! As long as something exists in the island, it is impure, unnatural, whether it is the monsters or the people. The thing you call \'purification\' is designed to give you a false sense of security! Always be vigilant, especially in safety, where danger is least expected.\n
-    Forsooth, methinks you are no ordinary talking chicken!\n
-    How long can this go on,<br>how long can this go on…\n
-    There are old tales of an ancient world where people were forbidden to go out from their homes…\n
-    I bless the rains down in Africa\n
-    The answer, my friend, is blowin\' in the wind…
+    Don\'t focus too much on the game or you\'ll take the wrong bus.
     ]]>
     </string>
 
@@ -3708,5 +3692,7 @@
     <string name="blacksmith_material_tiers_message">Oh, you want to know about the material tiers? This is the order:&br;&br;&font_wood;Wood &font_end;-> &font_leather;Leather &font_end;-> &font_copper;Copper &font_end;-> &font_tin;Tin &font_end;-> &font_iron;Iron &font_end;-> &font_bronze;Bronze &font_end;-> &font_silver;Silver &font_end;-> &font_gold;Gold &font_end;-> &font_diamond;Diamond &font_end;-> &font_obsidian;Obsidian &font_end;&br;&br;There are a some other very rare materials but I don\'t think you will ever be able to find them…</string>
     <string name="button_sort_by_can_craft">Sort (can craft)</string>
     <string name="crafting_filter_can_craft">Can Craft</string>
+    <string name="ascending">Ascending</string>
+    <string name="button_continue">Continue</string>
 
 </resources>
