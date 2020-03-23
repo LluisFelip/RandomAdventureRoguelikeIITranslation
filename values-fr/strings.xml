@@ -10,7 +10,7 @@
     <!ENTITY font_cyan "&lt;font color=&quot;#00FFFF&quot;&gt;">
     <!ENTITY font_black "&lt;font color=&quot;#000000&quot;&gt;">
     <!ENTITY font_black_low "&lt;font color=&quot;#777777&quot;&gt;">
-    <!ENTITY font_asterisk_level "&lt;font color=&quot;#8BC34A&quot;&gt;">
+    <!ENTITY font_asterisk_level "&lt;font color=&quot;#00FFFF&quot;&gt;">
     <!ENTITY font_asterisk_main_story "&lt;font color=&quot;#F44336&quot;&gt;">
     <!ENTITY font_asterisk_void_master "&lt;font color=&quot;#C500FF&quot;&gt;">
     <!ENTITY font_asterisk_creator "&lt;font color=&quot;#FFEB3B&quot;&gt;">
@@ -3651,5 +3651,27 @@
     <string name="blacksmith_material_tiers_message">Oh, you want to know about the material tiers? This is the order:&br;&br;&font_wood;Wood &font_end;-> &font_leather;Leather &font_end;-> &font_copper;Copper &font_end;-> &font_tin;Tin &font_end;-> &font_iron;Iron &font_end;-> &font_bronze;Bronze &font_end;-> &font_silver;Silver &font_end;-> &font_gold;Gold &font_end;-> &font_diamond;Diamond &font_end;-> &font_obsidian;Obsidian &font_end;&br;&br;There are a some other very rare materials but I don\'t think you will ever be able to find them…</string>
     <string name="button_sort_by_can_craft">Sort (can craft)</string>
     <string name="crafting_filter_can_craft">Can Craft</string>
+
+    <string name="ascending">Ascending</string>
+    <string name="button_continue">Continue</string>
+    <string name="button_wake_up">Wake Up</string>
+    <string name="ascended">Ascended!</string>
+
+    <string name="ascended_text">
+        You forget everything but start to feel more powerful…
+        &br;&br;* You obtain &font_cyan;%1$d &font_end;x &asterisk_ascend_color;Ascension &font_end;&font_red;Flame&font_end;
+        &br;* Your max. &font_health;health &font_end;is now &font_health;%2$d&font_end;
+        &br;* Your max. &font_mana;mana &font_end;is now &font_mana;%3$d&font_end;
+        &br;* Your max. &font_hunger;hunger &font_end;is now &font_hunger;%4$d&font_end;
+
+        &br;* Your base &font_attack;attack &font_end;is now &font_attack;%5$d&font_end;
+        &br;* Your base &font_defense;defense &font_end;is now &font_defense;%6$d&font_end;
+        &br;* Your base &font_mana;intelligence &font_end;is now &font_mana;%7$d&font_end;
+        &br;* Your base &font_speed;speed &font_end;is now &font_speed;%8$d&font_end;
+
+        &br;* You start with &font_gold;%9$d gold &font_end;coins
+        &br;* You start with &font_cyan;%10$d &font_end;&font_cyan;Skill Points&font_end;
+        &br;&br;Good luck with your new adventures,&br;%11$s!
+    </string>
 
 </resources>

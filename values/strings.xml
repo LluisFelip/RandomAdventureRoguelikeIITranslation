@@ -10,7 +10,7 @@
     <!ENTITY font_cyan "&lt;font color=&quot;#00FFFF&quot;&gt;">
     <!ENTITY font_black "&lt;font color=&quot;#000000&quot;&gt;">
     <!ENTITY font_black_low "&lt;font color=&quot;#777777&quot;&gt;">
-    <!ENTITY font_asterisk_level "&lt;font color=&quot;#8BC34A&quot;&gt;">
+    <!ENTITY font_asterisk_level "&lt;font color=&quot;#00FFFF&quot;&gt;">
     <!ENTITY font_asterisk_main_story "&lt;font color=&quot;#F44336&quot;&gt;">
     <!ENTITY font_asterisk_void_master "&lt;font color=&quot;#C500FF&quot;&gt;">
     <!ENTITY font_asterisk_creator "&lt;font color=&quot;#FFEB3B&quot;&gt;">
@@ -437,11 +437,11 @@
     <string name="status_crafted_items">Crafted Items: &font_cyan;%1$d&font_end;</string>
     <string name="status_skills_learnt">Skills Learned: &font_green;%1$d&font_end;</string>
     <string name="status_spells_learnt">Spells Learned: &font_mana;%1$d&font_end;</string>
-    <string name="status_main_story_times">Main Story Completed Times: &font_green;%1$d&font_end;</string>
-    <string name="status_void_master_times">Void Master Killed Times: &font_green;%1$d&font_end;</string>
+    <string name="status_main_story_times">Main Story Completed Times: &font_asterisk_main_story;%1$d&font_end;</string>
+    <string name="status_void_master_times">Void Master Killed Times: &font_asterisk_void_master;%1$d&font_end;</string>
     <string name="status_deaths">Deaths: &font_red;%1$d&font_end;</string>
     <string name="status_ascended_times">Ascended Times: &asterisk_ascend_color;%1$d&font_end;</string>
-    <string name="status_met_the_creator_times">Met The Creator Times: &font_green;%1$d&font_end;</string>
+    <string name="status_met_the_creator_times">Met The Creator Times: &font_asterisk_creator;%1$d&font_end;</string>
     <string name="status_general">&font_cyan;General&font_end;</string>
     <string name="status_health">Health:&font_health;\t%1$d&font_end;/&font_health;%2$d&font_end;</string>
     <string name="status_mana">Mana:&font_mana;\t%1$d&font_end;/&font_mana;%2$d&font_end;</string>
@@ -3675,10 +3675,6 @@
     <string name="craft_various_message_stackable">What amount do you want to craft?&br;&br;(You have enough materials to craft &font_cyan;%1$d&font_end;)</string>
     <string name="craft_various_message_stackable_higher_than_the_max">What amount do you want to craft?&br;&br;(You have enough materials to craft &font_cyan;%1$d&font_end;, but the maximum amount allowed to craft is &font_cyan;%2$d&font_end;)</string>
 
-
-
-    <!-- FIXME: Update Strings files -->
-
     <string name="item_info_potion_pet_heal_recipe_info">Give this to your &font_pet;pet &font_end;to &font_health;heal &font_end;it.</string>
     <string name="item_info_potion_pet_mana">Give this to your &font_pet;pet &font_end;to restore its &font_mana;mana &font_end;by a &font_mana;%1$s&font_end;%%.</string>
     <string name="item_info_potion_pet_mana_recipe_info">Give this to your &font_pet;pet &font_end;to restore its &font_mana;mana&font_end;.</string>
@@ -3698,6 +3694,7 @@
     <string name="blacksmith_material_tiers_message">Oh, you want to know about the material tiers? This is the order:&br;&br;&font_wood;Wood &font_end;-> &font_leather;Leather &font_end;-> &font_copper;Copper &font_end;-> &font_tin;Tin &font_end;-> &font_iron;Iron &font_end;-> &font_bronze;Bronze &font_end;-> &font_silver;Silver &font_end;-> &font_gold;Gold &font_end;-> &font_diamond;Diamond &font_end;-> &font_obsidian;Obsidian &font_end;&br;&br;There are a some other very rare materials but I don\'t think you will ever be able to find them…</string>
     <string name="button_sort_by_can_craft">Sort (can craft)</string>
     <string name="crafting_filter_can_craft">Can Craft</string>
+
     <string name="ascending">Ascending</string>
     <string name="button_continue">Continue</string>
     <string name="button_wake_up">Wake Up</string>
