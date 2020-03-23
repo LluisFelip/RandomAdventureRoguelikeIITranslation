@@ -1120,7 +1120,9 @@
     I kick ass for the Lord!\n
     Have you seen Archison? I need to talk to him about getting off this stupid island.\n
     What is a man but a miserable pile of secrets?\n
-    Don\'t focus too much on the game or you\'ll take the wrong bus.
+    Don\'t focus too much on the game or you\'ll take the wrong bus.\n
+    What is dead may never die.\n
+    You can\'t die if you are undead.
     ]]>
     </string>
 
@@ -3673,6 +3675,10 @@
     <string name="craft_various_message_stackable">What amount do you want to craft?&br;&br;(You have enough materials to craft &font_cyan;%1$d&font_end;)</string>
     <string name="craft_various_message_stackable_higher_than_the_max">What amount do you want to craft?&br;&br;(You have enough materials to craft &font_cyan;%1$d&font_end;, but the maximum amount allowed to craft is &font_cyan;%2$d&font_end;)</string>
 
+
+
+    <!-- FIXME: Update Strings files -->
+
     <string name="item_info_potion_pet_heal_recipe_info">Give this to your &font_pet;pet &font_end;to &font_health;heal &font_end;it.</string>
     <string name="item_info_potion_pet_mana">Give this to your &font_pet;pet &font_end;to restore its &font_mana;mana &font_end;by a &font_mana;%1$s&font_end;%%.</string>
     <string name="item_info_potion_pet_mana_recipe_info">Give this to your &font_pet;pet &font_end;to restore its &font_mana;mana&font_end;.</string>
@@ -3694,5 +3700,24 @@
     <string name="crafting_filter_can_craft">Can Craft</string>
     <string name="ascending">Ascending</string>
     <string name="button_continue">Continue</string>
+    <string name="button_wake_up">Wake Up</string>
+    <string name="ascended">Ascended!</string>
+
+    <string name="ascended_text">
+        You forget everything but start to feel more powerful…
+        &br;&br;* You obtain &font_cyan;%1$d &font_end;x &asterisk_ascend_color;Ascension &font_end;&font_red;Flame&font_end;
+        &br;* Your max. &font_health;health &font_end;is now &font_health;%2$d&font_end;
+        &br;* Your max. &font_mana;mana &font_end;is now &font_mana;%3$d&font_end;
+        &br;* Your max. &font_hunger;hunger &font_end;is now &font_hunger;%4$d&font_end;
+
+        &br;* Your base &font_attack;attack &font_end;is now &font_attack;%5$d&font_end;
+        &br;* Your base &font_defense;defense &font_end;is now &font_defense;%6$d&font_end;
+        &br;* Your base &font_mana;intelligence &font_end;is now &font_mana;%7$d&font_end;
+        &br;* Your base &font_speed;speed &font_end;is now &font_speed;%8$d&font_end;
+
+        &br;* You start with &font_gold;%9$d gold &font_end;coins
+        &br;* You start with &font_cyan;%10$d &font_end;&font_cyan;Skill Points&font_end;
+        &br;&br;Good luck with your new adventures,&br;%11$s!
+    </string>
 
 </resources>
