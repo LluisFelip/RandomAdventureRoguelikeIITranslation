@@ -170,12 +170,12 @@
     <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
 
     <plurals name="quest_kill_monsters_text_giving" tools:ignore="MissingQuantity">
-        <item quantity="one">I need you to kill %1$s %2$s monster</item>
-        <item quantity="other">I need you to kill %1$s %2$s monsters</item>
+        <item quantity="one">Preciso que mate %1$s %2$s monstro</item>
+        <item quantity="other">Preciso que mate %1$s %2$s monstros</item>
     </plurals>
     <plurals name="quest_kill_monsters_text_quest_screen" tools:ignore="MissingQuantity">
-        <item quantity="one">Kill %1$s %2$s monster</item>
-        <item quantity="other">Kill %1$s %2$s monsters</item>
+        <item quantity="one">Mate %1$s %2$s monstro</item>
+        <item quantity="other">Mate %1$s %2$s monstros</item>
     </plurals>
 
     <!-- Accessibility -->
@@ -197,102 +197,101 @@
     <string name="content_description_dungeon_current_position_info">Current dungeon position button</string>
 
 
-    <string name="menu_new_game">New Game</string>
-    <string name="menu_continue_button">&font_cyan;Continue&font_end;&br;%1$s [&font_cyan;%2$d&font_end;]</string>
-    <string name="menu_cemetery">Cemetery</string>
-    <string name="menu_collection">Collection</string>
-    <string name="menu_achievements">Achievements</string>
-    <string name="menu_rate">Rate</string>
-    <string name="menu_share">Share</string>
-    <string name="menu_exit">Exit</string>
-    <string name="menu_play">Play</string>
-    <string name="menu_new_game_slot_1">New Game (Slot 1)</string>
-    <string name="menu_new_game_slot_2">New Game (Slot 2)</string>
-    <string name="menu_new_game_slot_3">New Game (Slot 3)</string>
+    <string name="menu_new_game">Novo Jogo</string>
+    <string name="menu_continue_button">&font_cyan;Continuar&font_end;&br;%1$s [&font_cyan;%2$d&font_end;]</string>
+    <string name="menu_cemetery">Cemitério</string>
+    <string name="menu_collection">Coleção</string>
+    <string name="menu_achievements">Conquistas</string>
+    <string name="menu_rate">Avalie</string>
+    <string name="menu_share">Compartilhe</string>
+    <string name="menu_exit">Sair</string>
+    <string name="menu_play">Jogar</string>
+    <string name="menu_new_game_slot_1">Novo Jogo (Espaço 1)</string>
+    <string name="menu_new_game_slot_2">Novo Jogo (Espaço 2)</string>
+    <string name="menu_new_game_slot_3">Novo Jogo (Espaço 3)</string>
 
-    <string name="text_achievement_unlocked_">Achievement \'&bold;%1$s&bold_end;\' unlocked!</string>
+    <string name="text_achievement_unlocked_">Conquista \'&bold;%1$s&bold_end;\' desbloqueada!</string>
 
-    <string name="select_game_slot_title">Select Game Slot</string>
+    <string name="select_game_slot_title">Selecione o Espaço de Jogo</string>
     <string name="select_game_slot_asterisc_level">&font_asterisk_level;&bold;\*&bold_end;&font_end;</string>
     <string name="select_game_slot_asterisc_main_story_completed">&font_asterisk_main_story;&bold;\*&bold_end;&font_end;</string>
     <string name="select_game_slot_asterisc_void_master_killed">&font_asterisk_void_master;&bold;\*&bold_end;&font_end;</string>
     <string name="select_game_slot_asterisc_ascended">&asterisk_ascend_color;&bold;\*&bold_end;&font_end;</string>
     <string name="select_game_slot_asterisc_met_the_creator">&font_asterisk_creator;&bold;\*&bold_end;&font_end;</string>
-    <string name="select_game_slot_erase_game_title">Delete game?</string>
+    <string name="select_game_slot_erase_game_title">Apagar jogo?</string>
 
-    <string name="text_update_available_title">Update Available</string>
-    <string name="text_update_available_message">There\'s a new version available!</string>
-    <string name="text_update_available_positive">Update</string>
-    <string name="text_update_available_cancel">Cancel</string>
+    <string name="text_update_available_title">Atualização Disponível</string>
+    <string name="text_update_available_message">Há uma nova versão disponível!</string>
+    <string name="text_update_available_positive">Atualizar</string>
+    <string name="text_update_available_cancel">Cancelar</string>
 
-    <string name="game_over_rank_top">You made it to the top &font_cyan;#%d&font_end; in the Cemetery!</string>
-    <string name="game_over_rank_rest">You were ranked &font_cyan;#%d &font_end;in the Cemetery.</string>
+    <string name="game_over_rank_top">Você ficou em &font_cyan;#%d&font_end;no Cemitério!</string>
+    <string name="game_over_rank_rest">Você ficou em &font_cyan;#%d &font_end;no Cemitério.</string>
 
-    <string name="welcome_message_title">Welcome</string>
+    <string name="welcome_message_title">Bem-vindo</string>
 
     <string name="collection_question_marks">\?????</string>
-    <string name="collections_title">Collections</string>
-    <string name="collection_plants">Plants</string>
-    <string name="collection_fishes">Fish</string>
-    <string name="collection_cactus">Cactus</string>
-    <string name="collection_monsters">Monsters</string>
-    <string name="collection_island">Islands</string>
-    <string name="collection_icon">Collection Icon</string>
-    <string name="collection_merchants_mark">Merchant\'s Mark</string>
-    <string name="collection_insects">Insects</string>
-    <string name="collection_animals">Animals</string>
+    <string name="collections_title">Coleção</string>
+    <string name="collection_plants">Plantas</string>
+    <string name="collection_fishes">Peixes</string>
+    <string name="collection_cactus">Cactos</string>
+    <string name="collection_monsters">Monstros</string>
+    <string name="collection_island">Ilhas</string>
+    <string name="collection_icon">Ícone de Coleção</string>
+    <string name="collection_merchants_mark">Marca do Mercador</string>
+    <string name="collection_insects">Insetos</string>
+    <string name="collection_animals">Animais</string>
 
-    <string name="about_reddit">RAR II on Reddit</string>
-    <string name="about_title">&line_break;About RAR II</string>
-    <string name="about_text">This game has been created by a one-man developer team with love and patience :)&br;&br;I would love to hear about your opinion! Please feel free to contact me and share your ideas and suggestions.&br;&br;Hope you enjoy your adventure!</string>
-    <string name="about_twitter">Archison on Twitter</string>
-    <string name="about_discord">RAR II on Discord</string>
+    <string name="about_reddit">RAR II no Reddit</string>
+    <string name="about_title">&line_break;Sobre o RAR II</string>
+    <string name="about_text">Este jogo foi criado por um único desenvolvedor com muito amor e paciência :)&br;&br;Eu adoraria saber sua opinião! Por favor, sinta-se à vontade para entrar em contato e compartilhar suas ideias e sugestões.&br;&br;Espero que goste de sua aventura!</string>
+    <string name="about_twitter">Archison no Twitter</string>
+    <string name="about_discord">RAR II no Discord</string>
 
-    <string name="new_game_welcome_hero_whats_your_name">Welcome, hero! What\'s your name?</string>
-    <string name="new_game_hero_name">Hero</string>
-    <string name="new_game_whats_your_starting_advantage">… and what is your starting advantage?</string>
+    <string name="new_game_welcome_hero_whats_your_name">Bem-vindo, herói! Qual é o seu nome?</string>
+    <string name="new_game_hero_name">Herói</string>
+    <string name="new_game_whats_your_starting_advantage">… e qual é sua vantagem inicial?</string>
 
-    <string name="advantage_random">Random</string>
-    <string name="advantage_ranger">&font_wood;Ranger&font_end;</string>
-    <string name="advantage_warrior">&font_attack;Warrior&font_end;</string>
-    <string name="advantage_wizard">&font_mana;Wizard&font_end;</string>
-    <string name="advantage_cleric">&font_health;Cleric&font_end;</string>
-    <string name="advantage_petmaster">&font_pet;Pet Master&font_end;</string>
-    <string name="advantage_worker">&font_wood;Worker&font_end;</string>
-    <string name="advantage_alchemist">&font_alchemist;Alchemist&font_end;</string>
-    <string name="advantage_blacksmith">&font_silver;Blacksmith&font_end;</string>
-    <string name="advantage_noble">&font_gold;Noble&font_end;</string>
-    <string name="advantage_librarian">&font_wood;Librarian&font_end;</string>
-    <string name="advantage_librarian_desc">(You will start with a random crafting recipe, an &font_cyan;experience &font_end;potion and 5 &font_cyan;skill &font_end;points)</string>
-    <string name="advantage_random_desc">(You will start with a random talent)</string>
-    <string name="advantage_warrior_desc">(You will start with a &font_attack;Weapon&font_end;, a &font_defense;Shield&font_end;, and a piece of &font_defense;Armor&font_end;)</string>
-    <string name="advantage_ranger_desc">(You will start with a &font_speed;Ranged &font_end;weapon and a few of its ammunition)</string>
+    <string name="advantage_random">Aleatória</string>
+    <string name="advantage_ranger">&font_wood;Sentinela&font_end;</string>
+    <string name="advantage_warrior">&font_attack;Guerreiro&font_end;</string>
+    <string name="advantage_wizard">&font_mana;Bruxo&font_end;</string>
+    <string name="advantage_cleric">&font_health;Noviço&font_end;</string>
+    <string name="advantage_petmaster">&font_pet;Mestre das Feras&font_end;</string>
+    <string name="advantage_worker">&font_wood;Trabalhador&font_end;</string>
+    <string name="advantage_alchemist">&font_alchemist;Alquimista&font_end;</string>
+    <string name="advantage_blacksmith">&font_silver;Ferreiro&font_end;</string>
+    <string name="advantage_noble">&font_gold;Nobre&font_end;</string>
+    <string name="advantage_librarian">&font_wood;Bibliotecário&font_end;</string>
+    <string name="advantage_librarian_desc">(Você irá começar com uma receita aleatória de criação, uma &font_cyan;poção &font_end;de experiência e 5 &font_cyan;pontos &font_end;de habilidade)</string>
+    <string name="advantage_random_desc">(Você irá começar com um talento aleatório)</string>
+    <string name="advantage_warrior_desc">(Você irá começar com uma &font_attack;Arma&font_end;, um &font_defense;Escudo&font_end;, e com uma peça de&font_defense;Armadura&font_end;)</string>
+    <string name="advantage_ranger_desc">(Você irá começar com uma &font_speed;Arma de &font_end;Longo Alcance com munição)</string>
 
 
     <!-- NOTE FOR LANGUAGES ALREADY TRANSLATED: Translate these three  - - - - - - - - - - - - - -->
-    <string name="advantage_wizard_desc">(You will start knowing a random &font_mana;Spell &font_end;and a &font_mana;Staff&font_end;)</string>
-    <string name="advantage_cleric_desc">(You will start knowing a &font_health;heal&font_end; &font_mana;Spell &font_end;and a &font_mana;Staff&font_end;)</string>
-    <string name="advantage_petmaster_desc">(You will start knowing the &font_pet;Capture&font_end; &font_red;Monster&font_end; &font_mana;spell &font_end;, a CR &font_cyan;0&font_end; &font_red;Monster&font_end; &font_pet;Pet &font_end;and a &font_pet;Pet &font_end;&font_cyan;Collar&font_end;)</string>
+    <string name="advantage_wizard_desc">(Você irá começar sabendo uma &font_mana;Magia aleatória &font_end;e um &font_mana;Cajado&font_end;)</string>
+    <string name="advantage_cleric_desc">(Você irá começar sabendo uma &font_health;Magia&font_end; &font_mana;de cura &font_end;e um &font_mana;Cajado&font_end;)</string>
+    <string name="advantage_petmaster_desc">(Você irá começar sabendo o &font_pet;feitiço&font_end; &font_red;Capturar&font_end; &font_mana;Monstro &font_end;, um Monstro &font_cyan;com&font_end; &font_red;0 de ND&font_end; &font_pet;como Mascote &font_end;e uma &font_pet;Coleira &font_end;&font_cyan;de Mascote&font_end;)</string>
     <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
 
-    <string name="advantage_worker_desc">(You will start with a random &font_cyan;Tool&font_end;)</string>
-    <string name="advantage_alchemist_desc">(You will start knowing how to brew &font_cyan;1 &font_end;type of potion and &font_cyan;3 &font_end;random materials)</string>
-    <string name="advantage_blacksmith_desc">(You will start knowing how to craft a &font_attack;Weapon&font_end;, a &font_defense;Shield&font_end;, and a piece of &font_defense;Armor &font_end;and &font_cyan;3 &font_end;random materials)</string>
-    <string name="advantage_noble_desc">(You will start with more &font_gold;gold&font_end;)</string>
-    <string name="advantage_random_selected">Starting as: %1$s!</string>
+    <string name="advantage_worker_desc">(Você irá começar com uma Ferramenta &font_cyan;aleatória&font_end;)</string>
+    <string name="advantage_alchemist_desc">(Você irá começar sabendo como fazer &font_cyan;1 &font_end;tipo de poção e &font_cyan;3 &font_end;materiais aleatórios)</string>
+    <string name="advantage_blacksmith_desc">(Você irá começar sabendo fazer uma &font_attack;Arma&font_end;, um &font_defense;Escudo&font_end;, e uma peça de &font_defense;Armadura &font_end;e &font_cyan;3 &font_end;materiais aleatórios)</string>
+    <string name="advantage_noble_desc">(Você irá começar com mais &font_gold;ouro&font_end;)</string>
+    <string name="advantage_random_selected">Começara como: %1$s!</string>
 
-    <string name="new_game_permadeath_question">Select permadeath mode…</string>
-    <string name="new_game_permadeath_selected">&font_red;&bold;PERMADEATH&bold_end;&font_end; mode selected.&br;&br;If you &font_red;die&font_end;, you will &font_cyan;lose everything &font_end;and will have to &font_cyan;start over&font_end;!</string>
-    <string name="new_game_no_permadeath_selected">&font_red;&bold;NO PERMADEATH &bold_end;&font_end;mode selected.&br;&br;If you die, you will be able to continue your game from the last &font_primary_light;&italic;[SAVED CHECKPOINT] &italic_end;&font_end;(when you rest at an &font_inn;Inn &font_end;or when you &font_cyan;level up&font_end;, a &font_primary_light;&italic;[SAVED CHECKPOINT] &italic_end;&font_end;will be made).</string>
-    <string name="saved_checkpoint">&font_primary_light;&italic;[SAVED CHECKPOINT]&italic_end;&font_end;</string>
+    <string name="new_game_permadeath_question">Selecione o modo morte permanente…</string>
+    <string name="new_game_permadeath_selected">&font_red;&bold;Modo&bold_end;&font_end; MORTE PERMANETE selecionado.&br;&br;Ao morrer &font_red;você&font_end;, irá &font_cyan;perder tudo &font_end;e terá que &font_cyan;começar de novo&font_end;!</string>
+    <string name="new_game_no_permadeath_selected">&font_red;&bold;Modo &bold_end;&font_end;sem MORTE PERMANETE selecionado.&br;&br;Ao morrer, poderá continuar o jogo a partir do último &font_primary_light;&italic;[CHECKPOINT] &italic_end;&font_end;(ao descansar em uma &font_inn;Estalagem &font_end;ou quando &font_cyan;subir de nível&font_end;, será feito um &font_primary_light;&italic;[CHECKPOINT] &italic_end;&font_end;).</string>
+    <string name="saved_checkpoint">&font_primary_light;&italic;[CHECKPOINT SALVO]&italic_end;&font_end;</string>
 
-    <string name="cemetery_clear">Clear</string>
-    <string name="cemetery_cancel">Cancel</string>
-    <string name="cemetery_clear_title">Are you sure?</string>
-    <string name="cemetery_remove_player">Remove this player?</string>
+    <string name="cemetery_clear">Limpar</string>
+    <string name="cemetery_cancel">Cancelar</string>
+    <string name="cemetery_clear_title">Tem certeza?</string>
+    <string name="cemetery_remove_player">Remover este personagem?</string>
     <string name="cemetery_permadeath">(&font_red;P&font_end;)</string>
     <string name="cemetery_no_permadeath">(&font_green;NP&font_end;)</string>
-
     <string name="button_permadeath">Permadeath</string>
     <string name="button_no_permadeath">No Permadeath</string>
     <string name="button_start">Start</string>
