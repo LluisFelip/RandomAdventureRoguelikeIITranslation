@@ -2347,10 +2347,10 @@
     <string name="professional_no_quest_message">Maintenant vous êtes prêt à réussir ! Bonne chance, héros!</string>
 
     <string name="merchant_abandon_quest_title">Abandonner la quête du &font_gold;Marchand&font_end;</string>
-    <string name="merchant_abandon_quest_message">Es-tu sûres de vouloir abandonner la quête : &italic;\"%1$s\"&italic_end;?</string>
+    <string name="merchant_abandon_quest_message">Es-tu sûr de vouloir abandonner la quête : &italic;\"%1$s\"&italic_end;?</string>
 
-    <string name="settings_language">Language</string>
-    <string name="settings_translated_by">Translated by: %s</string>
+    <string name="settings_language">Langue</string>
+    <string name="settings_translated_by">Traduit par: %s</string>
 
     <!-- %1$s=level %2$s=rarity %3$s=material %4$sname -->
     <string name="equipment_name_composition">%1$s %4$s %2$s (%3$s)</string>
