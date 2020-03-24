@@ -967,7 +967,7 @@
             Tu peux m\'aider pour un truc là ?\n
             Tu peux me donner un coup de main s\'il te plaît ?\n
             Tu peux m\'aider pour quelque chose s\'il te plaît ?\n
-            J\'ai entendu dire que tu étais un héro. Pourrais-tu m\'aider pour un truc ?\n
+            J\'ai entendu dire que tu étais un héros. Pourrais-tu m\'aider pour un truc ?\n
                         ]]>
     </string>
 
@@ -1179,7 +1179,7 @@
     <string name="quest_rescue_someone_name_37" tools:ignore="UnusedResources">Le guerrier</string>
     <string name="quest_rescue_someone_name_38" tools:ignore="UnusedResources">Le villageois perdu</string>
     <string name="quest_rescue_someone_name_39" tools:ignore="UnusedResources">Le viking perdu</string>
-    <string name="quest_rescue_someone_name_40" tools:ignore="UnusedResources">Le héro pas si brave que ça</string>
+    <string name="quest_rescue_someone_name_40" tools:ignore="UnusedResources">Le héros pas si brave que ça</string>
     <string name="quest_rescue_someone_name_41" tools:ignore="UnusedResources">Le gamer</string>
     <string name="quest_rescue_someone_name_42" tools:ignore="UnusedResources">Le parieur</string>
     <string name="quest_rescue_someone_name_43" tools:ignore="UnusedResources">Le chef</string>
@@ -1210,7 +1210,7 @@
     <string name="quest_rescue_someone_name_68" tools:ignore="UnusedResources">La pauvre dame</string>
     <string name="quest_rescue_someone_name_69" tools:ignore="UnusedResources">Le gentleman</string>
     <string name="quest_rescue_someone_name_70" tools:ignore="UnusedResources">La gente dame</string>
-    <string name="quest_rescue_someone_name_71" tools:ignore="UnusedResources">Le héro</string>
+    <string name="quest_rescue_someone_name_71" tools:ignore="UnusedResources">Le héros</string>
     <string name="quest_rescue_someone_name_72" tools:ignore="UnusedResources">Le gouverneur</string>
     <string name="quest_rescue_someone_name_73" tools:ignore="UnusedResources">Le voyageur</string>
     <string name="quest_rescue_someone_name_74" tools:ignore="UnusedResources">Le trouble fête</string>
@@ -1784,7 +1784,7 @@
 
     <string name="wise">Le sage</string>
     <string name="wise_silent">(…)</string>
-    <string name="wise_have_dark_orb">Oh…! Tu as une %1$s! Quelque chose de pire que ce qu\'un héro peut imaginer va bientôt apparaître, Et cette %1$s, en est la clé…</string>
+    <string name="wise_have_dark_orb">Oh…! Tu as une %1$s! Quelque chose de pire que ce qu\'un héros peut imaginer va bientôt apparaître, Et cette %1$s, en est la clé…</string>
 
     <string name="crafting_filter">Filtre</string>
     <string name="crafting_filter_all">Tout</string>
@@ -2240,7 +2240,7 @@
     <string name="main_story_the_carpenter_2">J\'ai entendu des rumeurs à propos du &font_red;Tyrant &font_end;
         qui serait passé par ici, j\'était donc parti chercher quelques indices pour savoir ce qu\'il faisait là…</string>
     <string name="main_story_the_carpenter_3">Tu ne sais pas qui est &font_red;Le Tyrant&font_end;? Oh… pour la faire court: c\'est la raison pour laquelle les monstres sont éparpillé partout sur notre planète.</string>
-    <string name="main_story_the_carpenter_4">Personne ne sait ou il se terre, mais la légende raconte qu\'un vrai héro se montrera pour trouver le mal et le terrasser une bonne fois pour toute…</string>
+    <string name="main_story_the_carpenter_4">Personne ne sait ou il se terre, mais la légende raconte qu\'un vrai héros se montrera pour trouver le mal et le terrasser une bonne fois pour toute…</string>
     <string name="main_story_the_carpenter_5">Ce &font_red;monstre&font_end; que tu viens tout juste de vaincre était la raison de pourquoi on n\'avait plus aucun &font_wood;bateau &font_end;sur cette île. Il les a tous coulé!</string>
     <string name="main_story_the_carpenter_5b">Si j\'en avait un, je serais parti moi même trouver des indices sur les quartiers du &font_red;Tyrant &font_end;pour que je puisse lui botter le * ! (si je n\'étais pas aussi vieux…)</string>
     <string name="main_story_the_carpenter_6">Tu dis avoir trouvé une &font_wood;Épave &font_end;vers &font_cyan;%1$d&font_end;, &font_cyan;%2$d &font_end;? Je pense pouvoir le réparer si tu me ramènes assez de &font_wood;Bois&font_end;!</string>
@@ -2254,7 +2254,7 @@
     <string name="main_story_the_carpenter_second_dialog_2">Oh, parfait! Commençons immédiatement!</string>
     <string name="main_story_the_carpenter_second_dialog_repairing_ship">&font_wood;Le Vieux Charpentier &font_end;est en train de réparer le &font_wood;Bateau&font_end;</string>
     <string name="main_story_the_carpenter_third_dialog_1">J\'ai pas perdu la main, vous pouvez maintenant naviguer à travers les îles à la recherche d\'indice pour trouver &font_red;Le Tyrant&font_end;! Bonne chance, et merci pour tout!</string>
-    <string name="main_story_the_carpenter_end_dialog">Bonjour, héro! Comment est-ce que la traque du&font_red;
+    <string name="main_story_the_carpenter_end_dialog">Bonjour, héros! Comment est-ce que la traque du&font_red;
         Tyrant &font_end;se passe?</string>
     <string name="main_story_4">Trouve des &font_cyan;indices&font_end; sur les faits et gestes du&font_red;
         Tyrant&font_end;.</string>
@@ -2316,7 +2316,7 @@
     <string name="main_story_sail_advice_wont_be_able_to_come_back_to_island">If you sail, you won\'t be able to come back to %1$s!&br;&br;Do you want to sail?</string>
     <string name="main_story_heaven_gate_advice_wont_be_able_to_come_back_to_island">If you enter the %1$s you won\'t be able to come back to %2$s!&br;&br;Enter anyway?</string>
 
-    <string name="professional_quest_giving_quest_0">Bonjour, héro! Veux-tu apprendre la base de la profession de %1$s ?</string>
+    <string name="professional_quest_giving_quest_0">Bonjour, héros! Veux-tu apprendre la base de la profession de %1$s ?</string>
     <string name="professional_quest_giving_quest_1_dialog">Rapporte moi un(e) %1$s et je t\'expliquerais le reste ! Tu peux en &font_cyan;fabriquer &font_end;un(e) et tu peux directement en acheter en &font_gold;boutique&font_end;.</string>
     <string name="professional_quest_giving_quest_1_description">Le %1$s à &font_cyan;%2$d&font_end;, &font_cyan;%3$d &font_end;vous a demandé de ramener un(e) %4$s à lui. Tu peux en &font_cyan;fabriquer &font_end;un(e) et tu peux directement en acheter en &font_gold;boutique&font_end;.</string>
     <string name="professional_quest_giving_quest_1_check_if_have_tool_dialog">As-tu apporté un(e) %1$s?</string>
@@ -2343,8 +2343,8 @@
     <string name="professional_step_5">C\'était la base de ce métier… &font_gold;Achète &font_end;ou &font_cyan;fabrique &font_end;
         un &font_cyan;outil &font_end;et utilise le pour extraire des matériaux… Avec les matériaux, tu peux &font_cyan;fabriquer&font_end;
         des &font_cyan;armes&font_end;, &font_cyan;armures&font_end;, &font_cyan;potions &font_end;et toujours plus…</string>
-    <string name="professional_step_6">Tenez, je vous offre ce(tte) %1$s! Bonne chance dans vos aventures, héro!</string>
-    <string name="professional_no_quest_message">Maintenant vous êtes prêt à réussir ! Bonne chance, héro!</string>
+    <string name="professional_step_6">Tenez, je vous offre ce(tte) %1$s! Bonne chance dans vos aventures, héros!</string>
+    <string name="professional_no_quest_message">Maintenant vous êtes prêt à réussir ! Bonne chance, héros!</string>
 
     <string name="merchant_abandon_quest_title">Abandonner la quête du &font_gold;Marchand&font_end;</string>
     <string name="merchant_abandon_quest_message">Es-tu sûres de vouloir abandonner la quête : &italic;\"%1$s\"&italic_end;?</string>
