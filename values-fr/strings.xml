@@ -302,7 +302,7 @@
     <string name="button_store">Ranger</string>
     <string name="button_rename">Renommer</string>
     <string name="button_transform">Transformer</string>
-    <string name="button_status">Statut</string>
+    <string name="button_status">Status</string>
     <string name="button_map">Carte</string>
     <string name="button_world">Monde</string>
     <string name="button_settings">Options</string>
@@ -374,7 +374,7 @@
     <string name="status_intelligence">Intelligence :\t&font_mana;%1$d&font_end;</string>
     <string name="status_caps">Stats</string>
     <string name="status_turns_in_game">Tours : &font_cyan;%1$d&font_end;</string>
-    <string name="status_currently_at">Actuellement à &font_cyan;%1$d&font_end;, &font_cyan;%2$d &font_end;en &font_cyan;%3$s&font_end;</string>
+    <string name="status_currently_at">Actuellement à &font_cyan;%1$d&font_end;, &font_cyan;%2$d &font_end;in &font_cyan;%3$s&font_end;</string>
     <string name="status_player_name">%1$s</string>
     <string name="status_player_level">Niveau &font_cyan;%1$d&font_end;</string>
     <string name="status_player_experience_needed">Expérience : &font_cyan;%1$d&font_end;/&font_cyan;%2$d&font_end;</string>
@@ -976,49 +976,49 @@
             Notre temps est vôtre.\n
             Fais-le pour la grosse dame.\n
             À partir de ce moment nous voyageons ensemble à l\'est. Toujours l\'est.\n
-            Restez loin des gens normaux. Ils sont stupides.\n
-            Que nous vaut cette visite inattendue ?\n
+            Restez loin des gens normaux. Ils sont stupide.\n
+            Que nous vaut cette visite inattendu ?\n
             Klaatu barada nikto.\n
-            Je pense donc je suis... pas un simple PNJ !\n
-            Ta mission était de récupérer le Dr. Durand de Tau Ceti !\n
-            Nom de Zeus ! En quelle année sommes-nous déjà ?\n
-            Je peux seulement voir en noir et blanc…\n
-            Le Poète est semblable au prince des nuées ; qui hante la tempête et se rit de l'archer.\n
-            Il faut avoir du chaos en soi pour accoucher d'une étoile qui danse.\n
-            Contrairement à ce que certains hauts placés disent : il est interdit d'interdire !\n
-            C'est trop calme... J'aime pas trop beaucoup ça... J'préfère quand c'est un peu trop plus moins calme...\n
-            Elle est où la poulette ?\n
+            Réveille toi, nous sommes là. Pourquoi trembles-tu ? Tout va bien ?\n
+            Ta mission était de récupérer Dr. Durand de Tau Ceti !\n
+            >La-bàs au périmètre, il n\'y a aucune étoile.\n
+            >Je peux seulement voir en noir et blanc…\n
+            Je me demande pourquoi des fois tu es si peu exigeant.\n
+            Tu as besoin de chaos dedans pour qu\'une jolie étoile puisse naître.\n
+            De nos jours, participer à des activités créatives est contre-révolutionnaire !\n
+            Nous avons construit ces pyramides en honneur de notre évasion.\n
+            Aucune récompense éternelle ne nous épargnera maintenant pour arréter la fin.\n
             Non billy, c\'est pas possible de vivre sans moelle épinière.\n
-            Caïn à refusé le sacrifice.\n
-            Tu peux arrêter ton charabia ?\n
+            Kain à refusé le sacrifice.\n
+            Tu peux arrêter de blablater ?\n
             Il y a sûrement d\'autres univers, mais le notre semble être basé sur la guerre et les jeux vidéos.\n
             Des expériences ont montré que ce qui effraie le plus les gens, c'est le silence.\n
             Si on te demande de te regarder dans un miroir… ne le fais jamais.\n
             Ne crée jamais quoique ce soit. Ça pourrait être mal interprêté. Ça te suivra pour le restant de tes jours.\n
-            Tous ces mondes sont à vous, sauf l'Europe. N'essayez pas d'y atterrir.\n
+            Tous les mondes sont a toi, sauf l'Europe. Essaye pas de débarquer là-bas.\n
             Ne prête aucune attention a l\'homme derrière le rideau.\n
             Allumez toutes les lumières, le roi arrive et rentre au château !\n
-            T'as du culot de revenir ici !\n
-            Voici, je vous envoie comme des brebis au milieu des loups. Soyez donc prudents comme les serpents, et simples comme les colombes.\n
+            You got more front than Brighton, coming back here!\n
+            Sent out like sheep into the midst of wolves, be shrewd as serpents and innocent as doves.\n
             La spécialisation c\'est pour les insectes.\n
             Je met ma robe et mon chapeau de sorcier.\n
-            Pourquoi est ce que j\'escalade les montagnes ? Parce que je suis amoureux.\n
+            Pourquoi est ce que j\'escalade les montagnes? Parce que j\'en suis amoureux.\n
             Un jour, j\'ai vu un enfant jouer avec un ruby de la taille d\'une mandarine.\n
-            La prochaine fois qu’on te demande si tu es un Dieu, tu réponds oui !\n
+            Es-tu le maître des clés?\n
             Si tu as vécu ici, tu devrais te sentir comme chez toi.\n
-            Salut, c'est Duo. On m'a dit que tu n'avais pas révisé ton espagnol aujourd'hui...\n
-            Juste un rappel : ce villageois n\'endosse aucun rôle juridique. Sauf si il y a des résultats. Ce qui sera le cas !\n
+            Arrête ton sourire et balance ton linge.\n
+            Juste un rappel: ce villageois n\'endosse aucun rôle juridique. Sauf si il y a des résultats. Ce qui sera le cas!\n
             On dirait bien que t\'as mal choisis ta semaine pour arréter de fûmer.\n
-            Je ne suis pas superstitieux mais je suis un peu stitieux.\n
-            T\'as vu ta gueule ?\n
+            I wish there was a way to know you were in the good old days before you actually left them.\n
+            Tu ressemble a l\'enfer.\n
             Donne moa du respet.\n
-            S…s…senpai ?\n
-            All your base are belong to us.\n
-            Nuuut Nuuut !\n
-            N\'oublie pas te t\'abonner, de retweeter, de liker, de partager, et d\'upvote ça! Attend… on parlait de quoi déjà ?\n
-            Être ou ne pas être bourré, telle est la question…\n
-            Pour survivre à la guerre, il faut devenir la guerre.\n
-            Comment ça je suis pas net ? Mais si je suis très net !\n
+            S…s…senpai?\n
+            J\'ai vraiment fais çaaaaa !?\n
+            Meep.\n
+            N\'oublie pas te t\'abonner, de retweeter, de liker, de partager, et d\'upvote ça! Attend… on parlait de quoi déjà?\n
+            Être ou ne pas être bourré, tel est la question…\n
+            Qu\'est ce que je peux parfois faire…\n
+            Des fois je rêve et je vois une étrange créature, avec deux bras, nous observer depuis un petit appareil encore plus étrange…\n
     ]]></string>
 
 
@@ -1029,41 +1029,41 @@
 
     <string name="quest_quests_title">&font_cyan;Quêtes &font_end;(&font_cyan;%1$d&font_end;)</string>
     <string name="quest_text_for_gold">pour %1$s d\'Or</string>
-    <string name="quest_text_reward">Récompense : %1$s d\'Or</string>
+    <string name="quest_text_reward">Récompense: %1$s d\'Or</string>
     <string name="quest_island_name_parenthesis">[&font_cyan;%1$s&font_end;]</string>
     <string name="quest_snackbar_action_go">Accepter</string>
-    <string name="quest_text_you_have_no_quests_right_now">Tu n\'as en ce moment aucunes quêtes…</string>
+    <string name="quest_text_you_have_no_quests_right_now">Tu n\'as en ce moment aucune quête…</string>
     <string name="quest_completed_quest">%1$s complété</string>
-    <string name="quest_item_found">%1$s trouvé !</string>
-    <string name="quest_bring_crafted_food_text_giving">J\'ai tellement faim ! Je voudrais bien %1$s… Pourriez vous en &font_gold;acheter &font_end;ou en &font_cyan;créer &font_end; et me l\'apporter ?</string>
-    <string name="quest_bring_crafted_food_text_desc">Tu dois &font_gold;acheter &font_end;ou &font_cyan;créer &font_end;un(e) %1$s et y rapporter à %2$s en %3$s,%4$s</string>
-    <string name="quest_bring_crafted_food_text_complete_desc">Merci ! J\'apprécie le geste !</string>
-    <string name="quest_bring_crafted_food_text_negative">Je suis au regret de vous dire que vous n\'avez pas de %1$s… Revenez quand vous en aurez &font_gold;acheté &font_end;ou &font_cyan;créé &font_end;un(e) !</string>
-    <string name="quest_bring_crafted_food_text_bring">Vous avez un(e) %1$s ? Je vous en prie, donnez-y moi !</string>
-    <string name="quest_bring_crafted_food_thanks">Merci ! J\'apprécie le geste !</string>
+    <string name="quest_item_found">%1$s Trouvé!</string>
+    <string name="quest_bring_crafted_food_text_giving">J\'ai tellement faim! Je voudrais bien %1$s… Pourriez vous en &font_gold;acheter &font_end;ou en &font_cyan;créer &font_end;une et me l\'apporter?</string>
+    <string name="quest_bring_crafted_food_text_desc">Tu dois &font_gold;acheter &font_end;ou &font_cyan;créer &font_end;un(e) %1$s et la rapporter à %2$s en %3$s,%4$s</string>
+    <string name="quest_bring_crafted_food_text_complete_desc">Merci! J\'apprécie le geste!</string>
+    <string name="quest_bring_crafted_food_text_negative">Je suis au regret de vous dire que vous n\'avez pas de %1$s… Revenez quand vous en aurait &font_gold;acheté &font_end;ou &font_cyan;créé &font_end;un(e)!</string>
+    <string name="quest_bring_crafted_food_text_bring">Vous avez un(e) %1$s? Je vous en prie, donnez la moi!</string>
+    <string name="quest_bring_crafted_food_thanks">Merci! J\'apprécie le geste!</string>
     <string name="quest_added_quest">Quête ajoutée (%1$s)</string>
-    <string name="quest_complete">Quête accomplie !</string>
+    <string name="quest_complete">Quête terminée!</string>
     <string name="quest_kill_single_monster_text_giving">Élimine le %1$s vers &font_cyan;%2$d&font_end;, &font_cyan;%3$d&font_end; </string>
     <string name="quest_find_lost_item_text_giving">J\'ai perdu un(e) %1$s… La dernière fois que je l\'ai vu, je crois que c\'était vers %2$s, %3$s… Je vous le demande, &font_cyan;Cherchez &font_end;
         le et ramenez le moi ! Merci!</string>
-    <string name="quest_find_lost_item_text_reward">Voici ta récompense : %1$s !</string>
+    <string name="quest_find_lost_item_text_reward">Voici ta récompense: %1$s!</string>
     <string name="quest_find_lost_item_text_quest_screen_find">Vous devez retrouver %1$s. On t\'a conseillé d\'aller &font_cyan;Chercher &font_end;vers %2$s, %3$s.</string>
     <string name="quest_find_lost_item_text_quest_screen_return">Remettre le %1$s à %2$s vers %3$s, %4$s.</string>
-    <string name="quest_find_lost_item_text_villager_complete">Un grand merci de me rendre %1$s !</string>
-    <string name="quest_find_item_now_return_to">Tu as trouvé %1$s ! Tu devrais maintenant le remettre à &font_cyan;%2$s &font_end;vers &font_cyan;%3$d&font_end;, &font_cyan;%4$d&font_end;.</string>
+    <string name="quest_find_lost_item_text_villager_complete">Un grand merci de me rendre %1$s!</string>
+    <string name="quest_find_item_now_return_to">Tu as trouvé %1$s! Tu devrais maintenant le remettre à &font_cyan;%2$s &font_end;vers &font_cyan;%3$d&font_end;, &font_cyan;%4$d&font_end;.</string>
     <string name="quest_find_lost_item_tile_content_name">C\'est un item de quête. Ta mission est de le rapporter à son propriétaire.</string>
 
-    <string name="quest_find_lost_item_item_name_001" tools:ignore="UnusedResources">une boîte</string>
+    <string name="quest_find_lost_item_item_name_001" tools:ignore="UnusedResources">une boite</string>
     <string name="quest_find_lost_item_item_name_002" tools:ignore="UnusedResources">un sac mystérieux</string>
     <string name="quest_find_lost_item_item_name_003" tools:ignore="UnusedResources">un document secret</string>
     <string name="quest_find_lost_item_item_name_004" tools:ignore="UnusedResources">une chose gluante</string>
-    <string name="quest_find_lost_item_item_name_005" tools:ignore="UnusedResources">une carte avec un X dessus</string>
+    <string name="quest_find_lost_item_item_name_005" tools:ignore="UnusedResources">Une carte avec un X dessus</string>
     <string name="quest_find_lost_item_item_name_006" tools:ignore="UnusedResources">une photo de famille</string>
-    <string name="quest_find_lost_item_item_name_007" tools:ignore="UnusedResources">un bouquet de fleurs</string>
+    <string name="quest_find_lost_item_item_name_007" tools:ignore="UnusedResources">Un bouquet de fleurs</string>
     <string name="quest_find_lost_item_item_name_008" tools:ignore="UnusedResources">une boîte de nourriture pour chien</string>
     <string name="quest_find_lost_item_item_name_009" tools:ignore="UnusedResources">une clé</string>
     <string name="quest_find_lost_item_item_name_010" tools:ignore="UnusedResources">un disque de valeur</string>
-    <string name="quest_find_lost_item_item_name_011" tools:ignore="UnusedResources">un chapeau sympa</string>
+    <string name="quest_find_lost_item_item_name_011" tools:ignore="UnusedResources">un chapeau simpa</string>
     <string name="quest_find_lost_item_item_name_012" tools:ignore="UnusedResources">une patate</string>
     <string name="quest_find_lost_item_item_name_013" tools:ignore="UnusedResources">un manteau imperméable</string>
     <string name="quest_find_lost_item_item_name_014" tools:ignore="UnusedResources">un mirroir magique</string>
@@ -1073,7 +1073,7 @@
     <string name="quest_find_lost_item_item_name_018" tools:ignore="UnusedResources">une dent en or</string>
     <string name="quest_find_lost_item_item_name_019" tools:ignore="UnusedResources">un jouet</string>
     <string name="quest_find_lost_item_item_name_020" tools:ignore="UnusedResources">un gant</string>
-    <string name="quest_find_lost_item_item_name_021" tools:ignore="UnusedResources">une citrouille écrabouillée</string>
+    <string name="quest_find_lost_item_item_name_021" tools:ignore="UnusedResources">une citrouille écrabouillé</string>
     <string name="quest_find_lost_item_item_name_022" tools:ignore="UnusedResources">un morceau de papier</string>
     <string name="quest_find_lost_item_item_name_023" tools:ignore="UnusedResources">une lettre d\'amour</string>
     <string name="quest_find_lost_item_item_name_024" tools:ignore="UnusedResources">une canette de bière</string>
@@ -1084,26 +1084,26 @@
     <string name="quest_find_lost_item_item_name_029" tools:ignore="UnusedResources">une vis</string>
     <string name="quest_find_lost_item_item_name_030" tools:ignore="UnusedResources">un livre rare</string>
     <string name="quest_find_lost_item_item_name_031" tools:ignore="UnusedResources">un masque</string>
-    <string name="quest_find_lost_item_item_name_032" tools:ignore="UnusedResources">un chou-fleur</string>
+    <string name="quest_find_lost_item_item_name_032" tools:ignore="UnusedResources">un choufleur</string>
     <string name="quest_find_lost_item_item_name_033" tools:ignore="UnusedResources">une pièce antique</string>
     <string name="quest_find_lost_item_item_name_034" tools:ignore="UnusedResources">une image antique</string>
-    <string name="quest_find_lost_item_item_name_035" tools:ignore="UnusedResources">un souvenir</string>
+    <string name="quest_find_lost_item_item_name_035" tools:ignore="UnusedResources">une mémoire</string>
     <string name="quest_find_lost_item_item_name_036" tools:ignore="UnusedResources">un livre sans pages</string>
-    <string name="quest_find_lost_item_item_name_037" tools:ignore="UnusedResources">une oreille d\'elfe</string>
-    <string name="quest_find_lost_item_item_name_038" tools:ignore="UnusedResources">un concombre uwu</string>
+    <string name="quest_find_lost_item_item_name_037" tools:ignore="UnusedResources">une oreille d\'elf</string>
+    <string name="quest_find_lost_item_item_name_038" tools:ignore="UnusedResources">un cocombre uwu</string>
     <string name="quest_find_lost_item_item_name_039" tools:ignore="UnusedResources">un cornichon</string>
     <string name="quest_find_lost_item_item_name_040" tools:ignore="UnusedResources">des chaussures de princesse</string>
     <string name="quest_find_lost_item_item_name_041" tools:ignore="UnusedResources">un habit stylé</string>
     <string name="quest_find_lost_item_item_name_042" tools:ignore="UnusedResources">un sac de bonbons</string>
-    <string name="quest_find_lost_item_item_name_043" tools:ignore="UnusedResources">un sac a rire</string>
+    <string name="quest_find_lost_item_item_name_043" tools:ignore="UnusedResources">un sac à rire</string>
     <string name="quest_find_lost_item_item_name_044" tools:ignore="UnusedResources">un vase délicat</string>
-    <string name="quest_find_lost_item_item_name_045" tools:ignore="UnusedResources">un coupe-ongle</string>
+    <string name="quest_find_lost_item_item_name_045" tools:ignore="UnusedResources">a nail file</string>
     <string name="quest_find_lost_item_item_name_046" tools:ignore="UnusedResources">une craie</string>
-    <string name="quest_find_lost_item_item_name_047" tools:ignore="UnusedResources">une aiguille</string>
+    <string name="quest_find_lost_item_item_name_047" tools:ignore="UnusedResources">a needle</string>
     <string name="quest_find_lost_item_item_name_048" tools:ignore="UnusedResources">un bouchon en liège</string>
     <string name="quest_find_lost_item_item_name_049" tools:ignore="UnusedResources">un aimant</string>
     <string name="quest_find_lost_item_item_name_050" tools:ignore="UnusedResources">un bouton</string>
-    <string name="quest_find_lost_item_item_name_051" tools:ignore="UnusedResources">un marque-page</string>
+    <string name="quest_find_lost_item_item_name_051" tools:ignore="UnusedResources">un marque page</string>
     <string name="quest_find_lost_item_item_name_052" tools:ignore="UnusedResources">un trampoline rouge</string>
     <string name="quest_find_lost_item_item_name_053" tools:ignore="UnusedResources">un T-shirt bleu</string>
     <string name="quest_find_lost_item_item_name_054" tools:ignore="UnusedResources">un chandail vert</string>
@@ -1115,12 +1115,12 @@
     <string name="quest_find_lost_item_item_name_060" tools:ignore="UnusedResources">une araignée extraordinaire</string>
     <string name="quest_find_lost_item_item_name_061" tools:ignore="UnusedResources">une photo d\'un chien</string>
     <string name="quest_find_lost_item_item_name_062" tools:ignore="UnusedResources">une photo d\'un chat</string>
-    <string name="quest_find_lost_item_item_name_063" tools:ignore="UnusedResources">une peinture onéreuse</string>
+    <string name="quest_find_lost_item_item_name_063" tools:ignore="UnusedResources">une painture plûtot chère</string>
     <string name="quest_find_lost_item_item_name_064" tools:ignore="UnusedResources">un objet inutile</string>
     <string name="quest_find_lost_item_item_name_065" tools:ignore="UnusedResources">un étrange appareil</string>
     <string name="quest_find_lost_item_item_name_066" tools:ignore="UnusedResources">une lettre de haine</string>
     <string name="quest_find_lost_item_item_name_067" tools:ignore="UnusedResources">une statue d\'oiseau</string>
-    <string name="quest_find_lost_item_item_name_068" tools:ignore="UnusedResources">un gâteau</string>
+    <string name="quest_find_lost_item_item_name_068" tools:ignore="UnusedResources">un gateau</string>
     <string name="quest_find_lost_item_item_name_069" tools:ignore="UnusedResources">un blouson</string>
     <string name="quest_find_lost_item_item_name_070" tools:ignore="UnusedResources">un blouson élégant</string>
     <string name="quest_find_lost_item_item_name_071" tools:ignore="UnusedResources">une montre solaire</string>
@@ -1128,8 +1128,8 @@
     <string name="quest_bring_items_text_giving">J\'ai besoin de %1$s %2$s…</string>
     <string name="quest_bring_items_text_quest_screen">Apporte %1$s %2$s à %3$s vers %4$s, %5$s</string>
     <string name="quest_bring_items_text_villager_not_enough">Oh, j\'ai besoin de %1$s %2$s, tu as encore besoin de %3$s de plus…</string>
-    <string name="quest_bring_items_text_villager_give_items">Donner %1$s %2$s à %3$s ?</string>
-    <string name="quest_bring_items_text_you_have_the_items">Tu as les items !</string>
+    <string name="quest_bring_items_text_villager_give_items">Donner %1$s %2$s à %3$s?</string>
+    <string name="quest_bring_items_text_you_have_the_items">Tu as les items!</string>
 
     <string name="quest_rescue_someone_text_giving">Vous devriez aller secourir %1$s! La dernière fois que je l\'ai vu, c\'était vers %2$s, %3$s, je vous en prie, faites vite!</string>
     <string name="quest_rescue_someone_text_quest_screen_rescue">Va secourir %1$s! Cherche vers%2$s, %3$s.</string>
@@ -1138,7 +1138,7 @@
     <string name="quest_rescue_someone_text_reward">Voici votre récompense: %1$s d\'Or!</string>
     <string name="quest_rescue_someone">Secourir quelqu\'un</string>
     <string name="quest_rescue_someone_text_output_rescued">Secouru \"%1$s\"!</string>
-    <string name="quest_rescue_someone_following_you">&font_quest;%1$s &font_end;est ici et te suis…</string>
+    <string name="quest_rescue_someone_following_you">&font_quest;%1$s &font_end;est ici et te suit…</string>
 
     <string name="quest_rescue_someone_name_1" tools:ignore="UnusedResources">La princesse</string>
     <string name="quest_rescue_someone_name_2" tools:ignore="UnusedResources">Le prince</string>
@@ -1246,7 +1246,7 @@
     <string name="item_temporary_potion_mule">Potion de la &font_wood;Mule&font_end; </string>
     <string name="item_temporary_potion_mule_info">Bois ça pour augmenter temporairement ta capacité à porter des objets.</string>
     <string name="item_temporary_potion_mule_quaff">Inventaire temporairement augmenté de &font_wood;%1$d&font_end;</string>
-    <string name="item_temporary_potion_mule_remove">Les effets de la Potion de la &font_wood;Mule &font_end;se dissipe…</string>
+    <string name="item_temporary_potion_mule_remove">Les effets de la Potion de la &font_wood;Mule &font_end;se dissipent…</string>
     <string name="item_temporary_potion_coward">Potion du &font_glass;Fuyard&font_end;</string>
     <string name="item_temporary_potion_coward_info">Bois ça pour temporairement garantir la fuite lors d\'un combat.</string>
     <string name="item_temporary_potion_coward_quaff">Vous êtes temporairement capable de fuir à tous les coups</string>
@@ -2347,20 +2347,20 @@
     <string name="professional_no_quest_message">Maintenant vous êtes prêt à réussir ! Bonne chance, héros!</string>
 
     <string name="merchant_abandon_quest_title">Abandonner la quête du &font_gold;Marchand&font_end;</string>
-    <string name="merchant_abandon_quest_message">Es-tu sûres de vouloir abandonner la quête : &italic;\"%1$s\"&italic_end;?</string>
+    <string name="merchant_abandon_quest_message">Es-tu sûr de vouloir abandonner la quête : &italic;\"%1$s\"&italic_end;?</string>
 
-    <string name="settings_language">Language</string>
-    <string name="settings_translated_by">Translated by: %s</string>
+    <string name="settings_language">Langue</string>
+    <string name="settings_translated_by">Traduit par: %s</string>
 
     <!-- %1$s=level %2$s=rarity %3$s=material %4$sname -->
     <string name="equipment_name_composition">%1$s %4$s %2$s (%3$s)</string>
 
-    <string name="monster_action_attack">attack</string>
-    <string name="monster_action_tentacle">tentacle</string>
-    <string name="monster_action_tentacles">tentacles</string>
+    <string name="monster_action_attack">attaque</string>
+    <string name="monster_action_tentacle">tentacule</string>
+    <string name="monster_action_tentacles">tentacules</string>
     <string name="monster_action_tendril">tendril</string>
-    <string name="monster_action_bite">bite</string>
-    <string name="monster_action_claw">claw</string>
+    <string name="monster_action_bite">morsure</string>
+    <string name="monster_action_claw">griffe</string>
     <string name="monster_action_claws">claws</string>
     <string name="monster_action_club">club</string>
     <string name="monster_action_heavy_club">heavy club</string>
