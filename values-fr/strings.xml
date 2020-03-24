@@ -302,7 +302,7 @@
     <string name="button_store">Ranger</string>
     <string name="button_rename">Renommer</string>
     <string name="button_transform">Transformer</string>
-    <string name="button_status">Status</string>
+    <string name="button_status">Statut</string>
     <string name="button_map">Carte</string>
     <string name="button_world">Monde</string>
     <string name="button_settings">Options</string>
@@ -374,7 +374,7 @@
     <string name="status_intelligence">Intelligence :\t&font_mana;%1$d&font_end;</string>
     <string name="status_caps">Stats</string>
     <string name="status_turns_in_game">Tours : &font_cyan;%1$d&font_end;</string>
-    <string name="status_currently_at">Actuellement à &font_cyan;%1$d&font_end;, &font_cyan;%2$d &font_end;in &font_cyan;%3$s&font_end;</string>
+    <string name="status_currently_at">Actuellement à &font_cyan;%1$d&font_end;, &font_cyan;%2$d &font_end;en &font_cyan;%3$s&font_end;</string>
     <string name="status_player_name">%1$s</string>
     <string name="status_player_level">Niveau &font_cyan;%1$d&font_end;</string>
     <string name="status_player_experience_needed">Expérience : &font_cyan;%1$d&font_end;/&font_cyan;%2$d&font_end;</string>
@@ -976,49 +976,49 @@
             Notre temps est vôtre.\n
             Fais-le pour la grosse dame.\n
             À partir de ce moment nous voyageons ensemble à l\'est. Toujours l\'est.\n
-            Restez loin des gens normaux. Ils sont stupide.\n
-            Que nous vaut cette visite inattendu ?\n
+            Restez loin des gens normaux. Ils sont stupides.\n
+            Que nous vaut cette visite inattendue ?\n
             Klaatu barada nikto.\n
-            Réveille toi, nous sommes là. Pourquoi trembles-tu ? Tout va bien ?\n
-            Ta mission était de récupérer Dr. Durand de Tau Ceti !\n
-            >La-bàs au périmètre, il n\'y a aucune étoile.\n
-            >Je peux seulement voir en noir et blanc…\n
-            Je me demande pourquoi des fois tu es si peu exigeant.\n
-            Tu as besoin de chaos dedans pour qu\'une jolie étoile puisse naître.\n
-            De nos jours, participer à des activités créatives est contre-révolutionnaire !\n
-            Nous avons construit ces pyramides en honneur de notre évasion.\n
-            Aucune récompense éternelle ne nous épargnera maintenant pour arréter la fin.\n
+            Je pense donc je suis... pas un simple PNJ !\n
+            Ta mission était de récupérer le Dr. Durand de Tau Ceti !\n
+            Nom de Zeus ! En quelle année sommes-nous déjà ?\n
+            Je peux seulement voir en noir et blanc…\n
+            Le Poète est semblable au prince des nuées ; qui hante la tempête et se rit de l'archer.\n
+            Il faut avoir du chaos en soi pour accoucher d'une étoile qui danse.\n
+            Contrairement à ce que certains hauts placés disent : il est interdit d'interdire !\n
+            C'est trop calme... J'aime pas trop beaucoup ça... J'préfère quand c'est un peu trop plus moins calme...\n
+            Elle est où la poulette ?\n
             Non billy, c\'est pas possible de vivre sans moelle épinière.\n
-            Kain à refusé le sacrifice.\n
-            Tu peux arrêter de blablater ?\n
+            Caïn à refusé le sacrifice.\n
+            Tu peux arrêter ton charabia ?\n
             Il y a sûrement d\'autres univers, mais le notre semble être basé sur la guerre et les jeux vidéos.\n
             Des expériences ont montré que ce qui effraie le plus les gens, c'est le silence.\n
             Si on te demande de te regarder dans un miroir… ne le fais jamais.\n
             Ne crée jamais quoique ce soit. Ça pourrait être mal interprêté. Ça te suivra pour le restant de tes jours.\n
-            Tous les mondes sont a toi, sauf l'Europe. Essaye pas de débarquer là-bas.\n
+            Tous ces mondes sont à vous, sauf l'Europe. N'essayez pas d'y atterrir.\n
             Ne prête aucune attention a l\'homme derrière le rideau.\n
             Allumez toutes les lumières, le roi arrive et rentre au château !\n
-            You got more front than Brighton, coming back here!\n
-            Sent out like sheep into the midst of wolves, be shrewd as serpents and innocent as doves.\n
+            T'as du culot de revenir ici !\n
+            Voici, je vous envoie comme des brebis au milieu des loups. Soyez donc prudents comme les serpents, et simples comme les colombes.\n
             La spécialisation c\'est pour les insectes.\n
             Je met ma robe et mon chapeau de sorcier.\n
-            Pourquoi est ce que j\'escalade les montagnes? Parce que j\'en suis amoureux.\n
+            Pourquoi est ce que j\'escalade les montagnes ? Parce que je suis amoureux.\n
             Un jour, j\'ai vu un enfant jouer avec un ruby de la taille d\'une mandarine.\n
-            Es-tu le maître des clés?\n
+            La prochaine fois qu’on te demande si tu es un Dieu, tu réponds oui !\n
             Si tu as vécu ici, tu devrais te sentir comme chez toi.\n
-            Arrête ton sourire et balance ton linge.\n
-            Juste un rappel: ce villageois n\'endosse aucun rôle juridique. Sauf si il y a des résultats. Ce qui sera le cas!\n
+            Salut, c'est Duo. On m'a dit que tu n'avais pas révisé ton espagnol aujourd'hui...\n
+            Juste un rappel : ce villageois n\'endosse aucun rôle juridique. Sauf si il y a des résultats. Ce qui sera le cas !\n
             On dirait bien que t\'as mal choisis ta semaine pour arréter de fûmer.\n
-            I wish there was a way to know you were in the good old days before you actually left them.\n
-            Tu ressemble a l\'enfer.\n
+            Je ne suis pas superstitieux mais je suis un peu stitieux.\n
+            T\'as vu ta gueule ?\n
             Donne moa du respet.\n
-            S…s…senpai?\n
-            J\'ai vraiment fais çaaaaa !?\n
-            Meep.\n
-            N\'oublie pas te t\'abonner, de retweeter, de liker, de partager, et d\'upvote ça! Attend… on parlait de quoi déjà?\n
-            Être ou ne pas être bourré, tel est la question…\n
-            Qu\'est ce que je peux parfois faire…\n
-            Des fois je rêve et je vois une étrange créature, avec deux bras, nous observer depuis un petit appareil encore plus étrange…\n
+            S…s…senpai ?\n
+            All your base are belong to us.\n
+            Nuuut Nuuut !\n
+            N\'oublie pas te t\'abonner, de retweeter, de liker, de partager, et d\'upvote ça! Attend… on parlait de quoi déjà ?\n
+            Être ou ne pas être bourré, telle est la question…\n
+            Pour survivre à la guerre, il faut devenir la guerre.\n
+            Comment ça je suis pas net ? Mais si je suis très net !\n
     ]]></string>
 
 
@@ -2347,10 +2347,10 @@
     <string name="professional_no_quest_message">Maintenant vous êtes prêt à réussir ! Bonne chance, héros!</string>
 
     <string name="merchant_abandon_quest_title">Abandonner la quête du &font_gold;Marchand&font_end;</string>
-    <string name="merchant_abandon_quest_message">Es-tu sûr de vouloir abandonner la quête : &italic;\"%1$s\"&italic_end;?</string>
+    <string name="merchant_abandon_quest_message">Es-tu sûres de vouloir abandonner la quête : &italic;\"%1$s\"&italic_end;?</string>
 
-    <string name="settings_language">Langue</string>
-    <string name="settings_translated_by">Traduit par: %s</string>
+    <string name="settings_language">Language</string>
+    <string name="settings_translated_by">Translated by: %s</string>
 
     <!-- %1$s=level %2$s=rarity %3$s=material %4$sname -->
     <string name="equipment_name_composition">%1$s %4$s %2$s (%3$s)</string>
