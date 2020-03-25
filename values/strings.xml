@@ -3388,7 +3388,7 @@
     <string name="material_type_serpentine">&font_serpentine;Serpentine&font_end;</string>
     <string name="material_type_aragonite">&font_aragonite;Aragonite&font_end;</string>
 
-    <string name="material_type_saphir">&font_saphir;Saphir&font_end;</string>
+    <string name="material_type_saphir">&font_saphir;Sapphire&font_end;</string>
     <string name="material_type_ruby">&font_ruby;Ruby&font_end;</string>
 
     <string name="material_type_ankh">&font_gold;Ankh&font_end;</string>
@@ -3754,5 +3754,32 @@
     <string name="tool_net_infinite">&font_infinity;Infinite &font_end;&font_insect;Net&font_end;</string>
     <string name="tool_skinning_knife_infinite">&font_infinity;Infinite &font_end;&font_skin;Skinning &font_end;Knife</string>
     <string name="tool_meat_cleaver_infinite">&font_infinity;Infinite &font_end;&font_blood;Meat &font_end;Cleaver</string>
+
+    <string name="tile_content_type_summoning_stone">&font_void;Summoning &font_end;&font_stone;Stone&font_end;</string>
+
+    <string name="item_jade_amulet">&font_jade;Jade &font_end;Amulet</string>
+    <string name="item_serpentine_amulet">&font_serpentine;Serpentine &font_end;Amulet</string>
+    <string name="item_sodalite_amulet">&font_sodalite;Sodalite &font_end;Amulet</string>
+    <string name="item_saphir_amulet">&font_saphir;Sapphire &font_end;Amulet</string>
+    <string name="item_aragonite_amulet">&font_aragonite;Aragonite &font_end;Amulet</string>
+    <string name="item_jasper_amulet">&font_jasper;Jasper &font_end;Amulet</string>
+    <string name="item_ruby_amulet">&font_ruby;Ruby &font_end;Amulet</string>
+    <string name="item_onyx_amulet">&font_onyx;Onyx &font_end;Amulet</string>
+    <string name="item_quartz_amulet">&font_quartz;Quartz &font_end;Amulet</string>
+    <string name="item_pearl_amulet">&font_pearl;Pearl &font_end;Amulet</string>
+
+    <string name="item_emerald_ring">&font_emerald;Emerald &font_end;Ring</string>
+    <string name="item_jade_ring">&font_jade;Jade &font_end;Ring</string>
+    <string name="item_serpentine_ring">&font_serpentine;Serpentine &font_end;Ring</string>
+    <string name="item_sodalite_ring">&font_sodalite;Sodalite &font_end;Ring</string>
+    <string name="item_saphir_ring">&font_saphir;Sapphire &font_end;Ring</string>
+    <string name="item_aragonite_ring">&font_aragonite;Aragonite &font_end;Ring</string>
+    <string name="item_jasper_ring">&font_jasper;Jasper &font_end;Ring</string>
+    <string name="item_ruby_ring">&font_ruby;Ruby &font_end;Ring</string>
+    <string name="item_onyx_ring">&font_onyx;Onyx &font_end;Ring</string>
+    <string name="item_quartz_ring">&font_quartz;Quartz &font_end;Ring</string>
+    <string name="item_pearl_ring">&font_pearl;Pearl &font_end;Ring</string>
+
+    <string name="item_info_summoning_stone">Use this &font_void;Summoning &font_end;&font_stone;Stone &font_end;to summon a random &font_void;monster&font_end;!</string>
 
 </resources>
