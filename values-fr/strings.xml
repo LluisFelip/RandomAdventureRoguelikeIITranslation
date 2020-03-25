@@ -155,7 +155,7 @@
     <string name="text_update_available_cancel">Annuler</string>
 
     <string name="game_over_rank_top">Nouveau record &font_cyan;#%d&font_end; au Cimetière !</string>
-    <string name="game_over_rank_rest">Ton rang est &font_cyan;#%d &font_end;au Cimetière.</string>
+    <string name="game_over_rank_rest">Votre rang est &font_cyan;#%d &font_end;au Cimetière.</string>
 
     <string name="welcome_message_title">Bienvenue</string>
 
@@ -169,48 +169,48 @@
     <string name="collection_icon">Icône</string>
     <string name="collection_merchants_mark">Marque de marchands</string>
     <string name="collection_insects">Insectes</string>
-    <string name="collection_animals">Animals</string>
+    <string name="collection_animals">Animaux</string>
 
     <string name="about_reddit">RAR II sur Reddit</string>
     <string name="about_title">&line_break;À propos de RAR II</string>
-    <string name="about_text">Ce jeu a été créé avec amour et patience par un développeur ^^ (et des traducteurs :p)&br;&br;Je voudrais bien connaître ton opinion ! N\'hésite pas a partager ton avis et tes opinions.&br;&br;J\'espère que tu t\'amuseras !</string>
+    <string name="about_text">Ce jeu a été créé avec amour et patience par un développeur ^^ (et des traducteurs :p)&br;&br;Je voudrais bien connaître votre opinion ! N\'hésitez pas à partager votre avis et vos opinions.&br;&br;J\'espère que vous vous amuserez !</string>
     <string name="about_twitter">Archison sur Twitter</string>
     <string name="about_discord">RAR II sur Discord</string>
 
-    <string name="new_game_welcome_hero_whats_your_name">Bienvenue, héros ! Quel est ton nom ?</string>
+    <string name="new_game_welcome_hero_whats_your_name">Bienvenue, héros ! Quel est votre nom ?</string>
     <string name="new_game_hero_name">Héros</string>
-    <string name="new_game_whats_your_starting_advantage">… et quel est ton talent ?</string>
+    <string name="new_game_whats_your_starting_advantage">… et quel est votre talent ?</string>
 
-    <string name="advantage_random">Hasard</string>
+    <string name="advantage_random">Aléatoire</string>
     <string name="advantage_ranger">&font_wood;Ranger&font_end;</string>
     <string name="advantage_warrior">&font_attack;Guerrier&font_end;</string>
     <string name="advantage_wizard">&font_mana;Mage&font_end;</string>
     <string name="advantage_cleric">&font_health;Prêtre&font_end;</string>
     <string name="advantage_petmaster">&font_pet;Dompteur&font_end;</string>
     <string name="advantage_worker">&font_wood;Travailleur&font_end;</string>
-    <string name="advantage_alchemist">&font_alchemist;Alchémiste&font_end;</string>
+    <string name="advantage_alchemist">&font_alchemist;Alchimiste&font_end;</string>
     <string name="advantage_blacksmith">&font_silver;Forgeron&font_end;</string>
     <string name="advantage_noble">&font_gold;Noble&font_end;</string>
-    <string name="advantage_random_desc">(Tu recevras un talent aléatoire)</string>
-    <string name="advantage_warrior_desc">(Tu commenceras avec une &font_attack;Arme&font_end;, un &font_defense;Bouclier&font_end;, et un morceau d\'&font_defense;Armure&font_end;)</string>
-    <string name="advantage_wizard_desc">(Tu commenceras avec un &font_mana;Sort &font_end;aléatoire)</string>
-    <string name="advantage_cleric_desc">(Tu commenceras avec un &font_mana;Sort &font_end;de &font_health;Soin&font_end;)</string>
-    <string name="advantage_petmaster_desc">(Tu commenceras avec le &font_mana;Sort &font_end;de &font_pet;Capture &font_end;de &font_red;Monstre &font_end;et un CR &font_cyan;0&font_end; &font_pet;Compagnon&font_end; &font_red;Monster&font_end;)</string>
-    <string name="advantage_worker_desc">(Tu commenceras avec un &font_cyan;Outil&font_end; au hasard)</string>
-    <string name="advantage_alchemist_desc">(Tu commenceras en sachant préparer &font_cyan;1 &font_end;type de potion et tu recevras &font_cyan;3 &font_end;matériaux aléatoires)</string>
-    <string name="advantage_blacksmith_desc">(Tu commenceras en sachant créer une &font_attack;Arme&font_end;, un &font_defense;Bouclier&font_end;, une piece d\'&font_defense;Armure &font_end;et tu recevras &font_cyan;3 &font_end;des matériaux aléatoires)</string>
-    <string name="advantage_noble_desc">(Tu commenceras avec plus d\'&font_gold;or&font_end;)</string>
-    <string name="advantage_random_selected">Tu es: %1$s !</string>
-    <string name="advantage_ranger_desc">(Tu commenceras avec une arme à &font_speed;Distance &font_end;et quelques munitions)</string>
+    <string name="advantage_random_desc">(Vous recevrez un talent aléatoire)</string>
+    <string name="advantage_warrior_desc">(Vous commencerez avec une &font_attack;Arme&font_end;, un &font_defense;Bouclier&font_end;, et un morceau d\'&font_defense;Armure&font_end;)</string>
+    <string name="advantage_wizard_desc">(Vous commencerez avec un &font_mana;Sort &font_end;aléatoire)</string>
+    <string name="advantage_cleric_desc">(Vous commencerez avec un &font_mana;Sort &font_end;de &font_health;Soin&font_end;)</string>
+    <string name="advantage_petmaster_desc">(Vous commencerez avec le &font_mana;Sort &font_end;de &font_pet;Capture &font_end;de &font_red;Monstre &font_end;et un CR &font_cyan;0&font_end; &font_pet;Compagnon&font_end; &font_red;Monster&font_end;)</string>
+    <string name="advantage_worker_desc">(Vous commencerez avec un &font_cyan;Outil&font_end; au hasard)</string>
+    <string name="advantage_alchemist_desc">(Vous commencerez en sachant préparer &font_cyan;1 &font_end;type de potion et vous recevrez &font_cyan;3 &font_end;matériaux aléatoires)</string>
+    <string name="advantage_blacksmith_desc">(Vous commencerez en sachant créer une &font_attack;Arme&font_end;, un &font_defense;Bouclier&font_end;, une piece d\'&font_defense;Armure &font_end;et tu recevras &font_cyan;3 &font_end;des matériaux aléatoires)</string>
+    <string name="advantage_noble_desc">(Vous commencerez avec plus d\'&font_gold;or&font_end;)</string>
+    <string name="advantage_random_selected">Vous êtes: %1$s !</string>
+    <string name="advantage_ranger_desc">(Vous commencerez avec une arme à &font_speed;Distance &font_end;et quelques munitions)</string>
 
-    <string name="new_game_permadeath_question">Selection de la difficulté</string>
-    <string name="new_game_permadeath_selected">Mode &font_red;&bold;MORT PERMANANTE&bold_end; &font_end;selectionné.&br;&br;Si tu &font_red;meurt&font_end;, tu &font_cyan;perdras tout &font_end;et tu devras &font_cyan;tout recommencer&font_end;! uwu</string>
-    <string name="new_game_no_permadeath_selected">Mode &font_red;&bold;MORT NON-PERMANANTE &bold_end;&font_end;selectionné.&br;&br;Si tu meurts, il te sera possible de revenir au dernier &font_primary_light;&italic;[CHECKPOINT SAUVEGARDÉ] &italic_end;&font_end;(quand tu te reposes dans une &font_inn;Auberge &font_end;où quand tu &font_cyan;level up&font_end;, un &font_primary_light;&italic;[CHECKPOINT SAUVEGARDÉ] &italic_end;&font_end;sera créé).</string>
+    <string name="new_game_permadeath_question">Selection difficulté</string>
+    <string name="new_game_permadeath_selected">Mode &font_red;&bold;MORT PERMANANTE&bold_end; &font_end;selectionné.&br;&br;Si vous &font_red;mourez&font_end;, vous &font_cyan;perdrez tout &font_end;et vous devrez &font_cyan;tout recommencer&font_end;! uwu</string>
+    <string name="new_game_no_permadeath_selected">Mode &font_red;&bold;MORT NON-PERMANANTE &bold_end;&font_end;selectionné.&br;&br;Si vous mourez, il vous sera possible de revenir au dernier &font_primary_light;&italic;[CHECKPOINT SAUVEGARDÉ] &italic_end;&font_end;(quand vous vous reposez dans une &font_inn;Auberge &font_end;où quand vous &font_cyan;montez en niveau&font_end;, un &font_primary_light;&italic;[CHECKPOINT SAUVEGARDÉ] &italic_end;&font_end;sera créé).</string>
     <string name="saved_checkpoint">&font_primary_light;&italic;[CHECKPOINT SAUVEGARDÉ]&italic_end;&font_end;</string>
 
     <string name="cemetery_clear">Nettoyer</string>
     <string name="cemetery_cancel">Annuler</string>
-    <string name="cemetery_clear_title">Es-tu sûr ?</string>
+    <string name="cemetery_clear_title">Êtes-vous sûr ?</string>
     <string name="cemetery_remove_player">Supprimer ce personnage ?</string>
     <string name="cemetery_permadeath">(&font_red;P&font_end;)</string>
     <string name="cemetery_no_permadeath">(&font_green;NP&font_end;)</string>
@@ -228,7 +228,7 @@
     <string name="button_actions">Actions</string>
     <string name="button_buy_mode">Acheter</string>
     <string name="button_sell_mode">Vendre</string>
-    <string name="button_clear">Effacer data</string>
+    <string name="button_clear">Effacer données</string>
     <string name="button_craft">Créer</string>
     <string name="button_drop">Lâcher</string>
     <string name="button_use">Utiliser</string>
@@ -251,10 +251,10 @@
     <string name="button_ok">OK</string>
     <string name="button_no">Non</string>
     <string name="button_give">Donner</string>
-    <string name="button_bye">Aurevoir</string>
+    <string name="button_bye">Au revoir</string>
     <string name="button_quaff">Consommer</string>
     <string name="button_shake">Secouer</string>
-    <string name="button_equip">Equiper</string>
+    <string name="button_equip">Équiper</string>
     <string name="button_cast">Lancer un sort</string>
     <string name="button_remove">Supprimer</string>
     <string name="button_info">i</string>
@@ -328,21 +328,21 @@
     <string name="inventory_equipped_equipment">%1$s équipé.</string>
     <string name="inventory_wielded_item">%1$s porté.</string>
     <string name="inventory_unwielded_item">%1$s posé.</string>
-    <string name="inventory_you_have_no_items_right_now">Tu n\'as aucun objet sur toi !</string>
-    <string name="inventory_text_you_quaff_the">Tu consomme la %1$s !</string>
+    <string name="inventory_you_have_no_items_right_now">Vous n\'avez aucun objet sur vous !</string>
+    <string name="inventory_text_you_quaff_the">Vous consommez la %1$s !</string>
     <string name="inventory_amount_parenthesis">(&font_cyan;%1$d&font_end;)</string>
-    <string name="inventory_pickup_couldnt">Impossible de ramasser %1$s, tu n\'as plus de place dans ton inventaire !</string>
-    <string name="inventory_ate_thing">Tu as mangé %1$s !</string>
-    <string name="inventory_ate_thing_and_restored">Tu as mangé %1$s et as récupéré &font_cyan;%2$d &font_end;de faim.</string>
-    <string name="inventory_cooked_thing">Tu as cuisiné %1$s !</string>
-    <string name="inventory_pickup">Tu as ramassé %1$s !</string>
+    <string name="inventory_pickup_couldnt">Impossible de ramasser %1$s, vous n\'avez plus de place dans l\'inventaire !</string>
+    <string name="inventory_ate_thing">Vous avez mangé %1$s !</string>
+    <string name="inventory_ate_thing_and_restored">Vous avez mangé %1$s et avez récupéré &font_cyan;%2$d &font_end;de faim.</string>
+    <string name="inventory_cooked_thing">Vous avez cuisiné %1$s !</string>
+    <string name="inventory_pickup">Vous avez ramassé %1$s !</string>
     <string name="inventory_damaged_by">Endommagé par %1$s !</string>
     <string name="inventory_pickup_gold">Ramassé &font_gold;%1$d&font_end; d\'or !</string>
     <string name="inventory_required_level_x">&italic;Niveau requis: &font_cyan;%1$d&font_end;&italic_end;</string>
     <string name="inventory_palm_tree_drop">Un %1$s est tombé du &font_coconut;Palmier&font_end; !</string>
     <string name="inventory_equipment_title_with_level">Equipement [µ: &font_cyan;%1$d&font_end;]</string>
     <string name="inventory_equipment_empty">(vide)</string>
-    <string name="inventory_not_enough_space">Ton inventaire est &font_red;Plein&font_end; !</string>
+    <string name="inventory_not_enough_space">Votre inventaire est &font_red;Plein&font_end; !</string>
     <string name="inventory_equipment_levels_up_string">&font_green;\*&font_end;</string>
 
     <string name="status_health_two_dots">Barre de vie :</string>
@@ -351,15 +351,15 @@
     <string name="status_exp_two_dots">Exp :</string>
     <string name="status_data">Données</string>
     <string name="status_monsters_killed">Monstres tués : &font_attack;%1$d&font_end;</string>
-    <string name="status_quests_completed">Quêtes complétées : &font_cyan;%1$d&font_end;</string>
-    <string name="status_islands_visited_completed">Îles &font_cyan;Visité &font_end;/&font_health;Exploré&font_end;/&font_purifying;Purifié&font_end;: &font_cyan;%1$d&font_end;/&font_health;%2$d&font_end;/&font_purifying;%3$d&font_end;</string>
+    <string name="status_quests_completed">Quêtes terminées : &font_cyan;%1$d&font_end;</string>
+    <string name="status_islands_visited_completed">Îles &font_cyan;Visitées &font_end;/&font_health;Explorées&font_end;/&font_purifying;Purifiées&font_end;: &font_cyan;%1$d&font_end;/&font_health;%2$d&font_end;/&font_purifying;%3$d&font_end;</string>
     <string name="status_pets_captured">Compagnons capturés : &font_pet;%1$d&font_end;</string>
-    <string name="status_animals_befriended">Animaux liés d\'amitiés : &font_pet;%1$d&font_end;</string>
-    <string name="status_crafting_recipes">Recettes de craft : &font_cyan;%1$d&font_end;</string>
+    <string name="status_animals_befriended">Animaux liés d\'amitié : &font_pet;%1$d&font_end;</string>
+    <string name="status_crafting_recipes">Recettes de fabrication : &font_cyan;%1$d&font_end;</string>
     <string name="status_crafted_items">Objets créés : &font_cyan;%1$d&font_end;</string>
     <string name="status_skills_learnt">Compétences apprises : &font_green;%1$d&font_end;</string>
     <string name="status_spells_learnt">Sorts appris : &font_mana;%1$d&font_end;</string>
-    <string name="status_main_story_times">Nombre de Mode Histoire complétés : &font_green;%1$d&font_end;</string>
+    <string name="status_main_story_times">Nombre de Mode Histoire terminées : &font_green;%1$d&font_end;</string>
     <string name="status_void_master_times">Nombre de Maître des Ténèbres vaincus : &font_green;%1$d&font_end;</string>
     <string name="status_deaths">Morts: &font_red;%1$d&font_end;</string>
     <string name="status_ascended_times">Nombre d\'Ascensions : &font_green;%1$d&font_end;</string>
@@ -388,20 +388,20 @@
     <string name="shop_title_sell">Boutique (Vente)</string>
     <string name="shop_generic_title_buy">%1$s (Acheter)</string>
     <string name="shop_generic_title_sell">%1$s (Vendre)</string>
-    <string name="shop_alchemist_capitalised">Alchémiste</string>
+    <string name="shop_alchemist_capitalised">Alchimiste</string>
     <string name="shop_armory_capitalised">Armurier</string>
     <string name="shop_florist_capitalised">Fleuriste </string>
     <string name="shop_farmer_capitalised">Fermier</string>
     <string name="shop_empty_message"><![CDATA[Il n\'y a aucun objet à acheter…]]></string>
-    <string name="shop_empty_message_inventory">Tu ne possède aucun objet…</string>
-    <string name="shop_bought_item">À acheté %1$s pour &font_gold;%2$d&font_end;.</string>
-    <string name="shop_sold_item">À vendu %1$s pour &font_gold;%2$d&font_end;.</string>
-    <string name="shop_sold_item_with_amount">À vendu &font_cyan;%1$d &font_end;x %2$s pour &font_gold;%3$d&font_end;.</string>
+    <string name="shop_empty_message_inventory">Vous ne possédez aucun objet…</string>
+    <string name="shop_bought_item">A acheté %1$s pour &font_gold;%2$d&font_end;.</string>
+    <string name="shop_sold_item">A vendu %1$s pour &font_gold;%2$d&font_end;.</string>
+    <string name="shop_sold_item_with_amount">A vendu &font_cyan;%1$d &font_end;x %2$s pour &font_gold;%3$d&font_end;.</string>
     <string name="shop_sell_all_question">Tout vendre ?</string>
     <string name="shop_spell_already_known">&italic;&font_cyan;Sort &font_end;déjà maîtrisé&italic_end;</string>
 
     <string name="pause_menu_title">Pause</string>
-    <string name="pause_menu_message">Veux-tu quitter ?</string>
+    <string name="pause_menu_message">Voulez-vous quitter ?</string>
 
     <string name="settings_title">Options</string>
     <string name="settings_sound">Son</string>
@@ -425,11 +425,11 @@
     <string name="purifying_seed_plant_message">&font_plant;Graine &font_end;d\'une plante de &font_purifying;Purification &font_end;?&br;&br;Lorsque ça se transforme en &font_wood;Arbre &font_end;de &font_purifying;Purification &font_end;, il empêchera les monstre de réaparaître sur cet île.&br;&br;N\'oubliez pas de l\'arroser avec un &font_iron;Seau&font_end; &font_water;d\'Eau &font_end;pour le faire grandir.</string>
     <string name="purifying_seed_island_already_purified">Une grande force magique vous empêche de la planter… (L\'île est déjà purifiée…)</string>
     <string name="purifying_seed_island_already_planted_purified_seed">Une force magique grandissante vous empêche de la planter… (L\'île possède déjà une &font_plant;Graine &font_end;de &font_purifying;Purification&font_end;…)</string>
-    <string name="purifying_seed_planted">Tu as planté la &font_plant;Graine &font_end;de &font_purifying;Purification&font_end;.</string>
+    <string name="purifying_seed_planted">Vous avez planté la &font_plant;Graine &font_end;de &font_purifying;Purification&font_end;.</string>
     <string name="purifying_seed_watered_magically_grows">La &font_plant;Graine &font_end;de &font_purifying;Purification&font_end;
         a magiquement grandi en un magnifique &font_wood;Arbre &font_end;de &font_purifying;Purification&font_end;! Alors que la sensation d\'un danger constant disparaît, l\'île est désormais purifiée et hors de danger.</string>
     <string name="purifying_tree_chop_title">Couper l\'&font_wood;Arbre &font_end;de &font_purifying;Purification&font_end;?</string>
-    <string name="purifying_tree_chop_message">Si tu coupes l\'&font_wood;Arbre &font_end;de &font_purifying;Purification&font_end;, l\'île sera désormais exposée et les monstres recommenceront leurs carnage…</string>
+    <string name="purifying_tree_chop_message">Si vous coupez l\'&font_wood;Arbre &font_end;de &font_purifying;Purification&font_end;, l\'île sera désormais exposée et les monstres recommenceront leurs carnage…</string>
     <string name="purifying_tree_island_no_longer_purified">L\'île n\'est plus purifiée… Tu peux déjà sentir des présences menaçante arriver…</string>
     <string name="purifying_tree_text_purified_label">{ &font_purifying;Purifié &font_end;}</string>
 
