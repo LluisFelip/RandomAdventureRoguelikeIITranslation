@@ -1146,7 +1146,7 @@
     <string name="quest_rescue_someone_name_5" tools:ignore="UnusedResources">Le soldat</string>
     <string name="quest_rescue_someone_name_6" tools:ignore="UnusedResources">Le soldat blessé</string>
     <string name="quest_rescue_someone_name_7" tools:ignore="UnusedResources">Le magicien peureux</string>
-    <string name="quest_rescue_someone_name_8" tools:ignore="UnusedResources">Le paysant</string>
+    <string name="quest_rescue_someone_name_8" tools:ignore="UnusedResources">Le paysan</string>
     <string name="quest_rescue_someone_name_9" tools:ignore="UnusedResources">Le fermier</string>
     <string name="quest_rescue_someone_name_10" tools:ignore="UnusedResources">L\'épouse</string>
     <string name="quest_rescue_someone_name_11" tools:ignore="UnusedResources">Le mari</string>
@@ -1162,7 +1162,7 @@
     <string name="quest_rescue_someone_name_21" tools:ignore="UnusedResources">Le perroquet</string>
     <string name="quest_rescue_someone_name_22" tools:ignore="UnusedResources">Le clown</string>
     <string name="quest_rescue_someone_name_23" tools:ignore="UnusedResources">Le fou</string>
-    <string name="quest_rescue_someone_name_24" tools:ignore="UnusedResources">Le prof de math</string>
+    <string name="quest_rescue_someone_name_24" tools:ignore="UnusedResources">Le prof de maths</string>
     <string name="quest_rescue_someone_name_25" tools:ignore="UnusedResources">Le scientifique</string>
     <string name="quest_rescue_someone_name_26" tools:ignore="UnusedResources">L\'actrice</string>
     <string name="quest_rescue_someone_name_27" tools:ignore="UnusedResources">L\'acteur</string>
@@ -1195,7 +1195,7 @@
     <string name="quest_rescue_someone_name_54" tools:ignore="UnusedResources">Le mec rigolo</string>
     <string name="quest_rescue_someone_name_55" tools:ignore="UnusedResources">Le mec ennuyeux</string>
     <string name="quest_rescue_someone_name_56" tools:ignore="UnusedResources">La femme amusante</string>
-    <string name="quest_rescue_someone_name_57" tools:ignore="UnusedResources">La femme ennuyante</string>
+    <string name="quest_rescue_someone_name_57" tools:ignore="UnusedResources">La femme ennuyeuse</string>
     <string name="quest_rescue_someone_name_58" tools:ignore="UnusedResources">La femme</string>
     <string name="quest_rescue_someone_name_59" tools:ignore="UnusedResources">L\'homme</string>
     <string name="quest_rescue_someone_name_60" tools:ignore="UnusedResources">La femme plutôt laide</string>
@@ -1213,16 +1213,16 @@
     <string name="quest_rescue_someone_name_72" tools:ignore="UnusedResources">Le gouverneur</string>
     <string name="quest_rescue_someone_name_73" tools:ignore="UnusedResources">Le voyageur</string>
     <string name="quest_rescue_someone_name_74" tools:ignore="UnusedResources">Le trouble fête</string>
-    <string name="quest_rescue_someone_name_75" tools:ignore="UnusedResources">La femme parresseuse</string>
-    <string name="quest_rescue_someone_name_76" tools:ignore="UnusedResources">L\'homme parresseux</string>
-    <string name="quest_rescue_someone_name_77" tools:ignore="UnusedResources">Le gamin parresseux</string>
-    <string name="quest_rescue_someone_name_78" tools:ignore="UnusedResources">La fille parresseuse</string>
-    <string name="quest_rescue_someone_name_79" tools:ignore="UnusedResources">Le garçon parresseux</string>
+    <string name="quest_rescue_someone_name_75" tools:ignore="UnusedResources">La femme paresseuse</string>
+    <string name="quest_rescue_someone_name_76" tools:ignore="UnusedResources">L\'homme paresseux</string>
+    <string name="quest_rescue_someone_name_77" tools:ignore="UnusedResources">Le gamin paresseux</string>
+    <string name="quest_rescue_someone_name_78" tools:ignore="UnusedResources">La fille paresseuse</string>
+    <string name="quest_rescue_someone_name_79" tools:ignore="UnusedResources">Le garçon paresseux</string>
     <string name="quest_rescue_someone_name_80" tools:ignore="UnusedResources">Le maire</string>
     <string name="quest_rescue_someone_name_81" tools:ignore="UnusedResources">Le voleur</string>
     <string name="quest_rescue_someone_name_82" tools:ignore="UnusedResources">Le peintre</string>
-    <string name="quest_rescue_someone_name_83" tools:ignore="UnusedResources">The Musician</string>
-    <string name="quest_rescue_someone_name_84" tools:ignore="UnusedResources">The Singer</string>
+    <string name="quest_rescue_someone_name_83" tools:ignore="UnusedResources">Le musicien</string>
+    <string name="quest_rescue_someone_name_84" tools:ignore="UnusedResources">Le chanteur</string>
     <string name="quest_rescue_someone_name_85" tools:ignore="UnusedResources">The Bard</string>
     <string name="quest_rescue_someone_name_86" tools:ignore="UnusedResources">Le garde</string>
     <string name="quest_rescue_someone_name_87" tools:ignore="UnusedResources">La grande femme</string>
@@ -1251,45 +1251,45 @@
     <string name="item_temporary_potion_coward_quaff">Vous êtes temporairement capable de fuir à tous les coups</string>
     <string name="item_temporary_potion_coward_remove">Les effets de la Potion du &font_glass;Fuyard &font_end;se dissipe…</string>
     <string name="item_temporary_potion_big_stomach">Potion du &font_bar;Gros estomac &font_end;</string>
-    <string name="item_temporary_potion_big_stomach_info">Bois ça pour devenir temporairement plus résistant a la faim.</string>
+    <string name="item_temporary_potion_big_stomach_info">Bois ça pour devenir temporairement plus résistant à la faim.</string>
     <string name="item_temporary_potion_big_stomach_quaff">Vous êtes temporairement plus résistant à la faim (&font_bar;%1$d&font_end;)</string>
-    <string name="item_temporary_potion_big_stomach_remove">Les effets de la Potion du &font_bar;Gros estomac &font_end;se dissipe…</string>
+    <string name="item_temporary_potion_big_stomach_remove">Les effets de la Potion du &font_bar;Gros estomac &font_end;se dissipent…</string>
     <string name="item_temporary_potion_attack">Potion d&font_attack;Attaque&font_end;</string>
     <string name="item_temporary_potion_attack_info">Bois ceci pour augmenter temporairement l\'&font_attack;Attaque&font_end;.</string>
     <string name="item_temporary_potion_attack_quaff">L\'&font_attack;Attaque &font_end;est temporairement monté de &font_attack;%1$d&font_end;</string>
-    <string name="item_temporary_potion_attack_remove">Les effets de la Potion d\'&font_attack;Attaque &font_end;se dissipe…</string>
+    <string name="item_temporary_potion_attack_remove">Les effets de la Potion d\'&font_attack;Attaque &font_end;se dissipent…</string>
     <string name="item_temporary_potion_defense">Potion de &font_defense;Défense&font_end;</string>
     <string name="item_temporary_potion_defense_info">Bois ceci pour augmenter temporairement la &font_defense;Défense&font_end;.</string>
     <string name="item_temporary_potion_defense_quaff">La &font_defense;Défense &font_end;est temporairement monté de &font_defense;%1$d&font_end;</string>
-    <string name="item_temporary_potion_defense_remove">Les effets de la Potion de &font_defense;Défense &font_end;se dissipe…</string>
+    <string name="item_temporary_potion_defense_remove">Les effets de la Potion de &font_defense;Défense &font_end;se dissipent…</string>
     <string name="item_temporary_potion_speed">Potion de &font_speed;Vitesse&font_end;</string>
     <string name="item_temporary_potion_speed_info">Bois ceci pour augmenter temporairement la &font_speed;Vitesse&font_end;.</string>
     <string name="item_temporary_potion_speed_quaff">La &font_speed;Vitesse &font_end;est temporairement monté de &font_speed;%1$d&font_end;</string>
     <string name="item_temporary_potion_speed_remove">Les effets de la Potion de &font_speed;Vitesse&font_end;
-        se dissipe…</string>
+        se dissipent…</string>
     <string name="item_temporary_potion_intelligence">Potion d\'&font_mana;Intelligence &font_end;</string>
     <string name="item_temporary_potion_intelligence_info">Bois ceci pour augmenter temporairement l\'&font_mana;Intelligence&font_end;.</string>
     <string name="item_temporary_potion_intelligence_quaff">L\'&font_mana;Intelligence &font_end;est temporairement monté à &font_mana;%1$d&font_end;</string>
-    <string name="item_temporary_potion_intelligence_remove">Les effets de la Potion d\'&font_mana;Intelligence &font_end;se dissipe…</string>
+    <string name="item_temporary_potion_intelligence_remove">Les effets de la Potion d\'&font_mana;Intelligence &font_end;se dissipent…</string>
     <string name="item_temporary_potion_hot_protection">Potion de &font_green;Résistance&font_end;
         au &font_red;Feu&font_end; [Temporaire]</string>
-    <string name="item_temporary_potion_hot_protection_info">Bois ceci pour devenir résistant aux dégats de &font_red;Feu&font_end;.</string>
+    <string name="item_temporary_potion_hot_protection_info">Bois ceci pour devenir résistant aux dégâts de &font_red;Feu&font_end;.</string>
     <string name="item_temporary_potion_hot_protection_quaff">Vous êtes désormais temporairement &font_green;Résistant&font_end;
         au &font_red;Feu&font_end;</string>
     <string name="item_temporary_potion_hot_protection_remove">Les effets de la Potion de &font_green;Résistance&font_end;
-        au &font_red;Feu&font_end; se dissipe…</string>
+        au &font_red;Feu&font_end; se dissipent…</string>
     <string name="item_temporary_potion_cold_protection">Potion de &font_green;Résistance&font_end;
         au &font_tundra;Froid&font_end; [Temporaire]</string>
-    <string name="item_temporary_potion_cold_protection_info">Bois ceci pour devenir résistant aux dégats de &font_tundra;Froid&font_end;.</string>
+    <string name="item_temporary_potion_cold_protection_info">Bois ceci pour devenir résistant aux dégâts de &font_tundra;Froid&font_end;.</string>
     <string name="item_temporary_potion_cold_protection_quaff">Vous êtes désormais temporairement &font_green;Résistant&font_end;
         au &font_tundra;froid&font_end;</string>
     <string name="item_temporary_potion_cold_protection_remove">Les effets de la Potion de &font_green;Résistance&font_end;
-        au &font_tundra;Froid&font_end; se dissipe…</string>
+        au &font_tundra;Froid&font_end; se dissipent…</string>
 
     <string name="rarity_common">Commun</string>
     <string name="rarity_uncommon">Peu Commun</string>
     <string name="rarity_rare">Rare</string>
-    <string name="rarity_epic">Epique</string>
+    <string name="rarity_epic">Épique</string>
     <string name="rarity_legendary">Légendaire</string>
 
     <string name="weapon_type_sword">Épée</string>
@@ -1298,57 +1298,57 @@
     <string name="weapon_type_axe">Hache</string>
     <string name="weapon_type_dagger">Dague</string>
 
-    <string name="hot_damage">C\'est trop &font_red;chaud &font_end;par ici! Tu reçois &font_red;%1$d &font_end;de dégat!</string>
-    <string name="cold_damage">C\'est trop &font_tundra;froid &font_end;par ici! Tu reçois &font_red;%1$d &font_end;de dégat!</string>
+    <string name="hot_damage">C\'est trop &font_red;chaud &font_end;par ici! Tu reçois &font_red;%1$d &font_end;de dégâts!</string>
+    <string name="cold_damage">C\'est trop &font_tundra;froid &font_end;par ici! Tu reçois &font_red;%1$d &font_end;de dégâts!</string>
     <string name="protection_type_hot">&font_hell;Feu&font_end;</string>
     <string name="protection_type_cold">&font_tundra;Froid&font_end;</string>
     <string name="equipment_protection">protection de &lt;font color=\"%1$s\"&gt;%2$s &font_end;</string>
 
-    <string name="content_description_arrow_to_unfold_complete_status_info">Tape la flèche pour dévoiler toutes les info.</string>
+    <string name="content_description_arrow_to_unfold_complete_status_info">Tape la flèche pour dévoiler toutes les infos.</string>
     <string name="content_description_arrow_to_filter_crafting">Tape sur la flèche pour filtrer les recettes de craft.</string>
     <string name="content_description_coin_image">Image de la monnaie</string>
-    <string name="content_description_skill_image">Image des competences</string>
-    <string name="content_description_pet_image">Icone des compagnons</string>
-    <string name="content_description_advantage_image">Icone des avantages</string>
+    <string name="content_description_skill_image">Image des compétences</string>
+    <string name="content_description_pet_image">Icône des compagnons</string>
+    <string name="content_description_advantage_image">Icône des avantages</string>
     <string name="content_description_item_image">Image de l\'objet</string>
     <string name="content_description_tile_content_image">Image du contenu dans les cases</string>
     <string name="content_description_recipe_image">Image de recette</string>
     <string name="content_description_weapon_image">Image d\'arme</string>
-    <string name="content_description_monster_icon">Monster Icon</string>
-    <string name="content_description_dungeon_current_position_info">Current dungeon position button</string>
+    <string name="content_description_monster_icon">Icône de monstre</string>
+    <string name="content_description_dungeon_current_position_info">Bouton de position actuelle du donjon</string>
 
-    <string name="crafting_title">Craft</string>
+    <string name="crafting_title">Fabriquer</string>
     <string name="crafting_title_with_recipe">fabriquer [%1$s]</string>
-    <string name="craft_text_you_know_no_crafting_recipes">Tu ne connais encore aucune recette de &font_cyan;Craft &font_end;.</string>
-    <string name="crafting_recipe_learnt">Tu as appris a fabriquer %1$s!</string>
-    <string name="crafting_recipe_already_known">&italic;Vous connaissez déjà la recette de &font_cyan;craft&font_end;&italic_end;</string>
+    <string name="craft_text_you_know_no_crafting_recipes">Tu ne connais encore aucune recette de &font_cyan;Fabrication &font_end;.</string>
+    <string name="crafting_recipe_learnt">Tu as appris à fabriquer %1$s!</string>
+    <string name="crafting_recipe_already_known">&italic;Vous connaissez déjà la recette de &font_cyan;fabrication&font_end;&italic_end;</string>
     <string name="crafting_recipe_name">[&font_cyan;Fabrication&font_end; Recipe] %1$s</string>
     <string name="crafting_you_crafted_item">Tu as fabriqué %1$s!</string>
     <string name="crafting_you_crafted_item_but_dropped_it">Tu as fabriqué %1$s mais tu ne peux pas le garder, pas de place dans l\'inventaire!</string>
     <string name="crafting_not_enough_ingredients">Pas assez d\'ingrédients…</string>
 
-    <string name="skills_title">Compétence</string>
+    <string name="skills_title">Compétences</string>
     <string name="skills_skill_learnt">Tu as appris la compétence de %1$s!</string>
     <string name="skills_tree_title">Arbre de compétences (&font_cyan;%1$d&font_end; Point de Compétence)</string>
-    <string name="skills_empty_message">Tu n\'as encore aucune &font_cyan;Compétences&font_end;…</string>
-    <string name="skills_empty_tree_message">Tu n\'as aucunes &font_cyan;Compétences&font_end; à apprendre…</string>
+    <string name="skills_empty_message">Tu n\'as encore aucune &font_cyan;Compétence&font_end;…</string>
+    <string name="skills_empty_tree_message">Tu n\'as aucune &font_cyan;Compétence&font_end; à apprendre…</string>
     <string name="skills_necessary_skill_text">Compétence nécessaire: &font_cyan;%1$s&font_end;</string>
 
     <string name="action_search">&font_cyan;Chercher&font_end;</string>
-    <string name="action_searching">En recherche</string>
+    <string name="action_searching">Recherche</string>
     <string name="action_explorer">&font_cyan;Détection d\'auberge&font_end;</string>
     <string name="action_explorer_action_description">&font_cyan;Détecte une auberge&font_end;</string>
-    <string name="action_explorer_action_description_positive">Tu détecte une &font_inn;Auberge &font_end;à &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end;.</string>
+    <string name="action_explorer_action_description_positive">Tu détectes une &font_inn;Auberge &font_end;à &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end;.</string>
     <string name="action_explorer_action_description_negative">Il n\'y a aucune &font_inn;Auberge &font_end;sur cette île…</string>
     <string name="action_contractor">&font_cyan;Détec&font_end;. de &font_cyan;Quêtes&font_end;</string>
     <string name="action_contractor_desc">Permet de &font_cyan;Détecter&font_end;
-        le nombre de &font_cyan;quêtes&font_end; non trouvé sur cette île.</string>
+        le nombre de &font_cyan;quêtes&font_end; non trouvées sur cette île.</string>
     <string name="action_trader">&font_cyan;Détec&font_end;. &font_gold;Marchands&font_end;</string>
     <string name="action_trader_desc">Permet de &font_cyan;Détecter&font_end;
-        le nombre de &font_gold;marchands&font_end; non trouvé sur cette île.</string>
+        le nombre de &font_gold;marchands&font_end; non trouvés sur cette île.</string>
     <string name="action_hunter">&font_cyan;Détec&font_end;. &font_red;Boss&font_end;&font_end;</string>
     <string name="action_hunter_description">Permet de &font_cyan;Détecter&font_end;
-        le nombre de &font_red;boss&font_end; présent sur l\'ile…</string>
+        le nombre de &font_red;boss&font_end; présents sur l\'ile…</string>
     <string name="action_hunter_action_description">Détection de &font_red;boss&font_end;</string>
     <string name="action_hunter_action_description_positive_singular">Tu détecte &font_cyan;%1$d&font_end; &font_red;boss &font_end;sur l\'île.</string>
     <string name="action_hunter_action_description_positive_plural">Tu détecte &font_cyan;%1$d&font_end; &font_red;boss &font_end;sur l\'île !</string>
