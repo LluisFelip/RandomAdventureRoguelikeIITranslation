@@ -165,6 +165,7 @@
 
     <string name="plus_number" translatable="false">+&font_cyan;%d&font_end;</string>
 
+    <string name="tool_infinite_text">%1$s [&font_infinity;*&font_end;]</string>
 
     <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
     <!-- TRANSLATE                                                                               -->
@@ -3744,5 +3745,14 @@
     <string name="monster_action_reddit_post">Reddit Post</string>
     <string name="monster_action_song_composition">Song Composition</string>
     <string name="monster_action_game_update">Game Update</string>
+
+
+    <!-- Update ALL STRINGS -->
+    <string name="tool_chopping_axe_infinite">&font_infinity;Infinite &font_end;&font_wood;Chopping &font_end;Axe</string>
+    <string name="tool_pickaxe_infinite">&font_infinity;Infinite &font_end;&font_silver;Pickaxe&font_end;</string>
+    <string name="tool_fishing_rod_infinite">&font_infinity;Infinite &font_end;&font_cyan;Fishing &font_end;Rod</string>
+    <string name="tool_net_infinite">&font_infinity;Infinite &font_end;&font_insect;Net&font_end;</string>
+    <string name="tool_skinning_knife_infinite">&font_infinity;Infinite &font_end;&font_skin;Skinning &font_end;Knife</string>
+    <string name="tool_meat_cleaver_infinite">&font_infinity;Infinite &font_end;&font_blood;Meat &font_end;Cleaver</string>
 
 </resources>
