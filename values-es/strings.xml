@@ -3265,6 +3265,7 @@
     <string name="dungeon_deep_forest">&font_green;Bosque &font_end;&font_dark_green;Profundo&font_end;</string>
     <string name="dungeon_old_tomb">&font_stone;Tumba &font_end;&font_silver;Vieja&font_end;</string>
     <string name="dungeon_ancient_ruins">&font_ruins;Ruinas &font_end;&font_gold;Antiguas&font_end;</string>
+    <string name="dungeon_pyramid">&font_beetle_talisman;Pyramid&font_end;</string>
     <string name="dungeon_big_cave">&font_stone;Gran &font_end;&font_end;&font_cave;Cueva&font_end;</string>
     <string name="dungeon_icy_cave">&font_cave;Cueva &font_end;&font_ice;Helada&font_end;</string>
     <string name="dungeon_lava_cave">&font_cave;Cueva &font_end;&font_red;Lava&font_end;</string>
