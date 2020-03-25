@@ -115,7 +115,7 @@
     <!ENTITY font_coral "&lt;font color=&quot;#FF00BF&quot;&gt;">
     ]>
 
-<resources xmlns:tools="http://schemas.android.com/tools"
+<resources xmlns:tools="http://schemas.android.com/tools">
 
     <plurals name="quest_kill_monsters_text_giving" tools:ignore="MissingQuantity">
         <item quantity="one">I need you to kill %1$s %2$s monster</item>
