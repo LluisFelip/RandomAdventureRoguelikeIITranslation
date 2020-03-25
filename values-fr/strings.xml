@@ -199,7 +199,7 @@
     <string name="advantage_worker_desc">(Vous commencerez avec un &font_cyan;Outil&font_end; au hasard)</string>
     <string name="advantage_alchemist_desc">(Vous commencerez en sachant préparer &font_cyan;1 &font_end;type de potion et vous recevrez &font_cyan;3 &font_end;matériaux aléatoires)</string>
     <string name="advantage_blacksmith_desc">(Vous commencerez en sachant créer une &font_attack;Arme&font_end;, un &font_defense;Bouclier&font_end;, une piece d\'&font_defense;Armure &font_end;et tu recevras &font_cyan;3 &font_end;des matériaux aléatoires)</string>
-    <string name="advantage_noble_desc">(Vous commencerez avec plus d\'&font_gold;or&font_end;)</string>
+    <string name="advantage_noble_desc">(Vous commencerez avec plus d\'&font_gold;Or&font_end;)</string>
     <string name="advantage_random_selected">Vous êtes: %1$s !</string>
     <string name="advantage_ranger_desc">(Vous commencerez avec une arme à &font_speed;Distance &font_end;et quelques munitions)</string>
 
@@ -1044,7 +1044,7 @@
     <string name="quest_complete">Quête accomplie !</string>
     <string name="quest_kill_single_monster_text_giving">Élimine le %1$s vers &font_cyan;%2$d&font_end;, &font_cyan;%3$d&font_end; </string>
     <string name="quest_find_lost_item_text_giving">J\'ai perdu un(e) %1$s… La dernière fois que je l\'ai vu, je crois que c\'était vers %2$s, %3$s… Je vous le demande, &font_cyan;Cherchez &font_end;
-        le et ramenez le moi ! Merci!</string>
+        le et ramenez le moi ! Merci !</string>
     <string name="quest_find_lost_item_text_reward">Voici ta récompense : %1$s !</string>
     <string name="quest_find_lost_item_text_quest_screen_find">Vous devez retrouver %1$s. On t\'a conseillé d\'aller &font_cyan;Chercher &font_end;vers %2$s, %3$s.</string>
     <string name="quest_find_lost_item_text_quest_screen_return">Remettre le %1$s à %2$s vers %3$s, %4$s.</string>
@@ -1223,7 +1223,7 @@
     <string name="quest_rescue_someone_name_82" tools:ignore="UnusedResources">Le peintre</string>
     <string name="quest_rescue_someone_name_83" tools:ignore="UnusedResources">Le musicien</string>
     <string name="quest_rescue_someone_name_84" tools:ignore="UnusedResources">Le chanteur</string>
-    <string name="quest_rescue_someone_name_85" tools:ignore="UnusedResources">The Bard</string>
+    <string name="quest_rescue_someone_name_85" tools:ignore="UnusedResources">Le barde</string>
     <string name="quest_rescue_someone_name_86" tools:ignore="UnusedResources">Le garde</string>
     <string name="quest_rescue_someone_name_87" tools:ignore="UnusedResources">La grande femme</string>
     <string name="quest_rescue_someone_name_88" tools:ignore="UnusedResources">Le grand homme</string>
@@ -1249,7 +1249,7 @@
     <string name="item_temporary_potion_coward">Potion du &font_glass;Fuyard&font_end;</string>
     <string name="item_temporary_potion_coward_info">Bois ça pour temporairement garantir la fuite lors d\'un combat.</string>
     <string name="item_temporary_potion_coward_quaff">Vous êtes temporairement capable de fuir à tous les coups</string>
-    <string name="item_temporary_potion_coward_remove">Les effets de la Potion du &font_glass;Fuyard &font_end;se dissipe…</string>
+    <string name="item_temporary_potion_coward_remove">Les effets de la Potion du &font_glass;Fuyard &font_end;se dissipent…</string>
     <string name="item_temporary_potion_big_stomach">Potion du &font_bar;Gros estomac &font_end;</string>
     <string name="item_temporary_potion_big_stomach_info">Bois ça pour devenir temporairement plus résistant à la faim.</string>
     <string name="item_temporary_potion_big_stomach_quaff">Vous êtes temporairement plus résistant à la faim (&font_bar;%1$d&font_end;)</string>
@@ -1298,8 +1298,8 @@
     <string name="weapon_type_axe">Hache</string>
     <string name="weapon_type_dagger">Dague</string>
 
-    <string name="hot_damage">C\'est trop &font_red;chaud &font_end;par ici! Tu reçois &font_red;%1$d &font_end;de dégâts!</string>
-    <string name="cold_damage">C\'est trop &font_tundra;froid &font_end;par ici! Tu reçois &font_red;%1$d &font_end;de dégâts!</string>
+    <string name="hot_damage">C\'est trop &font_red;chaud &font_end;par ici ! Tu reçois &font_red;%1$d &font_end;de dégâts !</string>
+    <string name="cold_damage">C\'est trop &font_tundra;froid &font_end;par ici ! Tu reçois &font_red;%1$d &font_end;de dégâts !</string>
     <string name="protection_type_hot">&font_hell;Feu&font_end;</string>
     <string name="protection_type_cold">&font_tundra;Froid&font_end;</string>
     <string name="equipment_protection">protection de &lt;font color=\"%1$s\"&gt;%2$s &font_end;</string>
@@ -1318,21 +1318,21 @@
     <string name="content_description_dungeon_current_position_info">Bouton de position actuelle du donjon</string>
 
     <string name="crafting_title">Fabriquer</string>
-    <string name="crafting_title_with_recipe">fabriquer [%1$s]</string>
+    <string name="crafting_title_with_recipe">Fabriquer [%1$s]</string>
     <string name="craft_text_you_know_no_crafting_recipes">Tu ne connais encore aucune recette de &font_cyan;Fabrication &font_end;.</string>
-    <string name="crafting_recipe_learnt">Tu as appris à fabriquer %1$s!</string>
+    <string name="crafting_recipe_learnt">Tu as appris à fabriquer %1$s !</string>
     <string name="crafting_recipe_already_known">&italic;Vous connaissez déjà la recette de &font_cyan;fabrication&font_end;&italic_end;</string>
     <string name="crafting_recipe_name">[&font_cyan;Fabrication&font_end; Recipe] %1$s</string>
-    <string name="crafting_you_crafted_item">Tu as fabriqué %1$s!</string>
-    <string name="crafting_you_crafted_item_but_dropped_it">Tu as fabriqué %1$s mais tu ne peux pas le garder, pas de place dans l\'inventaire!</string>
+    <string name="crafting_you_crafted_item">Tu as fabriqué %1$s !</string>
+    <string name="crafting_you_crafted_item_but_dropped_it">Tu as fabriqué %1$s mais tu ne peux pas le garder, pas de place dans l\'inventaire !</string>
     <string name="crafting_not_enough_ingredients">Pas assez d\'ingrédients…</string>
 
     <string name="skills_title">Compétences</string>
-    <string name="skills_skill_learnt">Tu as appris la compétence de %1$s!</string>
+    <string name="skills_skill_learnt">Tu as appris la compétence de %1$s !</string>
     <string name="skills_tree_title">Arbre de compétences (&font_cyan;%1$d&font_end; Point de Compétence)</string>
     <string name="skills_empty_message">Tu n\'as encore aucune &font_cyan;Compétence&font_end;…</string>
     <string name="skills_empty_tree_message">Tu n\'as aucune &font_cyan;Compétence&font_end; à apprendre…</string>
-    <string name="skills_necessary_skill_text">Compétence nécessaire: &font_cyan;%1$s&font_end;</string>
+    <string name="skills_necessary_skill_text">Compétence nécessaire : &font_cyan;%1$s&font_end;</string>
 
     <string name="action_search">&font_cyan;Chercher&font_end;</string>
     <string name="action_searching">Recherche</string>
