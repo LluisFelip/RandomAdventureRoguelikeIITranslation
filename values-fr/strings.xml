@@ -1048,21 +1048,21 @@
     <string name="quest_find_lost_item_text_reward">Voici ta récompense : %1$s !</string>
     <string name="quest_find_lost_item_text_quest_screen_find">Vous devez retrouver %1$s. On t\'a conseillé d\'aller &font_cyan;Chercher &font_end;vers %2$s, %3$s.</string>
     <string name="quest_find_lost_item_text_quest_screen_return">Remettre le %1$s à %2$s vers %3$s, %4$s.</string>
-    <string name="quest_find_lost_item_text_villager_complete">Un grand merci de me rendre %1$s!</string>
-    <string name="quest_find_item_now_return_to">Tu as trouvé %1$s! Tu devrais maintenant le remettre à &font_cyan;%2$s &font_end;vers &font_cyan;%3$d&font_end;, &font_cyan;%4$d&font_end;.</string>
+    <string name="quest_find_lost_item_text_villager_complete">Un grand merci de me rendre %1$s !</string>
+    <string name="quest_find_item_now_return_to">Tu as trouvé %1$s ! Tu devrais maintenant le remettre à &font_cyan;%2$s &font_end;vers &font_cyan;%3$d&font_end;, &font_cyan;%4$d&font_end;.</string>
     <string name="quest_find_lost_item_tile_content_name">C\'est un item de quête. Ta mission est de le rapporter à son propriétaire.</string>
 
-    <string name="quest_find_lost_item_item_name_001" tools:ignore="UnusedResources">une boite</string>
+    <string name="quest_find_lost_item_item_name_001" tools:ignore="UnusedResources">une boîte</string>
     <string name="quest_find_lost_item_item_name_002" tools:ignore="UnusedResources">un sac mystérieux</string>
     <string name="quest_find_lost_item_item_name_003" tools:ignore="UnusedResources">un document secret</string>
     <string name="quest_find_lost_item_item_name_004" tools:ignore="UnusedResources">une chose gluante</string>
-    <string name="quest_find_lost_item_item_name_005" tools:ignore="UnusedResources">Une carte avec un X dessus</string>
+    <string name="quest_find_lost_item_item_name_005" tools:ignore="UnusedResources">une carte avec un X dessus</string>
     <string name="quest_find_lost_item_item_name_006" tools:ignore="UnusedResources">une photo de famille</string>
-    <string name="quest_find_lost_item_item_name_007" tools:ignore="UnusedResources">Un bouquet de fleurs</string>
+    <string name="quest_find_lost_item_item_name_007" tools:ignore="UnusedResources">un bouquet de fleurs</string>
     <string name="quest_find_lost_item_item_name_008" tools:ignore="UnusedResources">une boîte de nourriture pour chien</string>
     <string name="quest_find_lost_item_item_name_009" tools:ignore="UnusedResources">une clé</string>
     <string name="quest_find_lost_item_item_name_010" tools:ignore="UnusedResources">un disque de valeur</string>
-    <string name="quest_find_lost_item_item_name_011" tools:ignore="UnusedResources">un chapeau simpa</string>
+    <string name="quest_find_lost_item_item_name_011" tools:ignore="UnusedResources">un chapeau sympa</string>
     <string name="quest_find_lost_item_item_name_012" tools:ignore="UnusedResources">une patate</string>
     <string name="quest_find_lost_item_item_name_013" tools:ignore="UnusedResources">un manteau imperméable</string>
     <string name="quest_find_lost_item_item_name_014" tools:ignore="UnusedResources">un mirroir magique</string>
@@ -1072,7 +1072,7 @@
     <string name="quest_find_lost_item_item_name_018" tools:ignore="UnusedResources">une dent en or</string>
     <string name="quest_find_lost_item_item_name_019" tools:ignore="UnusedResources">un jouet</string>
     <string name="quest_find_lost_item_item_name_020" tools:ignore="UnusedResources">un gant</string>
-    <string name="quest_find_lost_item_item_name_021" tools:ignore="UnusedResources">une citrouille écrabouillé</string>
+    <string name="quest_find_lost_item_item_name_021" tools:ignore="UnusedResources">une citrouille écrabouillée</string>
     <string name="quest_find_lost_item_item_name_022" tools:ignore="UnusedResources">un morceau de papier</string>
     <string name="quest_find_lost_item_item_name_023" tools:ignore="UnusedResources">une lettre d\'amour</string>
     <string name="quest_find_lost_item_item_name_024" tools:ignore="UnusedResources">une canette de bière</string>
@@ -1083,26 +1083,26 @@
     <string name="quest_find_lost_item_item_name_029" tools:ignore="UnusedResources">une vis</string>
     <string name="quest_find_lost_item_item_name_030" tools:ignore="UnusedResources">un livre rare</string>
     <string name="quest_find_lost_item_item_name_031" tools:ignore="UnusedResources">un masque</string>
-    <string name="quest_find_lost_item_item_name_032" tools:ignore="UnusedResources">un choufleur</string>
+    <string name="quest_find_lost_item_item_name_032" tools:ignore="UnusedResources">un chou-fleur</string>
     <string name="quest_find_lost_item_item_name_033" tools:ignore="UnusedResources">une pièce antique</string>
     <string name="quest_find_lost_item_item_name_034" tools:ignore="UnusedResources">une image antique</string>
-    <string name="quest_find_lost_item_item_name_035" tools:ignore="UnusedResources">une mémoire</string>
+    <string name="quest_find_lost_item_item_name_035" tools:ignore="UnusedResources">un souvenir</string>
     <string name="quest_find_lost_item_item_name_036" tools:ignore="UnusedResources">un livre sans pages</string>
-    <string name="quest_find_lost_item_item_name_037" tools:ignore="UnusedResources">une oreille d\'elf</string>
-    <string name="quest_find_lost_item_item_name_038" tools:ignore="UnusedResources">un cocombre uwu</string>
+    <string name="quest_find_lost_item_item_name_037" tools:ignore="UnusedResources">une oreille d\'elfe</string>
+    <string name="quest_find_lost_item_item_name_038" tools:ignore="UnusedResources">un concombre uwu</string>
     <string name="quest_find_lost_item_item_name_039" tools:ignore="UnusedResources">un cornichon</string>
     <string name="quest_find_lost_item_item_name_040" tools:ignore="UnusedResources">des chaussures de princesse</string>
     <string name="quest_find_lost_item_item_name_041" tools:ignore="UnusedResources">un habit stylé</string>
     <string name="quest_find_lost_item_item_name_042" tools:ignore="UnusedResources">un sac de bonbons</string>
-    <string name="quest_find_lost_item_item_name_043" tools:ignore="UnusedResources">un sac à rire</string>
+    <string name="quest_find_lost_item_item_name_043" tools:ignore="UnusedResources">un sac a rire</string>
     <string name="quest_find_lost_item_item_name_044" tools:ignore="UnusedResources">un vase délicat</string>
-    <string name="quest_find_lost_item_item_name_045" tools:ignore="UnusedResources">a nail file</string>
+    <string name="quest_find_lost_item_item_name_045" tools:ignore="UnusedResources">un coupe-ongle</string>
     <string name="quest_find_lost_item_item_name_046" tools:ignore="UnusedResources">une craie</string>
-    <string name="quest_find_lost_item_item_name_047" tools:ignore="UnusedResources">a needle</string>
+    <string name="quest_find_lost_item_item_name_047" tools:ignore="UnusedResources">une aiguille</string>
     <string name="quest_find_lost_item_item_name_048" tools:ignore="UnusedResources">un bouchon en liège</string>
     <string name="quest_find_lost_item_item_name_049" tools:ignore="UnusedResources">un aimant</string>
     <string name="quest_find_lost_item_item_name_050" tools:ignore="UnusedResources">un bouton</string>
-    <string name="quest_find_lost_item_item_name_051" tools:ignore="UnusedResources">un marque page</string>
+    <string name="quest_find_lost_item_item_name_051" tools:ignore="UnusedResources">un marque-page</string>
     <string name="quest_find_lost_item_item_name_052" tools:ignore="UnusedResources">un trampoline rouge</string>
     <string name="quest_find_lost_item_item_name_053" tools:ignore="UnusedResources">un T-shirt bleu</string>
     <string name="quest_find_lost_item_item_name_054" tools:ignore="UnusedResources">un chandail vert</string>
@@ -1114,12 +1114,12 @@
     <string name="quest_find_lost_item_item_name_060" tools:ignore="UnusedResources">une araignée extraordinaire</string>
     <string name="quest_find_lost_item_item_name_061" tools:ignore="UnusedResources">une photo d\'un chien</string>
     <string name="quest_find_lost_item_item_name_062" tools:ignore="UnusedResources">une photo d\'un chat</string>
-    <string name="quest_find_lost_item_item_name_063" tools:ignore="UnusedResources">une painture plûtot chère</string>
+    <string name="quest_find_lost_item_item_name_063" tools:ignore="UnusedResources">une peinture onéreuse</string>
     <string name="quest_find_lost_item_item_name_064" tools:ignore="UnusedResources">un objet inutile</string>
     <string name="quest_find_lost_item_item_name_065" tools:ignore="UnusedResources">un étrange appareil</string>
     <string name="quest_find_lost_item_item_name_066" tools:ignore="UnusedResources">une lettre de haine</string>
     <string name="quest_find_lost_item_item_name_067" tools:ignore="UnusedResources">une statue d\'oiseau</string>
-    <string name="quest_find_lost_item_item_name_068" tools:ignore="UnusedResources">un gateau</string>
+    <string name="quest_find_lost_item_item_name_068" tools:ignore="UnusedResources">un gâteau</string>
     <string name="quest_find_lost_item_item_name_069" tools:ignore="UnusedResources">un blouson</string>
     <string name="quest_find_lost_item_item_name_070" tools:ignore="UnusedResources">un blouson élégant</string>
     <string name="quest_find_lost_item_item_name_071" tools:ignore="UnusedResources">une montre solaire</string>
@@ -1127,16 +1127,16 @@
     <string name="quest_bring_items_text_giving">J\'ai besoin de %1$s %2$s…</string>
     <string name="quest_bring_items_text_quest_screen">Apporte %1$s %2$s à %3$s vers %4$s, %5$s</string>
     <string name="quest_bring_items_text_villager_not_enough">Oh, j\'ai besoin de %1$s %2$s, tu as encore besoin de %3$s de plus…</string>
-    <string name="quest_bring_items_text_villager_give_items">Donner %1$s %2$s à %3$s?</string>
-    <string name="quest_bring_items_text_you_have_the_items">Tu as les items!</string>
+    <string name="quest_bring_items_text_villager_give_items">Donner %1$s %2$s à %3$s ?</string>
+    <string name="quest_bring_items_text_you_have_the_items">Tu as les items !</string>
 
-    <string name="quest_rescue_someone_text_giving">Vous devriez aller secourir %1$s! La dernière fois que je l\'ai vu, c\'était vers %2$s, %3$s, je vous en prie, faites vite!</string>
-    <string name="quest_rescue_someone_text_quest_screen_rescue">Va secourir %1$s! Cherche vers%2$s, %3$s.</string>
+    <string name="quest_rescue_someone_text_giving">Vous devriez aller secourir %1$s ! La dernière fois que je l\'ai vu, c\'était vers %2$s, %3$s, je vous en prie, faites vite !</string>
+    <string name="quest_rescue_someone_text_quest_screen_rescue">Va secourir %1$s ! Cherche vers%2$s, %3$s.</string>
     <string name="quest_rescue_someone_text_quest_screen_return">Ramène %1$s à %2$s vers %3$s, %4$s.</string>
-    <string name="quest_rescue_someone_text_villager_complete">Merci d\'avoir retrouvé %1$s!</string>
-    <string name="quest_rescue_someone_text_reward">Voici votre récompense: %1$s d\'Or!</string>
+    <string name="quest_rescue_someone_text_villager_complete">Merci d\'avoir retrouvé %1$s !</string>
+    <string name="quest_rescue_someone_text_reward">Voici votre récompense : %1$s d\'Or !</string>
     <string name="quest_rescue_someone">Secourir quelqu\'un</string>
-    <string name="quest_rescue_someone_text_output_rescued">Secouru \"%1$s\"!</string>
+    <string name="quest_rescue_someone_text_output_rescued">Secouru \"%1$s\" !</string>
     <string name="quest_rescue_someone_following_you">&font_quest;%1$s &font_end;est ici et te suit…</string>
 
     <string name="quest_rescue_someone_name_1" tools:ignore="UnusedResources">La princesse</string>
