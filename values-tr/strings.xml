@@ -576,7 +576,7 @@
     <string name="tool_chopping_axe">&font_wood;Chopping&font_end; Axe</string>
     <string name="tool_pickaxe">&font_silver;Pickaxe&font_end;</string>
     <string name="tool_fishing_rod">&font_cyan;Fishing&font_end; Rod</string>
-    <string name="tool_broke">%1$s broke!</string>
+
     <string name="tool_action_chopping">&font_wood;Chopping&font_end;</string>
     <string name="tool_action_mining">&font_silver;Mining&font_end;</string>
     <string name="tool_action_fishing">&font_cyan;Fishing&font_end;</string>
@@ -3270,7 +3270,6 @@
     <string name="dungeon_deep_forest">&font_dark_green;Deep &font_end;&font_green;Forest&font_end;</string>
     <string name="dungeon_old_tomb">&font_silver;Old &font_end;&font_stone;Tomb&font_end;</string>
     <string name="dungeon_ancient_ruins">&font_gold;Ancient &font_end;&font_ruins;Ruins&font_end;</string>
-    <string name="dungeon_pyramid">&font_beetle_talisman;Pyramid&font_end;</string>
     <string name="dungeon_big_cave">&font_stone;Big &font_end;&font_end;&font_cave;Cave&font_end;</string>
     <string name="dungeon_icy_cave">&font_ice;Icy &font_end;&font_cave;Cave&font_end;</string>
     <string name="dungeon_lava_cave">&font_red;Lava &font_end;&font_cave;Cave&font_end;</string>

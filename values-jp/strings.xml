@@ -115,7 +115,7 @@
     <!ENTITY font_coral "&lt;font color=&quot;#FF00BF&quot;&gt;">
     ]>
 
-<resources xmlns:tools="http://schemas.android.com/tools">
+<resources xmlns:tools="http://schemas.android.com/tools"
 
     <plurals name="quest_kill_monsters_text_giving" tools:ignore="MissingQuantity">
         <item quantity="one">I need you to kill %1$s %2$s monster</item>
@@ -576,7 +576,7 @@
     <string name="tool_chopping_axe">&font_wood;Chopping&font_end; Axe</string>
     <string name="tool_pickaxe">&font_silver;Pickaxe&font_end;</string>
     <string name="tool_fishing_rod">&font_cyan;Fishing&font_end; Rod</string>
-    <string name="tool_broke">%1$s broke!</string>
+
     <string name="tool_action_chopping">&font_wood;Chopping&font_end;</string>
     <string name="tool_action_mining">&font_silver;Mining&font_end;</string>
     <string name="tool_action_fishing">&font_cyan;Fishing&font_end;</string>

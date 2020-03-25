@@ -358,7 +358,7 @@
     <string name="inventory_equipped_equipment">%1$s 장착</string>
     <string name="inventory_wielded_item">%1$s 장착</string>
     <string name="inventory_unwielded_item">%1$s 장착 해제</string>
-    <string name="inventory_you_have_no_items_right_now">아이템이 없습니다...</string>
+    <string name="inventory_you_have_no_items_right_now">아이템이 없습니다…</string>
     <string name="inventory_text_you_quaff_the">%1$s을(를) 마셨습니다!</string>
     <string name="inventory_amount_parenthesis">(&font_cyan;%1$d&font_end;)</string>
     <string name="inventory_pickup_couldnt">%1$s을(를) 주울 수 없습니다, 인벤토리가 꽉 찼습니다!</string>
@@ -1075,11 +1075,11 @@
     ]]>
     </string>
 
-    <string name="merchants_title">&font_gold;상인&font_end;</string>
+    <string name="merchants_title">&font_gold;상인&font_end;(&font_gold;%1$d&font_end;)</string>
     <string name="merchant_text_you_have_no_merchants_right_now">당신은 아직 어떠한 상인도 찾지 못했습니다…</string>
     <string name="merchant_quest_description">&font_gold;%1$s&font_end; &font_cyan;%2$d&font_end;, &font_cyan;%3$d &font_end;가 당신에게 &font_cyan;%4$d만큼의 &font_end;%5$s를 가져오라고 했습니다. 당신은 현재 %6$s를 가지고 있습니다. [&font_cyan;%7$s&font_end;]</string>
 
-    <string name="quest_quests_title">퀘스트</string>
+    <string name="quest_quests_title">&font_cyan;퀘스트 &font_end;(&font_cyan;%1$d&font_end;)</string>
     <string name="quest_text_for_gold">%1$s의 골드</string>
     <string name="quest_text_reward">보상: %1$s 골드</string>
     <string name="quest_island_name_parenthesis">[&font_cyan;%1$s&font_end;]</string>
@@ -1668,7 +1668,6 @@
     <string name="tile_content_type_pet">&font_pet;펫&font_end;</string>
     <string name="tile_content_type_nautical_chart_black_island">해상 지도 (&font_black_low;검은 섬&font_end;)</string>
     <string name="tile_content_type_nautical_chart_white_island">해상 지도 (&font_white;하얀 섬&font_end;)</string>
-    <string name="tile_content_type_whetstone">숫돌</string>
     <string name="tile_content_type_spell_book">&font_mana;주문&font_end; 책</string>
     <string name="tile_content_type_explorer">탐험가</string>
     <string name="tile_content_type_meditator">명상가</string>
@@ -1865,7 +1864,7 @@
     <string name="castle_message_royal_seal_message">나는 자네가 &font_gold;왕&font_end;으로 부터 &font_gold;옥쇄&font_end;를 받았다는 것을 알고있소. 나에게 &font_cyan;%1$d &font_end;옥쇄를 준다면, 나는 &font_gold;왕&font_end;의 &font_iron;방패&font_end;를 주겠소.&br;&br;가지고 싶소?</string>
     <string name="castle_message_royal_seal_not_enough">당신은 충분한 &font_gold;옥쇄&font_end;가 없소… &font_cyan;%1$d&font_end;개를 모으고 다시 오시오!</string>
     <string name="bar_caps">바</string>
-    <string name="bar_text_question_eat_at_the" tools:ignore="PluralsCandidate">%1$s을(를) &font_gold;%2$d 골드&font_end;를 내고 먹을까요?</string>
+    <string name="bar_text_question_eat_at_the" tools:ignore="PluralsCandidate">을(를) &font_gold;%1$d 골드&font_end;를 내고 먹을까요?</string>
     <string name="bar_not_hungry">배고프지 않습니다…</string>
     <string name="bar_ate_at_the">당신은 %1$s에서 먹었습니다.</string>
     <string name="bar_not_enough_gold">당신은 %1$s에서 먹기에 충분한 골드가 없습니다.</string>
@@ -1966,7 +1965,7 @@
     <string name="temple_already_explored">안으로 들어갈 수 없습니다… 입구가 바위로 막혔습니다.</string>
 
     <string name="inn_title">여관</string>
-    <string name="inn_question_rest_in_the" tools:ignore="PluralsCandidate">%1$s에서 &font_gold;%2$d 골드&font_end;를 내고 쉴까요?</string>
+    <string name="inn_question_rest_in_the" tools:ignore="PluralsCandidate">에서 &font_gold;%1$d 골드&font_end;를 내고 쉴까요?</string>
     <string name="inn_rest_inn">당신은 여관에서 휴식을 취했습니다.</string>
     <string name="inn_not_enough_gold">당신은 &font_inn;여관&font_end;에 머물만한 충분한 골드가 없습니다.</string>
     <string name="inn_already_rested">당신은 당장 휴식을 취하지 않아도 됩니다.</string>

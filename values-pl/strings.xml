@@ -126,17 +126,6 @@
         <item quantity="other">Zabij %1$s potworow typu %2$s</item>
     </plurals>
 
-    <string name="marked_char_with_color" tools:ignore="MissingTranslation">[&lt;font color=\"%1$s\"&gt;%2$c&font_end;]</string>
-    <string name="mark_white" tools:ignore="MissingTranslation">&font_white;#ffffff&font_end;</string>
-    <string name="mark_red" tools:ignore="MissingTranslation">&font_red;#ff0000&font_end;</string>
-    <string name="mark_green" tools:ignore="MissingTranslation">&font_green;#00ff00&font_end;</string>
-    <string name="mark_blue" tools:ignore="MissingTranslation">&font_blue;#0000ff&font_end;</string>
-    <string name="mark_yellow" tools:ignore="MissingTranslation">&font_mark_yellow;#ffff00&font_end;</string>
-    <string name="mark_magenta" tools:ignore="MissingTranslation">&font_mark_magenta;#ff00ff&font_end;</string>
-    <string name="mark_cyan" tools:ignore="MissingTranslation">&font_mark_cyan;#00ffff&font_end;</string>
-
-    <string name="text_br" tools:ignore="MissingTranslation">&br;</string>
-
     <string name="app_name">RAR II</string>
     <string name="menu_title">Random Adventure&line_break;Roguelike&line_break;II</string>
     <string name="title_">Random&line_break;Adventure&line_break;Roguelike</string>

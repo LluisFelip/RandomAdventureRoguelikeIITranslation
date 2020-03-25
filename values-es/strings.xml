@@ -3346,7 +3346,7 @@
     <string name="wise_ascend_message_1">¿Quieres &font_alchemist;Ascender&font_end;?</string>
 
     <string name="creator_appeared_title">¡El &font_asterisk_creator;Creador &font_end;ha aparecido!</string>
-    <string name="creator_appeared_message">De repente, un ser superior, como nada que hayas visto hasta ahora, aparece frente a ti… Y, sabes, dentro de tí, que se trata de… &font_asterisk_creator;Archison&font_end;, el &font_asterisk_creator;Creador&font_end;.</string>
+    <string name="creator_appeared_message">De repente, un ser superior, como nada que hayas visto hasta ahora, aparece frente a ti… Y, sabes, dentro de ti, que se trata de… &font_asterisk_creator;Archison&font_end;, el &font_asterisk_creator;Creador&font_end;.</string>
 
     <string name="combat_monster_healed_completely">¡%s se cura completamente!</string>
 
@@ -3388,7 +3388,6 @@
     <string name="tile_content_type_cassette">&font_alchemist;Casete&font_end;</string>
     <string name="cassette_name">&font_alchemist;Casete &font_end;(%s)</string>
     <string name="item_info_cassette">Parece ser un tipo de reliquia… Quién sabe cómo y para qué se usará…</string>
-
 
 
     <!-- TODO - TRANSLATE TO SPANISH-->
