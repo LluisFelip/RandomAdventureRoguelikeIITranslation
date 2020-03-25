@@ -117,53 +117,6 @@
 
 <resources xmlns:tools="http://schemas.android.com/tools">
 
-    <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
-    <!-- DO NOT TRANSLATE                                                                        -->
-    <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
-
-    <string name="marked_char_with_color" translatable="false">[&lt;font color=\"%1$s\"&gt;%2$c&font_end;]</string>
-    <string name="mark_white" translatable="false">&font_white;#ffffff&font_end;</string>
-    <string name="mark_red" translatable="false">&font_red;#ff0000&font_end;</string>
-    <string name="mark_green" translatable="false">&font_green;#00ff00&font_end;</string>
-    <string name="mark_blue" translatable="false">&font_blue;#0000ff&font_end;</string>
-    <string name="mark_yellow" translatable="false">&font_mark_yellow;#ffff00&font_end;</string>
-    <string name="mark_magenta" translatable="false">&font_mark_magenta;#ff00ff&font_end;</string>
-    <string name="mark_cyan" translatable="false">&font_mark_cyan;#00ffff&font_end;</string>
-
-    <string name="text_br" translatable="false">&br;</string>
-
-    <string name="cyan_text" translatable="false">&font_cyan;%1$s&font_end;</string>
-    <string name="gold_number" translatable="false">&font_gold;%1$d&font_end;</string>
-
-    <string name="app_name" translatable="false">RAR II</string>
-    <string name="menu_title" translatable="false">Random Adventure&line_break;Roguelike&line_break;II</string>
-    <string name="title_" translatable="false">Random&line_break;Adventure&line_break;Roguelike</string>
-    <string name="title_2" translatable="false">II</string>
-
-    <string name="new_game_hero_name_with_roman_number" translatable="false">%1$s %2$s</string>
-
-    <string name="monster_type_plant" translatable="false">Plant</string>
-    <string name="monster_type_beast" translatable="false">Beast</string>
-    <string name="monster_type_humanoid" translatable="false">Humanoid</string>
-    <string name="monster_type_construct" translatable="false">Construct</string>
-    <string name="monster_type_fiend" translatable="false">Fiend</string>
-    <string name="monster_type_fey" translatable="false">Fey</string>
-    <string name="monster_type_dragon" translatable="false">Dragon</string>
-    <string name="monster_type_undead" translatable="false">Undead</string>
-    <string name="monster_type_elemental" translatable="false">Elemental</string>
-    <string name="monster_type_swarm" translatable="false">Swarm</string>
-    <string name="monster_type_monstrosity" translatable="false">Monstrosity</string>
-    <string name="monster_type_aberration" translatable="false">Aberration</string>
-    <string name="monster_type_giant" translatable="false">Giant</string>
-    <string name="monster_type_ooze" translatable="false">Ooze</string>
-    <string name="monster_type_celestial" translatable="false">Celestial</string>
-
-    <string name="infinity_island_infinity_level" translatable="false">[+&font_infinity;%d&font_end;]</string>
-
-    <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
-    <!-- TRANSLATE                                                                               -->
-    <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
-
     <plurals name="quest_kill_monsters_text_giving" tools:ignore="MissingQuantity">
         <item quantity="one">I need you to kill %1$s %2$s monster</item>
         <item quantity="other">I need you to kill %1$s %2$s monsters</item>

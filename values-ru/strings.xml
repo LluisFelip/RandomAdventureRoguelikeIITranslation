@@ -880,7 +880,7 @@
     <string name="combat_monster_dead_vanishes">%1$s turns to dust!</string>
     <string name="combat_monster_attacks">%1$s attacks!</string>
     <string name="combat_fight">Атаковать</string>
-    <string name="combat_player_flee_fails">Вы пытаетесь сбежать, но вам не удаётся...</string>
+    <string name="combat_player_flee_fails">Вы пытаетесь сбежать, но вам не удаётся…</string>
     <string name="combat_player_flee_succeeds">Вы смогли убежать!</string>
     <string name="combat_killed_monster">Вы убили %1$s!</string>
     <string name="combat_player_is_dead">%1$s&br;died at level &font_cyan;%2$d&font_end;!</string>
@@ -1041,7 +1041,7 @@
     Everything is an adventure if you\'re always lost.\n
     All those moments will be lost in time, like tears in rain.\n
     Eat cheese or perish.\n
-    I\'m here to kick gum and chew butt...wait, that\'s not right...\n
+    I\'m here to kick gum and chew butt…wait, that\'s not right…\n
     I\'m against crime, and I\'m not ashamed to admit it.\n
     We all make choices in life, but in the end, our choices make us.\n
     A man who praises a man to his face is full of ulterior motives.\n

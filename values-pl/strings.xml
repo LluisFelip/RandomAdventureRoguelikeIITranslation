@@ -457,9 +457,8 @@
         ?&br;&br;Jak już staje się &font_wood;Drzewem&font_end; &font_purifying;Oczyszczenia&font_end;, zapobiega  on ponownemu pojawianiu się tych monstrów na wyspie.&br;&br;Pamiętaj o podlewaniu go &font_water;wodą&font_end; &font_iron;, z wiadra &font_end;by urosło.</string>
     <string name="purifying_seed_island_already_purified">Jakieś magiczne siły zabraniają Ci zasadzić drzewko (wyspa już oczyszczona)</string>
     <string name="purifying_seed_island_already_planted_purified_seed">Jakieś magiczne siły zabraniają Ci zasadzić drzewko  (Na tej wyspie już zasadzono &font_plant;Nasionko &font_end; &font_purifying;Oczyszczenia&font_end;
-        ...)</string>
-    <string name="purifying_seed_planted">Zasadziłeś &font_plant;Nasionko&font_end; &font_purifying;Oczyszczenia&font_end;
-        .</string>
+        …)</string>
+    <string name="purifying_seed_planted">Zasadziłeś &font_plant;Nasionko&font_end; &font_purifying;Oczyszczenia&font_end;.</string>
     <string name="purifying_seed_watered_magically_grows">&font_plant;Nasionko &font_end;&font_purifying;Oczyszczenia&font_end;
         magicznie rośnie i staje się &font_wood;Drzewem&font_end; &font_purifying;Oczyszczenia&font_end;! Czujesz, jak czystość obejmuje całą wyspę.</string>
     <string name="purifying_tree_chop_title">Zetnij &font_wood;Drzewo&font_end; &font_purifying;Oczyszczenia&font_end;?</string>
@@ -539,7 +538,7 @@
     <string name="item_info_experience_potion">Zażyj to a zyskasz %1$s &font_cyan;punktów doświadczenia &font_end;
         od razu.</string>
     <string name="item_info_material">Materiał używany do &font_cyan;wytwarzania &font_end;przedmiotów.</string>
-    <string name="item_info_merchants_mark">Ciekawe dla kogo ten symbol może być interesujący...</string>
+    <string name="item_info_merchants_mark">Ciekawe dla kogo ten symbol może być interesujący…</string>
     <string name="item_info_tool_chopping_axe">Użyj tego do &font_wood;cięcia drzew &font_end;by otrzymać &font_wood;Drewno&font_end;.</string>
     <string name="item_info_tool_pickaxe">Użyj tego do &font_stone;wydobywania z kamienia &font_end;by otrzymać &font_stone;Kamień &font_end;i inne minerały.</string>
     <string name="item_info_tool_fishing_rod">Użyj tego aby &font_cyan;łowić&font_end;
@@ -1069,7 +1068,7 @@
     Everything is an adventure if you\'re always lost.\n
     All those moments will be lost in time, like tears in rain.\n
     Eat cheese or perish.\n
-    I\'m here to kick gum and chew butt...wait, that\'s not right...\n
+    I\'m here to kick gum and chew butt…wait, that\'s not right…\n
     I\'m against crime, and I\'m not ashamed to admit it.\n
     We all make choices in life, but in the end, our choices make us.\n
     A man who praises a man to his face is full of ulterior motives.\n

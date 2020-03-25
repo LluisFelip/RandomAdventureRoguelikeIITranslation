@@ -3346,15 +3346,15 @@
     <string name="wise_ascend_message_1">¿Quieres &font_alchemist;Ascender&font_end;?</string>
 
     <string name="creator_appeared_title">¡El &font_asterisk_creator;Creador &font_end;ha aparecido!</string>
-    <string name="creator_appeared_message">De repente, un ser superior, como nada que hayas visto hasta ahora, aparece frente a tí… Y, sabes, dentro de tí, que se trata de… &font_asterisk_creator;Archison&font_end;, el &font_asterisk_creator;Creador&font_end;.</string>
+    <string name="creator_appeared_message">De repente, un ser superior, como nada que hayas visto hasta ahora, aparece frente a ti… Y, sabes, dentro de tí, que se trata de… &font_asterisk_creator;Archison&font_end;, el &font_asterisk_creator;Creador&font_end;.</string>
 
     <string name="combat_monster_healed_completely">¡%s se cura completamente!</string>
 
     <string name="item_info_creator_medal">Es una medalla brillante, un recuerdo de la ocasión en la que mataste al &font_asterisk_creator;Creador&font_end;.</string>
 
     <string name="wise_main_story_island_first_message">Hola, héroe! Estaré aquí si me necesitas.&br;&br;Habla conmigo si quieres descansar o si quieres abandonar este lugar…</string>
-    <string name="wise_main_story_island_second_message">¿Quieres recuperar tu &font_health;salud &font_end;, &font_mana;maná &font_end;y &font_hunger;hambre &font_end;por &font_gold;%1$d &font_end;monedas de &font_gold;oro&font_end;? (Se guardará un &font_primary_light;&italic;[CHECKPOINT] &italic_end;&font_end;)&br;&br;…o…&br;&br;¿Quieres abandonar este lugar? Desaparecerá para siempre, perderás la mitad de tu &font_gold;oro &font_end;, incluído el del &font_gold;Banco&font_end;, y tendrás que buscar las &font_cyan;Piezas de Mapa &font_end;de nuevo…</string>
-    <string name="wise_leave_island_confirmation_message">¿Estás seguro de que te quieres ir?&br;&br;Desaparecerá para siempre, perderás la mitad de tu &font_gold;oro &font_end;, incluído el del &font_gold;Banco&font_end;, y tendrás que buscar las &font_cyan;Piezas de Mapa &font_end;de nuevo…</string>
+    <string name="wise_main_story_island_second_message">¿Quieres recuperar tu &font_health;salud &font_end;, &font_mana;maná &font_end;y &font_hunger;hambre &font_end;por &font_gold;%1$d &font_end;monedas de &font_gold;oro&font_end;? (Se guardará un &font_primary_light;&italic;[CHECKPOINT] &italic_end;&font_end;)&br;&br;…o…&br;&br;¿Quieres abandonar este lugar? Desaparecerá para siempre, perderás la mitad de tu &font_gold;oro &font_end;, incluido el del &font_gold;Banco&font_end;, y tendrás que buscar las &font_cyan;Piezas de Mapa &font_end;de nuevo…</string>
+    <string name="wise_leave_island_confirmation_message">¿Estás seguro de que te quieres ir?&br;&br;Desaparecerá para siempre, perderás la mitad de tu &font_gold;oro &font_end;, incluido el del &font_gold;Banco&font_end;, y tendrás que buscar las &font_cyan;Piezas de Mapa &font_end;de nuevo…</string>
 
     <string name="button_rest">Descansar</string>
     <string name="button_leave_island">Irse</string>
