@@ -126,11 +126,6 @@
         <item quantity="other">Zabij %1$s potworow typu %2$s</item>
     </plurals>
 
-    <string name="app_name">RAR II</string>
-    <string name="menu_title">Random Adventure&line_break;Roguelike&line_break;II</string>
-    <string name="title_">Random&line_break;Adventure&line_break;Roguelike</string>
-    <string name="title_2">II</string>
-
     <string name="menu_new_game">Nowa gra</string>
     <string name="menu_continue_button">&font_cyan;Kontynuuj&font_end;&br;%1$s [&font_cyan;%2$d&font_end;]</string>
     <string name="menu_cemetery">Cmentarz</string>
@@ -581,7 +576,6 @@
     <string name="tool_chopping_axe">&font_wood;Siekiera&font_end;</string>
     <string name="tool_pickaxe">&font_silver;Kilof&font_end;</string>
     <string name="tool_fishing_rod">&font_cyan;Wędka&font_end;</string>
-    <string name="tool_broke">Zepsuto: %1$s!</string>
     <string name="tool_action_chopping">&font_wood;Rąbanie&font_end;</string>
     <string name="tool_action_mining">&font_silver;Wydobywanie&font_end;</string>
     <string name="tool_action_fishing">&font_cyan;Łowienie&font_end;</string>
@@ -995,7 +989,7 @@
 
 
     <!-- Do not translate this, instead, each language should have its own quotes, pop culture references, some kind of jokes, etc… -->
-    <string name="villager_quotes" translatable="false">
+    <string name="villager_quotes">
         <![CDATA[
     Buy more, buy more now. Buy and be happy.\n
     Our time is yours.\n
@@ -3237,8 +3231,6 @@
     <string name="shortcut_pet_attack">Pet Attack</string>
 
     <string name="food_trail_mix">&font_nut;Trail Mix&font_end;</string>
-
-    <string name="cyan_text" tools:ignore="MissingTranslation">&font_cyan;%1$s&font_end;</string>
 
     <string name="island_discovered">Island Discovered</string>
 

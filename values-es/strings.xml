@@ -569,7 +569,6 @@
     <string name="tool_chopping_axe">Hacha de &font_wood;Tala&font_end;</string>
     <string name="tool_pickaxe">&font_silver;Pico&font_end;</string>
     <string name="tool_fishing_rod">Caña de &font_cyan;Pescar&font_end;</string>
-    <string name="tool_broke">¡%1$s se rompió!</string>
     <string name="tool_action_chopping">&font_wood;Talando&font_end;</string>
     <string name="tool_action_mining">&font_silver;Minando&font_end;</string>
     <string name="tool_action_fishing">&font_cyan;Pescando&font_end;</string>

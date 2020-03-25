@@ -117,11 +117,11 @@
 
 <resources xmlns:tools="http://schemas.android.com/tools">
 
-    <plurals name="quest_kill_monsters_text_giving">
+    <plurals name="quest_kill_monsters_text_giving" tools:ignore="UnusedQuantity">
         <item quantity="one">%1$s %2$s을(를) 잡아주세요</item>
         <item quantity="other">%1$s %2$s을(를) 잡아주세요</item>
     </plurals>
-    <plurals name="quest_kill_monsters_text_quest_screen">
+    <plurals name="quest_kill_monsters_text_quest_screen" tools:ignore="UnusedQuantity">
         <item quantity="one">%1$s %2$s을(를) 잡아라</item>
         <item quantity="other">%1$s %2$s을(를) 잡아라</item>
     </plurals>
@@ -579,7 +579,6 @@
     <string name="tool_chopping_axe">&font_wood;벌목&font_end; 도끼</string>
     <string name="tool_pickaxe">&font_silver;곡괭이&font_end;</string>
     <string name="tool_fishing_rod">&font_cyan;낚시&font_end;대</string>
-    <string name="tool_broke">%1$s이(가) 파괴 되었습니다!</string>
     <string name="tool_action_chopping">&font_wood;자르기&font_end;</string>
     <string name="tool_action_mining">&font_silver;채광&font_end;</string>
     <string name="tool_action_fishing">&font_cyan;낚시&font_end;</string>

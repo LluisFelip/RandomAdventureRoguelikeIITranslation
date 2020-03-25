@@ -126,22 +126,6 @@
         <item quantity="other">Убей %1$s %2$s монстра</item>
     </plurals>
 
-    <string name="marked_char_with_color" tools:ignore="MissingTranslation">[&lt;font color=\"%1$s\"&gt;%2$c&font_end;]</string>
-    <string name="mark_white" tools:ignore="MissingTranslation">&font_white;#ffffff&font_end;</string>
-    <string name="mark_red" tools:ignore="MissingTranslation">&font_red;#ff0000&font_end;</string>
-    <string name="mark_green" tools:ignore="MissingTranslation">&font_green;#00ff00&font_end;</string>
-    <string name="mark_blue" tools:ignore="MissingTranslation">&font_blue;#0000ff&font_end;</string>
-    <string name="mark_yellow" tools:ignore="MissingTranslation">&font_mark_yellow;#ffff00&font_end;</string>
-    <string name="mark_magenta" tools:ignore="MissingTranslation">&font_mark_magenta;#ff00ff&font_end;</string>
-    <string name="mark_cyan" tools:ignore="MissingTranslation">&font_mark_cyan;#00ffff&font_end;</string>
-
-    <string name="text_br" tools:ignore="MissingTranslation">&br;</string>
-
-    <string name="app_name">RAR II</string>
-    <string name="menu_title">Random Adventure&line_break;Roguelike&line_break;II</string>
-    <string name="title_">Random&line_break;Adventure&line_break;Roguelike</string>
-    <string name="title_2">II</string>
-
     <string name="menu_new_game">Новая игра</string>
     <string name="menu_continue_button">&font_cyan;Продолжить&font_end;&br;%1$s [&font_cyan;%2$d&font_end;]</string>
     <string name="menu_cemetery">Чистилище</string>
@@ -573,7 +557,6 @@
     <string name="tool_chopping_axe">Топор &font_wood;Для рубки дерева&font_end;</string>
     <string name="tool_pickaxe">&font_silver;Кирка&font_end;</string>
     <string name="tool_fishing_rod">&font_cyan;Рыболовная&font_end; Удочка</string>
-    <string name="tool_broke">%1$s сломан!</string>
     <string name="tool_action_chopping">&font_wood;Рубит&font_end;</string>
     <string name="tool_action_mining">&font_silver;Добывает&font_end;</string>
     <string name="tool_action_fishing">&font_cyan;Рыбачит&font_end;</string>
