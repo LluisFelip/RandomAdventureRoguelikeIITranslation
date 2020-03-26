@@ -1348,15 +1348,15 @@
         le nombre de &font_gold;marchands&font_end; non trouvés sur cette île.</string>
     <string name="action_hunter">&font_cyan;Détec&font_end;. &font_red;Boss&font_end;&font_end;</string>
     <string name="action_hunter_description">Permet de &font_cyan;Détecter&font_end;
-        le nombre de &font_red;boss&font_end; présents sur l\'ile…</string>
+        le nombre de &font_red;boss&font_end; présents sur l\'île…</string>
     <string name="action_hunter_action_description">Détection de &font_red;boss&font_end;</string>
     <string name="action_hunter_action_description_positive_singular">Tu détecte &font_cyan;%1$d&font_end; &font_red;boss &font_end;sur l\'île.</string>
     <string name="action_hunter_action_description_positive_plural">Tu détecte &font_cyan;%1$d&font_end; &font_red;boss &font_end;sur l\'île !</string>
     <string name="action_hunter_action_description_negative">Il n\'y a aucun &font_red;boss &font_end;sur l\'île…</string>
     <string name="action_treasure_hunter">&font_cyan;Chasse&font_end;. &font_chest;Trésor&font_end;</string>
-    <string name="action_treasure_hunter_treasure_hunter">Permet de &font_cyan;Détecter&font_end; le nombre d\'&font_chest;objet dissimulé &font_end;sur cet île.</string>
-    <string name="action_treasure_hunter_action_description_positive_singular">Tu détectes &font_cyan;%1$d &font_end;d\'&font_chest;objet dissimulé&font_end;.</string>
-    <string name="action_treasure_hunter_action_description_positive_plural">Tu détectes &font_cyan;%1$d &font_end;d\'&font_chest;objet dissimulé&font_end;.</string>
+    <string name="action_treasure_hunter_treasure_hunter">Permet de &font_cyan;Détecter&font_end; le nombre d\'&font_chest;objets dissimulés &font_end;sur cet île.</string>
+    <string name="action_treasure_hunter_action_description_positive_singular">Tu détectes &font_cyan;%1$d &font_end;d\'&font_chest;objets dissimulés &font_end;.</string>
+    <string name="action_treasure_hunter_action_description_positive_plural">Tu détectes &font_cyan;%1$d &font_end;d\'&font_chest;objets dissimulés &font_end;.</string>
     <string name="action_treasure_hunter_action_description_negative">Il n\'y a aucun &font_chest;objet dissimulé&font_end;…</string>
 
     <string name="skill_fisherman">&font_cyan;Pêcheur&font_end;</string>
@@ -1384,14 +1384,14 @@
     <string name="skill_level_up">La compétence: %1$s monte au niveau &font_cyan;%2$d&font_end;</string>
     <string name="spell_level_up">Le sort: %1$s monte au niveau &font_cyan;%2$d&font_end;</string>
     <string name="skill_failed">%1$s a raté.</string>
-    <string name="skill_damage_multiplier">Attaque: &font_red;%1$d&font_end;%% de &font_attack;dégat&font_end;</string>
+    <string name="skill_damage_multiplier">Attaque : &font_red;%1$d&font_end;%% de &font_attack;dégâts&font_end;</string>
     <string name="skill_number_of_attacks">A attaqué &font_cyan;%1$d&font_end; de fois</string>
     <string name="skill_attacks_first">&bold;Première&bold_end; attaque;</string>
     <string name="skill_attacks_second">&bold;Seconde&bold_end; attaque;</string>
-    <string name="skill_absorbs_health">Absorbe la &font_health;Vie&font_end; de l\'ennemie</string>
-    <string name="skill_absorbs_mana">Absorbe la &font_mana;Mana&font_end; de l\'ennemie</string>
-    <string name="skill_hunger_cost">Faim: &font_hunger;%1$s&font_end;</string>
-    <string name="skill_mana_cost">Mana: &font_mana;%1$s&font_end;</string>
+    <string name="skill_absorbs_health">Absorbe la &font_health;Vie&font_end; de l\'ennemi</string>
+    <string name="skill_absorbs_mana">Absorbe le &font_mana;Mana&font_end; de l\'ennemi</string>
+    <string name="skill_hunger_cost">Faim : &font_hunger;%1$s&font_end;</string>
+    <string name="skill_mana_cost">Mana : &font_mana;%1$s&font_end;</string>
 
     <string name="action_trader_no_merchants_pending">Il n\'y a aucuns &font_gold;marchands &font_end;disponible sur l\'île.</string>
     <string name="action_trader_merchants_pending_amount">Il y a &font_cyan;%d&font_end; &font_gold;marchands &font_end;disponible sur l\'île.</string>
