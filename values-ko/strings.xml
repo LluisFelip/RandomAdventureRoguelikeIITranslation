@@ -895,6 +895,7 @@
     <string name="combat_monster_obtained_item">%1$s을(를) 얻었습니다.</string>
     <string name="combat_you_throw_the_bucket_to">%1$s을(를) %2$s에게 던졌습니다! %3$s은(는) &font_red;%4$d&font_end;의 피해를 받았습니다!</string>
 
+    <!-- REFACTOR -->
     <string name="villager_text_hello_1" tools:ignore="UnusedResources">반갑네!</string>
     <string name="villager_text_hello_2" tools:ignore="UnusedResources">반갑네, 영웅이여!</string>
     <string name="villager_text_hello_3" tools:ignore="UnusedResources">모험가님, 반갑습니다!</string>
@@ -1102,6 +1103,7 @@
     <string name="quest_find_item_now_return_to">%1$s을(를) 찾았습니다! &font_cyan;%2$s &font_end;에게 가져다 주세요. &font_cyan;%3$d&font_end;, &font_cyan;%4$d&font_end;에 있는.</string>
     <string name="quest_find_lost_item_tile_content_name">이것은 퀘스트 아이템 입니다. 주인에게 가져다 주어야 합니다.</string>
 
+    <!-- REFACTOR -->
     <string name="quest_find_lost_item_item_name_001" tools:ignore="UnusedResources">마법 상자</string>
     <string name="quest_find_lost_item_item_name_002" tools:ignore="UnusedResources">수상한 가방</string>
     <string name="quest_find_lost_item_item_name_003" tools:ignore="UnusedResources">비밀 문서</string>
@@ -1189,6 +1191,7 @@
     <string name="quest_rescue_someone_text_output_rescued">\"%1$s\"을(를) 구출했습니다!</string>
     <string name="quest_rescue_someone_following_you">&font_quest;%1$s &font_end;이(가), 당신을 쫓아가고 있습니다…</string>
 
+    <!-- REFACTOR!-->
     <string name="quest_rescue_someone_name_1" tools:ignore="UnusedResources">공주</string>
     <string name="quest_rescue_someone_name_2" tools:ignore="UnusedResources">왕자</string>
     <string name="quest_rescue_someone_name_3" tools:ignore="UnusedResources">여왕</string>
@@ -3457,12 +3460,7 @@
     <string name="item_info_ascension_flame">You feel this &asterisk_ascend_color;Ascension &font_end;&font_red;Flame &font_end;is the most powerful thing you\'ve ever touched… You wonder what may this be used for…</string>
     <string name="settings_leaderboards">Leaderboards</string>
 
-    <string name="error_signing_in">Error singing in…</string>
-    <string name="error_accessing_leaderboards">Error accessing leader boards…</string>
-    <string name="sign_in_dialog_title">Google Play Games</string>
-    <string name="sign_in_dialog_message">Sign in to Google Play Games to access Achievements and Leader Boards!</string>
 
-    <string name="updated_leaderboards">&font_primary_light;&italic;[UPDATED LEADER BOARDS]&italic_end;&font_end;</string>
 
     <string name="tool_wasted">%1$s is wasted! Use a %2$s to repair it.</string>
     <string name="tile_content_type_repair_kit">Repair Kit</string>

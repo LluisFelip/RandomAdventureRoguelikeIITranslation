@@ -3446,12 +3446,7 @@
     <string name="item_info_ascension_flame">You feel this &asterisk_ascend_color;Ascension &font_end;&font_red;Flame &font_end;is the most powerful thing you\'ve ever touched… You wonder what may this be used for…</string>
     <string name="settings_leaderboards">Leaderboards</string>
 
-    <string name="error_signing_in">Error singing in…</string>
-    <string name="error_accessing_leaderboards">Error accessing leader boards…</string>
-    <string name="sign_in_dialog_title">Google Play Games</string>
-    <string name="sign_in_dialog_message">Sign in to Google Play Games to access Achievements and Leader Boards!</string>
 
-    <string name="updated_leaderboards">&font_primary_light;&italic;[UPDATED LEADER BOARDS]&italic_end;&font_end;</string>
 
     <string name="tool_wasted">%1$s is wasted! Use a %2$s to repair it.</string>
     <string name="tile_content_type_repair_kit">Repair Kit</string>
