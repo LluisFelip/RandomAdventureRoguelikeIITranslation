@@ -2341,14 +2341,14 @@
     <string name="professional_step_5">C\'était la base de ce métier… &font_gold;Achète &font_end;ou &font_cyan;fabrique &font_end;
         un &font_cyan;outil &font_end;et utilise le pour extraire des matériaux… Avec les matériaux, tu peux &font_cyan;fabriquer&font_end;
         des &font_cyan;armes&font_end;, &font_cyan;armures&font_end;, &font_cyan;potions &font_end;et toujours plus…</string>
-    <string name="professional_step_6">Tenez, je vous offre ce(tte) %1$s! Bonne chance dans vos aventures, héros!</string>
-    <string name="professional_no_quest_message">Maintenant vous êtes prêt à réussir ! Bonne chance, héros!</string>
+    <string name="professional_step_6">Tenez, je vous offre ce(tte) %1$s! Bonne chance dans vos aventures, héros !</string>
+    <string name="professional_no_quest_message">Maintenant vous êtes prêt à réussir ! Bonne chance, héros !</string>
 
     <string name="merchant_abandon_quest_title">Abandonner la quête du &font_gold;Marchand&font_end;</string>
-    <string name="merchant_abandon_quest_message">Es-tu sûr de vouloir abandonner la quête : &italic;\"%1$s\"&italic_end;?</string>
+    <string name="merchant_abandon_quest_message">Es-tu sûr de vouloir abandonner la quête : &italic;\"%1$s\"&italic_end; ?</string>
 
     <string name="settings_language">Langue</string>
-    <string name="settings_translated_by">Traduit par: %s</string>
+    <string name="settings_translated_by">Traduit par : %s</string>
 
     <!-- %1$s=level %2$s=rarity %3$s=material %4$sname -->
     <string name="equipment_name_composition">%1$s %4$s %2$s (%3$s)</string>
@@ -2593,8 +2593,8 @@
     <string name="item_info_island_map">Use this &font_cyan;Island &font_end;&font_gold;Map &font_end;to see the island map without needing to explore it completely.&br;&br;(You\'ll need to explore the island if you want to complete it 100%.)</string>
     <string name="island_map_island_name">(&font_cyan;%1$s&font_end;)</string>
 
-    <string name="settings_change_language_title">Change Language</string>
-    <string name="settings_change_language_message">Are you sure you want to change the language?&br;&br;The app needs to reset to apply the language changes.&br;&br;Restart app? (You won\'t lose your game data)</string>
+    <string name="settings_change_language_title">Changer de langue</string>
+    <string name="settings_change_language_message">Êtes-vous sûr de vouloir changer de langue ? &br;&br;L\'application nécessite un redémarrage pour appliquer le changement de langue.&br;&br;Relancer l\'application ? (Vous ne perdrez aucune donnée de jeu)</string>
 
 
     <string name="weapon_type_staff">&font_mana;Staff&font_end;</string>
@@ -3453,7 +3453,7 @@
     <string name="inventory_used_infinity_energy">Used &font_infinity;Infinity &font_end;&font_cyan;Energy&font_end;!</string>
 
     <string name="item_info_ascension_flame">You feel this &asterisk_ascend_color;Ascension &font_end;&font_red;Flame &font_end;is the most powerful thing you\'ve ever touched… You wonder what may this be used for…</string>
-    <string name="settings_leaderboards">Leaderboards</string>
+    <string name="settings_leaderboards">Classements</string>
 
     <string name="error_signing_in">Error singing in…</string>
     <string name="error_accessing_leaderboards">Error accessing leader boards…</string>
@@ -3548,7 +3548,7 @@
 
     <string name="button_blacksmith_repair_tools">Repair &font_cyan;Tools&font_end;</string>
 
-    <string name="settings_leaderboards_wip">Leaderboards (Beta)</string>
+    <string name="settings_leaderboards_wip">Classements (Bêta)</string>
     <string name="button_quit">Quit</string>
     <string name="quit_quest_title">Quit Quest</string>
     <string name="quit_quest_message">Do you want to quit \'%s\'?</string>
