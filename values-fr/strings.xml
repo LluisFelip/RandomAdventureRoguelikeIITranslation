@@ -1517,8 +1517,8 @@
     <string name="weapon_skill_axe_counter_smash_desc">Écrase l\'ennemi. Toujours le deuxième à attaquer.</string>
     <string name="weapon_skill_axe_counter_smash_attack">Tu écrase l\'ennemi !</string>
     <string name="weapon_skill_axe_magical_sweep_name">&font_skill_attack;Balayage magique&font_end;</string>
-    <string name="weapon_skill_axe_magical_sweep_desc">Canalise le mana dans ta hache et fauche l'ennemi.</string>
-    <string name="weapon_skill_axe_magical_sweep_attack">Tu charge ta hache de mana et fauche l'ennemi !</string>
+    <string name="weapon_skill_axe_magical_sweep_desc">Canalise le mana dans ta hache et fauche l\'ennemi.</string>
+    <string name="weapon_skill_axe_magical_sweep_attack">Tu charge ta hache de mana et fauche l\'ennemi !</string>
     <string name="weapon_skill_axe_ultimate_smash_name">&font_skill_attack;Smash ultime&font_end;</string>
     <string name="weapon_skill_axe_ultimate_smash_desc">Écrase l\'ennemi violement.</string>
     <string name="weapon_skill_axe_ultimate_smash_attack">Tu écrase l\'ennemi violement !</string>

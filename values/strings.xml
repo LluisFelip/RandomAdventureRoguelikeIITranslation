@@ -3795,4 +3795,8 @@
     <string name="increases_base_speed">&br;&br;Increases the &font_cyan;base &font_end;&font_speed;speed&font_end;.</string>
     <string name="increases_base_intelligence">&br;&br;Increases the &font_cyan;base &font_end;&font_mana;intelligence&font_end;.</string>
 
+    <string name="summoning_monster">&font_void;Summoning &font_end;&font_red;monster&font_end;…</string>
+    <string name="summoned_monster">…&font_void;summoned &font_end;%1$s!</string>
+    <string name="cant_summon_if_theres_a_monster_nearby">Can\'t &font_void;summon &font_end;a &font_red;monster &font_end;if there\'s already a &font_red;monster &font_end;nearby…</string>
+
 </resources>
