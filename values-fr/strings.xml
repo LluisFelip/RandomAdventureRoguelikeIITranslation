@@ -972,17 +972,17 @@
 
     <string name="villager_quotes"><![CDATA[
             Achète plus, achète beaucoup et maintenant. Achète et sois heureux.\n
-            Notre temps est vôtre.\n
+            Les chaussettes de l'archiduchesse sont-elles sèches, archisèches ?\n
             Fais-le pour la grosse dame.\n
             À partir de ce moment nous voyageons ensemble à l\'est. Toujours l\'est.\n
             Restez loin des gens normaux. Ils sont stupides.\n
             Que nous vaut cette visite inattendue ?\n
             Klaatu barada nikto.\n
-            Réveille toi, nous sommes là. Pourquoi trembles-tu ? Tout va bien ?\n
+            Qu'est ce qui est jaune et qui attend ?\n
             Ta mission était de récupérer le Dr. Durand de Tau Ceti !\n
             Nom de Zeus ! En quelle année sommes-nous déjà ?\n
             Je peux seulement voir en noir et blanc…\n
-            Le Poète est semblable au prince des nuées ; qui hante la tempête et se rit de l\'archer.\n
+            Le Poète est semblable au prince des nuées, qui hante la tempête et se rit de l\'archer.\n
             Il faut avoir du chaos en soi pour accoucher d\'une étoile qui danse.\n
             Contrairement à ce que certains hauts placés disent : il est interdit d\'interdire !\n
             C\'est trop calme... J\'aime pas trop beaucoup ça... J\'préfère quand c\'est un peu trop plus moins calme...\n
@@ -1002,7 +1002,7 @@
             La spécialisation c\'est pour les insectes.\n
             Je met ma robe et mon chapeau de sorcier.\n
             Pourquoi est ce que j\'escalade les montagnes ? Parce que je suis amoureux.\n
-            Un jour, j\'ai vu un enfant jouer avec un ruby de la taille d\'une mandarine.\n
+            Un jour, j\'ai vu un enfant jouer avec un rubis de la taille d\'une mandarine.\n
             La prochaine fois qu’on te demande si tu es un Dieu, tu réponds oui !\n
             Si tu as vécu ici, tu devrais te sentir comme chez toi.\n
             Salut, c\'est Duo. On m\'a dit que tu n\'avais pas révisé ton espagnol aujourd\'hui...\n
@@ -1304,8 +1304,8 @@
     <string name="protection_type_cold">&font_tundra;Froid&font_end;</string>
     <string name="equipment_protection">protection de &lt;font color=\"%1$s\"&gt;%2$s &font_end;</string>
 
-    <string name="content_description_arrow_to_unfold_complete_status_info">Tape la flèche pour dévoiler toutes les infos.</string>
-    <string name="content_description_arrow_to_filter_crafting">Tape sur la flèche pour filtrer les recettes de craft.</string>
+    <string name="content_description_arrow_to_unfold_complete_status_info">Tape la flèche pour dérouler les infos.</string>
+    <string name="content_description_arrow_to_filter_crafting">Tape la flèche pour filtrer les recettes de craft.</string>
     <string name="content_description_coin_image">Image de la monnaie</string>
     <string name="content_description_skill_image">Image des compétences</string>
     <string name="content_description_pet_image">Icône des compagnons</string>
@@ -1563,27 +1563,27 @@
     <string name="pets_cant_cast_action">%1$s ne peut pas utiliser %2$s (pas assez de &font_mana;mana&font_end;)</string>
     <string name="pets_attacked">%1$s a attaqué !</string>
     <string name="pets_pet_action">%1$s a utilisé sa compétence &font_red;%2$s&font_end;</string>
-    <string name="pets_text_pet_dealt_damage_to_monster">%1$s génère %2$s &font_red;%3$d &font_end;de dégats !</string>
-    <string name="pets_combat_dont_have_an_active_pet">Tu n\'as aucuns &font_pet;Compagnon Actif&font_end;</string>
+    <string name="pets_text_pet_dealt_damage_to_monster">%1$s génère %2$s &font_red;%3$d &font_end;de dégâts !</string>
+    <string name="pets_combat_dont_have_an_active_pet">Tu n\'as aucun &font_pet;Compagnon actif&font_end;</string>
     <string name="pets_text_pet_level_up_to_level">%1$s est maintenant niveau %2$d</string>
     <string name="pets_empty_message">Tu n\'as aucun &font_pet;Compagnons&font_end;…</string>
     <string name="pets_rename_pet">Renommer ton compagnon</string>
-    <string name="pets_rename_pet_message">Choisis un nouveau nom pour ton compagnon %1$s!</string>
-    <string name="pets_rename_pet_success">Tu l\'as renommé %1$s! Nice!</string>
-    <string name="pets_list">Liste De Compagnons</string>
-    <string name="pets_abandon_pet_message">Es-tu sûre de vouloir abandonner le %1$s? Il va disparaître &italic;pour toujours&italic_end;…</string>
+    <string name="pets_rename_pet_message">Choisis un nouveau nom pour ton compagnon %1$s !</string>
+    <string name="pets_rename_pet_success">Tu l\'as renommé %1$s ! Super !</string>
+    <string name="pets_list">Liste de Compagnons</string>
+    <string name="pets_abandon_pet_message">Es-tu sûr de vouloir abandonner le %1$s ? Il va disparaître &italic;pour toujours&italic_end;…</string>
     <string name="pets_abandon_pet_abandoned_message">Tu as abandonné %1$s… Adieu…</string>
 
     <string name="text_player_experience_given">Tu récoltes &font_cyan;%1$d &font_end;d\'exp !</string>
     <string name="text_pet_experience_given">%1$s récolte &font_cyan;%2$d &font_end;d\'exp !</string>
 
     <string name="animal_fed_flesh">Tu as nourri %1$s avec %2$s.</string>
-    <string name="animal_is_here_following_you">Ton %1$s est ici et te suis</string>
-    <string name="animal_is_here">%1$s est ici</string>
-    <string name="animal_leave_here_message">Laisser %1$s ici ? si tu souhaites qu\'il te suive a nouveau, tu devras le nourrir a nouveau…</string>
+    <string name="animal_is_here_following_you">Ton %1$s est ici et te suis.</string>
+    <string name="animal_is_here">%1$s est ici.</string>
+    <string name="animal_leave_here_message">Laisser %1$s ici ? Si tu souhaites qu\'il te suive a nouveau, tu devras le nourrir a nouveau…</string>
     <string name="animal_left">Tu as laissé %1$s…</string>
     <string name="animal_start_following_you">%1$s commence à te suivre !</string>
-    <string name="animal_follow_substitute_animal">%1$s veux te suivre, laisse le te suivre et laisser %2$s ici ?</string>
+    <string name="animal_follow_substitute_animal">%1$s veux te suivre, le laisser te suivre et laisser %2$s ici ?</string>
     <string name="animal_dog_name">Chien</string>
     <string name="animal_chicken_name">Poulet</string>
     <string name="animal_cow_name">Vache</string>
@@ -1618,7 +1618,7 @@
     <string name="tile_content_type_tavern">Taverne</string>
     <string name="tile_content_type_bank">Banque</string>
     <string name="tile_content_type_stash">Entrepôt</string>
-    <string name="tile_content_type_castle">Chateau</string>
+    <string name="tile_content_type_castle">Château</string>
     <string name="tile_content_type_cabin">Cabinet</string>
     <string name="tile_content_type_pyramid">Pyramide</string>
     <string name="tile_content_type_villager">Villageois</string>
@@ -1626,13 +1626,13 @@
     <string name="tile_content_type_quest">Quête</string>
     <string name="tile_content_type_animal">Animal</string>
     <string name="tile_content_type_slave">Esclave</string>
-    <string name="tile_content_type_guard">Guarde</string>
+    <string name="tile_content_type_guard">Garde</string>
     <string name="tile_content_type_pet">&font_pet;Compagnon&font_end;</string>
     <string name="tile_content_type_nautical_chart_black_island">Carte de Navigation (&font_black_low;Île Noire&font_end;)</string>
     <string name="tile_content_type_nautical_chart_white_island">Carte de Navigation (&font_white;Île Blanche&font_end;)</string>
-    <string name="tile_content_type_spell_book">Livre de &font_mana;Sort&font_end;</string>
+    <string name="tile_content_type_spell_book">Livre de &font_mana;Sorts&font_end;</string>
     <string name="tile_content_type_explorer">Explorateur</string>
-    <string name="tile_content_type_meditator">Mediteur</string>
+    <string name="tile_content_type_meditator">Méditant</string>
     <string name="tile_content_type_thief">Bandit</string>
     <string name="tile_content_type_troll">Troll</string>
     <string name="tile_content_type_witch">Sorcière</string>
@@ -1643,18 +1643,18 @@
     <string name="tile_content_type_windmill">Moulin à vent</string>
     <string name="tile_content_type_house">Maison</string>
     <string name="tile_content_type_destroyed_house">Maison détruite</string>
-    <string name="tile_content_type_abandoned_house">Maison abandonné</string>
-    <string name="tile_content_type_stone_bridge">Pont en Pierre</string>
+    <string name="tile_content_type_abandoned_house">Maison abandonnée</string>
+    <string name="tile_content_type_stone_bridge">Pont en pierre</string>
     <string name="tile_content_type_gate">Porte</string>
-    <string name="tile_content_type_open_gate">Porte Ouverte</string>
-    <string name="tile_content_type_quest_item">Objet de Quête</string>
+    <string name="tile_content_type_open_gate">Porte ouverte</string>
+    <string name="tile_content_type_quest_item">Objet de quête</string>
     <string name="tile_content_type_mine">Mine</string>
-    <string name="tile_content_type_waterfall">Chute d\'Eau</string>
-    <string name="tile_content_type_wizard_tower">Tour du Sorcier</string>
+    <string name="tile_content_type_waterfall">Chute d\'eau</string>
+    <string name="tile_content_type_wizard_tower">Tour du sorcier</string>
     <string name="tile_content_type_ruins">Ruines</string>
     <string name="tile_content_type_temple">Temple</string>
     <string name="tile_content_type_shipwreck">Épave</string>
-    <string name="tile_content_type_young_boy">Jeune Garçon</string>
+    <string name="tile_content_type_young_boy">Jeune garçon</string>
     <string name="tile_content_type_well">Puit</string>
     <string name="tile_content_type_portal">&font_portal;Portail&font_end;</string>
     <string name="tile_content_type_crafting_recipe">Recette de &font_cyan;Craft&font_end;</string>
@@ -1662,56 +1662,56 @@
     <string name="tile_content_type_food">Nourriture</string>
     <string name="tile_content_type_the_carpenter">Le Vieux Charpentier</string>
     <string name="tile_content_type_piece_of_map">Morceau de Carte</string>
-    <string name="tile_content_type_gate_to_heaven">Porte Vers Le Paradi</string>
+    <string name="tile_content_type_gate_to_heaven">Porte Vers Le Paradis</string>
     <string name="tile_content_type_chest">Coffre</string>
     <string name="tile_content_type_professional">Professionnel</string>
     <string name="tile_content_type_pet_collar">&font_cyan;Collier&font_end; pour &font_pet;Compagnon&font_end;</string>
-    <string name="tile_content_type_merchant_master">Maître Marchand</string>
+    <string name="tile_content_type_merchant_master">Maître-marchand</string>
     <string name="tile_content_type_magic_stone">&font_bronze;Pierre&font_end; &font_mana;Magique&font_end;</string>
     <string name="tile_content_type_bomb">Bombe</string>
-    <string name="tile_content_type_a_letter_for_the_king">Une &font_cyan;Lettre &font_end;Pour Le &font_gold;Roi&font_end;</string>
+    <string name="tile_content_type_a_letter_for_the_king">Une &font_cyan;Lettre &font_end;pour le &font_gold;Roi&font_end;</string>
     <string name="tile_content_type_blacksmith">&font_iron;Forgeron&font_end;</string>
     <string name="tile_content_type_wise">&font_wise;Sage&font_end;</string>
-    <string name="tile_content_type_teleport_stone">&font_bronze;Pierre&font_end; De &font_mana;Téléportation&font_end;</string>
+    <string name="tile_content_type_teleport_stone">&font_bronze;Pierre&font_end; de &font_mana;Téléportation&font_end;</string>
     <string name="tile_content_type_wooden_sign">&font_wooden_sign;Panneau&font_end;</string>
-    <string name="tile_content_type_iron_bucket">&font_iron;Seau En Fer&font_end;</string>
-    <string name="tile_content_type_purifying_seed">&font_plant;Graine&font_end; De &font_purifying;Purification&font_end;</string>
-    <string name="tile_content_type_purifying_tree">&font_wood;Arbre&font_end; De &font_purifying;Purification&font_end;</string>
-    <string name="tile_content_type_yin_yang_amulet">Amulette Du &font_black_low;Ying&font_end; Et Du &font_white;Yang &font_end;</string>
-    <string name="tile_content_type_royal_seal">&font_gold;Sceau Royal&font_end;</string>
-    <string name="tile_content_type_iron_bucket_water">&font_iron;Seau &font_end;D\'&font_water;Eau&font_end;</string>
-    <string name="tile_content_type_iron_bucket_lava">&font_iron;Seau &font_end;De &font_attack;Lave&font_end;</string>
-    <string name="tile_content_type_iron_bucket_mana">&font_iron;Seau &font_end;De &font_mana;Mana&font_end;</string>
+    <string name="tile_content_type_iron_bucket">&font_iron;Seau en fer&font_end;</string>
+    <string name="tile_content_type_purifying_seed">&font_plant;Graine&font_end; de &font_purifying;Purification&font_end;</string>
+    <string name="tile_content_type_purifying_tree">&font_wood;Arbre&font_end; de &font_purifying;Purification&font_end;</string>
+    <string name="tile_content_type_yin_yang_amulet">Amulette du &font_black_low;Ying&font_end; et du &font_white;Yang &font_end;</string>
+    <string name="tile_content_type_royal_seal">&font_gold;Sceau royal&font_end;</string>
+    <string name="tile_content_type_iron_bucket_water">&font_iron;Seau &font_end;d\'&font_water;Eau&font_end;</string>
+    <string name="tile_content_type_iron_bucket_lava">&font_iron;Seau &font_end;de &font_attack;Lave&font_end;</string>
+    <string name="tile_content_type_iron_bucket_mana">&font_iron;Seau &font_end;de &font_mana;Mana&font_end;</string>
 
-    <string name="wooden_sign_write">Écrire dans le &font_wooden_sign;Panneau&font_end;</string>
+    <string name="wooden_sign_write">Écrire sur le &font_wooden_sign;Panneau&font_end;</string>
     <string name="wooden_sign_text_chopped_the">Tu as coupé le %1$s.</string>
-    <string name="wooden_sign_wrote_message">Tu as écris un message dans le %1$s.</string>
+    <string name="wooden_sign_wrote_message">Tu as écris un message sur le %1$s.</string>
 
-    <string name="iron_bucket_pickup_water">Tu as ramassé de l\'&font_water;Eau &font_end;avec le &font_iron;Seau&font_end;.</string>
+    <string name="iron_bucket_pickup_water">Tu as récupéré de l\'&font_water;Eau &font_end;avec le &font_iron;Seau&font_end;.</string>
     <string name="iron_bucket_pickup_lava">Tu as récupéré de la &font_attack;Lave &font_end;avec le &font_iron;Seau&font_end;.</string>
-    <string name="iron_bucket_pickup_mana">Tu as ramassé de la &font_mana;Mana &font_end;avec le &font_iron;Seau&font_end;.</string>
-    <string name="iron_bucket_put_out_firecamp_ash">Tu éteins le &font_attack;Feu de Camp &font_end;avec le &font_iron;Seau&font_end;
+    <string name="iron_bucket_pickup_mana">Tu as récupéré du &font_mana;Mana &font_end;avec le &font_iron;Seau&font_end;.</string>
+    <string name="iron_bucket_put_out_firecamp_ash">Tu éteins le &font_attack;Feu de camp &font_end;avec le &font_iron;Seau&font_end;
         d\'&font_water;Eau&font_end;.</string>
     <string name="iron_bucket_drank_mana">Tu as bu dans le &font_iron;Seau&font_end; de &font_mana;Mana&font_end;
-        et tu as régénéré toute ta &font_mana;mana&font_end;.</string>
+        et tu as régénéré tout ton &font_mana;Mana&font_end;.</string>
 
-    <string name="bank_welcome_message" tools:ignore="PluralsCandidate">Bienvenue à la %1$s!&br;&br;Nous gardons votre &font_gold;Monnaie &font_end;en sûreté ici.&br;&br;Vous avez actuellement &font_gold;%2$d d\'or &font_end;dans la %3$s.&br;</string>
-    <string name="bank_deposit_message" tools:ignore="PluralsCandidate">Combien voulez-vous &font_gold;déposer&font_end;?&br;&br;Vous avez actuellement &font_gold;%1$d d\'or&font_end;.</string>
-    <string name="bank_withdraw_message" tools:ignore="PluralsCandidate">Combien voulez-vous &font_gold;retirer&font_end;?&br;&br;Vous avez actuellement &font_gold;%1$d d\'or &font_end;dans la %2$s.</string>
+    <string name="bank_welcome_message" tools:ignore="PluralsCandidate">Bienvenue à la %1$s !&br;&br;Nous gardons votre &font_gold;Or &font_end;en sûreté ici.&br;&br;Vous avez actuellement &font_gold;%2$d d\'or &font_end;dans la %3$s.&br;</string>
+    <string name="bank_deposit_message" tools:ignore="PluralsCandidate">Combien voulez-vous &font_gold;déposer&font_end; ?&br;&br;Vous avez actuellement &font_gold;%1$d d\'or&font_end;.</string>
+    <string name="bank_withdraw_message" tools:ignore="PluralsCandidate">Combien voulez-vous &font_gold;retirer&font_end; ?&br;&br;Vous avez actuellement &font_gold;%1$d d\'or &font_end;dans la %2$s.</string>
     <string name="bank_deposit">(Déposer)</string>
     <string name="bank_withdraw">(Retirer)</string>
     <string name="bank_introduce_a_valid_amount">Inscrivez un montant correct !</string>
-    <string name="bank_withdrawn_amount" tools:ignore="PluralsCandidate">Vous avez retiré &font_gold;%1$d d\'or &font_end;depuis la %2$s!</string>
-    <string name="bank_deposit_amount" tools:ignore="PluralsCandidate">Vous avez déposé &font_gold;%1$d d\'or &font_end;dans la %2$s!</string>
+    <string name="bank_withdrawn_amount" tools:ignore="PluralsCandidate">Vous avez retiré &font_gold;%1$d d\'or &font_end;depuis la %2$s !</string>
+    <string name="bank_deposit_amount" tools:ignore="PluralsCandidate">Vous avez déposé &font_gold;%1$d d\'or &font_end;dans la %2$s !</string>
 
-    <string name="item_island_soul">&font_cyan;Âme De l\'Île&font_end; (%1$s)</string>
+    <string name="item_island_soul">&font_cyan;Âme de l\'Île&font_end; (%1$s)</string>
     <string name="text_island_soul_title">Île &font_cyan;100%&font_end; Exploré</string>
-    <string name="text_island_soul_message">Tu reçoi mystétieusement une %1$s!</string>
+    <string name="text_island_soul_message">Tu reçois mystétieusement une %1$s !</string>
 
     <string name="weather_sunny">Ensoleillé</string>
     <string name="weather_cloudy">Nuageux</string>
     <string name="weather_rainy">Pluvieux</string>
-    <string name="weather_overcasty">Nuageux</string>
+    <string name="weather_overcasty">Couvert</string>
     <string name="weather_partly_sunny">Peu Ensoleillé</string>
     <string name="weather_partly_cloudy">Peu Nuageux</string>
     <string name="weather_stormy">Orageux</string>
@@ -1725,48 +1725,48 @@
     <string name="stash_inventory_title_stash">&font_wood;Inventaire&font_end; (&font_cyan;%1$d&font_end;/&font_cyan;%2$d&font_end;)</string>
     <string name="stash_store_couldnt">Impossible de ranger le %1$s, L\'&font_wood;Entrepôt &font_end;est plein !</string>
     <string name="stash_increase_title">Aggrandir l\'&font_wood;Entrepôt&font_end; ?</string>
-    <string name="stash_increase_message" tools:ignore="PluralsCandidate">Veux-tu aggrandir le stockage de ton &font_wood;entrepôt &font_end;de &font_cyan;%1$d &font_end;à &font_cyan;%2$d&font_end;? Ça te coûtera &font_gold;%3$d d\'or&font_end;.</string>
+    <string name="stash_increase_message" tools:ignore="PluralsCandidate">Veux-tu aggrandir le stockage de ton &font_wood;entrepôt &font_end;de &font_cyan;%1$d &font_end;à &font_cyan;%2$d&font_end; ? Ça te coûtera &font_gold;%3$d d\'or&font_end;.</string>
 
     <string name="merchants_mark">Marque du Marchand &font_cyan;#%1$d&font_end;</string>
     <string name="merchant">Marchand</string>
     <string name="merchant_name">(&font_gold;%1$s&font_end;)</string>
     <string name="merchant_dialog_text">As-tu rapporté &font_cyan;%1$d&font_end; &lt;font color=\"%2$s\"&gt;%3$s &font_end;pour moi ?</string>
-    <string name="merchant_giving_merchant_quest_message">Bonjour! je recherche &font_cyan;%1$d &font_end;&lt;font color=\"%2$s\"&gt;%3$s&font_end;. Pourrais-tu m\'en apporter ? Je te donnerai quelque chose de très spéciale en échange.</string>
+    <string name="merchant_giving_merchant_quest_message">Bonjour! Je recherche &font_cyan;%1$d &font_end;&lt;font color=\"%2$s\"&gt;%3$s&font_end;. Pourrais-tu m\'en apporter ? Je te donnerai quelque chose de très spécial en échange.</string>
     <string name="merchant_not_enough_materials">Tu n\'as pas assez d\'ingrédients…</string>
-    <string name="merchant_you_receive_the_merchants_mark">Tu reçois la Marque du Marchand &font_cyan;#%1$d&font_end;!</string>
-    <string name="merchant_dialog_text_mark_given">Tu m\'as déjà donné ce dont j\'avais besoin, merci!</string>
+    <string name="merchant_you_receive_the_merchants_mark">Tu reçois la Marque du Marchand &font_cyan;#%1$d&font_end; !</string>
+    <string name="merchant_dialog_text_mark_given">Tu m\'as déjà donné ce dont j\'avais besoin, merci !</string>
 
-    <string name="witch_dialog_text">Salut… je te passerai mon &font_witch;Chapeau de Sorcière &font_end;si tu me donnes &font_cyan;%1$d&font_end; &font_mushroom;Champignon&font_end;… et joues pas les malin ou je te transforme en rat!</string>
+    <string name="witch_dialog_text">Salut… Je te passerai mon &font_witch;Chapeau de Sorcière &font_end;si tu me donnes &font_cyan;%1$d&font_end; &font_mushroom;Champignons&font_end;… et joues pas les malin ou je te transforme en rat !</string>
     <string name="witch_dialog_text_mark_given">Je n\'ai pas besoin de plus de &font_mushroom;Champignons&font_end;. Merci…</string>
-    <string name="witch_received">La &font_witch;Sorcière&font_end; t\'offre son %1$s!</string>
-    <string name="witch_hat">&font_witch;Chapeau de Sorcièrefont_end;</string>
-    <string name="witch_not_enough_mushrooms">Tu n\'as pas assez de &font_mushroom;Champignon&font_end;…</string>
+    <string name="witch_received">La &font_witch;Sorcière&font_end; t\'offre son %1$s !</string>
+    <string name="witch_hat">&font_witch;Chapeau de Sorcière&font_end;</string>
+    <string name="witch_not_enough_mushrooms">Tu n\'as pas assez de &font_mushroom;Champignons&font_end;…</string>
 
     <string name="wizard_tower_dialog_message_1">Tu entres dans la %1$s et trouves un vieux &font_mana;Sorcier&font_end;…</string>
-    <string name="wizard_tower_dialog_message_2">Bienvenue dans notre %1$s… Voudrais-tu devenir un &font_mana;Sorcier &font_end;comme moi?</string>
-    <string name="wizard_tower_dialog_message_2_already_given">Bienvenue dans notre %1$s… Ah… c\'est toi… Je t\'ai déjà donné mon livre de &font_mana;Sort &font_end;… tu dois apprendre par toi même désormais…</string>
+    <string name="wizard_tower_dialog_message_2">Bienvenue dans notre %1$s… Voudrais-tu devenir un &font_mana;Sorcier &font_end;comme moi ?</string>
+    <string name="wizard_tower_dialog_message_2_already_given">Bienvenue dans notre %1$s… Ah… c\'est toi… Je t\'ai déjà donné mon livre de &font_mana;Sorts &font_end;… tu dois apprendre par toi même désormais…</string>
     <string name="wizard_tower_dialog_message_3_no">Eh bien partez et ne me faites pas perdre mon temps !</string>
-    <string name="wizard_tower_dialog_message_3_yes">Hahaha! Et tu penses avoir ce qu\'il faut pour en devenir un?</string>
+    <string name="wizard_tower_dialog_message_3_yes">Hahaha ! Et tu penses avoir ce qu\'il faut pour en devenir un ?</string>
     <string name="wizard_tower_dialog_message_4_no">Alors, qu\'est ce que vous faites là ? Vous gaspillez mon temps !</string>
-    <string name="wizard_tower_dialog_message_4_yes">Vous n\'avez pas l\'air très expérimenté avec la &font_mana;magie&font_end;… en êtes vous sûr ?</string>
-    <string name="wizard_tower_dialog_message_5_no">Hors de ma vue, vous me faites perdre du temps !</string>
+    <string name="wizard_tower_dialog_message_4_yes">Vous n\'avez pas l\'air très expérimenté avec la &font_mana;Magie&font_end;… En êtes vous sûr ?</string>
+    <string name="wizard_tower_dialog_message_5_no">Hors de ma vue, vous me faites perdre mon temps !</string>
     <string name="wizard_tower_dialog_message_5_yes">Feras-tu tout ce qui est nécessaire pour devenir un &font_mana;Sorcier &font_end;?</string>
     <string name="wizard_tower_dialog_message_6_no">Tu me fatigues, j\'ai eu une longue journée…</string>
-    <string name="wizard_tower_dialog_message_6_yes">D\'accord, mais, dit moi, serai-tu capable de comprendre le livre livre de this &font_mana;Sort &font_end;que je t\'offre ?</string>
+    <string name="wizard_tower_dialog_message_6_yes">D\'accord, mais, dit moi, serais-tu capable de comprendre le livre de &font_mana;Sorts &font_end;que je t\'offre ?</string>
     <string name="wizard_tower_dialog_message_7_no">Je vais donc le garder pour moi.</string>
-    <string name="wizard_tower_dialog_message_7_yes">Le voici. N\'oublie pas, pour être capable d\'apprendre ce sort, tu dois maîtriser le sort inférieur à celui ci…</string>
+    <string name="wizard_tower_dialog_message_7_yes">Le voici. N\'oublies pas, pour être capable d\'apprendre ce sort, tu dois maîtriser le sort inférieur à celui ci…</string>
     <string name="wizard_name">&font_mana;Vieux Sorcier&font_end;</string>
 
-    <string name="chest_was_a_mimic">Le %1$s était en faites une %2$s!</string>
+    <string name="chest_was_a_mimic">Le %1$s était en fait une %2$s !</string>
     <string name="chest_text_chest_opened">&font_chest;Coffre&font_end; (&font_primary_light;vide&font_end;)</string>
-    <string name="chest_must_kill_the_monster_first">Tu dois d\'abord te débarrasser du monstre</string>
-    <string name="chest_you_obtained_gold_and_item" tools:ignore="PluralsCandidate">Tu ouvres le %1$s!&br;&br;Tu obtiens &font_gold;%2$d d\'or&font_end;.&br;Tu récupères un(e) %3$s.</string>
-    <string name="chest_you_obtained_gold" tools:ignore="PluralsCandidate">Tu ouvres le %1$s!&br;&br;Tu obtiens &font_gold;%2$d d\'or&font_end;.</string>
+    <string name="chest_must_kill_the_monster_first">Tu dois d\'abord te débarrasser du monstre !</string>
+    <string name="chest_you_obtained_gold_and_item" tools:ignore="PluralsCandidate">Tu ouvres le %1$s !&br;&br;Tu obtiens &font_gold;%2$d d\'or&font_end;.&br;Tu récupères un(e) %3$s.</string>
+    <string name="chest_you_obtained_gold" tools:ignore="PluralsCandidate">Tu ouvres le %1$s !&br;&br;Tu obtiens &font_gold;%2$d d\'or&font_end;.</string>
 
     <string name="meditator_silent">(…)</string>
     <string name="meditator_dots">(…)</string>
-    <string name="meditator_meditate_with_me">Médite avec moi…</string>
-    <string name="meditated_with_meditator">Tu as médité avec le %1$s et a restoré toute ta &font_mana;mana&font_end;…</string>
+    <string name="meditator_meditate_with_me">Médites avec moi…</string>
+    <string name="meditated_with_meditator">Tu as médité avec le %1$s et as restoré tout ton &font_mana;mana&font_end;…</string>
     <string name="meditator_is_mysteriously_gone">Le %1$s a mystérieusement disparu…</string>
 
     <string name="mine_copper">&font_stone;Mine&font_end; de &font_copper;Cuivre&font_end;</string>
@@ -1775,16 +1775,16 @@
     <string name="mine_silver">&font_stone;Mine&font_end; d\'&font_silver;Argent&font_end;</string>
     <string name="mine_gold">&font_stone;Mine&font_end; d\'&font_gold;Or&font_end;</string>
     <string name="mine_undiscovered">\? &font_stone;Mine&font_end;</string>
-    <string name="mine_discovered_type">Type de mine découverte: %1$s</string>
-    <string name="mine_found_special_ore">Tu as trouvé un(e) %1$s!</string>
+    <string name="mine_discovered_type">Types de mines découverts : %1$s</string>
+    <string name="mine_found_special_ore">Tu as trouvé un(e) %1$s !</string>
 
     <string name="there_s_nothing_around">Il n\'y a rien dans les alentours…</string>
 
     <string name="wise">Le sage</string>
     <string name="wise_silent">(…)</string>
-    <string name="wise_have_dark_orb">Oh…! Tu as une %1$s! Quelque chose de pire que ce qu\'un héros peut imaginer va bientôt apparaître, Et cette %1$s, en est la clé…</string>
+    <string name="wise_have_dark_orb">Oh…! Tu as une %1$s ! Quelque chose de pire que ce qu\'un héros peut imaginer va bientôt se produire, et cette %1$s, en est la clé…</string>
 
-    <string name="crafting_filter">Filtre</string>
+    <string name="crafting_filter">Filtrer</string>
     <string name="crafting_filter_all">Tout</string>
     <string name="crafting_filter_weapon">Arme</string>
     <string name="crafting_filter_shield">Bouclier</string>
@@ -1795,11 +1795,11 @@
     <string name="crafting_filter_material">Matériel</string>
     <string name="crafting_filter_other">Autre</string>
 
-    <string name="dead_reason_monster">Mort par un %s!</string>
-    <string name="dead_reason_hunger">Mort de &font_red;faim&font_end;!</string>
-    <string name="dead_reason_tile_damage_hot">Tu as été &font_red;brûlé&font_end; à vif!</string>
-    <string name="dead_reason_tile_damage_cold">Tu as été &font_tundra;gelé&font_end;
-        vivant!</string>
+    <string name="dead_reason_monster">Tué par un %s !</string>
+    <string name="dead_reason_hunger">Mort de &font_red;faim&font_end; !</string>
+    <string name="dead_reason_tile_damage_hot">Tu as été &font_red;brûlé&font_end; vif !</string>
+    <string name="dead_reason_tile_damage_cold">Tu as été &font_tundra;congelé&font_end;
+        vivant !</string>
 
     <string name="blacksmith_message">Bonjour! As-tu besoin d\'améliorer n\'importe quel "&font_green;\*&font_end;" équipement ?&br;&br;Ou en détruire d\'autre ?&br;&br;Je peux aussi te faire fondre tes minerais pour en faire des lingots.&br;&br;Dis moi juste ce que tu veux que je fasse, je suis chaud !&br;&br;Oublie pas de déséquipper l\'équipement que tu veux modifier.</string>
     <string name="blacksmith_no_equipment_message">Excuse moi mais t\'a pas l\'air d\'avoir quoi que ce soit que je peux travailler…</string>
@@ -3555,13 +3555,13 @@
 
     <string name="merchant_quest_quit_description">&font_gold;%1$s&font_end; at &font_cyan;%2$d&font_end;, &font_cyan;%3$d &font_end;has asked you to bring &font_cyan;%4$d &font_end;%5$s.</string>
 
-    <string name="content_description_arrow_to_unfold">Arrow to unfold this</string>
-    <string name="settings_show_hero_icon">Show Hero Icon</string>
-    <string name="pets_combat_is_dead">%s can\'t attack because it\'s dead!</string>
-    <string name="pets_combat_died">%s died!</string>
-    <string name="pets_combat_received_damage">Your %1$s received &font_red;%2$d &font_end;damage!</string>
-    <string name="combat_heal_message">Cast to yourself or to %s?</string>
-    <string name="button_you">Me</string>
+    <string name="content_description_arrow_to_unfold">Flèche pour dérouler</string>
+    <string name="settings_show_hero_icon">Montrer icône héros</string>
+    <string name="pets_combat_is_dead">%s ne peut pas attaquer car il est mort !</string> 
+    <string name="pets_combat_died">%s est mort !</string>
+    <string name="pets_combat_received_damage">Votre %1$s a reçu &font_red;%2$d &font_end;dégâts !</string>
+    <string name="combat_heal_message">Lancer sur soi-même ou sur %s ?</string>
+    <string name="button_you">Moi</string>
 
     <string name="pets_combat_health_restored">%1$s restored &font_health;%2$d &font_end;health!</string>
 
