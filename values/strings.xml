@@ -3798,4 +3798,8 @@
     <string name="button_scrap_inventory">S</string>
     <string name="button_drop_reduced">D</string>
 
+    <string name="tile_content_type_monster_trophy">&font_red;Monster &font_end;&font_gold;Trophy&font_end;</string>
+    <string name="monster_trophy_name">%1$s\'s &font_gold;Trophy&font_end; [&font_cyan;%2$d&font_end;]</string>
+    <string name="item_info_monster_trohpy_info">It\'s a %1$s\'s &font_gold;Trophy&font_end;, obtained for killing a level &font_cyan;%2$d&font_end; %1$s!</string>
+
 </resources>
