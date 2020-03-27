@@ -1802,21 +1802,21 @@
         vivant !</string>
 
     <string name="blacksmith_message">Bonjour! As-tu besoin d\'améliorer n\'importe quel "&font_green;\*&font_end;" équipement ?&br;&br;Ou en détruire d\'autre ?&br;&br;Je peux aussi te faire fondre tes minerais pour en faire des lingots.&br;&br;Dis moi juste ce que tu veux que je fasse, je suis chaud !&br;&br;Oublie pas de déséquipper l\'équipement que tu veux modifier.</string>
-    <string name="blacksmith_no_equipment_message">Excuse moi mais t\'a pas l\'air d\'avoir quoi que ce soit que je peux travailler…</string>
-    <string name="blacksmith_no_equipment_message_scrap">Désolé mais ya rien a mettre en piece…</string>
+    <string name="blacksmith_no_equipment_message">Excuse moi mais t\'as pas l\'air d\'avoir quoi que ce soit que je peux travailler…</string>
+    <string name="blacksmith_no_equipment_message_scrap">Désolé mais y'a rien a mettre en pièce…</string>
     <string name="blacksmith_cost" tools:ignore="PluralsCandidate">&font_gold;%1$d d\'Or&font_end;</string>
-    <string name="blacksmith_improved_equipment_to_level">%1$s est amélioré!</string>
+    <string name="blacksmith_improved_equipment_to_level">%1$s est amélioré !</string>
     <string name="blacksmith_title">&font_iron;Forgeron&font_end;</string>
-    <string name="blacksmith_scrapped_equipment">%1$s est mis en pièce pour du %2$s!</string>
+    <string name="blacksmith_scrapped_equipment">%1$s est mis en pièces pour du %2$s !</string>
     <string name="blacksmith_failed_scrapping">Destruction de %s a échoué…</string>
     <string name="blacksmith_craft_cost">Craft: &font_gold;%1$d&font_end; d\'Or</string>
     <string name="blacksmith_crafted">%s forgé !</string>
     <string name="blacksmith_not_enough_material">Tu n\'as pas les matériaux nécessaire…</string>
     <string name="needs_two_dots">Besoin de :</string>
-    <string name="well_drink_message">Boire depuis le %1$s?</string>
+    <string name="well_drink_message">Boire depuis le %1$s ?</string>
     <string name="well_message_empty">Le %1$s est vide…</string>
-    <string name="castle_message_cant_pass">Stop! Tu n\'es pas autorisé a passer !&br;&br;Seuls ceux qui ont quelque chose a offrir au &font_gold;Roi &font_end;peuvent entrer !</string>
-    <string name="castle_message_have_letter">Bonjour! Vous dites posséder une &font_cyan;Lettre &font_end;pour le &font_gold;Roi &font_end;?&br;&br;Venez, entrez dans le &font_stone;Chateau &font_end;et remettez le lui…</string>
+    <string name="castle_message_cant_pass">Stop ! Tu n\'es pas autorisé a passer !&br;&br;Seuls ceux qui ont quelque chose a offrir au &font_gold;Roi &font_end;peuvent entrer !</string>
+    <string name="castle_message_have_letter">Bonjour ! Vous dites posséder une &font_cyan;Lettre &font_end;pour le &font_gold;Roi &font_end; ?&br;&br;Venez, entrez dans le &font_stone;Château &font_end;et remettez-le lui…</string>
     <string name="castle_king_title">&font_gold;Roi&font_end;</string>
     <string name="castle_king_message_1">Vous avez quelque chose pour moi ?&br;&br;Donnez la moi…</string>
     <string name="castle_king_message_2">Je vous en remercie… Oh, intéressant… Je la lirai en privé.</string>
@@ -1824,56 +1824,56 @@
     <string name="castle_king_message_4">Je vois…</string>
     <string name="castle_king_message_5">Oh, vous êtes toujours là ?</string>
     <string name="castle_king_message_6">Oh, et je suppose que tu attends quelque chose en retour…</string>
-    <string name="castle_king_message_7">Okay… tenez ! Maintenant, quittez mon &font_stone;Chateau &font_end;!</string>
+    <string name="castle_king_message_7">Okay… tenez ! Maintenant, quittez mon &font_stone;Château &font_end; !</string>
     <string name="castle_king_gives_you_this">Le &font_gold;Roi&font_end;
-        vous offre un (e) %1$s!</string>
-    <string name="castle_message_royal_seal_message">Je vois que vous avez un &font_gold;Sceau Royal &font_end;du &font_gold;Roi&font_end;. Si vous m\'en donnez &font_cyan;%1$d &font_end;, Je vous offrirais un &font_iron;Bouclier &font_end; &font_gold;Royal&font_end;
-        en échange.&br;&br;Acceptez vous ?</string>
-    <string name="castle_message_royal_seal_not_enough">Tu n\'as pas assez de &font_gold;Sceau Royal&font_end;… Revenez quand vous en aurai au moins &font_cyan;%1$d&font_end;!</string>
+        vous offre un(e) %1$s !</string>
+    <string name="castle_message_royal_seal_message">Je vois que vous avez un &font_gold;Sceau Royal &font_end;du &font_gold;Roi&font_end;. Si vous m\'en donnez &font_cyan;%1$d &font_end;, je vous offrirais un &font_iron;Bouclier &font_end; &font_gold;Royal&font_end;
+        en échange.&br;&br;Acceptez-vous ?</string>
+    <string name="castle_message_royal_seal_not_enough">Tu n\'as pas assez de &font_gold;Sceau Royal&font_end;… Revenez quand vous en aurez au moins &font_cyan;%1$d&font_end; !</string>
     <string name="bar_caps">Bar</string>
-    <string name="bar_text_question_eat_at_the" tools:ignore="PluralsCandidate">Manger pour &font_gold;%1$d d\'Or&font_end;?</string>
+    <string name="bar_text_question_eat_at_the" tools:ignore="PluralsCandidate">Manger pour &font_gold;%1$d d\'Or&font_end; ?</string>
     <string name="bar_not_hungry">Déjà rassasié…</string>
-    <string name="bar_ate_at_the">Tu as mangé dans le/la %1$s.</string>
-    <string name="bar_not_enough_gold">Tu n\'as pas assez d\'or pour manger dans le/la %1$s.</string>
+    <string name="bar_ate_at_the">Tu as mangé dans le %1$s.</string>
+    <string name="bar_not_enough_gold">Tu n\'as pas assez d\'or pour manger dans le %1$s.</string>
     <string name="not_enough_gold">Tu n\'as pas assez d\'or…</string>
-    <string name="abandoned_house_text_question_enter_the">Entrer dans la %1$s?</string>
+    <string name="abandoned_house_text_question_enter_the">Entrer dans la %1$s ?</string>
     <string name="abandoned_house_you_find_nothing_in_the_">Tu n\'as rien trouvé dans la %1$s…</string>
-    <string name="portal_enter_mysterious_portal">Il y a un &font_portal;Portail&font_end; plutôt mystérieux… y entrer ?</string>
-    <string name="portal_teleported_to_x_y">Tu as été téléporté en &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end;!</string>
+    <string name="portal_enter_mysterious_portal">Il y a un &font_portal;Portail&font_end; plutôt mystérieux… Y entrer ?</string>
+    <string name="portal_teleported_to_x_y">Tu as été téléporté en &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end; !</string>
     <string name="slave">Esclave</string>
     <string name="slave_runs_away">L\'%1$s a fui en laissant quelque chose derrière lui…</string>
-    <string name="slave_thanks_for_freeing_me">Merci de m\'avoir libéré!</string>
+    <string name="slave_thanks_for_freeing_me">Merci de m\'avoir libéré !</string>
     <string name="guard">Garde</string>
     <string name="guard_start_dialog">Jm\'en vais ramener cet &font_cyan;Esclave&font_end; au chateau pour l\'exécuter, dégage ou tu vas goûter au fer de mon épé !</string>
-    <string name="troll_pay_or_fight" tools:ignore="PluralsCandidate">Chui %1$s! C\'est mon pont! Si tu a envie que tu passe dans le pont, paye avec &font_gold;%2$d d\'or&font_end;, ou meuuurt!</string>
+    <string name="troll_pay_or_fight" tools:ignore="PluralsCandidate">Chui %1$s ! Ce pont est mien ! Si tu a envie que tu passe dans le pont, paye avec &font_gold;%2$d d\'or&font_end;, ou meuuurt !</string>
     <string name="troll_not_enough_gold">Tu n\'as pas assez &font_gold;d\'or&font_end;! Le %1$s t\'attaque !</string>
-    <string name="troll_leaves_happily_with_your_money">%1$s gambade ailleurs avec son or fraichement acquis…</string>
+    <string name="troll_leaves_happily_with_your_money">%1$s gambade ailleurs avec son or fraîchement acquis…</string>
     <string name="explorer_you_dont_have_the_necessary_island_soul" tools:ignore="UnusedResources">Tu ne possède pas la bonne &font_cyan;Âme de l\'Île&font_end;…</string>
-    <string name="explorer_im_looking_for_an_island_soul">Hello! I\'m a passionate explorer and I\'m looking for an %1$s! If you happen to have one, could you give it to me?&br;&br;I will give you a &font_cyan;special &font_end;item in exchange!</string>
-    <string name="explorer_already_given">Rebonjour! Merci pour l\'%1$s! Je n\'ai toujours pas réussit a trouver comment l\'utiliser… À bientôt, l\'ami!</string>
-    <string name="explorer_gaven_you">L\'%1$s vous offre un(e) %2$s!</string>
-    <string name="waterfall_info">Il y a une magnifique &font_water;Chute D\'Eau&font_end; près de vous. Tu la contemples un moment avant de reprendre ton aventure.</string>
-    <string name="sphinx_info">Tu observes l\'immense &font_pyramid;Sphinx &font_end;et es fasciné à propos de sa taille et de sa beauté. Ça semble plutôt vieux.</string>
-    <string name="text_ruins_info_not_explored">Tu te balades ces &font_ruins;Ruines &font_end;pendant un moment et avant de partir, tu remarques quelque chose !</string>
-    <string name="text_ruins_info_explored">Tu te balades pour la seconde fois dans les &font_ruins;Ruines&font_end;, mais il n\'y a rien d\'autre appart des cailloux et de la poussière…</string>
-    <string name="cabin_rest_in_the_question">Se reposer dans le %1$s?</string>
+    <string name="explorer_im_looking_for_an_island_soul">Salut ! Je suis un explorateur passionné. Je recherche un %1$s ! S\'il t\'arrivait de trouver cet objet, pourrais-tu me l\'apporter ?&br;&br;Je te donnerais un item &font_cyan;spécial &font_end;en échange !</string>
+    <string name="explorer_already_given">Rebonjour ! Merci pour l\'%1$s ! Je n\'ai toujours pas réussi à trouver comment l\'utiliser… À bientôt, l\'ami !</string>
+    <string name="explorer_gaven_you">L\'%1$s vous offre un(e) %2$s !</string>
+    <string name="waterfall_info">Il y a une magnifique &font_water;Chute d\'eau&font_end; près de vous. Tu la contemples un moment avant de reprendre ton aventure.</string>
+    <string name="sphinx_info">Tu observes l\'immense &font_pyramid;Sphinx &font_end;et es fasciné par sa taille et sa beauté. Ça semble plutôt vieux.</string>
+    <string name="text_ruins_info_not_explored">Tu te balades dans ces &font_ruins;Ruines &font_end;pendant un moment et avant de partir, tu remarques quelque chose !</string>
+    <string name="text_ruins_info_explored">Tu te balades pour la seconde fois dans les &font_ruins;Ruines&font_end;, mais il n\'y a rien d\'autre  à part des cailloux et de la poussière…</string>
+    <string name="cabin_rest_in_the_question">Se reposer dans le %1$s ?</string>
     <string name="cabin_rest_in_the">Tu t\'es reposé dand le %1$s.</string>
-    <string name="oasis_question_drink_from_the">Boire depuis l\'%1$s?</string>
+    <string name="oasis_question_drink_from_the">Boire depuis l\'%1$s ?</string>
     <string name="oasis_drink_from_the">Tu as bus depuis l\'%1$s et as restoré ta faim.</string>
     <string name="oasis_disappears">L\'%1$s disparaît…</string>
     <string name="firecamp">&font_attack;Feu de Camp&font_end;</string>
-    <string name="firecamp_placed_the_">Tu as placé un %1$s!</string>
+    <string name="firecamp_placed_the_">Tu as placé un %1$ s!</string>
     <string name="firecamp_extinguishes">%1$s s\'éteint…</string>
-    <string name="monster_attacks_in_">Il y avait un %1$s dans un %2$s! Il t\'attaque !</string>
+    <string name="monster_attacks_in_">Il y avait un %1$s dans un %2$s ! Il t\'attaque !</string>
     <string name="thief_dialog">Je n\'ai rien volé ! Je vous en prie, laissez moi partir !</string>
     <string name="thief_stole_gold">Tu sens ton porte-monnaie plus léger…</string>
 
-    <string name="tile_content_stone_bridge_desc">Un vieux &font_stone;pont en pierre &font_end;plutôt simpa.</string>
+    <string name="tile_content_stone_bridge_desc">Un vieux &font_stone;pont en pierre &font_end;plutôt sympa.</string>
     <string name="tile_content_type_pyramid_desc">Une immense et très impressionnante &font_pyramid;pyramide&font_end;.</string>
-    <string name="tile_content_type_windmill_desc_first">C\'est un grand &font_wood;Moulin à Vent&font_end;. Il y a l\'air d\'avoir d\'avoir de la &font_food;nourriture &font_end;à l\'intérieur!</string>
-    <string name="tile_content_type_windmill_desc_second">C\'est un grand &font_wood;Moulin à Vent&font_end;. Il n\'y a rien à l\'intérieur.</string>
+    <string name="tile_content_type_windmill_desc_first">C\'est un grand &font_wood;Moulin à vent&font_end;. Il y a l\'air d\'y avoir de la &font_food;nourriture &font_end;à l\'intérieur !</string>
+    <string name="tile_content_type_windmill_desc_second">C\'est un grand &font_wood;Moulin à vent&font_end;. Il n\'y a rien à l\'intérieur.</string>
 
-    <string name="teleport_stone_teleported_to_x_y">Tu t\'es téléporté en &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end;!</string>
+    <string name="teleport_stone_teleported_to_x_y">Tu t\'es téléporté en &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end; !</string>
 
     <string name="merchant_master_marks_exchanged_message">Oh, c\'est encore vous… Merci pour votre contribution à la &font_gold;Guilde des Marchands&font_end;.</string>
     <string name="merchant_master_no_business_with_you">Je n\'ai aucune affaire à faire avec toi…</string>
