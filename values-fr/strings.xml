@@ -1863,7 +1863,7 @@
     <string name="oasis_drink_from_the">Tu as bus depuis l\'%1$s et as restoré ta faim.</string>
     <string name="oasis_disappears">L\'%1$s disparaît…</string>
     <string name="firecamp">&font_attack;Feu de Camp&font_end;</string>
-    <string name="firecamp_placed_the_">Tu as placé un %1$ s !</string>
+    <string name="firecamp_placed_the_">Tu as placé un %1$s !</string>
     <string name="firecamp_extinguishes">%1$s s\'éteint…</string>
     <string name="monster_attacks_in_">Il y avait un %1$s dans un %2$s ! Il t\'attaque !</string>
     <string name="thief_dialog">Je n\'ai rien volé ! Je vous en prie, laissez moi partir !</string>
