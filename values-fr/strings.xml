@@ -1513,6 +1513,7 @@
     <string name="weapon_skill_axe_axe_stomp_attack">Tu fais très rapidement un arc de cercle et touches l\'ennemi !</string>
     <string name="weapon_skill_axe_life_hit_name">&font_skill_attack;Coup régénérateur&font_end;</string>
     <string name="weapon_skill_axe_life_hit_desc">Frappe l\'ennemi. Absorbe la vie l\'ennemi !</string>
+    <string name="weapon_skill_axe_life_hit_attack">Tu absorbes la vie de l\'ennemi !</string>
     <string name="weapon_skill_axe_counter_smash_name">&font_skill_attack;Contre-attaque&font_end;</string>
     <string name="weapon_skill_axe_counter_smash_desc">Écrase l\'ennemi. Toujours le deuxième à attaquer.</string>
     <string name="weapon_skill_axe_counter_smash_attack">Tu écrase l\'ennemi !</string>
