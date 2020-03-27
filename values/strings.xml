@@ -165,7 +165,8 @@
 
     <string name="plus_number" translatable="false">+&font_cyan;%d&font_end;</string>
 
-    <string name="tool_infinite_text">%1$s [&font_infinity;*&font_end;]</string>
+    <string name="tool_infinite_text" translatable="false">%1$s [&font_infinity;*&font_end;]</string>
+
 
     <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
     <!-- TRANSLATE                                                                               -->
@@ -3505,7 +3506,6 @@
     <string name="settings_leaderboards">Leaderboards</string>
 
 
-
     <string name="tool_wasted">%1$s is wasted! Use a %2$s to repair it.</string>
     <string name="tile_content_type_repair_kit">Repair Kit</string>
     <string name="dark_orb_vibrates">The %1$s vibrates…</string>
@@ -3793,5 +3793,9 @@
     <string name="summoning_monster">&font_void;Summoning &font_end;&font_red;monster&font_end;…</string>
     <string name="summoned_monster">…&font_void;summoned &font_end;%1$s!</string>
     <string name="cant_summon_if_theres_a_monster_nearby">Can\'t &font_void;summon &font_end;a &font_red;monster &font_end;if there\'s already a &font_red;monster &font_end;nearby…</string>
+    <string name="scrap_from_inventory_message">You have an &asterisk_ascend_color;Ascension &font_end;&font_red;Flame&font_end;, so you can &font_iron;scrap &font_end;your equipment pieces.&br;&br;Do you want to &font_iron;scrap &font_end;%1$s?</string>
+
+    <string name="button_scrap_inventory">S</string>
+    <string name="button_drop_reduced">D</string>
 
 </resources>
