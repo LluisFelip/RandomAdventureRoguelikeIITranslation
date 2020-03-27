@@ -3688,4 +3688,69 @@
     <string name="monster_action_song_composition">Song Composition</string>
     <string name="monster_action_game_update">Game Update</string>
 
+    <string name="tool_chopping_axe_infinite">&font_infinity;Infinite &font_end;&font_wood;Chopping &font_end;Axe</string>
+    <string name="tool_pickaxe_infinite">&font_infinity;Infinite &font_end;&font_silver;Pickaxe&font_end;</string>
+    <string name="tool_fishing_rod_infinite">&font_infinity;Infinite &font_end;&font_cyan;Fishing &font_end;Rod</string>
+    <string name="tool_net_infinite">&font_infinity;Infinite &font_end;&font_insect;Net&font_end;</string>
+    <string name="tool_skinning_knife_infinite">&font_infinity;Infinite &font_end;&font_skin;Skinning &font_end;Knife</string>
+    <string name="tool_meat_cleaver_infinite">&font_infinity;Infinite &font_end;&font_blood;Meat &font_end;Cleaver</string>
+
+    <string name="tile_content_type_summoning_stone">&font_void;Summoning &font_end;&font_stone;Stone&font_end;</string>
+
+    <string name="item_jade_amulet">&font_jade;Jade &font_end;Amulet</string>
+    <string name="item_serpentine_amulet">&font_serpentine;Serpentine &font_end;Amulet</string>
+    <string name="item_sodalite_amulet">&font_sodalite;Sodalite &font_end;Amulet</string>
+    <string name="item_saphir_amulet">&font_saphir;Sapphire &font_end;Amulet</string>
+    <string name="item_aragonite_amulet">&font_aragonite;Aragonite &font_end;Amulet</string>
+    <string name="item_jasper_amulet">&font_jasper;Jasper &font_end;Amulet</string>
+    <string name="item_ruby_amulet">&font_ruby;Ruby &font_end;Amulet</string>
+    <string name="item_onyx_amulet">&font_onyx;Onyx &font_end;Amulet</string>
+    <string name="item_quartz_amulet">&font_quartz;Quartz &font_end;Amulet</string>
+    <string name="item_pearl_amulet">&font_pearl;Pearl &font_end;Amulet</string>
+
+    <string name="item_emerald_ring">&font_emerald;Emerald &font_end;Ring</string>
+    <string name="item_jade_ring">&font_jade;Jade &font_end;Ring</string>
+    <string name="item_serpentine_ring">&font_serpentine;Serpentine &font_end;Ring</string>
+    <string name="item_sodalite_ring">&font_sodalite;Sodalite &font_end;Ring</string>
+    <string name="item_saphir_ring">&font_saphir;Sapphire &font_end;Ring</string>
+    <string name="item_aragonite_ring">&font_aragonite;Aragonite &font_end;Ring</string>
+    <string name="item_jasper_ring">&font_jasper;Jasper &font_end;Ring</string>
+    <string name="item_ruby_ring">&font_ruby;Ruby &font_end;Ring</string>
+    <string name="item_onyx_ring">&font_onyx;Onyx &font_end;Ring</string>
+    <string name="item_quartz_ring">&font_quartz;Quartz &font_end;Ring</string>
+    <string name="item_pearl_ring">&font_pearl;Pearl &font_end;Ring</string>
+
+    <string name="item_info_summoning_stone">Use this &font_void;Summoning &font_end;&font_stone;Stone &font_end;to summon a random &font_void;monster&font_end;!</string>
+
+    <string name="stats_extra_inc_attack">Increased &font_attack;Att&font_end;.: &font_attack;%d&font_end;</string>
+    <string name="stats_extra_inc_defense">Increased &font_defense;Def&font_end;.: &font_defense;%d&font_end;</string>
+    <string name="stats_extra_inc_speed">Increased &font_speed;Spd&font_end;.: &font_speed;%d&font_end;</string>
+    <string name="stats_extra_inc_intelligence">Increased &font_mana;Int&font_end;.: &font_mana;%d&font_end;</string>
+
+    <string name="increases_max_health">&br;&br;Increases the Maximum &font_health;Health&font_end;.</string>
+    <string name="increases_max_mana">&br;&br;Increases the Maximum &font_mana;Mana&font_end;.</string>
+    <string name="increases_max_hunger">&br;&br;Increases the Maximum &font_hunger;Hunger&font_end;.</string>
+    <string name="increases_base_attack">&br;&br;Increases the &font_cyan;base &font_end;&font_attack;attack&font_end;.</string>
+    <string name="increases_base_defense">&br;&br;Increases the &font_cyan;base &font_end;&font_defense;defense&font_end;.</string>
+    <string name="increases_base_speed">&br;&br;Increases the &font_cyan;base &font_end;&font_speed;speed&font_end;.</string>
+    <string name="increases_base_intelligence">&br;&br;Increases the &font_cyan;base &font_end;&font_mana;intelligence&font_end;.</string>
+
+    <string name="summoning_monster">&font_void;Summoning &font_end;&font_red;monster&font_end;…</string>
+    <string name="summoned_monster">…&font_void;summoned &font_end;%1$s!</string>
+    <string name="cant_summon_if_theres_a_monster_nearby">Can\'t &font_void;summon &font_end;a &font_red;monster &font_end;if there\'s already a &font_red;monster &font_end;nearby…</string>
+    <string name="scrap_from_inventory_message">You have an &asterisk_ascend_color;Ascension &font_end;&font_red;Flame&font_end;, so you can &font_iron;scrap &font_end;your equipment pieces.&br;&br;Do you want to &font_iron;scrap &font_end;%1$s?</string>
+
+    <string name="button_scrap_inventory">S</string>
+    <string name="button_drop_reduced">D</string>
+
+    <string name="tile_content_type_monster_trophy">&font_red;Monster &font_end;&font_gold;Trophy&font_end;</string>
+    <string name="monster_trophy_name">%1$s\'s &font_gold;Trophy&font_end; [&font_cyan;%2$d&font_end;]</string>
+    <string name="item_info_monster_trohpy_info">It\'s a %1$s\'s &font_gold;Trophy&font_end;, obtained for killing a level &font_cyan;%2$d &font_end;%1$s!</string>
+
+    <string name="tile_content_type_infinity_portal">&font_infinity;Infinity &font_end;&font_portal;Portal&font_end;</string>
+    <string name="infinity_portal_info">Use this to create a &font_portal;Portal &font_end;to the beginning of this &font_infinity;Infinity &font_end;(if this even makes sense).</string>
+    <string name="infinity_portal_enter">Cross this &font_portal;Portal &font_end;to go to the beginning of this &font_infinity;Infinity &font_end;(if this even makes sense).</string>
+    <string name="cant_cross_this_portal">You can\'t enter this &font_infinity;Infinity &font_end;&font_portal;Portal&font_end;…</string>
+
+
 </resources>

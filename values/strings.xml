@@ -3741,9 +3741,6 @@
     <string name="monster_action_song_composition">Song Composition</string>
     <string name="monster_action_game_update">Game Update</string>
 
-
-    <!-- FIXME: Update ALL STRINGS -->
-
     <string name="tool_chopping_axe_infinite">&font_infinity;Infinite &font_end;&font_wood;Chopping &font_end;Axe</string>
     <string name="tool_pickaxe_infinite">&font_infinity;Infinite &font_end;&font_silver;Pickaxe&font_end;</string>
     <string name="tool_fishing_rod_infinite">&font_infinity;Infinite &font_end;&font_cyan;Fishing &font_end;Rod</string>
