@@ -962,7 +962,7 @@
 
 
     <!-- Do not translate this, instead, each language should have its own quotes, pop culture references, some kind of jokes, etc… -->
-    <string name="villager_quotes" translatable="false">
+    <string name="villager_quotes">
         <![CDATA[
     Buy more, buy more now. Buy and be happy.\n
     Our time is yours.\n
