@@ -3806,5 +3806,6 @@
     <string name="tile_content_type_infinity_portal">&font_infinity;Infinity &font_end;&font_portal;Portal&font_end;</string>
     <string name="infinity_portal_info">Use this to create a &font_portal;Portal &font_end;to the beginning of this &font_infinity;Infinity &font_end;(if this even makes sense).</string>
     <string name="infinity_portal_enter">Cross this &font_portal;Portal &font_end;to go to the beginning of this &font_infinity;Infinity &font_end;(if this even makes sense).</string>
+    <string name="cant_cross_this_portal">You can\'t enter this &font_infinity;Infinity &font_end;&font_portal;Portal&font_end;…</string>
 
 </resources>
