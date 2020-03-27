@@ -1863,7 +1863,7 @@
     <string name="oasis_drink_from_the">Tu as bus depuis l\'%1$s et as restoré ta faim.</string>
     <string name="oasis_disappears">L\'%1$s disparaît…</string>
     <string name="firecamp">&font_attack;Feu de Camp&font_end;</string>
-    <string name="firecamp_placed_the_">Tu as placé un %1$s!</string>
+    <string name="firecamp_placed_the_">Tu as placé un %1$ s !</string>
     <string name="firecamp_extinguishes">%1$s s\'éteint…</string>
     <string name="monster_attacks_in_">Il y avait un %1$s dans un %2$s ! Il t\'attaque !</string>
     <string name="thief_dialog">Je n\'ai rien volé ! Je vous en prie, laissez moi partir !</string>
@@ -1871,93 +1871,93 @@
 
     <string name="tile_content_stone_bridge_desc">Un vieux &font_stone;pont en pierre &font_end;plutôt sympa.</string>
     <string name="tile_content_type_pyramid_desc">Une immense et très impressionnante &font_pyramid;pyramide&font_end;.</string>
-    <string name="tile_content_type_windmill_desc_first">C\'est un grand &font_wood;Moulin à vent&font_end;. Il y a l\'air d\'y avoir de la &font_food;nourriture &font_end;à l\'intérieur !</string>
-    <string name="tile_content_type_windmill_desc_second">C\'est un grand &font_wood;Moulin à vent&font_end;. Il n\'y a rien à l\'intérieur.</string>
+    <string name="tile_content_type_windmill_desc_first">C\'est un grand &font_wood;moulin à vent&font_end;. Il y a l\'air d\'y avoir de la &font_food;nourriture &font_end;à l\'intérieur !</string>
+    <string name="tile_content_type_windmill_desc_second">C\'est un grand &font_wood;moulin à vent&font_end;. Il n\'y a rien à l\'intérieur.</string>
 
     <string name="teleport_stone_teleported_to_x_y">Tu t\'es téléporté en &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end; !</string>
 
     <string name="merchant_master_marks_exchanged_message">Oh, c\'est encore vous… Merci pour votre contribution à la &font_gold;Guilde des Marchands&font_end;.</string>
     <string name="merchant_master_no_business_with_you">Je n\'ai aucune affaire à faire avec toi…</string>
-    <string name="merchant_master_marks_exchange_message">Oh, bonjour! Je vois que vous avez une &font_cyan;Marque de Marchand&font_end;…&br;&br;Serez vous intéressé(e) pour contribuer à la &font_gold;Guilde des Marchands&font_end;? &font_cyan;%1$d&font_end; &font_cyan;Marque &font_end;devrait être assez.&br;&br;En échange, je vous offrirai ceci:&br;%2$s.</string>
-    <string name="merchant_master_marks_exchange_success_message">Les voici ! Merci !&br;&br;Comme promis, Ce(tte) %1$s est pour vous!&br;Oh, et bienvenue dans la &font_gold;Guilde des Marchands&font_end;…</string>
-    <string name="merchant_master_not_enough">Je suis au regret de vous informer que vous n\'avez pas assez de &font_cyan;Marque du Marchand &font_end;sur toi…&br;&br;Reviens quand tu auras assez de &font_cyan;%1$d&font_end;.</string>
+    <string name="merchant_master_marks_exchange_message">Oh, bonjour ! Je vois que vous avez une &font_cyan;Marque de Marchand&font_end;…&br;&br;Seriez vous intéressé(e) pour contribuer à la &font_gold;Guilde des Marchands&font_end; ? &font_cyan;%1$d&font_end; &font_cyan;Marques &font_end;devrait être assez.&br;&br;En échange, je vous offrirai ceci :&br;%2$s.</string>
+    <string name="merchant_master_marks_exchange_success_message">Les voici ! Merci !&br;&br;Comme promis, ce %1$s est pour vous !&br;Oh, et bienvenue dans la &font_gold;Guilde des Marchands&font_end;…</string>
+    <string name="merchant_master_not_enough">Je suis au regret de vous informer que tu n'as pas assez de &font_cyan;Marques du Marchand &font_end;sur toi…&br;&br;Reviens quand tu auras assez de &font_cyan;%1$d&font_end;.</string>
 
-    <string name="temple_explore_the_temple_it_seems_dangerous">Explorer le %1$s? Ça a l\'air dangereux…</string>
-    <string name="temple_explore_1">Tu entres dans le %1$s. Il y a un long couloir et au il y a deux portes au bout : une &font_red;rouge &font_end;et une &font_blue;bleu&font_end;. Laquelle ouvres-tu ?</string>
+    <string name="temple_explore_the_temple_it_seems_dangerous">Explorer le %1$s ? Ça a l\'air dangereux…</string>
+    <string name="temple_explore_1">Tu entres dans le %1$s. Il y a un long couloir et au il y a deux portes au bout : une &font_red;rouge &font_end;et une &font_blue;bleue&font_end;. Laquelle ouvres-tu ?</string>
     <string name="temple_explore_1_red_door">&font_red;Porte rouge&font_end;</string>
-    <string name="temple_explore_1_blue_door">&font_blue;Porte bleu&font_end;</string>
-    <string name="temple_explore_2_a">Tu continues ta route dans un autre couloir et à la fin tu aperçois un levier. Il semble que tu puisses le pivoter à &font_cyan;droite &font_end;ou à &font_cyan;gauche&font_end;. Dans quelle direction le pivotes-tu ?</string>
+    <string name="temple_explore_1_blue_door">&font_blue;Porte bleue&font_end;</string>
+    <string name="temple_explore_2_a">Tu continues ta route dans un autre couloir et finis par apercevoir un levier. Il semble que tu puisses le faire pivoter à &font_cyan;droite &font_end;ou à &font_cyan;gauche&font_end;. Dans quelle direction l'actives-tu ?</string>
     <string name="temple_explore_2_a_switch_left">&font_cyan;Gauche&font_end;</string>
     <string name="temple_explore_2_a_switch_right">&font_cyan;Droite&font_end;</string>
-    <string name="temple_explore_2_b">Tu te retrouves dans une piece remplis de poussière et de babiole. Tu regardes un peu partout et aperçois deux boutons sur le mur au fond. Lequel des deux appuies-tu?</string>
+    <string name="temple_explore_2_b">Tu te retrouves dans une piece remplie de poussière et de babioles. Tu regardes un peu partout et aperçois deux boutons sur le mur au fond. Sur lequel des deux appuies-tu ?</string>
     <string name="temple_explore_2_b_button_1">&font_cyan;Bouton 1&font_end;</string>
     <string name="temple_explore_2_b_button_2">&font_cyan;Bouton 2&font_end;</string>
-    <string name="temple_explore_2_b_first_button_1">Oh! Tu tombes dans un espèce de toboggan en spiral…</string>
-    <string name="temple_explore_2_b_first_button_2">Tu glisses et arrives enfin dans une petite pièce avk un &font_wood;coffre en bois&font_end;. L\'ouvrir ?</string>
+    <string name="temple_explore_2_b_first_button_1">Oh ! Tu tombes dans un espèce de toboggan en spirale…</string>
+    <string name="temple_explore_2_b_first_button_2">Tu glisses et arrives enfin dans une petite pièce avec un &font_wood;coffre en bois&font_end;. L\'ouvrir ?</string>
     <string name="temple_explore_2_b_first_button_open_yes">Oui</string>
     <string name="temple_explore_2_b_first_button_open_no">Non</string>
-    <string name="temple_explore_2_b_first_button_open_decide_to_open_1" tools:ignore="PluralsCandidate">Tu ouvres le &font_wood;coffre en bois &font_end;et trouve: &font_gold;%1$d gold&font_end;!</string>
-    <string name="temple_explore_2_b_first_button_open_decide_to_open_2">Après cette heureuse découverte, tu remarques une fenêtre qui semble donner sur l\'extérieur du temple. (Comment ça peut être possible ? Tu as pourtant glissé dans cette spirale pendant un moment!)</string>
-    <string name="temple_explore_2_b_first_button_open_decide_to_open_3">Tu traverses la fenêtre et sors du temple. Tu réalises que l\'entrée est desormais inaccessible car des grands rochers la bloquent. Il serait préférable de laisser ce temple abandonné.</string>
+    <string name="temple_explore_2_b_first_button_open_decide_to_open_1" tools:ignore="PluralsCandidate">Tu ouvres le &font_wood;coffre en bois &font_end;et trouve : &font_gold;%1$d d\'or&font_end;!</string>
+    <string name="temple_explore_2_b_first_button_open_decide_to_open_2">Après cette heureuse découverte, tu remarques une fenêtre qui semble donner sur l\'extérieur du temple. (Comment ça peut être possible ? Tu as pourtant glissé dans cette spirale pendant un moment !)</string>
+    <string name="temple_explore_2_b_first_button_open_decide_to_open_3">Tu traverses la fenêtre et sors du temple. Tu réalises que l\'entrée est desormais inaccessible car des grands rochers la bloquent. On ne pourra plus pénétrer ce temple de nouveau.</string>
     <string name="temple_explore_2_b_first_button_open_decide_to_not_open_1">Tu décides de ne pas ouvrir le &font_wood;coffre en bois&font_end;.Tu remarques une fenêtre qui semble donner sur l\'extérieur du temple. (Comment ça peut être possible ? Tu as pourtant glissé dans cette spirale pendant un moment!)</string>
-    <string name="temple_explore_2_b_first_button_open_decide_to_not_open_2">Tu traverses la fenêtre et sors du temple. Tu réalises que l\'entrée est desormais inaccessible car des grands rochers la bloquent. Il serait préférable de laisser ce temple abandonné.</string>
+    <string name="temple_explore_2_b_first_button_open_decide_to_not_open_2">Tu traverses la fenêtre et sors du temple. Tu réalises que l\'entrée est désormais inaccessible car des grands rochers la bloquent. On ne pourra plus pénétrer ce temple de nouveau.</string>
     <string name="temple_explore_2_b_second_button_1">Après avoir appuyé sur le bouton, quelque chose te frappe à la tête et tu perds conscience.</string>
-    <string name="temple_explore_2_b_second_button_2">Tu ouvres tes yeux et te retrouves à l\'extérieur du temple. Tu réalises qu\'il y a des rochers à l\'entrée, impossible de rentrer.</string>
-    <string name="temple_explore_3_a">Au moment ou le levier est actionné, un couloir dissimulé se découvre et tu l\'empreintes. Derrière il y a un &font_gold;coffre doré&font_end;! L\'ouvrir ?</string>
+    <string name="temple_explore_2_b_second_button_2">Tu ouvres les yeux et te retrouves à l\'extérieur du temple. Tu réalises qu\'il y a des rochers à l\'entrée, impossible de rentrer.</string>
+    <string name="temple_explore_3_a">Au moment ou le levier est actionné, un couloir dissimulé se dévoile et tu l\'empreintes. Derrière il y a un &font_gold;coffre doré&font_end; ! L\'ouvrir ?</string>
     <string name="temple_explore_3_a_open_yes">Oui</string>
     <string name="temple_explore_3_a_open_no">Non</string>
-    <string name="temple_explore_3_a_opening_1">Tu essayes d\'ouvrir le &font_gold;coffre doré &font_end;mais au moment ou tu le touches, tu te prends un énorme choc électrique et perd instantanément conscience.</string>
-    <string name="temple_explore_3_a_opening_2">Tu ouvres tes yeux et te retrouves à l\'extérieur. Tu réalises qu\'il y a des rochers à l\'entrée, impossible de rentrer.</string>
-    <string name="temple_explore_3_a_not_opening_1">Tu décides de ne pas ouvrir le coffre et et une porte dans un des murs de la pièce. Tu l\'ouvres et remarque de la lumière au bout.</string>
-    <string name="temple_explore_3_a_not_opening_2">Cette porte mène à l\'extérieur, tu en sors et au même moment, l\'entrée s\'écroule et un tas de rochers bloque l\'accès au temple.</string>
-    <string name="temple_explore_3_b">Au moment ou tu bouges le levier, une porte se révèle. Tu la traverses. Tu te retrouves dans un petit couloir qui se sépare en deux au bout: l\'un moins éclairé que l\'autre. Lequel prends tu ?</string>
+    <string name="temple_explore_3_a_opening_1">Tu essayes d\'ouvrir le &font_gold;coffre doré &font_end;mais au moment ou tu le touches, tu te prends un énorme choc électrique et perds instantanément conscience.</string>
+    <string name="temple_explore_3_a_opening_2">Tu ouvres les yeux et te retrouves à l\'extérieur. Tu réalises qu\'il y a des rochers à l\'entrée, impossible de rentrer.</string>
+    <string name="temple_explore_3_a_not_opening_1">Tu décides de ne pas ouvrir le coffre et tu réalises qu\'il y a une porte près du mur. Tu l\'ouvres et apperçois de la lumière au bout du chemin.</string>
+    <string name="temple_explore_3_a_not_opening_2">Cette porte mène à l\'extérieur. Tu sors et au même moment, l\'entrée s\'écroule et un tas de rochers bloque l\'accès au temple.</string>
+    <string name="temple_explore_3_b">Au moment ou tu bouges le levier, une porte se révèle. Tu la traverses. Tu te retrouves dans un petit couloir qui se sépare en deux au bout : l\'un moins éclairé que l\'autre. Lequel prends tu ?</string>
     <string name="temple_explore_3_b_darker">&font_cyan;Le chemin mal éclairé&font_end;</string>
     <string name="temple_explore_3_b_normal">&font_cyan;Le chemin bien éclairé&font_end;</string>
     <string name="temple_explore_4_a_1">Tu optes pour le chemins plus sombre et continues de marcher jusqu\'a heurter un mur. Quand tu te retournes pour rebrousser chemin, il y a un nouveau mur.</string>
     <string name="temple_explore_4_a_2">Tu es piégé. Après être perdu pendant un long moment, tu finis par manquer d\'énergie et perds conscience…</string>
-    <string name="temple_explore_4_a_3">Tu ouvres les yeux et tu te retrouves dehors. Tu réalises que quelqu\'un a bloqué l\'entrée par des pierres.</string>
-    <string name="temple_explore_4_b_1">Tu t\'enflnce dans le chemin éclairé jusqu\'a tomber sur une &font_red;torche &font_end;suspicieuse. Que décides-tu de faire, &font_cyan;la tirer &font_end;ou &font_cyan;la tourner &font_end;sur le côté ?</string>
+    <string name="temple_explore_4_a_3">Tu ouvres les yeux et tu te retrouves dehors. Tu réalises que quelqu\'un a bloqué l\'entrée avec des pierres.</string>
+    <string name="temple_explore_4_b_1">Tu t\'enfonce dans le chemin éclairé jusqu\'à tomber sur une &font_red;torche &font_end;suspicieuse. Que décides-tu de faire, &font_cyan;la tirer &font_end;ou &font_cyan;la tourner &font_end;sur le côté ?</string>
     <string name="temple_explore_4_b_pull_it">&font_cyan;La tirer&font_end;</string>
     <string name="temple_explore_4_b_turn_it">&font_cyan;La tourner&font_end;</string>
-    <string name="temple_explore_5_a">Soudainement, les murs autours de vous se modifient, se transforment et une immense pièce dorée fait son apparition. Il y a un &font_silver;coffre argenté &font_end;au milieu de la piece. L\'ouvrir ?</string>
+    <string name="temple_explore_5_a">Soudainement, les murs autours de vous se transforment et une immense pièce dorée apparait. Il y a un &font_silver;coffre argenté &font_end;au milieu de la pièce. L\'ouvrir ?</string>
     <string name="temple_explore_5_a_yes">Oui</string>
     <string name="temple_explore_5_a_no">Non</string>
-    <string name="temple_explore_5_a_yes_consequence_1" tools:ignore="PluralsCandidate">Tu ouvres le &font_silver;coffre argenté&font_end;! Il y a &font_gold;%1$d d\'or &font_end;et un(e) %2$s! Tu récupères le tout et soudainement, un mystérieux gaz s\'echappe et tu perds conscience…</string>
-    <string name="temple_explore_5_a_yes_consequence_2">Tu ouvres les yeux et tu te retrouves dehors. Tu réalise que quelqu\'un a bloqué l\'entrée par des pierres.</string>
-    <string name="temple_explore_5_a_no_consequence">Après avoir décidé de ne pas l\'ouvrir, une voix inconnue résonne dans ta tête et dans les parrois de ces murs: \'Après être allé aussi loin, tu ne veux pas ouvrir mon coffre ? Ta punition sera terrible !\'</string>
-    <string name="temple_explore_5_b">Les &font_red;torches&font_end; sont réduites en poussière et tout devient sombre…</string>
-    <string name="temple_explore_5_b_2">Soudainement, tu ouvres les yeux et tu te retrouves dehors. Tu réalises que le monstre a bloqué l\'entrée par des pierres.</string>
-    <string name="temple_already_explored">Impossible de rentrer… L\'entrée esr inaccessible, les rochers bloquent le passage.</string>
+    <string name="temple_explore_5_a_yes_consequence_1" tools:ignore="PluralsCandidate">Tu ouvres le &font_silver;coffre argenté&font_end; ! Il y a &font_gold;%1$d d\'or &font_end;et un %2$s ! Tu récupères le tout et soudainement, un mystérieux gaz s\'échappe et tu perds conscience…</string>
+    <string name="temple_explore_5_a_yes_consequence_2">Tu ouvres les yeux et tu te retrouves dehors. Tu réalise que quelqu\'un a bloqué l\'entrée avec des pierres.</string>
+    <string name="temple_explore_5_a_no_consequence">Après avoir décidé de ne pas l\'ouvrir, une voix inconnue résonne dans ta tête et contre les parrois des murs : \'Après être allé aussi loin, tu ne veux pas ouvrir mon coffre ? Ta punition sera terrible !\'</string>
+    <string name="temple_explore_5_b">Les &font_red;torches&font_end; sont réduites en poussière et tout s\'assombrit…</string>
+    <string name="temple_explore_5_b_2">Soudainement, tu ouvres les yeux et tu te retrouves dehors. Tu réalises que le monstre a bloqué l\'entrée avec des pierres.</string>
+    <string name="temple_already_explored">Impossible de rentrer… L\'entrée est inaccessible, les rochers bloquent le passage.</string>
 
     <string name="inn_title">Auberge</string>
-    <string name="inn_question_rest_in_the" tools:ignore="PluralsCandidate">Se reposer pour &font_gold;%1$d d\'Or&font_end;?</string>
+    <string name="inn_question_rest_in_the" tools:ignore="PluralsCandidate">Se reposer pour &font_gold;%1$d d\'or&font_end; ?</string>
     <string name="inn_rest_inn">Tu t\'es reposé dans l\'auberge.</string>
     <string name="inn_not_enough_gold">Tu n\'as pas assez d\'or pour te reposer dans l\'&font_inn;auberge&font_end;.</string>
     <string name="inn_already_rested">Tu n\'as pas besoin de repos pour le moment.</string>
 
-    <string name="monster_info_stats_at_level_1">(Stats au level &font_cyan;%1$d&font_end;)</string>
-    <string name="monster_info_health">&font_health;Vie&font_end;: &font_health;%1$d&font_end;</string>
-    <string name="monster_info_mana">&font_mana;Mana&font_end;: &font_mana;%1$d&font_end;</string>
-    <string name="monster_info_attack">&font_attack;Attaque&font_end;: &font_attack;%1$d&font_end;</string>
-    <string name="monster_info_defense">&font_defense;Défense&font_end;: &font_defense;%1$d&font_end;</string>
-    <string name="monster_info_intelligence">&font_mana;Intelligence&font_end;: &font_mana;%1$d&font_end;</string>
-    <string name="monster_info_speed">&font_speed;Vitesse&font_end;: &font_speed;%1$d&font_end;</string>
-    <string name="monster_info_actions" tools:ignore="UnusedResources">Actions:</string>
-    <string name="monster_info_action" tools:ignore="UnusedResources"><t>%1$s - &font_attack;Attaque&font_end;: &font_attack;%2$d&font_end;</t></string>
-    <string name="monster_info_challenge_rating">&font_white;Niveau de Dangerosité&font_end;: &font_cyan;%1$d&font_end;</string>
+    <string name="monster_info_stats_at_level_1">(Stats au niveau &font_cyan;%1$d&font_end;)</string>
+    <string name="monster_info_health">&font_health;Vie&font_end; : &font_health;%1$d&font_end;</string>
+    <string name="monster_info_mana">&font_mana;Mana&font_end; : &font_mana;%1$d&font_end;</string>
+    <string name="monster_info_attack">&font_attack;Attaque&font_end; : &font_attack;%1$d&font_end;</string>
+    <string name="monster_info_defense">&font_defense;Défense&font_end; : &font_defense;%1$d&font_end;</string>
+    <string name="monster_info_intelligence">&font_mana;Intelligence&font_end; : &font_mana;%1$d&font_end;</string>
+    <string name="monster_info_speed">&font_speed;Vitesse&font_end; : &font_speed;%1$d&font_end;</string>
+    <string name="monster_info_actions" tools:ignore="UnusedResources">Actions :</string>
+    <string name="monster_info_action" tools:ignore="UnusedResources"><t>%1$s - &font_attack;Attaque&font_end; : &font_attack;%2$d&font_end;</t></string>
+    <string name="monster_info_challenge_rating">&font_white;Niveau de Dangerosité&font_end; : &font_cyan;%1$d&font_end;</string>
 
-    <string name="skill_tree_button_with_sp">Arbre de Compétences (&font_cyan;%1$d&font_end;
+    <string name="skill_tree_button_with_sp">Arbre de compétences (&font_cyan;%1$d&font_end;
         PC)</string>
     <string name="skill_sacrificer">&font_cyan;Sacrifice&font_end;</string>
-    <string name="skill_sacrificer_description">Tu peux sacrifier le corps d\'un monstre aux dieux. Ils te récompenderont en t\'offrant une petite quantité &font_gold;d\'Or&font_end;.</string>
-    <string name="skill_sacrificed_corpse_to_the_gods">%1$s sacrifié… tu reçois mystérieusement &font_gold;%2$d &font_end;d\'or…</string>
-    <string name="skill_points_needed_short">Coût: &font_cyan;%1$d&font_end; PC</string>
-    <string name="skill_points_needed">&font_cyan;%1$d &font_end;Point de Compétence requis.</string>
+    <string name="skill_sacrificer_description">Tu peux sacrifier le corps d\'un monstre aux dieux. Ils te récompenderont en t\'offrant une petite quantité &font_gold;d\'or&font_end;.</string>
+    <string name="skill_sacrificed_corpse_to_the_gods">%1$s sacrifié… Tu reçois mystérieusement &font_gold;%2$d &font_end;d\'or…</string>
+    <string name="skill_points_needed_short">Coût : &font_cyan;%1$d&font_end; PC</string>
+    <string name="skill_points_needed">&font_cyan;%1$d &font_end;Points de Compétence requis.</string>
     <string name="skill_mule">&font_cyan;Mule&font_end;</string>
     <string name="skill_mule_description">Augmente le nombre d\'objets que tu peux porter par &bold;&font_cyan;5&font_end;&bold_end;</string>
     <string name="skill_vampire">&font_cyan;Vampire&font_end;</string>
     <string name="skill_vampire_description">Permet de boire le sang des monstres afin de récupérer des points de &font_health;Vie&font_end;.</string>
-    <string name="skill_drink_thing">Tu as bu le sang de %1$s et à récupéré &font_health;%2$d &font_end;de vie!</string>
+    <string name="skill_drink_thing">Tu as bu le sang de %1$s et as récupéré &font_health;%2$d &font_end;de vie !</string>
     <string name="skill_survivor">&font_cyan;Survivant&font_end;</string>
     <string name="skill_survivor_description">Réduit les dégats reçu lorsque tu as le ventre plein.</string>
     <string name="skill_swimmer">&font_cyan;Nageut&font_end;</string>
@@ -2217,8 +2217,8 @@
     <string name="corpse_turns_to_dust">%1$s est reduit en poussière…</string>
 
     <string name="main_story_new_game_first_output">Tu te réveilles à la &font_sand;Plage &font_end;vers &font_cyan;%1$s&font_end;.</string>
-    <string name="main_story_1_dialog_title">Ouvre tes yeux</string>
-    <string name="main_story_1_dialog_message">Après ce qui a semblé être une éternité, tu ouvres tes yeux et essayes de te lever.&br;&br;Tu regardes autour de toi et réalises que tu es sur une &font_sand;Plage&font_end;. Il y a une &font_wood;Épave&font_end;.&br;&br;Après avoir assimilé les lieux, tu remarques un &font_cyan;Jeune Garçon &font_end;qui t\'observe.</string>
+    <string name="main_story_1_dialog_title">Ouvre les yeux</string>
+    <string name="main_story_1_dialog_message">Après ce qui a semblé être une éternité, tu ouvres les yeux et essayes de te lever.&br;&br;Tu regardes autour de toi et réalises que tu es sur une &font_sand;Plage&font_end;. Il y a une &font_wood;Épave&font_end;.&br;&br;Après avoir assimilé les lieux, tu remarques un &font_cyan;Jeune Garçon &font_end;qui t\'observe.</string>
     <string name="main_story_shipwreck_info">Cette &font_wood;Épave &font_end;est en trop mauvaise état et semble être impossible à réparer.&br;&br;Après examination tout ça te semble plutôt familier…</string>
     <string name="main_story_young_boy_message_1">B… Bonjour? Tu vas bien? Je jouais dans le coin et je t\'ai trouvé inconscient…</string>
     <string name="main_story_young_boy_message_2">J\'était inquiet sur ta santé. Heureux de te savoir toujours parmis nous! Est ce que c\'est ton &font_wood;Bateau&font_end;?</string>
