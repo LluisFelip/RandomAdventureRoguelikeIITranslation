@@ -1803,7 +1803,7 @@
 
     <string name="blacksmith_message">Bonjour! As-tu besoin d\'améliorer n\'importe quel "&font_green;\*&font_end;" équipement ?&br;&br;Ou en détruire d\'autre ?&br;&br;Je peux aussi te faire fondre tes minerais pour en faire des lingots.&br;&br;Dis moi juste ce que tu veux que je fasse, je suis chaud !&br;&br;Oublie pas de déséquipper l\'équipement que tu veux modifier.</string>
     <string name="blacksmith_no_equipment_message">Excuse moi mais t\'as pas l\'air d\'avoir quoi que ce soit que je peux travailler…</string>
-    <string name="blacksmith_no_equipment_message_scrap">Désolé mais y'a rien a mettre en pièce…</string>
+    <string name="blacksmith_no_equipment_message_scrap">Désolé mais y\'a rien a mettre en pièce…</string>
     <string name="blacksmith_cost" tools:ignore="PluralsCandidate">&font_gold;%1$d d\'Or&font_end;</string>
     <string name="blacksmith_improved_equipment_to_level">%1$s est amélioré !</string>
     <string name="blacksmith_title">&font_iron;Forgeron&font_end;</string>

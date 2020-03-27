@@ -3742,7 +3742,8 @@
     <string name="monster_action_game_update">Game Update</string>
 
 
-    <!-- Update ALL STRINGS -->
+    <!-- FIXME: Update ALL STRINGS -->
+
     <string name="tool_chopping_axe_infinite">&font_infinity;Infinite &font_end;&font_wood;Chopping &font_end;Axe</string>
     <string name="tool_pickaxe_infinite">&font_infinity;Infinite &font_end;&font_silver;Pickaxe&font_end;</string>
     <string name="tool_fishing_rod_infinite">&font_infinity;Infinite &font_end;&font_cyan;Fishing &font_end;Rod</string>
@@ -3800,6 +3801,7 @@
 
     <string name="tile_content_type_monster_trophy">&font_red;Monster &font_end;&font_gold;Trophy&font_end;</string>
     <string name="monster_trophy_name">%1$s\'s &font_gold;Trophy&font_end; [&font_cyan;%2$d&font_end;]</string>
-    <string name="item_info_monster_trohpy_info">It\'s a %1$s\'s &font_gold;Trophy&font_end;, obtained for killing a level &font_cyan;%2$d&font_end; %1$s!</string>
+    <string name="item_info_monster_trohpy_info">It\'s a %1$s\'s &font_gold;Trophy&font_end;, obtained for killing a level &font_cyan;%2$d&font_end;
+        %1$s!</string>
 
 </resources>
