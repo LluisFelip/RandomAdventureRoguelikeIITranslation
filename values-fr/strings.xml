@@ -2268,21 +2268,21 @@
         du &font_red;Tyran&font_end;… Du moins, je pensais que ce n\'était qu\'une légende, mais voici la preuve du contraire sous mes yeux…</string>
     <string name="main_story_cartographer_dialog_6">Je te conseillerai d\'être prudent lors de la récupération des &font_cyan;Morceaux De Carte&font_end;. Les monstres qui les gardent sont généralement très puissants…</string>
     <string name="main_story_6">Trouvez &font_cyan;%1$d &font_end;x &font_cyan;Morceaux De Carte&font_end;. &font_cyan;Le Cartographe &font_end;vous a raconté qu\'en joignant ceux-ci, vous seriez capable de trouver l\'île ou réside &font_red;Le Tyrant&font_end;.</string>
-    <string name="main_story_6_got_a_piece_total_amount" tools:ignore="PluralsCandidate">Got a &font_cyan;Piece of Map&font_end;! You\'ve got %1$d pieces! %2$d pieces left…</string>
-    <string name="main_story_6_got_the_pieces" tools:ignore="PluralsCandidate">Got all the pieces! Join them as &font_cyan;The Cartographer &font_end;told you to…</string>
-    <string name="main_story_7">Follow the &font_cyan;Nautical Chart&font_end; to &font_red;The Tyrant&font_end; &font_cyan;Island &font_end;and kill him!</string>
-    <string name="main_story_7_advice_before_sail_title">Travel to &font_red;The Tyrant&font_end; &font_cyan;Island&font_end;?</string>
-    <string name="main_story_7_advice_before_sail_message">Are you prepared? You may not make it back from there…</string>
-    <string name="monster_thetyrant">The Tyrant</string>
-    <string name="main_story_7_the_tyrant_message_1">S\'il vous plaît, arrêtez! Je me rend !</string>
-    <string name="main_story_7_the_tyrant_message_2">I was just following orders… he… he said he would kill me if I didn\'t follow his orders…</string>
-    <string name="main_story_7_the_tyrant_message_2_button">Who?</string>
-    <string name="main_story_7_the_tyrant_message_3">I can\'t tell… well… you were going to kill me anyway… so…</string>
-    <string name="main_story_7_the_tyrant_message_4">He doesn\'t have a name… he is… &font_red;The Devil&font_end;…</string>
-    <string name="main_story_7_the_tyrant_message_5">He is in &font_red;Hell&font_end;…</string>
-    <string name="main_story_7_the_tyrant_message_6">I will give you this &font_cyan;Nautical Chart &font_end;to &font_red;Hell&font_end;…</string>
-    <string name="main_story_7_the_tyrant_message_7">I recommend you go prepared. The &font_red;Lava &font_end;and &font_red;Hell &font_end;in general will hurt you, and the monsters there are nothing like mine…</string>
-    <string name="main_story_7_the_tyrant_message_8">Good luck, and if they ask, I didn\'t tell you anything!</string>
+    <string name="main_story_6_got_a_piece_total_amount" tools:ignore="PluralsCandidate">&font_cyan;Morceau de Carte&font_end; obtenu ! Tu as obtenu %1$d pièces! %2$d pièces restants…</string>
+    <string name="main_story_6_got_the_pieces" tools:ignore="PluralsCandidate">Tous les morceaux obtenus ! Rassembles-les comme &font_cyan;Le Cartographe &font_end;t\'a dit de faire…</string>
+    <string name="main_story_7">Suis la &font_cyan;Carte Nautique&font_end; jusqu'à &font_cyan;l\'Île &font_end; du &font_red;Tyran&font_end; et tue-le !</string>
+    <string name="main_story_7_advice_before_sail_title">Voyager à &font_cyan;l\'Île &font_end; du &font_red;Tyran&font_end; ?</string>
+    <string name="main_story_7_advice_before_sail_message">Tu es préparé ? Ça se pourrait que tu n\'y reviennes jamais…</string>
+    <string name="monster_thetyrant">Le Tyran</string>
+    <string name="main_story_7_the_tyrant_message_1">S\'il vous plaît, arrêtez! Je me rends !</string>
+    <string name="main_story_7_the_tyrant_message_2">Je ne faisais que suivre des ordres… il… il m\'a dit qu\'il me tuerait si je ne suivais pas ses ordres…</string>
+    <string name="main_story_7_the_tyrant_message_2_button">Qui ça ?</string>
+    <string name="main_story_7_the_tyrant_message_3">Je peux pas le dire… bon… tu allais me tuer de toute façon… donc…</string>
+    <string name="main_story_7_the_tyrant_message_4">Il n\'a pas de nom… c\'est… &font_red;le Diable&font_end;…</string>
+    <string name="main_story_7_the_tyrant_message_5">Il est en &font_red;Enfer&font_end;…</string>
+    <string name="main_story_7_the_tyrant_message_6">Je te donnerai cette &font_cyan;Carte Nautique&font_end; pour atteindre l\'&font_red;Enfer&font_end;…</string>
+    <string name="main_story_7_the_tyrant_message_7">Je te conseille que t\'y ailles préparé. La &font_red;Lave &font_end;et l\'&font_red;Enfer &font_end;en général te fera mal, et les monstres là bas n\'ont rien à voir avec les miens…</string>
+    <string name="main_story_7_the_tyrant_message_8">Bonne chance, et si on te pose la question, je ne t\'ai rien dit !</string>
     <string name="tyrant_disappears">&font_red;The Tyrant&font_end; vanishes…</string>
     <string name="main_story_7_ship_is_back">Your &font_wood;Ship&font_end; is back…</string>
     <string name="main_story_7_the_tyrant_pre_combat_message_1">Eh? What do you think you are doing here?</string>
