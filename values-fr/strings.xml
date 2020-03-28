@@ -2259,15 +2259,15 @@
     <string name="main_story_5_dialog_message">Le &font_red;monstre &font_end;à laché un &font_cyan;Morceau De Carte&font_end;. Tu ne sais pas exactement ce que ça représente. Tu devrais en parler à un &font_cyan;Cartographe&font_end;.</string>
     <string name="main_story_5">Parler avec un &font_cyan;Cartographe &font_end;à propos d\'un &font_cyan;Morceau De Carte &font_end;que tu as trouvé. Ça a peut être un lien avec &font_red;Le Tyrant&font_end;.</string>
     <string name="shop_cartographer">Cartographe</string>
-    <string name="main_story_cartographer_dialog_1">Bonjour! Comment est-ce que je peux vous aider?</string>
-    <string name="main_story_cartographer_dialog_button_show_piece_of_map">Montrer le &font_cyan;Bout de Carte&font_end;</string>
-    <string name="main_story_cartographer_dialog_2">Oh mais… est-ce que c\'est ce que je pense? je ne peux pas y croire!</string>
-    <string name="main_story_cartographer_dialog_3">C\'est l\'un des &font_cyan;Morceau De Carte &font_end;de la légende! C\'est réel!</string>
-    <string name="main_story_cartographer_dialog_4">Désolé pour toute cette agitation… Je ne pensais jamais la voir de ma vie…</string>
-    <string name="main_story_cartographer_dialog_5" tools:ignore="PluralsCandidate">En faites, la légende raconte que si tu rassembles les %1$d morceau, tu seras capable de trouver &font_cyan;l\'Île&font_end;
-        du &font_red;Tyrant&font_end;… Du moins, je pensais que ce n\'était qu\'une légende, mais voici la preuve du contraire sous mes yeux…</string>
-    <string name="main_story_cartographer_dialog_6">Je te conseillerai d\'être prudent lors de la récupération des &font_cyan;Morceau De Carte&font_end;. Les monstres les gardant sont généralement très puissant…</string>
-    <string name="main_story_6">Trouvez &font_cyan;%1$d &font_end;x &font_cyan;Morceau De Carte&font_end;. &font_cyan;Le Cartographe &font_end;vous a raconté qu\'en joignant ceux-ci, vous seriez capable de trouver l\'île ou réside &font_red;Le Tyrant&font_end;.</string>
+    <string name="main_story_cartographer_dialog_1">Bonjour! Comment est-ce que je peux vous aider ?</string>
+    <string name="main_story_cartographer_dialog_button_show_piece_of_map">Montrer le &font_cyan;Morceau de Carte&font_end;</string>
+    <string name="main_story_cartographer_dialog_2">Oh mais… est-ce que c\'est ce que je pense? je ne peux pas y croire !</string>
+    <string name="main_story_cartographer_dialog_3">C\'est l\'un des &font_cyan;Morceaux De Carte &font_end;de la légende! C\'est réel!</string>
+    <string name="main_story_cartographer_dialog_4">Désolé pour toute cette agitation… Je ne pensais jamais le voir de ma vie…</string>
+    <string name="main_story_cartographer_dialog_5" tools:ignore="PluralsCandidate">En fait, la légende raconte que si tu rassembles les %1$d morceaux, tu seras capable de trouver &font_cyan;l\'Île&font_end;
+        du &font_red;Tyran&font_end;… Du moins, je pensais que ce n\'était qu\'une légende, mais voici la preuve du contraire sous mes yeux…</string>
+    <string name="main_story_cartographer_dialog_6">Je te conseillerai d\'être prudent lors de la récupération des &font_cyan;Morceaux De Carte&font_end;. Les monstres qui les gardent sont généralement très puissants…</string>
+    <string name="main_story_6">Trouvez &font_cyan;%1$d &font_end;x &font_cyan;Morceaux De Carte&font_end;. &font_cyan;Le Cartographe &font_end;vous a raconté qu\'en joignant ceux-ci, vous seriez capable de trouver l\'île ou réside &font_red;Le Tyrant&font_end;.</string>
     <string name="main_story_6_got_a_piece_total_amount" tools:ignore="PluralsCandidate">Got a &font_cyan;Piece of Map&font_end;! You\'ve got %1$d pieces! %2$d pieces left…</string>
     <string name="main_story_6_got_the_pieces" tools:ignore="PluralsCandidate">Got all the pieces! Join them as &font_cyan;The Cartographer &font_end;told you to…</string>
     <string name="main_story_7">Follow the &font_cyan;Nautical Chart&font_end; to &font_red;The Tyrant&font_end; &font_cyan;Island &font_end;and kill him!</string>
