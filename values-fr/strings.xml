@@ -2119,7 +2119,7 @@
     <string name="spell_calmmonster_name">&font_pet;Tranquilisant&font_end;</string>
     <string name="spell_calmmonster_desc">Essaye de &font_pet;calmer &font_end;un &font_red;monstre &font_end;pour faciliter sa &font_pet;capture &font_end;. Ça permet aussi de &font_cyan;fuir&font_end;
         plus facilement.</string>
-    <string name="spell_calmmonster_desc_combat_success">Vous &font_pet;anesthésiez &font_end;
+    <string name="spell_calmmonster_desc_combat_success">Tu &font_pet;anesthésies &font_end;
         %1$s !</string>
     <string name="spell_calmmonster_desc_combat_fails">Le &font_pet;tranquilisant &font_end;n\'a pas fonctionné sur %1$s…</string>
     <string name="text_monster_is_already_calmed">%1$s est déjà calmé !</string>
@@ -2315,19 +2315,19 @@
     <string name="main_story_heaven_gate_advice_wont_be_able_to_come_back_to_island">Si tu entres le %1$s tu ne pourras pas revenir à %2$s !&br;&br;Entrer de toute façon ?</string>
 
     <string name="professional_quest_giving_quest_0">Bonjour, héros ! Veux-tu apprendre la base de la profession de %1$s ?</string>
-    <string name="professional_quest_giving_quest_1_dialog">Rapporte-moi un(e) %1$s et je t\'expliquerai le reste ! Tu peux en &font_cyan;fabriquer &font_end;un(e) et tu peux directement en acheter en &font_gold;boutique&font_end;.</string>
-    <string name="professional_quest_giving_quest_1_description">Le %1$s à &font_cyan;%2$d&font_end;, &font_cyan;%3$d &font_end;vous a demandé de ramener un(e) %4$s à lui. Tu peux en &font_cyan;fabriquer &font_end;un(e) et tu peux directement en acheter en &font_gold;boutique&font_end;.</string>
-    <string name="professional_quest_giving_quest_1_check_if_have_tool_dialog">As-tu apporté un(e) %1$s?</string>
-    <string name="professional_quest_giving_quest_1_positive_have">Parfait! Laisse moi vérifier… Okay, ça va bien marcher!</string>
+    <string name="professional_quest_giving_quest_1_dialog">Rapporte-moi une %1$s et je t\'expliquerai le reste ! Tu peux en &font_cyan;fabriquer &font_end;une et tu peux directement en acheter en &font_gold;boutique&font_end;.</string>
+    <string name="professional_quest_giving_quest_1_description">Le %1$s à &font_cyan;%2$d&font_end;, &font_cyan;%3$d &font_end;vous a demandé de ramener une %4$s à lui. Tu peux en &font_cyan;fabriquer &font_end;une et tu peux directement en acheter en &font_gold;boutique&font_end;.</string>
+    <string name="professional_quest_giving_quest_1_check_if_have_tool_dialog">As-tu apporté une %1$s ?</string>
+    <string name="professional_quest_giving_quest_1_positive_have">Parfait ! Laisse moi vérifier… OK, ça va bien marcher !</string>
     <string name="professional_quest_giving_quest_1_positive_dont_have">Excuse moi, mais il me semble que tu n\'en a pas sur toi…</string>
-    <string name="professional_quest_giving_quest_1_negative">Il y a pas de problême, reviens quand tu en auras un(e)</string>
-    <string name="professional_quest_giving_quest_2_dialog">Apprend à être un %1$s en utilisant un(e) %2$s.</string>
-    <string name="professional_quest_giving_quest_3_dialog_miner">Utilise la %1$s pour &font_silver;miner &font_end;depuis un &font_silver;rocher &font_end;pour obtenir de la &font_silver;pierre &font_end;et certains minerais.&br;&br;Rapportes-en moi &font_cyan;%2$d &font_end;%3$s pour compléter ton entraînement.</string>
-    <string name="professional_quest_giving_quest_3_dialog_woodcutter">Utilise la %1$s pour &font_wood;couper &font_end;un &font_wood;arbre &font_end;et obtenir du &font_wood;bois&font_end;.&br;&br;Rapportes-en moi &font_cyan;%2$d &font_end;%3$s pour compléter ton entraînement.</string>
-    <string name="professional_quest_giving_quest_3_dialog_butcher">Utilise la %1$s pour &font_red;découper &font_end;le &font_red;corps d\'un monstre &font_end;et obtenir de la &font_red;chair de monstre&font_end;.&br;&br;Rapportes-en moi&font_cyan;%2$d &font_end;%3$s pour compléter ton entraînement.</string>
-    <string name="professional_quest_giving_quest_3_dialog_bughunter">Use the %1$s to &font_insect;capture &font_end;a &font_insect;Bug&font_end;.&br;&br;Rapportes-en moi &font_cyan;%2$d &font_end;%3$s pour compléter ton entraînement.</string>
-    <string name="professional_quest_giving_quest_3_dialog_fisherman">Use the %1$s to &font_cyan;fish &font_end;in a &font_cyan;Fishing Spot&font_end;.&br;&br;Rapportes-en moi &font_cyan;%2$d &font_end;%3$s pour compléter ton entraînement.</string>
-    <string name="professional_quest_giving_quest_3_dialog_furrier">Use the %1$s to &font_skin;skin &font_end;a &font_red;monster\'s corpse &font_end;and obtain &font_skin;skin&font_end;.&br;&br;Rapporte moi &font_cyan;%2$d &font_end;%3$s pour compléter ton entraînement.</string>
+    <string name="professional_quest_giving_quest_1_negative">Il y a pas de problème, reviens quand tu en auras une.</string>
+    <string name="professional_quest_giving_quest_2_dialog">Apprend à devenir %1$s en utilisant une %2$s.</string>
+    <string name="professional_quest_giving_quest_3_dialog_miner">Utilise-la %1$s pour &font_silver;miner &font_end;depuis un &font_silver;rocher &font_end;pour obtenir de la &font_silver;pierre &font_end;et certains minerais.&br;&br;Rapportes-en moi &font_cyan;%2$d &font_end;%3$s pour compléter ton entraînement.</string>
+    <string name="professional_quest_giving_quest_3_dialog_woodcutter">Utilise-la %1$s pour &font_wood;couper &font_end;un &font_wood;arbre &font_end;et obtenir du &font_wood;bois&font_end;.&br;&br;Rapportes-en moi &font_cyan;%2$d &font_end;%3$s pour compléter ton entraînement.</string>
+    <string name="professional_quest_giving_quest_3_dialog_butcher">Utilise-la %1$s pour &font_red;découper &font_end;le &font_red;corps d\'un monstre &font_end;et obtenir de la &font_red;chair de monstre&font_end;.&br;&br;Rapportes-en moi&font_cyan;%2$d &font_end;%3$s pour compléter ton entraînement.</string>
+    <string name="professional_quest_giving_quest_3_dialog_bughunter">Utilise-la %1$s pour &font_insect;capturer &font_end;un &font_insect;Insecte&font_end;.&br;&br;Rapportes-en moi &font_cyan;%2$d &font_end;%3$s pour compléter ton entraînement.</string>
+    <string name="professional_quest_giving_quest_3_dialog_fisherman">Utilise-la %1$s pour &font_cyan;pêcher &font_end;dans un &font_cyan;Spot de Pêche&font_end;.&br;&br;Rapportes-en moi &font_cyan;%2$d &font_end;%3$s pour compléter ton entraînement.</string>
+    <string name="professional_quest_giving_quest_3_dialog_furrier">Utillise-la %1$s pour &font_skin;dépecer &font_end;un &font_red;corps de monstre &font_end;et obtenir sa &font_skin;peau&font_end;.&br;&br;Rapporte moi &font_cyan;%2$d &font_end;%3$s pour compléter ton entraînement.</string>
     <string name="professional_quest_giving_quest_3_desc_miner">Le %1$s vers &font_cyan;%2$d&font_end;, &font_cyan;%3$d &font_end;t\'a demandé de lui rapporter &font_cyan;%4$d &font_end;%5$s.</string>
     <string name="professional_quest_giving_quest_3_desc_woodcutter">Le %1$s at &font_cyan;%2$d&font_end;, &font_cyan;%3$d &font_end;t\'a demandé de lui rapporter &font_cyan;%4$d &font_end;%5$s.</string>
     <string name="professional_quest_giving_quest_3_desc_butcher">Le %1$s vers &font_cyan;%2$d&font_end;, &font_cyan;%3$d &font_end;t\'a demandé de lui rapporter &font_cyan;%4$d &font_end;%5$s.</string>
