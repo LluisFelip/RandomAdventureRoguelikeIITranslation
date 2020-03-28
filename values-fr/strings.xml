@@ -2099,81 +2099,81 @@
     <string name="spell_electricjolt_desc_combat">Tu frappes %1$s avec des &font_electric;électrochocs&font_end; ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
     <string name="spell_electricwhip_name">&font_electric;Fouet Électrique&font_end;</string>
     <string name="spell_electricwhip_desc">Tranche avec un &font_electric;fouet électrique&font_end;. Peut &font_electric;paralyser&font_end;.</string>
-    <string name="spell_electricwhip_desc_combat">Tu tranches %1$s avec un &font_electric;fouet électrique&font_end;! %2$s reçoit &font_red;%3$d &font_end;de dégats.</string>
+    <string name="spell_electricwhip_desc_combat">Tu tranches %1$s avec un &font_electric;fouet électrique&font_end; ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
     <string name="spell_lightningshout_name">&font_electric;Onde Sonore Électrique&font_end;</string>
     <string name="spell_lightningshout_desc">Produit une &font_electric;onde sonore&font_end; très puissante grâce à ta douce voix. Peut &font_electric;paralyser&font_end;.</string>
-    <string name="spell_lightningshout_desc_combat">Tu produis une &font_electric;onde sonore électrique&font_end;
-        dévastatrice en direction de %1$s! %2$s reçoit &font_red;%3$d &font_end;de dégats.</string>
+    <string name="spell_lightningshout_desc_combat">Tu envoies une &font_electric;onde sonore électrique&font_end;
+        dévastatrice en direction de %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
     <string name="spell_thunder_name">&font_electric;Orage&font_end;</string>
-    <string name="spell_thunder_desc">Invoque un &font_electric;Éclair&font_end;. Peur &font_electric;paralyser&font_end;.</string>
-    <string name="spell_thunder_desc_combat">Tu invoques un &font_electric;éclair &font_end;vers %1$s! %2$s reçoit &font_red;%3$d &font_end;de dégats.</string>
+    <string name="spell_thunder_desc">Invoque un &font_electric;Éclair&font_end;. Peut &font_electric;paralyser&font_end;.</string>
+    <string name="spell_thunder_desc_combat">Tu invoques un &font_electric;éclair &font_end;sur %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
     <string name="spell_electricstorm_name">&font_electric;Orage&font_end;</string>
     <string name="spell_electricstorm_desc">Invoque un &font_electric;orage&font_end;
-        très puissant. &font_electric;Paralyse&font_end; toujours.</string>
-    <string name="spell_electricstorm_desc_combat">Tu invoques un &font_electric;orage &font_end;très puissant sur %1$s! %2$s reçoit &font_red;%3$d &font_end;de dégats.</string>
+        très puissant. &font_electric;Paralyse&font_end; à coup sûr.</string>
+    <string name="spell_electricstorm_desc_combat">Tu invoques un &font_electric;orage &font_end;très puissant sur %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
     <string name="spell_capture_monster_name">&font_pet;Capture&font_end;
         de &font_red;Monstre&font_end;</string>
     <string name="spell_capture_monster_desc">Tentative de &font_pet;capturer &font_end;l\'adversaire afin de le ralier à ta cause, il deviendra un &font_pet;Compagnon&font_end;. Plus le niveau de cette compétence est élevé, plus tu as de chance de le capturer.</string>
-    <string name="spell_capture_monster_combat_success">&font_green;Succès&font_end;! %1$s te rejoindra après que tu l\'ais vaincu.</string>
+    <string name="spell_capture_monster_combat_success">&font_green;Succès&font_end; ! %1$s te rejoindra après que tu l\'aies vaincu.</string>
     <string name="spell_capture_monster_combat_fail">Raté ! Tu n\'as pas pu &font_pet;capturer &font_end;%1$s.</string>
     <string name="spell_calmmonster_name">&font_pet;Tranquilisant&font_end;</string>
     <string name="spell_calmmonster_desc">Essaye de &font_pet;calmer &font_end;un &font_red;monstre &font_end;pour faciliter sa &font_pet;capture &font_end;. Ça permet aussi de &font_cyan;fuir&font_end;
         plus facilement.</string>
-    <string name="spell_calmmonster_desc_combat_success">You &font_pet;tranquilise&font_end;
-        %1$s!</string>
+    <string name="spell_calmmonster_desc_combat_success">Vous &font_pet;anesthésiez &font_end;
+        %1$s !</string>
     <string name="spell_calmmonster_desc_combat_fails">Le &font_pet;tranquilisant &font_end;n\'a pas fonctionné sur %1$s…</string>
-    <string name="text_monster_is_already_calmed">%1$s est déjà calmé!</string>
+    <string name="text_monster_is_already_calmed">%1$s est déjà calmé !</string>
     <string name="text_cant_calm_this_monster">Tu ne peux pas calmer ce monstre…</string>
     <string name="spell_punchofstone_name">&font_wood;Poing en Pierre&font_end;</string>
     <string name="spell_punchofstone_desc">Crée un poing fait de &font_wood;pierre&font_end; et frappe l\'adversaire.</string>
-    <string name="spell_punchofstone_desc_combat">Tu crées un poing fait de &font_wood;pierre &font_end;et frappe %1$s! %2$s reçoit &font_red;%3$d &font_end;de dégats.</string>
+    <string name="spell_punchofstone_desc_combat">Tu crées un poing fait de &font_wood;pierre &font_end;et frappe %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
     <string name="spell_stalactite_name">&font_wood;Stalactite&font_end;</string>
-    <string name="spell_stalactite_desc">Crée un &font_wood;stalactite&font_end; au dessus de l\'ennemie.</string>
-    <string name="spell_stalactite_desc_combat">Tu crées un &font_wood;stalactite&font_end; qui est tombé sur %1$s! %2$s reçoit &font_red;%3$d &font_end;de dégats.</string>
+    <string name="spell_stalactite_desc">Crée une &font_wood;stalactite&font_end; au dessus de l\'ennemi.</string>
+    <string name="spell_stalactite_desc_combat">Tu crées une &font_wood;stalactite&font_end; qui est tombé sur %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
     <string name="spell_stonespikes_name">&font_wood;Pointe de Pierre&font_end;</string>
-    <string name="spell_stonespikes_desc">Soulève un tas d\'immense &font_wood;pointe en pierre &font_end;sous l\'adversaire.</string>
-    <string name="spell_stonespikes_desc_combat">Tu soulèves plusieurs &font_wood;pointe en pierre&font_end;sous %1$s! %2$s reçoit &font_red;%3$d &font_end;de dégats.</string>
+    <string name="spell_stonespikes_desc">Soulève un tas d\'immenses &font_wood;pointes en pierre &font_end;sous l\'adversaire.</string>
+    <string name="spell_stonespikes_desc_combat">Tu soulèves plusieurs &font_wood;pointes en pierre&font_end;sous %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
     <string name="spell_earthquake_name">&font_wood;Tremblement de Terre&font_end;</string>
     <string name="spell_earthquake_desc">Invoque un violent &font_wood;tremblement de terre&font_end;.</string>
-    <string name="spell_earthquake_desc_combat">Tu invoques un violent &font_wood;tremblement de terre &font_end;sous %1$s! %2$s reçoit &font_red;%3$d &font_end;de dégats.</string>
+    <string name="spell_earthquake_desc_combat">Tu invoques un violent &font_wood;tremblement de terre &font_end;sous %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
     <string name="spell_earthcrack_name">&font_wood;Fissure Terrestre&font_end;</string>
     <string name="spell_earthcrack_desc">&font_wood;Fissure le sol &font_end;
-        vers l\'ennemie.</string>
-    <string name="spell_earthcrack_desc_combat">Tu &font_wood;fissure le sol &font_end;vers %1$s! %2$s reçoit &font_red;%3$d &font_end;de dégats.</string>
+        sous l\'ennemi.</string>
+    <string name="spell_earthcrack_desc_combat">Tu &font_wood;fissure le sol &font_end;sous %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
     <string name="spell_healingtouch_name">&font_health;Main Soignante&font_end;</string>
-    <string name="spell_healingtouch_desc">Utilise &font_health;main soignante &font_end;pour regagner &font_health;33&font_end;% de tous tes points de &font_health;vie&font_end;.</string>
+    <string name="spell_healingtouch_desc">Utilise &font_health;main soignante &font_end;pour regagner &font_health;33&font_end; % de tous tes points de &font_health;vie&font_end;.</string>
     <string name="spell_healingtouch_desc_combat">Tu utilises &font_health;main soignante&font_end;
         et regagne &font_health;%1$d&font_end; points de &font_health;vie &font_end;.</string>
     <string name="spell_healinglight_name">&font_health;Lumière Soignante&font_end;</string>
-    <string name="spell_healinglight_desc">Utilise la &font_health;lumière soignante &font_end;pour regagner &font_health;66&font_end;% de tous tes points de &font_health;vie&font_end;.</string>
+    <string name="spell_healinglight_desc">Utilise la &font_health;lumière soignante &font_end;pour regagner &font_health;66&font_end; % de tous tes points de &font_health;vie&font_end;.</string>
     <string name="spell_healinglight_desc_combat">Tu utilises la &font_health;lumière soignante &font_end;et regagne &font_health;%1$d&font_end;
         points de &font_health;vie &font_end;.</string>
     <string name="spell_purelight_name">&font_health;Lumière Pure&font_end;</string>
     <string name="spell_purelight_desc">Invoque une &font_health;lumière&font_end;
-        très &font_health;pure&font_end;
+        d'une grande &font_health;pureté&font_end;
         pour te &font_health;soigner &font_end;complètement.</string>
     <string name="spell_purelight_desc_combat">Tu invoques une &font_health;lumière pure&font_end;
         et regagne &font_health;%1$d&font_end; points de &font_health;vie &font_end;.</string>
 
-    <string name="spell_effect_combat_burnt">%1$s est en train de &font_attack;brûler&font_end;!</string>
-    <string name="spell_effect_combat_frozen">%1$s est &font_tundra;congelé&font_end;!</string>
-    <string name="spell_effect_combat_blocked">%1$s est &font_electric;bloqué&font_end;!</string>
-    <string name="spell_effect_combat_paralysed">%1$s est &font_electric;paralysé&font_end;!</string>
-    <string name="spell_effect_burnt_damage">%1$s est en train de &font_attack;brûler &font_end;et reçoit &font_red;%2$d &font_end;de dégats!</string>
+    <string name="spell_effect_combat_burnt">%1$s est en train de &font_attack;brûler&font_end; !</string>
+    <string name="spell_effect_combat_frozen">%1$s est &font_tundra;congelé&font_end; !</string>
+    <string name="spell_effect_combat_blocked">%1$s est &font_electric;bloqué&font_end; !</string>
+    <string name="spell_effect_combat_paralysed">%1$s est &font_electric;paralysé&font_end; !</string>
+    <string name="spell_effect_burnt_damage">%1$s est en train de &font_attack;brûler &font_end;et reçoit &font_red;%2$d &font_end;de dégâts !</string>
     <string name="spell_effect_burnt_is_gone">%1$s n\'est plus en train de &font_attack;brûler&font_end;.</string>
     <string name="spell_effect_frozen_is_gone">%1$s n\'est plus &font_tundra;congelé&font_end;.</string>
     <string name="spell_effect_paralysed_is_gone">%1$s n\'est plus &font_electric;paralysé&font_end;.</string>
-    <string name="spell_effect_you_unfroze_monster">Tu as &font_tundra;décongelé &font_end;%1$s!</string>
-    <string name="spell_effect_monster_cant_attack_paralysed">%1$s est &font_electric;paralysé &font_end;et ne peut pas attaquer!</string>
-    <string name="spell_effect_monster_cant_attack_frozen">%1$s est &font_tundra;congelé &font_end;et ne peux pas attaquer!</string>
-    <string name="spell_effect_ice_armor_damage">Est endommagé par l\'%1$s &font_ice;armure de glace &font_end;et reçois &font_red;%2$d &font_end;de dégats!</string>
+    <string name="spell_effect_you_unfroze_monster">Tu as &font_tundra;décongelé &font_end;%1$s !</string>
+    <string name="spell_effect_monster_cant_attack_paralysed">%1$s est &font_electric;paralysé &font_end;et ne peut pas attaquer !</string>
+    <string name="spell_effect_monster_cant_attack_frozen">%1$s est &font_tundra;congelé &font_end;et ne peux pas attaquer !</string>
+    <string name="spell_effect_ice_armor_damage">%1$s est endommagé par l\'&font_ice;armure de glace &font_end;et reçois &font_red;%2$d &font_end;de dégâts!</string>
     <string name="spell_effect_burn">&font_red;Brûler&font_end;</string>
     <string name="spell_effect_freeze">&font_icy;Geler&font_end;</string>
     <string name="spell_effect_block">&font_spell_wind;Bloquer&font_end;</string>
     <string name="spell_effect_paralyze">&font_electric;Paralyser&font_end;</string>
     <string name="spell_effect_ice_armor">&font_icy;Armure de Glace&font_end;</string>
 
-    <string name="weapon_spell_effect">&italic;Effet: %1$s (&font_cyan;%2$d&font_end;%%)&italic_end;</string>
+    <string name="weapon_spell_effect">&italic;Effet : %1$s (&font_cyan;%2$d&font_end;%%)&italic_end;</string>
 
     <string name="spell_learnt">%1$s appris !</string>
     <string name="spell_already_known">Le sort %1$s a déjà été appris !</string>
@@ -2182,7 +2182,7 @@
     <string name="magic_type_water">&font_water;Eau&font_end;</string>
     <string name="magic_type_ice">&font_ice;Glace&font_end;</string>
     <string name="magic_type_air">&font_spell_wind;Air&font_end;</string>
-    <string name="magic_type_electric">&font_electric;Electriqud&font_end;</string>
+    <string name="magic_type_electric">&font_electric;Electricité&font_end;</string>
     <string name="magic_type_earth">&font_wood;Terre&font_end;</string>
     <string name="magic_type_life">&font_health;Vie&font_end;</string>
     <string name="magic_type_monster_mastery">&font_pet;Maîtrise des Monstres&font_end;</string>
@@ -2195,13 +2195,13 @@
     <string name="text_sailing_title_to_island_name">Embarquement vers &font_cyan;%1$s&font_end;…</string>
     <string name="moved_direction">Déplacement au %1$s.</string>
     <string name="player_waits">Tu attends…</string>
-    <string name="select_island_discover_new_island">Nouvelle Île decouverte!</string>
+    <string name="select_island_discover_new_island">Nouvelle Île découverte !</string>
     <string name="select_island_title">Sélection de l\'île</string>
     <string name="text_select_island_empty_message">Tu n\'as toujours pas exploré d\'autres îles…</string>
-    <string name="text_arrived_at">Tu débarques à &font_cyan;%1$s&font_end;!</string>
+    <string name="text_arrived_at">Tu débarques à &font_cyan;%1$s&font_end; !</string>
     <string name="tile_unexplored">Inexploré</string>
     <string name="text_cant_swim_in_deep_ocean">Impossible de nager dans &font_blue;l\'Océan Profond&font_end;…</string>
-    <string name="text_level_up_to">Niveau supérieur: &font_cyan;%1$d&font_end;!</string>
+    <string name="text_level_up_to">Niveau supérieur : &font_cyan;%1$d&font_end; !</string>
 
     <string name="world_title">Monde</string>
     <string name="world_current_island">&italic; - Actuel&italic_end;</string>
@@ -2209,7 +2209,7 @@
     <string name="sail_cant">Impossible d\'embarquer</string>
     <string name="sail_rescued_message">Tu dois d\'abord guider les gens que tu as sauvé !</string>
     <string name="sail_pay_sailing_taxes">Tu dois d\'abord payer la taxe à l\'&font_wood;Appontement &font_end;pour pouvoir débarquer !</string>
-    <string name="sail_pier_pay_taxes_to_sail" tools:ignore="PluralsCandidate">Bonjour, désirez-vous payer les taxes pour pouvoir &font_cyan;embarquer &font_end;dans votre &font_wood;navire &font_end;?&br;&br;Ce sera &font_gold;%1$d d\'or&font_end;
+    <string name="sail_pier_pay_taxes_to_sail" tools:ignore="PluralsCandidate">Bonjour, désirez-vous payer les taxes pour pouvoir &font_cyan;embarquer &font_end;dans votre &font_wood;navire &font_end; ?&br;&br;Ce sera &font_gold;%1$d d\'or&font_end;
         s\'il vous plaît.</string>
     <string name="sail_pier_already_payed">Merci de votre coopération, vous pouvez désormais &font_cyan;embarquer &font_end;sur votre navire. Amusez-vous bien !</string>
 
@@ -2219,69 +2219,69 @@
     <string name="main_story_1_dialog_title">Ouvre les yeux</string>
     <string name="main_story_1_dialog_message">Après ce qui a semblé être une éternité, tu ouvres les yeux et essayes de te lever.&br;&br;Tu regardes autour de toi et réalises que tu es sur une &font_sand;Plage&font_end;. Il y a une &font_wood;Épave&font_end;.&br;&br;Après avoir assimilé les lieux, tu remarques un &font_cyan;Jeune Garçon &font_end;qui t\'observe.</string>
     <string name="main_story_shipwreck_info">Cette &font_wood;Épave &font_end;est en trop mauvaise état et semble être impossible à réparer.&br;&br;Après examination tout ça te semble plutôt familier…</string>
-    <string name="main_story_young_boy_message_1">B… Bonjour? Tu vas bien? Je jouais dans le coin et je t\'ai trouvé inconscient…</string>
-    <string name="main_story_young_boy_message_2">J\'était inquiet sur ta santé. Heureux de te savoir toujours parmis nous! Est ce que c\'est ton &font_wood;Bateau&font_end;?</string>
-    <string name="main_story_young_boy_message_3">Oh… eh bien, je suppose que tu as besoin de repos. Mon père tiens une &font_inn;auberge &font_end;vers &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end;. Viens y faire un tour pour parler de tout ça. C\'était un plaisir de te rencontrer!</string>
-    <string name="main_story_young_boy_runs_away">Le &font_cyan;Jeune Garçon &font_end;se volatilisa.</string>
-    <string name="main_story_1_giving_description">Après s\'être réveillé dans une &font_sand;Plage&font_end;, un &font_cyan;Jeune Garçon &font_end;t\'a proposé d\'aller à la taverne vers &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end;. Tu pourras te reposer et parler à son père.</string>
+    <string name="main_story_young_boy_message_1">B… Bonjour ? Tu vas bien ? Je jouais dans le coin et je t\'ai trouvé inconscient…</string>
+    <string name="main_story_young_boy_message_2">J\'était inquiet sur ta santé. Heureux de te savoir toujours parmis nous ! Est ce que c\'est ton &font_wood;Bateau&font_end; ?</string>
+    <string name="main_story_young_boy_message_3">Oh… eh bien, je suppose que tu as besoin de repos. Mon père tiens une &font_inn;auberge &font_end;vers &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end;. Viens y faire un tour pour parler de tout ça. C\'était un plaisir de te rencontrer !</string>
+    <string name="main_story_young_boy_runs_away">Le &font_cyan;Jeune Garçon &font_end;se volatilise.</string>
+    <string name="main_story_1_giving_description">Après s\'être réveillé sur une &font_sand;Plage&font_end;, un &font_cyan;Jeune Garçon &font_end;t\'a proposé d\'aller à la taverne vers &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end;. Tu pourras te reposer et parler à son père.</string>
     <string name="main_story_inn_owner_title">Le &font_inn;Proprio&font_end;</string>
     <string name="main_story_inn_dialog_1">Salut! Oh, tu as croisé mon fils ? Une &font_wood;Épave&font_end; ? Mmm… Tu as l\'air épuisé, je te laisse dormir gratuitement dans mon &font_inn;Auberge&font_end;
         pour cette nuit.</string>
     <string name="main_story_inn_dialog_2">Au passage, les habitants de l\'île sont plutôt méfiants ces temps-ci. Il y a des rumeurs comme quoi un &font_red;monstre &font_end;
         très puissant dans une &font_cave;Caverne &font_end;vers &font_cyan;%1$d&font_end;, &font_cyan;%2$d &font_end;
         viendrait nous tourmenter régulièrement.</string>
-    <string name="main_story_inn_dialog_3">Le &font_wood;Charpentier&font_end; de l\'île qui est plutôt du genre casse cou s\'est rendu dans cette caverne quelque jour auparavent et n\'est toujours pas revenu… S\'il vous plaît, vous avez l\'air compétent, tuez ce &font_red;monstre &font_end;terrifiant et sauvez le charpentier si possible!</string>
-    <string name="main_story_inn_dialog_2_button">Que puis-je faire?</string>
+    <string name="main_story_inn_dialog_3">Le &font_wood;Charpentier&font_end; de l\'île qui est plutôt du genre casse cou s\'est rendu dans cette caverne quelque jour auparavant et n\'est toujours pas revenu… S\'il vous plaît, vous avez l\'air compétent, tuez ce &font_red;monstre &font_end;terrifiant et sauvez le charpentier si possible !</string>
+    <string name="main_story_inn_dialog_2_button">Que puis-je faire ?</string>
     <string name="main_story_1_stand_up_button">Se lever</string>
     <string name="main_story_2">Annéantis le &font_red;monstre &font_end;dans la &font_cave;Cave &font_end;vers &font_cyan;%1$d&font_end;, &font_cyan;%2$d &font_end;et sauves &font_wood;Le Vieux Charpentier&font_end;.</string>
-    <string name="main_story_the_carpenter_1">Merci d\'être venu me sauver! J\'étais déjà en train de faire mon testament!</string>
-    <string name="main_story_the_carpenter_2">J\'ai entendu des rumeurs à propos du &font_red;Tyrant &font_end;
+    <string name="main_story_the_carpenter_1">Merci d\'être venu me sauver ! J\'étais déjà en train de faire mon testament !</string>
+    <string name="main_story_the_carpenter_2">J\'ai entendu des rumeurs à propos du &font_red;Tyran &font_end;
         qui serait passé par ici, j\'était donc parti chercher quelques indices pour savoir ce qu\'il faisait là…</string>
-    <string name="main_story_the_carpenter_3">Tu ne sais pas qui est &font_red;Le Tyrant&font_end;? Oh… pour la faire court: c\'est la raison pour laquelle les monstres sont éparpillé partout sur notre planète.</string>
+    <string name="main_story_the_carpenter_3">Tu ne sais pas qui est &font_red;Le Tyrant&font_end; ? Oh… pour la faire courte : c\'est la raison pour laquelle les monstres sont éparpillés partout sur notre planète.</string>
     <string name="main_story_the_carpenter_4">Personne ne sait ou il se terre, mais la légende raconte qu\'un vrai héros se montrera pour trouver le mal et le terrasser une bonne fois pour toute…</string>
-    <string name="main_story_the_carpenter_5">Ce &font_red;monstre&font_end; que tu viens tout juste de vaincre était la raison de pourquoi on n\'avait plus aucun &font_wood;bateau &font_end;sur cette île. Il les a tous coulé!</string>
+    <string name="main_story_the_carpenter_5">Ce &font_red;monstre&font_end; que tu viens tout juste de vaincre était la raison de pourquoi on n\'avait plus aucun &font_wood;bateau &font_end;sur cette île. Il les a tous coulés !</string>
     <string name="main_story_the_carpenter_5b">Si j\'en avait un, je serais parti moi même trouver des indices sur les quartiers du &font_red;Tyrant &font_end;pour que je puisse lui botter le * ! (si je n\'étais pas aussi vieux…)</string>
-    <string name="main_story_the_carpenter_6">Tu dis avoir trouvé une &font_wood;Épave &font_end;vers &font_cyan;%1$d&font_end;, &font_cyan;%2$d &font_end;? Je pense pouvoir le réparer si tu me ramènes assez de &font_wood;Bois&font_end;!</string>
+    <string name="main_story_the_carpenter_6">Tu dis avoir trouvé une &font_wood;Épave &font_end;vers &font_cyan;%1$d&font_end;, &font_cyan;%2$d &font_end; ? Je pense pouvoir la réparer si tu me ramènes assez de &font_wood;Bois&font_end; !</string>
     <string name="main_story_the_carpenter_7">Tenez, prenez ma &font_wood;Hache&font_end; ! Vous pourrez couper les &font_wood;Arbres &font_end;pour récupérer du &font_wood;Bois&font_end;.</string>
-    <string name="main_story_the_carpenter_8">Bon, j\'attendrai près de &font_wood;l\'Épave &font_end;pendant que tu vas chercher le &font_wood;Bois&font_end;! &font_cyan;5 &font_end;pièces devrait être suffisant. À bientôt!</string>
+    <string name="main_story_the_carpenter_8">Bon, j\'attendrai près de &font_wood;l\'Épave &font_end;pendant que tu vas chercher le &font_wood;Bois&font_end; ! &font_cyan;5 &font_end;pièces devrait être suffisant. À bientôt !</string>
     <string name="main_story_the_carpenter_left">&font_wood;Le Vieux Charpentier &font_end;s\'en va…</string>
     <string name="main_story_the_carpenter_shipwreck_button">Lui parler de &font_wood;l\'Épave&font_end;</string>
-    <string name="main_story_3">Trouvez &font_cyan;5&font_end; x &font_wood;Bois&font_end; et rapportez le au &font_wood;Vieux Charpentier &font_end;vers &font_cyan;%1$d&font_end;, &font_cyan;%2$d &font_end;pour qu\'il puisse réparer &font_wood;l\'Épave&font_end;!.</string>
-    <string name="main_story_the_carpenter_second_dialog_1">Bonjour! Avez-vous trouvé &font_cyan;5 &font_end;pièces de &font_wood;Bois&font_end;?</string>
-    <string name="main_story_the_carpenter_second_dialog_1_not_enough">Oh, vous n\'en avez pas assez… revenez quand vous aurez au moins &font_cyan;5 &font_end;pièces de &font_wood;Bois&font_end;!</string>
-    <string name="main_story_the_carpenter_second_dialog_2">Oh, parfait! Commençons immédiatement!</string>
+    <string name="main_story_3">Trouvez &font_cyan;5&font_end;pièces de &font_wood;Bois&font_end; et rapportez les au &font_wood;Vieux Charpentier &font_end;vers &font_cyan;%1$d&font_end;, &font_cyan;%2$d &font_end;pour qu\'il puisse réparer &font_wood;l\'Épave&font_end; !</string>
+    <string name="main_story_the_carpenter_second_dialog_1">Bonjour ! Avez-vous trouvé &font_cyan;5 &font_end;pièces de &font_wood;Bois&font_end; ?</string>
+    <string name="main_story_the_carpenter_second_dialog_1_not_enough">Oh, vous n\'en avez pas assez… Revenez quand vous aurez au moins &font_cyan;5 &font_end;pièces de &font_wood;Bois&font_end; !</string>
+    <string name="main_story_the_carpenter_second_dialog_2">Oh, parfait ! Commençons immédiatement!</string>
     <string name="main_story_the_carpenter_second_dialog_repairing_ship">&font_wood;Le Vieux Charpentier &font_end;est en train de réparer le &font_wood;Bateau&font_end;</string>
-    <string name="main_story_the_carpenter_third_dialog_1">J\'ai pas perdu la main, vous pouvez maintenant naviguer à travers les îles à la recherche d\'indice pour trouver &font_red;Le Tyrant&font_end;! Bonne chance, et merci pour tout!</string>
+    <string name="main_story_the_carpenter_third_dialog_1">J\'ai pas perdu la main, vous pouvez maintenant naviguer à travers les îles à la recherche d\'indices pour trouver &font_red;Le Tyran&font_end; ! Bonne chance, et merci pour tout !</string>
     <string name="main_story_the_carpenter_end_dialog">Bonjour, héros ! Comment est-ce que la traque du&font_red;
-        Tyrant &font_end;se passe?</string>
+        Tyran &font_end;se passe ?</string>
     <string name="main_story_4">Trouve des &font_cyan;indices&font_end; sur les faits et gestes du&font_red;
-        Tyrant&font_end;.</string>
+        Tyran&font_end;.</string>
     <string name="main_story_5_dialog_message">Le &font_red;monstre &font_end;à laché un &font_cyan;Morceau De Carte&font_end;. Tu ne sais pas exactement ce que ça représente. Tu devrais en parler à un &font_cyan;Cartographe&font_end;.</string>
-    <string name="main_story_5">Parler avec un &font_cyan;Cartographe &font_end;à propos d\'un &font_cyan;Morceau De Carte &font_end;que tu as trouvé. Ça a peut être un lien avec &font_red;Le Tyrant&font_end;.</string>
+    <string name="main_story_5">Parle avec un &font_cyan;Cartographe &font_end;à propos d\'un &font_cyan;Morceau De Carte &font_end;que tu as trouvé. Ça a peut être en lien avec &font_red;Le Tyran&font_end;.</string>
     <string name="shop_cartographer">Cartographe</string>
-    <string name="main_story_cartographer_dialog_1">Bonjour! Comment est-ce que je peux vous aider ?</string>
+    <string name="main_story_cartographer_dialog_1">Bonjour ! Comment puis-je vous aider ?</string>
     <string name="main_story_cartographer_dialog_button_show_piece_of_map">Montrer le &font_cyan;Morceau de Carte&font_end;</string>
-    <string name="main_story_cartographer_dialog_2">Oh mais… est-ce que c\'est ce que je pense? je ne peux pas y croire !</string>
-    <string name="main_story_cartographer_dialog_3">C\'est l\'un des &font_cyan;Morceaux De Carte &font_end;de la légende! C\'est réel!</string>
+    <string name="main_story_cartographer_dialog_2">Oh mais… Est-ce que c\'est ce que je pense ? Je ne peux pas y croire !</string>
+    <string name="main_story_cartographer_dialog_3">C\'est l\'un des &font_cyan;Morceaux De Carte &font_end;de la légende! C\'est réel !</string>
     <string name="main_story_cartographer_dialog_4">Désolé pour toute cette agitation… Je ne pensais jamais le voir de ma vie…</string>
     <string name="main_story_cartographer_dialog_5" tools:ignore="PluralsCandidate">En fait, la légende raconte que si tu rassembles les %1$d morceaux, tu seras capable de trouver &font_cyan;l\'Île&font_end;
         du &font_red;Tyran&font_end;… Du moins, je pensais que ce n\'était qu\'une légende, mais voici la preuve du contraire sous mes yeux…</string>
-    <string name="main_story_cartographer_dialog_6">Je te conseillerai d\'être prudent lors de la récupération des &font_cyan;Morceaux De Carte&font_end;. Les monstres qui les gardent sont généralement très puissants…</string>
-    <string name="main_story_6">Trouvez &font_cyan;%1$d &font_end;x &font_cyan;Morceaux De Carte&font_end;. &font_cyan;Le Cartographe &font_end;vous a raconté qu\'en joignant ceux-ci, vous seriez capable de trouver l\'île ou réside &font_red;Le Tyrant&font_end;.</string>
+    <string name="main_story_cartographer_dialog_6">Je te conseillerai d\'être prudent lors de la récupération des &font_cyan;Morceaux de Carte&font_end;. Les monstres qui les gardent sont généralement très puissants…</string>
+    <string name="main_story_6">Trouvez &font_cyan;%1$d &font_end;x &font_cyan;Morceaux de Carte&font_end;. &font_cyan;Le Cartographe &font_end;vous a raconté qu\'en joignant ceux-ci, vous seriez capable de trouver l\'île où réside &font_red;Le Tyran&font_end;.</string>
     <string name="main_story_6_got_a_piece_total_amount" tools:ignore="PluralsCandidate">&font_cyan;Morceau de Carte&font_end; obtenu ! Tu as obtenu %1$d pièces! %2$d pièces restants…</string>
-    <string name="main_story_6_got_the_pieces" tools:ignore="PluralsCandidate">Tous les morceaux obtenus ! Rassembles-les comme &font_cyan;Le Cartographe &font_end;t\'a dit de faire…</string>
+    <string name="main_story_6_got_the_pieces" tools:ignore="PluralsCandidate">Tu as obtenu tous les morceauxs ! Rassembles-les comme &font_cyan;Le Cartographe &font_end;t\'a dit de faire…</string>
     <string name="main_story_7">Suis la &font_cyan;Carte Nautique&font_end; jusqu'à &font_cyan;l\'Île &font_end; du &font_red;Tyran&font_end; et tue-le !</string>
     <string name="main_story_7_advice_before_sail_title">Voyager à &font_cyan;l\'Île &font_end; du &font_red;Tyran&font_end; ?</string>
-    <string name="main_story_7_advice_before_sail_message">Tu es préparé ? Ça se pourrait que tu n\'y reviennes jamais…</string>
+    <string name="main_story_7_advice_before_sail_message">Tu es préparé ? Il se pourrait que tu n\'y reviennes jamais…</string>
     <string name="monster_thetyrant">Le Tyran</string>
     <string name="main_story_7_the_tyrant_message_1">S\'il vous plaît, arrêtez ! Je me rends !</string>
-    <string name="main_story_7_the_tyrant_message_2">Je ne faisais que suivre des ordres… il… il m\'a dit qu\'il me tuerait si je ne suivais pas ses ordres…</string>
+    <string name="main_story_7_the_tyrant_message_2">Je ne faisais que suivre des ordres… Il… il m\'a dit qu\'il me tuerait si je ne suivais pas ses ordres…</string>
     <string name="main_story_7_the_tyrant_message_2_button">Qui ça ?</string>
-    <string name="main_story_7_the_tyrant_message_3">Je peux pas le dire… bon… tu allais me tuer de toute façon… donc…</string>
-    <string name="main_story_7_the_tyrant_message_4">Il n\'a pas de nom… c\'est… &font_red;le Diable&font_end;…</string>
+    <string name="main_story_7_the_tyrant_message_3">Je peux pas le dire… Bon… tu allais me tuer de toute façon… donc…</string>
+    <string name="main_story_7_the_tyrant_message_4">Il n\'a pas de nom… C\'est… &font_red;le Diable&font_end;…</string>
     <string name="main_story_7_the_tyrant_message_5">Il est en &font_red;Enfer&font_end;…</string>
     <string name="main_story_7_the_tyrant_message_6">Je te donnerai cette &font_cyan;Carte Nautique&font_end; pour atteindre &font_red;l\'Enfer&font_end;…</string>
-    <string name="main_story_7_the_tyrant_message_7">Je te conseille que t\'y ailles préparé. La &font_red;Lave &font_end;et &font_red;l\'Enfer &font_end;en général te fera mal, et les monstres là bas n\'ont rien à voir avec les miens…</string>
+    <string name="main_story_7_the_tyrant_message_7">Je te conseille d\'y aller préparé. La &font_red;Lave &font_end;et &font_red;l\'Enfer &font_end;en général te fera mal, et les monstres là-bas n\'ont rien à voir avec les miens…</string>
     <string name="main_story_7_the_tyrant_message_8">Bonne chance, et si on te pose la question, je ne t\'ai rien dit !</string>
     <string name="tyrant_disappears">&font_red;Le Tyran&font_end; disparaît…</string>
     <string name="main_story_7_ship_is_back">Ton &font_wood;Navire&font_end; est de retour…</string>
@@ -2290,7 +2290,7 @@
     <string name="main_story_7_the_tyrant_pre_combat_message_button">Te tuer/string>
     <string name="main_story_8">Va en &font_hell;Enfer&font_end; et tue le &font_hell;Diable&font_end; !</string>
     <string name="main_story_8_advice_before_sail_title">Voyager jusqu\'à &font_cyan;l\'Île&font_end; de &font_red;l/'Enfer&font_end; ?</string>
-    <string name="main_story_8_advice_before_sail_message">Tu es sûr ? Ça se pourrait que tu n\'y reviennes jamais…</string>
+    <string name="main_story_8_advice_before_sail_message">Tu es sûr ? Il se pourrait que tu n\'y reviennes jamais…</string>
     <string name="monster_devil">Diable</string>
     <string name="main_story_8_the_devil_pre_combat_message_1">Bah ! Je savais que je ne pouvais pas compter sur &font_red;le Tyran&font_end; !</string>
     <string name="main_story_8_the_devil_pre_combat_message_2">J\'espère que ce sale paresseux est mort, et s\'il ne l\'est pas, je le tuerai !</string>
@@ -2301,17 +2301,17 @@
     <string name="monster_corrupted_god">Dieu Corrompu</string>
     <string name="main_story_8_corrupted_god_pre_combat_message_1">Tu ne sais rien…</string>
     <string name="main_story_8_corrupted_god_pre_combat_message_2">Laisse-moi te dire une chose avant que je t\'écrase tel un insecte…</string>
-    <string name="main_story_8_corrupted_god_pre_combat_message_3">Il y a des &font_hell;Enfers &font_end;et des &font_heaven;Paradis&font_end; infinis, comme des dimensions infinis…</string>
+    <string name="main_story_8_corrupted_god_pre_combat_message_3">Il y a un nombre d\' &font_hell;Enfers &font_end;et de &font_heaven;Paradis&font_end; infini, et des dimensions infinies…</string>
     <string name="main_story_8_corrupted_god_pre_combat_message_4">Tout est un jeu d\'échecs &font_corrupted_god;Divin&font_end;… Il n\'y a pas d\'espoir pour des mortels tels que toi.</string>
-    <string name="main_story_8_corrupted_god_pre_combat_message_5">Vous tous, les héros, vous essayez tellement dur de \"sauver le monde\"… c\'est une cause perdue, car il y aura toujours un Dieu avec un pouvoir véritable… TU es une cause perdue…</string>
+    <string name="main_story_8_corrupted_god_pre_combat_message_5">Vous tous, les héros, vous essayez tellement dur de \"sauver le monde\"… C\'est une cause perdue, car il y aura toujours un Dieu avec un pouvoir véritable… TU es une cause perdue…</string>
     <string name="main_story_8_corrupted_god_pre_combat_message_6">Alors… Je pense qu\'il est temps… QUE CELA S\'ARRÊTE !</string>
-    <string name="main_story_9_corrupted_god_message_1">Oh non… Je… Je ne comprends pas… Comment est-ce possible ? Est-ce possible que tu sois… es-tu… ? Non… ce n'/est pas possible…</string>
+    <string name="main_story_9_corrupted_god_message_1">Oh non… Je… Je ne comprends pas… Comment est-ce possible ? Est-ce possible que tu sois… Es-tu… ? Non… ce n'/est pas possible…</string>
     <string name="main_story_9_advice_before_sail_title">Voyager jusqu\'à &font_cyan;l\'Île&font_end; du &font_heaven;Paradis&font_end; ?</string>
-    <string name="main_story_9_advice_before_sail_message">Tu es sûr ? Ça se pourrait que tu n\'y reviennes jamais…</string>
+    <string name="main_story_9_advice_before_sail_message">Tu es sûr ? Il se pourrait que tu n\'y reviennes jamais…</string>
     <string name="main_story_10">Fuis du &font_heaven;Paradis&font_end;</string>
     <string name="main_story_10_dialog_title">Tu t\'endors</string>
     <string name="main_story_10_dialog_message">Tu as perdu conscience aussitôt que le &font_wood;Navire &font_end;a pris la mer…</string>
-    <string name="main_story_sail_advice_wont_be_able_to_come_back_to_island">Si tu t\'embarques, tu ne pourras pas revenir à %1$ !&br;&br;Veux-tu t\'embarquer ?</string>
+    <string name="main_story_sail_advice_wont_be_able_to_come_back_to_island">Si tu embarques, tu ne pourras pas revenir à %1$ !&br;&br;Veux-tu embarquer ?</string>
     <string name="main_story_heaven_gate_advice_wont_be_able_to_come_back_to_island">Si tu entres le %1$s tu ne pourras pas revenir à %2$s !&br;&br;Entrer de toute façon ?</string>
 
     <string name="professional_quest_giving_quest_0">Bonjour, héros ! Veux-tu apprendre la base de la profession de %1$s ?</string>
