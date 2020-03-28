@@ -2225,7 +2225,7 @@
     <string name="main_story_young_boy_runs_away">Le &font_cyan;Jeune Garçon &font_end;se volatilisa.</string>
     <string name="main_story_1_giving_description">Après s\'être réveillé dans une &font_sand;Plage&font_end;, un &font_cyan;Jeune Garçon &font_end;t\'a proposé d\'aller à la taverne vers &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end;. Tu pourras te reposer et parler à son père.</string>
     <string name="main_story_inn_owner_title">Le &font_inn;Proprio&font_end;</string>
-    <string name="main_story_inn_dialog_1">Salut! Oh, tu as croisé mon fils? Une &font_wood;Épave&font_end;? Mmm… Tu as l\'air épuisé, je te laisse dormir gratuitement dans mon &font_inn;Auberge&font_end;
+    <string name="main_story_inn_dialog_1">Salut! Oh, tu as croisé mon fils ? Une &font_wood;Épave&font_end; ? Mmm… Tu as l\'air épuisé, je te laisse dormir gratuitement dans mon &font_inn;Auberge&font_end;
         pour cette nuit.</string>
     <string name="main_story_inn_dialog_2">Au passage, les habitants de l\'île sont plutôt méfiants ces temps-ci. Il y a des rumeurs comme quoi un &font_red;monstre &font_end;
         très puissant dans une &font_cave;Caverne &font_end;vers &font_cyan;%1$d&font_end;, &font_cyan;%2$d &font_end;
@@ -2252,7 +2252,7 @@
     <string name="main_story_the_carpenter_second_dialog_2">Oh, parfait! Commençons immédiatement!</string>
     <string name="main_story_the_carpenter_second_dialog_repairing_ship">&font_wood;Le Vieux Charpentier &font_end;est en train de réparer le &font_wood;Bateau&font_end;</string>
     <string name="main_story_the_carpenter_third_dialog_1">J\'ai pas perdu la main, vous pouvez maintenant naviguer à travers les îles à la recherche d\'indice pour trouver &font_red;Le Tyrant&font_end;! Bonne chance, et merci pour tout!</string>
-    <string name="main_story_the_carpenter_end_dialog">Bonjour, héros! Comment est-ce que la traque du&font_red;
+    <string name="main_story_the_carpenter_end_dialog">Bonjour, héros ! Comment est-ce que la traque du&font_red;
         Tyrant &font_end;se passe?</string>
     <string name="main_story_4">Trouve des &font_cyan;indices&font_end; sur les faits et gestes du&font_red;
         Tyrant&font_end;.</string>
