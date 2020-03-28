@@ -2289,7 +2289,7 @@
     <string name="main_story_7_the_tyrant_pre_combat_message_2">Ahaha ! Voyons voir combien de temps tu survis jusqu\'à JE TE TUE !</string>
     <string name="main_story_7_the_tyrant_pre_combat_message_button">Te tuer/string>
     <string name="main_story_8">Va en &font_hell;Enfer&font_end; et tue le &font_hell;Diable&font_end; !</string>
-    <string name="main_story_8_advice_before_sail_title">Voyager jusqu\'à &font_cyan;l\'Île&font_end; de &font_cyan;l/'Enfer&font_end; ?</string>
+    <string name="main_story_8_advice_before_sail_title">Voyager jusqu\'à &font_cyan;l\'Île&font_end; de &font_red;l/'Enfer&font_end; ?</string>
     <string name="main_story_8_advice_before_sail_message">Tu es sûr ? Ça se pourrait que tu n\'y reviennes jamais…</string>
     <string name="monster_devil">Diable</string>
     <string name="main_story_8_the_devil_pre_combat_message_1">Bah ! Je savais que je ne pouvais pas compter sur &font_red;le Tyran&font_end; !</string>
@@ -2305,17 +2305,17 @@
     <string name="main_story_8_corrupted_god_pre_combat_message_4">Tout est un jeu d\'échecs &font_corrupted_god;Divin&font_end;… Il n\'y a pas d\'espoir pour des mortels tels que toi.</string>
     <string name="main_story_8_corrupted_god_pre_combat_message_5">Vous tous, les héros, vous essayez tellement dur de \"sauver le monde\"… c\'est une cause perdue, car il y aura toujours un Dieu avec un pouvoir véritable… TU es une cause perdue…</string>
     <string name="main_story_8_corrupted_god_pre_combat_message_6">Alors… Je pense qu\'il est temps… QUE CELA S\'ARRÊTE !</string>
-    <string name="main_story_9_corrupted_god_message_1">Oh non… Je… Je ne comprends pas… Comment est-ce possible ? Is it possible you are… are you…? No… it can\'t be…</string>
-    <string name="main_story_9_advice_before_sail_title">Travel to &font_heaven;Heaven&font_end; &font_cyan;Island&font_end;?</string>
-    <string name="main_story_9_advice_before_sail_message">Are you sure? You may not make it back from there…</string>
-    <string name="main_story_10">Flee from &font_heaven;Heaven&font_end;</string>
-    <string name="main_story_10_dialog_title">You fall asleep</string>
-    <string name="main_story_10_dialog_message">You lost your consciousness as soon as the &font_wood;Ship &font_end;starts sailing…</string>
-    <string name="main_story_sail_advice_wont_be_able_to_come_back_to_island">If you sail, you won\'t be able to come back to %1$s!&br;&br;Do you want to sail?</string>
-    <string name="main_story_heaven_gate_advice_wont_be_able_to_come_back_to_island">If you enter the %1$s you won\'t be able to come back to %2$s!&br;&br;Enter anyway?</string>
+    <string name="main_story_9_corrupted_god_message_1">Oh non… Je… Je ne comprends pas… Comment est-ce possible ? Est-ce possible que tu sois… es-tu… ? Non… ce n'/est pas possible…</string>
+    <string name="main_story_9_advice_before_sail_title">Voyager jusqu\'à &font_cyan;l\'Île&font_end; du &font_heaven;Paradis&font_end; ?</string>
+    <string name="main_story_9_advice_before_sail_message">Tu es sûr ? Ça se pourrait que tu n\'y reviennes jamais…</string>
+    <string name="main_story_10">Fuis du &font_heaven;Paradis&font_end;</string>
+    <string name="main_story_10_dialog_title">Tu t\'endors</string>
+    <string name="main_story_10_dialog_message">Tu as perdu conscience aussitôt que le &font_wood;Navire &font_end;a pris la mer…</string>
+    <string name="main_story_sail_advice_wont_be_able_to_come_back_to_island">Si tu t\'embarques, tu ne pourras pas revenir à %1$ !&br;&br;Veux-tu t\'embarquer ?</string>
+    <string name="main_story_heaven_gate_advice_wont_be_able_to_come_back_to_island">Si tu entres le %1$s tu ne pourras pas revenir à %2$s !&br;&br;Entrer de toute façon ?</string>
 
-    <string name="professional_quest_giving_quest_0">Bonjour, héros! Veux-tu apprendre la base de la profession de %1$s ?</string>
-    <string name="professional_quest_giving_quest_1_dialog">Rapporte moi un(e) %1$s et je t\'expliquerais le reste ! Tu peux en &font_cyan;fabriquer &font_end;un(e) et tu peux directement en acheter en &font_gold;boutique&font_end;.</string>
+    <string name="professional_quest_giving_quest_0">Bonjour, héros ! Veux-tu apprendre la base de la profession de %1$s ?</string>
+    <string name="professional_quest_giving_quest_1_dialog">Rapporte-moi un(e) %1$s et je t\'expliquerai le reste ! Tu peux en &font_cyan;fabriquer &font_end;un(e) et tu peux directement en acheter en &font_gold;boutique&font_end;.</string>
     <string name="professional_quest_giving_quest_1_description">Le %1$s à &font_cyan;%2$d&font_end;, &font_cyan;%3$d &font_end;vous a demandé de ramener un(e) %4$s à lui. Tu peux en &font_cyan;fabriquer &font_end;un(e) et tu peux directement en acheter en &font_gold;boutique&font_end;.</string>
     <string name="professional_quest_giving_quest_1_check_if_have_tool_dialog">As-tu apporté un(e) %1$s?</string>
     <string name="professional_quest_giving_quest_1_positive_have">Parfait! Laisse moi vérifier… Okay, ça va bien marcher!</string>
