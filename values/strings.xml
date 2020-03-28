@@ -123,7 +123,7 @@
     <!-- DO NOT TRANSLATE                                                                        -->
     <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
 
-    <string name="version_name" translatable="false">v. &font_pearl;%1$s&font_end;</string>
+    <string name="version_name" translatable="false">v. &font_dungeon_boss;%1$s&font_end;</string>
 
     <string name="marked_char_with_color" translatable="false">[&lt;font color=\"%1$s\"&gt;%2$c&font_end;]</string>
     <string name="mark_white" translatable="false">&font_white;#ffffff&font_end;</string>
