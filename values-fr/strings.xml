@@ -1879,13 +1879,13 @@
     <string name="merchant_master_no_business_with_you">Je n\'ai aucune affaire à faire avec toi…</string>
     <string name="merchant_master_marks_exchange_message">Oh, bonjour ! Je vois que vous avez une &font_cyan;Marque de Marchand&font_end;…&br;&br;Seriez vous intéressé(e) pour contribuer à la &font_gold;Guilde des Marchands&font_end; ? &font_cyan;%1$d&font_end; &font_cyan;Marques &font_end;devrait être assez.&br;&br;En échange, je vous offrirai ceci :&br;%2$s.</string>
     <string name="merchant_master_marks_exchange_success_message">Les voici ! Merci !&br;&br;Comme promis, ce %1$s est pour vous !&br;Oh, et bienvenue dans la &font_gold;Guilde des Marchands&font_end;…</string>
-    <string name="merchant_master_not_enough">Je suis au regret de vous informer que tu n'as pas assez de &font_cyan;Marques du Marchand &font_end;sur toi…&br;&br;Reviens quand tu auras assez de &font_cyan;%1$d&font_end;.</string>
+    <string name="merchant_master_not_enough">Je suis au regret de vous informer que tu n\'as pas assez de &font_cyan;Marques du Marchand &font_end;sur toi…&br;&br;Reviens quand tu auras assez de &font_cyan;%1$d&font_end;.</string>
 
     <string name="temple_explore_the_temple_it_seems_dangerous">Explorer le %1$s ? Ça a l\'air dangereux…</string>
     <string name="temple_explore_1">Tu entres dans le %1$s. Il y a un long couloir et au il y a deux portes au bout : une &font_red;rouge &font_end;et une &font_blue;bleue&font_end;. Laquelle ouvres-tu ?</string>
     <string name="temple_explore_1_red_door">&font_red;Porte rouge&font_end;</string>
     <string name="temple_explore_1_blue_door">&font_blue;Porte bleue&font_end;</string>
-    <string name="temple_explore_2_a">Tu continues ta route dans un autre couloir et finis par apercevoir un levier. Il semble que tu puisses le faire pivoter à &font_cyan;droite &font_end;ou à &font_cyan;gauche&font_end;. Dans quelle direction l'actives-tu ?</string>
+    <string name="temple_explore_2_a">Tu continues ta route dans un autre couloir et finis par apercevoir un levier. Il semble que tu puisses le faire pivoter à &font_cyan;droite &font_end;ou à &font_cyan;gauche&font_end;. Dans quelle direction l\'actives-tu ?</string>
     <string name="temple_explore_2_a_switch_left">&font_cyan;Gauche&font_end;</string>
     <string name="temple_explore_2_a_switch_right">&font_cyan;Droite&font_end;</string>
     <string name="temple_explore_2_b">Tu te retrouves dans une piece remplie de poussière et de babioles. Tu regardes un peu partout et aperçois deux boutons sur le mur au fond. Sur lequel des deux appuies-tu ?</string>
