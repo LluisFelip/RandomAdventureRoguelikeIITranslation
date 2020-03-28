@@ -254,7 +254,6 @@
     <string name="button_west">서쪽</string>
     <string name="button_wait">일시정지</string>
     <string name="button_quests">퀘스트</string>
-    <string name="button_other">기타</string>
     <string name="button_actions">행동</string>
     <string name="button_buy_mode">구매</string>
     <string name="button_sell_mode">판매</string>
