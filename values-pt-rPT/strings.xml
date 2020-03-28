@@ -113,6 +113,7 @@
     <!ENTITY asterisk_ascend_color "&lt;font color=&quot;#2196F3&quot;&gt;">
     <!ENTITY font_pearl "&lt;font color=&quot;#CACFCA&quot;&gt;">
     <!ENTITY font_coral "&lt;font color=&quot;#FF00BF&quot;&gt;">
+    <!ENTITY font_legendary "&lt;font color=&quot;#FF920D&quot;&gt;">
     ]>
 
 <resources xmlns:tools="http://schemas.android.com/tools">

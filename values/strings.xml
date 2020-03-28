@@ -3831,30 +3831,4 @@
     <string name="title_the_ender_male">%1$s, the &font_legendary;Ender&font_end;</string>
     <string name="title_the_ender_female">%1$s, the &font_legendary;Ender&font_end;</string>
     <string name="title_the_ender_no_gender">%1$s, the &font_legendary;Ender&font_end;</string>
-
-    <string name="achievement_name_summoner">Summoner</string>
-    <string name="achievement_desc_summoner">Summon a Monster using a Summoning Stone</string>
-
-    <string name="achievement_name_infinity">Infinity</string>
-    <string name="achievement_desc_infinity">Enter the Infinity for the first time.</string>
-
-    <string name="achievement_name_ascend">Ascend</string>
-    <string name="achievement_desc_ascend">Ascend for the first time.</string>
-
-    <string name="achievement_name_the_end">Last Boss</string>
-    <string name="achievement_name_game_breaker">Game Breaker</string>
-    <string name="achievement_name_desc_game_breaker">Kill all the Infinity special Bosses</string>
-    <string name="achievement_name_desc_the_end">Kill the last Boss!</string>
-
-    <string name="title_the_summoner_male">%1$s, the &font_void;Summoner&font_end;</string>
-    <string name="title_the_summoner_female">%1$s, the &font_void;Summoner&font_end;</string>
-    <string name="title_the_summoner_no_gender">%1$s, the &font_void;Summoner&font_end;</string>
-
-    <string name="title_the_game_breaker_male">%1$s, the &font_pink;Game Breaker&font_end;</string>
-    <string name="title_the_game_breaker_female">%1$s, the &font_pink;Game Breaker&font_end;</string>
-    <string name="title_the_game_breaker_no_gender">%1$s, the &font_pink;Game Breaker&font_end;</string>
-
-    <string name="title_the_ender_male">%1$s, the &font_legendary;Ender&font_end;</string>
-    <string name="title_the_ender_female">%1$s, the &font_legendary;Ender&font_end;</string>
-    <string name="title_the_ender_no_gender">%1$s, the &font_legendary;Ender&font_end;</string>
 </resources>
