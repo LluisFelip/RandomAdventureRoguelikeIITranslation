@@ -168,7 +168,7 @@
     <string name="collection_monsters">Monstres</string>
     <string name="collection_island">Îles</string>
     <string name="collection_icon">Icône</string>
-    <string name="collection_merchants_mark">Marque de marchands</string>
+    <string name="collection_merchants_mark">Marque de Marchand</string>
     <string name="collection_insects">Insectes</string>
     <string name="collection_animals">Animaux</string>
 
@@ -1728,13 +1728,13 @@
     <string name="stash_increase_title">Aggrandir l\'&font_wood;Entrepôt&font_end; ?</string>
     <string name="stash_increase_message" tools:ignore="PluralsCandidate">Veux-tu aggrandir le stockage de ton &font_wood;entrepôt &font_end;de &font_cyan;%1$d &font_end;à &font_cyan;%2$d&font_end; ? Ça te coûtera &font_gold;%3$d d\'or&font_end;.</string>
 
-    <string name="merchants_mark">Marque du Marchand &font_cyan;#%1$d&font_end;</string>
+    <string name="merchants_mark">Marque de Marchand &font_cyan;#%1$d&font_end;</string>
     <string name="merchant">Marchand</string>
     <string name="merchant_name">(&font_gold;%1$s&font_end;)</string>
     <string name="merchant_dialog_text">As-tu rapporté &font_cyan;%1$d&font_end; &lt;font color=\"%2$s\"&gt;%3$s &font_end;pour moi ?</string>
     <string name="merchant_giving_merchant_quest_message">Bonjour! Je recherche &font_cyan;%1$d &font_end;&lt;font color=\"%2$s\"&gt;%3$s&font_end;. Pourrais-tu m\'en apporter ? Je te donnerai quelque chose de très spécial en échange.</string>
     <string name="merchant_not_enough_materials">Tu n\'as pas assez d\'ingrédients…</string>
-    <string name="merchant_you_receive_the_merchants_mark">Tu reçois la Marque du Marchand &font_cyan;#%1$d&font_end; !</string>
+    <string name="merchant_you_receive_the_merchants_mark">Tu reçois la Marque de Marchand &font_cyan;#%1$d&font_end; !</string>
     <string name="merchant_dialog_text_mark_given">Tu m\'as déjà donné ce dont j\'avais besoin, merci !</string>
 
     <string name="witch_dialog_text">Salut… Je te passerai mon &font_witch;Chapeau de Sorcière &font_end;si tu me donnes &font_cyan;%1$d&font_end; &font_mushroom;Champignons&font_end;… et joues pas les malin ou je te transforme en rat !</string>
