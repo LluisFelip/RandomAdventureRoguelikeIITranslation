@@ -2337,11 +2337,11 @@
     <string name="professional_quest_giving_quest_4_check_if_have_materials">As-tu les matériaux nécessaires ?</string>
     <string name="professional_quest_giving_quest_4_negative">Reviens quand tu les auras…</string>
     <string name="professional_quest_giving_quest_4_positive_dont_have">Désolé mais, il me semble que tu n\'as pas les matériaux requis…</string>
-    <string name="professional_quest_giving_quest_4_positive_have">Nice! Tu as les matériaux! Tu sais quoi ? Tu peux les garder.</string>
+    <string name="professional_quest_giving_quest_4_positive_have">Nice ! Tu as les matériaux ! Tu sais quoi ? Tu peux les garder.</string>
     <string name="professional_step_5">C\'était la base de ce métier… &font_gold;Achète &font_end;ou &font_cyan;fabrique &font_end;
-        un &font_cyan;outil &font_end;et utilise le pour extraire des matériaux… Avec les matériaux, tu peux &font_cyan;fabriquer&font_end;
+        un &font_cyan;outil &font_end;et utilise-le pour extraire des matériaux… Avec les matériaux, tu peux &font_cyan;fabriquer&font_end;
         des &font_cyan;armes&font_end;, &font_cyan;armures&font_end;, &font_cyan;potions &font_end;et toujours plus…</string>
-    <string name="professional_step_6">Tenez, je vous offre ce(tte) %1$s! Bonne chance dans vos aventures, héros !</string>
+    <string name="professional_step_6">Tenez, je vous offre ce %1$s ! Bonne chance dans vos aventures, héros !</string>
     <string name="professional_no_quest_message">Maintenant vous êtes prêt à réussir ! Bonne chance, héros !</string>
 
     <string name="merchant_abandon_quest_title">Abandonner la quête du &font_gold;Marchand&font_end;</string>
@@ -2356,25 +2356,25 @@
     <string name="monster_action_attack">attaque</string>
     <string name="monster_action_tentacle">tentacule</string>
     <string name="monster_action_tentacles">tentacules</string>
-    <string name="monster_action_tendril">tendril</string>
+    <string name="monster_action_tendril">vrille</string>
     <string name="monster_action_bite">morsure</string>
     <string name="monster_action_claw">griffe</string>
-    <string name="monster_action_claws">claws</string>
-    <string name="monster_action_club">club</string>
-    <string name="monster_action_heavy_club">heavy club</string>
-    <string name="monster_action_great_club">great club</string>
-    <string name="monster_action_bone_club">bone club</string>
-    <string name="monster_action_talon">talon</string>
-    <string name="monster_action_talons">talons</string>
-    <string name="monster_action_ram">ram</string>
-    <string name="monster_action_rams">rams</string>
-    <string name="monster_action_fist">fist</string>
-    <string name="monster_action_rotting_fist">rotting fist</string>
-    <string name="monster_action_sting">sting</string>
-    <string name="monster_action_stinger">stinger</string>
-    <string name="monster_action_tail_stinger">tail stinger</string>
-    <string name="monster_action_beak">beak</string>
-    <string name="monster_action_beaks">beaks</string>
+    <string name="monster_action_claws">griffes</string>
+    <string name="monster_action_club">bâton</string>
+    <string name="monster_action_heavy_club">bâton lourd</string>
+    <string name="monster_action_great_club">grand bâton</string>
+    <string name="monster_action_bone_club">bâton d\'os</string>
+    <string name="monster_action_talon">serre</string>
+    <string name="monster_action_talons">serres</string>
+    <string name="monster_action_ram">bélier</string>
+    <string name="monster_action_rams">béliers</string>
+    <string name="monster_action_fist">poing</string>
+    <string name="monster_action_rotting_fist">poing pourri</string>
+    <string name="monster_action_sting">piqûre</string>
+    <string name="monster_action_stinger">dard</string>
+    <string name="monster_action_tail_stinger">queue-dard</string>
+    <string name="monster_action_beak">bec</string>
+    <string name="monster_action_beaks">becs</string>
     <string name="monster_action_longbow">long bow</string>
     <string name="monster_action_slayingbow">slaying bow</string>
     <string name="monster_action_shortbow">shortbow</string>
@@ -2460,14 +2460,14 @@
     <string name="achievement_name_killer">Tueur</string>
     <string name="achievement_name_assassin">Assassin</string>
     <string name="achievement_name_terminator">Terminator</string>
-    <string name="achievement_name_questor">Quêteur</string>
+    <string name="achievement_name_questor">Questeur</string>
     <string name="achievement_name_hard_worker">Travailleur</string>
     <string name="achievement_name_employee_of_the_month">Employé du mois</string>
     <string name="achievement_name_full_equip">Équipement plein</string>
     <string name="achievement_name_traveller">Voyageur</string>
     <string name="achievement_name_willy_fog">Le Tour du Monde en 80 Jours</string>
     <string name="achievement_name_explorer">Explorateur</string>
-    <string name="achievement_name_completionist">Completeur</string>
+    <string name="achievement_name_completionist">Complétioniste</string>
     <string name="achievement_name_isnt_it_cute">Comme il est mignon !</string>
     <string name="achievement_name_pet_collector">Collectionneur d/'animaux</string>
     <string name="achievement_name_pet_master">Maître des animaux</string>
