@@ -2485,8 +2485,8 @@
     <string name="achievement_name_haulier">Mineur</string>
     <string name="achievement_name_miner">Maître Mineur</string>
     <string name="achievement_name_its_mine">Cette mine est mienne !</string>
-    <string name="achievement_name_better_fish_to_fry">Ma première prise (non-électrique)</string>
-    <string name="achievement_name_seems_a_bit_fishy_to_me">Naît-on pêcheur ou le devient-thon ?</string>
+    <string name="achievement_name_better_fish_to_fry">Naît-on pêcheur… ?</string>
+    <string name="achievement_name_seems_a_bit_fishy_to_me">…ou le devient-thon ?</string>
     <string name="achievement_name_fisherman">Pêcheur</string>
     <string name="achievement_name_does_it_bug_you">Does it bug you?</string>
     <string name="achievement_name_bug_hunter">Chasseur d\'insectes</string>
