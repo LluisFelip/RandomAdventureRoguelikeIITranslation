@@ -229,7 +229,7 @@
     <string name="button_buy_mode">Acheter</string>
     <string name="button_sell_mode">Vendre</string>
     <string name="button_clear">Effacer données</string>
-    <string name="button_craft">Créer</string>
+    <string name="button_craft">Fabriquer</string>
     <string name="button_drop">Lâcher</string>
     <string name="button_use">Utiliser</string>
     <string name="button_water_seed">Arroser</string>
@@ -320,7 +320,7 @@
     <string name="button_feedback">&font_cyan;Avis&font_end;</string>
     <string name="button_blacksmith_upgrade_equipment">Améliorer &font_green;\*&font_end;Équipement</string>
     <string name="button_blacksmith_scrap_equipment">&font_copper;Scrap &font_end;Équipement</string>
-    <string name="button_blacksmith_craft_bars">Créer des &font_gold;Barres&font_end;</string>
+    <string name="button_blacksmith_craft_bars">Fabriquer des &font_gold;Barres&font_end;</string>
     <string name="button_scrap">Scrap</string>
 
     <string name="inventory_title">Inventaire</string>
@@ -356,7 +356,7 @@
     <string name="status_pets_captured">Compagnons capturés : &font_pet;%1$d&font_end;</string>
     <string name="status_animals_befriended">Animaux liés d\'amitié : &font_pet;%1$d&font_end;</string>
     <string name="status_crafting_recipes">Recettes de fabrication : &font_cyan;%1$d&font_end;</string>
-    <string name="status_crafted_items">Objets créés : &font_cyan;%1$d&font_end;</string>
+    <string name="status_crafted_items">Objets fabriqués : &font_cyan;%1$d&font_end;</string>
     <string name="status_skills_learnt">Compétences apprises : &font_green;%1$d&font_end;</string>
     <string name="status_spells_learnt">Sorts appris : &font_mana;%1$d&font_end;</string>
     <string name="status_main_story_times">Nombre de Mode Histoire terminées : &font_green;%1$d&font_end;</string>
@@ -1034,10 +1034,10 @@
     <string name="quest_text_you_have_no_quests_right_now">Tu n\'as en ce moment aucunes quêtes…</string>
     <string name="quest_completed_quest">%1$s complété</string>
     <string name="quest_item_found">%1$s trouvé !</string>
-    <string name="quest_bring_crafted_food_text_giving">J\'ai tellement faim ! Je voudrais bien %1$s… Pourriez vous en &font_gold;acheter &font_end;ou en &font_cyan;créer &font_end;une et me l\'apporter ?</string>
-    <string name="quest_bring_crafted_food_text_desc">Tu dois &font_gold;acheter &font_end;ou &font_cyan;créer &font_end;un(e) %1$s et la rapporter à %2$s en %3$s,%4$s</string>
+    <string name="quest_bring_crafted_food_text_giving">J\'ai tellement faim ! Je voudrais bien %1$s… Pourriez vous en &font_gold;acheter &font_end;ou en &font_cyan;fabriquer &font_end;une et me l\'apporter ?</string>
+    <string name="quest_bring_crafted_food_text_desc">Tu dois &font_gold;acheter &font_end;ou &font_cyan;fabriquer &font_end;un(e) %1$s et la rapporter à %2$s en %3$s,%4$s</string>
     <string name="quest_bring_crafted_food_text_complete_desc">Merci ! J\'apprécie le geste !</string>
-    <string name="quest_bring_crafted_food_text_negative">Je suis au regret de vous dire que vous n\'avez pas de %1$s… Revenez quand vous en aurait &font_gold;acheté &font_end;ou &font_cyan;créé &font_end;un(e)!</string>
+    <string name="quest_bring_crafted_food_text_negative">Je suis au regret de vous dire que vous n\'avez pas de %1$s… Revenez quand vous en aurait &font_gold;acheté &font_end;ou &font_cyan;fabriqué &font_end;un(e)!</string>
     <string name="quest_bring_crafted_food_text_bring">Vous avez un(e) %1$s? Je vous en prie, donnez la moi!</string>
     <string name="quest_bring_crafted_food_thanks">Merci! J\'apprécie le geste!</string>
     <string name="quest_added_quest">Quête ajoutée (%1$s)</string>
@@ -1305,7 +1305,7 @@
     <string name="equipment_protection">protection de &lt;font color=\"%1$s\"&gt;%2$s &font_end;</string>
 
     <string name="content_description_arrow_to_unfold_complete_status_info">Tape la flèche pour dérouler les infos.</string>
-    <string name="content_description_arrow_to_filter_crafting">Tape la flèche pour filtrer les recettes de craft.</string>
+    <string name="content_description_arrow_to_filter_crafting">Tape la flèche pour filtrer les recettes de fabrication.</string>
     <string name="content_description_coin_image">Image de la monnaie</string>
     <string name="content_description_skill_image">Image des compétences</string>
     <string name="content_description_pet_image">Icône des compagnons</string>
@@ -1319,7 +1319,7 @@
 
     <string name="crafting_title">Fabriquer</string>
     <string name="crafting_title_with_recipe">Fabriquer [%1$s]</string>
-    <string name="craft_text_you_know_no_crafting_recipes">Tu ne connais encore aucune recette de &font_cyan;Fabrication &font_end;.</string>
+    <string name="craft_text_you_know_no_crafting_recipes">Tu ne connais encore aucune recette de &font_cyan;fabrication &font_end;.</string>
     <string name="crafting_recipe_learnt">Tu as appris à fabriquer %1$s !</string>
     <string name="crafting_recipe_already_known">&italic;Vous connaissez déjà la recette de &font_cyan;fabrication&font_end;&italic_end;</string>
     <string name="crafting_recipe_name">[&font_cyan;Fabrication&font_end; Recipe] %1$s</string>
@@ -1658,7 +1658,7 @@
     <string name="tile_content_type_young_boy">Jeune garçon</string>
     <string name="tile_content_type_well">Puit</string>
     <string name="tile_content_type_portal">&font_portal;Portail&font_end;</string>
-    <string name="tile_content_type_crafting_recipe">Recette de &font_cyan;Craft&font_end;</string>
+    <string name="tile_content_type_crafting_recipe">Recette de &font_cyan;fabrication&font_end;</string>
     <string name="tile_content_type_island_soul">&font_cyan;Âme de l\'île&font_end;</string>
     <string name="tile_content_type_food">Nourriture</string>
     <string name="tile_content_type_the_carpenter">Le Vieux Charpentier</string>
@@ -1810,7 +1810,7 @@
     <string name="blacksmith_title">&font_iron;Forgeron&font_end;</string>
     <string name="blacksmith_scrapped_equipment">%1$s est mis en pièces pour du %2$s !</string>
     <string name="blacksmith_failed_scrapping">Destruction de %s a échoué…</string>
-    <string name="blacksmith_craft_cost">Craft: &font_gold;%1$d&font_end; d\'Or</string>
+    <string name="blacksmith_craft_cost">Forger : &font_gold;%1$d&font_end; d\'Or</string>
     <string name="blacksmith_crafted">%s forgé !</string>
     <string name="blacksmith_not_enough_material">Tu n\'as pas les matériaux nécessaire…</string>
     <string name="needs_two_dots">Besoin de :</string>
@@ -2475,7 +2475,7 @@
     <string name="achievement_name_skill_master">Maître de compétences</string>
     <string name="achievement_name_wizard_apprentice">Apprenti sorcier</string>
     <string name="achievement_name_wizard_master">Maître sorcier</string>
-    <string name="achievement_name_crafter">Crafter</string>
+    <string name="achievement_name_crafter">Fabriquer</string>
     <string name="achievement_name_craft_artist">Artisan</string>
     <string name="achievement_name_craft_master">Maître astisan</string>
     <string name="achievement_name_good_things_come_in_trees">Toutes les bonnes choses vont par bois</string>
