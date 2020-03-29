@@ -2451,7 +2451,7 @@
     <string name="monster_action_vortex_energy">vortex energy</string>
 
     <string name="achievement_name_to_die_is_fun">Mourir, c\'est sympa !</string>
-    <string name="achievement_name_the_first_of_many_to_come">La première de nombreuses autres</string>
+    <string name="achievement_name_the_first_of_many_to_come">Le premier de nombreux autres</string>
     <string name="achievement_name_stronger">Plus fort</string>
     <string name="achievement_name_the_strongest">Le plus fort</string>
     <string name="achievement_name_broke">Fauché</string>
@@ -2468,7 +2468,7 @@
     <string name="achievement_name_willy_fog">Le Tour du Monde en 80 Jours</string>
     <string name="achievement_name_explorer">Explorateur</string>
     <string name="achievement_name_completionist">Completeur</string>
-    <string name="achievement_name_isnt_it_cute">Mignon, non ?</string>
+    <string name="achievement_name_isnt_it_cute">Comme il est mignon !</string>
     <string name="achievement_name_pet_collector">Collectionneur d/'animaux</string>
     <string name="achievement_name_pet_master">Maître des animaux</string>
     <string name="achievement_name_skilled">Habile</string>
@@ -2481,10 +2481,10 @@
     <string name="achievement_name_good_things_come_in_trees">Toutes les bonnes choses vont par bois</string>
     <string name="achievement_name_woodcutter">Bûcheron</string>
     <string name="achievement_name_lumberjack">Maître Bûcheron</string>
-    <string name="achievement_name_is_this_mine">C\'est à moi ?</string>
-    <string name="achievement_name_haulier">Transporteur</string>
-    <string name="achievement_name_miner">Mineur</string>
-    <string name="achievement_name_its_mine">C\'est à moi !</string>
+    <string name="achievement_name_is_this_mine">C\'est ma mine ?</string>
+    <string name="achievement_name_haulier">Mineur</string>
+    <string name="achievement_name_miner">Maître Mineur</string>
+    <string name="achievement_name_its_mine">C\'est ma mine !</string>
     <string name="achievement_name_better_fish_to_fry">Don\'t you have better fish to fry?</string>
     <string name="achievement_name_seems_a_bit_fishy_to_me">Seems a bit fishy to me</string>
     <string name="achievement_name_fisherman">Fisherman</string>
