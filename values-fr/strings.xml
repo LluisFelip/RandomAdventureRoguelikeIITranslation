@@ -2481,14 +2481,14 @@
     <string name="achievement_name_good_things_come_in_trees">Toutes les bonnes choses vont par bois</string>
     <string name="achievement_name_woodcutter">Bûcheron</string>
     <string name="achievement_name_lumberjack">Maître Bûcheron</string>
-    <string name="achievement_name_is_this_mine">C\'est ma mine ?</string>
+    <string name="achievement_name_is_this_mine">Cete mine est mienne ?</string>
     <string name="achievement_name_haulier">Mineur</string>
     <string name="achievement_name_miner">Maître Mineur</string>
     <string name="achievement_name_its_mine">Cette mine est mienne !</string>
     <string name="achievement_name_better_fish_to_fry">Naît-on pêcheur… ?</string>
     <string name="achievement_name_seems_a_bit_fishy_to_me">…ou le devient-thon ?</string>
     <string name="achievement_name_fisherman">Pêcheur</string>
-    <string name="achievement_name_does_it_bug_you">Does it bug you?</string>
+    <string name="achievement_name_does_it_bug_you">Colectionneur d\'insectes</string>
     <string name="achievement_name_bug_hunter">Chasseur d\'insectes</string>
     <string name="achievement_name_entomologist">Entomologiste</string>
     <string name="achievement_name_nice_to_meat_you">Bon Appétit</string>
@@ -2509,12 +2509,12 @@
     <string name="achievement_name_curiousity_killed_the_cat">La curiosité est un villain défaut</string>
     <string name="achievement_name_dissimulate">Dissimulé</string>
     <string name="achievement_name_mainstory_no_permadeath">New Chicken Beginnings</string>
-    <string name="achievement_name_mainstory_permadeath">You did it!</string>
-    <string name="achievement_name_encyclokiller">Encyclokiller</string>
-    <string name="achievement_name_capture_tyrant">The Tyrant Master</string>
-    <string name="achievement_name_capture_devil">Devil Master</string>
-    <string name="achievement_name_capture_corrupted_god">Corrupted God Master</string>
-    <string name="achievement_name_gotta_catch_em_all">Gotta Catch \'Em All!</string>
+    <string name="achievement_name_mainstory_permadeath">Tu as réussi !</string>
+    <string name="achievement_name_encyclokiller">Encyclotueur</string>
+    <string name="achievement_name_capture_tyrant">Maître du Tyran</string>
+    <string name="achievement_name_capture_devil">Maître du Diable</string>
+    <string name="achievement_name_capture_corrupted_god">Maître du Dieu Corrompu</string>
+    <string name="achievement_name_gotta_catch_em_all">Attrapez-les tous !</string>
 
     <string name="achievement_desc_to_die_is_fun">Die for the first time</string>
     <string name="achievement_desc_the_first_of_many_to_come">Level up for the first time</string>
