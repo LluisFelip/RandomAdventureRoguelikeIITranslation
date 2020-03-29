@@ -1340,14 +1340,14 @@
     <string name="action_explorer_action_description">&font_cyan;Détecte une auberge&font_end;</string>
     <string name="action_explorer_action_description_positive">Tu détectes une &font_inn;Auberge &font_end;à &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end;.</string>
     <string name="action_explorer_action_description_negative">Il n\'y a aucune &font_inn;Auberge &font_end;sur cette île…</string>
-    <string name="action_contractor">&font_cyan;Détec&font_end;. de &font_cyan;Quêtes&font_end;</string>
-    <string name="action_contractor_desc">Permet de &font_cyan;Détecter&font_end;
+    <string name="action_contractor">&font_cyan;Détecte&font_end;. de &font_cyan;Quêtes&font_end;</string>
+    <string name="action_contractor_desc">Permet de &font_cyan;détecter&font_end;
         le nombre de &font_cyan;quêtes&font_end; non trouvées sur cette île.</string>
-    <string name="action_trader">&font_cyan;Détec&font_end;. &font_gold;Marchands&font_end;</string>
-    <string name="action_trader_desc">Permet de &font_cyan;Détecter&font_end;
-        le nombre de &font_gold;marchands&font_end; non trouvés sur cette île.</string>
-    <string name="action_hunter">&font_cyan;Détec&font_end;. &font_red;Boss&font_end;&font_end;</string>
-    <string name="action_hunter_description">Permet de &font_cyan;Détecter&font_end;
+    <string name="action_trader">&font_cyan;Détecte&font_end;. &font_gold;Marchands&font_end;</string>
+    <string name="action_trader_desc">Permet de &font_cyan;détecter&font_end;
+        le nombre de &font_gold;Marchands&font_end; non trouvés sur cette île.</string>
+    <string name="action_hunter">&font_cyan;Détecte&font_end;. &font_red;Boss&font_end;&font_end;</string>
+    <string name="action_hunter_description">Permet de &font_cyan;détecter&font_end;
         le nombre de &font_red;boss&font_end; présents sur l\'île…</string>
     <string name="action_hunter_action_description">Détection de &font_red;boss&font_end;</string>
     <string name="action_hunter_action_description_positive_singular">Tu détecte &font_cyan;%1$d&font_end; &font_red;boss &font_end;sur l\'île.</string>
@@ -1362,25 +1362,25 @@
     <string name="skill_fisherman">&font_cyan;Pêcheur&font_end;</string>
     <string name="skill_woodcutter">&font_wood;Bûcheron&font_end;</string>
     <string name="skill_miner">&font_silver;Mineur&font_end;</string>
-    <string name="skill_bughunter">&font_insect;Chasseur d\'insecte&font_end;</string>
+    <string name="skill_bughunter">&font_insect;Chasseur d\'insectes&font_end;</string>
     <string name="skill_furrier">&font_skin;Dépeceur&font_end;</string>
     <string name="skill_butcher">&font_blood;Boucher&font_end;</string>
-    <string name="skill_sword_mastery">Maîtrise de l\'&font_skill_attack;Épée&font_end;</string>
-    <string name="skill_dagger_mastery">Maîtrise de la &font_skill_attack;Dague&font_end;</string>
-    <string name="skill_spear_mastery">Maîtrise de la &font_skill_attack;Lance&font_end;</string>
-    <string name="skill_axe_mastery">Maîtrise de la &font_skill_attack;Hâche&font_end; </string>
-    <string name="skill_mace_mastery">Maîtrise de la &font_skill_attack;Mace&font_end; </string>
+    <string name="skill_sword_mastery">Maîtrise de l\'&font_skill_attack;épée&font_end;</string>
+    <string name="skill_dagger_mastery">Maîtrise de la &font_skill_attack;dague&font_end;</string>
+    <string name="skill_spear_mastery">Maîtrise de la &font_skill_attack;lance&font_end;</string>
+    <string name="skill_axe_mastery">Maîtrise de la &font_skill_attack;hache&font_end; </string>
+    <string name="skill_mace_mastery">Maîtrise de la &font_skill_attack;masse&font_end; </string>
     <string name="skill_fisherman_description">Plus ta maîtrise est grande, plus tu as de chance d\'attraper un poisson.</string>
     <string name="skill_woodcutter_description">Plus ta maîtrise est grande, plus tu as de chance de couper correctement un arbre.</string>
     <string name="skill_miner_description">Plus ta maîtrise est grande, plus tu as de chance de miner correctement une roche.</string>
     <string name="skill_bughunter_description">Plus ta maîtrise est grande, plus tu as de chance d\'attraper un insecte.</string>
     <string name="skill_furrier_description">Plus ta maîtrise est grande, plus tu as de chance de dépecer correctement le corps d\'un monstre.</string>
     <string name="skill_butcher_description">Plus ta maîtrise est grande, plus tu as de chance de découper correctement le corps d\'un monstre.</string>
-    <string name="skill_sword_mastery_description">Attaquer avec une &font_skill_attack;Épée &font_end;lors d\'un affrontement permet de débloquer des Compétences de combat à l\'&font_skill_attack;Épée&font_end;.</string>
-    <string name="skill_dagger_mastery_description">Attaquer avec une &font_skill_attack;Dague &font_end;lors d\'un affrontement permet de débloquer des Compétences de combat à la &font_skill_attack;Dague &font_end;.</string>
-    <string name="skill_spear_mastery_description">Attaquer avec une &font_skill_attack;Lance &font_end;lors d\'un affrontement permet de débloquer des Compétences de combat à la &font_skill_attack;Lance &font_end;.</string>
-    <string name="skill_axe_mastery_description">Attaquer avec une &font_skill_attack;Hâche &font_end;lors d\'un affrontement permet de débloquer des Compétences de combat à la &font_skill_attack;Hâche &font_end;.</string>
-    <string name="skill_mace_mastery_description">Attaquer avec une &font_skill_attack;Mace &font_end;lors d\'un affrontement permet de débloquer des Compétences de combat à la &font_skill_attack;Mace &font_end;.</string>
+    <string name="skill_sword_mastery_description">Attaquer avec une &font_skill_attack;épée &font_end;lors d\'un affrontement permet de débloquer des Compétences de combat à l\'&font_skill_attack;Épée&font_end;.</string>
+    <string name="skill_dagger_mastery_description">Attaquer avec une &font_skill_attack;dague &font_end;lors d\'un affrontement permet de débloquer des Compétences de combat à la &font_skill_attack;Dague &font_end;.</string>
+    <string name="skill_spear_mastery_description">Attaquer avec une &font_skill_attack;lance &font_end;lors d\'un affrontement permet de débloquer des Compétences de combat à la &font_skill_attack;Lance &font_end;.</string>
+    <string name="skill_axe_mastery_description">Attaquer avec une &font_skill_attack;hache &font_end;lors d\'un affrontement permet de débloquer des Compétences de combat à la &font_skill_attack;Hâche &font_end;.</string>
+    <string name="skill_mace_mastery_description">Attaquer avec une &font_skill_attack;masse &font_end;lors d\'un affrontement permet de débloquer des Compétences de combat à la &font_skill_attack;Mace &font_end;.</string>
     <string name="skill_level_up">La compétence: %1$s monte au niveau &font_cyan;%2$d&font_end;</string>
     <string name="spell_level_up">Le sort: %1$s monte au niveau &font_cyan;%2$d&font_end;</string>
     <string name="skill_failed">%1$s a raté.</string>
@@ -1388,14 +1388,14 @@
     <string name="skill_number_of_attacks">A attaqué &font_cyan;%1$d&font_end; de fois</string>
     <string name="skill_attacks_first">&bold;Première&bold_end; attaque;</string>
     <string name="skill_attacks_second">&bold;Seconde&bold_end; attaque;</string>
-    <string name="skill_absorbs_health">Absorbe la &font_health;Vie&font_end; de l\'ennemi</string>
-    <string name="skill_absorbs_mana">Absorbe le &font_mana;Mana&font_end; de l\'ennemi</string>
+    <string name="skill_absorbs_health">Absorbe la &font_health;vie&font_end; de l\'ennemi</string>
+    <string name="skill_absorbs_mana">Absorbe le &font_mana;mana&font_end; de l\'ennemi</string>
     <string name="skill_hunger_cost">Faim : &font_hunger;%1$s&font_end;</string>
     <string name="skill_mana_cost">Mana : &font_mana;%1$s&font_end;</string>
 
-    <string name="action_trader_no_merchants_pending">Il n\'y a aucun &font_gold;marchands &font_end;disponible sur l\'île.</string>
-    <string name="action_trader_merchants_pending_amount">Il y a &font_cyan;%d&font_end; &font_gold;marchands &font_end;disponibles sur l\'île.</string>
-    <string name="action_trader_merchants_pending_amount_1">Il y a &font_cyan;1&font_end; &font_gold;marchand &font_end;disponible sur l\'île.</string>
+    <string name="action_trader_no_merchants_pending">Il n\'y a aucun &font_gold;Marchand &font_end;disponible sur l\'île.</string>
+    <string name="action_trader_merchants_pending_amount">Il y a &font_cyan;%d&font_end; &font_gold;Marchands &font_end;disponibles sur l\'île.</string>
+    <string name="action_trader_merchants_pending_amount_1">Il y a &font_cyan;1&font_end; &font_gold;Marchand &font_end;disponible sur l\'île.</string>
     <string name="action_contractor_no_quests">Il n\'y a aucune &font_cyan;quête &font_end;disponible sur l\'île.</string>
     <string name="action_contractor_pending_amount_1">Il y a &font_cyan;1&font_end; &font_cyan;quête &font_end;disponible sur l\'île.</string>
     <string name="action_contractor_pending_amount">Il y a &font_cyan;%d&font_end; &font_cyan;quêtes &font_end;disponibles sur l\'île.</string>
@@ -1557,7 +1557,7 @@
     <string name="pets_title">&font_pet;Compagnons&font_end; (&lt;font color=\"%1$s\"&gt;%2$d&font_end;/&font_cyan;%3$d&font_end;)</string>
     <string name="pets_monster_joined">%1$s vous rejoins!</string>
     <string name="pets_active_pet">Compagnon Actif</string>
-    <string name="pets_set_active">Mettre %1$s en tant que &font_pet;Compagnon Actif&font_end;</string>
+    <string name="pets_set_active">Mettre %1$s en tant que &font_pet;Compagnon actif&font_end;</string>
     <string name="pets_withdraw">Abandonner %1$s.</string>
     <string name="pets_x_following_you">Ton %1$s est ici et te suis</string>
     <string name="pets_normal_attack">Attaquer</string>
@@ -1629,9 +1629,9 @@
     <string name="tile_content_type_slave">Esclave</string>
     <string name="tile_content_type_guard">Garde</string>
     <string name="tile_content_type_pet">&font_pet;Compagnon&font_end;</string>
-    <string name="tile_content_type_nautical_chart_black_island">Carte de Navigation (&font_black_low;Île Noire&font_end;)</string>
-    <string name="tile_content_type_nautical_chart_white_island">Carte de Navigation (&font_white;Île Blanche&font_end;)</string>
-    <string name="tile_content_type_spell_book">Livre de &font_mana;Sorts&font_end;</string>
+    <string name="tile_content_type_nautical_chart_black_island">Carte de navigation (&font_black_low;Île Noire&font_end;)</string>
+    <string name="tile_content_type_nautical_chart_white_island">Carte de navigation (&font_white;Île Blanche&font_end;)</string>
+    <string name="tile_content_type_spell_book">Livre de &font_mana;sorts&font_end;</string>
     <string name="tile_content_type_explorer">Explorateur</string>
     <string name="tile_content_type_meditator">Méditant</string>
     <string name="tile_content_type_thief">Bandit</string>
@@ -1651,7 +1651,7 @@
     <string name="tile_content_type_quest_item">Objet de quête</string>
     <string name="tile_content_type_mine">Mine</string>
     <string name="tile_content_type_waterfall">Chute d\'eau</string>
-    <string name="tile_content_type_wizard_tower">Tour du sorcier</string>
+    <string name="tile_content_type_wizard_tower">Tour du Sorcier</string>
     <string name="tile_content_type_ruins">Ruines</string>
     <string name="tile_content_type_temple">Temple</string>
     <string name="tile_content_type_shipwreck">Épave</string>
@@ -1662,41 +1662,41 @@
     <string name="tile_content_type_island_soul">&font_cyan;Âme de l\'île&font_end;</string>
     <string name="tile_content_type_food">Nourriture</string>
     <string name="tile_content_type_the_carpenter">Le Vieux Charpentier</string>
-    <string name="tile_content_type_piece_of_map">Morceau de Carte</string>
-    <string name="tile_content_type_gate_to_heaven">Porte Vers Le Paradis</string>
+    <string name="tile_content_type_piece_of_map">Morceau de carte</string>
+    <string name="tile_content_type_gate_to_heaven">Porte vers le Paradis</string>
     <string name="tile_content_type_chest">Coffre</string>
     <string name="tile_content_type_professional">Professionnel</string>
     <string name="tile_content_type_pet_collar">&font_cyan;Collier&font_end; pour &font_pet;Compagnon&font_end;</string>
     <string name="tile_content_type_merchant_master">Maître-marchand</string>
-    <string name="tile_content_type_magic_stone">&font_bronze;Pierre&font_end; &font_mana;Magique&font_end;</string>
+    <string name="tile_content_type_magic_stone">&font_bronze;Pierre&font_end; &font_mana;magique&font_end;</string>
     <string name="tile_content_type_bomb">Bombe</string>
-    <string name="tile_content_type_a_letter_for_the_king">Une &font_cyan;Lettre &font_end;pour le &font_gold;Roi&font_end;</string>
+    <string name="tile_content_type_a_letter_for_the_king">Une &font_cyan;lettre &font_end;pour le &font_gold;Roi&font_end;</string>
     <string name="tile_content_type_blacksmith">&font_iron;Forgeron&font_end;</string>
     <string name="tile_content_type_wise">&font_wise;Sage&font_end;</string>
-    <string name="tile_content_type_teleport_stone">&font_bronze;Pierre&font_end; de &font_mana;Téléportation&font_end;</string>
+    <string name="tile_content_type_teleport_stone">&font_bronze;Pierre&font_end; de &font_mana;téléportation&font_end;</string>
     <string name="tile_content_type_wooden_sign">&font_wooden_sign;Panneau&font_end;</string>
     <string name="tile_content_type_iron_bucket">&font_iron;Seau en fer&font_end;</string>
-    <string name="tile_content_type_purifying_seed">&font_plant;Graine&font_end; de &font_purifying;Purification&font_end;</string>
-    <string name="tile_content_type_purifying_tree">&font_wood;Arbre&font_end; de &font_purifying;Purification&font_end;</string>
+    <string name="tile_content_type_purifying_seed">&font_plant;Graine&font_end; de &font_purifying;purification&font_end;</string>
+    <string name="tile_content_type_purifying_tree">&font_wood;Arbre&font_end; de &font_purifying;purification&font_end;</string>
     <string name="tile_content_type_yin_yang_amulet">Amulette du &font_black_low;Ying&font_end; et du &font_white;Yang &font_end;</string>
     <string name="tile_content_type_royal_seal">&font_gold;Sceau royal&font_end;</string>
-    <string name="tile_content_type_iron_bucket_water">&font_iron;Seau &font_end;d\'&font_water;Eau&font_end;</string>
-    <string name="tile_content_type_iron_bucket_lava">&font_iron;Seau &font_end;de &font_attack;Lave&font_end;</string>
-    <string name="tile_content_type_iron_bucket_mana">&font_iron;Seau &font_end;de &font_mana;Mana&font_end;</string>
+    <string name="tile_content_type_iron_bucket_water">&font_iron;Seau &font_end;d\'&font_water;eau&font_end;</string>
+    <string name="tile_content_type_iron_bucket_lava">&font_iron;Seau &font_end;de &font_attack;lave&font_end;</string>
+    <string name="tile_content_type_iron_bucket_mana">&font_iron;Seau &font_end;de &font_mana;mana&font_end;</string>
 
-    <string name="wooden_sign_write">Écrire sur le &font_wooden_sign;Panneau&font_end;</string>
+    <string name="wooden_sign_write">Écrire sur le &font_wooden_sign;panneau&font_end;</string>
     <string name="wooden_sign_text_chopped_the">Tu as coupé le %1$s.</string>
     <string name="wooden_sign_wrote_message">Tu as écris un message sur le %1$s.</string>
 
-    <string name="iron_bucket_pickup_water">Tu as récupéré de l\'&font_water;Eau &font_end;avec le &font_iron;Seau&font_end;.</string>
-    <string name="iron_bucket_pickup_lava">Tu as récupéré de la &font_attack;Lave &font_end;avec le &font_iron;Seau&font_end;.</string>
-    <string name="iron_bucket_pickup_mana">Tu as récupéré du &font_mana;Mana &font_end;avec le &font_iron;Seau&font_end;.</string>
-    <string name="iron_bucket_put_out_firecamp_ash">Tu éteins le &font_attack;Feu de camp &font_end;avec le &font_iron;Seau&font_end;
+    <string name="iron_bucket_pickup_water">Tu as récupéré de l\'&font_water;eau &font_end;avec le &font_iron;seau&font_end;.</string>
+    <string name="iron_bucket_pickup_lava">Tu as récupéré de la &font_attack;lave &font_end;avec le &font_iron;seau&font_end;.</string>
+    <string name="iron_bucket_pickup_mana">Tu as récupéré du &font_mana;mana &font_end;avec le &font_iron;seau&font_end;.</string>
+    <string name="iron_bucket_put_out_firecamp_ash">Tu éteins le &font_attack;feu de camp &font_end;avec le &font_iron;seau&font_end;
         d\'&font_water;Eau&font_end;.</string>
     <string name="iron_bucket_drank_mana">Tu as bu dans le &font_iron;Seau&font_end; de &font_mana;Mana&font_end;
         et tu as régénéré tout ton &font_mana;Mana&font_end;.</string>
 
-    <string name="bank_welcome_message" tools:ignore="PluralsCandidate">Bienvenue à la %1$s !&br;&br;Nous gardons votre &font_gold;Or &font_end;en sûreté ici.&br;&br;Vous avez actuellement &font_gold;%2$d d\'or &font_end;dans la %3$s.&br;</string>
+    <string name="bank_welcome_message" tools:ignore="PluralsCandidate">Bienvenue à la %1$s !&br;&br;Nous gardons votre &font_gold;or &font_end;en sûreté ici.&br;&br;Vous avez actuellement &font_gold;%2$d d\'or &font_end;dans la %3$s.&br;</string>
     <string name="bank_deposit_message" tools:ignore="PluralsCandidate">Combien voulez-vous &font_gold;déposer&font_end; ?&br;&br;Vous avez actuellement &font_gold;%1$d d\'or&font_end;.</string>
     <string name="bank_withdraw_message" tools:ignore="PluralsCandidate">Combien voulez-vous &font_gold;retirer&font_end; ?&br;&br;Vous avez actuellement &font_gold;%1$d d\'or &font_end;dans la %2$s.</string>
     <string name="bank_deposit">(Déposer)</string>
@@ -1745,7 +1745,7 @@
 
     <string name="wizard_tower_dialog_message_1">Tu entres dans la %1$s et trouves un vieux &font_mana;Sorcier&font_end;…</string>
     <string name="wizard_tower_dialog_message_2">Bienvenue dans notre %1$s… Voudrais-tu devenir un &font_mana;Sorcier &font_end;comme moi ?</string>
-    <string name="wizard_tower_dialog_message_2_already_given">Bienvenue dans notre %1$s… Ah… c\'est toi… Je t\'ai déjà donné mon livre de &font_mana;Sorts &font_end;… tu dois apprendre par toi même désormais…</string>
+    <string name="wizard_tower_dialog_message_2_already_given">Bienvenue dans notre %1$s… Ah… c\'est toi… Je t\'ai déjà donné mon livre de &font_mana;sorts &font_end;… tu dois apprendre par toi même désormais…</string>
     <string name="wizard_tower_dialog_message_3_no">Eh bien partez et ne me faites pas perdre mon temps !</string>
     <string name="wizard_tower_dialog_message_3_yes">Hahaha ! Et tu penses avoir ce qu\'il faut pour en devenir un ?</string>
     <string name="wizard_tower_dialog_message_4_no">Alors, qu\'est ce que vous faites là ? Vous gaspillez mon temps !</string>
@@ -1753,7 +1753,7 @@
     <string name="wizard_tower_dialog_message_5_no">Hors de ma vue, vous me faites perdre mon temps !</string>
     <string name="wizard_tower_dialog_message_5_yes">Feras-tu tout ce qui est nécessaire pour devenir un &font_mana;Sorcier &font_end;?</string>
     <string name="wizard_tower_dialog_message_6_no">Tu me fatigues, j\'ai eu une longue journée…</string>
-    <string name="wizard_tower_dialog_message_6_yes">D\'accord, mais, dit moi, serais-tu capable de comprendre le livre de &font_mana;Sorts &font_end;que je t\'offre ?</string>
+    <string name="wizard_tower_dialog_message_6_yes">D\'accord, mais, dit moi, serais-tu capable de comprendre le livre de &font_mana;sorts &font_end;que je t\'offre ?</string>
     <string name="wizard_tower_dialog_message_7_no">Je vais donc le garder pour moi.</string>
     <string name="wizard_tower_dialog_message_7_yes">Le voici. N\'oublies pas, pour être capable d\'apprendre ce sort, tu dois maîtriser le sort inférieur à celui ci…</string>
     <string name="wizard_name">&font_mana;Vieux Sorcier&font_end;</string>
@@ -1770,11 +1770,11 @@
     <string name="meditated_with_meditator">Tu as médité avec le %1$s et as restoré tout ton &font_mana;mana&font_end;…</string>
     <string name="meditator_is_mysteriously_gone">Le %1$s a mystérieusement disparu…</string>
 
-    <string name="mine_copper">&font_stone;Mine&font_end; de &font_copper;Cuivre&font_end;</string>
-    <string name="mine_tin">&font_stone;Mine&font_end; de &font_tin;Tin&font_end; </string>
-    <string name="mine_iron">&font_stone;Mine&font_end; de &font_iron;Fer&font_end;</string>
-    <string name="mine_silver">&font_stone;Mine&font_end; d\'&font_silver;Argent&font_end;</string>
-    <string name="mine_gold">&font_stone;Mine&font_end; d\'&font_gold;Or&font_end;</string>
+    <string name="mine_copper">&font_stone;Mine&font_end; de &font_copper;cuivre&font_end;</string>
+    <string name="mine_tin">&font_stone;Mine&font_end; de &font_tin;tin&font_end; </string>
+    <string name="mine_iron">&font_stone;Mine&font_end; de &font_iron;fer&font_end;</string>
+    <string name="mine_silver">&font_stone;Mine&font_end; d\'&font_silver;argent&font_end;</string>
+    <string name="mine_gold">&font_stone;Mine&font_end; d\'&font_gold;or&font_end;</string>
     <string name="mine_undiscovered">\? &font_stone;Mine&font_end;</string>
     <string name="mine_discovered_type">Types de mines découverts : %1$s</string>
     <string name="mine_found_special_ore">Tu as trouvé un(e) %1$s !</string>
@@ -1805,7 +1805,7 @@
     <string name="blacksmith_message">Bonjour! As-tu besoin d\'améliorer n\'importe quel "&font_green;\*&font_end;" équipement ?&br;&br;Ou en détruire d\'autre ?&br;&br;Je peux aussi te faire fondre tes minerais pour en faire des lingots.&br;&br;Dis moi juste ce que tu veux que je fasse, je suis chaud !&br;&br;Oublie pas de déséquipper l\'équipement que tu veux modifier.</string>
     <string name="blacksmith_no_equipment_message">Excuse moi mais t\'as pas l\'air d\'avoir quoi que ce soit que je peux travailler…</string>
     <string name="blacksmith_no_equipment_message_scrap">Désolé mais y\'a rien a mettre en pièce…</string>
-    <string name="blacksmith_cost" tools:ignore="PluralsCandidate">&font_gold;%1$d d\'Or&font_end;</string>
+    <string name="blacksmith_cost" tools:ignore="PluralsCandidate">&font_gold;%1$d d\'or&font_end;</string>
     <string name="blacksmith_improved_equipment_to_level">%1$s est amélioré !</string>
     <string name="blacksmith_title">&font_iron;Forgeron&font_end;</string>
     <string name="blacksmith_scrapped_equipment">%1$s est mis en pièces pour du %2$s !</string>
@@ -1956,7 +1956,7 @@
     <string name="skill_mule">&font_cyan;Mule&font_end;</string>
     <string name="skill_mule_description">Augmente le nombre d\'objets que tu peux porter par &bold;&font_cyan;5&font_end;&bold_end;</string>
     <string name="skill_vampire">&font_cyan;Vampire&font_end;</string>
-    <string name="skill_vampire_description">Permet de boire le sang des monstres afin de récupérer des points de &font_health;Vie&font_end;.</string>
+    <string name="skill_vampire_description">Permet de boire le sang des monstres afin de récupérer des points de &font_health;vie&font_end;.</string>
     <string name="skill_drink_thing">Tu as bu le sang de %1$s et as récupéré &font_health;%2$d &font_end;de vie !</string>
     <string name="skill_survivor">&font_cyan;Survivant&font_end;</string>
     <string name="skill_survivor_description">Réduit les dégâts reçus lorsque tu as le ventre plein.</string>
@@ -2000,14 +2000,14 @@
     <string name="skill_cannibal_description">Permet de se nourrir directement depuis la dépouille pour récupérer &font_cyan;10 &font_end;de faim.</string>
     <string name="skill_cannibal_ate_humanoid_corpse">Tu as mangé %1$s et restoré &font_cyan;%2$d &font_end;de faim.</string>
     <string name="skill_meditator">&font_cyan;Méditation&font_end;</string>
-    <string name="skill_meditator_description">Permet de &font_gold;Méditer &font_end;pour récupérer du &font_mana;Mana&font_end;.</string>
+    <string name="skill_meditator_description">Permet de &font_gold;méditer &font_end;pour récupérer du &font_mana;mana&font_end;.</string>
     <string name="skill_meditator_action_name">&font_mana;Méditer&font_end;</string>
     <string name="skill_meditator_action_description">Tu as &font_mana;médité&font_end;
         et récupéré &font_mana;10 &font_end;points de mana.</string>
     <string name="skill_meditator_action_failed_description">Tu as trop faim pour faire ça.</string>
     <string name="skill_mana_eater">&font_cyan;Mangeur de mana&font_end;</string>
     <string name="skill_mana_eater_description">Te permet de te nourrir de &font_mana;mana&font_end;.</string>
-    <string name="skill_mana_eater_action_name">&font_mana;Manger Mana&font_end;</string>
+    <string name="skill_mana_eater_action_name">&font_mana;Manger mana&font_end;</string>
     <string name="skill_mana_eater_action_description">Tu t\'es nourri de &font_mana;mana&font_end;
         et restoré &font_cyan;10 &font_end;de faim.</string>
     <string name="skill_mana_eater_action_failed_description">Tu n\'as pas assez de &font_mana;mana &font_end;pour faire ceci.</string>
@@ -2015,7 +2015,7 @@
     <string name="skill_perceptive_description">Détecte les objets cachés, pour ensuite utiliser &font_cyan;Recherche &font_end;pour les trouver.</string>
     <string name="skill_hunter">&font_cyan;Chasseur&font_end;</string>
     <string name="skill_hunter_description">Détecte le nombre de boss restants sur l\'île.</string>
-    <string name="skill_treasure_hunter">&font_cyan;Chasseur de trésor&font_end;</string>
+    <string name="skill_treasure_hunter">&font_cyan;Chasseur de trésors&font_end;</string>
     <string name="skill_treasure_hunter_description">Détecte le nombre d\'objets cachés restants sur l\'île.</string>
     <string name="skill_explorer">&font_cyan;Explorateur&font_end;</string>
     <string name="skill_explorer_description">Découvre les &font_cyan;coordonnées&font_end;
