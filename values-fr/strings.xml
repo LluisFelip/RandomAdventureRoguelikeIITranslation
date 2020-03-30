@@ -1336,11 +1336,11 @@
 
     <string name="action_search">&font_cyan;Chercher&font_end;</string>
     <string name="action_searching">Recherche</string>
-    <string name="action_explorer">&font_cyan;Détection d\'auberge&font_end;</string>
+    <string name="action_explorer">&font_cyan;Détection d\'auberges&font_end;</string>
     <string name="action_explorer_action_description">&font_cyan;Détecte une auberge&font_end;</string>
     <string name="action_explorer_action_description_positive">Tu détectes une &font_inn;Auberge &font_end;à &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end;.</string>
     <string name="action_explorer_action_description_negative">Il n\'y a aucune &font_inn;Auberge &font_end;sur cette île…</string>
-    <string name="action_contractor">&font_cyan;Détecter&font_end; des &font_cyan;Quêtes&font_end;</string>
+    <string name="action_contractor">&font_cyan;Détection&font_end; de &font_cyan;Quêtes&font_end;</string>
     <string name="action_contractor_desc">Permet de &font_cyan;détecter&font_end;
         le nombre de &font_cyan;quêtes&font_end; non trouvées sur cette île.</string>
     <string name="action_trader">&font_cyan;Détecte&font_end;. &font_gold;Marchands&font_end;</string>
