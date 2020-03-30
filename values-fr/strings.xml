@@ -556,7 +556,7 @@
     <string name="materialsource_rock">Roche</string>
     <string name="materialsource_tree">Arbre</string>
     <string name="materialsource_palm_tree">Palmier</string>
-    <string name="materialsource_fish">Spot de pêche</string>
+    <string name="materialsource_fish">Zone de pêche</string>
     <string name="materialsource_insect">Insecte</string>
 
     <string name="tools_butchered_monster_corpse">%1$s découpé !</string>
@@ -2326,7 +2326,7 @@
     <string name="professional_quest_giving_quest_3_dialog_woodcutter">Utilise-la %1$s pour &font_wood;couper &font_end;un &font_wood;arbre &font_end;et obtenir du &font_wood;bois&font_end;.&br;&br;Rapportes-en moi &font_cyan;%2$d &font_end;%3$s pour compléter ton entraînement.</string>
     <string name="professional_quest_giving_quest_3_dialog_butcher">Utilise-la %1$s pour &font_red;découper &font_end;le &font_red;corps d\'un monstre &font_end;et obtenir de la &font_red;chair de monstre&font_end;.&br;&br;Rapportes-en moi&font_cyan;%2$d &font_end;%3$s pour compléter ton entraînement.</string>
     <string name="professional_quest_giving_quest_3_dialog_bughunter">Utilise-la %1$s pour &font_insect;capturer &font_end;un &font_insect;Insecte&font_end;.&br;&br;Rapportes-en moi &font_cyan;%2$d &font_end;%3$s pour compléter ton entraînement.</string>
-    <string name="professional_quest_giving_quest_3_dialog_fisherman">Utilise-la %1$s pour &font_cyan;pêcher &font_end;dans un &font_cyan;Spot de Pêche&font_end;.&br;&br;Rapportes-en moi &font_cyan;%2$d &font_end;%3$s pour compléter ton entraînement.</string>
+    <string name="professional_quest_giving_quest_3_dialog_fisherman">Utilise-la %1$s pour &font_cyan;pêcher &font_end;dans une &font_cyan;Zone de Pêche&font_end;.&br;&br;Rapportes-en moi &font_cyan;%2$d &font_end;%3$s pour compléter ton entraînement.</string>
     <string name="professional_quest_giving_quest_3_dialog_furrier">Utillise-la %1$s pour &font_skin;dépecer &font_end;un &font_red;corps de monstre &font_end;et obtenir sa &font_skin;peau&font_end;.&br;&br;Rapporte moi &font_cyan;%2$d &font_end;%3$s pour compléter ton entraînement.</string>
     <string name="professional_quest_giving_quest_3_desc_miner">Le %1$s vers &font_cyan;%2$d&font_end;, &font_cyan;%3$d &font_end;t\'a demandé de lui rapporter &font_cyan;%4$d &font_end;%5$s.</string>
     <string name="professional_quest_giving_quest_3_desc_woodcutter">Le %1$s at &font_cyan;%2$d&font_end;, &font_cyan;%3$d &font_end;t\'a demandé de lui rapporter &font_cyan;%4$d &font_end;%5$s.</string>
