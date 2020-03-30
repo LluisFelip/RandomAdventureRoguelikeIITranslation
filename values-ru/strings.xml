@@ -886,7 +886,7 @@
     <string name="villager_text_hello_9" tools:ignore="UnusedResources">Эй, герой…</string>
     <string name="villager_text_hello_10" tools:ignore="UnusedResources">Приятно познакомиться!</string>
     <string name="villager_text_hello_11" tools:ignore="UnusedResources">Приятно познакомиться, искатель приключений!</string>
-    <string name="villager_text_hello_12" tools:ignore="UnusedResources">Хорошо что мы встретились, герой!</string>
+    <string name="villager_text_hello_12" tools:ignore="UnusedResources">Хорошо, что мы встретились, герой!</string>
     <string name="villager_text_hello_13" tools:ignore="UnusedResources">Куда держишь путь?</string>
     <string name="villager_text_hello_14" tools:ignore="UnusedResources">Куда идёшь, искатель приключений?</string>
     <string name="villager_text_hello_15" tools:ignore="UnusedResources">Куда идёшь, герой?</string>
@@ -894,12 +894,12 @@
     <string name="villager_text_hello_17" tools:ignore="UnusedResources">Куда держишь путь, искатель приключений?</string>
     <string name="villager_text_hello_18" tools:ignore="UnusedResources">Куда идёшь, герой?</string>
     <string name="villager_text_hello_19" tools:ignore="UnusedResources">Ммм…</string>
-    <string name="villager_text_hello_20" tools:ignore="UnusedResources">Pse…</string>
+    <string name="villager_text_hello_20" tools:ignore="UnusedResources">Псс…</string>
     <string name="villager_text_hello_21" tools:ignore="UnusedResources">Вау!</string>
     <string name="villager_text_hello_22" tools:ignore="UnusedResources">Ох!</string>
-    <string name="villager_text_hello_23" tools:ignore="UnusedResources">Eh!</string>
+    <string name="villager_text_hello_23" tools:ignore="UnusedResources">А!</string>
     <string name="villager_text_hello_24" tools:ignore="UnusedResources">Эй!</string>
-    <string name="villager_text_hello_25" tools:ignore="UnusedResources">Howdy!</string>
+    <string name="villager_text_hello_25" tools:ignore="UnusedResources">Как делишки!</string>
     <string name="villager_text_hello_26" tools:ignore="UnusedResources">Как дела?</string>
     <string name="villager_text_hello_27" tools:ignore="UnusedResources">Как дела, искатель приключений?</string>
     <string name="villager_text_hello_28" tools:ignore="UnusedResources">Как дела, герой?</string>
@@ -909,7 +909,7 @@
     <string name="villager_text_hello_32" tools:ignore="UnusedResources">Хорошо…</string>
     <string name="villager_text_hello_33" tools:ignore="UnusedResources">Итак…</string>
     <string name="villager_text_hello_34" tools:ignore="UnusedResources">Что нового?</string>
-    <string name="villager_text_hello_35" tools:ignore="UnusedResources">G\'day!</string>
+    <string name="villager_text_hello_35" tools:ignore="UnusedResources">Денёчка!</string>
     <string name="villager_text_hello_36" tools:ignore="UnusedResources">Йо!</string>
     <string name="villager_text_hello_37" tools:ignore="UnusedResources">Здравствуй.</string>
     <string name="villager_text_hello_38" tools:ignore="UnusedResources">Привет.</string>
@@ -919,44 +919,44 @@
 
     <string name="villager_i_need_help">
         <![CDATA[
-    I need help with something…\n
-    Can I ask you for a favor?\n
-    I\'d be grateful if you could help me…\n
-    Could you help me with something?\n
-    You look like someone who can help!\n
-    If you aren\'t busy, I\'d need something from you…\n
-    Could you please help?\n
-    Could you please help me?\n
-    My family and I would be grateful if you could help us…\n
-    My family and I need something…\n
-    There\'s something I need…\n
-    Would you be so kind to help me?\n
-    Could you help me out?\n
-    I\'m afraid I must ask you for a favor…\n
-    If it isn\'t much to ask, I need you to do something…\n
-    Could you please help me with something?\n
-    Could you give me a hand?\n
-    We need help with something…\n
-    We need to ask you for a favor…\n
-    I know we haven\'t met before, but I must ask you for a favor…\n
-    I\'ve had this problem for a long time and I could use your help with it…\n
-    We aren\'t used to having strangers around here… Can I ask you for a favor?\n
-    We aren\'t used to having strangers around here… Can you do me a favor?\n
-    You are not from around here, are you? Can you do something for me?\n
-    You are not from around here, are you? May I ask you for a favor?\n
-    Where do you come from? Is it too much if I ask you for this…\n
-    Ah, if it isn\'t much trouble, could you help me with something?\n
-    I am in trouble and would really appreciate some help. Would you be willing to help?\n
-    Before you leave, could you help with something? It\'s a matter of vital importance…\n
-    Before you leave, could you help me?\n
-    Before you leave, would you help me?\n
-    Before you go, could you help me?\n
-    Before you go, would you help me?\n
-    Before you go, please can you do me a favor?\n
-    Can you help with something?\n
-    Can you help me out with something, please?\n
-    Can you help me with something, please?\n
-    I heard you are a good hero. Would you help me please?
+    Мне нужна помощь кое в чём…\n
+    Можно попросить тебя об услуге?\n
+    Я был бы признателен за твою помощь…\n
+    Ты можешь мне помочь?\n
+    Ты похож на того, кто сможет помочь!\n
+    Если ты не занят, мне нужно кое-что…\n
+    Не мог бы ты помочь?\n
+    Не мог бы ты помочь мне?\n
+    Моя семья и я будем очень признательны, если ты нам поможешь…\n
+    Мне и моей семье нужно кое-что…\n
+    Мне кое-что нужно…\n
+    Будь добр, помоги, пожалуйста?\n
+    Ты можешь меня выручить?\n
+    Боюсь, мне придётся попросить твоей помощи…\n
+    Если тебя не затруднит, мне нужна помощь…\n
+    Не мог бы ты помочь мне кое в чем?\n
+    Не мог бы ты подсобить мне?\n
+    Нам нужна кое-какая помощь…\n
+    Мы хотим попросить тебя об одолжении…\n
+    Я понимаю, что мы встретились впервые, но я хочу попросить тебя об услуге…\n
+    Я уже долго сталкиваюсь с этой проблемой, и мне не помешала бы твоя помощь…\n
+    Так непривычно видеть здесь чужака… Можно попросить тебя об услуге?\n
+    Так непривычно видеть здесь чужака… Ты можешь сделать одолжение?\n
+    Ты не из местных, так ведь? Ты можешь сделать кое-что для меня?\n
+    Ты не из местных, так ведь? Можно попросить тебя об услуге?\n
+    Откуда ты? Не будет ли это наглостью, если я попрошу тебя об этом…\n
+    Ах, если это не составит большого труда, не мог бы ты помочь мне кое с чем?\n
+    Я в беде и действительно не откажусь от помощи. Ты не хочешь помочь?\n
+    Перед тем, как ты уйдешь, можешь помочь кое с чем? Это жизненно важно…\n
+    Не мог бы ты помочь мне перед уходом?\n
+    Ты поможешь мне перед уходом?\n
+    Ты можешь помочь мне перед своим уходом?\n
+    Ты поможешь мне перед своим уходом?\n
+    Не мог бы ты оказать мне услуга перед своим уходом?\n
+    Ты можешь помочь?\n
+    Пожалуйста, выручи меня!\n
+    Пожалуйста, помоги мне кое с чем!\n
+    Я слышал, что ты хороший герой. Не мог бы ты мне помочь?
         ]]>
     </string>
 
