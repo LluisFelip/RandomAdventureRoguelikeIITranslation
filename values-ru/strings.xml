@@ -256,7 +256,7 @@
     <string name="button_no">Нет</string>
     <string name="button_give">Дать</string>
     <string name="button_bye">Пока</string>
-    <string name="button_quaff">Глотать</string>
+    <string name="button_quaff">Выпить</string>
     <string name="button_shake">Трясти</string>
     <string name="button_equip">Надеть</string>
     <string name="button_cast">Сотворить</string>
@@ -287,7 +287,7 @@
     <string name="button_ok_ellipsis">OK…</string>
     <string name="button_analyse">Анализировать</string>
     <string name="button_repair">Починить</string>
-    <string name="button_look">Смотреть</string>
+    <string name="button_look">Осмотреть</string>
     <string name="button_ellipsis">…</string>
     <string name="button_sacrifice">Принести в жертву</string>
     <string name="button_set_active">Сделать активным</string>
@@ -336,7 +336,7 @@
     <string name="inventory_you_have_no_items_right_now">У вас нет предметов…</string>
     <string name="inventory_text_you_quaff_the">Вы выпиваете %1$s!</string>
     <string name="inventory_amount_parenthesis">(&font_cyan;%1$d&font_end;)</string>
-    <string name="inventory_pickup_couldnt">Не могу поднять %1$s, инвентарь полон!</string>
+    <string name="inventory_pickup_couldnt">Не удалось поднять %1$s, инвентарь полон!</string>
     <string name="inventory_ate_thing">Съел %1$s!</string>
     <string name="inventory_ate_thing_and_restored">Съел %1$s и восстановил &font_cyan;%2$d &font_end;голода.</string>
     <string name="inventory_cooked_thing">Приготовил %1$s!</string>
@@ -347,7 +347,7 @@
     <string name="inventory_palm_tree_drop">%1$s упал с &font_coconut;Пальмы&font_end;!</string>
     <string name="inventory_equipment_title_with_level">&font_wood;Снаряжение &font_end;[&font_wood;µ&font_end;: &font_cyan;%1$d&font_end;]</string>
     <string name="inventory_equipment_empty">(пусто)</string>
-    <string name="inventory_not_enough_space">Ваш инвентарь &font_red;полон&font_end;!</string>
+    <string name="inventory_not_enough_space">Инвентарь &font_red;полон&font_end;!</string>
     <string name="inventory_equipment_levels_up_string">&font_green;\*&font_end;</string>
 
     <string name="status_health_two_dots">Здоровье:</string>
@@ -361,7 +361,7 @@
     <string name="status_pets_captured">Питомцев поймано: &font_pet;%1$d&font_end;</string>
     <string name="status_animals_befriended">Животных приручено: &font_pet;%1$d&font_end;</string>
     <string name="status_crafting_recipes">Рецептов изучено: &font_cyan;%1$d&font_end;</string>
-    <string name="status_crafted_items">Созданных предметов: &font_cyan;%1$d&font_end;</string>
+    <string name="status_crafted_items">Предметов создано: &font_cyan;%1$d&font_end;</string>
     <string name="status_skills_learnt">Умений изучено: &font_green;%1$d&font_end;</string>
     <string name="status_spells_learnt">Заклинаний изучено: &font_mana;%1$d&font_end;</string>
     <string name="status_main_story_times">Основной сюжет закончен раз: &font_green;%1$d&font_end;</string>
@@ -379,13 +379,13 @@
     <string name="status_intelligence">Инт:\t&font_mana;%1$d&font_end;</string>
     <string name="status_caps">&font_cyan;Характеристики&font_end;</string>
     <string name="status_turns_in_game">Ходов: &font_cyan;%1$d&font_end;</string>
-    <string name="status_currently_at">Сейчас находится в &font_cyan;%1$d&font_end;, &font_cyan;%2$d &font_end;in &font_cyan;%3$s&font_end;</string>
+    <string name="status_currently_at">Сейчас находится в &font_cyan;%1$d&font_end;, &font_cyan;%2$d &font_end;в &font_cyan;%3$s&font_end;</string>
     <string name="status_player_name">%1$s</string>
     <string name="status_player_level">Уровень &font_cyan;%1$d&font_end;</string>
     <string name="status_player_experience_needed">Опыт: &font_cyan;%1$d&font_end;/&font_cyan;%2$d&font_end;</string>
     <string name="status_player_gold">Золото: &font_gold;%1$d&font_end;
         (&font_gold;%2$d &font_end;+ &font_gold;%3$d&font_end;
-        in &font_gold;Банк&font_end;)</string>
+        в &font_gold;Банке&font_end;)</string>
     <string name="status_permadeath">&font_red;&bold;Хардкор&bold_end;&font_end;</string>
     <string name="status_no_permadeath">&font_green;&bold;Нормальный&bold_end;&font_end;</string>
 
@@ -399,8 +399,8 @@
     <string name="shop_farmer_capitalised">Фермер</string>
     <string name="shop_empty_message"><![CDATA[Нет предметов для покупки…]]></string>
     <string name="shop_empty_message_inventory">У вас нет предметов…</string>
-    <string name="shop_bought_item">Купил %1$s за &font_gold;%2$d&font_end;.</string>
-    <string name="shop_sold_item">Продал %1$s за &font_gold;%2$d&font_end;.</string>
+    <string name="shop_bought_item">Куплено %1$s за &font_gold;%2$d&font_end;.</string>
+    <string name="shop_sold_item">Продано %1$s за &font_gold;%2$d&font_end;.</string>
     <string name="shop_sold_item_with_amount">Продал &font_cyan;%1$d&font_end; x %2$s за &font_gold;%3$d&font_end;.</string>
     <string name="shop_sell_all_question">Продать всё?</string>
     <string name="shop_spell_already_known">&italic;&font_mana;Заклинание &font_end;уже известно&italic_end;</string>
@@ -427,11 +427,11 @@
     <string name="item_dark_orb">Тёмная Сфера</string>
     <string name="item_magic_stone_transformed_item">Превратил %1$s в %2$s!</string>
 
-    <string name="purifying_seed_plant_message">Посадить &font_purifying;Очищающее&font_end; &font_plant;Зерно&font_end;?&br;&br;OКак только оно станет &font_purifying;Очищающим&font_end; &font_wood;Деревом&font_end;, оно не даст появляться монстрам.&br;&br;Не забывайте поливать его с помощью &font_iron;Ведра &font_end;&font_water;Воды&font_end;, чтобы оно росло.</string>
+    <string name="purifying_seed_plant_message">Посадить &font_purifying;Очищающее&font_end; &font_plant;Зерно&font_end;?&br;&br;Как только оно станет &font_purifying;Очищающим&font_end; &font_wood;Деревом&font_end;, оно не даст появляться монстрам.&br;&br;Не забывайте поливать его с помощью &font_iron;Ведра &font_end;&font_water;Воды&font_end;, чтобы оно росло.</string>
     <string name="purifying_seed_island_already_purified">Какая-то магическая сила мешает посадить его… (Остров уже очищен…)</string>
     <string name="purifying_seed_island_already_planted_purified_seed">Какая-то магическая сила мешает посадить его… (На острове уже посажено &font_purifying;Очищающее&font_end; &font_plant;Зерно &font_end;)</string>
     <string name="purifying_seed_planted">Вы посадили &font_purifying;Очищающее&font_end; &font_plant;Зерно&font_end;.</string>
-    <string name="purifying_seed_watered_magically_grows">&font_purifying;Очищающее&font_end; &font_plant;Зерно &font_end;вырстает в &font_purifying;Очищающее&font_end; &font_wood;Дерево&font_end;! Вы чувствуете свежесть, ведь остров очищен!.</string>
+    <string name="purifying_seed_watered_magically_grows">&font_purifying;Очищающее&font_end; &font_plant;Зерно &font_end;вырастает в &font_purifying;Очищающее&font_end; &font_wood;Дерево&font_end;! Вы чувствуете свежесть, ведь остров очищен!.</string>
     <string name="purifying_tree_chop_title">Срубить &font_purifying;Очищающее&font_end; &font_wood;Дерево&font_end;?</string>
     <string name="purifying_tree_chop_message">Если вы срубите &font_purifying;Очищающее&font_end; &font_wood;Дерево&font_end;, остров не будет чист и нечисть снова появится…</string>
     <string name="purifying_tree_island_no_longer_purified">Остров снова не чист, вы чувствуете зло повсюду…</string>
@@ -494,22 +494,22 @@
     <string name="material_yin">&font_black_low;Инь&font_end;</string>
     <string name="material_yang">&font_white;Янь&font_end;</string>
     <string name="material_volcanic_stone">&font_volcano;Вулканический&font_end; &font_stone;Камень&font_end;</string>
-    <string name="material_icy_stone">&font_icy;Морозный&font_end; &font_stone;Камер&font_end;</string>
+    <string name="material_icy_stone">&font_icy;Морозный&font_end; &font_stone;Камень&font_end;</string>
 
     <string name="item_info_material_edible">Можно съесть, чтобы восстановить &font_hunger;%1$d &font_end;голода.</string>
     <string name="item_info_royal_seal">&font_gold;Королевский Знак&font_end; можно использовать для покупки чего-нибудь особенного…</string>
-    <string name="item_info_armor">Наденьте чтобы улучшить хар-ки.&br;%1$s&br;%2$s</string>
-    <string name="item_info_weapon">Возьмите в руки чтобы быть сильнее против монстров!&br;%1$s&br;%2$s</string>
-    <string name="item_info_shield">Возьмите в руки чтобы защитить себя от монстров!.&br;%1$s&br;%2$s</string>
+    <string name="item_info_armor">Наденьте, чтобы улучшить хар-ки.&br;%1$s&br;%2$s</string>
+    <string name="item_info_weapon">Возьмите в руки, чтобы быть сильнее против монстров!&br;%1$s&br;%2$s</string>
+    <string name="item_info_shield">Возьмите в руки, чтобы защитить себя от монстров!.&br;%1$s&br;%2$s</string>
     <string name="item_info_recipe">Изучите, чтобы узнать как &font_cyan;создать &font_end;%1$s.</string>
-    <string name="item_info_firecamp">Начните %1$s чтобы суметь &font_green;приготовить&font_end;.</string>
+    <string name="item_info_firecamp">Разожгите %1$s, чтобы &font_green;приготовить&font_end;.</string>
     <string name="item_info_food">Съешьте, чтобы уменьшить голод на &font_green;%1$d&font_end;.</string>
     <string name="item_info_potion">Выпейте, чтобы восстановить %1$s здоровья.</string>
     <string name="item_info_mana_potion">Выпейте, чтобы восстановить %1$s маны.</string>
     <string name="item_info_experience_potion">Выпейте, чтобы получить %1$s &font_cyan;опыта &font_end;.</string>
     <string name="item_info_material">Материал для &font_cyan;Создания &font_end;других предметов.</string>
-    <string name="item_info_merchants_mark">Этот знак может быть ценен для чего-то, ил кого-то…</string>
-    <string name="item_info_tool_chopping_axe">Используйте, чтобы &font_wood;рубить деревья &font_end;для добычи &font_wood;Дерева&font_end;.</string>
+    <string name="item_info_merchants_mark">Этот знак может быть ценен для чего-то или кого-то…</string>
+    <string name="item_info_tool_chopping_axe">Используйте, чтобы &font_wood;рубить деревья &font_end;дял добычи &font_wood;Дерева&font_end;.</string>
     <string name="item_info_tool_pickaxe">Используйте, чтобы &font_stone;долбить камни &font_end;для добычи &font_stone;Камня &font_end;и других минералов.</string>
     <string name="item_info_tool_fishing_rod">Используйте, чтобы &font_cyan;рыбачить&font_end;
         в &font_cyan;Рыбных местах&font_end;.</string>
@@ -517,7 +517,7 @@
     <string name="item_info_tool_skinning_knife">Используйте для &font_skin;освежевания &font_end;&font_green;тела монстра &font_end;, чтобы получить &font_skin;Шкуру&font_end;.</string>
     <string name="item_info_tool_meat_cleaver">Используйте для разделки&font_green;тела монстра &font_end;, чтобы получить &font_green;Плоть Монстра&font_end;.</string>
     <string name="item_info_monster_flesh_edible">Съешьте, чтобы уменьшить голод на &font_green;%1$d&font_end;.</string>
-    <string name="item_info_monster_flesh_not_edible">Приготовьте на &font_attack;Огне &font_end;, чтобы вы могли это съесть.</string>
+    <string name="item_info_monster_flesh_not_edible">Приготовьте на &font_attack;Огне &font_end;, чтобы съесть это.</string>
     <string name="item_info_nautical_chart">Используется моряками для нахождения острова нужного &font_cyan;типа&font_end;.</string>
     <string name="item_info_whetstone">Используйте для починки &font_cyan;Инструмента&font_end;.</string>
     <string name="item_info_pet_collar">Откройте окно &font_pet;"Питомцы"&font_end;, чтобы одеть ошейник на&font_pet;Питомца &font_end;и дать ему имя!</string>
@@ -525,7 +525,7 @@
     <string name="item_info_island_soul">Мистическая душа острова…</string>
     <string name="item_info_spellbook">Прочитайте, чтобы изучить &font_mana;заклинание&font_end;: %1$s.</string>
     <string name="item_info_teleport_stone">Используйте для перемещения в последнюю &font_inn;Гостиницу &font_end;в которой вы спали, или в вашу начальную точку на этом &font_cyan;острове&font_end;.</string>
-    <string name="item_info_piece_of_map">&font_cyan;Кусок Карты&font_end;. Чтобы понять что это, найдите больше кусков…</string>
+    <string name="item_info_piece_of_map">&font_cyan;Часть Карты&font_end;. Найдите больше частей, чтобы узнать что это…</string>
     <string name="item_info_dark_orb">Мистическая &font_dark_orb;Тёмная Сфера&font_end;. А вы чего ожидали?</string>
     <string name="item_info_bomb_normal">Бросьте &font_bomb;Бомбу&font_end;
         во врага во время битвы.</string>
@@ -541,7 +541,7 @@
     <string name="item_info_purifying_seed">Посадите его и поливайте с помощью &font_iron;Ведра &font_end;&font_water;Воды&font_end;, чтобы оно выросло в &font_purifying;Очищающее&font_end; &font_wood;Дерево&font_end;.&br;&br;&font_purifying;Очищающее&font_end; &font_wood;Дерево &font_end;не даёт монстрам &italic;появляться &italic_end;на строве.</string>
     <string name="item_info_iron_bucket_lava">Киньте его в &font_red;монстра &font_end;в бою!</string>
     <string name="item_info_iron_bucket_mana">Выпейте, чтобы восстановить &font_mana;ману&font_end;.</string>
-    <string name="item_info_a_letter_for_the_king">На нём есть &font_gold;Королевский Знак&font_end;, стоит принести его &font_gold;Королю&font_end;.</string>
+    <string name="item_info_a_letter_for_the_king">На нём есть &font_gold;Королевский Знак&font_end;, стоит отнести его &font_gold;Королю&font_end;.</string>
     <string name="item_royal">&font_gold;Королевский&font_end;</string>
 
     <string name="materialsource_exhausted">%1$s устал…</string>
@@ -561,7 +561,7 @@
     <string name="tool_action_mining">&font_silver;Добывает&font_end;</string>
     <string name="tool_action_fishing">&font_cyan;Рыбачит&font_end;</string>
     <string name="tool_action_catching_bug">&font_insect;Ловит жуков&font_end;</string>
-    <string name="tool_action_skinning">&font_skin;Освежевает&font_end;</string>
+    <string name="tool_action_skinning">&font_skin;Освежевывает&font_end;</string>
     <string name="tool_action_butchering">&font_blood;Разделывает&font_end;</string>
     <string name="tool_text">%1$s [&font_cyan;%2$d&font_end;/&font_cyan;%3$d&font_end;]</string>
     <string name="tool_net">&font_insect;Сеть&font_end;</string>
@@ -623,7 +623,7 @@
     <string name="tile_type_tyrant_quarters">Обитель Тирана</string>
     <string name="tile_type_oasis">Оазис</string>
     <string name="tile_type_pyramid">Пирамиды</string>
-    <string name="tile_type_frozen_cave">Замёрзжшая пещера</string>
+    <string name="tile_type_frozen_cave">Замёрзшая пещера</string>
     <string name="tile_type_city">Город</string>
     <string name="tile_type_town">Посёлок</string>
     <string name="tile_type_village">Деревня</string>
@@ -640,7 +640,7 @@
     <string name="islandtype_fey">Обречённый</string>
     <string name="islandtype_beast">Звериный</string>
     <string name="islandtype_aberration">Заблудший</string>
-    <string name="islandtype_ooze">Слклизкий</string>
+    <string name="islandtype_ooze">Склизкий</string>
     <string name="islandtype_swarm">Кишащий</string>
     <string name="islandtype_elemental">Элементальный</string>
     <string name="islandtype_construct">Созданный</string>
@@ -670,7 +670,7 @@
     <string name="item_tin_dagger">&font_tin;Оловянный&font_end; Кинжал</string>
     <string name="item_iron_dagger">&font_iron;Железный&font_end; Кинжал</string>
     <string name="item_bronze_dagger">&font_bronze;Бронзовый&font_end; Кинжал</string>
-    <string name="item_silver_dagger">&font_silver;Серебряныц&font_end; Кинжал</string>
+    <string name="item_silver_dagger">&font_silver;Серебряный&font_end; Кинжал</string>
     <string name="item_gold_dagger">&font_gold;Золотой&font_end; Кинжал</string>
 
     <string name="item_diamond_dagger">&font_diamond;Алмазный&font_end; Кинжал</string>
@@ -710,7 +710,7 @@
 
     <string name="item_volcanic_sword">&font_volcano;Вулканический&font_end; Меч</string>
     <string name="item_volcanic_mace">&font_volcano;Вулканическая&font_end; Булава</string>
-    <string name="item_volcanic_axe">&font_volcano;Вулканичесикй&font_end; Топор</string>
+    <string name="item_volcanic_axe">&font_volcano;Вулканический&font_end; Топор</string>
     <string name="item_volcanic_spear">&font_volcano;Вулканическое&font_end; Копьё</string>
     <string name="item_volcanic_dagger">&font_volcano;Вулканический&font_end; Кинжал</string>
 
@@ -737,7 +737,7 @@
     <string name="text_tin_helmet">&font_tin;Оловянный&font_end; Шлем</string>
     <string name="text_iron_helmet">&font_iron;Железный&font_end; Шлем</string>
     <string name="text_bronze_helmet">&font_bronze;Бронзовый&font_end; Шлем</string>
-    <string name="text_silver_helmet">&font_silver;Серебрянный&font_end; Шлем</string>
+    <string name="text_silver_helmet">&font_silver;Серебряный&font_end; Шлем</string>
     <string name="text_gold_helmet">&font_gold;Золотой&font_end; Шлем</string>
     <string name="text_diamond_helmet">&font_diamond;Алмазный&font_end; Шлем</string>
     <string name="text_obsidian_helmet">&font_obsidian;Обсидиановый&font_end; Шлем</string>
@@ -800,7 +800,7 @@
     <string name="text_leather_ring">&font_leather;Кожаное&font_end; Кольцо</string>
     <string name="text_bone_ring">&font_bone;Костяное&font_end; Кольцо</string>
     <string name="text_copper_ring">&font_copper;Медное&font_end; Кольцо</string>
-    <string name="text_tin_ring">&font_tin;Одовянное&font_end; Кольцо</string>
+    <string name="text_tin_ring">&font_tin;Оловянное&font_end; Кольцо</string>
     <string name="text_iron_ring">&font_iron;Железное&font_end; Кольцо</string>
     <string name="text_bronze_ring">&font_bronze;Бронзовое&font_end; Кольцо</string>
     <string name="text_silver_ring">&font_silver;Серебряное&font_end; Кольцо</string>
@@ -825,7 +825,7 @@
     <string name="food_meat_stick">&font_copper;Стейк &font_end;на &font_wood;палочке&font_end;</string>
     <string name="food_vegetable_stick">&font_plant;Овощная&font_end; &font_wood;Палочка&font_end;</string>
     <string name="food_milk">Молоко</string>
-    <string name="food_cereal">Cereal</string>
+    <string name="food_cereal">Каша</string>
     <string name="food_fruit">Фрукт</string>
     <string name="food_egg">Яйцо</string>
     <string name="food_tomato">Помидор</string>
@@ -835,7 +835,7 @@
     <string name="food_cucumber">Огурец</string>
     <string name="text_level_up_increasal">
         &font_health;Здоровье&font_end; увеличено на &font_health;%1$d&font_end;&br;
-        &font_mana;Мана&font_end; увеличена на &font_mana;%2$d&font_end;&br; &font_attack;Attack&font_end;
+        &font_mana;Мана&font_end; увеличена на &font_mana;%2$d&font_end;&br; &font_attack;Атака&font_end;
         увеличена на &font_attack;%3$d&font_end;&br; &font_defense;Защита&font_end;
         увеличена на &font_defense;%4$d&font_end;&br; &font_speed;Скорость&font_end;
         увеличена на &font_speed;%5$d&font_end;&br;
@@ -846,33 +846,33 @@
     <string name="level_up_pets_increase">&br;&font_pet;Количество Питомцев &font_end;увеличено на &font_gold;%1$d&font_end;</string>
     <string name="level_up_skill_point">&br;Вы получили &font_cyan;%1$d &font_end;Очков Навыков.</string>
 
-    <string name="combat_monster_attacked_player">&font_red;%1$s &font_end;attacked!&br;Вы получили &font_red;%2$d &font_end;урона!</string>
-    <string name="combat_monster_action_attacked_player">&font_red;%1$s &font_end;attacked with its &font_red;%2$s&font_end;!&br;You received &font_red;%3$d &font_end;damage!</string>
-    <string name="combat_player_attacked_monster_damage">You attacked!&br;&font_red;%1$s &font_end;received &font_red;%2$d &font_end;damage!</string>
-    <string name="combat_player_skill_dealt_damage">&font_red;%1$s &font_end;received &font_red;%2$d &font_end;damage!</string>
+    <string name="combat_monster_attacked_player">&font_red;%1$s &font_end;атаковал!&br;Вы получили &font_red;%2$d &font_end;урона!</string>
+    <string name="combat_monster_action_attacked_player">&font_red;%1$s &font_end;атаковал своим &font_red;%2$s&font_end;!&br;Вы получили &font_red;%3$d &font_end;урона!</string>
+    <string name="combat_player_attacked_monster_damage">Вы атаковали!&br;&font_red;%1$s &font_end;получил &font_red;%2$d &font_end;урона!</string>
+    <string name="combat_player_skill_dealt_damage">&font_red;%1$s &font_end;получил &font_red;%2$d &font_end;урона!</string>
     <string name="combat_player_skill_restored_health">Вы восстановили &font_health;%1$d &font_end;здоровья!</string>
     <string name="combat_player_skill_restored_mana">Вы восстановили &font_mana;%1$d &font_end;маны!</string>
-    <string name="combat_player_skill_dealt_damage_n_times">You hit &font_cyan;%1$d &font_end;times! &font_red;%2$s &font_end;received &font_red;%3$d &font_end;damage!</string>
+    <string name="combat_player_skill_dealt_damage_n_times">Вы нанесли &font_cyan;%1$d &font_end;ударов! &font_red;%2$s &font_end;получил &font_red;%3$d &font_end;урона!</string>
     <string name="combat_player_skill_attacks_first">Вы атакуете первым!</string>
-    <string name="combat_dont_know_any_skill">You don\'t know any &font_skill_attack;Skills&font_end;!</string>
-    <string name="combat_dont_know_any_spell">You don\'t know any &font_mana;Spells&font_end;!</string>
-    <string name="combat_cant_cast_skill">У вас не хватает сил чтобы сделать это!</string>
-    <string name="combat_cant_cast_spell">У вас не хватает маны чтобы сделат это!</string>
-    <string name="combat_already_captured">You have already captured it!</string>
-    <string name="combat_cant_carry_more_pets">You can\'t have more pets!</string>
-    <string name="combat_monster_dead_vanishes">%1$s turns to dust!</string>
-    <string name="combat_monster_attacks">%1$s attacks!</string>
+    <string name="combat_dont_know_any_skill">У вас нет никаких &font_skill_attack;Навыков&font_end;!</string>
+    <string name="combat_dont_know_any_spell">Вы не знаете никаких &font_mana;Заклинаний&font_end;!</string>
+    <string name="combat_cant_cast_skill">Вам не хватает сил, чтобы сделать это!</string>
+    <string name="combat_cant_cast_spell">Вам не хватает маны, чтобы сделать это!</string>
+    <string name="combat_already_captured">Вы уже поймали его!</string>
+    <string name="combat_cant_carry_more_pets">У вас не может быть больше питомцев!</string>
+    <string name="combat_monster_dead_vanishes">%1$s обратился в прах!</string>
+    <string name="combat_monster_attacks">%1$s атакует!</string>
     <string name="combat_fight">Атаковать</string>
     <string name="combat_player_flee_fails">Вы пытаетесь сбежать, но вам не удаётся…</string>
     <string name="combat_player_flee_succeeds">Вы смогли убежать!</string>
     <string name="combat_killed_monster">Вы убили %1$s!</string>
-    <string name="combat_player_is_dead">%1$s&br;died at level &font_cyan;%2$d&font_end;!</string>
-    <string name="combat_corpse_name">Corpse of %1$s</string>
+    <string name="combat_player_is_dead">%1$s&br;погиб на уровне &font_cyan;%2$d&font_end;!</string>
+    <string name="combat_corpse_name">Труп %1$s</string>
     <string name="combat_monster_attacking_symbol">-&font_dark_red;A&font_end;-</string>
     <string name="combat_cant_flee_from_monster">Вы не можете убежать от %1$s…</string>
     <string name="combat_monster_obtained_gold">Получено &font_gold;%1$d&font_end; золота.</string>
     <string name="combat_monster_obtained_item">Получено %1$s.</string>
-    <string name="combat_you_throw_the_bucket_to">You throw the %1$s to %2$s! %3$s receives &font_red;%4$d &font_end;damage!</string>
+    <string name="combat_you_throw_the_bucket_to">Вы бросаете %1$s в %2$s! %3$s получает &font_red;%4$d &font_end;урона!</string>
 
 
     <string name="villager_text_hello_1" tools:ignore="UnusedResources">Привет!</string>
