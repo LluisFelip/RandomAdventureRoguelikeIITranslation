@@ -1977,7 +1977,7 @@
     <string name="skill_alchemist_description">Augmente la puissance des potions que vous fabriquez. Plus le niveau de compétence &font_cyan;Alchémiste &font_end;est haut, meilleurs sont les résultats.</string>
     <string name="skill_blacksmith">&font_cyan;Forgeron&font_end;</string>
     <string name="skill_blacksmith_description">Augmente les chances de fabriquer de meilleures armes, boucliers and armures. Plus le niveau de compétence &font_cyan;Forgeron &font_end;est haut, meilleurs sont les résultats.</string>
-    <string name="skill_photosynthetic">&font_cyan;Photosynthétique&font_end;</string>
+    <string name="skill_photosynthetic">&font_cyan;Photosynthèse&font_end;</string>
     <string name="skill_photosynthetic_description">Quand le temps est &font_yellow;Ensoleillé&font_end;, ta faim ne baisse pas.</string>
     <string name="skill_photosynthetic_absorbed_from_sun">Tu as absorbé l\'énergie du &font_yellow;soleil &font_end;grâce à ta compétence &font_cyan;Photosynthétique &font_end;.</string>
     <string name="skill_analyst">&font_cyan;Analyste&font_end;</string>
