@@ -174,32 +174,32 @@
 
     <string name="about_reddit">RAR II на Reddit</string>
     <string name="about_title">&line_break;О RAR II</string>
-    <string name="about_text">Игра была созданна одним человеком с любовью и терпением :)&br;&br;Я бы хотел услышать ваше мнение! Если у вас есть предложения и идеи - обязательно свяжитесь со мной! .&br;&br;Надеюсь вам понравится приключение!</string>
+    <string name="about_text">Игра была создана одним человеком с любовью и терпением :)&br;&br;Я бы хотел услышать ваше мнение! Если у вас есть предложения и идеи - обязательно свяжитесь со мной! .&br;&br;Надеюсь, вам понравится приключение!</string>
     <string name="about_twitter">Archison в Twitter</string>
     <string name="about_discord">RAR II в Discord</string>
 
-    <string name="new_game_welcome_hero_whats_your_name">Здравствуй, герой! Каково твоё имя?</string>
+    <string name="new_game_welcome_hero_whats_your_name">Здравствуй, герой! Как тебя зовут?</string>
     <string name="new_game_hero_name">Герой</string>
-    <string name="new_game_whats_your_starting_advantage">… и каков твой талант??</string>
+    <string name="new_game_whats_your_starting_advantage">… и каков твой навык??</string>
 
     <string name="advantage_random">Случайно</string>
     <string name="advantage_ranger">&font_wood;Лучник&font_end;</string>
     <string name="advantage_warrior">&font_attack;Воин&font_end;</string>
     <string name="advantage_wizard">&font_mana;Маг&font_end;</string>
-    <string name="advantage_cleric">&font_health;Клерик&font_end;</string>
+    <string name="advantage_cleric">&font_health;Священник&font_end;</string>
     <string name="advantage_petmaster">&font_pet;Дрессировщик&font_end;</string>
     <string name="advantage_worker">&font_wood;Рабочий&font_end;</string>
     <string name="advantage_alchemist">&font_alchemist;Алхимик&font_end;</string>
     <string name="advantage_blacksmith">&font_silver;Кузнец&font_end;</string>
-    <string name="advantage_noble">&font_gold;Знать&font_end;</string>
-    <string name="advantage_random_desc">(Вы начнёте со случайным талнтом)</string>
+    <string name="advantage_noble">&font_gold;Аристократ&font_end;</string>
+    <string name="advantage_random_desc">(Вы начнёте со случайным навыком)</string>
     <string name="advantage_warrior_desc">(Вы начнёте с &font_attack;Оружием&font_end;, &font_defense;Щитом&font_end;, и &font_defense;Бронёй&font_end;)</string>
     <string name="advantage_ranger_desc">(Вы начнёте с &font_wood;Луком &font_end;и немного&font_wood;Стрел&font_end;)</string>
 
     <!-- NOTE FOR LANGUAGES ALREADY TRANSLATED: Translate these three  - - - - - - - - - - - - - -->
     <string name="advantage_wizard_desc">(Вы начнёте со знанием случайного &font_mana;Заклинания &font_end;и &font_mana;Посохом&font_end;)</string>
     <string name="advantage_cleric_desc">(Вы начнёте со знанием &font_health;исцеляющего&font_end; &font_mana;Заклинания &font_end;и &font_mana;Посохом&font_end;)</string>
-    <string name="advantage_petmaster_desc">(Вы начнёте со знанием &font_pet;Поимки&font_end; &font_red;Монстра&font_end; &font_mana;&font_end;, a CR &font_cyan;0&font_end; &font_red;Monster&font_end; &font_pet;Pet &font_end;and a &font_pet;Pet &font_end;&font_cyan;Collar&font_end;)</string>
+    <string name="advantage_petmaster_desc">(Вы начнёте со знанием &font_pet;Поимки&font_end; &font_red;Монстра&font_end; &font_mana;&font_end;, CR &font_cyan;0&font_end; &font_red;Монстром&font_end; &font_pet;Питомцем &font_end;и &font_cyan;Ошейником&font_end;&font_pet;Питомца &font_end;)</string>
     <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
 
     <string name="advantage_worker_desc">(Вы начнёте со случайным &font_cyan;Инструментом&font_end;)</string>
