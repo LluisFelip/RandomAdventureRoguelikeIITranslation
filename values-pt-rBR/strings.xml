@@ -219,8 +219,8 @@
 
 
     <!-- NOTE FOR LANGUAGES ALREADY TRANSLATED: Translate these three  - - - - - - - - - - - - - -->
-    <string name="advantage_wizard_desc">(Você irá começar sabendo uma &font_mana;Feitiço aleatória &font_end;e um &font_mana;Cajado&font_end;)</string>
-    <string name="advantage_cleric_desc">(Você irá começar sabendo uma &font_health;Feitiço&font_end; &font_mana;de cura &font_end;e um &font_mana;Cajado&font_end;)</string>
+    <string name="advantage_wizard_desc">(Você irá começar sabendo um &font_mana;Feitiço aleatório &font_end;e um &font_mana;Cajado&font_end;)</string>
+    <string name="advantage_cleric_desc">(Você irá começar sabendo um &font_health;Feitiço&font_end; &font_mana;de cura &font_end;e um &font_mana;Cajado&font_end;)</string>
     <string name="advantage_petmaster_desc">(Você irá começar sabendo o &font_pet;feitiço&font_end; &font_red;Capturar&font_end; &font_mana;Monstro &font_end;, um Monstro &font_cyan;com&font_end; &font_red;0 de ND&font_end; &font_pet;como Mascote &font_end;e uma &font_pet;Coleira &font_end;&font_cyan;de Mascote&font_end;)</string>
     <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
 
