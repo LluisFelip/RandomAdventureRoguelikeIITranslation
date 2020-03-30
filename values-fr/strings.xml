@@ -1336,24 +1336,24 @@
 
     <string name="action_search">&font_cyan;Chercher&font_end;</string>
     <string name="action_searching">Recherche</string>
-    <string name="action_explorer">&font_cyan;Détection d\'auberges&font_end;</string>
+    <string name="action_explorer">&font_cyan;Détecter des auberges&font_end;</string>
     <string name="action_explorer_action_description">&font_cyan;Détecte une auberge&font_end;</string>
     <string name="action_explorer_action_description_positive">Tu détectes une &font_inn;Auberge &font_end;à &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end;.</string>
     <string name="action_explorer_action_description_negative">Il n\'y a aucune &font_inn;Auberge &font_end;sur cette île…</string>
-    <string name="action_contractor">&font_cyan;Détection&font_end; de &font_cyan;Quêtes&font_end;</string>
+    <string name="action_contractor">&font_cyan;Détecter&font_end; des &font_cyan;Quêtes&font_end;</string>
     <string name="action_contractor_desc">Permet de &font_cyan;détecter&font_end;
         le nombre de &font_cyan;quêtes&font_end; non trouvées sur cette île.</string>
-    <string name="action_trader">&font_cyan;Détecte&font_end;. &font_gold;Marchands&font_end;</string>
+    <string name="action_trader">&font_cyan;Détecter&font_end; des &font_gold;Marchands&font_end;</string>
     <string name="action_trader_desc">Permet de &font_cyan;détecter&font_end;
         le nombre de &font_gold;Marchands&font_end; non trouvés sur cette île.</string>
-    <string name="action_hunter">&font_cyan;Détecte&font_end;. &font_red;Boss&font_end;&font_end;</string>
+    <string name="action_hunter">&font_cyan;Détecter&font_end; des &font_red;Boss&font_end;&font_end;</string>
     <string name="action_hunter_description">Permet de &font_cyan;détecter&font_end;
         le nombre de &font_red;boss&font_end; présents sur l\'île…</string>
     <string name="action_hunter_action_description">Détection de &font_red;boss&font_end;</string>
     <string name="action_hunter_action_description_positive_singular">Tu détecte &font_cyan;%1$d&font_end; &font_red;boss &font_end;sur l\'île.</string>
     <string name="action_hunter_action_description_positive_plural">Tu détecte &font_cyan;%1$d&font_end; &font_red;boss &font_end;sur l\'île !</string>
     <string name="action_hunter_action_description_negative">Il n\'y a aucun &font_red;boss &font_end;sur l\'île…</string>
-    <string name="action_treasure_hunter">&font_cyan;Chasse&font_end;. &font_chest;Trésor&font_end;</string>
+    <string name="action_treasure_hunter">&font_cyan;Chasse&font_end; des &font_chest;Trésors&font_end;</string>
     <string name="action_treasure_hunter_treasure_hunter">Permet de &font_cyan;Détecter&font_end; le nombre d\'&font_chest;objets dissimulés &font_end;sur cet île.</string>
     <string name="action_treasure_hunter_action_description_positive_singular">Tu détectes &font_cyan;%1$d &font_end;d\'&font_chest;objets dissimulés &font_end;.</string>
     <string name="action_treasure_hunter_action_description_positive_plural">Tu détectes &font_cyan;%1$d &font_end;d\'&font_chest;objets dissimulés &font_end;.</string>
