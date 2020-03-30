@@ -2215,54 +2215,54 @@
 
     <string name="corpse_turns_to_dust">%1$s est reduit en poussière…</string>
 
-    <string name="main_story_new_game_first_output">Tu te réveilles à la &font_sand;Plage &font_end;vers &font_cyan;%1$s&font_end;.</string>
+    <string name="main_story_new_game_first_output">Tu te réveilles à la &font_sand;plage &font_end;vers &font_cyan;%1$s&font_end;.</string>
     <string name="main_story_1_dialog_title">Ouvre les yeux</string>
-    <string name="main_story_1_dialog_message">Après ce qui a semblé être une éternité, tu ouvres les yeux et essayes de te lever.&br;&br;Tu regardes autour de toi et réalises que tu es sur une &font_sand;Plage&font_end;. Il y a une &font_wood;Épave&font_end;.&br;&br;Après avoir assimilé les lieux, tu remarques un &font_cyan;Jeune Garçon &font_end;qui t\'observe.</string>
-    <string name="main_story_shipwreck_info">Cette &font_wood;Épave &font_end;est en trop mauvaise état et semble être impossible à réparer.&br;&br;Après examination tout ça te semble plutôt familier…</string>
+    <string name="main_story_1_dialog_message">Après ce qui a semblé être une éternité, tu ouvres les yeux et essayes de te lever.&br;&br;Tu regardes autour de toi et réalises que tu es sur une &font_sand;plage&font_end;. Il y a une &font_wood;épave&font_end;.&br;&br;Après avoir assimilé les lieux, tu remarques un &font_cyan;Jeune Garçon &font_end;qui t\'observe.</string>
+    <string name="main_story_shipwreck_info">Cette &font_wood;épave &font_end;est en trop mauvais état et semble être impossible à réparer.&br;&br;Après examination tout ça te semble plutôt familier…</string>
     <string name="main_story_young_boy_message_1">B… Bonjour ? Tu vas bien ? Je jouais dans le coin et je t\'ai trouvé inconscient…</string>
-    <string name="main_story_young_boy_message_2">J\'était inquiet sur ta santé. Heureux de te savoir toujours parmis nous ! Est ce que c\'est ton &font_wood;Bateau&font_end; ?</string>
+    <string name="main_story_young_boy_message_2">J\'était inquiet sur ta santé. Heureux de te savoir toujours parmis nous ! Est ce que c\'est ton &font_wood;bateau&font_end; ?</string>
     <string name="main_story_young_boy_message_3">Oh… eh bien, je suppose que tu as besoin de repos. Mon père tiens une &font_inn;auberge &font_end;vers &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end;. Viens y faire un tour pour parler de tout ça. C\'était un plaisir de te rencontrer !</string>
     <string name="main_story_young_boy_runs_away">Le &font_cyan;Jeune Garçon &font_end;se volatilise.</string>
-    <string name="main_story_1_giving_description">Après s\'être réveillé sur une &font_sand;Plage&font_end;, un &font_cyan;Jeune Garçon &font_end;t\'a proposé d\'aller à la taverne vers &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end;. Tu pourras te reposer et parler à son père.</string>
+    <string name="main_story_1_giving_description">Après s\'être réveillé sur une &font_sand;plage&font_end;, un &font_cyan;Jeune Garçon &font_end;t\'a proposé d\'aller à la taverne vers &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end;. Tu pourras te reposer et parler à son père.</string>
     <string name="main_story_inn_owner_title">Le &font_inn;Proprio&font_end;</string>
-    <string name="main_story_inn_dialog_1">Salut! Oh, tu as croisé mon fils ? Une &font_wood;Épave&font_end; ? Mmm… Tu as l\'air épuisé, je te laisse dormir gratuitement dans mon &font_inn;Auberge&font_end;
+    <string name="main_story_inn_dialog_1">Salut! Oh, tu as croisé mon fils ? Une &font_wood;épave&font_end; ? Mmm… Tu as l\'air épuisé, je te laisse dormir gratuitement dans mon &font_inn;auberge&font_end;
         pour cette nuit.</string>
     <string name="main_story_inn_dialog_2">Au passage, les habitants de l\'île sont plutôt méfiants ces temps-ci. Il y a des rumeurs comme quoi un &font_red;monstre &font_end;
-        très puissant dans une &font_cave;Caverne &font_end;vers &font_cyan;%1$d&font_end;, &font_cyan;%2$d &font_end;
+        très puissant dans une &font_cave;caverne &font_end;vers &font_cyan;%1$d&font_end;, &font_cyan;%2$d &font_end;
         viendrait nous tourmenter régulièrement.</string>
     <string name="main_story_inn_dialog_3">Le &font_wood;Charpentier&font_end; de l\'île qui est plutôt du genre casse cou s\'est rendu dans cette caverne quelque jour auparavant et n\'est toujours pas revenu… S\'il vous plaît, vous avez l\'air compétent, tuez ce &font_red;monstre &font_end;terrifiant et sauvez le charpentier si possible !</string>
     <string name="main_story_inn_dialog_2_button">Que puis-je faire ?</string>
     <string name="main_story_1_stand_up_button">Se lever</string>
-    <string name="main_story_2">Annéantis le &font_red;monstre &font_end;dans la &font_cave;Cave &font_end;vers &font_cyan;%1$d&font_end;, &font_cyan;%2$d &font_end;et sauves &font_wood;Le Vieux Charpentier&font_end;.</string>
+    <string name="main_story_2">Annéantis le &font_red;monstre &font_end;dans la &font_cave;cave &font_end;vers &font_cyan;%1$d&font_end;, &font_cyan;%2$d &font_end;et sauves le &font_wood;Vieux Charpentier&font_end;.</string>
     <string name="main_story_the_carpenter_1">Merci d\'être venu me sauver ! J\'étais déjà en train de faire mon testament !</string>
     <string name="main_story_the_carpenter_2">J\'ai entendu des rumeurs à propos du &font_red;Tyran &font_end;
         qui serait passé par ici, j\'était donc parti chercher quelques indices pour savoir ce qu\'il faisait là…</string>
-    <string name="main_story_the_carpenter_3">Tu ne sais pas qui est &font_red;Le Tyrant&font_end; ? Oh… pour la faire courte : c\'est la raison pour laquelle les monstres sont éparpillés partout sur notre planète.</string>
+    <string name="main_story_the_carpenter_3">Tu ne sais pas qui est le &font_red;Tyran&font_end; ? Oh… pour la faire courte : c\'est la raison pour laquelle les monstres sont éparpillés partout sur notre planète.</string>
     <string name="main_story_the_carpenter_4">Personne ne sait ou il se terre, mais la légende raconte qu\'un vrai héros se montrera pour trouver le mal et le terrasser une bonne fois pour toute…</string>
     <string name="main_story_the_carpenter_5">Ce &font_red;monstre&font_end; que tu viens tout juste de vaincre était la raison de pourquoi on n\'avait plus aucun &font_wood;bateau &font_end;sur cette île. Il les a tous coulés !</string>
-    <string name="main_story_the_carpenter_5b">Si j\'en avait un, je serais parti moi même trouver des indices sur les quartiers du &font_red;Tyrant &font_end;pour que je puisse lui botter le * ! (si je n\'étais pas aussi vieux…)</string>
-    <string name="main_story_the_carpenter_6">Tu dis avoir trouvé une &font_wood;Épave &font_end;vers &font_cyan;%1$d&font_end;, &font_cyan;%2$d &font_end; ? Je pense pouvoir la réparer si tu me ramènes assez de &font_wood;Bois&font_end; !</string>
-    <string name="main_story_the_carpenter_7">Tenez, prenez ma &font_wood;Hache&font_end; ! Vous pourrez couper les &font_wood;Arbres &font_end;pour récupérer du &font_wood;Bois&font_end;.</string>
-    <string name="main_story_the_carpenter_8">Bon, j\'attendrai près de &font_wood;l\'Épave &font_end;pendant que tu vas chercher le &font_wood;Bois&font_end; ! &font_cyan;5 &font_end;pièces devrait être suffisant. À bientôt !</string>
-    <string name="main_story_the_carpenter_left">&font_wood;Le Vieux Charpentier &font_end;s\'en va…</string>
-    <string name="main_story_the_carpenter_shipwreck_button">Lui parler de &font_wood;l\'Épave&font_end;</string>
-    <string name="main_story_3">Trouvez &font_cyan;5&font_end;pièces de &font_wood;Bois&font_end; et rapportez les au &font_wood;Vieux Charpentier &font_end;vers &font_cyan;%1$d&font_end;, &font_cyan;%2$d &font_end;pour qu\'il puisse réparer &font_wood;l\'Épave&font_end; !</string>
-    <string name="main_story_the_carpenter_second_dialog_1">Bonjour ! Avez-vous trouvé &font_cyan;5 &font_end;pièces de &font_wood;Bois&font_end; ?</string>
+    <string name="main_story_the_carpenter_5b">Si j\'en avait un, je serais parti moi même trouver des indices sur les quartiers du &font_red;Tyran &font_end;pour que je puisse lui botter le * ! (si je n\'étais pas aussi vieux…)</string>
+    <string name="main_story_the_carpenter_6">Tu dis avoir trouvé une &font_wood;épave &font_end;vers &font_cyan;%1$d&font_end;, &font_cyan;%2$d &font_end; ? Je pense pouvoir la réparer si tu me ramènes assez de &font_wood;bois&font_end; !</string>
+    <string name="main_story_the_carpenter_7">Tenez, prenez ma &font_wood;hache&font_end; ! Vous pourrez couper les &font_wood;arbres &font_end;pour récupérer du &font_wood;bois&font_end;.</string>
+    <string name="main_story_the_carpenter_8">Bon, j\'attendrai près de l\'&font_wood;épave &font_end;pendant que tu vas chercher le &font_wood;bois&font_end; ! &font_cyan;5 &font_end;pièces devrait être suffisant. À bientôt !</string>
+    <string name="main_story_the_carpenter_left">Le &font_wood;Vieux Charpentier &font_end;s\'en va…</string>
+    <string name="main_story_the_carpenter_shipwreck_button">Lui parler de l\'&font_wood;épave&font_end;</string>
+    <string name="main_story_3">Trouvez &font_cyan;5&font_end;pièces de &font_wood;bois&font_end; et rapportez les au &font_wood;Vieux Charpentier &font_end;vers &font_cyan;%1$d&font_end;, &font_cyan;%2$d &font_end;pour qu\'il puisse réparer l\'&font_wood;épave&font_end; !</string>
+    <string name="main_story_the_carpenter_second_dialog_1">Bonjour ! Avez-vous trouvé &font_cyan;5 &font_end;pièces de &font_wood;bois&font_end; ?</string>
     <string name="main_story_the_carpenter_second_dialog_1_not_enough">Oh, vous n\'en avez pas assez… Revenez quand vous aurez au moins &font_cyan;5 &font_end;pièces de &font_wood;Bois&font_end; !</string>
     <string name="main_story_the_carpenter_second_dialog_2">Oh, parfait ! Commençons immédiatement!</string>
-    <string name="main_story_the_carpenter_second_dialog_repairing_ship">&font_wood;Le Vieux Charpentier &font_end;est en train de réparer le &font_wood;Bateau&font_end;</string>
-    <string name="main_story_the_carpenter_third_dialog_1">J\'ai pas perdu la main, vous pouvez maintenant naviguer à travers les îles à la recherche d\'indices pour trouver &font_red;Le Tyran&font_end; ! Bonne chance, et merci pour tout !</string>
-    <string name="main_story_the_carpenter_end_dialog">Bonjour, héros ! Comment est-ce que la traque du&font_red;
+    <string name="main_story_the_carpenter_second_dialog_repairing_ship">&font_wood;Le Vieux Charpentier &font_end;est en train de réparer le &font_wood;bateau&font_end;</string>
+    <string name="main_story_the_carpenter_third_dialog_1">J\'ai pas perdu la main, vous pouvez maintenant naviguer à travers les îles à la recherche d\'indices pour trouver le &font_red;Tyran&font_end; ! Bonne chance, et merci pour tout !</string>
+    <string name="main_story_the_carpenter_end_dialog">Bonjour, héros ! Comment est-ce que la traque du &font_red;
         Tyran &font_end;se passe ?</string>
     <string name="main_story_4">Trouve des &font_cyan;indices&font_end; sur les faits et gestes du&font_red;
         Tyran&font_end;.</string>
-    <string name="main_story_5_dialog_message">Le &font_red;monstre &font_end;à laché un &font_cyan;Morceau De Carte&font_end;. Tu ne sais pas exactement ce que ça représente. Tu devrais en parler à un &font_cyan;Cartographe&font_end;.</string>
-    <string name="main_story_5">Parle avec un &font_cyan;Cartographe &font_end;à propos d\'un &font_cyan;Morceau De Carte &font_end;que tu as trouvé. Ça a peut être en lien avec &font_red;Le Tyran&font_end;.</string>
+    <string name="main_story_5_dialog_message">Le &font_red;monstre &font_end;à laché un &font_cyan;Morceau de Carte&font_end;. Tu ne sais pas exactement ce que ça représente. Tu devrais en parler à un &font_cyan;Cartographe&font_end;.</string>
+    <string name="main_story_5">Parle avec un &font_cyan;Cartographe &font_end;à propos d\'un &font_cyan;Morceau de Carte &font_end;que tu as trouvé. Ça a peut être en lien avec le &font_red;Tyran&font_end;.</string>
     <string name="shop_cartographer">Cartographe</string>
     <string name="main_story_cartographer_dialog_1">Bonjour ! Comment puis-je vous aider ?</string>
     <string name="main_story_cartographer_dialog_button_show_piece_of_map">Montrer le &font_cyan;Morceau de Carte&font_end;</string>
     <string name="main_story_cartographer_dialog_2">Oh mais… Est-ce que c\'est ce que je pense ? Je ne peux pas y croire !</string>
-    <string name="main_story_cartographer_dialog_3">C\'est l\'un des &font_cyan;Morceaux De Carte &font_end;de la légende! C\'est réel !</string>
+    <string name="main_story_cartographer_dialog_3">C\'est l\'un des &font_cyan;Morceaux de Carte &font_end;de la légende! C\'est réel !</string>
     <string name="main_story_cartographer_dialog_4">Désolé pour toute cette agitation… Je ne pensais jamais le voir de ma vie…</string>
     <string name="main_story_cartographer_dialog_5" tools:ignore="PluralsCandidate">En fait, la légende raconte que si tu rassembles les %1$d morceaux, tu seras capable de trouver &font_cyan;l\'Île&font_end;
         du &font_red;Tyran&font_end;… Du moins, je pensais que ce n\'était qu\'une légende, mais voici la preuve du contraire sous mes yeux…</string>
