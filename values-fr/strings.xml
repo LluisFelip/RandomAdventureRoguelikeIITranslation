@@ -854,7 +854,7 @@
     <string name="level_up_inventory_increase">&br;Ta &font_gold;Capacité de stockage &font_end;est à &font_gold;%1$d&font_end;</string>
     <string name="level_up_pets_increase">&br;Ta &font_pet;Capacité d\'élevage&font_end;
         est à &font_gold;%1$d&font_end;</string>
-    <string name="level_up_skill_point">&br;Tu as reçu &font_cyan;%1$d &font_end;de Point de Compétence.</string>
+    <string name="level_up_skill_point">&br;Tu as reçu &font_cyan;%1$d &font_end;de Point(s) de Compétences.</string>
 
     <string name="combat_monster_attacked_player">&font_red;%1$s &font_end;t\'attaque !&br;Tu reçois &font_red;%2$d &font_end;de dégâts !</string>
     <string name="combat_monster_action_attacked_player">&font_red;%1$s &font_end;t\'attaque avec son &font_red;%2$s&font_end; !&br;Tu reçois &font_red;%3$d &font_end;de dégâts !</string>
