@@ -168,7 +168,7 @@
     <string name="collection_monsters">Monstres</string>
     <string name="collection_island">Îles</string>
     <string name="collection_icon">Icône</string>
-    <string name="collection_merchants_mark">Marque de Marchand</string>
+    <string name="collection_merchants_mark">Marque du Marchand</string>
     <string name="collection_insects">Insectes</string>
     <string name="collection_animals">Animaux</string>
 
@@ -1728,13 +1728,13 @@
     <string name="stash_increase_title">Aggrandir l\'&font_wood;Entrepôt&font_end; ?</string>
     <string name="stash_increase_message" tools:ignore="PluralsCandidate">Veux-tu aggrandir le stockage de ton &font_wood;entrepôt &font_end;de &font_cyan;%1$d &font_end;à &font_cyan;%2$d&font_end; ? Ça te coûtera &font_gold;%3$d d\'or&font_end;.</string>
 
-    <string name="merchants_mark">Marque de Marchand &font_cyan;#%1$d&font_end;</string>
+    <string name="merchants_mark">Marque du Marchand &font_cyan;#%1$d&font_end;</string>
     <string name="merchant">Marchand</string>
     <string name="merchant_name">(&font_gold;%1$s&font_end;)</string>
     <string name="merchant_dialog_text">As-tu rapporté &font_cyan;%1$d&font_end; &lt;font color=\"%2$s\"&gt;%3$s &font_end;pour moi ?</string>
     <string name="merchant_giving_merchant_quest_message">Bonjour! Je recherche &font_cyan;%1$d &font_end;&lt;font color=\"%2$s\"&gt;%3$s&font_end;. Pourrais-tu m\'en apporter ? Je te donnerai quelque chose de très spécial en échange.</string>
     <string name="merchant_not_enough_materials">Tu n\'as pas assez d\'ingrédients…</string>
-    <string name="merchant_you_receive_the_merchants_mark">Tu reçois la Marque de Marchand &font_cyan;#%1$d&font_end; !</string>
+    <string name="merchant_you_receive_the_merchants_mark">Tu reçois la Marque du Marchand &font_cyan;#%1$d&font_end; !</string>
     <string name="merchant_dialog_text_mark_given">Tu m\'as déjà donné ce dont j\'avais besoin, merci !</string>
 
     <string name="witch_dialog_text">Salut… Je te passerai mon &font_witch;Chapeau de Sorcière &font_end;si tu me donnes &font_cyan;%1$d&font_end; &font_mushroom;Champignons&font_end;… et joues pas les malin ou je te transforme en rat !</string>
@@ -1878,7 +1878,7 @@
 
     <string name="merchant_master_marks_exchanged_message">Oh, c\'est encore vous… Merci pour votre contribution à la &font_gold;Guilde des Marchands&font_end;.</string>
     <string name="merchant_master_no_business_with_you">Je n\'ai aucune affaire à faire avec toi…</string>
-    <string name="merchant_master_marks_exchange_message">Oh, bonjour ! Je vois que vous avez une &font_cyan;Marque de Marchand&font_end;…&br;&br;Seriez vous intéressé(e) pour contribuer à la &font_gold;Guilde des Marchands&font_end; ? &font_cyan;%1$d&font_end; &font_cyan;Marques &font_end;devrait être assez.&br;&br;En échange, je vous offrirai ceci :&br;%2$s.</string>
+    <string name="merchant_master_marks_exchange_message">Oh, bonjour ! Je vois que vous avez une &font_cyan;Marque du Marchand&font_end;…&br;&br;Seriez vous intéressé(e) pour contribuer à la &font_gold;Guilde des Marchands&font_end; ? &font_cyan;%1$d&font_end; &font_cyan;Marques &font_end;devrait être assez.&br;&br;En échange, je vous offrirai ceci :&br;%2$s.</string>
     <string name="merchant_master_marks_exchange_success_message">Les voici ! Merci !&br;&br;Comme promis, ce %1$s est pour vous !&br;Oh, et bienvenue dans la &font_gold;Guilde des Marchands&font_end;…</string>
     <string name="merchant_master_not_enough">Je suis au regret de vous informer que tu n\'as pas assez de &font_cyan;Marques du Marchand &font_end;sur toi…&br;&br;Reviens quand tu auras assez de &font_cyan;%1$d&font_end;.</string>
 
