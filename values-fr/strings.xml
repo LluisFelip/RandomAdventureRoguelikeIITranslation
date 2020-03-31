@@ -316,7 +316,7 @@
     <string name="button_inventory_mode">Inventaire</string>
     <string name="button_stash_mode">Coffre</string>
     <string name="button_stash_increase_stash">Aggrandir le &font_wood;Coffre&font_end;</string>
-    <string name="button_scrap_per_gold">Scrap: &font_gold;%1$d&font_end; Gold</string>
+    <string name="button_scrap_per_gold">Morceler &font_gold;%1$d&font_end; d'or</string>
     <string name="button_feedback">&font_cyan;Avis&font_end;</string>
     <string name="button_blacksmith_upgrade_equipment">Améliorer &font_green;\*&font_end;Équipement</string>
     <string name="button_blacksmith_scrap_equipment">&font_copper;Morceler &font_end;Équipement</string>
