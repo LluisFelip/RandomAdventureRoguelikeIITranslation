@@ -1948,12 +1948,12 @@
 
     <string name="skill_tree_button_with_sp">Arbre de compétences (&font_cyan;%1$d&font_end;
         PC)</string>
-    <string name="skill_sacrificer">&font_cyan;Sacrifice&font_end;</string>
+    <string name="skill_sacrificer">&font_cyan;Sacrificateur&font_end;</string>
     <string name="skill_sacrificer_description">Tu peux sacrifier le corps d\'un monstre aux dieux. Ils te récompenderont en t\'offrant une petite quantité &font_gold;d\'or&font_end;.</string>
     <string name="skill_sacrificed_corpse_to_the_gods">%1$s sacrifié… Tu reçois mystérieusement &font_gold;%2$d &font_end;d\'or…</string>
     <string name="skill_points_needed_short">Coût : &font_cyan;%1$d&font_end; PC</string>
     <string name="skill_points_needed">&font_cyan;%1$d &font_end;Points de Compétence requis.</string>
-    <string name="skill_mule">&font_cyan;Mule&font_end;</string>
+    <string name="skill_mule">&font_cyan;Mulet&font_end;</string>
     <string name="skill_mule_description">Augmente le nombre d\'objets que tu peux porter par &bold;&font_cyan;5&font_end;&bold_end;</string>
     <string name="skill_vampire">&font_cyan;Vampire&font_end;</string>
     <string name="skill_vampire_description">Permet de boire le sang des monstres afin de récupérer des points de &font_health;vie&font_end;.</string>
