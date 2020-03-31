@@ -346,7 +346,7 @@
     <string name="inventory_equipment_levels_up_string">&font_green;\*&font_end;</string>
 
     <string name="status_health_two_dots">Barre de vie :</string>
-    <string name="status_mana_two_dots">Barre de Mana :</string>
+    <string name="status_mana_two_dots">Barre de mana :</string>
     <string name="status_hunger_two_dots">Barre de faim :</string>
     <string name="status_exp_two_dots">Exp :</string>
     <string name="status_data">Données</string>
@@ -1693,7 +1693,7 @@
     <string name="iron_bucket_pickup_mana">Tu as récupéré du &font_mana;mana &font_end;avec le &font_iron;seau&font_end;.</string>
     <string name="iron_bucket_put_out_firecamp_ash">Tu éteins le &font_attack;feu de camp &font_end;avec le &font_iron;seau&font_end;
         d\'&font_water;Eau&font_end;.</string>
-    <string name="iron_bucket_drank_mana">Tu as bu dans le &font_iron;Seau&font_end; de &font_mana;Mana&font_end;
+    <string name="iron_bucket_drank_mana">Tu as bu dans le &font_iron;seau&font_end; de &font_mana;mana&font_end;
         et tu as régénéré tout ton &font_mana;Mana&font_end;.</string>
 
     <string name="bank_welcome_message" tools:ignore="PluralsCandidate">Bienvenue à la %1$s !&br;&br;Nous gardons votre &font_gold;or &font_end;en sûreté ici.&br;&br;Vous avez actuellement &font_gold;%2$d d\'or &font_end;dans la %3$s.&br;</string>
@@ -1749,7 +1749,7 @@
     <string name="wizard_tower_dialog_message_3_no">Eh bien partez et ne me faites pas perdre mon temps !</string>
     <string name="wizard_tower_dialog_message_3_yes">Hahaha ! Et tu penses avoir ce qu\'il faut pour en devenir un ?</string>
     <string name="wizard_tower_dialog_message_4_no">Alors, qu\'est ce que vous faites là ? Vous gaspillez mon temps !</string>
-    <string name="wizard_tower_dialog_message_4_yes">Vous n\'avez pas l\'air très expérimenté avec la &font_mana;Magie&font_end;… En êtes vous sûr ?</string>
+    <string name="wizard_tower_dialog_message_4_yes">Vous n\'avez pas l\'air très expérimenté avec la &font_mana;magie&font_end;… En êtes vous sûr ?</string>
     <string name="wizard_tower_dialog_message_5_no">Hors de ma vue, vous me faites perdre mon temps !</string>
     <string name="wizard_tower_dialog_message_5_yes">Feras-tu tout ce qui est nécessaire pour devenir un &font_mana;Sorcier &font_end; ?</string>
     <string name="wizard_tower_dialog_message_6_no">Tu me fatigues, j\'ai eu une longue journée…</string>
@@ -1825,7 +1825,7 @@
     <string name="castle_king_message_4">Je vois…</string>
     <string name="castle_king_message_5">Oh, vous êtes toujours là ?</string>
     <string name="castle_king_message_6">Oh, et je suppose que tu attends quelque chose en retour…</string>
-    <string name="castle_king_message_7">Okay… tenez ! Maintenant, quittez mon &font_stone;Château &font_end; !</string>
+    <string name="castle_king_message_7">OK… tenez ! Maintenant, quittez mon &font_stone;Château &font_end; !</string>
     <string name="castle_king_gives_you_this">Le &font_gold;Roi&font_end;
         vous offre un(e) %1$s !</string>
     <string name="castle_message_royal_seal_message">Je vois que vous avez un &font_gold;Sceau Royal &font_end;du &font_gold;Roi&font_end;. Si vous m\'en donnez &font_cyan;%1$d &font_end;, je vous offrirais un &font_iron;Bouclier &font_end; &font_gold;Royal&font_end;
