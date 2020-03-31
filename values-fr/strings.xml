@@ -1724,7 +1724,7 @@
     <string name="stash_empty_message">Il n\'y a rien…</string>
     <string name="stash_title">&font_wood;Entrepôt&font_end; (&font_cyan;%1$d&font_end;/&font_cyan;%2$d&font_end;)</string>
     <string name="stash_inventory_title_stash">&font_wood;Inventaire&font_end; (&font_cyan;%1$d&font_end;/&font_cyan;%2$d&font_end;)</string>
-    <string name="stash_store_couldnt">Impossible de ranger le %1$s, L\'&font_wood;Entrepôt &font_end;est plein !</string>
+    <string name="stash_store_couldnt">Impossible de ranger le %1$s, L\'&font_wood;entrepôt &font_end;est plein !</string>
     <string name="stash_increase_title">Aggrandir l\'&font_wood;Entrepôt&font_end; ?</string>
     <string name="stash_increase_message" tools:ignore="PluralsCandidate">Veux-tu aggrandir le stockage de ton &font_wood;entrepôt &font_end;de &font_cyan;%1$d &font_end;à &font_cyan;%2$d&font_end; ? Ça te coûtera &font_gold;%3$d d\'or&font_end;.</string>
 
@@ -1839,7 +1839,7 @@
     <string name="not_enough_gold">Tu n\'as pas assez d\'or…</string>
     <string name="abandoned_house_text_question_enter_the">Entrer dans la %1$s ?</string>
     <string name="abandoned_house_you_find_nothing_in_the_">Tu n\'as rien trouvé dans la %1$s…</string>
-    <string name="portal_enter_mysterious_portal">Il y a un &font_portal;Portail&font_end; plutôt mystérieux… Y entrer ?</string>
+    <string name="portal_enter_mysterious_portal">Il y a un &font_portal;portail&font_end; plutôt mystérieux… Y entrer ?</string>
     <string name="portal_teleported_to_x_y">Tu as été téléporté en &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end; !</string>
     <string name="slave">Esclave</string>
     <string name="slave_runs_away">L\'%1$s a fui en laissant quelque chose derrière lui…</string>
@@ -1853,10 +1853,10 @@
     <string name="explorer_im_looking_for_an_island_soul">Salut ! Je suis un explorateur passionné. Je recherche un %1$s ! S\'il t\'arrivait de trouver cet objet, pourrais-tu me l\'apporter ?&br;&br;Je te donnerais un item &font_cyan;spécial &font_end;en échange !</string>
     <string name="explorer_already_given">Rebonjour ! Merci pour l\'%1$s ! Je n\'ai toujours pas réussi à trouver comment l\'utiliser… À bientôt, l\'ami !</string>
     <string name="explorer_gaven_you">L\'%1$s vous offre un(e) %2$s !</string>
-    <string name="waterfall_info">Il y a une magnifique &font_water;Chute d\'eau&font_end; près de vous. Tu la contemples un moment avant de reprendre ton aventure.</string>
+    <string name="waterfall_info">Il y a une magnifique &font_water;chute d\'eau&font_end; près de vous. Tu la contemples un moment avant de reprendre ton aventure.</string>
     <string name="sphinx_info">Tu observes l\'immense &font_pyramid;Sphinx &font_end;et es fasciné par sa taille et sa beauté. Ça semble plutôt vieux.</string>
-    <string name="text_ruins_info_not_explored">Tu te balades dans ces &font_ruins;Ruines &font_end;pendant un moment et avant de partir, tu remarques quelque chose !</string>
-    <string name="text_ruins_info_explored">Tu te balades pour la seconde fois dans les &font_ruins;Ruines&font_end;, mais il n\'y a rien d\'autre  à part des cailloux et de la poussière…</string>
+    <string name="text_ruins_info_not_explored">Tu te balades dans ces &font_ruins;ruines &font_end;pendant un moment et avant de partir, tu remarques quelque chose !</string>
+    <string name="text_ruins_info_explored">Tu te balades pour la seconde fois dans les &font_ruins;ruines&font_end;, mais il n\'y a rien d\'autre  à part des cailloux et de la poussière…</string>
     <string name="cabin_rest_in_the_question">Se reposer dans le %1$s ?</string>
     <string name="cabin_rest_in_the">Tu t\'es reposé dand le %1$s.</string>
     <string name="oasis_question_drink_from_the">Boire depuis l\'%1$s ?</string>
@@ -1965,7 +1965,7 @@
     <string name="skill_hiker">&font_cyan;Randonneur&font_end;</string>
     <string name="skill_hiker_description">Tu perds moins de nourriture en marchant.</string>
     <string name="skill_unbreakable">&font_cyan;Incassable&font_end;</string>
-    <string name="skill_unbreakable_description">Si l\'attaque du &font_red;Monstre &font_end;vient à te tuer, tu résistes et survis avec &font_health;1 &font_end;point de vie.</string>
+    <string name="skill_unbreakable_description">Si l\'attaque du &font_red;monstre &font_end;vient à te tuer, tu résistes et survis avec &font_health;1 &font_end;point de vie.</string>
     <string name="skill_unbreakable_skill_saves_you">Ta compétence &font_cyan;Incassable &font_end;vient de te sauver.</string>
     <string name="skill_berserk">&font_cyan;Berserker&font_end;</string>
     <string name="skill_berserk_description">En combat, utiliser la commande "Attaquer" augmente les dégâts de 10 % à chaque tour. Lorsqu\'une action différente de celle-ci est utilisée, le bonus &font_cyan;Berserker &font_end;est perdu.</string>
@@ -2030,19 +2030,19 @@
     <string name="spells_spell_damage">&br;Dégâts : &font_red;%1$d&font_end;%% &font_mana;Intelligence&font_end;</string>
     <string name="spells_casts_spell">Tu utilises %1$s !</string>
     <string name="spells_empty_message">Tu ne connais encore aucun &font_mana;sorts &font_end;…</string>
-    <string name="spell_fireball_name">&font_attack;Boule de Feu&font_end;</string>
-    <string name="spell_fireball_desc">Lance une &font_attack;boule de feu &font_end;à l\'ennemie. Peut &font_attack;brûler&font_end;.</string>
+    <string name="spell_fireball_name">&font_attack;Boule de feu&font_end;</string>
+    <string name="spell_fireball_desc">Lance une &font_attack;boule de feu &font_end;à l\'ennemi. Peut &font_attack;brûler&font_end;.</string>
     <string name="spell_fireball_desc_combat">Tu lance une &font_attack;boule de feu&font_end; vers %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
-    <string name="spell_firebreath_name">&font_attack;Souffle Enflammé&font_end;</string>
+    <string name="spell_firebreath_name">&font_attack;Souffle enflammé&font_end;</string>
     <string name="spell_firebreath_desc">Souffle un large cône de &font_attack;feu&font_end;. Peut &font_attack;brûler&font_end;.</string>
     <string name="spell_firebreath_desc_combat">Tu souffle du &font_attack;feu &font_end;, formant un immense cône vers %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
-    <string name="spell_flamethrower_name">&font_attack;Lance-Flamme&font_end;</string>
+    <string name="spell_flamethrower_name">&font_attack;Lance-flammes&font_end;</string>
     <string name="spell_flamethrower_desc">Envoie une énorme salve de &font_attack;flammes&font_end;. Peut &font_attack;brûler&font_end;.</string>
     <string name="spell_flamethrower_desc_combat">Tu envoies une énorme salve de &font_attack;flammes &font_end;vers %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
     <string name="spell_meteorite_name">&font_attack;Météorite&font_end;</string>
     <string name="spell_meteorite_desc">Invoque une grosse &font_attack;météorite&font_end; vers l\'ennemi. Peut &font_attack;brûler&font_end;.</string>
     <string name="spell_meteorite_desc_combat">Tu envoies une grosse &font_attack;météorite &font_end;vers %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
-    <string name="spell_firestorm_name">&font_attack;Tempête de Feu&font_end;</string>
+    <string name="spell_firestorm_name">&font_attack;Tempête de feu&font_end;</string>
     <string name="spell_firestorm_desc">Invoque une &font_attack;tempête de feu&font_end;. &font_attack;Brûle&font_end;
         toujours.</string>
     <string name="spell_firestorm_desc_combat">Tu envoies une puissante &font_attack;tempête de feu &font_end;vers %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
@@ -2061,7 +2061,7 @@
     <string name="spell_tsunami_name">&font_water;Tsunami&font_end;</string>
     <string name="spell_tsunami_desc">Invoque un puissant &font_water;tsunami&font_end;.</string>
     <string name="spell_tsunami_desc_combat">Tu envoies un puissant &font_water;tsunami &font_end;vers %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
-    <string name="spell_icebolt_name">&font_ice;Éclair de Glace&font_end;</string>
+    <string name="spell_icebolt_name">&font_ice;Éclair de glace&font_end;</string>
     <string name="spell_icebolt_desc">Lance un &font_ice;éclair givré&font_end;. Peut &font_ice;geler&font_end;.</string>
     <string name="spell_icebolt_desc_combat">Tu lances un &font_ice;éclair givré&font_end; sur %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
     <string name="spell_icespear_name">&font_ice;Lance de glace&font_end;</string>
@@ -2071,24 +2071,24 @@
     <string name="spell_icearmor_desc">Tu t\'encercle d\'une &font_ice;armure de crystal&font_end;. Lorsque l\'ennemi t\'attaque, il recevra des dégâts de glace.</string>
     <string name="spell_icearmor_desc_combat">Tu te crées une &font_ice;armure de crystal&font_end; !</string>
     <string name="spell_icearmor_is_gone">&font_ice;L\'armure de crystal&font_end; a fondu…</string>
-    <string name="spell_frostfire_name">&font_ice;Incendie Glacial&font_end;</string>
-    <string name="spell_frostfire_desc">Lance un &font_ice;Incendie Glacial&font_end;. Peut &font_ice;geler&font_end;.</string>
-    <string name="spell_frostfire_desc_combat">Tu utilises &font_ice;Incendie Glacial&font_end; vers %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
-    <string name="spell_freezingbomb_name">&font_ice;Bombe Givrante&font_end;</string>
+    <string name="spell_frostfire_name">&font_ice;Incendie glacial&font_end;</string>
+    <string name="spell_frostfire_desc">Lance un &font_ice;incendie glacial&font_end;. Peut &font_ice;geler&font_end;.</string>
+    <string name="spell_frostfire_desc_combat">Tu utilises &font_ice;incendie glacial&font_end; vers %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
+    <string name="spell_freezingbomb_name">&font_ice;Bombe givrante&font_end;</string>
     <string name="spell_freezingbomb_desc">Fais exploser une &font_ice;bombe givrante&font_end;. &font_ice;gèle&font_end;
         toujours.</string>
     <string name="spell_freezingbomb_desc_combat">Tu fais exploser une &font_ice;bombe givrante&font_end;
         vers %1$s! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
-    <string name="spell_windpush_name">&font_spell_wind;Poussée Aérienne&font_end;</string>
+    <string name="spell_windpush_name">&font_spell_wind;Poussée aérienne&font_end;</string>
     <string name="spell_windpush_desc">Pousse l\'adversaire en utilisant le &font_spell_wind;vent&font_end;. Peut &font_spell_wind;bloquer&font_end;.</string>
     <string name="spell_windpush_desc_combat">Tu pousses %1$s avec la &font_spell_wind;poussée aérienne&font_end; ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
-    <string name="spell_windslap_name">&font_spell_wind;Gifle Aérienne&font_end;</string>
+    <string name="spell_windslap_name">&font_spell_wind;Gifle aérienne&font_end;</string>
     <string name="spell_windslap_desc">Gifle l\'ennemi en utilisant du &font_spell_wind;vent&font_end;.</string>
     <string name="spell_windslap_desc_combat">Tu gigle %1$s avec &font_spell_wind;Gifle Aérienne&font_end; ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
-    <string name="spell_airwave_name">&font_spell_wind;Vague d\'Air&font_end;</string>
+    <string name="spell_airwave_name">&font_spell_wind;Vague d\'air&font_end;</string>
     <string name="spell_airwave_desc">Balance une immense &font_spell_wind;vague d\'air&font_end;. Peut &font_spell_wind;bloquer&font_end;.</string>
     <string name="spell_airwave_desc_combat">Tu invoques une &font_spell_wind;vague d\'air &font_end;sur %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
-    <string name="spell_windhole_name">&font_spell_wind;Percée Aérienne&font_end;</string>
+    <string name="spell_windhole_name">&font_spell_wind;Percée aérienne&font_end;</string>
     <string name="spell_windhole_desc">Invoque une &font_spell_wind;percée aérienne&font_end;, attaque léthale.</string>
     <string name="spell_windhole_desc_combat">Tu lances une &font_spell_wind;percée aérienne &font_end;sur %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
     <string name="spell_tornado_name">&font_spell_wind;Tornade&font_end;</string>
@@ -2097,7 +2097,7 @@
     <string name="spell_electricjolt_name">&font_electric;Électrochoc&font_end;</string>
     <string name="spell_electricjolt_desc">Frappe avec une secousse &font_electric;électrique&font_end;. Peut &font_electric;paralyser&font_end;.</string>
     <string name="spell_electricjolt_desc_combat">Tu frappes %1$s avec des &font_electric;électrochocs&font_end; ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
-    <string name="spell_electricwhip_name">&font_electric;Fouet Électrique&font_end;</string>
+    <string name="spell_electricwhip_name">&font_electric;Fouet électrique&font_end;</string>
     <string name="spell_electricwhip_desc">Tranche avec un &font_electric;fouet électrique&font_end;. Peut &font_electric;paralyser&font_end;.</string>
     <string name="spell_electricwhip_desc_combat">Tu tranches %1$s avec un &font_electric;fouet électrique&font_end; ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
     <string name="spell_lightningshout_name">&font_electric;Onde Sonore Électrique&font_end;</string>
@@ -2105,13 +2105,13 @@
     <string name="spell_lightningshout_desc_combat">Tu envoies une &font_electric;onde sonore électrique&font_end;
         dévastatrice en direction de %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
     <string name="spell_thunder_name">&font_electric;Orage&font_end;</string>
-    <string name="spell_thunder_desc">Invoque un &font_electric;Éclair&font_end;. Peut &font_electric;paralyser&font_end;.</string>
+    <string name="spell_thunder_desc">Invoque un &font_electric;éclair&font_end;. Peut &font_electric;paralyser&font_end;.</string>
     <string name="spell_thunder_desc_combat">Tu invoques un &font_electric;éclair &font_end;sur %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
     <string name="spell_electricstorm_name">&font_electric;Orage&font_end;</string>
     <string name="spell_electricstorm_desc">Invoque un &font_electric;orage&font_end;
         très puissant. &font_electric;Paralyse&font_end; à coup sûr.</string>
     <string name="spell_electricstorm_desc_combat">Tu invoques un &font_electric;orage &font_end;très puissant sur %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
-    <string name="spell_capture_monster_name">&font_pet;Capture&font_end;
+    <string name="spell_capture_monster_name">&font_pet;Capturer&font_end;
         de &font_red;Monstre&font_end;</string>
     <string name="spell_capture_monster_desc">Tentative de &font_pet;capturer &font_end;l\'adversaire afin de le ralier à ta cause, il deviendra un &font_pet;Compagnon&font_end;. Plus le niveau de cette compétence est élevé, plus tu as de chance de le capturer.</string>
     <string name="spell_capture_monster_combat_success">&font_green;Succès&font_end; ! %1$s te rejoindra après que tu l\'aies vaincu.</string>
@@ -2465,7 +2465,7 @@
     <string name="achievement_name_employee_of_the_month">Employé du mois</string>
     <string name="achievement_name_full_equip">Équipement plein</string>
     <string name="achievement_name_traveller">Voyageur</string>
-    <string name="achievement_name_willy_fog">Le Tour du Monde en 80 Jours</string>
+    <string name="achievement_name_willy_fog">Le Tour du monde en 80 Jours</string>
     <string name="achievement_name_explorer">Explorateur</string>
     <string name="achievement_name_completionist">Complétioniste</string>
     <string name="achievement_name_isnt_it_cute">Comme il est mignon !</string>
@@ -2480,10 +2480,10 @@
     <string name="achievement_name_craft_master">Maître astisan</string>
     <string name="achievement_name_good_things_come_in_trees">Toutes les bonnes choses vont par bois</string>
     <string name="achievement_name_woodcutter">Bûcheron</string>
-    <string name="achievement_name_lumberjack">Maître Bûcheron</string>
+    <string name="achievement_name_lumberjack">Maître bûcheron</string>
     <string name="achievement_name_is_this_mine">Cete mine est mienne ?</string>
     <string name="achievement_name_haulier">Mineur</string>
-    <string name="achievement_name_miner">Maître Mineur</string>
+    <string name="achievement_name_miner">Maître mineur</string>
     <string name="achievement_name_its_mine">Cette mine est mienne !</string>
     <string name="achievement_name_better_fish_to_fry">Naît-on pêcheur… ?</string>
     <string name="achievement_name_seems_a_bit_fishy_to_me">…ou le devient-thon ?</string>
@@ -2491,7 +2491,7 @@
     <string name="achievement_name_does_it_bug_you">Colectionneur d\'insectes</string>
     <string name="achievement_name_bug_hunter">Chasseur d\'insectes</string>
     <string name="achievement_name_entomologist">Entomologiste</string>
-    <string name="achievement_name_nice_to_meat_you">Bon Appétit</string>
+    <string name="achievement_name_nice_to_meat_you">Bon appétit !</string>
     <string name="achievement_name_meat_me_half_way">Gourmand</string>
     <string name="achievement_name_butcherer">Boucher</string>
     <string name="achievement_name_the_fast_and_the_furrious">Écorché</string>
@@ -2500,7 +2500,7 @@
     <string name="achievement_name_blacksmith">Forgeron</string>
     <string name="achievement_name_romantic">Romantique</string>
     <string name="achievement_name_merchant">Marchand</string>
-    <string name="achievement_name_merchant_master">Maître Marchand</string>
+    <string name="achievement_name_merchant_master">Maître marchand</string>
     <string name="achievement_name_well_done">Bien joué</string>
     <string name="achievement_name_bomberman">Bomberman</string>
     <string name="achievement_name_dont_touch_this">On touche avec les yeux</string>
@@ -2517,18 +2517,18 @@
     <string name="achievement_name_gotta_catch_em_all">Attrapez-les tous !</string>
 
     <string name="achievement_desc_to_die_is_fun">Meurs pour la première fois</string>
-    <string name="achievement_desc_the_first_of_many_to_come">Progresse d'\un niveau pour la première fois</string>
-    <string name="achievement_desc_stronger">Progresse jusqu'\au niveau 10</string>
-    <string name="achievement_desc_the_strongest">Progresse jusqu'\au niveau 10<</string>
-    <string name="achievement_desc_broke">Aie 0 or</string>
-    <string name="achievement_desc_wealthy">Aie 10000 or lors d'\une seule partie</string>
-    <string name="achievement_desc_filthy_rich">Aie 100000 or lors d'\une seule partie</string>
+    <string name="achievement_desc_the_first_of_many_to_come">Monte d'\un niveau pour la première fois</string>
+    <string name="achievement_desc_stronger">Monte jusqu'\au niveau 10</string>
+    <string name="achievement_desc_the_strongest">Monte jusqu'\au niveau 10<</string>
+    <string name="achievement_desc_broke">Obtiens 0 or</string>
+    <string name="achievement_desc_wealthy">Obtiens 10 000 or lors d'\une seule partie</string>
+    <string name="achievement_desc_filthy_rich">Obtiens 100 000 or lors d'\une seule partie</string>
     <string name="achievement_desc_killer">Tue 10 monstres lors d'\une seule partie</string>
     <string name="achievement_desc_assassin">Tue 100 monstres lors d'\une seule partie</string>
-    <string name="achievement_desc_terminator">Tue 1000 monstres lors d'\une seule partie</string>
+    <string name="achievement_desc_terminator">Tue 1 000 monstres lors d'\une seule partie</string>
     <string name="achievement_desc_questor">Complète 10 quêtes lors d'\une seule partie</string>
     <string name="achievement_desc_hard_worker">Complète 100 quêtes lors d'\une seule partie</string>
-    <string name="achievement_desc_employee_of_the_month">Complète 1000 quêtes lors d'\une seule partie</string>
+    <string name="achievement_desc_employee_of_the_month">Complète 1 000 quêtes lors d'\une seule partie</string>
     <string name="achievement_desc_full_equip">Porte tous les types de pièces d'/armure, maniant une épée et un bouclier</string>
     <string name="achievement_desc_traveller">Voyage à une nouvelle île pour la première fois</string>
     <string name="achievement_desc_willy_fog">Découvre 80 îles lors d'\une seule partie</string>
