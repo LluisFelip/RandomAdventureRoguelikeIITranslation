@@ -119,12 +119,12 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
 
     <plurals name="quest_kill_monsters_text_giving">
-        <item quantity="one">J\'ai besoin que tu me débarrasse de %1$s %2$s </item>
-        <item quantity="other">J\'ai besoin que tu me débarrasse des %1$s %2$s </item>
+        <item quantity="one">J\'ai besoin que tu me débarrasses de %1$s %2$s </item>
+        <item quantity="other">J\'ai besoin que tu me débarrasses des %1$s %2$s </item>
     </plurals>
     <plurals name="quest_kill_monsters_text_quest_screen">
-        <item quantity="one">Élimine %1$s %2$s </item>
-        <item quantity="other">Élimine les %1$s %2$s </item>
+        <item quantity="one">Éliminer %1$s %2$s </item>
+        <item quantity="other">Éliminer les %1$s %2$s </item>
     </plurals>
 
     <string name="menu_new_game">Nouvelle partie</string>
@@ -193,16 +193,16 @@
     <string name="advantage_blacksmith">&font_silver;Forgeron&font_end;</string>
     <string name="advantage_noble">&font_gold;Noble&font_end;</string>
     <string name="advantage_random_desc">(Vous recevrez un talent aléatoire)</string>
-    <string name="advantage_warrior_desc">(Vous commencerez avec une &font_attack;Arme&font_end;, un &font_defense;Bouclier&font_end;, et un morceau d\'&font_defense;Armure&font_end;)</string>
-    <string name="advantage_wizard_desc">(Vous commencerez avec un &font_mana;Sort &font_end;aléatoire)</string>
-    <string name="advantage_cleric_desc">(Vous commencerez avec un &font_mana;Sort &font_end;de &font_health;Soin&font_end;)</string>
-    <string name="advantage_petmaster_desc">(Vous commencerez avec le &font_mana;Sort &font_end;de &font_pet;Capture &font_end;de &font_red;Monstre &font_end;et un CR &font_cyan;0&font_end; &font_pet;Compagnon&font_end; &font_red;Monster&font_end;)</string>
+    <string name="advantage_warrior_desc">(Vous commencerez avec une &font_attack;arme&font_end;, un &font_defense;bouclier&font_end;, et un morceau d\'&font_defense;armure&font_end;)</string>
+    <string name="advantage_wizard_desc">(Vous commencerez avec un &font_mana;sort &font_end;aléatoire)</string>
+    <string name="advantage_cleric_desc">(Vous commencerez avec un &font_mana;sort &font_end;de &font_health;soin&font_end;)</string>
+    <string name="advantage_petmaster_desc">(Vous commencerez avec le &font_mana;sort &font_end;de &font_pet;capture &font_end;de &font_red;monstre &font_end;et un CR &font_cyan;0&font_end; &font_pet;compagnon&font_end; &font_red;monstre&font_end;)</string>
     <string name="advantage_worker_desc">(Vous commencerez avec un &font_cyan;Outil&font_end; au hasard)</string>
     <string name="advantage_alchemist_desc">(Vous commencerez en sachant préparer &font_cyan;1 &font_end;type de potion et vous recevrez &font_cyan;3 &font_end;matériaux aléatoires)</string>
-    <string name="advantage_blacksmith_desc">(Vous commencerez en sachant créer une &font_attack;Arme&font_end;, un &font_defense;Bouclier&font_end;, une piece d\'&font_defense;Armure &font_end;et tu recevras &font_cyan;3 &font_end;des matériaux aléatoires)</string>
-    <string name="advantage_noble_desc">(Vous commencerez avec plus d\'&font_gold;Or&font_end;)</string>
+    <string name="advantage_blacksmith_desc">(Vous commencerez en sachant créer une &font_attack;arme&font_end;, un &font_defense;bouclier&font_end;, une piece d\'&font_defense;armure &font_end;et vous recevrez &font_cyan;3 &font_end;des matériaux aléatoires)</string>
+    <string name="advantage_noble_desc">(Vous commencerez avec plus d\'&font_gold;or&font_end;)</string>
     <string name="advantage_random_selected">Vous êtes: %1$s !</string>
-    <string name="advantage_ranger_desc">(Vous commencerez avec une arme à &font_speed;Distance &font_end;et quelques munitions)</string>
+    <string name="advantage_ranger_desc">(Vous commencerez avec une arme à &font_speed;distance &font_end;et quelques munitions)</string>
 
     <string name="new_game_permadeath_question">Sélection difficulté</string>
     <string name="new_game_permadeath_selected">Mode &font_red;&bold;MORT PERMANANTE&bold_end; &font_end;selectionné.&br;&br;Si vous &font_red;mourez&font_end;, vous &font_cyan;perdrez tout &font_end;et vous devrez &font_cyan;tout recommencer&font_end;! uwu</string>
@@ -211,7 +211,7 @@
 
     <string name="cemetery_clear">Supprimer</string>
     <string name="cemetery_cancel">Annuler</string>
-    <string name="cemetery_clear_title">Êtes-vous sûr ?</string>
+    <string name="cemetery_clear_title">Êtes-vous sûr ?</string>
     <string name="cemetery_remove_player">Supprimer ce personnage ?</string>
     <string name="cemetery_permadeath">(&font_red;P&font_end;)</string>
     <string name="cemetery_no_permadeath">(&font_green;NP&font_end;)</string>
@@ -246,7 +246,7 @@
     <string name="button_talk">Parler</string>
     <string name="button_sell">Vendre</string>
     <string name="button_buy">Acheter</string>
-    <string name="button_complete">Compléter</string>
+    <string name="button_complete">Terminer</string>
     <string name="button_back">Retour</string>
     <string name="button_ok">OK</string>
     <string name="button_no">Non</string>
@@ -315,13 +315,13 @@
     <string name="button_sort_by_price">Trier (Prix)</string>
     <string name="button_inventory_mode">Inventaire</string>
     <string name="button_stash_mode">Coffre</string>
-    <string name="button_stash_increase_stash">Aggrandir le &font_wood;Coffre&font_end;</string>
+    <string name="button_stash_increase_stash">Aggrandir le &font_wood;coffre&font_end;</string>
     <string name="button_scrap_per_gold">Morceler &font_gold;%1$d&font_end; d'or</string>
     <string name="button_feedback">&font_cyan;Avis&font_end;</string>
-    <string name="button_blacksmith_upgrade_equipment">Améliorer &font_green;\*&font_end;Équipement</string>
-    <string name="button_blacksmith_scrap_equipment">&font_copper;Morceler &font_end;Équipement</string>
-    <string name="button_blacksmith_craft_bars">Fabriquer des &font_gold;Barres&font_end;</string>
-    <string name="button_scrap">Scrap</string>
+    <string name="button_blacksmith_upgrade_equipment">Améliorer &font_green;\*&font_end;équipement</string>
+    <string name="button_blacksmith_scrap_equipment">&font_copper;Morceler &font_end;équipement</string>
+    <string name="button_blacksmith_craft_bars">Fabriquer des &font_gold;barres&font_end;</string>
+    <string name="button_scrap">Morceler</string>
 
     <string name="inventory_title">Inventaire</string>
     <string name="inventory_removed_equipment">%1$s supprimé.</string>
@@ -352,7 +352,7 @@
     <string name="status_data">Données</string>
     <string name="status_monsters_killed">Monstres tués : &font_attack;%1$d&font_end;</string>
     <string name="status_quests_completed">Quêtes terminées : &font_cyan;%1$d&font_end;</string>
-    <string name="status_islands_visited_completed">Îles &font_cyan;Visitées &font_end;/&font_health;Explorées&font_end;/&font_purifying;Purifiées&font_end;: &font_cyan;%1$d&font_end;/&font_health;%2$d&font_end;/&font_purifying;%3$d&font_end;</string>
+    <string name="status_islands_visited_completed">Îles &font_cyan;visitées &font_end;/&font_health;explorées&font_end;/&font_purifying;purifiées&font_end;: &font_cyan;%1$d&font_end;/&font_health;%2$d&font_end;/&font_purifying;%3$d&font_end;</string>
     <string name="status_pets_captured">Compagnons capturés : &font_pet;%1$d&font_end;</string>
     <string name="status_animals_befriended">Animaux liés d\'amitié : &font_pet;%1$d&font_end;</string>
     <string name="status_crafting_recipes">Recettes de fabrication : &font_cyan;%1$d&font_end;</string>
@@ -407,13 +407,13 @@
     <string name="settings_sound">Son</string>
     <string name="settings_music">Musique</string>
 
-    <string name="item_heal_potion">Potion de &font_health;Soin&font_end;</string>
-    <string name="item_mana_potion">Potion de &font_mana;Mana&font_end;</string>
-    <string name="item_experience_potion">Potion d\'&font_cyan;Expérience&font_end;</string>
+    <string name="item_heal_potion">Potion de &font_health;soin&font_end;</string>
+    <string name="item_mana_potion">Potion de &font_mana;mana&font_end;</string>
+    <string name="item_experience_potion">Potion d\'&font_cyan;expérience&font_end;</string>
     <string name="item_temporary_potion">&font_white;[Temporaire]&font_end;</string>
-    <string name="item_heal_potion_amount">Potion de &font_health;Soin&font_end; (&font_health;%1$d&font_end;)</string>
-    <string name="item_mana_potion_amount">Potion de &font_mana;Mana&font_end; (&font_mana;%1$d&font_end;)</string>
-    <string name="item_experience_potion_amount">Potion d\'&font_cyan;Expérience&font_end; (&font_cyan;%1$d&font_end;)</string>
+    <string name="item_heal_potion_amount">Potion de &font_health;soin&font_end; (&font_health;%1$d&font_end;)</string>
+    <string name="item_mana_potion_amount">Potion de &font_mana;mana&font_end; (&font_mana;%1$d&font_end;)</string>
+    <string name="item_experience_potion_amount">Potion d\'&font_cyan;expérience&font_end; (&font_cyan;%1$d&font_end;)</string>
     <string name="item_temporary_potion_amount">%1$s &font_white;[Temporaire]&font_end; (&font_cyan;%2$d&font_end;)</string>
     <string name="item_shield">Bouclier</string>
     <string name="item_monster_flesh">&font_red;Chair de %1$s&font_end;</string>
@@ -422,14 +422,14 @@
     <string name="item_dark_orb">Orbe Sombre</string>
     <string name="item_magic_stone_transformed_item">Transformé de %1$s à %2$s !</string>
 
-    <string name="purifying_seed_plant_message">&font_plant;Graine &font_end;d\'une plante de &font_purifying;Purification &font_end; ?&br;&br;Lorsqu'elle se transforme en &font_wood;Arbre &font_end;de &font_purifying;Purification &font_end;, il empêchera les monstres de réapparaître sur cette île.&br;&br;N\'oubliez pas de l\'arroser avec un &font_iron;Seau&font_end; &font_water;d\'Eau &font_end;pour le faire grandir.</string>
+    <string name="purifying_seed_plant_message">&font_plant;Graine &font_end;d\'une plante de &font_purifying;purification &font_end; ?&br;&br;Lorsqu'elle se transforme en &font_wood;arbre &font_end;de &font_purifying;purification &font_end;, il empêchera les monstres de réapparaître sur cette île.&br;&br;N\'oubliez pas de l\'arroser avec un &font_iron;seau&font_end; &font_water;d\'eau &font_end;pour le faire grandir.</string>
     <string name="purifying_seed_island_already_purified">Une grande force magique vous empêche de la planter… (L\'île est déjà purifiée…)</string>
-    <string name="purifying_seed_island_already_planted_purified_seed">Une force magique grandissante vous empêche de la planter… (L\'île possède déjà une &font_plant;Graine &font_end;de &font_purifying;Purification&font_end;…)</string>
-    <string name="purifying_seed_planted">Vous avez planté la &font_plant;Graine &font_end;de &font_purifying;Purification&font_end;.</string>
-    <string name="purifying_seed_watered_magically_grows">La &font_plant;Graine &font_end;de &font_purifying;Purification&font_end;
-        a magiquement grandi en un magnifique &font_wood;Arbre &font_end;de &font_purifying;Purification&font_end; ! Alors que la sensation d\'un danger constant disparaît, l\'île est désormais purifiée et hors de danger.</string>
-    <string name="purifying_tree_chop_title">Couper l\'&font_wood;Arbre &font_end;de &font_purifying;Purification&font_end; ?</string>
-    <string name="purifying_tree_chop_message">Si vous coupez l\'&font_wood;Arbre &font_end;de &font_purifying;Purification&font_end;, l\'île sera désormais exposée et les monstres recommenceront leur carnage…</string>
+    <string name="purifying_seed_island_already_planted_purified_seed">Une force magique grandissante vous empêche de la planter… (L\'île possède déjà une &font_plant;graine &font_end;de &font_purifying;purification&font_end;…)</string>
+    <string name="purifying_seed_planted">Vous avez planté la &font_plant;graine &font_end;de &font_purifying;purification&font_end;.</string>
+    <string name="purifying_seed_watered_magically_grows">La &font_plant;graine &font_end;de &font_purifying;purification&font_end;
+        a magiquement grandi en un magnifique &font_wood;arbre &font_end;de &font_purifying;purification&font_end; ! Alors que la sensation d\'un danger constant disparaît, l\'île est désormais purifiée et hors de danger.</string>
+    <string name="purifying_tree_chop_title">Couper l\'&font_wood;arbre &font_end;de &font_purifying;purification&font_end; ?</string>
+    <string name="purifying_tree_chop_message">Si vous coupez l\'&font_wood;arbre &font_end;de &font_purifying;purification&font_end;, l\'île sera désormais exposée et les monstres recommenceront leur carnage…</string>
     <string name="purifying_tree_island_no_longer_purified">L\'île n\'est plus purifiée… Vous pouvez déjà sentir des présences menaçantes arriver…</string>
     <string name="purifying_tree_text_purified_label">{ &font_purifying;Purifié &font_end;}</string>
 
@@ -444,15 +444,15 @@
     <string name="material_gold_eq">&font_gold;Or&font_end;</string>
     <string name="material_diamond_eq">&font_diamond;Diamant&font_end;</string>
     <string name="material_obsidian_eq">&font_obsidian;Obsidienne&font_end;</string>
-    <string name="material_glassbottle">Bouteille de &font_glass;Verre&font_end;</string>
-    <string name="material_silver_ore">Minerai de&font_silver;Silver&font_end;</string>
-    <string name="material_gold_ore">Minerai d\'&font_gold;Or&font_end;</string>
-    <string name="material_copper_bar">Lingot de &font_copper;Cuivre&font_end;</string>
+    <string name="material_glassbottle">Bouteille de &font_glass;verre&font_end;</string>
+    <string name="material_silver_ore">Minerai d\'&font_silver;argent&font_end;</string>
+    <string name="material_gold_ore">Minerai d\'&font_gold;or&font_end;</string>
+    <string name="material_copper_bar">Lingot de &font_copper;cuivre&font_end;</string>
     <string name="material_tin_bar">Lingot de &font_tin;Tin&font_end;</string>
-    <string name="material_iron_bar">Lingot de &font_iron;Fer&font_end;</string>
-    <string name="material_bronze_bar">Lingot de &font_bronze;Bronze&font_end;</string>
-    <string name="material_silver_bar">Lingot d\'&font_silver;Argent&font_end;</string>
-    <string name="material_gold_bar">Lingot d\'&font_gold;Or&font_end;</string>
+    <string name="material_iron_bar">Lingot de &font_iron;fer&font_end;</string>
+    <string name="material_bronze_bar">Lingot de &font_bronze;bronze&font_end;</string>
+    <string name="material_silver_bar">Lingot d\'&font_silver;argent&font_end;</string>
+    <string name="material_gold_bar">Lingot d\'&font_gold;or&font_end;</string>
     <string name="material_diamond">&font_diamond;Diamant&font_end;</string>
     <string name="material_obsidian">&font_obsidian;Obsidienne&font_end;</string>
     <string name="material_gunpowder">&font_gunpowder;Poudre à canon&font_end;</string>
@@ -460,11 +460,11 @@
     <string name="material_date">&font_date;Datte&font_end;</string>
     <string name="material_nut">&font_nut;Noix&font_end;</string>
     <string name="material_stone">&font_stone;Pierre&font_end;</string>
-    <string name="material_copper_ore">Minerai de &font_copper;Cuivre&font_end;</string>
+    <string name="material_copper_ore">Minerai de &font_copper;cuivre&font_end;</string>
     <string name="material_tin_ore">Minerai de &font_tin;Tin&font_end;</string>
-    <string name="material_iron">Minerai de &font_iron;Fer&font_end;</string>
+    <string name="material_iron">Minerai de &font_iron;fer&font_end;</string>
     <string name="material_wood">&font_wood;Bois&font_end;</string>
-    <string name="material_coconut">Noix de &font_coconut;Coco&font_end;</string>
+    <string name="material_coconut">Noix de &font_coconut;coco&font_end;</string>
     <string name="material_plant">&font_plant;Plante&font_end;</string>
     <string name="material_sand">&font_sand;Sable&font_end;</string>
     <string name="material_stick">&font_wood;Bâton&font_end;</string>
@@ -489,11 +489,11 @@
     <string name="material_yang_piece">Morceau de &font_white;Yang&font_end;</string>
     <string name="material_yin">&font_black_low;Yin&font_end;</string>
     <string name="material_yang">&font_white;Yang&font_end;</string>
-    <string name="material_volcanic_stone">&font_stone;Pierre&font_end; &font_volcano;Volcanique&font_end;</string>
-    <string name="material_icy_stone">&font_stone;Pierre&font_end; &font_icy;Gelée&font_end;</string>
+    <string name="material_volcanic_stone">&font_stone;Pierre&font_end; &font_volcano;volcanique&font_end;</string>
+    <string name="material_icy_stone">&font_stone;Pierre&font_end; &font_icy;gelée&font_end;</string>
 
     <string name="item_info_material_edible">Peut être consommé pour récupérer &font_hunger;%1$d &font_end;de faim.</string>
-    <string name="item_info_royal_seal">Un &font_gold;Sceau Royal&font_end; pouvant être utilisé pour acheter quelque chose de très spécial…</string>
+    <string name="item_info_royal_seal">Un &font_gold;sceau royal&font_end; pouvant être utilisé pour acheter quelque chose de très spécial…</string>
     <string name="item_info_armor">Portez ceci pour améliorer vos statistiques.&br;%1$s&br;%2$s</string>
     <string name="item_info_weapon">Portez ceci pour être plus puissant face aux monstres.&br;%1$s&br;%2$s</string>
     <string name="item_info_shield">Portez ceci pour vous protéger plus efficacement face aux monstres.&br;%1$s&br;%2$s</string>
@@ -504,26 +504,26 @@
     <string name="item_info_potion">Buvez cette mixture pour récupérer %1$s de vie.</string>
     <string name="item_info_mana_potion">Buvez cette mixture pour récupérer %1$s de mana.</string>
     <string name="item_info_experience_potion">Buvez cette mixture pour gagner %1$s d\'&font_cyan;expérience &font_end;instantanément.</string>
-    <string name="item_info_material">Un matériel de base utilisée lors de la &font_cyan;Création &font_end;de divers objets.</string>
+    <string name="item_info_material">Un matériel de base utilisée lors de la &font_cyan;création &font_end;de divers objets.</string>
     <string name="item_info_merchants_mark">Ce symbole spécial pourrait avoir de la valeur pour quelque chose ou quelqu\'un…</string>
     <string name="item_info_tool_chopping_axe">Utilisez ça pour &font_wood;couper &font_end;
         des &font_wood;arbres &font_end;et obtenir du &font_wood;Bois&font_end;.</string>
     <string name="item_info_tool_pickaxe">Utilisez ça pour &font_stone;miner &font_end;et récupérer de la &font_stone;Pierre &font_end;et d\'autres minéraux.</string>
     <string name="item_info_tool_fishing_rod">Utilisez ça pour &font_cyan;pêcher&font_end;
-        dans un &font_cyan;Endroit &font_end; pour &font_cyan;Pêcher&font_end;</string>
+        dans un &font_cyan;endroit &font_end; pour &font_cyan;pêcher&font_end;</string>
     <string name="item_info_tool_net">Utilisez ça pour capturer un &font_insect;insecte&font_end;.</string>
-    <string name="item_info_tool_skinning_knife">Utilisez ça pour &font_skin;découper &font_end;un &font_green;corps de monstre &font_end;pour essayer d\'obtenir sa &font_skin;Peau&font_end;.</string>
-    <string name="item_info_tool_meat_cleaver">Utilisez ça hacher un &font_green;corps de monstre &font_end;et essayer d\'obtenir de la &font_green;Chair de Monstre&font_end;.</string>
+    <string name="item_info_tool_skinning_knife">Utilisez ça pour &font_skin;découper &font_end;un &font_green;corps de monstre &font_end;pour essayer d\'obtenir sa &font_skin;peau&font_end;.</string>
+    <string name="item_info_tool_meat_cleaver">Utilisez ça hacher un &font_green;corps de monstre &font_end;et essayer d\'obtenir de la &font_green;chair de monstre&font_end;.</string>
     <string name="item_info_monster_flesh_edible">Consommez ceci pour diminuer votre faim de &font_green;%1$d&font_end;.</string>
-    <string name="item_info_monster_flesh_not_edible">Cuisinez ça dans un &font_attack;Feu de camp &font_end;pour être capable de le manger.</string>
+    <string name="item_info_monster_flesh_not_edible">Cuisinez ça dans un &font_attack;feu de camp &font_end;pour être capable de le manger.</string>
     <string name="item_info_nautical_chart">Utilisé par les marins pour naviguer vers un &font_cyan;type&font_end;
         d\'île bien précis.</string>
     <string name="item_info_whetstone">Utilisez cet objet pour réparer n\'importe quel &font_cyan;Outil&font_end;.</string>
-    <string name="item_info_pet_collar">Dirigez-vous vers la liste des &font_pet;Compagnons&font_end;
-        pour pouvoir le mettre sur un &font_pet;Compagnon &font_end;et être capable de le renommer !</string>
-    <string name="item_info_magic_stone">Utilise ceci pour échanger la force et l\'intelligence de n\'importe quel équipement.</string>
+    <string name="item_info_pet_collar">Dirigez-vous vers la liste des &font_pet;compagnons&font_end;
+        pour pouvoir le mettre sur un &font_pet;compagnon &font_end;et être capable de le renommer !</string>
+    <string name="item_info_magic_stone">Utilisez ceci pour échanger la force et l\'intelligence de n\'importe quel équipement.</string>
     <string name="item_info_island_soul">La mystérieuse âme de l\'île…</string>
-    <string name="item_info_spellbook">Lit ce livre pour maîtriser le sort qu\'il contient : %1$s.</string>
+    <string name="item_info_spellbook">Lisez ce livre pour maîtriser le sort qu\'il contient : %1$s.</string>
     <string name="item_info_teleport_stone">Utilise cette pierre pour revenir au dernier &font_inn;Hotel &font_end;où tu t\'es dernièrement reposé sur cette &font_cyan;île&font_end;.</string>
     <string name="item_info_piece_of_map">Un &font_cyan;Morceau De Carte&font_end;. Tu en aura besoin de plus si tu veux savoir ce qu\'elle contient…</string>
     <string name="item_info_dark_orb">C\'est une &font_dark_orb;Orbe Sombre&font_end; plutôt mystérieuse.</string>
