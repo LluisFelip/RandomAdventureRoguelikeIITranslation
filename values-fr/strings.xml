@@ -1962,7 +1962,7 @@
     <string name="skill_survivor_description">Réduit les dégâts reçus lorsque tu as le ventre plein.</string>
     <string name="skill_swimmer">&font_cyan;Nageur&font_end;</string>
     <string name="skill_swimmer_description">Tu perds moins de nourriture en nageant.</string>
-    <string name="skill_hiker">&font_cyan;Coureur&font_end;</string>
+    <string name="skill_hiker">&font_cyan;Randonneur&font_end;</string>
     <string name="skill_hiker_description">Tu perds moins de nourriture en marchant.</string>
     <string name="skill_unbreakable">&font_cyan;Incassable&font_end;</string>
     <string name="skill_unbreakable_description">Si l\'attaque du &font_red;Monstre &font_end;vient à te tuer, tu résistes et survis avec &font_health;1 &font_end;point de vie.</string>
