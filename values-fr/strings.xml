@@ -338,7 +338,7 @@
     <string name="inventory_pickup">Vous avez ramassé %1$s !</string>
     <string name="inventory_damaged_by">Endommagé par %1$s !</string>
     <string name="inventory_pickup_gold">Ramassé &font_gold;%1$d&font_end; d\'or !</string>
-    <string name="inventory_required_level_x">&italic;Niveau requis: &font_cyan;%1$d&font_end;&italic_end;</string>
+    <string name="inventory_required_level_x">&italic;Niveau requis : &font_cyan;%1$d&font_end;&italic_end;</string>
     <string name="inventory_palm_tree_drop">Un %1$s est tombé du &font_coconut;Palmier&font_end; !</string>
     <string name="inventory_equipment_title_with_level">Equipement [µ: &font_cyan;%1$d&font_end;]</string>
     <string name="inventory_equipment_empty">(vide)</string>
@@ -370,7 +370,7 @@
     <string name="status_hunger">Barre de faim :&font_hunger;\t%1$d&font_end;/&font_hunger;%2$d&font_end;</string>
     <string name="status_attack">Attaque :&font_attack;\t%1$d&font_end;</string>
     <string name="status_defense">Défense :\t&font_defense;%1$d&font_end;</string>
-    <string name="status_speed">Vitesse :\t&font_speed;%1$d&font_end;</string>
+    <string name="status_speed">Vitesse :\&font_speed;%1$d&font_end;</string>
     <string name="status_intelligence">Intelligence :\t&font_mana;%1$d&font_end;</string>
     <string name="status_caps">Stats</string>
     <string name="status_turns_in_game">Tours : &font_cyan;%1$d&font_end;</string>
@@ -422,13 +422,13 @@
     <string name="item_dark_orb">Orbe Sombre</string>
     <string name="item_magic_stone_transformed_item">Transformé de %1$s à %2$s !</string>
 
-    <string name="purifying_seed_plant_message">&font_plant;Graine &font_end;d\'une plante de &font_purifying;Purification &font_end;?&br;&br;Lorsque ça se transforme en &font_wood;Arbre &font_end;de &font_purifying;Purification &font_end;, il empêchera les monstre de réaparaître sur cet île.&br;&br;N\'oubliez pas de l\'arroser avec un &font_iron;Seau&font_end; &font_water;d\'Eau &font_end;pour le faire grandir.</string>
+    <string name="purifying_seed_plant_message">&font_plant;Graine &font_end;d\'une plante de &font_purifying;Purification &font_end; ?&br;&br;Lorsque ça se transforme en &font_wood;Arbre &font_end;de &font_purifying;Purification &font_end;, il empêchera les monstre de réaparaître sur cet île.&br;&br;N\'oubliez pas de l\'arroser avec un &font_iron;Seau&font_end; &font_water;d\'Eau &font_end;pour le faire grandir.</string>
     <string name="purifying_seed_island_already_purified">Une grande force magique vous empêche de la planter… (L\'île est déjà purifiée…)</string>
     <string name="purifying_seed_island_already_planted_purified_seed">Une force magique grandissante vous empêche de la planter… (L\'île possède déjà une &font_plant;Graine &font_end;de &font_purifying;Purification&font_end;…)</string>
     <string name="purifying_seed_planted">Vous avez planté la &font_plant;Graine &font_end;de &font_purifying;Purification&font_end;.</string>
     <string name="purifying_seed_watered_magically_grows">La &font_plant;Graine &font_end;de &font_purifying;Purification&font_end;
-        a magiquement grandi en un magnifique &font_wood;Arbre &font_end;de &font_purifying;Purification&font_end;! Alors que la sensation d\'un danger constant disparaît, l\'île est désormais purifiée et hors de danger.</string>
-    <string name="purifying_tree_chop_title">Couper l\'&font_wood;Arbre &font_end;de &font_purifying;Purification&font_end;?</string>
+        a magiquement grandi en un magnifique &font_wood;Arbre &font_end;de &font_purifying;Purification&font_end; ! Alors que la sensation d\'un danger constant disparaît, l\'île est désormais purifiée et hors de danger.</string>
+    <string name="purifying_tree_chop_title">Couper l\'&font_wood;Arbre &font_end;de &font_purifying;Purification&font_end; ?</string>
     <string name="purifying_tree_chop_message">Si vous coupez l\'&font_wood;Arbre &font_end;de &font_purifying;Purification&font_end;, l\'île sera désormais exposée et les monstres recommenceront leurs carnage…</string>
     <string name="purifying_tree_island_no_longer_purified">L\'île n\'est plus purifiée… Tu peux déjà sentir des présences menaçante arriver…</string>
     <string name="purifying_tree_text_purified_label">{ &font_purifying;Purifié &font_end;}</string>
@@ -490,7 +490,7 @@
     <string name="material_yin">&font_black_low;Yin&font_end;</string>
     <string name="material_yang">&font_white;Yang&font_end;</string>
     <string name="material_volcanic_stone">&font_stone;Pierre&font_end; &font_volcano;Volcanique&font_end;</string>
-    <string name="material_icy_stone">&font_stone;Pierre&font_end; &font_icy;Gelé&font_end;</string>
+    <string name="material_icy_stone">&font_stone;Pierre&font_end; &font_icy;Gelée&font_end;</string>
 
     <string name="item_info_material_edible">Peut être consommé pour récupérer &font_hunger;%1$d &font_end;de faim.</string>
     <string name="item_info_royal_seal">Un &font_gold;Sceau Royal&font_end; pouvant être utilisé pour acheter quelque chose de très spéciale…</string>
@@ -539,7 +539,7 @@
     <string name="item_info_equipment_attack">Attaque : &font_attack;%1$d&font_end;</string>
     <string name="item_info_equipment_defense">Défense : &font_defense;%1$d&font_end;</string>
     <string name="item_info_equipment_speed">Vitesse : &font_speed;%1$d&font_end;</string>
-    <string name="item_info_equipment_intelligence">Intélligence : &font_mana;%1$d&font_end;</string>
+    <string name="item_info_equipment_intelligence">Intelligence : &font_mana;%1$d&font_end;</string>
     <string name="item_info_iron_bucket_empty">Remplis le d\'eau ou autres types de liquides…</string>
     <string name="item_info_iron_bucket_water">Balance ça sur un &font_attack;Feu de Camp &font_end;
         pour l\'éteindre ou sur un &font_red;monstre &font_end;lors d\'un affrontement !</string>
@@ -820,7 +820,7 @@
     <string name="bomb_fire">&font_bomb;Bombe&font_end; de &font_attack;Feu&font_end;</string>
     <string name="bomb_ice">&font_bomb;Bombe&font_end; de &font_ice;Glace&font_end;</string>
     <string name="bomb_electric">&font_bomb;Bombe&font_end; &font_electric;Électrique&font_end;</string>
-    <string name="bomb_you_throw_the_bomb_to">Tu as balancé une %1$s sur %2$s ! %3$s Reçoit &font_red;%4$d &font_end;de dégat !</string>
+    <string name="bomb_you_throw_the_bomb_to">Tu as balancé une %1$s sur %2$s ! %3$s Reçoit &font_red;%4$d &font_end;de dégâts !</string>
 
     <string name="food_green_salad">Salade &font_plant;Verte&font_end;</string>
     <string name="food_eye_soup">Soupe d\'&font_swamp;Yeux&font_end;</string>
@@ -857,8 +857,8 @@
     <string name="level_up_skill_point">&br;Tu as reçu &font_cyan;%1$d &font_end;de Point de Compétence.</string>
 
     <string name="combat_monster_attacked_player">&font_red;%1$s &font_end;t\'attaque !&br;Tu reçois &font_red;%2$d &font_end;de dégâts !</string>
-    <string name="combat_monster_action_attacked_player">&font_red;%1$s &font_end;t\'attaque avec son &font_red;%2$s&font_end;!&br;Tu reçois &font_red;%3$d &font_end;de dégâts !</string>
-    <string name="combat_player_attacked_monster_damage">Tu attaques!&br;&font_red;%1$s &font_end;reçoit &font_red;%2$d &font_end;de dégâts !</string>
+    <string name="combat_monster_action_attacked_player">&font_red;%1$s &font_end;t\'attaque avec son &font_red;%2$s&font_end; !&br;Tu reçois &font_red;%3$d &font_end;de dégâts !</string>
+    <string name="combat_player_attacked_monster_damage">Tu attaques !&br;&font_red;%1$s &font_end;reçoit &font_red;%2$d &font_end;de dégâts !</string>
     <string name="combat_player_skill_dealt_damage">&font_red;%1$s &font_end;reçoit &font_red;%2$d &font_end;de dégâts !</string>
     <string name="combat_player_skill_restored_health">Tu régénères &font_health;%1$d &font_end;de points de vie !</string>
     <string name="combat_player_skill_restored_mana">Tu régénères &font_mana;%1$d &font_end;de points de mana !</string>
@@ -1038,7 +1038,7 @@
     <string name="quest_bring_crafted_food_text_desc">Tu dois &font_gold;acheter &font_end;ou &font_cyan;fabriquer &font_end;un(e) %1$s et la rapporter à %2$s en %3$s,%4$s</string>
     <string name="quest_bring_crafted_food_text_complete_desc">Merci ! J\'apprécie le geste !</string>
     <string name="quest_bring_crafted_food_text_negative">Je suis au regret de vous dire que vous n\'avez pas de %1$s… Revenez quand vous en aurait &font_gold;acheté &font_end;ou &font_cyan;fabriqué &font_end;un(e)!</string>
-    <string name="quest_bring_crafted_food_text_bring">Vous avez un(e) %1$s? Je vous en prie, donnez la moi!</string>
+    <string name="quest_bring_crafted_food_text_bring">Vous avez un(e) %1$s ? Je vous en prie, donnez la moi!</string>
     <string name="quest_bring_crafted_food_thanks">Merci! J\'apprécie le geste!</string>
     <string name="quest_added_quest">Quête ajoutée (%1$s)</string>
     <string name="quest_complete">Quête accomplie !</string>
@@ -1134,7 +1134,7 @@
     <string name="quest_rescue_someone_text_quest_screen_rescue">Va secourir %1$s ! Cherche vers%2$s, %3$s.</string>
     <string name="quest_rescue_someone_text_quest_screen_return">Ramène %1$s à %2$s vers %3$s, %4$s.</string>
     <string name="quest_rescue_someone_text_villager_complete">Merci d\'avoir retrouvé %1$s !</string>
-    <string name="quest_rescue_someone_text_reward">Voici votre récompense : %1$s d\'Or !</string>
+    <string name="quest_rescue_someone_text_reward">Voici votre récompense : %1$s d\'or !</string>
     <string name="quest_rescue_someone">Secourir quelqu\'un</string>
     <string name="quest_rescue_someone_text_output_rescued">Secouru \"%1$s\" !</string>
     <string name="quest_rescue_someone_following_you">&font_quest;%1$s &font_end;est ici et te suit…</string>
@@ -1381,8 +1381,8 @@
     <string name="skill_spear_mastery_description">Attaquer avec une &font_skill_attack;lance &font_end;lors d\'un affrontement permet de débloquer des Compétences de combat à la &font_skill_attack;Lance &font_end;.</string>
     <string name="skill_axe_mastery_description">Attaquer avec une &font_skill_attack;hache &font_end;lors d\'un affrontement permet de débloquer des Compétences de combat à la &font_skill_attack;Hâche &font_end;.</string>
     <string name="skill_mace_mastery_description">Attaquer avec une &font_skill_attack;masse &font_end;lors d\'un affrontement permet de débloquer des Compétences de combat à la &font_skill_attack;Mace &font_end;.</string>
-    <string name="skill_level_up">La compétence: %1$s monte au niveau &font_cyan;%2$d&font_end;</string>
-    <string name="spell_level_up">Le sort: %1$s monte au niveau &font_cyan;%2$d&font_end;</string>
+    <string name="skill_level_up">La compétence %1$s monte au niveau &font_cyan;%2$d&font_end;</string>
+    <string name="spell_level_up">Le sort %1$s monte au niveau &font_cyan;%2$d&font_end;</string>
     <string name="skill_failed">%1$s a raté.</string>
     <string name="skill_damage_multiplier">Attaque : &font_red;%1$d&font_end;%% de &font_attack;dégâts&font_end;</string>
     <string name="skill_number_of_attacks">A attaqué &font_cyan;%1$d&font_end; de fois</string>
@@ -1751,7 +1751,7 @@
     <string name="wizard_tower_dialog_message_4_no">Alors, qu\'est ce que vous faites là ? Vous gaspillez mon temps !</string>
     <string name="wizard_tower_dialog_message_4_yes">Vous n\'avez pas l\'air très expérimenté avec la &font_mana;Magie&font_end;… En êtes vous sûr ?</string>
     <string name="wizard_tower_dialog_message_5_no">Hors de ma vue, vous me faites perdre mon temps !</string>
-    <string name="wizard_tower_dialog_message_5_yes">Feras-tu tout ce qui est nécessaire pour devenir un &font_mana;Sorcier &font_end;?</string>
+    <string name="wizard_tower_dialog_message_5_yes">Feras-tu tout ce qui est nécessaire pour devenir un &font_mana;Sorcier &font_end; ?</string>
     <string name="wizard_tower_dialog_message_6_no">Tu me fatigues, j\'ai eu une longue journée…</string>
     <string name="wizard_tower_dialog_message_6_yes">D\'accord, mais, dit moi, serais-tu capable de comprendre le livre de &font_mana;sorts &font_end;que je t\'offre ?</string>
     <string name="wizard_tower_dialog_message_7_no">Je vais donc le garder pour moi.</string>
@@ -1944,7 +1944,7 @@
     <string name="monster_info_speed">&font_speed;Vitesse&font_end; : &font_speed;%1$d&font_end;</string>
     <string name="monster_info_actions" tools:ignore="UnusedResources">Actions :</string>
     <string name="monster_info_action" tools:ignore="UnusedResources"><t>%1$s - &font_attack;Attaque&font_end; : &font_attack;%2$d&font_end;</t></string>
-    <string name="monster_info_challenge_rating">&font_white;Niveau de Dangerosité&font_end; : &font_cyan;%1$d&font_end;</string>
+    <string name="monster_info_challenge_rating">&font_white;Niveau de dangerosité&font_end; : &font_cyan;%1$d&font_end;</string>
 
     <string name="skill_tree_button_with_sp">Arbre de compétences (&font_cyan;%1$d&font_end;
         PC)</string>
