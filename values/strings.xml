@@ -3832,4 +3832,5 @@
     <string name="title_the_ender_male">%1$s, the &font_legendary;Ender&font_end;</string>
     <string name="title_the_ender_female">%1$s, the &font_legendary;Ender&font_end;</string>
     <string name="title_the_ender_no_gender">%1$s, the &font_legendary;Ender&font_end;</string>
+    <string name="settings_show_pet_in_combat">Show Pet in Combat</string>
 </resources>
