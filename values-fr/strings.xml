@@ -825,7 +825,7 @@
     <string name="bomb_fire">&font_bomb;Bombe&font_end; de &font_attack;Feu&font_end;</string>
     <string name="bomb_ice">&font_bomb;Bombe&font_end; de &font_ice;Glace&font_end;</string>
     <string name="bomb_electric">&font_bomb;Bombe&font_end; &font_electric;Électrique&font_end;</string>
-    <string name="bomb_you_throw_the_bomb_to">Tu as balancé une %1$s sur %2$s ! %3$s Reçoit &font_red;%4$d &font_end;de dégâts !</string>
+    <string name="bomb_you_throw_the_bomb_to">Tu as balancé une %1$s sur %2$s ! %3$s reçoit &font_red;%4$d &font_end;de dégâts !</string>
 
     <string name="food_green_salad">Salade &font_plant;Verte&font_end;</string>
     <string name="food_eye_soup">Soupe d\'&font_swamp;Yeux&font_end;</string>
@@ -2070,7 +2070,8 @@
     <string name="spells_empty_message">Tu ne connais encore aucun &font_mana;sorts &font_end;…</string>
     <string name="spell_fireball_name">&font_attack;Boule de feu&font_end;</string>
     <string name="spell_fireball_desc">Lance une &font_attack;boule de feu &font_end;à l\'ennemi. Peut &font_attack;brûler&font_end;.</string>
-    <string name="spell_fireball_desc_combat">Tu lance une &font_attack;boule de feu&font_end; vers %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
+    <string name="spell_fireball_desc_combat">Tu lance une &font_attack;boule de feu&font_end; vers %1$s ! %2$s 
+        &font_red;%3$d &font_end;de dégâts.</string>
     <string name="spell_firebreath_name">&font_attack;Souffle enflammé&font_end;</string>
     <string name="spell_firebreath_desc">Souffle un large cône de &font_attack;feu&font_end;. Peut &font_attack;brûler&font_end;.</string>
     <string name="spell_firebreath_desc_combat">Tu souffle du &font_attack;feu &font_end;, formant un immense cône vers %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
