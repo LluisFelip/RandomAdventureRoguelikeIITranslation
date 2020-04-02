@@ -2634,8 +2634,8 @@
     <string name="achievement_desc_well_done">Recueille du mana d\'un puis avec un seau en fer</string>
     <string name="achievement_desc_bomberman">Lance une bombe à un monstre</string>
     <string name="achievement_desc_dont_touch_this">Refuse d\'ouvrir le Coffre d\'Argent du Temple</string>
-    <string name="achievement_desc_my_treasure">Ouvres le Coffre d\'Argent du Temple</string>
-    <string name="achievement_desc_mimic">Ouvrir un coffre mimique</string>
+    <string name="achievement_desc_my_treasure">Ouvre le Coffre d\'Argent du Temple</string>
+    <string name="achievement_desc_mimic">Ouvre un coffre mimique</string>
     <string name="achievement_desc_curiousity_killed_the_cat">Accède à la section \'À propos\' du menu principal</string>
     <string name="achievement_desc_dissimulate">Efface les corps du cimitière</string>
     <string name="achievement_desc_mainstory_no_permadeath">Complète le mode Histoire pour la première fois en mode Mort Non Permanente</string>
@@ -2653,8 +2653,8 @@
     <string name="quest_bring_animal_text_negative">J\'ai bien peur que vous n'ayez pas de &font_animal;%1$s &font_end;sur vous… Revenez quand vous en aurez trouvé un, ça me rendrais vraiment heureux !</string>
     <string name="quest_bring_animal_text_bring">Avez-vous trouvé le &font_animal;%1$s&font_end; ? Montrez-le moi !</string>
 
-    <string name="tile_content_type_island_map">&font_cyan;Island &font_end;&font_gold;Map&font_end;</string>
-    <string name="item_info_island_map">Use this &font_cyan;Island &font_end;&font_gold;Map &font_end;to see the island map without needing to explore it completely.&br;&br;(You\'ll need to explore the island if you want to complete it 100%.)</string>
+    <string name="tile_content_type_island_map">&font_gold;Carte de&font_end;&font_cyan;l\'île&font_end;</string>
+    <string name="item_info_island_map">Ustilise cette &font_gold;Carte de&font_end;&font_cyan;l\'île&font_end; pour regarder la carte de l\'île sans avoir besoin de l'\explorer complètement.&br;&br;(Tu devras explorer l\'île si tu veux la completer à 100 %.)</string>
     <string name="island_map_island_name">(&font_cyan;%1$s&font_end;)</string>
 
     <string name="settings_change_language_title">Changer de langue</string>
