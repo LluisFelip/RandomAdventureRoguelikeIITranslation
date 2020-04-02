@@ -357,7 +357,7 @@
     <string name="status_quests_completed">Quêtes terminées : &font_cyan;%1$d&font_end;</string>
     <string name="status_islands_visited_completed">Îles &font_cyan;visitées &font_end;/&font_health;explorées&font_end;/&font_purifying;purifiées&font_end;: &font_cyan;%1$d&font_end;/&font_health;%2$d&font_end;/&font_purifying;%3$d&font_end;</string>
     <string name="status_pets_captured">Compagnons capturés : &font_pet;%1$d&font_end;</string>
-    <string name="status_animals_befriended">Animaux liés d\'amitié : &font_pet;%1$d&font_end;</string>
+    <string name="status_animals_befriended">Animaux apprivoisés : &font_pet;%1$d&font_end;</string>
     <string name="status_crafting_recipes">Recettes de fabrication : &font_cyan;%1$d&font_end;</string>
     <string name="status_crafted_items">Objets fabriqués : &font_cyan;%1$d&font_end;</string>
     <string name="status_skills_learnt">Compétences apprises : &font_green;%1$d&font_end;</string>
@@ -442,7 +442,7 @@
     <string name="material_leather_eq">&font_leather;Cuir&font_end;</string>
     <string name="material_bone_eq">&font_bone;Os&font_end;</string>
     <string name="material_copper_eq">&font_copper;Cuivre&font_end;</string>
-    <string name="material_tin_eq">&font_tin;Tin&font_end;</string>
+    <string name="material_tin_eq">&font_tin;Étain&font_end;</string>
     <string name="material_iron_eq">&font_iron;Fer&font_end;</string>
     <string name="material_bronze_eq">&font_bronze;Bronze&font_end;</string>
     <string name="material_silver_eq">&font_silver;Argent&font_end;</string>
@@ -453,7 +453,7 @@
     <string name="material_silver_ore">Minerai d\'&font_silver;argent&font_end;</string>
     <string name="material_gold_ore">Minerai d\'&font_gold;or&font_end;</string>
     <string name="material_copper_bar">Lingot de &font_copper;cuivre&font_end;</string>
-    <string name="material_tin_bar">Lingot de &font_tin;Tin&font_end;</string>
+    <string name="material_tin_bar">Lingot d\'&font_tin;Étain&font_end;</string>
     <string name="material_iron_bar">Lingot de &font_iron;fer&font_end;</string>
     <string name="material_bronze_bar">Lingot de &font_bronze;bronze&font_end;</string>
     <string name="material_silver_bar">Lingot d\'&font_silver;argent&font_end;</string>
@@ -466,7 +466,7 @@
     <string name="material_nut">&font_nut;Noix&font_end;</string>
     <string name="material_stone">&font_stone;Pierre&font_end;</string>
     <string name="material_copper_ore">Minerai de &font_copper;cuivre&font_end;</string>
-    <string name="material_tin_ore">Minerai de &font_tin;Tin&font_end;</string>
+    <string name="material_tin_ore">Minerai d\'&font_tin;Étain&font_end;</string>
     <string name="material_iron">Minerai de &font_iron;fer&font_end;</string>
     <string name="material_wood">&font_wood;Bois&font_end;</string>
     <string name="material_coconut">Noix de &font_coconut;coco&font_end;</string>
@@ -669,7 +669,7 @@
     <string name="item_wood_sword">Épée en &font_wood;Bois&font_end;</string>
     <string name="item_bone_sword">Épée en &font_bone;Os&font_end;</string>
     <string name="item_copper_sword">Épée en &font_copper;Cuivre&font_end;</string>
-    <string name="item_tin_sword">Épée en &font_tin;Tin&font_end;</string>
+    <string name="item_tin_sword">Épée en &font_tin;Étain&font_end;</string>
     <string name="item_iron_sword">Épée en &font_iron;Fer&font_end;</string>
     <string name="item_bronze_sword">Épée en &font_bronze;Bronze&font_end;</string>
     <string name="item_silver_sword">Épée en &font_silver;Argent&font_end;</string>
@@ -680,7 +680,7 @@
     <string name="item_wood_dagger">Dague en &font_wood;Bois&font_end;</string>
     <string name="item_bone_dagger">Dague en &font_bone;Os&font_end;</string>
     <string name="item_copper_dagger">Dague en &font_copper;Cuivre&font_end;</string>
-    <string name="item_tin_dagger">Dague en &font_tin;Tin&font_end;</string>
+    <string name="item_tin_dagger">Dague en &font_tin;Étain&font_end;</string>
     <string name="item_iron_dagger">Dague en &font_iron;Fer&font_end;</string>
     <string name="item_bronze_dagger">Dague en &font_bronze;Bronze&font_end;</string>
     <string name="item_silver_dagger">Dague en &font_silver;Argent&font_end;</string>
@@ -691,7 +691,7 @@
     <string name="item_wood_spear">Lance en &font_wood;Bois&font_end;</string>
     <string name="item_bone_spear">Lance en &font_bone;Os&font_end;</string>
     <string name="item_copper_spear">Lance en &font_copper;Cuivre&font_end;</string>
-    <string name="item_tin_spear">Lance en &font_tin;Tin&font_end;</string>
+    <string name="item_tin_spear">Lance en &font_tin;Étain&font_end;</string>
     <string name="item_iron_spear">Lance en &font_iron;Fer&font_end;</string>
     <string name="item_bronze_spear">Lance en &font_bronze;Bronze&font_end;</string>
     <string name="item_silver_spear">Lance en &font_silver;Argent&font_end;</string>
@@ -702,7 +702,7 @@
     <string name="item_wood_axe">Hache en &font_wood;Bois&font_end;</string>
     <string name="item_bone_axe">Hache en &font_bone;Os&font_end;</string>
     <string name="item_copper_axe">Hache en &font_copper;Cuivre&font_end;</string>
-    <string name="item_tin_axe">Hache en &font_tin;Tin&font_end;</string>
+    <string name="item_tin_axe">Hache en &font_tin;Étain&font_end;</string>
     <string name="item_iron_axe">Hache en &font_iron;Fer&font_end;</string>
     <string name="item_bronze_axe">Hache en &font_bronze;Bronze&font_end;</string>
     <string name="item_silver_axe">Hache en &font_silver;Argent&font_end;</string>
@@ -710,16 +710,16 @@
 
     <string name="item_diamond_axe">Hache en &font_diamond;Diamant&font_end;</string>
     <string name="item_obsidian_axe">Hache en &font_obsidian;Obsidienne&font_end;</string>
-    <string name="item_wood_mace">Mace en &font_wood;Bois&font_end;</string>
-    <string name="item_bone_mace">Mace en &font_bone;Os&font_end;</string>
-    <string name="item_copper_mace">Mace en &font_copper;Cuivre&font_end;</string>
-    <string name="item_tin_mace">Mace en &font_tin;Tin&font_end;</string>
-    <string name="item_iron_mace">Mace en &font_iron;Fer&font_end;</string>
-    <string name="item_bronze_mace">Mace en &font_bronze;Bronze&font_end;</string>
-    <string name="item_silver_mace">Mace en &font_silver;Argent&font_end;</string>
-    <string name="item_gold_mace">Mace en &font_gold;Or&font_end;</string>
-    <string name="item_diamond_mace">Mace en &font_diamond;Diamant&font_end;</string>
-    <string name="item_obsidian_mace">Mace en &font_obsidian;Obsidienne&font_end;</string>
+    <string name="item_wood_mace">Masse en &font_wood;Bois&font_end;</string>
+    <string name="item_bone_mace">Masse en &font_bone;Os&font_end;</string>
+    <string name="item_copper_mace">Masse en &font_copper;Cuivre&font_end;</string>
+    <string name="item_tin_mace">Masse en &font_tin;Étain&font_end;</string>
+    <string name="item_iron_mace">Masse en &font_iron;Fer&font_end;</string>
+    <string name="item_bronze_mace">Masse en &font_bronze;Bronze&font_end;</string>
+    <string name="item_silver_mace">Masse en &font_silver;Argent&font_end;</string>
+    <string name="item_gold_mace">Masse en &font_gold;Or&font_end;</string>
+    <string name="item_diamond_mace">Masse en &font_diamond;Diamant&font_end;</string>
+    <string name="item_obsidian_mace">Masse en &font_obsidian;Obsidienne&font_end;</string>
 
     <string name="item_volcanic_sword">Épée &font_volcano;Volcanique&font_end;</string>
     <string name="item_volcanic_mace">Mace &font_volcano;Volcanique&font_end;</string>
@@ -736,7 +736,7 @@
     <string name="text_wood_shield">Bouclier en &font_wood;Bois&font_end;</string>
     <string name="text_bone_shield">Bouclier en &font_bone;Os&font_end;</string>
     <string name="text_copper_shield">Bouclier en &font_copper;Cuivre&font_end;</string>
-    <string name="text_tin_shield">Bouclier en &font_tin;Tin&font_end;</string>
+    <string name="text_tin_shield">Bouclier en &font_tin;Étain&font_end;</string>
     <string name="text_iron_shield">Bouclier en &font_iron;Fer&font_end;</string>
     <string name="text_bronze_shield">Bouclier en &font_bronze;Bronze&font_end;</string>
     <string name="text_silver_shield">Bouclier en &font_silver;Argent&font_end;</string>
@@ -747,7 +747,7 @@
     <string name="text_leather_helmet">Casque en &font_leather;Cuir&font_end;</string>
     <string name="text_bone_helmet">Casque en &font_bone;Os&font_end;</string>
     <string name="text_copper_helmet">Casqud en &font_copper;Cuivre&font_end;</string>
-    <string name="text_tin_helmet">Casque en &font_tin;Tin&font_end;</string>
+    <string name="text_tin_helmet">Casque en &font_tin;Étain&font_end;</string>
     <string name="text_iron_helmet">Casque en &font_iron;Fer&font_end;</string>
     <string name="text_bronze_helmet">Casque en &font_bronze;Bronze&font_end;</string>
     <string name="text_silver_helmet">Casque en &font_silver;Argent&font_end;</string>
@@ -758,7 +758,7 @@
     <string name="text_leather_plate">Plastron en &font_leather;Cuir&font_end;</string>
     <string name="text_bone_plate">Plastron en &font_bone;Os&font_end;</string>
     <string name="text_copper_plate">Plastron en &font_copper;Cuivre&font_end;</string>
-    <string name="text_tin_plate">Plastron en &font_tin;Tin&font_end;</string>
+    <string name="text_tin_plate">Plastron en &font_tin;Étain&font_end;</string>
     <string name="text_iron_plate">Plastron en &font_iron;Fer&font_end;</string>
     <string name="text_bronze_plate">Plastron en &font_bronze;Bronze&font_end;</string>
     <string name="text_silver_plate">Plastron en &font_silver;Argent&font_end;</string>
@@ -769,7 +769,7 @@
     <string name="text_leather_pants">Jambière en &font_leather;Cuir&font_end;</string>
     <string name="text_bone_pants">Jambière en &font_bone;Os&font_end;</string>
     <string name="text_copper_pants">Jambière en &font_copper;Cuivre&font_end;</string>
-    <string name="text_tin_pants">Jambière en &font_tin;Tin&font_end;</string>
+    <string name="text_tin_pants">Jambière en &font_tin;Étain&font_end;</string>
     <string name="text_iron_pants">Jambière en &font_iron;Fer&font_end;</string>
     <string name="text_bronze_pants">Jambière en &font_bronze;Bronze&font_end;</string>
     <string name="text_silver_pants">Jambière en &font_silver;Argent&font_end;</string>
@@ -780,7 +780,7 @@
     <string name="text_leather_boots">Bottes en &font_leather;Cuir&font_end;</string>
     <string name="text_bone_boots">Bottes en &font_bone;Os&font_end;</string>
     <string name="text_copper_boots">Bottes en &font_copper;Cuivre&font_end;</string>
-    <string name="text_tin_boots">Bottes en &font_tin;Tin&font_end;</string>
+    <string name="text_tin_boots">Bottes en &font_tin;Étain&font_end;</string>
     <string name="text_iron_boots">Bottes en &font_iron;Fer&font_end;</string>
     <string name="text_bronze_boots">Bottes en &font_bronze;Bronze&font_end;</string>
     <string name="text_silver_boots">Bottes en &font_silver;Argent&font_end;</string>
@@ -791,7 +791,7 @@
     <string name="text_leather_gloves">Gantelets en &font_leather;Cuir&font_end;</string>
     <string name="text_bone_gloves">Gantelets en &font_bone;Os&font_end;</string>
     <string name="text_copper_gloves">Gantelets en &font_copper;Cuivre&font_end;</string>
-    <string name="text_tin_gloves">Gantelets en &font_tin;Tin&font_end;</string>
+    <string name="text_tin_gloves">Gantelets en &font_tin;Étain&font_end;</string>
     <string name="text_iron_gloves">Gantelets en &font_iron;Fer&font_end;</string>
     <string name="text_bronze_gloves">Gantelets en &font_bronze;Bronze&font_end;</string>
     <string name="text_silver_gloves">Gantelets en &font_silver;Argent&font_end;</string>
@@ -802,7 +802,7 @@
     <string name="text_leather_amulet">Amulette en &font_leather;Cuir&font_end;</string>
     <string name="text_bone_amulet">Amulette en &font_bone;Os&font_end;</string>
     <string name="text_copper_amulet">Amulette en &font_copper;Cuivre&font_end;</string>
-    <string name="text_tin_amulet">Amulette en &font_tin;Tin&font_end;</string>
+    <string name="text_tin_amulet">Amulette en &font_tin;Étain&font_end;</string>
     <string name="text_iron_amulet">Amulette en &font_iron;Fer&font_end;</string>
     <string name="text_bronze_amulet">Amulette en &font_bronze;Bronze&font_end;</string>
     <string name="text_silver_amulet">Amulette en &font_silver;Argent&font_end;</string>
@@ -813,7 +813,7 @@
     <string name="text_leather_ring">Anneau en &font_leather;Cuir&font_end;</string>
     <string name="text_bone_ring">Anneau en &font_bone;Os&font_end;</string>
     <string name="text_copper_ring">Anneau en &font_copper;Cuivre&font_end;</string>
-    <string name="text_tin_ring">Anneau en &font_tin;Tin&font_end;</string>
+    <string name="text_tin_ring">Anneau en &font_tin;Étain&font_end;</string>
     <string name="text_iron_ring">Anneau en &font_iron;Fer&font_end;</string>
     <string name="text_bronze_ring">Anneau en &font_bronze;Bronze&font_end;</string>
     <string name="text_silver_ring">Anneau en &font_silver;Argent&font_end;</string>
@@ -1788,7 +1788,7 @@
     <string name="meditator_is_mysteriously_gone">Le %1$s a mystérieusement disparu…</string>
 
     <string name="mine_copper">&font_stone;Mine&font_end; de &font_copper;cuivre&font_end;</string>
-    <string name="mine_tin">&font_stone;Mine&font_end; de &font_tin;tin&font_end; </string>
+    <string name="mine_tin">&font_stone;Mine&font_end; d\'&font_tin;étain&font_end; </string>
     <string name="mine_iron">&font_stone;Mine&font_end; de &font_iron;fer&font_end;</string>
     <string name="mine_silver">&font_stone;Mine&font_end; d\'&font_silver;argent&font_end;</string>
     <string name="mine_gold">&font_stone;Mine&font_end; d\'&font_gold;or&font_end;</string>
