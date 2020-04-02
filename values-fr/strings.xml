@@ -2633,8 +2633,8 @@
     <string name="achievement_desc_merchant_master">Colectionne les 28 différentes Marques du Marchand</string>
     <string name="achievement_desc_well_done">Recueille du mana d\'un puis avec un seau en fer</string>
     <string name="achievement_desc_bomberman">Lance une bombe à un monstre</string>
-    <string name="achievement_desc_dont_touch_this">Refuser d\'ouvrir le Coffre d\'Argent du Temple</string>
-    <string name="achievement_desc_my_treasure">Ouvrir le Coffre d\'Argent du Temple</string>
+    <string name="achievement_desc_dont_touch_this">Refuse d\'ouvrir le Coffre d\'Argent du Temple</string>
+    <string name="achievement_desc_my_treasure">Ouvres le Coffre d\'Argent du Temple</string>
     <string name="achievement_desc_mimic">Ouvrir un coffre mimique</string>
     <string name="achievement_desc_curiousity_killed_the_cat">Accède à la section \'À propos\' du menu principal</string>
     <string name="achievement_desc_dissimulate">Efface les corps du cimitière</string>
@@ -2645,13 +2645,13 @@
     <string name="achievement_desc_capture_devil">Capture le Diable</string>
     <string name="achievement_desc_capture_corrupted_god">Capture le Dieu Corrompu</string>
     <string name="achievement_desc_gotta_catch_em_all">Capture tous les monstres du jeu</string>
-    <string name="achievement_desc_animal_lover">Deviens l\'ami de tous les animaux du jeu</string>
+    <string name="achievement_desc_animal_lover">Apprivoise tous les animaux du jeu</string>
 
-    <string name="quest_bring_animal_text_giving">Oh… I have a dream… I\'d love to see a &font_animal;%1$s &font_end;at least once in my life… Could you bring one to me?</string>
-    <string name="quest_bring_animal_text_desc">You have to find an animal: &font_animal;%1$s &font_end;and bring it to %2$s at %3$s,%4$s</string>
-    <string name="quest_bring_animal_text_complete_desc">Oh! It\'s even cuter than I thought! Thanks a lot!</string>
-    <string name="quest_bring_animal_text_negative">I\'m afraid you don\'t have the &font_animal;%1$s &font_end;with you… Come back when you find one, you\'d make me so happy!</string>
-    <string name="quest_bring_animal_text_bring">Have you found the &font_animal;%1$s&font_end;? Show me!</string>
+    <string name="quest_bring_animal_text_giving">Oh… J'ai un rêve… J'adorerais voir un &font_animal;%1$s &font_end;au moins une fois dans ma vie… Pourrais-tu m\'en apporter un ?</string>
+    <string name="quest_bring_animal_text_desc">Vous devez trouver un &font_animal;%1$s &font_end;et l'apporter à %2$s à %3$s,%4$s</string>
+    <string name="quest_bring_animal_text_complete_desc">Oh ! C\'est encore plus mignon que tout ce que j'aurais pu espérer ! Merci infiniment !</string>
+    <string name="quest_bring_animal_text_negative">J\'ai bien peur que vous n'ayez pas de &font_animal;%1$s &font_end;sur vous… Revenez quand vous en aurez trouvé un, ça me rendrais vraiment heureux !</string>
+    <string name="quest_bring_animal_text_bring">Avez-vous trouvé le &font_animal;%1$s&font_end; ? Montrez-le moi !</string>
 
     <string name="tile_content_type_island_map">&font_cyan;Island &font_end;&font_gold;Map&font_end;</string>
     <string name="item_info_island_map">Use this &font_cyan;Island &font_end;&font_gold;Map &font_end;to see the island map without needing to explore it completely.&br;&br;(You\'ll need to explore the island if you want to complete it 100%.)</string>
@@ -2661,20 +2661,20 @@
     <string name="settings_change_language_message">Êtes-vous sûr de vouloir changer de langue ? &br;&br;L\'application nécessite un redémarrage pour appliquer le changement de langue.&br;&br;Relancer l\'application ? (Vous ne perdrez aucune donnée de jeu)</string>
 
 
-    <string name="weapon_type_staff">&font_mana;Staff&font_end;</string>
+    <string name="weapon_type_staff">&font_mana;Bâton&font_end;</string>
 
-    <string name="item_wood_staff">&font_wood;Wood&font_end; Staff</string>
-    <string name="item_bone_staff">&font_bone;Bone&font_end; Staff</string>
-    <string name="item_copper_staff">&font_copper;Copper&font_end; Staff</string>
-    <string name="item_tin_staff">&font_tin;Tin&font_end; Staff</string>
-    <string name="item_iron_staff">&font_iron;Iron&font_end; Staff</string>
-    <string name="item_bronze_staff">&font_bronze;Bronze&font_end; Staff</string>
-    <string name="item_silver_staff">&font_silver;Silver&font_end; Staff</string>
-    <string name="item_gold_staff">&font_gold;Gold&font_end; Staff</string>
-    <string name="item_diamond_staff">&font_diamond;Diamond&font_end; Staff</string>
-    <string name="item_obsidian_staff">&font_obsidian;Obsidian&font_end; Staff</string>
+    <string name="item_wood_staff">Bâton en &font_wood;bois&font_end;</string>
+    <string name="item_bone_staff">Bâton en &font_bone;os&font_end;</string>
+    <string name="item_copper_staff">Bâton en &font_copper;cuivre&font_end;</string>
+    <string name="item_tin_staff">Bâton en &font_tin;étain&font_end;</string>
+    <string name="item_iron_staff">Bâton en &font_iron;fer&font_end;</string>
+    <string name="item_bronze_staff">Bâton en &font_bronze;bronze&font_end;</string>
+    <string name="item_silver_staff">Bâton en &font_silver;argent&font_end; Staff</string>
+    <string name="item_gold_staff">Bâton en &font_gold;or&font_end;</string>
+    <string name="item_diamond_staff">Bâton en &font_diamond;diamant&font_end;</string>
+    <string name="item_obsidian_staff">Bâton en &font_obsidian;obsidienne&font_end;</string>
 
-    <string name="skill_staff_mastery">&font_mana;Staff &font_end;Mastery</string>
+    <string name="skill_staff_mastery">Maîtrise du &font_mana;Bâton &font_end;</string>
     <string name="skill_staff_mastery_description">Attacking with a &font_mana;Staff &font_end;in combat unlocks &font_mana;Staff &font_end;Combat Skills.</string>
     <string name="weapon_skill_staff_hit">&font_skill_attack;Hit&font_end;</string>
     <string name="weapon_skill_staff_hit_desc">Strikes the enemy.</string>
