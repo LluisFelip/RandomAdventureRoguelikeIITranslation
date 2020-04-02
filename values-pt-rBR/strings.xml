@@ -836,154 +836,154 @@
     <string name="text_diamond_ring">Anel de &font_diamond;Diamante&font_end;</string>
     <string name="text_obsidian_ring">Anel de &font_obsidian;Obsidiana&font_end;</string>
 
-    <string name="bomb_normal">&font_bomb;Bomb&font_end;</string>
-    <string name="bomb_fire">&font_attack;Fire &font_end;&font_bomb;Bomb&font_end;</string>
-    <string name="bomb_ice">&font_ice;Ice &font_end;&font_bomb;Bomb&font_end;</string>
-    <string name="bomb_electric">&font_electric;Electric&font_end; &font_bomb;Bomb&font_end;</string>
-    <string name="bomb_you_throw_the_bomb_to">You throw %1$s to %2$s! %3$s receives &font_red;%4$d &font_end;damage!</string>
+    <string name="bomb_normal">&font_bomb;Bomba&font_end;</string>
+    <string name="bomb_fire">&font_bomb;Bomba de&font_end;&font_attack;Fogo&font_end;</string>
+    <string name="bomb_ice">&font_bomb;Bomba de&font_end;&font_ice;Gelo &font_end;</string>
+    <string name="bomb_electric">&font_bomb;Bomba&font_end;&font_electric;Eléctrica&font_end;</string>
+    <string name="bomb_you_throw_the_bomb_to">Você arremessou %1$s em %2$s! %3$s recebeu &font_red;%4$d &font_end;dano!</string>
 
-    <string name="food_green_salad">&font_plant;Green&font_end; Salad</string>
-    <string name="food_eye_soup">&font_swamp;Eye&font_end; Soup</string>
-    <string name="food_mushroom_stew">&font_mushroom;Mushroom &font_end;Stew</string>
-    <string name="food_cactus_salad">&font_cactus;Cactus &font_end;Salad</string>
-    <string name="food_coconut_soda">&font_coconut;Coconut&font_end; Soda</string>
-    <string name="food_fish_salad">&font_cyan;Fish&font_end; Salad</string>
-    <string name="food_desert_fish">&font_desert;Desert&font_end; &font_cyan;Fish&font_end;</string>
-    <string name="food_marrow">&font_bone;Marrow&font_end;</string>
-    <string name="food_meat_stick">&font_copper;Steak &font_end;on a &font_wood;Stake&font_end;</string>
-    <string name="food_vegetable_stick">&font_plant;Vegetables&font_end; &font_wood;Stick&font_end;</string>
-    <string name="food_milk">Milk</string>
+    <string name="food_green_salad">Salada &font_plant;Verde&font_end;</string>
+    <string name="food_eye_soup">Sopa de &font_swamp;Olho&font_end;</string>
+    <string name="food_mushroom_stew">Sopa de &font_mushroom;Cogumelos&font_end;</string>
+    <string name="food_cactus_salad">Salada de &font_cactus;Cactos &font_end;</string>
+    <string name="food_coconut_soda">Suco de &font_coconut;Coco&font_end;</string>
+    <string name="food_fish_salad">Salada de &font_cyan;Peixe&font_end;</string>
+    <string name="food_desert_fish">&font_cyan;Peixe do&font_end;&font_desert;Deserto&font_end;</string>
+    <string name="food_marrow">&font_bone;Tutano&font_end;</string>
+    <string name="food_meat_stick">&font_copper;Bife &font_end;no &font_wood;Espeto&font_end;</string>
+    <string name="food_vegetable_stick">&font_wood;Espetinho de &font_end;&font_plant;Legumes&font_end;</string>
+    <string name="food_milk">Leite</string>
     <string name="food_cereal">Cereal</string>
-    <string name="food_fruit">Fruit</string>
-    <string name="food_egg">Egg</string>
-    <string name="food_tomato">Tomato</string>
-    <string name="food_cheese">Cheese</string>
-    <string name="food_garlic">Garlic</string>
-    <string name="food_onion">Onion</string>
-    <string name="food_cucumber">Cucumber</string>
+    <string name="food_fruit">Fruta</string>
+    <string name="food_egg">Ovo</string>
+    <string name="food_tomato">Tomate</string>
+    <string name="food_cheese">Queijo</string>
+    <string name="food_garlic">Alho</string>
+    <string name="food_onion">Cebola</string>
+    <string name="food_cucumber">Pepino</string>
     <string name="text_level_up_increasal">
-        Increased &font_health;Health&font_end; to &font_health;%1$d&font_end;&br;
-        Increased &font_mana;Mana&font_end; to &font_mana;%2$d&font_end;&br; Increased &font_attack;Attack&font_end;
-        to &font_attack;%3$d&font_end;&br; Increased &font_defense;Defense&font_end;
-        to &font_defense;%4$d&font_end;&br; Increased &font_speed;Speed&font_end; to &font_speed;%5$d&font_end;&br;
-        Increased &font_mana;Intelligence&font_end; to &font_mana;%6$d&font_end;&br;
+        &font_health;Saúde&font_end; aumentada em &font_health;%1$d&font_end;&br;
+        &font_mana;Mana&font_end; aumentada em &font_mana;%2$d&font_end;&br; &font_attack;Ataque&font_end; aumentado em
+        &font_attack;%3$d&font_end;&br; &font_defense;Defesa&font_end; aumentada em
+        &font_defense;%4$d&font_end;&br; &font_speed;Agilidade&font_end; aumentada em &font_speed;%5$d&font_end;&br;
+        &font_mana;Inteligência&font_end; aumentada em &font_mana;%6$d&font_end;&br;
     </string>
 
-    <string name="level_up_inventory_increase">&br;Increased your &font_gold;Inventory Capacity &font_end;to &font_gold;%1$d&font_end;</string>
-    <string name="level_up_pets_increase">&br;Increased your &font_pet;Pets Capacity &font_end;to &font_gold;%1$d&font_end;</string>
-    <string name="level_up_skill_point">&br;You earned &font_cyan;%1$d &font_end;Skill Points.</string>
+    <string name="level_up_inventory_increase">&br;&font_gold;Capacidade de Inventário &font_end;aumentada em &font_gold;%1$d&font_end;</string>
+    <string name="level_up_pets_increase">&br;&font_pet;Capacidade de Mascotes &font_end;aumentada em &font_gold;%1$d&font_end;</string>
+    <string name="level_up_skill_point">&br;Você recebeu &font_cyan;%1$d &font_end;Pontos de Habilidade.</string>
 
-    <string name="combat_monster_attacked_player">&font_red;%1$s &font_end;attacked!&br;You received &font_red;%2$d &font_end;damage!</string>
-    <string name="combat_monster_action_attacked_player">&font_red;%1$s &font_end;attacked with its &font_red;%2$s&font_end;!&br;You received &font_red;%3$d &font_end;damage!</string>
-    <string name="combat_player_attacked_monster_damage">You attacked!&br;&font_red;%1$s &font_end;received &font_red;%2$d &font_end;damage!</string>
-    <string name="combat_player_skill_dealt_damage">&font_red;%1$s &font_end;received &font_red;%2$d &font_end;damage!</string>
-    <string name="combat_player_skill_restored_health">You restored &font_health;%1$d &font_end;health!</string>
-    <string name="combat_player_skill_restored_mana">You restored &font_mana;%1$d &font_end;mana!</string>
-    <string name="combat_player_skill_dealt_damage_n_times">You hit &font_cyan;%1$d &font_end;times! &font_red;%2$s &font_end;received &font_red;%3$d &font_end;damage!</string>
-    <string name="combat_player_skill_attacks_first">You attack first!</string>
-    <string name="combat_dont_know_any_skill">You don\'t know any &font_skill_attack;Skills&font_end;!</string>
-    <string name="combat_dont_know_any_spell">You don\'t know any &font_mana;Spells&font_end;!</string>
-    <string name="combat_cant_cast_skill">You don\'t have enough resources to do this!</string>
-    <string name="combat_cant_cast_spell">You don\'t have enough resources to cast this!</string>
-    <string name="combat_already_captured">You have already captured it!</string>
-    <string name="combat_cant_carry_more_pets">You can\'t have more pets!</string>
-    <string name="combat_monster_dead_vanishes">%1$s turns to dust!</string>
-    <string name="combat_monster_attacks">%1$s attacks!</string>
-    <string name="combat_fight">Fight</string>
-    <string name="combat_player_flee_fails">You tried to escape and failed…</string>
-    <string name="combat_player_flee_succeeds">You escaped successfully!</string>
-    <string name="combat_killed_monster">You killed %1$s!</string>
-    <string name="combat_player_is_dead">%1$s&br;died at level &font_cyan;%2$d&font_end;!</string>
-    <string name="combat_corpse_name">Corpse of %1$s</string>
+    <string name="combat_monster_attacked_player">&font_red;%1$s &font_end;atacou!&br;Você recebeu &font_red;%2$d &font_end;de dano!</string>
+    <string name="combat_monster_action_attacked_player">&font_red;%1$s &font_end;atacou com &font_red;%2$s&font_end;!&br;Você recebeu &font_red;%3$d &font_end;de dano!</string>
+    <string name="combat_player_attacked_monster_damage">Você atacou!&br;&font_red;%1$s &font_end;recebeu &font_red;%2$d &font_end;de dano!</string>
+    <string name="combat_player_skill_dealt_damage">&font_red;%1$s &font_end;recebeu &font_red;%2$d &font_end;de dano!</string>
+    <string name="combat_player_skill_restored_health">Você restaurou &font_health;%1$d &font_end;de saúde!</string>
+    <string name="combat_player_skill_restored_mana">Você restaurou &font_mana;%1$d &font_end;de mana!</string>
+    <string name="combat_player_skill_dealt_damage_n_times">Acertou &font_cyan;%1$d &font_end;vezes! &font_red;%2$s &font_end;recebeu &font_red;%3$d &font_end;de dano!</string>
+    <string name="combat_player_skill_attacks_first">Você ataca primeiro!</string>
+    <string name="combat_dont_know_any_skill">Você não conhece nenhuma &font_skill_attack;Habilidade&font_end;!</string>
+    <string name="combat_dont_know_any_spell">Você não conhece nenhum &font_mana;Feitiço&font_end;!</string>
+    <string name="combat_cant_cast_skill">Você não tem recusros suficientes para fazer isso!</string>
+    <string name="combat_cant_cast_spell">Você não tem recusros suficientes para lançar isso!</string>
+    <string name="combat_already_captured">Você já capturou!</string>
+    <string name="combat_cant_carry_more_pets">Você não pode ter mais mascotes!</string>
+    <string name="combat_monster_dead_vanishes">%1$s virou cinzas!</string>
+    <string name="combat_monster_attacks">%1$s ataca!</string>
+    <string name="combat_fight">Lutar</string>
+    <string name="combat_player_flee_fails">Você tentou fugir e falhou…</string>
+    <string name="combat_player_flee_succeeds">Você conseguiu fugir!</string>
+    <string name="combat_killed_monster">Você matou %1$s!</string>
+    <string name="combat_player_is_dead">%1$s&br;morreu no nível &font_cyan;%2$d&font_end;!</string>
+    <string name="combat_corpse_name">Cadáver de %1$s</string>
     <string name="combat_monster_attacking_symbol">-&font_dark_red;A&font_end;-</string>
-    <string name="combat_cant_flee_from_monster">Can\'t flee from %1$s…</string>
-    <string name="combat_monster_obtained_gold">Obtained &font_gold;%1$d&font_end; gold.</string>
-    <string name="combat_monster_obtained_item">Obtained %1$s.</string>
-    <string name="combat_you_throw_the_bucket_to">You throw the %1$s to %2$s! %3$s receives &font_red;%4$d &font_end;damage!</string>
+    <string name="combat_cant_flee_from_monster">Não pode fugir %1$s…</string>
+    <string name="combat_monster_obtained_gold">Obteve &font_gold;%1$d&font_end; de ouro.</string>
+    <string name="combat_monster_obtained_item">Obteve %1$s.</string>
+    <string name="combat_you_throw_the_bucket_to">Você arremessou o %1$s em %2$s! %3$s recebeu &font_red;%4$d &font_end;de dano!</string>
 
 
-    <string name="villager_text_hello_1" tools:ignore="UnusedResources">Hi!</string>
-    <string name="villager_text_hello_2" tools:ignore="UnusedResources">Hi, hero!</string>
-    <string name="villager_text_hello_3" tools:ignore="UnusedResources">Hi, adventurer!</string>
-    <string name="villager_text_hello_4" tools:ignore="UnusedResources">Hello!</string>
-    <string name="villager_text_hello_5" tools:ignore="UnusedResources">Hello, adventurer!</string>
-    <string name="villager_text_hello_6" tools:ignore="UnusedResources">Hello, hero!</string>
-    <string name="villager_text_hello_7" tools:ignore="UnusedResources">Hey…</string>
-    <string name="villager_text_hello_8" tools:ignore="UnusedResources">Hey, adventurer…</string>
-    <string name="villager_text_hello_9" tools:ignore="UnusedResources">Hey, hero…</string>
-    <string name="villager_text_hello_10" tools:ignore="UnusedResources">Nice to meet you!</string>
-    <string name="villager_text_hello_11" tools:ignore="UnusedResources">Nice to meet you, adventurer!</string>
-    <string name="villager_text_hello_12" tools:ignore="UnusedResources">Nice to meet you, hero!</string>
-    <string name="villager_text_hello_13" tools:ignore="UnusedResources">How\'s it going?</string>
-    <string name="villager_text_hello_14" tools:ignore="UnusedResources">How\'s it going, adventurer?</string>
-    <string name="villager_text_hello_15" tools:ignore="UnusedResources">How\'s it going, hero?</string>
-    <string name="villager_text_hello_16" tools:ignore="UnusedResources">How are you doing?</string>
-    <string name="villager_text_hello_17" tools:ignore="UnusedResources">How are you doing, adventurer?</string>
-    <string name="villager_text_hello_18" tools:ignore="UnusedResources">How are you doing, hero?</string>
-    <string name="villager_text_hello_19" tools:ignore="UnusedResources">Mmm…</string>
-    <string name="villager_text_hello_20" tools:ignore="UnusedResources">Pse…</string>
-    <string name="villager_text_hello_21" tools:ignore="UnusedResources">Wow!</string>
-    <string name="villager_text_hello_22" tools:ignore="UnusedResources">Oh!</string>
-    <string name="villager_text_hello_23" tools:ignore="UnusedResources">Eh!</string>
-    <string name="villager_text_hello_24" tools:ignore="UnusedResources">Hey!</string>
-    <string name="villager_text_hello_25" tools:ignore="UnusedResources">Howdy!</string>
-    <string name="villager_text_hello_26" tools:ignore="UnusedResources">What\'s up?</string>
-    <string name="villager_text_hello_27" tools:ignore="UnusedResources">What\'s up, adventurer?</string>
-    <string name="villager_text_hello_28" tools:ignore="UnusedResources">What\'s up, hero?</string>
-    <string name="villager_text_hello_29" tools:ignore="UnusedResources">Hi…</string>
-    <string name="villager_text_hello_30" tools:ignore="UnusedResources">Hello…</string>
+    <string name="villager_text_hello_1" tools:ignore="UnusedResources">Oi!</string>
+    <string name="villager_text_hello_2" tools:ignore="UnusedResources">Oi, herói!</string>
+    <string name="villager_text_hello_3" tools:ignore="UnusedResources">Oi, aventureiro!</string>
+    <string name="villager_text_hello_4" tools:ignore="UnusedResources">Olá!</string>
+    <string name="villager_text_hello_5" tools:ignore="UnusedResources">Olá, aventureiro!</string>
+    <string name="villager_text_hello_6" tools:ignore="UnusedResources">Olá, herói!</string>
+    <string name="villager_text_hello_7" tools:ignore="UnusedResources">Ei…</string>
+    <string name="villager_text_hello_8" tools:ignore="UnusedResources">Ei, aventureiro…</string>
+    <string name="villager_text_hello_9" tools:ignore="UnusedResources">Ei, herói…</string>
+    <string name="villager_text_hello_10" tools:ignore="UnusedResources">É um prazer te conhecer!</string>
+    <string name="villager_text_hello_11" tools:ignore="UnusedResources">É um prazer te conhecer, aventureiro!</string>
+    <string name="villager_text_hello_12" tools:ignore="UnusedResources">É um prazer te conhecer, herói!</string>
+    <string name="villager_text_hello_13" tools:ignore="UnusedResources">Como vão as coisas?</string>
+    <string name="villager_text_hello_14" tools:ignore="UnusedResources">Como vão as coisas, aventureiro?</string>
+    <string name="villager_text_hello_15" tools:ignore="UnusedResources">Como vão as coisas, herói?</string>
+    <string name="villager_text_hello_16" tools:ignore="UnusedResources">Como vai?</string>
+    <string name="villager_text_hello_17" tools:ignore="UnusedResources">Como vai, aventureiro?</string>
+    <string name="villager_text_hello_18" tools:ignore="UnusedResources">Como vai, herói?</string>
+    <string name="villager_text_hello_19" tools:ignore="UnusedResources">Hum…</string>
+    <string name="villager_text_hello_20" tools:ignore="UnusedResources">Bom…</string>
+    <string name="villager_text_hello_21" tools:ignore="UnusedResources">Uau!</string>
+    <string name="villager_text_hello_22" tools:ignore="UnusedResources">Ah!</string>
+    <string name="villager_text_hello_23" tools:ignore="UnusedResources">Nossa!</string>
+    <string name="villager_text_hello_24" tools:ignore="UnusedResources">Ei!</string>
+    <string name="villager_text_hello_25" tools:ignore="UnusedResources">Opa!</string>
+    <string name="villager_text_hello_26" tools:ignore="UnusedResources">Beleza?</string>
+    <string name="villager_text_hello_27" tools:ignore="UnusedResources">Tudo beleza, aventureiro?</string>
+    <string name="villager_text_hello_28" tools:ignore="UnusedResources">Tudo beleza, herói?</string>
+    <string name="villager_text_hello_29" tools:ignore="UnusedResources">Oi…</string>
+    <string name="villager_text_hello_30" tools:ignore="UnusedResources">Olá…</string>
     <string name="villager_text_hello_31" tools:ignore="UnusedResources">…</string>
-    <string name="villager_text_hello_32" tools:ignore="UnusedResources">Well…</string>
-    <string name="villager_text_hello_33" tools:ignore="UnusedResources">So…</string>
-    <string name="villager_text_hello_34" tools:ignore="UnusedResources">What\'s new?</string>
-    <string name="villager_text_hello_35" tools:ignore="UnusedResources">G\'day!</string>
-    <string name="villager_text_hello_36" tools:ignore="UnusedResources">Yo!</string>
-    <string name="villager_text_hello_37" tools:ignore="UnusedResources">Hello.</string>
-    <string name="villager_text_hello_38" tools:ignore="UnusedResources">Hi.</string>
-    <string name="villager_text_hello_39" tools:ignore="UnusedResources">Hey.</string>
+    <string name="villager_text_hello_32" tools:ignore="UnusedResources">Bem…</string>
+    <string name="villager_text_hello_33" tools:ignore="UnusedResources">Então…</string>
+    <string name="villager_text_hello_34" tools:ignore="UnusedResources">Quais as novidades?</string>
+    <string name="villager_text_hello_35" tools:ignore="UnusedResources">Bom dia!</string>
+    <string name="villager_text_hello_36" tools:ignore="UnusedResources">Eae!</string>
+    <string name="villager_text_hello_37" tools:ignore="UnusedResources">Olá.</string>
+    <string name="villager_text_hello_38" tools:ignore="UnusedResources">Oi.</string>
+    <string name="villager_text_hello_39" tools:ignore="UnusedResources">Ei.</string>
     <string name="villager_text_hello_40" tools:ignore="UnusedResources" />
 
 
     <string name="villager_i_need_help">
         <![CDATA[
-    I need help with something…\n
-    Can I ask you for a favor?\n
-    I\'d be grateful if you could help me…\n
-    Could you help me with something?\n
-    You look like someone who can help!\n
-    If you aren\'t busy, I\'d need something from you…\n
-    Could you please help?\n
-    Could you please help me?\n
-    My family and I would be grateful if you could help us…\n
-    My family and I need something…\n
-    There\'s something I need…\n
-    Would you be so kind to help me?\n
-    Could you help me out?\n
-    I\'m afraid I must ask you for a favor…\n
-    If it isn\'t much to ask, I need you to do something…\n
-    Could you please help me with something?\n
-    Could you give me a hand?\n
-    We need help with something…\n
-    We need to ask you for a favor…\n
-    I know we haven\'t met before, but I must ask you for a favor…\n
-    I\'ve had this problem for a long time and I could use your help with it…\n
-    We aren\'t used to having strangers around here… Can I ask you for a favor?\n
-    We aren\'t used to having strangers around here… Can you do me a favor?\n
-    You are not from around here, are you? Can you do something for me?\n
-    You are not from around here, are you? May I ask you for a favor?\n
-    Where do you come from? Is it too much if I ask you for this…\n
-    Ah, if it isn\'t much trouble, could you help me with something?\n
-    I am in trouble and would really appreciate some help. Would you be willing to help?\n
-    Before you leave, could you help with something? It\'s a matter of vital importance…\n
-    Before you leave, could you help me?\n
-    Before you leave, would you help me?\n
-    Before you go, could you help me?\n
-    Before you go, would you help me?\n
-    Before you go, please can you do me a favor?\n
-    Can you help with something?\n
-    Can you help me out with something, please?\n
-    Can you help me with something, please?\n
-    I heard you are a good hero. Would you help me please?
+    Preciso de ajuda com uma coisa…\n
+    Posso te pedir um favor?\n
+    Ficarei feliz se puder me ajudar…\n
+    Pode me ajudar com uma coisinha?\n
+    Você parece ser capaz de me ajudar!\n
+    Se não for te atrapalhar, preciso que faça uma coisa…\n
+    Pode, por favor, me ajudar?\n
+    Poderia me ajudar, por favor?\n
+    Minha família e eu ficaremos felizes se puder nos ajudar…\n
+    Minha família e eu precisamos de uma coisa…\n
+    Preciso de uma coisa…\n
+    Poderia, por gentileza, me ajudar?\n
+    Pode me ajudar?\n
+    Temo que tenha de lhe pedir um favor…\n
+    Se não for pedir muito, preciso que faça uma coisa…\n
+    Poderia, por favor, me ajudar?\n
+    Pode me dar uma mãozinha?\n
+    Precisamos de ajuda com numa coisa…\n
+    Precisamos lhe pedir um favor…\n
+    Sei que nunca nos vimos antes, mas preciso te pedir um favor…\n
+    Tenho tido esse problema há um tempo e você poderia me ajudar…\n
+    Não costumamos ter estrangeiros aqui... Posso te pedir um favor?\n
+    Não costumamos ter estrangeiros aqui... Pode fazer um favor para mim?\n
+    Você não é daqui, é? Pode fazer uma coisinha para mim?\n
+    Você não é daqui, é? Posso lhe pedir um favor?\n
+    De onde você veio? Será que posso lhe pedir…\n
+    Ah se não for pedir muito, poderia me ajudar numa coisa?\n
+    Estou com problemas e sua ajuda seria bem-vinda. Pode me ajudar?\n
+    Antes de ir, pode me ajudar numa coisa? É uma questão de vital importância…\n
+    Antes de ir, pode me ajudar numa coisa?\n
+    Antes de ir, poderia me ajudar numa coisa?\n
+    Antes de partir, poderia me ajudar?\n
+    Antes de partir, será que poderia me ajudar?\n
+    Antes de partir, poderia por favor, me fazer um favor?\n
+    Pode me ajudar numa coisa?\n
+    Pode me ajudar numa coisinha, por favor?\n
+    Pode, por favor, me ajudar?\n
+    Soube que é um bom herói. Pode, por favor, me ajudar?
         ]]>
     </string>
 
@@ -991,13 +991,20 @@
     <!-- Do not translate this, instead, each language should have its own quotes, pop culture references, some kind of jokes, etc… -->
     <string name="villager_quotes">
         <![CDATA[
-    Buy more, buy more now. Buy and be happy.\n
-    Our time is yours.\n
-    Do it for the fat lady.\n
-    From this moment we travel together East. Always to the East.\n
-    Stay away from normal people. They\'re stupid.\n
-    To what do we owe the extreme pleasure of this surprising visit?\n
-    Klaatu barada nikto.\n
+    O gerente ficou maluco! Compre agora!\n
+    Imagina se pega no olho!\n
+    Encontrou-se com o único mal irremediável, aquele fato sem explicação que iguala tudo o que é vivo num só rebanho de condenados.\n
+    Leva o casaco que vai esfriar.\n
+    Na volta a gente compra.\n
+    No céu tem pão?\n
+    Não sei, só sei que foi assim.\n
+    Ser ou não ser...\n
+    Onde há vontade, há jeito!\n
+    Faz o urro.\n
+    É pavê ou pra comer... Hahaha.\n
+    Não há colher.\n
+    Não vai subir ninguém!\n 
+    Se as pequenas células cinzentas não são exercitadas por nós, criam ferrugem, meu caro.\n
     Wake up, we\'re here. Why are you shaking? Are you okay?\n
     Your mission was to retrieve Dr. Durand Durand from Tau Ceti!\n
     Out here on the perimeter there are no stars.\n
