@@ -3577,7 +3577,7 @@
     <string name="completely_purified_island">The island is now completely &font_purifying;* Purified * &font_end;and you obtained &font_purifying;Pure Essence&font_end;!</string>
     <string name="purifying_tree_text_completely_purified_label">{ &font_purifying;* Purified *&font_end;}</string>
     <string name="tile_type_water">Water</string>
-    <string name="settings_show_squares_map">Show squares in map</string>
+    <string name="settings_show_squares_map">Show Squares In Map</string>
 
     <string name="island_remove_mark">Remove Mark</string>
     <string name="island_remove_text">Remove Info</string>
@@ -3833,4 +3833,5 @@
     <string name="title_the_ender_female">%1$s, the &font_legendary;Ender&font_end;</string>
     <string name="title_the_ender_no_gender">%1$s, the &font_legendary;Ender&font_end;</string>
     <string name="settings_show_pet_in_combat">Show Pet in Combat</string>
+    <string name="settings_show_progress_bars">Show Progress Bars</string>
 </resources>
