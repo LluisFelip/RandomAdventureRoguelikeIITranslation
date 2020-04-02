@@ -187,7 +187,7 @@
     <!-- Accessibility -->
     <string name="content_description_arrow_to_unfold_complete_status_info">Arrow to unfold complete status info.</string>
     <string name="content_description_arrow_to_filter_crafting">Arrow to filter crafting recipes.</string>
-    <string name="content_description_coin_image">Coin image</string>
+    <string name="content_description_coin_image">Gold</string>
     <string name="content_description_skill_image">The Skill image</string>
     <string name="content_description_pet_image">Pet Icon</string>
     <string name="content_description_advantage_image">Advantage icon</string>
