@@ -217,8 +217,8 @@
     <string name="cemetery_permadeath">(&font_red;P&font_end;)</string>
     <string name="cemetery_no_permadeath">(&font_green;NP&font_end;)</string>
 
-    <string name="button_permadeath">Mort permanante</string>
-    <string name="button_no_permadeath">Mort non-permanante</string>
+    <string name="button_permadeath">Mort permanente</string>
+    <string name="button_no_permadeath">Mort non-permanente</string>
     <string name="button_start">Commencer</string>
     <string name="button_east">Est</string>
     <string name="button_south">Sud</string>
@@ -240,7 +240,7 @@
     <string name="button_wield">Porter</string>
     <string name="button_unwield">Poser</string>
     <string name="button_pickup">Prendre</string>
-    <string name="button_attack">Attaque</string>
+    <string name="button_attack">Attaquer</string>
     <string name="button_butcher">Hâcher</string>
     <string name="button_skin">Découper</string>
     <string name="button_enter">Entrer</string>
@@ -273,7 +273,7 @@
     <string name="button_items">Objets</string>
     <string name="button_skills">Compétences</string>
     <string name="button_spells">Sorts</string>
-    <string name="button_pets">Compagnon</string>
+    <string name="button_pets">Compagnons</string>
     <string name="button_rescue">Sauver</string>
     <string name="button_learn">Apprendre</string>
     <string name="button_ranking">Classement</string>
@@ -293,7 +293,7 @@
     <string name="button_deposit_bank">&font_gold;Dépôt&font_end;</string>
     <string name="button_exit">Sortir</string>
     <string name="button_cancel">Annuler</string>
-    <string name="button_free">Free</string>
+    <string name="button_free">Libérer</string>
     <string name="button_thanks">Merci</string>
     <string name="button_idontknow">Je ne sais pas…</string>
     <string name="button_explore">Explorer</string>
@@ -307,7 +307,7 @@
     <string name="button_map">Carte</string>
     <string name="button_world">Monde</string>
     <string name="button_settings">Options</string>
-    <string name="button_equipment">Équipements</string>
+    <string name="button_equipment">Équipement</string>
     <string name="button_inventory">Inventaire</string>
     <string name="button_journey">Aventure</string>
     <string name="button_abandon">Abandonner</string>
@@ -316,7 +316,7 @@
     <string name="button_sort_by_price">Trier (Prix)</string>
     <string name="button_inventory_mode">Inventaire</string>
     <string name="button_stash_mode">Coffre</string>
-    <string name="button_stash_increase_stash">Aggrandir le &font_wood;coffre&font_end;</string>
+    <string name="button_stash_increase_stash">Agrandir le &font_wood;coffre&font_end;</string>
     <string name="button_scrap_per_gold">Morceler &font_gold;%1$d&font_end; d\'or</string>
     <string name="button_feedback">&font_cyan;Avis&font_end;</string>
     <string name="button_blacksmith_upgrade_equipment">Améliorer &font_green;\*&font_end;équipement</string>
@@ -340,11 +340,11 @@
     <string name="inventory_damaged_by">Endommagé par %1$s !</string>
     <string name="inventory_pickup_gold">Ramassé &font_gold;%1$d&font_end; d\'or !</string>
     <string name="inventory_required_level_x">&italic;Niveau requis : &font_cyan;%1$d&font_end;&italic_end;</string>
-    <string name="inventory_palm_tree_drop">Un %1$s est tombé du &font_coconut;Palmier&font_end;
+    <string name="inventory_palm_tree_drop">Un %1$s est tombé du &font_coconut;palmier&font_end;
         !</string>
     <string name="inventory_equipment_title_with_level">Équipement [µ: &font_cyan;%1$d&font_end;]</string>
     <string name="inventory_equipment_empty">(vide)</string>
-    <string name="inventory_not_enough_space">Votre inventaire est &font_red;Plein&font_end;
+    <string name="inventory_not_enough_space">Votre inventaire est &font_red;plein&font_end;
         !</string>
     <string name="inventory_equipment_levels_up_string">&font_green;\*&font_end;</string>
 
@@ -384,11 +384,11 @@
     <string name="status_player_gold">Or : &font_gold;%1$d&font_end;
         (&font_gold;%2$d &font_end;+ &font_gold;%3$d&font_end;
         in &font_gold;Banque&font_end;)</string>
-    <string name="status_permadeath">&font_red;&bold;MORT PERMANANTE&bold_end;&font_end;</string>
-    <string name="status_no_permadeath">&font_green;&bold;MORT NON-PERMANTE&bold_end;&font_end;</string>
+    <string name="status_permadeath">&font_red;&bold;MORT PERMANENTE&bold_end;&font_end;</string>
+    <string name="status_no_permadeath">&font_green;&bold;MORT NON-PERMANENTE&bold_end;&font_end;</string>
 
     <string name="shop_capitalised">Boutique</string>
-    <string name="shop_title_sell">Boutique (Vente)</string>
+    <string name="shop_title_sell">Boutique (Vendre)</string>
     <string name="shop_generic_title_buy">%1$s (Acheter)</string>
     <string name="shop_generic_title_sell">%1$s (Vendre)</string>
     <string name="shop_alchemist_capitalised">Alchimiste</string>
@@ -425,12 +425,12 @@
     <string name="item_dark_orb">Orbe Sombre</string>
     <string name="item_magic_stone_transformed_item">Transformé de %1$s à %2$s !</string>
 
-    <string name="purifying_seed_plant_message">&font_plant;Graine &font_end;d\'une plante de &font_purifying;purification &font_end;?&br;&br;Lorsqu\'elle se transforme en &font_wood;arbre &font_end;de &font_purifying;purification &font_end;, il empêchera les monstres de réapparaître sur cette île.&br;&br;N\'oubliez pas de l\'arroser avec un &font_iron;seau&font_end; &font_water;d\'eau &font_end;pour le faire grandir.</string>
+    <string name="purifying_seed_plant_message">&font_plant;Graine &font_end;d\'une plante de &font_purifying;purification &font_end;?&br;&br;Lorsqu\'elle se transforme en &font_wood;arbre &font_end;de &font_purifying;purification &font_end;, celui-ci empêchera les monstres de réapparaître sur cette île.&br;&br;N\'oubliez pas de l\'arroser avec un &font_iron;seau&font_end; &font_water;d\'eau &font_end;pour la faire grandir.</string>
     <string name="purifying_seed_island_already_purified">Une grande force magique vous empêche de la planter… (L\'île est déjà purifiée…)</string>
-    <string name="purifying_seed_island_already_planted_purified_seed">Une force magique grandissante vous empêche de la planter… (L\'île possède déjà une &font_plant;graine &font_end;de &font_purifying;purification&font_end;…)</string>
+    <string name="purifying_seed_island_already_planted_purified_seed">Une force magique grandissante vous empêche de la planter… (L\'île a déjà une &font_plant;graine &font_end;de &font_purifying;purification&font_end;de plantée…)</string>
     <string name="purifying_seed_planted">Vous avez planté la &font_plant;graine &font_end;de &font_purifying;purification&font_end;.</string>
     <string name="purifying_seed_watered_magically_grows">La &font_plant;graine &font_end;de &font_purifying;purification&font_end;
-        a magiquement grandi en un magnifique &font_wood;arbre &font_end;de &font_purifying;purification&font_end;
+        grandit comme par magie en un magnifique &font_wood;arbre &font_end;de &font_purifying;purification&font_end;
         ! Alors que la sensation d\'un danger constant disparaît, l\'île est désormais purifiée et hors de danger.</string>
     <string name="purifying_tree_chop_title">Couper l\'&font_wood;arbre &font_end;de &font_purifying;purification&font_end;
         ?</string>
@@ -564,7 +564,7 @@
     <string name="materialsource_fish">Zone de pêche</string>
     <string name="materialsource_insect">Insecte</string>
 
-    <string name="tools_butchered_monster_corpse">%1$s découpé !</string>
+    <string name="tools_butchered_monster_corpse">%1$s dépecé !</string>
     <string name="tools_used_tool">%1$s est utilisé.</string>
     <string name="tools_repaired_tool">%1$s réparé !</string>
     <string name="tool_chopping_axe">&font_wood;Hache&font_end;</string>
@@ -574,12 +574,12 @@
     <string name="tool_action_mining">&font_silver;Miner&font_end;</string>
     <string name="tool_action_fishing">&font_cyan;Pêcher&font_end;</string>
     <string name="tool_action_catching_bug">&font_insect;Capturer&font_end;</string>
-    <string name="tool_action_skinning">&font_skin;Dépeçer&font_end;</string>
-    <string name="tool_action_butchering">&font_blood;Découper&font_end;</string>
+    <string name="tool_action_skinning">&font_skin;Ecorcher&font_end;</string>
+    <string name="tool_action_butchering">&font_blood;Dépecer&font_end;</string>
     <string name="tool_text">%1$s [&font_cyan;%2$d&font_end;/&font_cyan;%3$d&font_end;]</string>
     <string name="tool_net">&font_insect;Toile&font_end;</string>
     <string name="tool_skinning_knife">&font_skin;Couteau&font_end;</string>
-    <string name="tool_meat_cleaver">&font_blood;Machette&font_end;</string>
+    <string name="tool_meat_cleaver">&font_blood;Couperet&font_end;</string>
 
     <string name="text_armor_head">Casque</string>
     <string name="text_armor_body">Plastron</string>
