@@ -2645,7 +2645,7 @@
     <string name="achievement_desc_capture_devil">Capture le Diable</string>
     <string name="achievement_desc_capture_corrupted_god">Capture le Dieu Corrompu</string>
     <string name="achievement_desc_gotta_catch_em_all">Capture tous les monstres du jeu</string>
-    <string name="achievement_desc_animal_lover">Deviens l/'ami de tous les animaux du jeu</string>
+    <string name="achievement_desc_animal_lover">Deviens l\'ami de tous les animaux du jeu</string>
 
     <string name="quest_bring_animal_text_giving">Oh… I have a dream… I\'d love to see a &font_animal;%1$s &font_end;at least once in my life… Could you bring one to me?</string>
     <string name="quest_bring_animal_text_desc">You have to find an animal: &font_animal;%1$s &font_end;and bring it to %2$s at %3$s,%4$s</string>
