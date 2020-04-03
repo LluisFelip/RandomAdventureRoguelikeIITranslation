@@ -3832,6 +3832,13 @@
     <string name="title_the_ender_male">%1$s, the &font_legendary;Ender&font_end;</string>
     <string name="title_the_ender_female">%1$s, the &font_legendary;Ender&font_end;</string>
     <string name="title_the_ender_no_gender">%1$s, the &font_legendary;Ender&font_end;</string>
+
+
+    <!-- FIXME: Update STRINGS -->
     <string name="settings_show_pet_in_combat">Show Pet in Combat</string>
     <string name="settings_show_progress_bars">Show Progress Bars</string>
+
+    <string name="wise_have_in_void_island">Great, you are here! You should be careful… Creatures here are more dangerous… And there\'s a powerful being waiting for you…</string>
+
+    <string name="void_master_after_killing_text_3_new">Well well… You are wearing a complete set of the &font_void;Void&font_end;… Here, take this… You will know what to do with it… See you soon…</string>
 </resources>
