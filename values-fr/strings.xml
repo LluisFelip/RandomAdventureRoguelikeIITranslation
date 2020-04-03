@@ -2647,14 +2647,14 @@
     <string name="achievement_desc_gotta_catch_em_all">Capture tous les monstres du jeu</string>
     <string name="achievement_desc_animal_lover">Apprivoise tous les animaux du jeu</string>
 
-    <string name="quest_bring_animal_text_giving">Oh… J'ai un rêve… J'adorerais voir un &font_animal;%1$s &font_end;au moins une fois dans ma vie… Pourrais-tu m\'en apporter un ?</string>
-    <string name="quest_bring_animal_text_desc">Vous devez trouver un &font_animal;%1$s &font_end;et l'apporter à %2$s à %3$s,%4$s</string>
-    <string name="quest_bring_animal_text_complete_desc">Oh ! C\'est encore plus mignon que tout ce que j'aurais pu espérer ! Merci infiniment !</string>
-    <string name="quest_bring_animal_text_negative">J\'ai bien peur que vous n'ayez pas de &font_animal;%1$s &font_end;sur vous… Revenez quand vous en aurez trouvé un, ça me rendrais vraiment heureux !</string>
+    <string name="quest_bring_animal_text_giving">Oh… J\'ai un rêve… J\'adorerais voir un &font_animal;%1$s &font_end;au moins une fois dans ma vie… Pourrais-tu m\'en apporter un ?</string>
+    <string name="quest_bring_animal_text_desc">Vous devez trouver un &font_animal;%1$s &font_end;et l\'apporter à %2$s à %3$s,%4$s</string>
+    <string name="quest_bring_animal_text_complete_desc">Oh ! C\'est encore plus mignon que tout ce que j\'aurais pu espérer ! Merci infiniment !</string>
+    <string name="quest_bring_animal_text_negative">J\'ai bien peur que vous n\'ayez pas de &font_animal;%1$s &font_end;sur vous… Revenez quand vous en aurez trouvé un, ça me rendrais vraiment heureux !</string>
     <string name="quest_bring_animal_text_bring">Avez-vous trouvé le &font_animal;%1$s&font_end; ? Montrez-le moi !</string>
 
     <string name="tile_content_type_island_map">&font_gold;Carte de&font_end;&font_cyan;l\'île&font_end;</string>
-    <string name="item_info_island_map">Ustilise cette &font_gold;Carte de&font_end;&font_cyan;l\'île&font_end; pour regarder la carte de l\'île sans avoir besoin de l'\explorer complètement.&br;&br;(Tu devras explorer l\'île si tu veux la completer à 100 %.)</string>
+    <string name="item_info_island_map">Ustilise cette &font_gold;Carte de&font_end;&font_cyan;l\'île&font_end; pour regarder la carte de l\'île sans avoir besoin de l\'explorer complètement.&br;&br;(Tu devras explorer l\'île si tu veux la completer à 100 %.)</string>
     <string name="island_map_island_name">(&font_cyan;%1$s&font_end;)</string>
 
     <string name="settings_change_language_title">Changer de langue</string>
