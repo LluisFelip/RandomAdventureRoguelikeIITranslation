@@ -118,7 +118,7 @@
 
 <resources xmlns:tools="http://schemas.android.com/tools">
 
-<plurals name="quest_kill_monsters_text_giving" tools:ignore="MissingQuantity">
+    <plurals name="quest_kill_monsters_text_giving" tools:ignore="MissingQuantity">
         <item quantity="one">Preciso que mate %1$s %2$s monstro</item>
         <item quantity="other">Preciso que mate %1$s %2$s monstros</item>
     </plurals>
@@ -251,7 +251,6 @@
     <string name="button_west">Oeste</string>
     <string name="button_wait">Esperar</string>
     <string name="button_quests">Missões</string>
-    <string name="button_other">Ações</string>
     <string name="button_actions">Ações</string>
     <string name="button_buy_mode">Comprar</string>
     <string name="button_sell_mode">Vender</string>
@@ -346,7 +345,8 @@
     <string name="button_scrap_per_gold">Desmanchar: &font_gold;%1$d&font_end; Ouro</string>
     <string name="button_feedback">&font_cyan;Feedback&font_end;</string>
     <string name="button_blacksmith_upgrade_equipment">Melhorar &font_green;\*&font_end;Equipamento</string>
-    <string name="button_blacksmith_scrap_equipment">&font_copper;Desmanchar&font_end; Equipamento</string>
+    <string name="button_blacksmith_scrap_equipment">&font_copper;Desmanchar&font_end;
+        Equipamento</string>
     <string name="button_blacksmith_craft_bars">Criar &font_gold;Barras&font_end;</string>
     <string name="button_scrap">Desmanchar</string>
 
@@ -423,7 +423,8 @@
     <string name="shop_empty_message_inventory">Você não tem itens…</string>
     <string name="shop_bought_item">Comprado %1$s por &font_gold;%2$d&font_end;.</string>
     <string name="shop_sold_item">Vendido %1$s por &font_gold;%2$d&font_end;.</string>
-    <string name="shop_sold_item_with_amount">Vendido &font_cyan;%1$d&font_end; x %2$s por &font_gold;%3$d&font_end;.</string>
+    <string name="shop_sold_item_with_amount">Vendido &font_cyan;%1$d&font_end;
+        x %2$s por &font_gold;%3$d&font_end;.</string>
     <string name="shop_sell_all_question">Vender tudo?</string>
     <string name="shop_spell_already_known">&italic;&font_mana;Feitiço &font_end;já conhecido&italic_end;</string>
 
@@ -533,7 +534,8 @@
     <string name="item_info_merchants_mark">Este símbolo especial pode ser valioso para algo ou alguém…</string>
     <string name="item_info_tool_chopping_axe">Use isto para &font_wood;cortar árvores &font_end;para obter &font_wood;Madeira&font_end;.</string>
     <string name="item_info_tool_pickaxe">Use isto para &font_stone;minerar pedras &font_end;para obter &font_stone;Pedra &font_end;e outros minerais.</string>
-    <string name="item_info_tool_fishing_rod">Use isto para &font_cyan;pescar&font_end; em um &font_cyan;Local de Pesca&font_end;.</string>
+    <string name="item_info_tool_fishing_rod">Use isto para &font_cyan;pescar&font_end;
+        em um &font_cyan;Local de Pesca&font_end;.</string>
     <string name="item_info_tool_net">Use isto para capturar um &font_insect;inseto&font_end;.</string>
     <string name="item_info_tool_skinning_knife">Use isto para &font_skin;esfolar &font_end;um &font_green;cadáver de monstro &font_end;para tentar obter &font_skin;Pele&font_end;.</string>
     <string name="item_info_tool_meat_cleaver">Use isto para abater um &font_green;cadáver de monstro &font_end;para tentar obter &font_green;Carne de Monstro&font_end;.</string>
@@ -544,13 +546,15 @@
     <string name="item_info_pet_collar">Vá até a tela&font_pet;Mascotes&font_end; para poder colocar esta coleira em um &font_pet;Mascote &font_end;e renomeá-lo!</string>
     <string name="item_info_magic_stone">Use isto para melhorar o ataque e a inteligência de de um equipamento.</string>
     <string name="item_info_island_soul">A misteriosa alma de uma ilha…</string>
-    <string name="item_info_spellbook">Leia isto para aprender o &font_mana;feitiço&font_end; contido: %1$s.</string>
+    <string name="item_info_spellbook">Leia isto para aprender o &font_mana;feitiço&font_end;
+        contido: %1$s.</string>
     <string name="item_info_teleport_stone">Use isto para retornar à última &font_inn;Estalagem &font_end;onde descansou ou ao ponto inicial desta &font_cyan;ilha&font_end;.</string>
     <string name="item_info_piece_of_map">Um &font_cyan;Pedaço de Mapa&font_end;. Você precisará encontrar mais pedaços para descobrir mais…</string>
     <string name="item_info_dark_orb">É uma misteriosa &font_dark_orb;Orbe Escura&font_end;.</string>
     <string name="item_info_bomb_normal">Jogue esta &font_bomb;Bomba&font_end; em seu inimigo em combate.</string>
     <string name="item_info_bomb_fire">Jogue esta &font_bomb;Bomba de&font_end; &font_attack;Fogo&font_end;em seu inimigo em combate. Pode &font_attack;queimar &font_end;.</string>
-    <string name="item_info_bomb_ice">Jogue esta &font_bomb;Bomba de &font_end; &font_ice;Gelo&font_end; em seu inimigo em combate. Pode &font_ice;congelar &font_end;.</string>
+    <string name="item_info_bomb_ice">Jogue esta &font_bomb;Bomba de &font_end; &font_ice;Gelo&font_end;
+        em seu inimigo em combate. Pode &font_ice;congelar &font_end;.</string>
     <string name="item_info_bomb_electric">Jogue esta &font_bomb;Bomba &font_end;&font_electric;Eléctrica &font_end;em seu inimigo em combate. Pode &font_electric;paralizar &font_end;.</string>
     <string name="item_info_equipment_attack">Ataque: &font_attack;%1$d&font_end;</string>
     <string name="item_info_equipment_defense">Defesa: &font_defense;%1$d&font_end;</string>
@@ -558,7 +562,7 @@
     <string name="item_info_equipment_intelligence">Inteligência: &font_mana;%1$d&font_end;</string>
     <string name="item_info_iron_bucket_empty">Encha-o com água ou outros tipos de líquido…</string>
     <string name="item_info_iron_bucket_water">Jogue isto para apagar uma &font_attack;Fogueira &font_end;ou jogue-o em um &font_red;monstro &font_end;em combate!</string>
-    <string name="item_info_purifying_seed">Plante e regue com &font_iron;Balde de &font_end; &font_water;Água&font_end;para fazê-la se tornar uma &font_wood;Árvore&font_end; &font_purifying;Purificadora&font_end;.&br;&br;Uma &font_wood;Árvore&font_end;  &font_purifying;Purificadora&font_end;Impede que monstros &italic;renasçam &italic_end;na ilha.</string>
+    <string name="item_info_purifying_seed">Plante e regue com &font_iron;Balde de &font_end; &font_water;Água&font_end;para fazê-la se tornar uma &font_wood;Árvore&font_end; &font_purifying;Purificadora&font_end;.&br;&br;Uma &font_wood;Árvore&font_end; &font_purifying;Purificadora&font_end;Impede que monstros &italic;renasçam &italic_end;na ilha.</string>
     <string name="item_info_iron_bucket_lava">Jogue isto em um &font_red;monstro &font_end;em combate!</string>
     <string name="item_info_iron_bucket_mana">Beba isto para recuperar todo seu &font_mana;mana&font_end;.</string>
     <string name="item_info_a_letter_for_the_king">Ela tem um &font_gold;Selo Real&font_end;, você devia levar isto para o &font_gold;Rei&font_end;.</string>
@@ -577,7 +581,6 @@
     <string name="tool_chopping_axe">Machado de &font_wood;Cortar Lenha&font_end;</string>
     <string name="tool_pickaxe">&font_silver;Picareta&font_end;</string>
     <string name="tool_fishing_rod">Vara de &font_cyan;Pescar&font_end;</string>
-    <string name="tool_broke">%1$s quebrou!</string>
     <string name="tool_action_chopping">&font_wood;Cortando&font_end;</string>
     <string name="tool_action_mining">&font_silver;Minerando&font_end;</string>
     <string name="tool_action_fishing">&font_cyan;Pescando&font_end;</string>
@@ -863,7 +866,8 @@
     <string name="food_cucumber">Pepino</string>
     <string name="text_level_up_increasal">
         &font_health;Saúde&font_end; aumentada em &font_health;%1$d&font_end;&br;
-        &font_mana;Mana&font_end; aumentada em &font_mana;%2$d&font_end;&br; &font_attack;Ataque&font_end; aumentado em
+        &font_mana;Mana&font_end; aumentada em &font_mana;%2$d&font_end;&br; &font_attack;Ataque&font_end;
+        aumentado em
         &font_attack;%3$d&font_end;&br; &font_defense;Defesa&font_end; aumentada em
         &font_defense;%4$d&font_end;&br; &font_speed;Agilidade&font_end; aumentada em &font_speed;%5$d&font_end;&br;
         &font_mana;Inteligência&font_end; aumentada em &font_mana;%6$d&font_end;&br;
@@ -2044,7 +2048,8 @@
     <string name="skill_meditator">&font_mana;Meditação&font_end;</string>
     <string name="skill_meditator_description">Permite &font_gold;Meditar &font_end;para restaurar &font_mana;Mana&font_end;.</string>
     <string name="skill_meditator_action_name">&font_mana;Meditar&font_end;</string>
-    <string name="skill_meditator_action_description">Você &font_mana;meditou&font_end; e restaurou &font_mana;10 &font_end;pontos de Mana.</string>
+    <string name="skill_meditator_action_description">Você &font_mana;meditou&font_end;
+        e restaurou &font_mana;10 &font_end;pontos de Mana.</string>
     <string name="skill_meditator_action_failed_description">Você está com fome demais para fazer isso.</string>
     <string name="skill_mana_eater">&font_mana;Comensal de Mana&font_end;</string>
     <string name="skill_mana_eater_description">Permite restaurar um pouquinho da sua fome usando &font_mana;Mana&font_end;.</string>
@@ -2058,7 +2063,9 @@
     <string name="skill_treasure_hunter">&font_gold;Caça Tesouros&font_end;</string>
     <string name="skill_treasure_hunter_description">Sente a quantidade de itens ocultos restantes na ilha.</string>
     <string name="skill_explorer">&font_cyan;Exploração&font_end;</string>
-    <string name="skill_explorer_description">Descobre as &font_cyan;coordenadas&font_end; de uma &font_cyan;Cidade&font_end;, &font_cyan;Povoado &font_end;ou &font_cyan;Vilarejo &font_end; aleatório na ilha (se houver algo assim).</string>
+    <string name="skill_explorer_description">Descobre as &font_cyan;coordenadas&font_end;
+        de uma &font_cyan;Cidade&font_end;, &font_cyan;Povoado &font_end;ou &font_cyan;Vilarejo &font_end;
+        aleatório na ilha (se houver algo assim).</string>
     <string name="skill_contractor">&font_quest;Terceirização&font_end;</string>
     <string name="skill_contractor_description">Detaca quantas &font_cyan;missões&font_end; estão disponíveis para serem aceitas na ilha.</string>
     <string name="skill_trader">&font_gold;Comércio&font_end;</string>
@@ -2071,7 +2078,8 @@
     <string name="spells_empty_message">Você ainda não conhece nenhum &font_mana;Feitiço&font_end;…</string>
     <string name="spell_fireball_name">&font_attack;Bola de Fogo&font_end;</string>
     <string name="spell_fireball_desc">Lança uma &font_attack;bola de fogo &font_end;no inimigo. Pode &font_attack;queimar&font_end;.</string>
-    <string name="spell_fireball_desc_combat">Você lança uma &font_attack;bola de fogo&font_end; contra %1$s! %2$s sofre &font_red;%3$d &font_end;pontos de dano.</string>
+    <string name="spell_fireball_desc_combat">Você lança uma &font_attack;bola de fogo&font_end;
+        contra %1$s! %2$s sofre &font_red;%3$d &font_end;pontos de dano.</string>
     <string name="spell_firebreath_name">&font_attack;Sopro de Fogo&font_end;</string>
     <string name="spell_firebreath_desc">Sopra um grande cone de &font_attack;chamas&font_end;. Pode &font_attack;queimar&font_end;.</string>
     <string name="spell_firebreath_desc_combat">Você sopra um grande cone de &font_attack;chamas &font_end;contra %1$s! %2$s sofre &font_red;%3$d &font_end;pontos de dano.</string>
@@ -2104,7 +2112,8 @@
     <string name="spell_icebolt_desc_combat">Você lança uma &font_ice;ice bolt&font_end; contra %1$s! %2$s sofre &font_red;%3$d &font_end;pontos de dano.</string>
     <string name="spell_icespear_name">&font_ice;Lança de Gelo&font_end;</string>
     <string name="spell_icespear_desc">Arremessa uma &font_ice;lança de gelo&font_end;. Pode &font_ice;congelar&font_end;.</string>
-    <string name="spell_icespear_desc_combat">Você arremessa uma &font_ice;lança de gelo&font_end; contra %1$s! %2$s sofre &font_red;%3$d &font_end;pontos de dano.</string>
+    <string name="spell_icespear_desc_combat">Você arremessa uma &font_ice;lança de gelo&font_end;
+        contra %1$s! %2$s sofre &font_red;%3$d &font_end;pontos de dano.</string>
     <string name="spell_icearmor_name">&font_ice;Armadura de Gelo&font_end;</string>
     <string name="spell_icearmor_desc">Cerca você com uma &font_ice;armadura de gelo&font_end;. O inimigo receberá dano de gelo quando atacá-lo.</string>
     <string name="spell_icearmor_desc_combat">Você lança a &font_ice;armadura de gelo&font_end;!</string>
@@ -2114,7 +2123,8 @@
     <string name="spell_frostfire_desc_combat">Você lança &font_ice;fogo gelado&font_end; contra %1$s! %2$s sofre &font_red;%3$d &font_end;pontos de dano.</string>
     <string name="spell_freezingbomb_name">&font_ice;Explosão Gelada&font_end;</string>
     <string name="spell_freezingbomb_desc">Provoca uma &font_ice;explosão gelada&font_end;. Sempre &font_ice;congela&font_end;.</string>
-    <string name="spell_freezingbomb_desc_combat">Provoca uma &font_ice;explosão gelada&font_end; contra %1$s! %2$s sofre &font_red;%3$d &font_end;pontos de dano.</string>
+    <string name="spell_freezingbomb_desc_combat">Provoca uma &font_ice;explosão gelada&font_end;
+        contra %1$s! %2$s sofre &font_red;%3$d &font_end;pontos de dano.</string>
     <string name="spell_windpush_name">&font_spell_wind;Empurrão de Vento&font_end;</string>
     <string name="spell_windpush_desc">Empurra o inimigo com uma &font_spell_wind;ventania&font_end;. Pode &font_spell_wind;bloquear&font_end;.</string>
     <string name="spell_windpush_desc_combat">Você empurra %1$s com uma &font_spell_wind;ventania&font_end;! %2$s sofre &font_red;%3$d &font_end;pontos de dano.</string>
@@ -2125,10 +2135,12 @@
     <string name="spell_airwave_desc">Lança uma grande &font_spell_wind;onda de ar&font_end;. Pode &font_spell_wind;bloquear&font_end;.</string>
     <string name="spell_airwave_desc_combat">Você invoca uma grande &font_spell_wind;onda de ar &font_end;contra %1$s! %2$s sofre &font_red;%3$d &font_end;pontos de dano.</string>
     <string name="spell_windhole_name">&font_spell_wind;Buraco de Vento&font_end;</string>
-    <string name="spell_windhole_desc">Invoca um &font_spell_wind;buraco de vento&font_end; letal.</string>
+    <string name="spell_windhole_desc">Invoca um &font_spell_wind;buraco de vento&font_end;
+        letal.</string>
     <string name="spell_windhole_desc_combat">Você invoca um &font_spell_wind;buraco de vento &font_end;letal sobre %1$s! %2$s sofre &font_red;%3$d &font_end;pontos de dano.</string>
     <string name="spell_tornado_name">&font_spell_wind;Tornado&font_end;</string>
-    <string name="spell_tornado_desc">Invoca um &font_spell_wind;tornado&font_end; poderoso.</string>
+    <string name="spell_tornado_desc">Invoca um &font_spell_wind;tornado&font_end;
+        poderoso.</string>
     <string name="spell_tornado_desc_combat">Você invoca um &font_spell_wind;tornado &font_end;poderoso sobre %1$s! %2$s sofre &font_red;%3$d &font_end;pontos de dano.</string>
     <string name="spell_electricjolt_name">&font_electric;Choque Elétrico&font_end;</string>
     <string name="spell_electricjolt_desc">Atinge com um &font_electric;choque elétrico&font_end;. Pode &font_electric;paralisar&font_end;.</string>
@@ -2137,13 +2149,15 @@
     <string name="spell_electricwhip_desc">Retalha o oponente com um &font_electric;chicote elétrico&font_end;. Pode &font_electric;paralisar&font_end;.</string>
     <string name="spell_electricwhip_desc_combat">Você retalha %1$s com um &font_electric;chicote elétrico&font_end;! %2$s sofre &font_red;%3$d &font_end;pontos de dano.</string>
     <string name="spell_lightningshout_name">&font_electric;Grito Relâmpago&font_end;</string>
-    <string name="spell_lightningshout_desc">Lança um &font_electric;grito relâmpago&font_end; poderoso. Pode &font_electric;paralisar&font_end;.</string>
+    <string name="spell_lightningshout_desc">Lança um &font_electric;grito relâmpago&font_end;
+        poderoso. Pode &font_electric;paralisar&font_end;.</string>
     <string name="spell_lightningshout_desc_combat">Você lança um &font_electric;grito relâmpago &font_end;contra %1$s! %2$s sofre &font_red;%3$d &font_end;pontos de dano.</string>
     <string name="spell_thunder_name">&font_electric;Trovão&font_end;</string>
     <string name="spell_thunder_desc">Invoca um &font_electric;trovão&font_end;. Pode &font_electric;paralisar&font_end;.</string>
     <string name="spell_thunder_desc_combat">Você invoca um &font_electric;trovão &font_end;sobre %1$s! %2$s sofre &font_red;%3$d &font_end;pontos de dano.</string>
     <string name="spell_electricstorm_name">&font_electric;Tempestade Elétrica&font_end;</string>
-    <string name="spell_electricstorm_desc">Invoca uma &font_electric;tempestade elétrica&font_end; poderosa. Sempre &font_electric;paralisa&font_end;.</string>
+    <string name="spell_electricstorm_desc">Invoca uma &font_electric;tempestade elétrica&font_end;
+        poderosa. Sempre &font_electric;paralisa&font_end;.</string>
     <string name="spell_electricstorm_desc_combat">Você invoca uma &font_electric;tempestade elétrica &font_end;poderosa sobre %1$s! %2$s sofre &font_red;%3$d &font_end;pontos de dano.</string>
     <string name="spell_capture_monster_name">&font_pet;Capturar&font_end; &font_red;Monstro&font_end;</string>
     <string name="spell_capture_monster_desc">Tenta &font_pet;capturar &font_end;o &font_red;Monstro &font_end;inimigo para transformá-lo em &font_pet;Mascote&font_end;. Quanto maior for o nível, maior será a chance de sucesso na captura.</string>
@@ -2151,7 +2165,8 @@
     <string name="spell_capture_monster_combat_fail">Falhou! Você não conseguiu &font_pet;capturar &font_end;%1$s.</string>
     <string name="spell_calmmonster_name">&font_pet;Acalmar&font_end; &font_red;Monstro&font_end;</string>
     <string name="spell_calmmonster_desc">Tenta &font_pet;acalmar &font_end;um &font_red;monstro &font_end;para aumentar a chance de &font_pet;capturá-lo&font_end;. Também permite &font_cyan;fugir&font_end;.</string>
-    <string name="spell_calmmonster_desc_combat_success">Você &font_pet;acalmou&font_end; %1$s!</string>
+    <string name="spell_calmmonster_desc_combat_success">Você &font_pet;acalmou&font_end;
+        %1$s!</string>
     <string name="spell_calmmonster_desc_combat_fails">Você falhou em &font_pet;acalmar &font_end;%1$s…</string>
     <string name="text_monster_is_already_calmed">%1$s já está calmo!</string>
     <string name="text_cant_calm_this_monster">Você não pode acalmar este monstro…</string>
@@ -2159,7 +2174,8 @@
     <string name="spell_punchofstone_desc">Cria um punho feito de &font_wood;pedra&font_end; e golpeia o inimigo.</string>
     <string name="spell_punchofstone_desc_combat">Você cria um punho feito de &font_wood;pedra &font_end;e golpeia %1$s! %2$s sofre &font_red;%3$d &font_end;pontos de dano.</string>
     <string name="spell_stalactite_name">&font_wood;Estalactite&font_end;</string>
-    <string name="spell_stalactite_desc">Cria uma &font_wood;estalactite&font_end; sobre o inimigo.</string>
+    <string name="spell_stalactite_desc">Cria uma &font_wood;estalactite&font_end;
+        sobre o inimigo.</string>
     <string name="spell_stalactite_desc_combat">Você cria uma &font_wood;estalactite&font_end; que cai sobre %1$s! %2$s sofre &font_red;%3$d &font_end;pontos de dano.</string>
     <string name="spell_stonespikes_name">&font_wood;Espigões de Pedra&font_end;</string>
     <string name="spell_stonespikes_desc">Ergue um conjunto de grandes &font_wood;espigões de pedra &font_end;sob o inimigo.</string>
@@ -2171,14 +2187,20 @@
     <string name="spell_earthcrack_desc">Abre uma &font_wood;fenda&font_end; no chão em direção ao inimigo.</string>
     <string name="spell_earthcrack_desc_combat">Você abre uma &font_wood;fenda &font_end;no chão em direção a %1$s! %2$s sofre &font_red;%3$d &font_end;pontos de dano.</string>
     <string name="spell_healingtouch_name">&font_health;Toque Curativo&font_end;</string>
-    <string name="spell_healingtouch_desc">Usa um &font_health;toque curativo &font_end;para curar &font_health;33&font_end;% da sua &font_health;vida&font_end; total.</string>
-    <string name="spell_healingtouch_desc_combat">Você usa o &font_health;toque curativo&font_end; e cura &font_health;%1$d&font_end; pontos de &font_health;vida&font_end;.</string>
+    <string name="spell_healingtouch_desc">Usa um &font_health;toque curativo &font_end;para curar &font_health;33&font_end;% da sua &font_health;vida&font_end;
+        total.</string>
+    <string name="spell_healingtouch_desc_combat">Você usa o &font_health;toque curativo&font_end; e cura &font_health;%1$d&font_end;
+        pontos de &font_health;vida&font_end;.</string>
     <string name="spell_healinglight_name">&font_health;Luz Curativa&font_end;</string>
-    <string name="spell_healinglight_desc">Invoca uma &font_health;luz curativa &font_end;para curar &font_health;66&font_end;% da sua &font_health;vida&font_end; total.</string>
-    <string name="spell_healinglight_desc_combat">Você invoca uma &font_health;luz curativa &font_end;e cura &font_health;%1$d&font_end; pontos de &font_health;vida&font_end;.</string>
+    <string name="spell_healinglight_desc">Invoca uma &font_health;luz curativa &font_end;para curar &font_health;66&font_end;% da sua &font_health;vida&font_end;
+        total.</string>
+    <string name="spell_healinglight_desc_combat">Você invoca uma &font_health;luz curativa &font_end;e cura &font_health;%1$d&font_end;
+        pontos de &font_health;vida&font_end;.</string>
     <string name="spell_purelight_name">&font_health;Luz Pura&font_end;</string>
-    <string name="spell_purelight_desc">Invoca uma &font_health;luz pura&font_end; para &font_health;curar &font_end;completamente.</string>
-    <string name="spell_purelight_desc_combat">Você invoca uma &font_health;luz pura&font_end; e cura &font_health;%1$d&font_end; pontos de &font_health;vida&font_end;.</string>
+    <string name="spell_purelight_desc">Invoca uma &font_health;luz pura&font_end;
+        para &font_health;curar &font_end;completamente.</string>
+    <string name="spell_purelight_desc_combat">Você invoca uma &font_health;luz pura&font_end; e cura &font_health;%1$d&font_end;
+        pontos de &font_health;vida&font_end;.</string>
 
     <string name="spell_effect_combat_burnt">%1$s está &font_attack;queimando&font_end;!</string>
     <string name="spell_effect_combat_frozen">%1$s está &font_tundra;congelado&font_end;!</string>
@@ -2244,7 +2266,8 @@
     <string name="main_story_1_dialog_message">Após o que pareceu ser uma eternidade, você abre os seus olhos e tenta ficar de pé.&br;&br;Olhando ao redor, percebe que está em uma &font_sand;Praia&font_end;. Há um &font_wood;Barco Naufragado&font_end;.&br;&br;Após alguns momentos, percebe que um &font_cyan;Menino &font_end;te olha fixamente.</string>
     <string name="main_story_shipwreck_info">Parce impossível fazer esse &font_wood;Barco Naufragado &font_end;navegar novamente.&br;&br;Ao examiná-lo de perto, ele lhe parece familiar…</string>
     <string name="main_story_young_boy_message_1">O... Olá? Você está bem? Eu estava brincando por aqui e te encontrei inconsciente…</string>
-    <string name="main_story_young_boy_message_2">Temia que estivesse morto. Que bom que está vivo! Esse &font_wood;Barco&font_end; é seu?</string>
+    <string name="main_story_young_boy_message_2">Temia que estivesse morto. Que bom que está vivo! Esse &font_wood;Barco&font_end;
+        é seu?</string>
     <string name="main_story_young_boy_message_3">Ah… bem, acho que você precisa descansar. O meu pai é o dono da &font_inn;Hospedaria &font_end;em &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end;. Vá até lá para descansar, e fale com ele se precisar de alguma coisa. Foi um prazer conhecê-lo!</string>
     <string name="main_story_young_boy_runs_away">O &font_cyan;Menino &font_end;sai correndo.</string>
     <string name="main_story_1_giving_description">Após ter acordado na &font_sand;Praia&font_end;, um &font_cyan;Menino &font_end;lhe disse para ir até a Hospedaria em &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end;. Lá você poderá descansar e conversar com o pai dele.</string>
@@ -2261,12 +2284,14 @@
     <string name="main_story_the_carpenter_4">Ninguém sabe onde ele está, mas a lenda diz que um verdadeiro herói surgirá, que será capaz de derrotá-lo de uma vez por todas…</string>
     <string name="main_story_the_carpenter_5">Esse &font_red;monstro&font_end; que você acabou de matar era o motivo de não termos nenhum &font_wood;Barco &font_end;nesta ilha. Ele destruiu todos!</string>
     <string name="main_story_the_carpenter_5b">Se tivéssemos um, eu teria ido pessoalmente procurar pistas sobre &font_red;O Tirano &font_end;para poder derrotá-lo! (se ao menos eu não fosse tão velho…)</string>
-    <string name="main_story_the_carpenter_6">Quer dizer que encontrou um &font_wood;Barco Naufragado &font_end;em &font_cyan;%1$d&font_end;, &font_cyan;%2$d &font_end;? Acho que poderei consertá-lo se você trouxer &font_wood;Madeira&font_end; suficiente!</string>
+    <string name="main_story_the_carpenter_6">Quer dizer que encontrou um &font_wood;Barco Naufragado &font_end;em &font_cyan;%1$d&font_end;, &font_cyan;%2$d &font_end;? Acho que poderei consertá-lo se você trouxer &font_wood;Madeira&font_end;
+        suficiente!</string>
     <string name="main_story_the_carpenter_7">Tome. Use o meu &font_wood;Machado&font_end;! Você poderá cortar &font_wood;Árvores &font_end;com ele para obter &font_wood;Madeira&font_end;.</string>
     <string name="main_story_the_carpenter_8">Certo. Irei esperá-lo próximo ao &font_wood;Barco Naufragado &font_end;enquanto você procura &font_wood;Madeira&font_end;! Acho que &font_cyan;5 &font_end;pedaços serão suficientes. Te vejo mais tarde!</string>
     <string name="main_story_the_carpenter_left">&font_wood;O Velho Carpinteiro &font_end;se foi…</string>
     <string name="main_story_the_carpenter_shipwreck_button">Falar sobre o &font_wood;Barco Naufragado&font_end;</string>
-    <string name="main_story_3">Encontre &font_cyan;5&font_end; x &font_wood;pedaços de Madeira&font_end; e leve-os para &font_wood;O Velho Carpinteiro &font_end;em &font_cyan;%1$d&font_end;, &font_cyan;%2$d &font_end;para que ele possa consertar o &font_wood;Barco Naufragado&font_end;!.</string>
+    <string name="main_story_3">Encontre &font_cyan;5&font_end; x &font_wood;pedaços de Madeira&font_end;
+        e leve-os para &font_wood;O Velho Carpinteiro &font_end;em &font_cyan;%1$d&font_end;, &font_cyan;%2$d &font_end;para que ele possa consertar o &font_wood;Barco Naufragado&font_end;!.</string>
     <string name="main_story_the_carpenter_second_dialog_1">Oi! Você encontrou &font_cyan;5 &font_end;pedaços de &font_wood;Madeira&font_end;?</string>
     <string name="main_story_the_carpenter_second_dialog_1_not_enough">Ah, você ainda não tem o suficiente… volte quando tiver pelo menos &font_cyan;5 &font_end;pedaços de &font_wood;Madeira&font_end;!</string>
     <string name="main_story_the_carpenter_second_dialog_2">Ah, que ótimo!! Começarei a trabalhar imediatamente!</string>
@@ -2281,86 +2306,90 @@
     <string name="main_story_cartographer_dialog_button_show_piece_of_map">Mostrar o &font_cyan;Pedaço de Mapa&font_end;</string>
     <string name="main_story_cartographer_dialog_2">Minha nossa… é o que penso que é? Não posso acreditar!</string>
     <string name="main_story_cartographer_dialog_3">Este é um dos lendários &font_cyan;Pedaços de Mapa &font_end;! É real!</string>
-    <string name=”main_story_cartographer_dialog_4”>Perdoe a minha empolgação… Eu nunca pensei que veria algo assim…</string>
-    <string name="main_story_cartographer_dialog_5" tools:ignore=”PluralsCandidate”>Bem, a lenda diz que, se você encontar os %1$d pedaços, poderá encontrar a &font_cyan;Island&font_end; onde vive &font_red;O Tirano&font_end;… Eu achava que era apenas uma lenda, mas agora vejo que ela existe…</string>
-    <string name=”main_story_cartographer_dialog_6”>Tenha cuidado durante a sua jornada em busca dos &font_cyan;Pedaços de Mapa&font_end;. Os monstros que os guardam são muito perigosos…</string>
-    <string name=”main_story_6”>Encontre &font_cyan;%1$d &font_end; x &font_cyan;Pedaço de Mapa&font_end;. &font_cyan;O Cartógrafo &font_end;lhe disse que, quando você o fizer, poderá juntar os pedaços para formar uma &font_cyan;Carta Náutica&font_end;, e finalmente poderá encontrar o local onde &font_red;O Tirano &font_end;se encontra.</string>
-    <string name="main_story_6_got_a_piece_total_amount" tools:ignore=”PluralsCandidate”>Você obteve um &font_cyan;Pedaço de Mapa&font_end;! Você possui %1$d pedaços! Faltam %2$d pedaços…</string>
-    <string name="main_story_6_got_the_pieces" tools:ignore=”PluralsCandidate”>Você obteve todos os pedaços! Combine-os como &font_cyan;O Cartógrafo &font_end;mandou…</string>
-    <string name=”main_story_7”>Siga a &font_cyan;Carta Náutica&font_end; até a &font_cyan;Ilha &font_end;onde está &font_red;O Tirano&font_end; e o mate!</string>
-    <string name=”main_story_7_advice_before_sail_title”>Viajar até a &font_cyan;Ilha&font_end; onde está &font_red;O Tirano&font_end;?</string>
-    <string name=”main_story_7_advice_before_sail_message”>Você está pronto? Você pode não conseguir voltar de lá…</string>
-    <string name=”monster_thetyrant”>O Tirano</string>
-    <string name=”main_story_7_the_tyrant_message_1”>Por favor, pare! Eu me rendo!</string>
-    <string name=”main_story_7_the_tyrant_message_2”>Eu estava apenas seguindo ordens… Ele… Ele disse que me mataria se eu não seguisse as suas ordens…</string>
-    <string name=”main_story_7_the_tyrant_message_2_button”>Quem?</string>
-    <string name=”main_story_7_the_tyrant_message_3”>Não posso dizer… se bem que… você ia me matar de qualquer forma, então...</string>
-    <string name=”main_story_7_the_tyrant_message_4”>Ele não tem nome… Ele é… &font_red;O Diabo&font_end;…</string>
-    <string name=”main_story_7_the_tyrant_message_5”>Ele está no &font_red;Inferno&font_end;…</string>
-    <string name=”main_story_7_the_tyrant_message_6”>Eu lhe darei esta &font_cyan;Carta Náutica &font_end;para o &font_red;Inferno&font_end;…</string>
-    <string name=”main_story_7_the_tyrant_message_7”>Eu te aconselho a se preparar antes de ir. A &font_red;Lava &font_end;e o próprio &font_red;Inferno &font_end;irão feri-lo, e os monstros de lá são muito mais ferozes do que os meus…</string>
-    <string name=”main_story_7_the_tyrant_message_8”>Boa sorte! Se perguntarem, eu não disse nada!</string>
-    <string name=”tyrant_disappears”>&font_red;O Tirano&font_end; desaparece…</string>
-    <string name=”main_story_7_ship_is_back”>O seu &font_wood;Barco&font_end; está de volta…</string>
-    <string name=”main_story_7_the_tyrant_pre_combat_message_1”>Hein? O que pensa que está fazendo aqui?</string>
+    <string name="main_story_cartographer_dialog_4">Perdoe a minha empolgação… Eu nunca pensei que veria algo assim…</string>
+    <string name="main_story_cartographer_dialog_5" tools:ignore="PluralsCandidate">Bem, a lenda diz que, se você encontar os %1$d pedaços, poderá encontrar a &font_cyan;Island&font_end;
+        onde vive &font_red;O Tirano&font_end;… Eu achava que era apenas uma lenda, mas agora vejo que ela existe…</string>
+    <string name="main_story_cartographer_dialog_6">Tenha cuidado durante a sua jornada em busca dos &font_cyan;Pedaços de Mapa&font_end;. Os monstros que os guardam são muito perigosos…</string>
+    <string name="main_story_6">Encontre &font_cyan;%1$d &font_end; x &font_cyan;Pedaço de Mapa&font_end;. &font_cyan;O Cartógrafo &font_end;lhe disse que, quando você o fizer, poderá juntar os pedaços para formar uma &font_cyan;Carta Náutica&font_end;, e finalmente poderá encontrar o local onde &font_red;O Tirano &font_end;se encontra.</string>
+    <string name="main_story_6_got_a_piece_total_amount" tools:ignore="PluralsCandidate">Você obteve um &font_cyan;Pedaço de Mapa&font_end;! Você possui %1$d pedaços! Faltam %2$d pedaços…</string>
+    <string name="main_story_6_got_the_pieces" tools:ignore="PluralsCandidate">Você obteve todos os pedaços! Combine-os como &font_cyan;O Cartógrafo &font_end;mandou…</string>
+    <string name="main_story_7">Siga a &font_cyan;Carta Náutica&font_end;
+        até a &font_cyan;Ilha &font_end;onde está &font_red;O Tirano&font_end; e o mate!</string>
+    <string name="main_story_7_advice_before_sail_title">Viajar até a &font_cyan;Ilha&font_end; onde está &font_red;O Tirano&font_end;?</string>
+    <string name="main_story_7_advice_before_sail_message">Você está pronto? Você pode não conseguir voltar de lá…</string>
+    <string name="monster_thetyrant">O Tirano</string>
+    <string name="main_story_7_the_tyrant_message_1">Por favor, pare! Eu me rendo!</string>
+    <string name="main_story_7_the_tyrant_message_2">Eu estava apenas seguindo ordens… Ele… Ele disse que me mataria se eu não seguisse as suas ordens…</string>
+    <string name="main_story_7_the_tyrant_message_2_button">Quem?</string>
+    <string name="main_story_7_the_tyrant_message_3">Não posso dizer… se bem que… você ia me matar de qualquer forma, então...</string>
+    <string name="main_story_7_the_tyrant_message_4">Ele não tem nome… Ele é… &font_red;O Diabo&font_end;…</string>
+    <string name="main_story_7_the_tyrant_message_5">Ele está no &font_red;Inferno&font_end;…</string>
+    <string name="main_story_7_the_tyrant_message_6">Eu lhe darei esta &font_cyan;Carta Náutica &font_end;para o &font_red;Inferno&font_end;…</string>
+    <string name="main_story_7_the_tyrant_message_7">Eu te aconselho a se preparar antes de ir. A &font_red;Lava &font_end;e o próprio &font_red;Inferno &font_end;irão feri-lo, e os monstros de lá são muito mais ferozes do que os meus…</string>
+    <string name="main_story_7_the_tyrant_message_8">Boa sorte! Se perguntarem, eu não disse nada!</string>
+    <string name="tyrant_disappears">&font_red;O Tirano&font_end; desaparece…</string>
+    <string name="main_story_7_ship_is_back">O seu &font_wood;Barco&font_end;
+        está de volta…</string>
+    <string name="main_story_7_the_tyrant_pre_combat_message_1">Hein? O que pensa que está fazendo aqui?</string>
     <string name="main_story_7_the_tyrant_pre_combat_message_2">Hahaha! Vejamos quanto tempo você consegue sobreviver até EU TE MATAR!</string>
-    <string name=”main_story_7_the_tyrant_pre_combat_message_button”>Matar você</string>
-    <string name=”main_story_8”>Vá para o &font_hell;Inferno&font_end; e mate o &font_hell;Diabo&font_end;!</string>
-    <string name=”main_story_8_advice_before_sail_title”>Viajar para a &font_cyan;Ilha&font_end; &font_red;Inferno&font_end;?</string>
-    <string name=”main_story_8_advice_before_sail_message”>Tem certeza? Você pode não conseguir voltar de lá…</string>
-    <string name=”monster_devil”>Diabo</string>
+    <string name="main_story_7_the_tyrant_pre_combat_message_button">Matar você</string>
+    <string name="main_story_8">Vá para o &font_hell;Inferno&font_end; e mate o &font_hell;Diabo&font_end;!</string>
+    <string name="main_story_8_advice_before_sail_title">Viajar para a &font_cyan;Ilha&font_end; &font_red;Inferno&font_end;?</string>
+    <string name="main_story_8_advice_before_sail_message">Tem certeza? Você pode não conseguir voltar de lá…</string>
+    <string name="monster_devil">Diabo</string>
     <string name="main_story_8_the_devil_pre_combat_message_1">Bah! Eu sabia que não podia contar com &font_red;O Tirano&font_end;!</string>
-    <string name=”main_story_8_the_devil_pre_combat_message_2”>Espero que aquele rato preguiçoso esteja morto, ou eu mesmo o matarei!</string>
-    <string name=”main_story_8_the_devil_pre_combat_message_3”>Bem… e quanto a você… prepare-se… prepare-se para morrer!</string>
+    <string name="main_story_8_the_devil_pre_combat_message_2">Espero que aquele rato preguiçoso esteja morto, ou eu mesmo o matarei!</string>
+    <string name="main_story_8_the_devil_pre_combat_message_3">Bem… e quanto a você… prepare-se… prepare-se para morrer!</string>
     <string name="main_story_8_devil_message_1">Oh… Sinto muito… &font_corrupted_god;Deus&font_end;, me perdoe…</string>
-    <string name=”devil_disappears”>&font_red;O Diabo&font_end; desaparece…</string>
-    <string name=”main_story_9”>Encontre o &font_corrupted_god;Deus Corrompido &font_end;no &font_heaven;Paraíso&font_end;, mate-o e salve o mundo de uma vez por todas!</string>
-    <string name=”monster_corrupted_god”>Deus Corrompido</string>
-    <string name=”main_story_8_corrupted_god_pre_combat_message_1”>Você não sabe de nada…</string>
-    <string name=”main_story_8_corrupted_god_pre_combat_message_2”>Deixe-me te contar algo antes de esmagá-lo como um inseto…</string>
-    <string name=”main_story_8_corrupted_god_pre_combat_message_3”>Existem infinitos &font_hell;Infernos &font_end;e &font_heaven;Paraísos&font_end;, como dimensões infinitas…</string>
-    <string name=”main_story_8_corrupted_god_pre_combat_message_4”>Tudo isto não passa de um jogo de xadrez para &font_corrupted_god;Deus&font_end;… Não há esperança para mortais como você.</string>
-    <string name=”main_story_8_corrupted_god_pre_combat_message_5”>Todos vocês, entutulados Lendas, sempre se esforçam tanto para \”salvar o mundo\"… mas isso não passa de uma causa perdida, pois sempre haverá um Deus com o verdadeiro poder… VOCÊ é uma causa perdida…</string>
-    <string name=”main_story_8_corrupted_god_pre_combat_message_6”>Bem… Acho que está na hora… ISTO DEVE TERMINAR AGORA!</string>
-    <string name=”main_story_9_corrupted_god_message_1”>Essa não… Eu… Eu não entendo… Como isto é possível? Será possível que você seja... Você é...? Não... Não pode ser...</string>
-    <string name=”main_story_9_advice_before_sail_title”>Viajar para a &font_cyan;Ilha&font_end; &font_heaven;Paraíso&font_end;?</string>
-    <string name=”main_story_9_advice_before_sail_message”>Tem certeza? Você pode não conseguir voltar de lá…</string>
-    <string name=”main_story_10”>Fugir do &font_heaven;Paraíso&font_end;</string>
-    <string name=”main_story_10_dialog_title”>Você dorme</string>
-    <string name=”main_story_10_dialog_message”>Você perde a consciência assim que o &font_wood;Barco &font_end;começa a navegar…</string>
-    <string name=”main_story_sail_advice_wont_be_able_to_come_back_to_island”>Se navegar, você não poderá voltar para %1$s!&br;&br;Deseja navegar?</string>
-    <string name=”main_story_heaven_gate_advice_wont_be_able_to_come_back_to_island”>Você não poderá voltar para %2$s se entrar em %1$s!&br; Entrar mesmo assim?</string>
+    <string name="devil_disappears">&font_red;O Diabo&font_end; desaparece…</string>
+    <string name="main_story_9">Encontre o &font_corrupted_god;Deus Corrompido &font_end;no &font_heaven;Paraíso&font_end;, mate-o e salve o mundo de uma vez por todas!</string>
+    <string name="monster_corrupted_god">Deus Corrompido</string>
+    <string name="main_story_8_corrupted_god_pre_combat_message_1">Você não sabe de nada…</string>
+    <string name="main_story_8_corrupted_god_pre_combat_message_2">Deixe-me te contar algo antes de esmagá-lo como um inseto…</string>
+    <string name="main_story_8_corrupted_god_pre_combat_message_3">Existem infinitos &font_hell;Infernos &font_end;e &font_heaven;Paraísos&font_end;, como dimensões infinitas…</string>
+    <string name="main_story_8_corrupted_god_pre_combat_message_4">Tudo isto não passa de um jogo de xadrez para &font_corrupted_god;Deus&font_end;… Não há esperança para mortais como você.</string>
+    <string name="main_story_8_corrupted_god_pre_combat_message_5">Todos vocês, entutulados Lendas, sempre se esforçam tanto para \"salvar o mundo\"… mas isso não passa de uma causa perdida, pois sempre haverá um Deus com o verdadeiro poder… VOCÊ é uma causa perdida…</string>
+    <string name="main_story_8_corrupted_god_pre_combat_message_6">Bem… Acho que está na hora… ISTO DEVE TERMINAR AGORA!</string>
+    <string name="main_story_9_corrupted_god_message_1">Essa não… Eu… Eu não entendo… Como isto é possível? Será possível que você seja... Você é...? Não... Não pode ser...</string>
+    <string name="main_story_9_advice_before_sail_title">Viajar para a &font_cyan;Ilha&font_end; &font_heaven;Paraíso&font_end;?</string>
+    <string name="main_story_9_advice_before_sail_message">Tem certeza? Você pode não conseguir voltar de lá…</string>
+    <string name="main_story_10">Fugir do &font_heaven;Paraíso&font_end;</string>
+    <string name="main_story_10_dialog_title">Você dorme</string>
+    <string name="main_story_10_dialog_message">Você perde a consciência assim que o &font_wood;Barco &font_end;começa a navegar…</string>
+    <string name="main_story_sail_advice_wont_be_able_to_come_back_to_island">Se navegar, você não poderá voltar para %1$s!&br;&br;Deseja navegar?</string>
+    <string name="main_story_heaven_gate_advice_wont_be_able_to_come_back_to_island">Você não poderá voltar para %2$s se entrar em %1$s!&br;
+        Entrar mesmo assim?</string>
 
-    <string name=”professional_quest_giving_quest_0”>Olá, Lenda! Deseja aprender o básico sobre a profissão %1$s?</string>
-    <string name=”professional_quest_giving_quest_1_dialog”>Traga %1$s até aqui e lhe explicarei o restante! Você poderá &font_cyan;fabricar &font_end;se souber a receita, ou comprar diretamente em uma &font_gold;loja&font_end;.</string>
-    <string name="professional_quest_giving_quest_1_description”>O %1$s, em &font_cyan;%2$d&font_end;, &font_cyan;%3$d &font_end;pediu que lhe trouxesse %4$s. Você poderá &font_cyan;fabricar &font_end;se souber a receita, ou comprar diretamente em uma &font_gold;loja&font_end;.</string>
-    <string name=”professional_quest_giving_quest_1_check_if_have_tool_dialog”>Você trouxe %1$s?</string>
-    <string name=”professional_quest_giving_quest_1_positive_have”>Muito bem! Deixe-me ver… Certo! Isso irá servir!</string>
-    <string name=”professional_quest_giving_quest_1_positive_dont_have”>Sinto muito, mas parece que você não tem…</string>
-    <string name=”professional_quest_giving_quest_1_negative”>Ah, mas não se preocupe. Volte quando tiver!</string>
-    <string name=”professional_quest_giving_quest_2_dialog”>Aprenda como se tornar %1$s usando %2$s.</string>
-    <string name=”professional_quest_giving_quest_3_dialog_miner”>Utilize %1$s para &font_silver;escavar &font_end;uma &font_silver;Rocha &font_end;ou de uma&font_silver;Mina &font_end;para obter &font_silver;pedras &font_end;e minérios.&br;&br;Traga-me &font_cyan;%2$d &font_end;%3$s para completar o seu treinamento.</string>
-    <string name=”professional_quest_giving_quest_3_dialog_woodcutter”>Utilize %1$s para &font_wood;cortar &font_end;uma &font_wood;árvore &font_end;para obter &font_wood;madeira&font_end;.&br;&br;Traga-me &font_cyan;%2$d &font_end;%3$s para completar o seu treinamento.</string>
-    <string name=”professional_quest_giving_quest_3_dialog_butcher”>Utilize %1$s para &font_red;cortar &font_end;um &font_red;cadáver de monstro &font_end;para obter &font_red;carne de monstro&font_end;.&br;&br;Traga-me &font_cyan;%2$d &font_end;%3$s para completar o seu treinamento.</string>
-    <string name=”professional_quest_giving_quest_3_dialog_bughunter”>Utilize %1$s para &font_insect;capturar &font_end;um &font_insect;Inseto&font_end;.&br;&br;Traga-me &font_cyan;%2$d &font_end;%3$s para completar o seu treinamento.</string>
-    <string name=”professional_quest_giving_quest_3_dialog_fisherman”>Utilize %1$s para &font_cyan;pescar &font_end;em um &font_cyan;Ponto de Pesca&font_end;.&br;&br;Traga-me &font_cyan;%2$d &font_end;%3$s para completar o seu treinamento.</string>
-    <string name=”professional_quest_giving_quest_3_dialog_furrier”>Utilize %1$s para &font_skin;esfolar &font_end;um &font_red;cadáver de monstro &font_end;para obter &font_skin;pele&font_end;.&br;&br;Traga-me &font_cyan;%2$d &font_end;%3$s para completar o seu treinamento.</string>
-    <string name="professional_quest_giving_quest_3_desc_miner”>O %1$s, em &font_cyan;%2$d&font_end;, &font_cyan;%3$d &font_end;pediu que lhe trouxesse &font_cyan;%4$d &font_end;%5$s.</string>
-    <string name="professional_quest_giving_quest_3_desc_woodcutter”>O %1$s, em &font_cyan;%2$d&font_end;, &font_cyan;%3$d &font_end;pediu que lhe trouxesse &font_cyan;%4$d &font_end;%5$s.</string>
-    <string name="professional_quest_giving_quest_3_desc_butcher”>O %1$s, em &font_cyan;%2$d&font_end;, &font_cyan;%3$d &font_end;pediu que lhe trouxesse &font_cyan;%4$d &font_end;%5$s.</string>
-    <string name="professional_quest_giving_quest_3_desc_bughunter”>O %1$s, em &font_cyan;%2$d&font_end;, &font_cyan;%3$d &font_end;pediu que lhe trouxesse &font_cyan;%4$d &font_end;%5$s.</string>
-    <string name="professional_quest_giving_quest_3_desc_fisherman”>O %1$s, em &font_cyan;%2$d&font_end;, &font_cyan;%3$d &font_end;pediu que lhe trouxesse &font_cyan;%4$d &font_end;%5$s.</string>
-    <string name="professional_quest_giving_quest_3_desc_furrier”>O %1$s, em &font_cyan;%2$d&font_end;, &font_cyan;%3$d &font_end;pediu que lhe trouxesse &font_cyan;%4$d &font_end;%5$s.</string>
-    <string name=”professional_quest_giving_quest_4_check_if_have_materials”>Você possui os materiais necessários?</string>
-    <string name=”professional_quest_giving_quest_4_negative”>Volte quando tiver os materiais…</string>
-    <string name=”professional_quest_giving_quest_4_positive_dont_have”>Sinto muito, mas parece que você não tem os materiais necessários…</string>
-    <string name=”professional_quest_giving_quest_4_positive_have”>Que bom! Você possui os materiais! Quer saber? Pode ficar com eles.</string>
-    <string name=”professional_step_5”>Então, este é o básico da profissão… &font_gold;Compre &font_end;ou &font_cyan;fabrique &font_end;uma &font_cyan;ferramenta &font_end;e a utilize para extrair os materiais… Com os materiais você pode &font_cyan;fabricar&font_end; &font_cyan;armas&font_end;, &font_cyan;armaduras&font_end;, &font_cyan;poções &font_end;e muito mais…</string>
-    <string name=”professional_step_6”>Tome, pode ficar com isto: %1$s! Boa sorte em suas aventuras, Lenda!</string>
-    <string name=”professional_no_quest_message”>Agora os preparativos estão prontos para o sucesso! Boa sorte, Lenda!</string>
+    <string name="professional_quest_giving_quest_0">Olá, Lenda! Deseja aprender o básico sobre a profissão %1$s?</string>
+    <string name="professional_quest_giving_quest_1_dialog">Traga %1$s até aqui e lhe explicarei o restante! Você poderá &font_cyan;fabricar &font_end;se souber a receita, ou comprar diretamente em uma &font_gold;loja&font_end;.</string>
+    <string name="professional_quest_giving_quest_1_description">O %1$s, em &font_cyan;%2$d&font_end;, &font_cyan;%3$d &font_end;pediu que lhe trouxesse %4$s. Você poderá &font_cyan;fabricar &font_end;se souber a receita, ou comprar diretamente em uma &font_gold;loja&font_end;.</string>
+    <string name="professional_quest_giving_quest_1_check_if_have_tool_dialog">Você trouxe %1$s?</string>
+    <string name="professional_quest_giving_quest_1_positive_have">Muito bem! Deixe-me ver… Certo! Isso irá servir!</string>
+    <string name="professional_quest_giving_quest_1_positive_dont_have">Sinto muito, mas parece que você não tem…</string>
+    <string name="professional_quest_giving_quest_1_negative">Ah, mas não se preocupe. Volte quando tiver!</string>
+    <string name="professional_quest_giving_quest_2_dialog">Aprenda como se tornar %1$s usando %2$s.</string>
+    <string name="professional_quest_giving_quest_3_dialog_miner">Utilize %1$s para &font_silver;escavar &font_end;uma &font_silver;Rocha &font_end;ou de uma&font_silver;Mina &font_end;para obter &font_silver;pedras &font_end;e minérios.&br;&br;Traga-me &font_cyan;%2$d &font_end;%3$s para completar o seu treinamento.</string>
+    <string name="professional_quest_giving_quest_3_dialog_woodcutter">Utilize %1$s para &font_wood;cortar &font_end;uma &font_wood;árvore &font_end;para obter &font_wood;madeira&font_end;.&br;&br;Traga-me &font_cyan;%2$d &font_end;%3$s para completar o seu treinamento.</string>
+    <string name="professional_quest_giving_quest_3_dialog_butcher">Utilize %1$s para &font_red;cortar &font_end;um &font_red;cadáver de monstro &font_end;para obter &font_red;carne de monstro&font_end;.&br;&br;Traga-me &font_cyan;%2$d &font_end;%3$s para completar o seu treinamento.</string>
+    <string name="professional_quest_giving_quest_3_dialog_bughunter">Utilize %1$s para &font_insect;capturar &font_end;um &font_insect;Inseto&font_end;.&br;&br;Traga-me &font_cyan;%2$d &font_end;%3$s para completar o seu treinamento.</string>
+    <string name="professional_quest_giving_quest_3_dialog_fisherman">Utilize %1$s para &font_cyan;pescar &font_end;em um &font_cyan;Ponto de Pesca&font_end;.&br;&br;Traga-me &font_cyan;%2$d &font_end;%3$s para completar o seu treinamento.</string>
+    <string name="professional_quest_giving_quest_3_dialog_furrier">Utilize %1$s para &font_skin;esfolar &font_end;um &font_red;cadáver de monstro &font_end;para obter &font_skin;pele&font_end;.&br;&br;Traga-me &font_cyan;%2$d &font_end;%3$s para completar o seu treinamento.</string>
+    <string name="professional_quest_giving_quest_3_desc_miner">O %1$s, em &font_cyan;%2$d&font_end;, &font_cyan;%3$d &font_end;pediu que lhe trouxesse &font_cyan;%4$d &font_end;%5$s.</string>
+    <string name="professional_quest_giving_quest_3_desc_woodcutter">O %1$s, em &font_cyan;%2$d&font_end;, &font_cyan;%3$d &font_end;pediu que lhe trouxesse &font_cyan;%4$d &font_end;%5$s.</string>
+    <string name="professional_quest_giving_quest_3_desc_butcher">O %1$s, em &font_cyan;%2$d&font_end;, &font_cyan;%3$d &font_end;pediu que lhe trouxesse &font_cyan;%4$d &font_end;%5$s.</string>
+    <string name="professional_quest_giving_quest_3_desc_bughunter">O %1$s, em &font_cyan;%2$d&font_end;, &font_cyan;%3$d &font_end;pediu que lhe trouxesse &font_cyan;%4$d &font_end;%5$s.</string>
+    <string name="professional_quest_giving_quest_3_desc_fisherman">O %1$s, em &font_cyan;%2$d&font_end;, &font_cyan;%3$d &font_end;pediu que lhe trouxesse &font_cyan;%4$d &font_end;%5$s.</string>
+    <string name="professional_quest_giving_quest_3_desc_furrier">O %1$s, em &font_cyan;%2$d&font_end;, &font_cyan;%3$d &font_end;pediu que lhe trouxesse &font_cyan;%4$d &font_end;%5$s.</string>
+    <string name="professional_quest_giving_quest_4_check_if_have_materials">Você possui os materiais necessários?</string>
+    <string name="professional_quest_giving_quest_4_negative">Volte quando tiver os materiais…</string>
+    <string name="professional_quest_giving_quest_4_positive_dont_have">Sinto muito, mas parece que você não tem os materiais necessários…</string>
+    <string name="professional_quest_giving_quest_4_positive_have">Que bom! Você possui os materiais! Quer saber? Pode ficar com eles.</string>
+    <string name="professional_step_5">Então, este é o básico da profissão… &font_gold;Compre &font_end;ou &font_cyan;fabrique &font_end;uma &font_cyan;ferramenta &font_end;e a utilize para extrair os materiais… Com os materiais você pode &font_cyan;fabricar&font_end; &font_cyan;armas&font_end;, &font_cyan;armaduras&font_end;, &font_cyan;poções &font_end;e muito mais…</string>
+    <string name="professional_step_6">Tome, pode ficar com isto: %1$s! Boa sorte em suas aventuras, Lenda!</string>
+    <string name="professional_no_quest_message">Agora os preparativos estão prontos para o sucesso! Boa sorte, Lenda!</string>
 
-    <string name=”merchant_abandon_quest_title”>Abandonar Missão do &font_gold;Mercador&font_end;</string>
-    <string name=”merchant_abandon_quest_message”>Tem certeza que deseja abandonar &italic;\"%1$s\"&italic_end;?</string>
+    <string name="merchant_abandon_quest_title">Abandonar Missão do &font_gold;Mercador&font_end;</string>
+    <string name="merchant_abandon_quest_message">Tem certeza que deseja abandonar &italic;\"%1$s\"&italic_end;?</string>
 
 
     <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
@@ -3463,7 +3492,6 @@
 
     <string name="item_info_ascension_flame">You feel this &asterisk_ascend_color;Ascension &font_end;&font_red;Flame &font_end;is the most powerful thing you\'ve ever touched… You wonder what may this be used for…</string>
     <string name="settings_leaderboards">Leaderboards</string>
-
 
 
     <string name="tool_wasted">%1$s is wasted! Use a %2$s to repair it.</string>
