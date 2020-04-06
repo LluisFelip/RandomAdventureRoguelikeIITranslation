@@ -2728,12 +2728,12 @@
     <string name="stats_extra_max_health">&font_health;Vie&font_end; max. : &font_health;%d&font_end;</string>
     <string name="stats_extra_max_hunger">&font_hunger;Faim&font_end; max. : &font_hunger;%d&font_end;</string>
 
-    <string name="item_crocodile_tear_ring">&font_glass;Larme de crocodile &font_end;Ring</string>
-    <string name="item_snake_scale_boots">&font_scale;Écaille de serpent &font_end;Boots</string>
-    <string name="item_spider_silk_pants">&font_tundra;Soie d\'araignée &font_end;Pants</string>
-    <string name="item_owl_feather_gloves">&font_wood;Plume de hibou &font_end;Gloves</string>
-    <string name="item_goat_wool_robes">&font_wood;Cachemire &font_end;Robe</string>
-    <string name="item_emerald_amulet">&font_emerald;Émeraude &font_end;Amulet</string>
+    <string name="item_crocodile_tear_ring">Anneau &font_glass;larme de crocodile &font_end;</string>
+    <string name="item_snake_scale_boots">Bottes en &font_scale;écailles de serpent &font_end;</string>
+    <string name="item_spider_silk_pants">Pantalon en &font_tundra;soie d\'araignée &font_end;</string>
+    <string name="item_owl_feather_gloves">Gants en &font_wood;plumes de hibou &font_end;</string>
+    <string name="item_goat_wool_robes">Manteau en &font_wood;cachemire &font_end;</string>
+    <string name="item_emerald_amulet">Amulette en &font_emerald;émeraude &font_end;</string>
 
     <string name="settings_vibration">Vibrations</string>
 
