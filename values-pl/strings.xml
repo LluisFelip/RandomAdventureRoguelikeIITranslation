@@ -3806,4 +3806,15 @@
     <string name="young_child_extra_advice_1">Oh, ok… Well, since you seem kind of disoriented, let me give you my advice…&br;&br;I wouldn\'t engage into combat against stronger monsters than you, at least not until you feel you are ready.</string>
     <string name="young_child_extra_advice_2">If I were you, I\'d buy some &font_cyan;Equipment &font_end;at an &font_bronze;Armory &font_end;or a powerful &font_mana;Spell &font_end;at a &font_mana;Magic &font_end;&font_gold;Shop &font_end;if you want to protect yourself better…&br;&br;And no, I don\'t collect commission for this! Even though my &italic;Uncle &italic_end;works at the &font_bronze;Armory &font_end;and my &italic;Grandma &italic_end;runs the &font_mana;Magic &font_end;&font_gold;Shop&font_end;…</string>
     <string name="young_child_extra_advice_3">Ah! And you should eat when you are &font_hunger;hungry &font_end;or you will die faster than you think!&br;&br;You can &font_cyan;eat &font_end;&font_plant;food &font_end;from your &font_wood;Inventory &font_end;or eat at a &font_bar;Bar &font_end;or a &font_bar;Tavern&font_end;…</string>
+
+    <string name="pyramid_was_cursed_and_closed">The &font_pyramid;Pyramid &font_end;was cursed and closed!</string>
+    <string name="pyramid_is_now_open">The &font_pyramid;Pyramid &font_end;is now open!</string>
+    <string name="pyramid_didnt_open">The &font_pyramid;Pyramid &font_end;didn\'t open…</string>
+    <string name="new_game_chicken_mode_selected">In &font_animal;Chicken Mode &font_end;you will have the following advantages:&br;&br;* &font_red;Monsters &font_end;won\'t block you from interacting with &font_cyan;NPCs&font_end;.&br;&br;* You will start with some extra &font_gold;Gold&font_end;.&br;&br;* Your starting base stats will be slightly better.&br;&br;* You will have extra &font_speed;Speed &font_end;when &font_cyan;fleeing &font_end;from &font_red;Monsters&font_end;.&br;&br;* \"&font_animal;Chicken Mode&font_end;\" will be shown in your &font_cyan;hero &font_end;stats screen!</string>
+    <string name="chicken_mode_checkbox">&font_animal;Chicken Mode&font_end;</string>
+    <string name="new_game_chicken_mode_not_selected">Enjoy the regular RAR II experience.</string>
+    <string name="chicken_mode_in_stats">&font_animal;Chicken Mode&font_end;</string>
+    <string name="the_chicken_smiles_at_you">The &font_animal;Chicken &font_end;smiles at you…</string>
+    <string name="achievement_name_chicken_feed_chicken">Chicken Feeds Chicken</string>
+    <string name="achievement_desc_chicken_feed_chicken">Feed a Chicken in Chicken Mode.</string>
 </resources>

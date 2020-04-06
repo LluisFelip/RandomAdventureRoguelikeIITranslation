@@ -175,7 +175,8 @@
     <string name="text_update_available_cancel">Zrušit</string>
 
     <string name="game_over_rank_top">Dostal jsi se na první místo &font_cyan;#%d&font_end; na hřbitově!</string>
-    <string name="game_over_rank_rest">Dostal ses na místo &font_cyan;#%d &font_end; na hřbitově.</string>
+    <string name="game_over_rank_rest">Dostal ses na místo &font_cyan;#%d &font_end;
+        na hřbitově.</string>
 
     <string name="welcome_message_title">Vítej</string>
 
@@ -212,28 +213,38 @@
     <string name="advantage_blacksmith">&font_silver;Kovář&font_end;</string>
     <string name="advantage_noble">&font_gold;Urozený&font_end;</string>
     <string name="advantage_librarian">&font_wood;Knihovník&font_end;</string>
-    <string name="advantage_librarian_desc">(Začneš s náhodným receptem, Lektvarem &font_cyan;zkušenosti &font_end; a 5 body &font_cyan;dovednosti&font_end;)</string>
+    <string name="advantage_librarian_desc">(Začneš s náhodným receptem, Lektvarem &font_cyan;zkušenosti &font_end;
+        a 5 body &font_cyan;dovednosti&font_end;)</string>
     <string name="advantage_random_desc">(Začneš s náhodným talentem)</string>
-    <string name="advantage_warrior_desc">(Začneš se &font_attack;Zbraní&font_end;, &font_defense;Štítem&font_end; a částí &font_defense;Brnění&font_end;)</string>
+    <string name="advantage_warrior_desc">(Začneš se &font_attack;Zbraní&font_end;, &font_defense;Štítem&font_end;
+        a částí &font_defense;Brnění&font_end;)</string>
     <string name="advantage_ranger_desc">(Začneš se &font_speed;Zbraní na dálku&font_end; a trochou munice)</string>
 
 
     <!-- NOTE FOR LANGUAGES ALREADY TRANSLATED: Translate these three  - - - - - - - - - - - - - -->
-    <string name="advantage_wizard_desc">(Začneš s náhodným &font_mana;Kouzlem&font_end; a &font_mana;Hůlkou&font_end;)</string>
-    <string name="advantage_cleric_desc">(Začneš se znalostí &font_health;Uzdravovacího&font_end; &font_mana;kouzla &font_end; a &font_mana;Hůlkou&font_end;)</string>
+    <string name="advantage_wizard_desc">(Začneš s náhodným &font_mana;Kouzlem&font_end;
+        a &font_mana;Hůlkou&font_end;)</string>
+    <string name="advantage_cleric_desc">(Začneš se znalostí &font_health;Uzdravovacího&font_end; &font_mana;kouzla &font_end;
+        a &font_mana;Hůlkou&font_end;)</string>
     <!-- TODO -->
     <string name="advantage_petmaster_desc">(Začneš s &font_mana;kouzlem&font_end; &font_pet;Chytit&font_end; &font_red;příšeru&font_end;, a CR &font_cyan;0&font_end; &font_red;Monster&font_end; &font_pet;Pet &font_end;and a &font_pet;Pet &font_end;&font_cyan;Collar&font_end;)</string>
     <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
 
     <string name="advantage_worker_desc">(Začneš s náhodným &font_cyan;Nástrojem&font_end;)</string>
-    <string name="advantage_alchemist_desc">(Začneš se znalostí receptu &font_cyan;1&font_end; typu lektvaru a &font_cyan;3&font_end; náhodnými materiály)</string>
-    <string name="advantage_blacksmith_desc">(Na začátku budeš umět vyrobit &font_attack;Zbraň&font_end;, &font_defense;Štít&font_end; a část &font_defense;Brnění&font_end; a dostaneš &font_cyan;3&font_end; náhodné materiály)</string>
+    <string name="advantage_alchemist_desc">(Začneš se znalostí receptu &font_cyan;1&font_end; typu lektvaru a &font_cyan;3&font_end;
+        náhodnými materiály)</string>
+    <string name="advantage_blacksmith_desc">(Na začátku budeš umět vyrobit &font_attack;Zbraň&font_end;, &font_defense;Štít&font_end;
+        a část &font_defense;Brnění&font_end; a dostaneš &font_cyan;3&font_end;
+        náhodné materiály)</string>
     <string name="advantage_noble_desc">(Na začátku dostaneš více &font_gold;zlata&font_end;)</string>
     <string name="advantage_random_selected">Začínáš jako: %1$s!</string>
 
     <string name="new_game_permadeath_question">Vyber si režim hry…</string>
-    <string name="new_game_permadeath_selected">&font_red;&bold;SMRTELNÝ&bold_end;&font_end; režim zvolen.&br;&br;Když &font_red;zemřeš&font_end;, &font_cyan;ztratíš úplně vše&font_end; a budeš muset &font_cyan;začít odznova&font_end;!</string>
-    <string name="new_game_no_permadeath_selected">&font_red;&bold;NESMRTELNÝ&bold_end;&font_end; režim zvolen.&br;&br;Když zemřeš, můžeš pokračovat ve hře od posledního &font_primary_light;&italic;[BODU ULOŽENÍ] &italic_end;&font_end;(když si odpočineš v &font_inn;Hostinci&font_end; nebo &font_cyan;získáš úroveň&font_end;, vytvoří se &font_primary_light;&italic;[BOD ULOŽENÍ] &italic_end;&font_end;).</string>
+    <string name="new_game_permadeath_selected">&font_red;&bold;SMRTELNÝ&bold_end;&font_end; režim zvolen.&br;&br;Když &font_red;zemřeš&font_end;, &font_cyan;ztratíš úplně vše&font_end;
+        a budeš muset &font_cyan;začít odznova&font_end;!</string>
+    <string name="new_game_no_permadeath_selected">&font_red;&bold;NESMRTELNÝ&bold_end;&font_end;
+        režim zvolen.&br;&br;Když zemřeš, můžeš pokračovat ve hře od posledního &font_primary_light;&italic;[BODU ULOŽENÍ] &italic_end;&font_end;(když si odpočineš v &font_inn;Hostinci&font_end;
+        nebo &font_cyan;získáš úroveň&font_end;, vytvoří se &font_primary_light;&italic;[BOD ULOŽENÍ] &italic_end;&font_end;).</string>
     <string name="saved_checkpoint">&font_primary_light;&italic;[BOD ULOŽENÍ]&italic_end;&font_end;</string>
 
     <string name="cemetery_clear">Vymazat</string>
@@ -346,7 +357,8 @@
     <string name="button_scrap_per_gold">Zpracovat: &font_gold;%1$d&font_end; zlata</string>
     <string name="button_feedback">&font_cyan;Zpětná vazba&font_end;</string>
     <string name="button_blacksmith_upgrade_equipment">Vylepšit &font_green;\*&font_end;Vybavení</string>
-    <string name="button_blacksmith_scrap_equipment">&font_copper;Zpracovat&font_end; Vybavení</string>
+    <string name="button_blacksmith_scrap_equipment">&font_copper;Zpracovat&font_end;
+        Vybavení</string>
     <string name="button_blacksmith_craft_bars">Vyrobit &font_gold;Pruty&font_end;</string>
     <string name="button_scrap">Scrap</string>
 
@@ -360,7 +372,8 @@
     <string name="inventory_amount_parenthesis">(&font_cyan;%1$d&font_end;)</string>
     <string name="inventory_pickup_couldnt">Nelze sebrat %1$s, máš plný inventář!</string>
     <string name="inventory_ate_thing">Snědl jsi %1$s!</string>
-    <string name="inventory_ate_thing_and_restored">Snědl jsi %1$s a snížil jsi svůj hlad o &font_cyan;%2$d&font_end; bodů.</string>
+    <string name="inventory_ate_thing_and_restored">Snědl jsi %1$s a snížil jsi svůj hlad o &font_cyan;%2$d&font_end;
+        bodů.</string>
     <string name="inventory_cooked_thing">Uvařil jsi %1$s!</string>
     <string name="inventory_pickup">Sebral jsi %1$s!</string>
     <string name="inventory_damaged_by">Zranil tě %1$s!</string>
@@ -424,7 +437,8 @@
     <string name="shop_empty_message_inventory">Nemáš žádné předměty…</string>
     <string name="shop_bought_item">Zakoupil jsi %1$s za &font_gold;%2$d&font_end;.</string>
     <string name="shop_sold_item">Prodal jsi %1$s za &font_gold;%2$d&font_end;.</string>
-    <string name="shop_sold_item_with_amount">Prodal jsi &font_cyan;%1$d&font_end; x %2$s za &font_gold;%3$d&font_end;.</string>
+    <string name="shop_sold_item_with_amount">Prodal jsi &font_cyan;%1$d&font_end;
+        x %2$s za &font_gold;%3$d&font_end;.</string>
     <string name="shop_sell_all_question">Prodat vše?</string>
     <string name="shop_spell_already_known">&italic;&font_mana;Kouzlo &font_end;již umíš&italic_end;</string>
 
@@ -450,11 +464,13 @@
     <string name="item_dark_orb">Temná koule</string>
     <string name="item_magic_stone_transformed_item">Transformoval jsi %1$s v %2$s!</string>
 
-    <string name="purifying_seed_plant_message">Chceš zasadit &font_plant;Semínko&font_end; &font_purifying;Očištění&font_end;?&br;&br;Jakmile z něj vyroste &font_wood;Strom&font_end; &font_purifying;Očištění&font_end;, na ostrově se už nebudou rodit další monstra.&br;&br;Je potřeba jej zalít &font_iron;Kbelíkem&font_end; &font_water;Vody&font_end; aby vyrostlo.</string>
+    <string name="purifying_seed_plant_message">Chceš zasadit &font_plant;Semínko&font_end; &font_purifying;Očištění&font_end;?&br;&br;Jakmile z něj vyroste &font_wood;Strom&font_end; &font_purifying;Očištění&font_end;, na ostrově se už nebudou rodit další monstra.&br;&br;Je potřeba jej zalít &font_iron;Kbelíkem&font_end; &font_water;Vody&font_end;
+        aby vyrostlo.</string>
     <string name="purifying_seed_island_already_purified">Záhadná magická síla ti brání zasadit ho… (Ostrov je již očištěn…)</string>
     <string name="purifying_seed_island_already_planted_purified_seed">Záhadná magická síla ti brání zasadit ho… (Na ostrově je již zasazeno &font_plant;Semínko&font_end; &font_purifying;Očištění&font_end;…)</string>
     <string name="purifying_seed_planted">Zasadil jsi &font_plant;Semínko&font_end; &font_purifying;Očištění&font_end;?&br;&br;.</string>
-    <string name="purifying_seed_watered_magically_grows">Ze &font_plant;Semínka&font_end; &font_purifying;Očištění&font_end;?&br;&br; magicky vyrostl  &font_wood;Strom&font_end; &font_purifying;Očištění&font_end;! Cítíš svěží sílu - ostrov je nyní očištěn.</string>
+    <string name="purifying_seed_watered_magically_grows">Ze &font_plant;Semínka&font_end; &font_purifying;Očištění&font_end;?&br;&br;
+        magicky vyrostl &font_wood;Strom&font_end; &font_purifying;Očištění&font_end;! Cítíš svěží sílu - ostrov je nyní očištěn.</string>
     <string name="purifying_tree_chop_title">Chceš pokácet &font_wood;Strom&font_end; &font_purifying;Očištění&font_end;?</string>
     <string name="purifying_tree_chop_message">Pokud pokácíš &font_wood;Strom&font_end; &font_purifying;Očištění&font_end;, na ostrově se zase začnou rodit monstra…</string>
     <string name="purifying_tree_island_no_longer_purified">Ostrov již není očištěn. Znovu cítíš přítomnost zla…</string>
@@ -519,30 +535,38 @@
     <string name="material_volcanic_stone">&font_volcano;Sopečný&font_end; &font_stone;Kámen&font_end;</string>
     <string name="material_icy_stone">&font_icy;Ledový&font_end; &font_stone;Kámen&font_end;</string>
 
-    <string name="item_info_material_edible">Může být snězen aby obnovil &font_hunger;%1$d&font_end; bodů sytosti.</string>
+    <string name="item_info_material_edible">Může být snězen aby obnovil &font_hunger;%1$d&font_end;
+        bodů sytosti.</string>
     <string name="item_info_royal_seal">&font_gold;Královská pečeť&font_end; může být použita k zakoupení něčeho zajímavého…</string>
     <string name="item_info_armor">Vyzbroj se tímto aby jsi vylepšil své schopnosti.&br;%1$s&br;%2$s</string>
     <string name="item_info_weapon">Vyzbroj se tímto abys byl silnější proti příšerám!&br;%1$s&br;%2$s</string>
     <string name="item_info_shield">Vyzbroj se tímto abys byl lépe chráněn před příšerami!&br;%1$s&br;%2$s</string>
-    <string name="item_info_recipe">Přečti si jej aby jsi se naučil &font_cyan;výrábět&font_end; předmět %1$s.</string>
+    <string name="item_info_recipe">Přečti si jej aby jsi se naučil &font_cyan;výrábět&font_end;
+        předmět %1$s.</string>
     <string name="item_info_firecamp">Zapal %1$s abys mohl &font_green;vařit&font_end;.</string>
-    <string name="item_info_food">Sněz tohle abys obnovil &font_green;%1$d&font_end; bodů sytosti.</string>
+    <string name="item_info_food">Sněz tohle abys obnovil &font_green;%1$d&font_end;
+        bodů sytosti.</string>
     <string name="item_info_potion">Vypij tohle k obnovení %1$s bodů života.</string>
     <string name="item_info_mana_potion">Vypij tohle k obnovení %1$s bodů many.</string>
     <string name="item_info_experience_potion">Vypij tohle k okamžitému získání %1$s bodů &font_cyan;zkušenosti&font_end;.</string>
     <string name="item_info_material">Materiál, používaný k &font_cyan;vyrábění&font_end; jiných předmětů.</string>
     <string name="item_info_merchants_mark">Tento zvláštní symbol by mohl někoho zajímat…</string>
     <string name="item_info_tool_chopping_axe">Použij ke &font_wood;kácení stromů&font_end; a získání &font_wood;Dřeva&font_end;.</string>
-    <string name="item_info_tool_pickaxe">Použij k &font_stone;těžbě skal&font_end; a získání &font_stone;Kamene&font_end; a dalších minerálů.</string>
+    <string name="item_info_tool_pickaxe">Použij k &font_stone;těžbě skal&font_end;
+        a získání &font_stone;Kamene&font_end; a dalších minerálů.</string>
     <string name="item_info_tool_fishing_rod">Použij k &font_cyan;rybaření&font_end; na &font_cyan;Místo k rybaření&font_end;.</string>
     <string name="item_info_tool_net">Použij k chytání &font_insect;brouků&font_end;.</string>
-    <string name="item_info_tool_skinning_knife">Použij ke &font_skin;stáhnutí&font_end; &font_green;těl příšer&font_end; &font_skin;z kůže&font_end; a získání &font_skin;Surové kůže&font_end;.</string>
-    <string name="item_info_tool_meat_cleaver">Použij k naporcování &font_green;mrtvol příšer&font_end; a získání &font_green;Masa příšer&font_end;.</string>
-    <string name="item_info_monster_flesh_edible">Sněz ke snížení hladu o &font_green;%1$d&font_end; bodů.</string>
+    <string name="item_info_tool_skinning_knife">Použij ke &font_skin;stáhnutí&font_end; &font_green;těl příšer&font_end; &font_skin;z kůže&font_end;
+        a získání &font_skin;Surové kůže&font_end;.</string>
+    <string name="item_info_tool_meat_cleaver">Použij k naporcování &font_green;mrtvol příšer&font_end;
+        a získání &font_green;Masa příšer&font_end;.</string>
+    <string name="item_info_monster_flesh_edible">Sněz ke snížení hladu o &font_green;%1$d&font_end;
+        bodů.</string>
     <string name="item_info_monster_flesh_not_edible">Upeč na &font_attack;Táboráku&font_end; aby jsi to mohl sníst.</string>
     <string name="item_info_nautical_chart">Používán námořníky aby se dostali na ostrov určitého &font_cyan;typu&font_end;.</string>
     <string name="item_info_whetstone">Použij k opravení &font_cyan;Nástroje&font_end;.</string>
-    <string name="item_info_pet_collar">Na záložce &font_pet;Mazlíčci&font_end; můžeš tento obojek nasaddit na &font_pet;Mazlíčka&font_end; a přejmenovat ho!</string>
+    <string name="item_info_pet_collar">Na záložce &font_pet;Mazlíčci&font_end; můžeš tento obojek nasaddit na &font_pet;Mazlíčka&font_end;
+        a přejmenovat ho!</string>
     <string name="item_info_magic_stone">Použij k prohození bodů inteligence a síly na nástroji.</string>
     <string name="item_info_island_soul">Duše ostrova, zářící záhadnou energií…</string>
     <string name="item_info_spellbook">Přečti si ji k naučení se &font_mana;kouzla&font_end; o kterém pojednává: %1$s.</string>
@@ -550,17 +574,24 @@
     <string name="item_info_piece_of_map">&font_cyan;Kousek mapy&font_end;. Abys zjistil, kam vede, musíš posbírat ostatní kousky…</string>
     <string name="item_info_dark_orb">Záhadná &font_dark_orb;Temná koule&font_end;.</string>
     <string name="item_info_bomb_normal">Hoď tuto &font_bomb;Bombu&font_end; na své nepřátele během boje.</string>
-    <string name="item_info_bomb_fire">Hoď tuto &font_attack;Ohnivou&font_end; &font_bomb;Bombu&font_end; na své nepřátele během boje. Může &font_attack;popálit&font_end;.</string>
-    <string name="item_info_bomb_ice">Hoď tuto &font_ice;Ledovou&font_end; &font_bomb;Bombu&font_end; na své nepřátele během boje. Může &font_ice;zmrazit&font_end;.</string>
-    <string name="item_info_bomb_electric">Hoď tuto &font_electric;Elektrickou&font_end; &font_bomb;Bombu&font_end; na své nepřátele během boje. Can &font_electric;paralyse &font_end;.</string>
+    <string name="item_info_bomb_fire">Hoď tuto &font_attack;Ohnivou&font_end; &font_bomb;Bombu&font_end;
+        na své nepřátele během boje. Může &font_attack;popálit&font_end;.</string>
+    <string name="item_info_bomb_ice">Hoď tuto &font_ice;Ledovou&font_end; &font_bomb;Bombu&font_end;
+        na své nepřátele během boje. Může &font_ice;zmrazit&font_end;.</string>
+    <string name="item_info_bomb_electric">Hoď tuto &font_electric;Elektrickou&font_end; &font_bomb;Bombu&font_end;
+        na své nepřátele během boje. Can &font_electric;paralyse &font_end;.</string>
     <string name="item_info_equipment_attack">Útok: &font_attack;%1$d&font_end;</string>
     <string name="item_info_equipment_defense">Obrana: &font_defense;%1$d&font_end;</string>
     <string name="item_info_equipment_speed">Rychlost: &font_speed;%1$d&font_end;</string>
     <string name="item_info_equipment_intelligence">Inteligence: &font_mana;%1$d&font_end;</string>
     <string name="item_info_iron_bucket_empty">Naplň vodou nebo jinou tekutinou…</string>
-    <string name="item_info_iron_bucket_water">Uhas s ním svůj &font_attack;Táborák&font_end; nebo jej hoď na &font_red;příšeru&font_end; během boje!</string>
-    <string name="item_info_purifying_seed">Zasaď a zalij &font_iron;Kbelíkem&font_end; &font_water;vody&font_end; aby z něj mohl vyrůst &font_wood;Strom&font_end; &font_purifying;Očištění&font_end;.&br;&br;&font_wood;Strom&font_end; &font_purifying;Očištění&font_end; znemožní příšerám &italic;rodit se&italic_end; na ostrově.</string>
-    <string name="item_info_iron_bucket_lava">Hoď jej na &font_red;příšeru&font_end; během boje!</string>
+    <string name="item_info_iron_bucket_water">Uhas s ním svůj &font_attack;Táborák&font_end; nebo jej hoď na &font_red;příšeru&font_end;
+        během boje!</string>
+    <string name="item_info_purifying_seed">Zasaď a zalij &font_iron;Kbelíkem&font_end; &font_water;vody&font_end;
+        aby z něj mohl vyrůst &font_wood;Strom&font_end; &font_purifying;Očištění&font_end;.&br;&br;&font_wood;Strom&font_end; &font_purifying;Očištění&font_end;
+        znemožní příšerám &italic;rodit se&italic_end; na ostrově.</string>
+    <string name="item_info_iron_bucket_lava">Hoď jej na &font_red;příšeru&font_end;
+        během boje!</string>
     <string name="item_info_iron_bucket_mana">Vypij aby sis doplnil všechnu svou &font_mana;manu&font_end;.</string>
     <string name="item_info_a_letter_for_the_king">Je na něm &font_gold;Královská pečeť&font_end;, měl bys jej zanést &font_gold;Králi&font_end;.</string>
     <string name="item_royal">&font_gold;Královská&font_end;</string>
@@ -684,7 +715,7 @@
     <string name="item_gold_sword">&font_gold;Zlatý&font_end; meč</string>
     <string name="item_diamond_sword">&font_diamond;Diamantový&font_end; meč</string>
     <string name="item_obsidian_sword">&font_obsidian;Obsidiánový&font_end; meč</string>
-    
+
     <string name="item_wood_dagger">&font_wood;Dřevěná&font_end; dýka</string>
     <string name="item_bone_dagger">&font_bone;Kostěná&font_end; dýka</string>
     <string name="item_copper_dagger">&font_copper;Měděná&font_end; dýka</string>
@@ -695,7 +726,7 @@
     <string name="item_gold_dagger">&font_gold;Zlatá&font_end; dýka</string>
     <string name="item_diamond_dagger">&font_diamond;Diamantová&font_end; dýka</string>
     <string name="item_obsidian_dagger">&font_obsidian;Obsidiánová&font_end; dýka</string>
-    
+
     <string name="item_wood_spear">&font_wood;Dřevěné&font_end; kopí</string>
     <string name="item_bone_spear">&font_bone;Kostěné&font_end; kopí</string>
     <string name="item_copper_spear">&font_copper;Měděné&font_end; kopí</string>
@@ -706,7 +737,7 @@
     <string name="item_gold_spear">&font_gold;Zlaté&font_end; kopí</string>
     <string name="item_diamond_spear">&font_diamond;Diamantové&font_end; kopí</string>
     <string name="item_obsidian_spear">&font_obsidian;Obsidiánové&font_end; kopí</string>
-    
+
     <string name="item_wood_axe">&font_wood;Dřevěná&font_end; sekera</string>
     <string name="item_bone_axe">&font_bone;Kostěná&font_end; sekera</string>
     <string name="item_copper_axe">&font_copper;Měděná&font_end; sekera</string>
@@ -717,7 +748,7 @@
     <string name="item_gold_axe">&font_gold;Zlatá&font_end; sekera</string>
     <string name="item_diamond_axe">&font_diamond;Diamantová&font_end; sekera</string>
     <string name="item_obsidian_axe">&font_obsidian;Obsidiánová&font_end; sekera</string>
-    
+
     <string name="item_wood_mace">&font_wood;Dřevěný&font_end; palcát</string>
     <string name="item_bone_mace">&font_bone;Kostěný&font_end; palcát</string>
     <string name="item_copper_mace">&font_copper;Měděný&font_end; palcát</string>
@@ -751,7 +782,7 @@
     <string name="text_gold_shield">&font_gold;Zlatý&font_end; štít</string>
     <string name="text_diamond_shield">&font_diamond;Diamantový&font_end; štít</string>
     <string name="text_obsidian_shield">&font_obsidian;Obsidiánový&font_end; štít</string>
-        
+
     <string name="text_wood_helmet">&font_wood;Dřevěná&font_end; přilba</string>
     <string name="text_leather_helmet">&font_leather;Kožená&font_end; přilba</string>
     <string name="text_bone_helmet">&font_bone;Kostěná&font_end; přilba</string>
@@ -763,7 +794,7 @@
     <string name="text_gold_helmet">&font_gold;Zlatá&font_end; přilba</string>
     <string name="text_diamond_helmet">&font_diamond;Diamantová&font_end; přilba</string>
     <string name="text_obsidian_helmet">&font_obsidian;Obsidiánová&font_end; přilba</string>
-        
+
     <string name="text_wood_plate">&font_wood;Dřevěný&font_end; hrudní plát</string>
     <string name="text_leather_plate">&font_leather;Kožený&font_end; hrudní plát</string>
     <string name="text_bone_plate">&font_bone;Kostěný&font_end; hrudní plát</string>
@@ -775,7 +806,7 @@
     <string name="text_gold_plate">&font_gold;Zlatý&font_end; hrudní plát</string>
     <string name="text_diamond_plate">&font_diamond;Diamantový&font_end; hrudní plát</string>
     <string name="text_obsidian_plate">&font_obsidian;Obsidiánový&font_end; hrudní plát</string>
-        
+
     <string name="text_wood_pants">&font_wood;Dřevěné&font_end; kalhoty</string>
     <string name="text_leather_pants">&font_leather;Kožené&font_end; kamaše</string>
     <string name="text_bone_pants">&font_bone;Kostěné&font_end; kalhoty</string>
@@ -787,7 +818,7 @@
     <string name="text_gold_pants">&font_gold;Zlaté&font_end; kalhoty</string>
     <string name="text_diamond_pants">&font_diamond;Diamantové&font_end; kalhoty</string>
     <string name="text_obsidian_pants">&font_obsidian;Obsidiánové&font_end; kalhoty</string>
-        
+
     <string name="text_wood_boots">&font_wood;Dřevěné&font_end; boty</string>
     <string name="text_leather_boots">&font_leather;Kožené&font_end; boty</string>
     <string name="text_bone_boots">&font_bone;Kostěné&font_end; boty</string>
@@ -799,7 +830,7 @@
     <string name="text_gold_boots">&font_gold;Zlaté&font_end; boty</string>
     <string name="text_diamond_boots">&font_diamond;Diamantové&font_end; boty</string>
     <string name="text_obsidian_boots">&font_obsidian;Obsidiánové&font_end; boty</string>
-        
+
     <string name="text_wood_gloves">&font_wood;Dřevěné&font_end; rukavice</string>
     <string name="text_leather_gloves">&font_leather;Kožené&font_end; rukavice</string>
     <string name="text_bone_gloves">&font_bone;Kostěné&font_end; rukavice</string>
@@ -811,7 +842,7 @@
     <string name="text_gold_gloves">&font_gold;Zlaté&font_end; rukavice</string>
     <string name="text_diamond_gloves">&font_diamond;Diamantové&font_end; rukavice</string>
     <string name="text_obsidian_gloves">&font_obsidian;Obsidiánové&font_end; rukavice</string>
-    
+
     <string name="text_wood_amulet">&font_wood;Dřevěný&font_end; amulet</string>
     <string name="text_leather_amulet">&font_leather;Kožený&font_end; amulet</string>
     <string name="text_bone_amulet">&font_bone;Kostěný&font_end; amulet</string>
@@ -823,7 +854,7 @@
     <string name="text_gold_amulet">&font_gold;Zlatý&font_end; amulet</string>
     <string name="text_diamond_amulet">&font_diamond;Diamantový&font_end; amulet</string>
     <string name="text_obsidian_amulet">&font_obsidian;Obsidiánový&font_end; amulet</string>
-    
+
     <string name="text_wood_ring">&font_wood;Dřevěný&font_end; prsten</string>
     <string name="text_leather_ring">&font_leather;Kožený&font_end; prsten</string>
     <string name="text_bone_ring">&font_bone;Kostěný&font_end; prsten</string>
@@ -3779,4 +3810,29 @@
     <string name="title_the_ender_male">%1$s, the &font_legendary;Ender&font_end;</string>
     <string name="title_the_ender_female">%1$s, the &font_legendary;Ender&font_end;</string>
     <string name="title_the_ender_no_gender">%1$s, the &font_legendary;Ender&font_end;</string>
+
+    <string name="settings_show_pet_in_combat">Show Pet in Combat</string>
+    <string name="settings_show_progress_bars">Show Progress Bars</string>
+
+    <string name="wise_have_in_void_island">Great, you are here! You should be careful… Creatures here are more dangerous… And there\'s a powerful being waiting for you…</string>
+
+    <string name="void_master_after_killing_text_3_new">Well well… You are wearing a complete set of the &font_void;Void&font_end;… Here, take this… You will know what to do with it… See you soon…</string>
+    <string name="settings_show_double_space_map">Double Space In Map</string>
+
+    <string name="young_child_extra_advice_1">Oh, ok… Well, since you seem kind of disoriented, let me give you my advice…&br;&br;I wouldn\'t engage into combat against stronger monsters than you, at least not until you feel you are ready.</string>
+    <string name="young_child_extra_advice_2">If I were you, I\'d buy some &font_cyan;Equipment &font_end;at an &font_bronze;Armory &font_end;or a powerful &font_mana;Spell &font_end;at a &font_mana;Magic &font_end;&font_gold;Shop &font_end;if you want to protect yourself better…&br;&br;And no, I don\'t collect commission for this! Even though my &italic;Uncle &italic_end;works at the &font_bronze;Armory &font_end;and my &italic;Grandma &italic_end;runs the &font_mana;Magic &font_end;&font_gold;Shop&font_end;…</string>
+    <string name="young_child_extra_advice_3">Ah! And you should eat when you are &font_hunger;hungry &font_end;or you will die faster than you think!&br;&br;You can &font_cyan;eat &font_end;&font_plant;food &font_end;from your &font_wood;Inventory &font_end;or eat at a &font_bar;Bar &font_end;or a &font_bar;Tavern&font_end;…</string>
+
+    <string name="pyramid_was_cursed_and_closed">The &font_pyramid;Pyramid &font_end;was cursed and closed!</string>
+    <string name="pyramid_is_now_open">The &font_pyramid;Pyramid &font_end;is now open!</string>
+    <string name="pyramid_didnt_open">The &font_pyramid;Pyramid &font_end;didn\'t open…</string>
+    <string name="new_game_chicken_mode_selected">In &font_animal;Chicken Mode &font_end;you will have the following advantages:&br;&br;* &font_red;Monsters &font_end;won\'t block you from interacting with &font_cyan;NPCs&font_end;.&br;&br;* You will start with some extra &font_gold;Gold&font_end;.&br;&br;* Your starting base stats will be slightly better.&br;&br;* You will have extra &font_speed;Speed &font_end;when &font_cyan;fleeing &font_end;from &font_red;Monsters&font_end;.&br;&br;* \"&font_animal;Chicken Mode&font_end;\" will be shown in your &font_cyan;hero &font_end;stats screen!</string>
+    <string name="chicken_mode_checkbox">&font_animal;Chicken Mode&font_end;</string>
+    <string name="new_game_chicken_mode_not_selected">Enjoy the regular RAR II experience.</string>
+    <string name="chicken_mode_in_stats">&font_animal;Chicken Mode&font_end;</string>
+    <string name="the_chicken_smiles_at_you">The &font_animal;Chicken &font_end;smiles at you…</string>
+    <string name="achievement_name_chicken_feed_chicken">Chicken Feeds Chicken</string>
+    <string name="achievement_desc_chicken_feed_chicken">Feed a Chicken in Chicken Mode.</string>
+
+
 </resources>
