@@ -2674,8 +2674,8 @@
     <string name="item_diamond_staff">Bâton en &font_diamond;diamant&font_end;</string>
     <string name="item_obsidian_staff">Bâton en &font_obsidian;obsidienne&font_end;</string>
 
-    <string name="skill_staff_mastery">Maîtrise du &font_mana;Bâton &font_end;</string>
-    <string name="skill_staff_mastery_description">Attaquer avec un &font_mana;Bâton &font_end;au combat débloque des compétences de combat de type &font_mana;Bâton &font_end;.</string>
+    <string name="skill_staff_mastery">Maîtrise du &font_mana;bâton &font_end;</string>
+    <string name="skill_staff_mastery_description">Attaquer avec un &font_mana;bâton &font_end;au combat débloque des compétences de combat de type &font_mana;Bâton &font_end;.</string>
     <string name="weapon_skill_staff_hit">&font_skill_attack;Frappe&font_end;</string>
     <string name="weapon_skill_staff_hit_desc">Frappe l\'ennemi.</string>
     <string name="weapon_skill_staff_hit_attack">Tu frappes l\'ennemi fort !</string>
@@ -2688,52 +2688,52 @@
     <string name="weapon_skill_staff_mana_thief">&font_skill_attack;Vol de mana&font_end;</string>
     <string name="weapon_skill_staff_mana_thief_desc">Vole du mana de l\'ennemi.</string>
     <string name="weapon_skill_staff_mana_thief_attack">Tu frappes et voles du mana de l\'ennemi !</string>
-    <string name="weapon_skill_staff_ultimate_strike">&font_skill_attack;Frappe Ultime&font_end;</string>
+    <string name="weapon_skill_staff_ultimate_strike">&font_skill_attack;Frappe ultime&font_end;</string>
     <string name="weapon_skill_staff_ultimate_strike_desc">Frappe violemment l\'ennemi avec le Bâton.</string>
     <string name="weapon_skill_staff_ultimate_strike_attack">Tu frappes l\'ennemi de toutes tes forces !</string>
 
-    <string name="material_unicorn_horn">Corne de &font_unicorn;Licorne&font_end;</string>
-    <string name="item_unicorn_horn_spear">Lance Corne de &font_unicorn;Licorne&font_end;</string>
+    <string name="material_unicorn_horn">Corne de &font_unicorn;licorne&font_end;</string>
+    <string name="item_unicorn_horn_spear">Lance corne de &font_unicorn;licorne&font_end;</string>
 
-    <string name="material_goat_wool">&font_white;Cachemire de Chèvre&font_end;</string>
+    <string name="material_goat_wool">&font_white;Cachemire de chèvre&font_end;</string>
     <string name="material_tentacle">&font_pet;Tentacule&font_end;</string>
-    <string name="material_owl_feather">&font_wood;Plume d\'Hibou&font_end;</string>
-    <string name="material_spider_silk">&font_tundra;Soie d\'Araignée&font_end;</string>
-    <string name="material_snake_scale">&font_green;Écaille de Serpent&font_end;</string>
-    <string name="material_crocodile_tear">&font_glass;Larme de Crocodile&font_end;</string>
+    <string name="material_owl_feather">&font_wood;Plume de hibou&font_end;</string>
+    <string name="material_spider_silk">&font_tundra;Soie d\'araignée&font_end;</string>
+    <string name="material_snake_scale">&font_green;Écaille de serpent&font_end;</string>
+    <string name="material_crocodile_tear">&font_glass;Larme de crocodile&font_end;</string>
     <string name="material_emerald">&font_emerald;Émeraude&font_end;</string>
-    <string name="material_void_dust">&font_void;Poudre du Néant&font_end;</string>
+    <string name="material_void_dust">&font_void;Poudre du néant&font_end;</string>
 
-    <string name="skill_fire_mastery_description">Augmente ta maîtrise du &font_red;Feu &font_end;en jetant des sorts de type &font_red;Feu&font_end;.&br;&br;Monter de niveau dans cette maîtrise te permettra d\'apprendre de nouveaux sorts de ce type de magie en lisant le livre de &font_mana;sortilèges &font_end;correspondant.&br;&br;Chaque niveau diminue le coût de &font_mana;mana &font_end;d\'un petit pourcentage.</string>
-    <string name="skill_water_mastery_description">Augmente ta maîtrise de l\'&font_water;Eau &font_end;en jetant des sorts de type &font_water;Eau&font_end;.&br;&br;Monter de niveau dans cette maîtrise te permettra d\'apprendre de nouveaux sorts de ce type de magie en lisant le livre de &font_mana;sortilèges &font_end;correspondant.&br;&br;Chaque niveau diminue le coût de &font_mana;mana &font_end;d\'un petit pourcentage.</string>
-    <string name="skill_ice_mastery_description">Augmente ta maîtrise de la &font_ice;Glace &font_end;en jetant des sorts de type &font_ice;Glace&font_end;.&br;&br;Monter de niveau dans cette maîtrise te permettra d\'apprendre de nouveaux sorts de ce type de magie en lisant le livre de &font_mana;sortilèges &font_end;correspondant.&br;&br;Chaque niveau diminue le coût de &font_mana;mana &font_end;d\'un petit pourcentage.</string>
-    <string name="skill_air_mastery_description">Augmente ta maîtrise de l\'&font_spell_wind;Air &font_end;en jetant des sorts de type &font_spell_wind;Air&font_end;.&br;&br;Monter de niveau dans cette maîtrise te permettra d\'apprendre de nouveaux sorts de ce type de magie en lisant le livre de &font_mana;sortilèges &font_end;correspondant.&br;&br;Chaque niveau diminue le coût de &font_mana;mana &font_end;d\'un petit pourcentage.</string>
-    <string name="skill_electric_mastery_description">Augmente ta maîtrise de l\'&font_electric;Électricité &font_end;en jetant des sorts de type &font_electric;Électricité&font_end;.&br;&br;Monter de niveau dans cette maîtrise te permettra d\'apprendre de nouveaux sorts de ce type de magie en lisant le livre de &font_mana;sortilèges &font_end;correspondant.&br;&br;Chaque niveau diminue le coût de &font_mana;mana &font_end;d\'un petit pourcentage.</string>
-    <string name="skill_earth_mastery_description">Augmente ta maîtrise de la &font_wood;Terre &font_end;en jetant des sorts de type &font_wood;Terre&font_end;.&br;&br;Monter de niveau dans cette maîtrise te permettra d\'apprendre de nouveaux sorts de ce type de magie en lisant le livre de &font_mana;sortilèges &font_end;correspondant.&br;&br;Chaque niveau diminue le coût de &font_mana;mana &font_end;d\'un petit pourcentage.</string>
-    <string name="skill_life_mastery_description">Augmente ta maîtrise de la &font_health;Vie &font_end;en jetant des sorts de type &font_health;Vie&font_end;.&br;&br;Monter de niveau dans cette maîtrise te permettra d\'apprendre de nouveaux sorts de ce type de magie en lisant le livre de &font_mana;sortilèges &font_end;correspondant.&br;&br;Chaque niveau diminue le coût de &font_mana;mana &font_end;d\'un petit pourcentage.</string>
-    <string name="skill_monster_mastery_description">Augmente ta maîtrise des &font_pet;Monstres &font_end;en jetant des sorts de type &font_pet;Monstre&font_end;.&br;&br;Monter de niveau dans cette maîtrise te permettra d\'apprendre de nouveaux sorts de ce type de magie en lisant le livre de &font_mana;sortilèges &font_end;correspondant.&br;&br;Chaque niveau diminue le coût de &font_mana;mana &font_end;d\'un petit pourcentage.</string>
+    <string name="skill_fire_mastery_description">Augmente ta maîtrise du &font_red;feu &font_end;en jetant des sorts de type &font_red;feu&font_end;.&br;&br;Monter de niveau dans cette maîtrise te permettra d\'apprendre de nouveaux sorts de ce type de magie en lisant le livre de &font_mana;sortilèges &font_end;correspondant.&br;&br;Chaque niveau diminue le coût de &font_mana;mana &font_end;d\'un petit pourcentage.</string>
+    <string name="skill_water_mastery_description">Augmente ta maîtrise de l\'&font_water;eau &font_end;en jetant des sorts de type &font_water;eau&font_end;.&br;&br;Monter de niveau dans cette maîtrise te permettra d\'apprendre de nouveaux sorts de ce type de magie en lisant le livre de &font_mana;sortilèges &font_end;correspondant.&br;&br;Chaque niveau diminue le coût de &font_mana;mana &font_end;d\'un petit pourcentage.</string>
+    <string name="skill_ice_mastery_description">Augmente ta maîtrise de la &font_ice;glace &font_end;en jetant des sorts de type &font_ice;glace&font_end;.&br;&br;Monter de niveau dans cette maîtrise te permettra d\'apprendre de nouveaux sorts de ce type de magie en lisant le livre de &font_mana;sortilèges &font_end;correspondant.&br;&br;Chaque niveau diminue le coût de &font_mana;mana &font_end;d\'un petit pourcentage.</string>
+    <string name="skill_air_mastery_description">Augmente ta maîtrise de l\'&font_spell_wind;air &font_end;en jetant des sorts de type &font_spell_wind;air&font_end;.&br;&br;Monter de niveau dans cette maîtrise te permettra d\'apprendre de nouveaux sorts de ce type de magie en lisant le livre de &font_mana;sortilèges &font_end;correspondant.&br;&br;Chaque niveau diminue le coût de &font_mana;mana &font_end;d\'un petit pourcentage.</string>
+    <string name="skill_electric_mastery_description">Augmente ta maîtrise de l\'&font_electric;électricité &font_end;en jetant des sorts de type &font_electric;électricité&font_end;.&br;&br;Monter de niveau dans cette maîtrise te permettra d\'apprendre de nouveaux sorts de ce type de magie en lisant le livre de &font_mana;sortilèges &font_end;correspondant.&br;&br;Chaque niveau diminue le coût de &font_mana;mana &font_end;d\'un petit pourcentage.</string>
+    <string name="skill_earth_mastery_description">Augmente ta maîtrise de la &font_wood;terre &font_end;en jetant des sorts de type &font_wood;terre&font_end;.&br;&br;Monter de niveau dans cette maîtrise te permettra d\'apprendre de nouveaux sorts de ce type de magie en lisant le livre de &font_mana;sortilèges &font_end;correspondant.&br;&br;Chaque niveau diminue le coût de &font_mana;mana &font_end;d\'un petit pourcentage.</string>
+    <string name="skill_life_mastery_description">Augmente ta maîtrise de la &font_health;vie &font_end;en jetant des sorts de type &font_health;vie&font_end;.&br;&br;Monter de niveau dans cette maîtrise te permettra d\'apprendre de nouveaux sorts de ce type de magie en lisant le livre de &font_mana;sortilèges &font_end;correspondant.&br;&br;Chaque niveau diminue le coût de &font_mana;mana &font_end;d\'un petit pourcentage.</string>
+    <string name="skill_monster_mastery_description">Augmente ta maîtrise des &font_pet;monstres &font_end;en jetant des sorts de type &font_pet;monstre&font_end;.&br;&br;Monter de niveau dans cette maîtrise te permettra d\'apprendre de nouveaux sorts de ce type de magie en lisant le livre de &font_mana;sortilèges &font_end;correspondant.&br;&br;Chaque niveau diminue le coût de &font_mana;mana &font_end;d\'un petit pourcentage.</string>
 
-    <string name="skill_fire_mastery">&font_red;Fire &font_end;Mastery</string>
-    <string name="skill_water_mastery">&font_water;Water &font_end;Mastery</string>
-    <string name="skill_ice_mastery">&font_ice;Ice &font_end;Mastery</string>
+    <string name="skill_fire_mastery">&font_red;Feu &font_end;Mastery</string>
+    <string name="skill_water_mastery">&font_water;Eau &font_end;Mastery</string>
+    <string name="skill_ice_mastery">&font_ice;Glace &font_end;Mastery</string>
     <string name="skill_air_mastery">&font_spell_wind;Air &font_end;Mastery</string>
-    <string name="skill_electric_mastery">&font_electric;Electric &font_end;Mastery</string>
-    <string name="skill_earth_mastery">&font_wood;Earth &font_end;Mastery</string>
-    <string name="skill_life_mastery">&font_health;Life &font_end;Mastery</string>
-    <string name="skill_monster_mastery">&font_pet;Monster &font_end;Mastery</string>
+    <string name="skill_electric_mastery">&font_electric;Électricité &font_end;Mastery</string>
+    <string name="skill_earth_mastery">&font_wood;Terre &font_end;Mastery</string>
+    <string name="skill_life_mastery">&font_health;Vie &font_end;Mastery</string>
+    <string name="skill_monster_mastery">&font_pet;Monstre &font_end;Mastery</string>
 
-    <string name="spell_book_need_skill_level">&italic;Your %1$s is not high enough to learn this &font_mana;spell&font_end;&italic_end;</string>
+    <string name="spell_book_need_skill_level">&italic;Ton %1$s n\'est pas assez élevé pour apprendre ce &font_mana;sort&font_end;&italic_end;</string>
 
-    <string name="stats_extra_max_mana">Max. &font_mana;Mana&font_end;: &font_mana;%d&font_end;</string>
-    <string name="stats_extra_max_health">Max. &font_health;Health&font_end;: &font_health;%d&font_end;</string>
-    <string name="stats_extra_max_hunger">Max. &font_hunger;Hunger&font_end;: &font_hunger;%d&font_end;</string>
+    <string name="stats_extra_max_mana">&font_mana;Mana&font_end; max. : &font_mana;%d&font_end;</string>
+    <string name="stats_extra_max_health">&font_health;Vie&font_end; max. : &font_health;%d&font_end;</string>
+    <string name="stats_extra_max_hunger">&font_hunger;Faim&font_end; max. : &font_hunger;%d&font_end;</string>
 
-    <string name="item_crocodile_tear_ring">&font_glass;Crocodile Tear &font_end;Ring</string>
-    <string name="item_snake_scale_boots">&font_scale;Snake Scale &font_end;Boots</string>
-    <string name="item_spider_silk_pants">&font_tundra;Spider Silk &font_end;Pants</string>
-    <string name="item_owl_feather_gloves">&font_wood;Owl Feather &font_end;Gloves</string>
-    <string name="item_goat_wool_robes">&font_wood;Cashmere &font_end;Robe</string>
-    <string name="item_emerald_amulet">&font_emerald;Emerald &font_end;Amulet</string>
+    <string name="item_crocodile_tear_ring">&font_glass;Larme de crocodile &font_end;Ring</string>
+    <string name="item_snake_scale_boots">&font_scale;Écaille de serpent &font_end;Boots</string>
+    <string name="item_spider_silk_pants">&font_tundra;Soie d\'araignée &font_end;Pants</string>
+    <string name="item_owl_feather_gloves">&font_wood;Plume de hibou &font_end;Gloves</string>
+    <string name="item_goat_wool_robes">&font_wood;Cachemire &font_end;Robe</string>
+    <string name="item_emerald_amulet">&font_emerald;Émeraude &font_end;Amulet</string>
 
     <string name="settings_vibration">Vibrations</string>
 
