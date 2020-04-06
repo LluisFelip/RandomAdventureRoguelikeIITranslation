@@ -3769,4 +3769,16 @@
     <string name="title_the_ender_male">%1$s, the &font_legendary;Ender&font_end;</string>
     <string name="title_the_ender_female">%1$s, the &font_legendary;Ender&font_end;</string>
     <string name="title_the_ender_no_gender">%1$s, the &font_legendary;Ender&font_end;</string>
+
+    <string name="settings_show_pet_in_combat">Show Pet in Combat</string>
+    <string name="settings_show_progress_bars">Show Progress Bars</string>
+
+    <string name="wise_have_in_void_island">Great, you are here! You should be careful… Creatures here are more dangerous… And there\'s a powerful being waiting for you…</string>
+
+    <string name="void_master_after_killing_text_3_new">Well well… You are wearing a complete set of the &font_void;Void&font_end;… Here, take this… You will know what to do with it… See you soon…</string>
+    <string name="settings_show_double_space_map">Double Space In Map</string>
+
+    <string name="young_child_extra_advice_1">Oh, ok… Well, since you seem kind of disoriented, let me give you my advice…&br;&br;I wouldn\'t engage into combat against stronger monsters than you, at least not until you feel you are ready.</string>
+    <string name="young_child_extra_advice_2">If I were you, I\'d buy some &font_cyan;Equipment &font_end;at an &font_bronze;Armory &font_end;or a powerful &font_mana;Spell &font_end;at a &font_mana;Magic &font_end;&font_gold;Shop &font_end;if you want to protect yourself better…&br;&br;And no, I don\'t collect commission for this! Even though my &italic;Uncle &italic_end;works at the &font_bronze;Armory &font_end;and my &italic;Grandma &italic_end;runs the &font_mana;Magic &font_end;&font_gold;Shop&font_end;…</string>
+    <string name="young_child_extra_advice_3">Ah! And you should eat when you are &font_hunger;hungry &font_end;or you will die faster than you think!&br;&br;You can &font_cyan;eat &font_end;&font_plant;food &font_end;from your &font_wood;Inventory &font_end;or eat at a &font_bar;Bar &font_end;or a &font_bar;Tavern&font_end;…</string>
 </resources>
