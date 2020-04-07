@@ -3859,6 +3859,11 @@
     <string name="achievement_name_chicken_feed_chicken">Chicken Feeds Chicken</string>
     <string name="achievement_desc_chicken_feed_chicken">Feed a Chicken in Chicken Mode.</string>
 
+
+    <!-- Update Strings -->
+
     <string name="no_permadeath_gold_penalty">&br;&br;&font_cyan;* &font_end;If you die, you will lose &font_cyan;50% &font_end;of the &font_gold;gold &font_end;you are carrying.</string>
+    <string name="pet_dead">(&font_red;&italic;Dead&italic_end;&font_end;)</string>
+    <string name="your_active_pet_is_not_dead">Your active &font_pet;Pet &font_end;is not dead…</string>
 
 </resources>
