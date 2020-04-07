@@ -2706,98 +2706,98 @@
     <string name="skill_life_mastery">Domínio sobre a &font_health;Vida&font_end;</string>
     <string name="skill_monster_mastery">Domínio sobre os &font_pet;Monstros&font_end;</string>
 
-    <string name=”spell_book_need_skill_level”>&italic;O seu nível de %1$s não está alto o suficiente para aprender esse &font_mana;feitiço&font_end;&italic_end;</string>
+    <string name="spell_book_need_skill_level">&italic;O seu nível de %1$s não está alto o suficiente para aprender esse &font_mana;feitiço&font_end;&italic_end;</string>
 
-    <string name="stats_extra_max_mana”>&font_mana;Mana&font_end; Máx.: &font_mana;%d&font_end;</string>
-    <string name="stats_extra_max_health”>&font_health;Vida&font_end; Máx.: &font_health;%d&font_end;</string>
-    <string name=”stats_extra_max_hunger”>&font_hunger;Fome&font_end; Máx.: &font_hunger;%d&font_end;</string>
+    <string name="stats_extra_max_mana">&font_mana;Mana&font_end; Máx.: &font_mana;%d&font_end;</string>
+    <string name="stats_extra_max_health">&font_health;Vida&font_end; Máx.: &font_health;%d&font_end;</string>
+    <string name="stats_extra_max_hunger">&font_hunger;Fome&font_end; Máx.: &font_hunger;%d&font_end;</string>
 
-    <string name=”item_crocodile_tear_ring”>Anel de &font_glass;Lágrimas de Crocodilo&font_end;</string>
-    <string name=”item_snake_scale_boots”>Botas de &font_scale;Escamas de Cobra&font_end;</string>
-    <string name=”item_spider_silk_pants”>Calça de &font_tundra;Seda de Aranha&font_end;</string>
-    <string name=”item_owl_feather_gloves”>Luvas de &font_wood;Penas de Coruja&font_end;</string>
-    <string name=”item_goat_wool_robes”>Túnica de &font_wood;Caxemira&font_end;</string>
-    <string name=”item_emerald_amulet”>Amuleto de &font_emerald;Esmeralda&font_end;</string>
+    <string name="item_crocodile_tear_ring">Anel de &font_glass;Lágrimas de Crocodilo&font_end;</string>
+    <string name="item_snake_scale_boots">Botas de &font_scale;Escamas de Cobra&font_end;</string>
+    <string name="item_spider_silk_pants">Calça de &font_tundra;Seda de Aranha&font_end;</string>
+    <string name="item_owl_feather_gloves">Luvas de &font_wood;Penas de Coruja&font_end;</string>
+    <string name="item_goat_wool_robes">Túnica de &font_wood;Caxemira&font_end;</string>
+    <string name="item_emerald_amulet">Amuleto de &font_emerald;Esmeralda&font_end;</string>
 
-    <string name=”settings_vibration”>Vibração</string>
+    <string name="settings_vibration">Vibração</string>
 
-    <string name=”skill_bigpockets”>&font_wood;Bolso Fundo&font_end;</string>
-    <string name=”skill_backpacker”>&font_wood;Mochilão&font_end;</string>
-    <string name=”skill_bigpockets_description”>Aumenta o número de itens que você pode carregar em &bold;&font_cyan;5&font_end;&bold_end;</string>
+    <string name="skill_bigpockets">&font_wood;Bolso Fundo&font_end;</string>
+    <string name="skill_backpacker">&font_wood;Mochilão&font_end;</string>
+    <string name="skill_bigpockets_description">Aumenta o número de itens que você pode carregar em &bold;&font_cyan;5&font_end;&bold_end;</string>
     <string name="skill_backpacker_description">Aumenta o número de itens que você pode carregar em &bold;&font_cyan;10&font_end;&bold_end;</string>
 
-    <string name=”tile_content_type_gate_desc”>Este estranho &font_gate;Portal &font_end;parece precisar de algo para ser ativado…</string>
-    <string name=”button_gate_use_dark_orb”>Usar &font_dark_orb;Orbe Sombria&font_end;</string>
+    <string name="tile_content_type_gate_desc">Este estranho &font_gate;Portal &font_end;parece precisar de algo para ser ativado…</string>
+    <string name="button_gate_use_dark_orb">Usar &font_dark_orb;Orbe Sombria&font_end;</string>
 
-    <string name=”open_gate_message”>Você sente uma poderosa energia sombria vindo do &font_gate;Portal Aberto&font_end;. Tem certeza que deseja entrar?</string>
-    <string name=”entering_dark_gate_open”>Entrando no &font_gate;Portal Sombrio&font_end;</string>
+    <string name="open_gate_message">Você sente uma poderosa energia sombria vindo do &font_gate;Portal Aberto&font_end;. Tem certeza que deseja entrar?</string>
+    <string name="entering_dark_gate_open">Entrando no &font_gate;Portal Sombrio&font_end;</string>
 
-    <string name=”weather_emptiness”>Vazio</string>
+    <string name="weather_emptiness">Vazio</string>
 
-    <string name=”island_type_void”>Vazio</string>
-    <string name="island_type_infinity”>Infinito</string>
-    <string name=”tile_type_void”>Vazio</string>
-    <string name=”tile_type_void_vortex”>Vórtex do Vazio</string>
-    <string name=”tile_type_energy_source”>Origem do Infinito</string>
-    <string name="tile_type_infinity”>Infinito</string>
+    <string name="island_type_void">Vazio</string>
+    <string name="island_type_infinity">Infinito</string>
+    <string name="tile_type_void">Vazio</string>
+    <string name="tile_type_void_vortex">Vórtex do Vazio</string>
+    <string name="tile_type_energy_source">Origem do Infinito</string>
+    <string name="tile_type_infinity">Infinito</string>
 
-    <string name="dark_orb_gate_open”>O &font_gate;Portal Sombrio &font_end;se abre repentinamente diante de você, emitindo muita &italic;energia sombria&italic_end;…</string>
+    <string name="dark_orb_gate_open">O &font_gate;Portal Sombrio &font_end;se abre repentinamente diante de você, emitindo muita &italic;energia sombria&italic_end;…</string>
 
-    <string name=”void_master_after_killing_text”>Ao me matar, você ativou o fim para você e todos os mortais... prepare-se para o aparecimento dos Monstros do &font_void;Vazio &font_end;no seu mundo…</string>
-    <string name=”void_master_after_killing_text_2”>Você de novo…? Bem… Estou surpreso que tenha chegado tão longe mesmo com os meus Monstros do &font_void;Vazio &font_end;espalhados pelo mundo… Nós nos veremos novamente…</string>
-    <string name=”void_master_after_killing_text_3”>Vejam só… Você está usando um conjunto completo do &font_void;Vazio&font_end;… Agora não tenho mais nada a lhe oferecer… Mas volte logo, e lhe darei algo que será útil…</string>
+    <string name="void_master_after_killing_text">Ao me matar, você ativou o fim para você e todos os mortais... prepare-se para o aparecimento dos Monstros do &font_void;Vazio &font_end;no seu mundo…</string>
+    <string name="void_master_after_killing_text_2">Você de novo…? Bem… Estou surpreso que tenha chegado tão longe mesmo com os meus Monstros do &font_void;Vazio &font_end;espalhados pelo mundo… Nós nos veremos novamente…</string>
+    <string name="void_master_after_killing_text_3">Vejam só… Você está usando um conjunto completo do &font_void;Vazio&font_end;… Agora não tenho mais nada a lhe oferecer… Mas volte logo, e lhe darei algo que será útil…</string>
 
-    <string name=”your_ship_appears_magically”>O seu &font_wood;Barco &font_end;aparece…</string>
+    <string name="your_ship_appears_magically">O seu &font_wood;Barco &font_end;aparece…</string>
 
-    <string name=”void_monster_prefix”>&font_void;Vazio&font_end;</string>
+    <string name="void_monster_prefix">&font_void;Vazio&font_end;</string>
 
-    <string name=”item_void_helmet”>Casco do &font_void;Vazio&font_end;</string>
-    <string name=”item_void_armor”>Armadura do &font_void;Vazio&font_end;</string>
-    <string name=”item_void_pants”>Calça do &font_void;Vazio&font_end;</string>
-    <string name=”item_void_boots”>Botas do &font_void;Vazio&font_end;</string>
-    <string name=”item_void_gloves”>Luvas do &font_void;Vazio&font_end;</string>
-    <string name=”item_void_amulet”>Amuleto do &font_void;Vazio&font_end;</string>
-    <string name=”item_void_ring”>Anel do &font_void;Vazio&font_end;</string>
+    <string name="item_void_helmet">Casco do &font_void;Vazio&font_end;</string>
+    <string name="item_void_armor">Armadura do &font_void;Vazio&font_end;</string>
+    <string name="item_void_pants">Calça do &font_void;Vazio&font_end;</string>
+    <string name="item_void_boots">Botas do &font_void;Vazio&font_end;</string>
+    <string name="item_void_gloves">Luvas do &font_void;Vazio&font_end;</string>
+    <string name="item_void_amulet">Amuleto do &font_void;Vazio&font_end;</string>
+    <string name="item_void_ring">Anel do &font_void;Vazio&font_end;</string>
 
-    <string name=”tile_content_type_infinity_door”>&font_gold;Porta&font_end; do &font_infinity;Infinito&font_end;</string>
-    <string name=”infinity_door_open”>&font_gold;Porta &font_end;do &font_infinity;Infinito &font_end;(&font_green;Aberta&font_end;)</string>
-    <string name=”infinity_door_closed”>&font_gold;Porta &font_end;do &font_infinity;Infinito &font_end;(&font_red;Fechada&font_end;)</string>
-    <string name=”item_infinity_key”>&font_gold;Chave&font_end; do &font_infinity;Infinito&font_end;</string>
-    <string name=”button_open_with_infinity_key”>Abrir com a &font_gold;Chave&font_end; do &font_infinity;Infinito&font_end;</string>
-    <string name=”item_info_infinity_key”>Uma &font_gold;Chave&font_end; misteriosa e brilhante…</string>
-    <string name=”infinity_door_enter_title”>&font_gold;Porta&font_end; do &font_infinity;Infinito&font_end;</string>
-    <string name=”infinity_door_enter_message”>Entrar na &font_gold;Porta&font_end; do &font_infinity;Infinito&font_end;?</string>
-    <string name=”entering_infinity_door”>Entrando na &font_gold;Porta&font_end; do &font_infinity;Infinito&font_end;</string>
-    <string name=”infinity_door_opened”>Você abre a &font_gold;Porta&font_end; do &font_infinity;Infinito&font_end;!</string>
+    <string name="tile_content_type_infinity_door">&font_gold;Porta&font_end; do &font_infinity;Infinito&font_end;</string>
+    <string name="infinity_door_open">&font_gold;Porta &font_end;do &font_infinity;Infinito &font_end;(&font_green;Aberta&font_end;)</string>
+    <string name="infinity_door_closed">&font_gold;Porta &font_end;do &font_infinity;Infinito &font_end;(&font_red;Fechada&font_end;)</string>
+    <string name="item_infinity_key">&font_gold;Chave&font_end; do &font_infinity;Infinito&font_end;</string>
+    <string name="button_open_with_infinity_key">Abrir com a &font_gold;Chave&font_end; do &font_infinity;Infinito&font_end;</string>
+    <string name="item_info_infinity_key">Uma &font_gold;Chave&font_end; misteriosa e brilhante…</string>
+    <string name="infinity_door_enter_title">&font_gold;Porta&font_end; do &font_infinity;Infinito&font_end;</string>
+    <string name="infinity_door_enter_message">Entrar na &font_gold;Porta&font_end; do &font_infinity;Infinito&font_end;?</string>
+    <string name="entering_infinity_door">Entrando na &font_gold;Porta&font_end; do &font_infinity;Infinito&font_end;</string>
+    <string name="infinity_door_opened">Você abre a &font_gold;Porta&font_end; do &font_infinity;Infinito&font_end;!</string>
 
-    <string name=”infinity_door_closed_message”>É uma porta trancada e não há nada ao redor… parece que precisa de algum tipo de &font_gold;Chave &font_end;para ser aberta…</string>
+    <string name="infinity_door_closed_message">É uma porta trancada e não há nada ao redor… parece que precisa de algum tipo de &font_gold;Chave &font_end;para ser aberta…</string>
 
-    <string name=”achievements_clear_title”>Tem certeza?</string>
-    <string name=”collections_clear_title”>Tem certeza?</string>
-    <string name=”collections_cleared”>Coleções completas!</string>
-    <string name=”cemetery_cleared”>Cemitério completo!</string>
-    <string name=”achievements_cleared”>Conquistas completas!</string>
+    <string name="achievements_clear_title">Tem certeza?</string>
+    <string name="collections_clear_title">Tem certeza?</string>
+    <string name="collections_cleared">Coleções completas!</string>
+    <string name="cemetery_cleared">Cemitério completo!</string>
+    <string name="achievements_cleared">Conquistas completas!</string>
 
-    <string name=”button_unfold_output_text”>Botão mostrar saída de texto</string>
-    <string name=”settings_map_controls”>Mostrar Botões no Mini Mapa</string>
-    <string name=”settings_output_controls”>Mostrar Botão de Saída de Texto</string>
-    <string name=”forget_crafting_recipe_title”>Esquecer Receita de Fabricação?</string>
-    <string name=”forget_crafting_recipe_message”>Você deseja se esquecer de como fabricar %1$s?</string>
+    <string name="button_unfold_output_text">Botão mostrar saída de texto</string>
+    <string name="settings_map_controls">Mostrar Botões no Mini Mapa</string>
+    <string name="settings_output_controls">Mostrar Botão de Saída de Texto</string>
+    <string name="forget_crafting_recipe_title">Esquecer Receita de Fabricação?</string>
+    <string name="forget_crafting_recipe_message">Você deseja se esquecer de como fabricar %1$s?</string>
 
-    <string name=”crafting_recipe_migration_alert_title”>Receitas de Fabricação</string>
-    <string name=”crafting_recipe_migration_alert_message”>As &font_red;Forças do Mal &font_end;roubaram o seu conhecimento de receitas de fabricação, mas o &font_wise;Sábio &font_end;lhe ensinou todas as receitas que você poderia saber…&br;&br;O &font_asterisk_creator;Criador &font_end;espera que você as utilize com sabedoria!</string>
-    <string name=”crafting_recipe_legacy”>[Legado]</string>
-    <string name=”crafting_recipe_legacy_cant_learn”>&italic;Você não pode aprender uma Receita Legado&italic_end;</string>
+    <string name="crafting_recipe_migration_alert_title">Receitas de Fabricação</string>
+    <string name="crafting_recipe_migration_alert_message">As &font_red;Forças do Mal &font_end;roubaram o seu conhecimento de receitas de fabricação, mas o &font_wise;Sábio &font_end;lhe ensinou todas as receitas que você poderia saber…&br;&br;O &font_asterisk_creator;Criador &font_end;espera que você as utilize com sabedoria!</string>
+    <string name="crafting_recipe_legacy">[Legado]</string>
+    <string name="crafting_recipe_legacy_cant_learn">&italic;Você não pode aprender uma Receita Legado&italic_end;</string>
 
-    <string name=”skill_pet_collector”>&font_pet;Colecionador de Mascotes&font_end;</string>
-    <string name="skill_zoologist”>&font_pet;Zoologista&font_end;</string>
-    <string name=”skill_pet_hoarder”>&font_pet;Acumulador de Mascotes&font_end;</string>
+    <string name="skill_pet_collector">&font_pet;Colecionador de Mascotes&font_end;</string>
+    <string name="skill_zoologist">&font_pet;Zoologista&font_end;</string>
+    <string name="skill_pet_hoarder">&font_pet;Acumulador de Mascotes&font_end;</string>
 
-    <string name=”skill_pet_collector_description”>Aumenta em &bold;&font_cyan;5&font_end;&bold_end; o número máximo de &font_red;monstros&font_end; &font_pet;mascotes &font_end;que você pode possuir.</string>
+    <string name="skill_pet_collector_description">Aumenta em &bold;&font_cyan;5&font_end;&bold_end; o número máximo de &font_red;monstros&font_end; &font_pet;mascotes &font_end;que você pode possuir.</string>
     <string name="skill_zoologist_description">Aumenta em &bold;&font_cyan;5&font_end;&bold_end; o número máximo de &font_red;monstros&font_end; &font_pet;mascotes &font_end;que você pode possuir.</string>
     <string name="skill_pet_hoarder_description">Aumenta em &bold;&font_cyan;10&font_end;&bold_end; o número máximo de &font_red;monstros&font_end; &font_pet;mascotes &font_end;que você pode possuir.</string>
 
-    <string name=”ee_your_tongue_hurts”>A sua língua está doendo… o que está acontecendo?</string>
+    <string name="ee_your_tongue_hurts">A sua língua está doendo… o que está acontecendo?</string>
     <string name="ee_kirito">Oh, você conseguiu um desconto misterioso em %1$s!</string>
 
     <string name="only_placeholder">%1$s</string>
@@ -2817,13 +2817,13 @@
     <string name="title_alchemist_female">%1$s, a &font_alchemist;Alquimista&font_end;</string>
     <string name="title_blacksmith_female">%1$s, a &font_iron;Ferreira&font_end;</string>
     <string name="title_noble_female">%1$s, a &font_gold;Nobre&font_end;</string>
-    <string name=”male”>Homem</string>
-    <string name=”female”>Mulher</string>
+    <string name="male">Homem</string>
+    <string name="female">Mulher</string>
     <string name="new_game_whats_your_sex">… e qual seria o seu sexo?</string>
-    <string name=”title_unlocked”>[Título desbloqueado: %1$s]</string>
-    <string name=”settings_show_player_title”>Mostrar título</string>
-    <string name=”settings_player_title”>&font_cyan;Título do Jogador&font_end;</string>
-    <string name=”settings_select_title”>Selecionar Título</string>
+    <string name="title_unlocked">[Título desbloqueado: %1$s]</string>
+    <string name="settings_show_player_title">Mostrar título</string>
+    <string name="settings_player_title">&font_cyan;Título do Jogador&font_end;</string>
+    <string name="settings_select_title">Selecionar Título</string>
 
     <string name="title_the_strongest_male">%1$s, o &font_attack;Mais Forte&font_end;</string>
     <string name="title_the_broke_male">%1$s, o &font_gold;Arruinado&font_end;</string>
@@ -2979,49 +2979,49 @@
     <string name="title_the_ranger_no_gender">%1$s, &font_wood;Sentinela&font_end;</string>
     <string name="title_the_librarian_no_gender">%1$s, &font_wood;Bibliotecárix&font_end;</string>
 
-    <string name=”skill_crafter”>&font_cyan;Fabricante&font_end;</string>
-    <string name=”skill_crafter_description”>Permite &font_cyan;Fabricar&font_end; utilizando tanto materiais do &font_wood;Inventário &font_end;quanto aqueles que estão no &font_wood;Estoque&font_end;</string>
-    <string name="bug_was_a”>O &font_insect;Inseto &font_end;era &font_insect;%1$s&font_end;!</string>
+    <string name="skill_crafter">&font_cyan;Fabricante&font_end;</string>
+    <string name="skill_crafter_description">Permite &font_cyan;Fabricar&font_end; utilizando tanto materiais do &font_wood;Inventário &font_end;quanto aqueles que estão no &font_wood;Estoque&font_end;</string>
+    <string name="bug_was_a">O &font_insect;Inseto &font_end;era &font_insect;%1$s&font_end;!</string>
 
-    <string name=”button_sort_by_quantity”>Organizar (Quantidade)</string>
+    <string name="button_sort_by_quantity">Organizar (Quantidade)</string>
 
-    <string name=”no_gender”>Nenhum</string>
+    <string name="no_gender">Nenhum</string>
 
-    <string name=”shop_magic”>&font_gold;Loja &font_end;de &font_mana;Magia&font_end;</string>
+    <string name="shop_magic">&font_gold;Loja &font_end;de &font_mana;Magia&font_end;</string>
 
-    <string name=”quest_rescue_someone_following_you_grouped”>Há &font_quest;%1$d &font_end;pessoas aqui, seguindo você…</string>
+    <string name="quest_rescue_someone_following_you_grouped">Há &font_quest;%1$d &font_end;pessoas aqui, seguindo você…</string>
 
-    <string name=”feed_no_food”>Você não tem comida…</string>
+    <string name="feed_no_food">Você não tem comida…</string>
 
-    <string name=”achievement_name_animal_lover”>Encantador de Animais</string>
+    <string name="achievement_name_animal_lover">Encantador de Animais</string>
 
-    <string name=”food_fish_stick”>&font_cyan;Espetinho &font_end;de &font_wood;Peixe&font_end;</string>
+    <string name="food_fish_stick">&font_cyan;Espetinho &font_end;de &font_wood;Peixe&font_end;</string>
 
     <string name="new_game_whats_your_race">… e qual seria a sua raça?</string>
 
-    <string name=”race_human”>&font_cyan;Humanos&font_end;</string>
-    <string name=”race_dwarf”>&font_red;Anões&font_end;</string>
-    <string name=”race_halfling”>&font_speed;Pequenos&font_end;</string>
-    <string name=”race_gnome”>&font_green;Gnomos&font_end;</string>
-    <string name=”race_elf”>&font_gold;Elfos&font_end;</string>
-    <string name=”race_drow”>&font_black_low;Drows&font_end;</string>
-    <string name=”race_undead”>&font_mushroom;Mortos-Vivos&font_end;</string>
-    <string name="race_orc”>&font_dark_green;Orcs&font_end;</string>
-    <string name=”race_lizard”>&font_yellow;Lagartos&font_end;</string>
-    <string name=”race_unknown”>&font_white;Desconhecida&font_end;</string>
+    <string name="race_human">&font_cyan;Humanos&font_end;</string>
+    <string name="race_dwarf">&font_red;Anões&font_end;</string>
+    <string name="race_halfling">&font_speed;Pequenos&font_end;</string>
+    <string name="race_gnome">&font_green;Gnomos&font_end;</string>
+    <string name="race_elf">&font_gold;Elfos&font_end;</string>
+    <string name="race_drow">&font_black_low;Drows&font_end;</string>
+    <string name="race_undead">&font_mushroom;Mortos-Vivos&font_end;</string>
+    <string name="race_orc">&font_dark_green;Orcs&font_end;</string>
+    <string name="race_lizard">&font_yellow;Lagartos&font_end;</string>
+    <string name="race_unknown">&font_white;Desconhecida&font_end;</string>
 
-    <string name=”race_human_desc”>São os seres mais adaptáveis e flexíveis das raças comuns. O seu alinhamento reside em uma linha fina entre o bem e o mal. São habilidosos em combate e magia de maneira equilibrada, além de possuírem conhecimento inato de fabricação e serem exploradores naturais.</string>
-    <string name=”race_dwarf_desc”>Costumavam viver sob as montanhas, preocupados somente com as suas minas e cervejas, mas devido ao aumento recente do mal no mundo, muitos deles começaram a explorar esse mundo a fim de viver as suas próprias lendas, como seus ancestrais fizeram no passado. Formam uma das raças mais fortes, possuem grandes habilidades de mineração e são os únicos seres capazes de produzir Cerveja.</string>
-    <string name=”race_halfling_desc”>Apesar de aparecerem em livros e histórias, quase ninguém viu um durante a vida, uma vez que os Pequenos são um povo pacífico que vive em seus próprios vilarejos secretos, cozinhando, comendo, lendo histórias sobre a primeira era, e vivendo todo tipo de fantasia em suas mentes. Desde que o mal começou a se espalhar pelo mundo, alguns dos Pequenos mais valentes iniciaram suas próprias aventuras seguindo o exemplo daqueles sobre os quais leram nos livros.</string>
-    <string name=”race_gnome_desc”>Se alegram com a vida, aproveitando cada momento de invenção, exploração e investigação. Costumavam se concentrar apenas em suas invenções e explorações, mas ultimamente muitos Gnomos corajosos têm sido vistos se aventurando pelo mundo.</string>
-    <string name=”race_elf_desc”>Elfos são seres mágicos de graça sobrenatural, que vivem neste mundo sem fazer parte dele completamente. Egoístas e egocêntricos, estão preocupados com o seu futuro devido ao aumento da presença do mal, e por isso começaram a se fazer mais presentes no mundo, em busca de sua salvação.</string>
-    <string name=”race_drow_desc”>São geralmente conhecidos como a versão maligna dos elfos comuns. São extremamente inteligentes, carismáticos e habilidosos, mas compartilham da aparência frágil e da compleição esguia dos elfos. São caracterizados por possuírem cabelos brancos ou prateados e pele negra como a obsidiana.</string>
-    <string name=”race_undead_desc”>Seres humanos vivos de outrora, trazidos de volta à vida na horrível condição de não-morte pela prática de necromancia. Possuem grande força e inteligência, mas são lentos. Sua fome aumenta mais rapidamente do que as outras raças, mas podem comer cadáveres para restaurar Mana, Fome e Vida.</string>
-    <string name=”race_orc_desc”>Bestiais e selvagens, os orcs se agrupam em tribos, vivendo de caça e de pilhagens. Como amantes da guerra, encontraram um poderoso inimigo no mal que tem se espalhado pelo mundo recentemente. Começaram a se relacionar com outras raças com quem, até não muito tempo atrás, apenas conversavam na linguagem das armas e magia.</string>
-    <string name=”race_lizard_desc”>São humanóides reptilianos semiaquáticos. Sua pele é coberta de escamas e possui cor variada, desde o verde escuro até tons de marrom e cinza. Os mais corajosos dentre eles têm viajado pelo mundo, encontrando outros lugares para expandir a sua vida e poder ajudar na destruição do mal.</string>
-    <string name=”race_unknown_desc”>Um ser estranho, nunca visto antes. Seres equilibrados, espertos e capazes de se adaptar a qualquer situação. O seu propósito na vida é um mistério.</string>
-    <string name=”race_attributes”>Atributos</string>
-    <string name=”race_traits”>Características</string>
+    <string name="race_human_desc">São os seres mais adaptáveis e flexíveis das raças comuns. O seu alinhamento reside em uma linha fina entre o bem e o mal. São habilidosos em combate e magia de maneira equilibrada, além de possuírem conhecimento inato de fabricação e serem exploradores naturais.</string>
+    <string name="race_dwarf_desc">Costumavam viver sob as montanhas, preocupados somente com as suas minas e cervejas, mas devido ao aumento recente do mal no mundo, muitos deles começaram a explorar esse mundo a fim de viver as suas próprias lendas, como seus ancestrais fizeram no passado. Formam uma das raças mais fortes, possuem grandes habilidades de mineração e são os únicos seres capazes de produzir Cerveja.</string>
+    <string name="race_halfling_desc">Apesar de aparecerem em livros e histórias, quase ninguém viu um durante a vida, uma vez que os Pequenos são um povo pacífico que vive em seus próprios vilarejos secretos, cozinhando, comendo, lendo histórias sobre a primeira era, e vivendo todo tipo de fantasia em suas mentes. Desde que o mal começou a se espalhar pelo mundo, alguns dos Pequenos mais valentes iniciaram suas próprias aventuras seguindo o exemplo daqueles sobre os quais leram nos livros.</string>
+    <string name="race_gnome_desc">Se alegram com a vida, aproveitando cada momento de invenção, exploração e investigação. Costumavam se concentrar apenas em suas invenções e explorações, mas ultimamente muitos Gnomos corajosos têm sido vistos se aventurando pelo mundo.</string>
+    <string name="race_elf_desc">Elfos são seres mágicos de graça sobrenatural, que vivem neste mundo sem fazer parte dele completamente. Egoístas e egocêntricos, estão preocupados com o seu futuro devido ao aumento da presença do mal, e por isso começaram a se fazer mais presentes no mundo, em busca de sua salvação.</string>
+    <string name="race_drow_desc">São geralmente conhecidos como a versão maligna dos elfos comuns. São extremamente inteligentes, carismáticos e habilidosos, mas compartilham da aparência frágil e da compleição esguia dos elfos. São caracterizados por possuírem cabelos brancos ou prateados e pele negra como a obsidiana.</string>
+    <string name="race_undead_desc">Seres humanos vivos de outrora, trazidos de volta à vida na horrível condição de não-morte pela prática de necromancia. Possuem grande força e inteligência, mas são lentos. Sua fome aumenta mais rapidamente do que as outras raças, mas podem comer cadáveres para restaurar Mana, Fome e Vida.</string>
+    <string name="race_orc_desc">Bestiais e selvagens, os orcs se agrupam em tribos, vivendo de caça e de pilhagens. Como amantes da guerra, encontraram um poderoso inimigo no mal que tem se espalhado pelo mundo recentemente. Começaram a se relacionar com outras raças com quem, até não muito tempo atrás, apenas conversavam na linguagem das armas e magia.</string>
+    <string name="race_lizard_desc">São humanóides reptilianos semiaquáticos. Sua pele é coberta de escamas e possui cor variada, desde o verde escuro até tons de marrom e cinza. Os mais corajosos dentre eles têm viajado pelo mundo, encontrando outros lugares para expandir a sua vida e poder ajudar na destruição do mal.</string>
+    <string name="race_unknown_desc">Um ser estranho, nunca visto antes. Seres equilibrados, espertos e capazes de se adaptar a qualquer situação. O seu propósito na vida é um mistério.</string>
+    <string name="race_attributes">Atributos</string>
+    <string name="race_traits">Características</string>
 
     <string name="race_attributes_with_numbers">Attack: &font_attack;%1$s &font_end;Defe.: &font_defense;%2$s&font_end;&br;Intel.: &font_mana;%3$s &font_end;Speed: &font_speed;%4$s&font_end;</string>
 
