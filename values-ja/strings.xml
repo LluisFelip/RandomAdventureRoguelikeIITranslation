@@ -2067,7 +2067,7 @@
     <string name="spell_meteorite_desc">Invokes a big &font_attack;meteorite&font_end; towards the enemy. Can &font_attack;burn&font_end;.</string>
     <string name="spell_meteorite_desc_combat">You invoke a big &font_attack;meteorite &font_end;towards %1$s! %2$s receives &font_red;%3$d &font_end;damage.</string>
     <string name="spell_firestorm_name">&font_attack;Fire Storm&font_end;</string>
-    <string name="spell_firestorm_desc">Invokes a &font_attack;fire storm&font_end;. Always &font_attack;burns&font_end;.</string>
+    <string name="spell_firestorm_desc">Invokes a &font_attack;fire storm&font_end;. Can &font_attack;burn&font_end;.</string>
     <string name="spell_firestorm_desc_combat">You invoke a powerful &font_attack;fire storm &font_end;to %1$s! %2$s receives &font_red;%3$d &font_end;damage.</string>
     <string name="spell_splash_name">&font_water;Splash&font_end;</string>
     <string name="spell_splash_desc">&font_water;Splashes &font_end;the enemy.</string>
@@ -2098,7 +2098,7 @@
     <string name="spell_frostfire_desc">Casts &font_ice;frost fire&font_end;. Can &font_ice;freeze&font_end;.</string>
     <string name="spell_frostfire_desc_combat">You cast &font_ice;frost fire&font_end; to %1$s! %2$s receives &font_red;%3$d &font_end;damage.</string>
     <string name="spell_freezingbomb_name">&font_ice;Freezing Bomb&font_end;</string>
-    <string name="spell_freezingbomb_desc">Explodes a &font_ice;freezing bomb&font_end;. Always &font_ice;freezes&font_end;.</string>
+    <string name="spell_freezingbomb_desc">Explodes a &font_ice;freezing bomb&font_end;. Can &font_ice;freeze&font_end;.</string>
     <string name="spell_freezingbomb_desc_combat">You explode a &font_ice;freezing bomb&font_end; to %1$s! %2$s receives &font_red;%3$d &font_end;damage.</string>
     <string name="spell_windpush_name">&font_spell_wind;Wind Push&font_end;</string>
     <string name="spell_windpush_desc">Pushes the enemy with &font_spell_wind;wind&font_end;. Can &font_spell_wind;block&font_end;.</string>
@@ -2128,7 +2128,7 @@
     <string name="spell_thunder_desc">Casts a &font_electric;thunder&font_end;. Can &font_electric;paralyse&font_end;.</string>
     <string name="spell_thunder_desc_combat">You cast a &font_electric;thunder &font_end;to %1$s! %2$s receives &font_red;%3$d &font_end;damage.</string>
     <string name="spell_electricstorm_name">&font_electric;Electric Storm&font_end;</string>
-    <string name="spell_electricstorm_desc">Invokes a powerful &font_electric;electric storm&font_end;. Always &font_electric;paralyses&font_end;.</string>
+    <string name="spell_electricstorm_desc">Invokes a powerful &font_electric;electric storm&font_end;. Can &font_electric;paralyse&font_end;.</string>
     <string name="spell_electricstorm_desc_combat">You invoke a powerful &font_electric;electric storm &font_end;to %1$s! %2$s receives &font_red;%3$d &font_end;damage.</string>
     <string name="spell_capture_monster_name">&font_pet;Capture&font_end; &font_red;Monster&font_end;</string>
     <string name="spell_capture_monster_desc">Tries to &font_pet;capture &font_end;the enemy &font_red;Monster &font_end;to become your &font_pet;Pet&font_end;. The higher the level, the higher the chances of successfully capturing it.</string>
