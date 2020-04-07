@@ -3870,4 +3870,6 @@
     <string name="achievement_name_rubber_chicken">Rubber Chicken</string>
     <string name="achievement_desc_rubber_chicken">Kill the Void Master while wearing a full Void Armor set in Chicken Mode.</string>
 
+    <string name="dead_reason_by_cactus">You died picking up a &font_cactus;Cactus&font_end;!</string>
+
 </resources>
