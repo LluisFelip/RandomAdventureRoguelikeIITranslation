@@ -2171,7 +2171,7 @@
     <string name="spell_windhole_desc">Casts a lethal &font_spell_wind;wind hole&font_end;.</string>
     <string name="spell_windhole_desc_combat">You cast a lethal &font_spell_wind;wind hole &font_end;on %1$s! %2$s receives &font_red;%3$d &font_end;damage.</string>
     <string name="spell_tornado_name">&font_spell_wind;Tornado&font_end;</string>
-    <string name="spell_tornado_desc">Invokes a powerful &font_spell_wind;tornado&font_end;.</string>
+    <string name="spell_tornado_desc">Invokes a powerful &font_spell_wind;tornado&font_end;. Can &font_spell_wind;block&font_end;.</string>
     <string name="spell_tornado_desc_combat">You invoke a powerful &font_spell_wind;tornado &font_end;to %1$s! %2$s receives &font_red;%3$d &font_end;damage.</string>
     <string name="spell_electricjolt_name">&font_electric;Electric Jolt&font_end;</string>
     <string name="spell_electricjolt_desc">Strikes with an &font_electric;electric jolt&font_end;. Can &font_electric;paralyse&font_end;.</string>
