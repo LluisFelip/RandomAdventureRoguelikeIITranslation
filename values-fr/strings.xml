@@ -1996,7 +1996,7 @@
     <string name="skill_survivor_description">Réduit les dégâts reçus lorsque tu as le ventre plein.</string>
     <string name="skill_swimmer">&font_cyan;Nageur&font_end;</string>
     <string name="skill_swimmer_description">Tu perds moins de nourriture en nageant.</string>
-    <string name="skill_hiker">&font_cyan;Randonneur&font_end;</string>
+    <string name="skill_hiker">&font_cyan;Marcheur&font_end;</string>
     <string name="skill_hiker_description">Tu perds moins de nourriture en marchant.</string>
     <string name="skill_unbreakable">&font_cyan;Incassable&font_end;</string>
     <string name="skill_unbreakable_description">Si l\'attaque du &font_red;monstre &font_end;vient à te tuer, tu résistes et survis avec &font_health;1 &font_end;point de vie.</string>
@@ -2238,7 +2238,7 @@
     <string name="select_nautical_chart">Selectionner la Carte Nautique</string>
     <string name="text_sailing_title">Embarquement</string>
     <string name="text_sailing_title_to_island_name">Embarquement vers &font_cyan;%1$s&font_end;…</string>
-    <string name="moved_direction">Déplacement au %1$s.</string>
+    <string name="moved_direction">Déplacement %1$s.</string>
     <string name="player_waits">Tu attends…</string>
     <string name="select_island_discover_new_island">Nouvelle Île découverte !</string>
     <string name="select_island_title">Sélection de l\'île</string>
@@ -2737,10 +2737,10 @@
 
     <string name="settings_vibration">Vibrations</string>
 
-    <string name="skill_bigpockets">&font_wood;Big Pockets&font_end;</string>
-    <string name="skill_backpacker">&font_wood;Backpacker&font_end;</string>
-    <string name="skill_bigpockets_description">Increases the number of items you can carry by &bold;&font_cyan;5&font_end;&bold_end;</string>
-    <string name="skill_backpacker_description">Increases the number of items you can carry by &bold;&font_cyan;10&font_end;&bold_end;</string>
+    <string name="skill_bigpockets">&font_wood;Grandes poches&font_end;</string>
+    <string name="skill_backpacker">&font_wood;Randonneur&font_end;</string>
+    <string name="skill_bigpockets_description">Augmente le nombre d'objets que vous pouvez porter de &bold;&font_cyan;5&font_end;&bold_end;</string>
+    <string name="skill_backpacker_description">Augmente le nombre d'objets que vous pouvez porter de &bold;&font_cyan;10&font_end;&bold_end;</string>
 
     <string name="tile_content_type_gate_desc">This strange &font_gate;Gate &font_end;seems to need something to be activated…</string>
     <string name="button_gate_use_dark_orb">Use &font_dark_orb;Dark Orb&font_end;</string>
