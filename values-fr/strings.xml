@@ -2757,7 +2757,7 @@
     <string name="tile_type_energy_source">Source infinie</string>
     <string name="tile_type_infinity">Infini</string>
 
-    <string name="dark_orb_gate_open">Le &font_gate;portail sombre &font_end;s'ouvre soudainement sous vos yeux, une quantité importante d\'&italic;énergie sombre &italic_end;en émane…</string>
+    <string name="dark_orb_gate_open">Le &font_gate;portail sombre &font_end;s\'ouvre soudainement sous vos yeux, une quantité importante d\'&italic;énergie sombre &italic_end;en émane…</string>
 
     <string name="void_master_after_killing_text">Killing me, you have activated the end for you and the rest of mortals… get ready for the &font_void;Void &font_end;Monsters appearing in your world…</string>
     <string name="void_master_after_killing_text_2">You again…? Well… I\'m surprised you arrived so far with my &font_void;Void &font_end;Monsters around the world… I\'ll see you again…</string>
@@ -2855,7 +2855,7 @@
     <string name="title_the_willy_fog_male">%1$s, le &font_cyan;Willy Fog&font_end;</string>
     <string name="title_the_explorer_male">%1$s, l\'&font_cyan;Explorateur&font_end;</string>
     <string name="title_the_completionist_male">%1$s, le &font_cyan;Complétioniste&font_end;</string>
-    <string name="title_the_pet_collector_male">%1$s, le &font_pet;Collectionneur d'animaux&font_end;</string>
+    <string name="title_the_pet_collector_male">%1$s, le &font_pet;Collectionneur d\'animaux&font_end;</string>
     <string name="title_the_pet_master_male">%1$s, le &font_pet;Dompteur d\'animaux&font_end;</string>
     <string name="title_the_skilled_male">%1$s, le &font_cyan;Compétent&font_end;</string>
     <string name="title_the_skill_master_male">%1$s, le &font_cyan;Maître des compétences&font_end;</string>
