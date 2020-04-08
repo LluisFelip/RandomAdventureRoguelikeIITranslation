@@ -2739,8 +2739,8 @@
 
     <string name="skill_bigpockets">&font_wood;Grandes poches&font_end;</string>
     <string name="skill_backpacker">&font_wood;Randonneur&font_end;</string>
-    <string name="skill_bigpockets_description">Augmente le nombre d'objets que vous pouvez porter de &bold;&font_cyan;5&font_end;&bold_end;</string>
-    <string name="skill_backpacker_description">Augmente le nombre d'objets que vous pouvez porter de &bold;&font_cyan;10&font_end;&bold_end;</string>
+    <string name="skill_bigpockets_description">Augmente le nombre d\'objets que vous pouvez porter de &bold;&font_cyan;5&font_end;&bold_end;</string>
+    <string name="skill_backpacker_description">Augmente le nombre d\'objets que vous pouvez porter de &bold;&font_cyan;10&font_end;&bold_end;</string>
 
     <string name="tile_content_type_gate_desc">This strange &font_gate;Gate &font_end;seems to need something to be activated…</string>
     <string name="button_gate_use_dark_orb">Use &font_dark_orb;Dark Orb&font_end;</string>
