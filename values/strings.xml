@@ -1127,8 +1127,10 @@
     What is a man but a miserable pile of secrets?\n
     Don\'t focus too much on the game or you\'ll take the wrong bus.\n
     What is dead may never die.\n
-    You can\'t die if you are undead.
-    Confused Confusing Confusion
+    You can\'t die if you are undead.\n
+    Confused Confusing Confusion.\n
+    He who fights with monsters should look to it that he himself does not become a monster.\n
+    If you gaze long into an abyss, the abyss also gazes into you.
     ]]>
     </string>
 
@@ -1429,7 +1431,7 @@
     <string name="action_search">&font_cyan;Search&font_end;</string>
     <string name="action_searching">Searching</string>
     <string name="action_explorer">&font_cyan;Find Inn&font_end;</string>
-    <string name="action_explorer_action_description">&font_cyan;Find Inn&font_end;</string>
+    <string name="action_explorer_action_description">&font_cyan;Finding Inn&font_end;</string>
     <string name="action_explorer_action_description_positive">You sense an &font_inn;Inn &font_end;at &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end;.</string>
     <string name="action_explorer_action_description_negative">There is no &font_inn;Inn &font_end;in this island…</string>
     <string name="action_contractor">&font_cyan;Sense&font_end; &font_cyan;Quests&font_end;</string>
@@ -3871,5 +3873,10 @@
     <string name="achievement_desc_rubber_chicken">Kill the Void Master while wearing a full Void Armor set in Chicken Mode.</string>
 
     <string name="dead_reason_by_cactus">You died picking up a &font_cactus;Cactus&font_end;!</string>
+
+    <string name="action_trader_action_description">&font_cyan;Sensing&font_end; &font_gold;Merchants&font_end;</string>
+    <string name="action_treasure_hunter_action_description">&font_cyan;Hunting&font_end; &font_chest;Treasures&font_end;</string>
+
+    <string name="action_contractor_action_description">&font_cyan;Sensing&font_end; &font_cyan;Quests&font_end;</string>
 
 </resources>
