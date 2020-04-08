@@ -1035,8 +1035,8 @@
         à &font_cyan;%2$d&font_end;, &font_cyan;%3$d &font_end;t\'a demandé de ramener&font_cyan;%4$d &font_end;%5$s. Tu possèdes en ce moment %6$s. [&font_cyan;%7$s&font_end;]</string>
 
     <string name="quest_quests_title">&font_cyan;Quêtes &font_end;(&font_cyan;%1$d&font_end;)</string>
-    <string name="quest_text_for_gold">pour %1$s d\'Or</string>
-    <string name="quest_text_reward">Récompense : %1$s d\'Or</string>
+    <string name="quest_text_for_gold">pour %1$s d\'or</string>
+    <string name="quest_text_reward">Récompense : %1$s d\'or</string>
     <string name="quest_island_name_parenthesis">[&font_cyan;%1$s&font_end;]</string>
     <string name="quest_snackbar_action_go">Accepter</string>
     <string name="quest_text_you_have_no_quests_right_now">Tu n\'as en ce moment aucunes quêtes…</string>
@@ -1827,7 +1827,7 @@
     <string name="blacksmith_title">&font_iron;Forgeron&font_end;</string>
     <string name="blacksmith_scrapped_equipment">%1$s est mis en pièces pour du %2$s !</string>
     <string name="blacksmith_failed_scrapping">Destruction de %s a échoué…</string>
-    <string name="blacksmith_craft_cost">Forger : &font_gold;%1$d&font_end; d\'Or</string>
+    <string name="blacksmith_craft_cost">Forger : &font_gold;%1$d&font_end; d\'or</string>
     <string name="blacksmith_crafted">%s forgé !</string>
     <string name="blacksmith_not_enough_material">Tu n\'as pas les matériaux nécessaire…</string>
     <string name="needs_two_dots">Besoin de :</string>
@@ -1852,7 +1852,7 @@
     <string name="castle_message_royal_seal_not_enough">Tu n\'as pas assez de &font_gold;Sceau Royal&font_end;… Revenez quand vous en aurez au moins &font_cyan;%1$d&font_end;
         !</string>
     <string name="bar_caps">Bar</string>
-    <string name="bar_text_question_eat_at_the" tools:ignore="PluralsCandidate">Manger pour &font_gold;%1$d d\'Or&font_end;
+    <string name="bar_text_question_eat_at_the" tools:ignore="PluralsCandidate">Manger pour &font_gold;%1$d d\'or&font_end;
         ?</string>
     <string name="bar_not_hungry">Déjà rassasié…</string>
     <string name="bar_ate_at_the">Tu as mangé dans le %1$s.</string>
@@ -2742,22 +2742,22 @@
     <string name="skill_bigpockets_description">Augmente le nombre d\'objets que vous pouvez porter de &bold;&font_cyan;5&font_end;&bold_end;</string>
     <string name="skill_backpacker_description">Augmente le nombre d\'objets que vous pouvez porter de &bold;&font_cyan;10&font_end;&bold_end;</string>
 
-    <string name="tile_content_type_gate_desc">This strange &font_gate;Gate &font_end;seems to need something to be activated…</string>
-    <string name="button_gate_use_dark_orb">Use &font_dark_orb;Dark Orb&font_end;</string>
+    <string name="tile_content_type_gate_desc">Il semble manquer quelque chose pour ouvrir cet étrange &font_gate;portail&font_end;…</string>
+    <string name="button_gate_use_dark_orb">Utilise une &font_dark_orb;orbe sombre&font_end;</string>
 
-    <string name="open_gate_message">You feel a strong dark energy coming from the &font_gate;Open Gate&font_end;. Are you sure you want to enter it?</string>
-    <string name="entering_dark_gate_open">Entering &font_gate;Open Dark Gate&font_end;</string>
+    <string name="open_gate_message">Vous sentez une énergie sombre émanant du &font_gate;portail ouvert&font_end;. Vous êtes sûr de vouloir entrer ?</string>
+    <string name="entering_dark_gate_open">Vous passez le &font_gate;portail sombre ouvert&font_end;</string>
 
-    <string name="weather_emptiness">Emptiness</string>
+    <string name="weather_emptiness">Néant</string>
 
-    <string name="island_type_void">Void</string>
-    <string name="island_type_infinity">Infinity</string>
-    <string name="tile_type_void">Void</string>
-    <string name="tile_type_void_vortex">Void Vortex</string>
-    <string name="tile_type_energy_source">Infinity Origin</string>
-    <string name="tile_type_infinity">Infinity</string>
+    <string name="island_type_void">Néant</string>
+    <string name="island_type_infinity">Infini</string>
+    <string name="tile_type_void">Vide</string>
+    <string name="tile_type_void_vortex">Vortex du vide</string>
+    <string name="tile_type_energy_source">Source infinie</string>
+    <string name="tile_type_infinity">Infini</string>
 
-    <string name="dark_orb_gate_open">The &font_gate;Dark Gate &font_end;suddenly opens in front of you, there\'s a lot of &italic;dark energy &italic_end;coming out from it…</string>
+    <string name="dark_orb_gate_open">Le &font_gate;portail sombre &font_end;s'ouvre soudainement sous vos yeux, une quantité importante d\'&italic;énergie sombre &italic_end;en émane…</string>
 
     <string name="void_master_after_killing_text">Killing me, you have activated the end for you and the rest of mortals… get ready for the &font_void;Void &font_end;Monsters appearing in your world…</string>
     <string name="void_master_after_killing_text_2">You again…? Well… I\'m surprised you arrived so far with my &font_void;Void &font_end;Monsters around the world… I\'ll see you again…</string>
