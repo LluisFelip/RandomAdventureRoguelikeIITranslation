@@ -3878,5 +3878,6 @@
     <string name="action_treasure_hunter_action_description">&font_cyan;Hunting&font_end; &font_chest;Treasures&font_end;</string>
 
     <string name="action_contractor_action_description">&font_cyan;Sensing&font_end; &font_cyan;Quests&font_end;</string>
+    <string name="settings_show_coordinates_below">Show Coordinates Below</string>
 
 </resources>
