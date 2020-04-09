@@ -2835,7 +2835,7 @@
     <string name="title_noble_female">%1$s, la &font_gold;Noble&font_end;</string>
     <string name="male">Homme</string>
     <string name="female">Femme</string>
-    <string name="new_game_whats_your_sex">… et quel est ton sexe ?</string>
+    <string name="new_game_whats_your_sex">… et quel est votre sexe ?</string>
     <string name="title_unlocked">[Titre débloqué : %1$s]</string>
     <string name="settings_show_player_title">Montrer le titre</string>
     <string name="settings_player_title">&font_cyan;Titre de joueur&font_end;</string>
@@ -2999,32 +2999,32 @@
     <string name="skill_crafter_description">Allows to &font_cyan;Craft&font_end; with both the items in the &font_wood;Inventory &font_end;and the ones in the &font_wood;Stash&font_end;</string>
     <string name="bug_was_a">The &font_insect;Bug &font_end;was a &font_insect;%1$s&font_end;!</string>
 
-    <string name="button_sort_by_quantity">Sort (Quantity)</string>
+    <string name="button_sort_by_quantity">Trier (Quantité)</string>
 
     <string name="no_gender">None</string>
 
-    <string name="shop_magic">&font_mana;Magic &font_end;&font_gold;Shop&font_end;</string>
+    <string name="shop_magic">&font_gold;Magasin &font_end;&font_mana;Magique&font_end;</string>
 
     <string name="quest_rescue_someone_following_you_grouped">&font_quest;%1$d &font_end;people are here, following you…</string>
 
-    <string name="feed_no_food">You don\'t have food…</string>
+    <string name="feed_no_food">Vous n\'avez pas de nourriture…</string>
 
     <string name="achievement_name_animal_lover">Animal Whisperer</string>
 
     <string name="food_fish_stick">&font_cyan;Fish &font_end;&font_wood;Stick&font_end;</string>
 
-    <string name="new_game_whats_your_race">… and what is your race?</string>
+    <string name="new_game_whats_your_race">… et quelle est votre race ?</string>
 
-    <string name="race_human">&font_cyan;Human&font_end;</string>
-    <string name="race_dwarf">&font_red;Dwarf&font_end;</string>
-    <string name="race_halfling">&font_speed;Halfling&font_end;</string>
+    <string name="race_human">&font_cyan;Humain&font_end;</string>
+    <string name="race_dwarf">&font_red;Nain&font_end;</string>
+    <string name="race_halfling">&font_speed;Halfelin&font_end;</string>
     <string name="race_gnome">&font_green;Gnome&font_end;</string>
-    <string name="race_elf">&font_gold;Elf&font_end;</string>
+    <string name="race_elf">&font_gold;Elfe&font_end;</string>
     <string name="race_drow">&font_black_low;Drow&font_end;</string>
-    <string name="race_undead">&font_mushroom;Undead&font_end;</string>
-    <string name="race_orc">&font_dark_green;Orc&font_end;</string>
-    <string name="race_lizard">&font_yellow;Lizard&font_end;</string>
-    <string name="race_unknown">&font_white;Unknown&font_end;</string>
+    <string name="race_undead">&font_mushroom;Mort-vivant&font_end;</string>
+    <string name="race_orc">&font_dark_green;Orque&font_end;</string>
+    <string name="race_lizard">&font_yellow;Lézard&font_end;</string>
+    <string name="race_unknown">&font_white;Inconnu&font_end;</string>
 
     <string name="race_human_desc">They are the most adaptable and flexible of the common races. Their alignment resides in the fine line between good and evil. They are balanced in fighting and magic and have an innate knowledge of crafting, and are natural explorers.</string>
     <string name="race_dwarf_desc">They used to live under the mountains just caring about their mines and beers, but due to the recent spreading of evil in the world, many have started to explore the world to live their own legends like their ancestors did in the past. They are one of the strongest races, having great mining skills, and they are the only ones capable of crafting Beer.</string>
@@ -3859,16 +3859,16 @@
     <string name="young_child_extra_advice_2">If I were you, I\'d buy some &font_cyan;Equipment &font_end;at an &font_bronze;Armory &font_end;or a powerful &font_mana;Spell &font_end;at a &font_mana;Magic &font_end;&font_gold;Shop &font_end;if you want to protect yourself better…&br;&br;And no, I don\'t collect commission for this! Even though my &italic;Uncle &italic_end;works at the &font_bronze;Armory &font_end;and my &italic;Grandma &italic_end;runs the &font_mana;Magic &font_end;&font_gold;Shop&font_end;…</string>
     <string name="young_child_extra_advice_3">Ah! And you should eat when you are &font_hunger;hungry &font_end;or you will die faster than you think!&br;&br;You can &font_cyan;eat &font_end;&font_plant;food &font_end;from your &font_wood;Inventory &font_end;or eat at a &font_bar;Bar &font_end;or a &font_bar;Tavern&font_end;…</string>
 
-    <string name="pyramid_was_cursed_and_closed">The &font_pyramid;Pyramid &font_end;was cursed and closed!</string>
-    <string name="pyramid_is_now_open">The &font_pyramid;Pyramid &font_end;is now open!</string>
-    <string name="pyramid_didnt_open">The &font_pyramid;Pyramid &font_end;didn\'t open…</string>
-    <string name="new_game_chicken_mode_selected">In &font_animal;Chicken Mode &font_end;you will have the following advantages:&br;&br;* &font_red;Monsters &font_end;won\'t block you from interacting with &font_cyan;NPCs&font_end;.&br;&br;* You will start with some extra &font_gold;Gold&font_end;.&br;&br;* Your starting base stats will be slightly better.&br;&br;* You will have extra &font_speed;Speed &font_end;when &font_cyan;fleeing &font_end;from &font_red;Monsters&font_end;.&br;&br;* \"&font_animal;Chicken Mode&font_end;\" will be shown in your &font_cyan;hero &font_end;stats screen!</string>
-    <string name="chicken_mode_checkbox">&font_animal;Chicken Mode&font_end;</string>
-    <string name="new_game_chicken_mode_not_selected">Enjoy the regular RAR II experience.</string>
-    <string name="chicken_mode_in_stats">&font_animal;Chicken Mode&font_end;</string>
-    <string name="the_chicken_smiles_at_you">The &font_animal;Chicken &font_end;smiles at you…</string>
-    <string name="achievement_name_chicken_feed_chicken">Chicken Feeds Chicken</string>
-    <string name="achievement_desc_chicken_feed_chicken">Feed a Chicken in Chicken Mode.</string>
+    <string name="pyramid_was_cursed_and_closed">La &font_pyramid;Pyramide &font_end;a été maudite et fermée !</string>
+    <string name="pyramid_is_now_open">La &font_pyramid;Pyramide &font_end;est maintenant ouverte !</string>
+    <string name="pyramid_didnt_open">La &font_pyramid;Pyramide &font_end;ne s\'est pas ouverte…</string>
+    <string name="new_game_chicken_mode_selected">En &font_animal;Mode Poule Mouillée &font_end;vous aurez les avantages suivants :&br;&br;* Les &font_red;monstres &font_end;ne vous empêcherons plus d'interagir avec les &font_cyan;PNJ&font_end;.&br;&br;* Vous démarrerez avec de l\'&font_gold;or &font_end;supplémentaire.&br;&br;* Vos stats de départ seront légèrement meilleures.&br;&br;* Vous aurrez plus de &font_speed;vitesse &font_end;pour &font_cyan;fuir &font_end;les &font_red;monstres&font_end;.&br;&br;* \« &font_animal;Mode Poule Mouillée&font_end; \» sera affiché sur l'écran de stats de votre &font_cyan;héros&font_end; !</string>
+    <string name="chicken_mode_checkbox">&font_animal;Mode Poule Mouillée&font_end;</string>
+    <string name="new_game_chicken_mode_not_selected">Profitez de l\'expérience habituelle RAR II.</string>
+    <string name="chicken_mode_in_stats">&font_animal;Mode Poule Mouillée&font_end;</string>
+    <string name="the_chicken_smiles_at_you">Le &font_animal;poulet &font_end;te sourit…</string>
+    <string name="achievement_name_chicken_feed_chicken">Cannibalisme chez KFC</string>
+    <string name="achievement_desc_chicken_feed_chicken">Nourris un poulet en Mode Poule Mouillée.</string>
 
 
     <string name="no_permadeath_gold_penalty">&br;&br;&font_cyan;* &font_end;If you die, you will lose &font_cyan;50% &font_end;of the &font_gold;gold &font_end;you are carrying.</string>
