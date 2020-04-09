@@ -2496,7 +2496,7 @@
     <string name="monster_action_white_storm">tempestade branca</string>
     <string name="monster_action_emptyness">solidão</string>
     <string name="monster_action_deep_void">vazio profundo</string>
-    <string name="monster_action_vortex_energy">energia do vórtex</string>
+    <string name="monster_action_vortex_energy">energia do vórtice</string>
 
     <string name="achievement_name_to_die_is_fun">Morrer é divertido!</string>
     <string name="achievement_name_the_first_of_many_to_come">O primeiro de muitos</string>
@@ -2737,7 +2737,7 @@
     <string name="island_type_void">Vazio</string>
     <string name="island_type_infinity">Infinito</string>
     <string name="tile_type_void">Vazio</string>
-    <string name="tile_type_void_vortex">Vórtex do Vazio</string>
+    <string name="tile_type_void_vortex">Vórtice do Vazio</string>
     <string name="tile_type_energy_source">Origem do Infinito</string>
     <string name="tile_type_infinity">Infinito</string>
 
