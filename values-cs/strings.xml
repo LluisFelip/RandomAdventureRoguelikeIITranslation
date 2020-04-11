@@ -198,8 +198,8 @@
     <string name="about_twitter">Archison na Twitteru</string>
     <string name="about_discord">RAR II na Discordu</string>
 
-    <string name="new_game_welcome_hero_whats_your_name">Vítej, hrdino! Jaké je tvé jméno?</string>
-    <string name="new_game_hero_name">Hrdina</string>
+    <string name="new_game_welcome_hero_whats_your_name">Vítej, dobrodruhu! Jaké je tvé jméno?</string>
+    <string name="new_game_hero_name">Dobrodruh</string>
     <string name="new_game_whats_your_starting_advantage">… a jaká bude tvá počáteční výhoda?</string>
 
     <string name="advantage_random">Náhodná</string>
@@ -867,154 +867,154 @@
     <string name="text_diamond_ring">&font_diamond;Diamantový&font_end; prsten</string>
     <string name="text_obsidian_ring">&font_obsidian;Obsidiánový&font_end; prsten</string>
 
-    <string name="bomb_normal">&font_bomb;Bomb&font_end;</string>
-    <string name="bomb_fire">&font_attack;Fire&font_end; &font_bomb;Bomb&font_end;</string>
-    <string name="bomb_ice">&font_ice;Ice &font_end;&font_bomb;Bomb&font_end;</string>
-    <string name="bomb_electric">&font_electric;Electric&font_end; &font_bomb;Bomb&font_end;</string>
-    <string name="bomb_you_throw_the_bomb_to">You throw %1$s to %2$s! %3$s receives &font_red;%4$d &font_end;damage!</string>
+    <string name="bomb_normal">&font_bomb;Bomba&font_end;</string>
+    <string name="bomb_fire">&font_attack;Ohnivá&font_end; &font_bomb; bomba&font_end;</string>
+    <string name="bomb_ice">&font_ice;Ledová&font_end;&font_bomb; bomba&font_end;</string>
+    <string name="bomb_electric">&font_electric;Electric&font_end; &font_bomb; bomba&font_end;</string>
+    <string name="bomb_you_throw_the_bomb_to">Hodil jsi %1$s na %2$s! %3$s obdržel &font_red;%4$d&font_end; bodů poškození!</string>
 
-    <string name="food_green_salad">&font_plant;Green&font_end; Salad</string>
-    <string name="food_eye_soup">&font_swamp;Eye&font_end; Soup</string>
-    <string name="food_mushroom_stew">&font_mushroom;Mushroom &font_end;Stew</string>
-    <string name="food_cactus_salad">&font_cactus;Cactus &font_end;Salad</string>
-    <string name="food_coconut_soda">&font_coconut;Coconut&font_end; Soda</string>
-    <string name="food_fish_salad">&font_cyan;Fish&font_end; Salad</string>
-    <string name="food_desert_fish">&font_desert;Desert&font_end; &font_cyan;Fish&font_end;</string>
-    <string name="food_marrow">&font_bone;Marrow&font_end;</string>
-    <string name="food_meat_stick">&font_copper;Steak &font_end;on a &font_wood;Stake&font_end;</string>
-    <string name="food_vegetable_stick">&font_plant;Vegetables&font_end; &font_wood;Stick&font_end;</string>
-    <string name="food_milk">Milk</string>
-    <string name="food_cereal">Cereal</string>
-    <string name="food_fruit">Fruit</string>
-    <string name="food_egg">Egg</string>
-    <string name="food_tomato">Tomato</string>
-    <string name="food_cheese">Cheese</string>
-    <string name="food_garlic">Garlic</string>
-    <string name="food_onion">Onion</string>
-    <string name="food_cucumber">Cucumber</string>
+    <string name="food_green_salad">&font_plant;Pampeliškový&font_end; salát</string>
+    <string name="food_eye_soup">&font_swamp;Bulvová&font_end; polévka</string>
+    <string name="food_mushroom_stew">&font_mushroom;Houbový&font_end; vývar</string>
+    <string name="food_cactus_salad">&font_cactus;Kaktusový&font_end; salát</string>
+    <string name="food_coconut_soda">&font_coconut;Kokosová&font_end; soda</string>
+    <string name="food_fish_salad">&font_cyan;Rybí&font_end; salát</string>
+    <string name="food_desert_fish">&font_desert;Pouštní&font_end; &font_cyan;ryba&font_end;</string>
+    <string name="food_marrow">&font_bone;Dřeň&font_end;</string>
+    <string name="food_meat_stick">&font_red;Masový&font_end; &font_wood;špíz&font_end;</string>
+    <string name="food_vegetable_stick">&font_plant;Zeleninový&font_end; &font_wood;špíz&font_end;</string>
+    <string name="food_milk">Mléko</string>
+    <string name="food_cereal">Cereálie</string>
+    <string name="food_fruit">Ovoce</string>
+    <string name="food_egg">Vajíčko</string>
+    <string name="food_tomato">Rajče</string>
+    <string name="food_cheese">Sýr</string>
+    <string name="food_garlic">Česnek</string>
+    <string name="food_onion">Cibule</string>
+    <string name="food_cucumber">Okurka</string>
     <string name="text_level_up_increasal">
-        Increased &font_health;Health&font_end; to &font_health;%1$d&font_end;&br;
-        Increased &font_mana;Mana&font_end; to &font_mana;%2$d&font_end;&br; Increased &font_attack;Attack&font_end;
-        to &font_attack;%3$d&font_end;&br; Increased &font_defense;Defense&font_end;
-        to &font_defense;%4$d&font_end;&br; Increased &font_speed;Speed&font_end; to &font_speed;%5$d&font_end;&br;
-        Increased &font_mana;Intelligence&font_end; to &font_mana;%6$d&font_end;&br;
+        Body &font_health;zdraví&font_end; navýšeny na &font_health;%1$d&font_end;&br;
+        Body &font_mana;many&font_end; navýšeny na &font_mana;%2$d&font_end;&br; Zvýšen &font_attack;útok&font_end;
+        na &font_attack;%3$d&font_end;&br; Zvýšena &font_defense;obrana&font_end;
+        na &font_defense;%4$d&font_end;&br; Zvýšena &font_speed;rychlost&font_end; na &font_speed;%5$d&font_end;&br;
+        Zvýšena &font_mana;inteligence&font_end; na &font_mana;%6$d&font_end;&br;
     </string>
 
-    <string name="level_up_inventory_increase">&br;Increased your &font_gold;Inventory Capacity &font_end;to &font_gold;%1$d&font_end;</string>
-    <string name="level_up_pets_increase">&br;Increased your &font_pet;Pets Capacity &font_end;to &font_gold;%1$d&font_end;</string>
-    <string name="level_up_skill_point">&br;You earned &font_cyan;%1$d &font_end;Skill Points.</string>
+    <string name="level_up_inventory_increase">&br;Byla zvýšena tvá &font_gold;kapacita inventáře&font_end; na &font_gold;%1$d&font_end; bodů</string>
+    <string name="level_up_pets_increase">&br;Byla zvýšeno tvé maximální &font_pet;množství mazlíčků&font_end; na &font_gold;%1$d&font_end;</string>
+    <string name="level_up_skill_point">&br;Získal jsi &font_cyan;%1$d&font_end; bodů schopnosti.</string>
 
-    <string name="combat_monster_attacked_player">&font_red;%1$s &font_end;attacked!&br;You received &font_red;%2$d &font_end;damage!</string>
-    <string name="combat_monster_action_attacked_player">&font_red;%1$s &font_end;attacked with its &font_red;%2$s&font_end;!&br;You received &font_red;%3$d &font_end;damage!</string>
-    <string name="combat_player_attacked_monster_damage">You attacked!&br;&font_red;%1$s &font_end;received &font_red;%2$d &font_end;damage!</string>
-    <string name="combat_player_skill_dealt_damage">&font_red;%1$s &font_end;received &font_red;%2$d &font_end;damage!</string>
-    <string name="combat_player_skill_restored_health">You restored &font_health;%1$d &font_end;health!</string>
-    <string name="combat_player_skill_restored_mana">You restored &font_mana;%1$d &font_end;mana!</string>
-    <string name="combat_player_skill_dealt_damage_n_times">You hit &font_cyan;%1$d &font_end;times! &font_red;%2$s &font_end;received &font_red;%3$d &font_end;damage!</string>
-    <string name="combat_player_skill_attacks_first">You attack first!</string>
-    <string name="combat_dont_know_any_skill">You don\'t know any &font_skill_attack;Skills&font_end;!</string>
-    <string name="combat_dont_know_any_spell">You don\'t know any &font_mana;Spells&font_end;!</string>
-    <string name="combat_cant_cast_skill">You don\'t have enough resources to do this!</string>
-    <string name="combat_cant_cast_spell">You don\'t have enough resources to cast this!</string>
-    <string name="combat_already_captured">You have already captured it!</string>
-    <string name="combat_cant_carry_more_pets">You can\'t have more pets!</string>
-    <string name="combat_monster_dead_vanishes">%1$s turns to dust!</string>
-    <string name="combat_monster_attacks">%1$s attacks!</string>
-    <string name="combat_fight">Fight</string>
-    <string name="combat_player_flee_fails">You tried to escape and failed…</string>
-    <string name="combat_player_flee_succeeds">You escaped successfully!</string>
-    <string name="combat_killed_monster">You killed %1$s!</string>
-    <string name="combat_player_is_dead">%1$s&br;died at level &font_cyan;%2$d&font_end;!</string>
-    <string name="combat_corpse_name">Corpse of %1$s</string>
+    <string name="combat_monster_attacked_player">&font_red;%1$s&font_end; zaútočí!&br;Obrdžíš &font_red;%2$d&font_end; bodů poškození!</string>
+    <string name="combat_monster_action_attacked_player">&font_red;%1$s&font_end; zaútočí svou zbraní &font_red;%2$s&font_end;!&br;Obrdžíš &font_red;%3$d&font_end; bodů poškození!</string>
+    <string name="combat_player_attacked_monster_damage">Zaútočíš!&br;&font_red;%1$s&font_end; obdrží &font_red;%2$d&font_end; bodů poškození!</string>
+    <string name="combat_player_skill_dealt_damage">&font_red;%1$s&font_end; obdrží &font_red;%2$d&font_end; bodů poškození!</string>
+    <string name="combat_player_skill_restored_health">Obnovíš &font_health;%1$d&font_end; bodů zdraví!</string>
+    <string name="combat_player_skill_restored_mana">Obnovíš &font_mana;%1$d&font_end; bodů many!</string>
+    <string name="combat_player_skill_dealt_damage_n_times">Udeříš &font_cyan;%1$d&font_end;krát! &font_red;%2$s&font_end; obdrží &font_red;%3$d &font_end; bodů poškození!</string>
+    <string name="combat_player_skill_attacks_first">Útočíš jako první!</string>
+    <string name="combat_dont_know_any_skill">Neznáš žádné &font_skill_attack;dovednosti&font_end;!</string>
+    <string name="combat_dont_know_any_spell">Neznáš žádná &font_mana;kouzla&font_end;!</string>
+    <string name="combat_cant_cast_skill">Nemáš dostatek prostředků k využití této dovednosti!</string>
+    <string name="combat_cant_cast_spell">Nemáš dost prostředků k seslání tohoto kouzla!</string>
+    <string name="combat_already_captured">Příšeru jsi již chytil!</string>
+    <string name="combat_cant_carry_more_pets">Nemáš místo na další mazlíčky!</string>
+    <string name="combat_monster_dead_vanishes">%1$s se promění v kámen!</string>
+    <string name="combat_monster_attacks">%1$s zaútočí!</string>
+    <string name="combat_fight">Bojovat</string>
+    <string name="combat_player_flee_fails">Zkousíš utéci, ale nepodaří se ti to…</string>
+    <string name="combat_player_flee_succeeds">Útěk proběhl úspěšně!</string>
+    <string name="combat_killed_monster">Zabil jsi %1$s!</string>
+    <string name="combat_player_is_dead">%1$s&br;zemřel na úrovni &font_cyan;%2$d&font_end;!</string>
+    <string name="combat_corpse_name">Tělo %1$s</string>
     <string name="combat_monster_attacking_symbol">-&font_dark_red;A&font_end;-</string>
-    <string name="combat_cant_flee_from_monster">Can\'t flee from %1$s…</string>
-    <string name="combat_monster_obtained_gold">Obtained &font_gold;%1$d&font_end; gold.</string>
-    <string name="combat_monster_obtained_item">Obtained %1$s.</string>
-    <string name="combat_you_throw_the_bucket_to">You throw the %1$s to %2$s! %3$s receives &font_red;%4$d &font_end;damage!</string>
+    <string name="combat_cant_flee_from_monster">Nelze úteci před %1$s…</string>
+    <string name="combat_monster_obtained_gold">Obdržíš &font_gold;%1$d&font_end; kousků zlata.</string>
+    <string name="combat_monster_obtained_item">Obdržíš %1$s.</string>
+    <string name="combat_you_throw_the_bucket_to">Hodíš %1$s na %2$s! %3$s obdrží &font_red;%4$d&font_end; bodů poškození!</string>
 
 
-    <string name="villager_text_hello_1" tools:ignore="UnusedResources">Hi!</string>
-    <string name="villager_text_hello_2" tools:ignore="UnusedResources">Hi, hero!</string>
-    <string name="villager_text_hello_3" tools:ignore="UnusedResources">Hi, adventurer!</string>
-    <string name="villager_text_hello_4" tools:ignore="UnusedResources">Hello!</string>
-    <string name="villager_text_hello_5" tools:ignore="UnusedResources">Hello, adventurer!</string>
-    <string name="villager_text_hello_6" tools:ignore="UnusedResources">Hello, hero!</string>
-    <string name="villager_text_hello_7" tools:ignore="UnusedResources">Hey…</string>
-    <string name="villager_text_hello_8" tools:ignore="UnusedResources">Hey, adventurer…</string>
-    <string name="villager_text_hello_9" tools:ignore="UnusedResources">Hey, hero…</string>
-    <string name="villager_text_hello_10" tools:ignore="UnusedResources">Nice to meet you!</string>
-    <string name="villager_text_hello_11" tools:ignore="UnusedResources">Nice to meet you, adventurer!</string>
-    <string name="villager_text_hello_12" tools:ignore="UnusedResources">Nice to meet you, hero!</string>
-    <string name="villager_text_hello_13" tools:ignore="UnusedResources">How\'s it going?</string>
-    <string name="villager_text_hello_14" tools:ignore="UnusedResources">How\'s it going, adventurer?</string>
-    <string name="villager_text_hello_15" tools:ignore="UnusedResources">How\'s it going, hero?</string>
-    <string name="villager_text_hello_16" tools:ignore="UnusedResources">How are you doing?</string>
-    <string name="villager_text_hello_17" tools:ignore="UnusedResources">How are you doing, adventurer?</string>
-    <string name="villager_text_hello_18" tools:ignore="UnusedResources">How are you doing, hero?</string>
-    <string name="villager_text_hello_19" tools:ignore="UnusedResources">Mmm…</string>
-    <string name="villager_text_hello_20" tools:ignore="UnusedResources">Pse…</string>
-    <string name="villager_text_hello_21" tools:ignore="UnusedResources">Wow!</string>
-    <string name="villager_text_hello_22" tools:ignore="UnusedResources">Oh!</string>
-    <string name="villager_text_hello_23" tools:ignore="UnusedResources">Eh!</string>
-    <string name="villager_text_hello_24" tools:ignore="UnusedResources">Hey!</string>
-    <string name="villager_text_hello_25" tools:ignore="UnusedResources">Howdy!</string>
-    <string name="villager_text_hello_26" tools:ignore="UnusedResources">What\'s up?</string>
-    <string name="villager_text_hello_27" tools:ignore="UnusedResources">What\'s up, adventurer?</string>
-    <string name="villager_text_hello_28" tools:ignore="UnusedResources">What\'s up, hero?</string>
-    <string name="villager_text_hello_29" tools:ignore="UnusedResources">Hi…</string>
-    <string name="villager_text_hello_30" tools:ignore="UnusedResources">Hello…</string>
+    <string name="villager_text_hello_1" tools:ignore="UnusedResources">Zdravím!</string>
+    <string name="villager_text_hello_2" tools:ignore="UnusedResources">Zdravím, dobrodruhu!</string>
+    <string name="villager_text_hello_3" tools:ignore="UnusedResources">Zdravím, hrdino!</string>
+    <string name="villager_text_hello_4" tools:ignore="UnusedResources">Dobrý den!</string>
+    <string name="villager_text_hello_5" tools:ignore="UnusedResources">Dobrý den, pane dobrodruhu!</string>
+    <string name="villager_text_hello_6" tools:ignore="UnusedResources">Sláva, hrdino!</string>
+    <string name="villager_text_hello_7" tools:ignore="UnusedResources">Čau…</string>
+    <string name="villager_text_hello_8" tools:ignore="UnusedResources">Nazdar, dobrodruhu…</string>
+    <string name="villager_text_hello_9" tools:ignore="UnusedResources">Vítej, hrdino…</string>
+    <string name="villager_text_hello_10" tools:ignore="UnusedResources">Rád tě potkávám!</string>
+    <string name="villager_text_hello_11" tools:ignore="UnusedResources">Rád tě potkávám, dobrodruhu!</string>
+    <string name="villager_text_hello_12" tools:ignore="UnusedResources">Rád tě potkávám, hrdino!</string>
+    <string name="villager_text_hello_13" tools:ignore="UnusedResources">Jak se vede?</string>
+    <string name="villager_text_hello_14" tools:ignore="UnusedResources">Jak se vede, dobrodruhu?</string>
+    <string name="villager_text_hello_15" tools:ignore="UnusedResources">Jak se vede, hrdino?</string>
+    <string name="villager_text_hello_16" tools:ignore="UnusedResources">Jak se máš?</string>
+    <string name="villager_text_hello_17" tools:ignore="UnusedResources">Jak se máš, dobrodruhu?</string>
+    <string name="villager_text_hello_18" tools:ignore="UnusedResources">Jak se máš, hrdino?</string>
+    <string name="villager_text_hello_19" tools:ignore="UnusedResources">Úuuu…</string>
+    <string name="villager_text_hello_20" tools:ignore="UnusedResources">Pff…</string>
+    <string name="villager_text_hello_21" tools:ignore="UnusedResources">Páni!</string>
+    <string name="villager_text_hello_22" tools:ignore="UnusedResources">No nazdár!</string>
+    <string name="villager_text_hello_23" tools:ignore="UnusedResources">Zdar!</string>
+    <string name="villager_text_hello_24" tools:ignore="UnusedResources">Čest práci!</string>
+    <string name="villager_text_hello_25" tools:ignore="UnusedResources">Čauves!</string>
+    <string name="villager_text_hello_26" tools:ignore="UnusedResources">Jak je?</string>
+    <string name="villager_text_hello_27" tools:ignore="UnusedResources">Jak je, dobrodruhu?</string>
+    <string name="villager_text_hello_28" tools:ignore="UnusedResources">Jak je, hrdino?</string>
+    <string name="villager_text_hello_29" tools:ignore="UnusedResources">Ahůj…</string>
+    <string name="villager_text_hello_30" tools:ignore="UnusedResources">Čauko!</string>
     <string name="villager_text_hello_31" tools:ignore="UnusedResources">…</string>
     <string name="villager_text_hello_32" tools:ignore="UnusedResources">Well…</string>
-    <string name="villager_text_hello_33" tools:ignore="UnusedResources">So…</string>
-    <string name="villager_text_hello_34" tools:ignore="UnusedResources">What\'s new?</string>
-    <string name="villager_text_hello_35" tools:ignore="UnusedResources">G\'day!</string>
-    <string name="villager_text_hello_36" tools:ignore="UnusedResources">Yo!</string>
-    <string name="villager_text_hello_37" tools:ignore="UnusedResources">Hello.</string>
-    <string name="villager_text_hello_38" tools:ignore="UnusedResources">Hi.</string>
-    <string name="villager_text_hello_39" tools:ignore="UnusedResources">Hey.</string>
+    <string name="villager_text_hello_33" tools:ignore="UnusedResources">Tákže…</string>
+    <string name="villager_text_hello_34" tools:ignore="UnusedResources">Co je nového?</string>
+    <string name="villager_text_hello_35" tools:ignore="UnusedResources">Čůs!</string>
+    <string name="villager_text_hello_36" tools:ignore="UnusedResources">Hej!</string>
+    <string name="villager_text_hello_37" tools:ignore="UnusedResources">Dobrý den.</string>
+    <string name="villager_text_hello_38" tools:ignore="UnusedResources">Ahoj.</string>
+    <string name="villager_text_hello_39" tools:ignore="UnusedResources">Nazdar.</string>
     <string name="villager_text_hello_40" tools:ignore="UnusedResources" />
 
 
     <string name="villager_i_need_help">
         <![CDATA[
-    I need help with something…\n
-    Can I ask you for a favor?\n
-    I\'d be grateful if you could help me…\n
-    Could you help me with something?\n
-    You look like someone who can help!\n
-    If you aren\'t busy, I\'d need something from you…\n
-    Could you please help?\n
-    Could you please help me?\n
-    My family and I would be grateful if you could help us…\n
-    My family and I need something…\n
-    There\'s something I need…\n
-    Would you be so kind to help me?\n
-    Could you help me out?\n
-    I\'m afraid I must ask you for a favor…\n
-    If it isn\'t much to ask, I need you to do something…\n
-    Could you please help me with something?\n
-    Could you give me a hand?\n
-    We need help with something…\n
-    We need to ask you for a favor…\n
-    I know we haven\'t met before, but I must ask you for a favor…\n
-    I\'ve had this problem for a long time and I could use your help with it…\n
-    We aren\'t used to having strangers around here… Can I ask you for a favor?\n
-    We aren\'t used to having strangers around here… Can you do me a favor?\n
-    You are not from around here, are you? Can you do something for me?\n
-    You are not from around here, are you? May I ask you for a favor?\n
-    Where do you come from? Is it too much if I ask you for this…\n
-    Ah, if it isn\'t much trouble, could you help me with something?\n
-    I am in trouble and would really appreciate some help. Would you be willing to help?\n
-    Before you leave, could you help with something? It\'s a matter of vital importance…\n
-    Before you leave, could you help me?\n
-    Before you leave, would you help me?\n
-    Before you go, could you help me?\n
-    Before you go, would you help me?\n
-    Before you go, please can you do me a favor?\n
-    Can you help with something?\n
-    Can you help me out with something, please?\n
-    Can you help me with something, please?\n
-    I heard you are a good hero. Would you help me please?
+    Potřeboval bych s něčím pomoci…\n
+    Mohu tě požádat o laskavost?\n
+    Byl bych ti vděčný kdybys mi s něčím pomohl…\n
+    Mohl bys mi s něčím pomoci?\n
+    Vypadáš jako někdo, kdo mi může pomoci!\n
+    Pokud nejsi zaneprázdněný, rád bych tě o něco požádal…\n
+    Mohl bys mi prosím pomoci?\n
+    Neflákej se a pojď mi s helfnout…\n
+    Já a má rodina bychom ti byli vděční kdybys nám mohl pomoci…\n
+    Já a má rodina bychom od tebe něco potřebovali…\n
+    Něco bych potřeboval…\n
+    Byl bys tak laskavý a pomohl mi s něčím?\n
+    Pomůžeš mi?\n
+    Musím tě o něco požádat…\n
+    Pokud můžeš, potřeboval bych s něčím pomoci…\n
+    Pomohl bys mi prosím?\n
+    Poskytl bys mi pomocnou ruku?\n
+    Potřebujeme s něčím pomoci…\n
+    Musíme tě požádat o laskavost…\n
+    Vím, že jsme se ještě nepotkali, ale musím tě požádat o laskavost…\n
+    Už dlouhou dobu mě trápí jeden problém, a ty bys mi s ním mohl pomoci…\n
+    Nejsme tady zvyklí na cizince… Mohl bys pro mě něco udělat?\n
+    Nejsme tady zvyklí na cizince… Mohl bych tě požádat o laskavost?\n
+    Ty nejsi zdejší, co? Mohl bys pro mě něco udělat?\n
+    Ty nejsi zdejší, co? Mohl bych tě požádat o laskavost?\n
+    Odkud pocházíš? Rád bych tě o něco požádal…\n
+    Ehm, pokud by tě to moc neobtěžovalo, mohl bys pro mě něco udělat?\n
+    Mám potíže, a opravdu by se mi hodila tvá pomoc. Byl bys ochoten pro mě něco udělat?\n
+    Než odejdeš, pomohl bys mi s něčím? Je to záležitost nejvyšší důležitosti…\n
+    Než odejdeš, pomohl bys mi prosím?\n
+    Než odejdeš, pomohl bys mi?\n
+    Než půjdeš, pomohl bys mi s něčím?\n
+    Než půjdeš, pomohl bys mi?\n
+    Než půjdeš, pomůžeš mi s něčím?\n
+    Pomohl bys mi s něčím?\n
+    Helfneš ně trocha?\n
+    Pomohl bys mi s něčím, prosím?\n
+    Slyšel jsem, že máš dobrotivou povahu, hrdino. Pomohl bys mi prosím?
         ]]>
     </string>
 
