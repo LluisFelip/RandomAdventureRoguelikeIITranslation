@@ -3885,4 +3885,6 @@
     <string name="skill_mana_eyes_description">Allows seeing the &font_red;Monster&font_end;\'s &font_mana;mana &font_end;in combat.</string>
     <string name="skill_mana_eyes">&font_mana;Mana &font_end;&font_mushroom;Eyes&font_end;</string>
 
+    <string name="saving_checkpoint">&font_primary_light;&italic;[SAVING CHECKPOINT…]&italic_end;&font_end;</string>
+
 </resources>
