@@ -3846,4 +3846,16 @@
     <string name="achievement_name_rubber_chicken">Rubber Chicken</string>
     <string name="achievement_desc_rubber_chicken">Kill the Void Master while wearing a full Void Armor set in Chicken Mode.</string>
 
+    <string name="dead_reason_by_cactus">You died picking up a &font_cactus;Cactus&font_end;!</string>
+
+    <string name="action_trader_action_description">&font_cyan;Sensing&font_end; &font_gold;Merchants&font_end;</string>
+    <string name="action_treasure_hunter_action_description">&font_cyan;Hunting&font_end; &font_chest;Treasures&font_end;</string>
+
+    <string name="action_contractor_action_description">&font_cyan;Sensing&font_end; &font_cyan;Quests&font_end;</string>
+    <string name="settings_show_coordinates_below">Show Coordinates Below</string>
+
+    <string name="skill_mana_eyes_description">Allows seeing the &font_red;Monster&font_end;\'s &font_mana;mana &font_end;in combat.</string>
+    <string name="skill_mana_eyes">&font_mana;Mana &font_end;&font_mushroom;Eyes&font_end;</string>
+
+    <string name="saving_checkpoint">&font_primary_light;&italic;[SAVING CHECKPOINT…]&italic_end;&font_end;</string>
 </resources>
