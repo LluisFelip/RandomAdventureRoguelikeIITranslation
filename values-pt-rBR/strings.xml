@@ -3548,57 +3548,57 @@
     <string name=”skill_points_to_base_stats_speed”>Aumentar &font_speed;Velocidade &font_end;(&font_cyan;%1$d &font_end;PH) [&font_speed;%2$d&font_end;]</string>
     <string name=”skill_points_to_base_stats_intelligence”>Aumentar &font_mana;Inteligência &font_end;(&font_cyan;%1$d &font_end;PH) [&font_mana;%2$d&font_end;]</string>
 
-    <string name="increased_base_attack_to">Increased base &font_attack;Attack &font_end;to &font_attack;%1$d&font_end;.</string>
-    <string name="increased_base_defense_to">Increased base &font_defense;Defense &font_end;to &font_defense;%1$d&font_end;.</string>
-    <string name="increased_base_speed_to">Increased base &font_speed;Speed &font_end;to &font_speed;%1$d&font_end;.</string>
-    <string name="increased_base_intelligence_to">Increased base &font_mana;Intelligence &font_end;to &font_mana;%1$d&font_end;.</string>
+        <string name=”increased_base_attack_to”>Aumentou o &font_attack;Ataque &font_end;básico para &font_attack;%1$d&font_end;.</string>
+    <string name=”increased_base_defense_to”>Aumentou a &font_defense;Defesa &font_end;básica para &font_defense;%1$d&font_end;.</string>
+    <string name="increased_base_speed_to">Aumentou a &font_speed;Velocidade &font_end;básica para &font_speed;%1$d&font_end;.</string>
+    <string name="increased_base_intelligence_to">Aumentou a &font_mana;Inteligência &font_end;básica para &font_mana;%1$d&font_end;.</string>
 
-    <string name="skill_dungeoneer">&font_stone;Dungeoneer&font_end;</string>
-    <string name="skill_dungeoneer_description">Discovers the type of &font_stone;Dungeon &font_end;in an island if there is one.</string>
-    <string name="skill_dungeoneer_action">Sense &font_stone;Dungeon&font_end;</string>
-    <string name="skill_dungeoneer_action_title">Sensing &font_stone;Dungeons&font_end;</string>
-    <string name="skill_dungeoneer_success">You sense there\'s a %s!</string>
-    <string name="skill_dungeoneer_no_dungeon_detected">You don\'t detect any &font_stone;Dungeon&font_end;…</string>
-    <string name="material_pure_essence">&font_purifying;Pure Essence&font_end;</string>
-    <string name="completely_purified_island">The island is now completely &font_purifying;* Purified * &font_end;and you obtained &font_purifying;Pure Essence&font_end;!</string>
-    <string name="purifying_tree_text_completely_purified_label">{ &font_purifying;* Purified *&font_end;}</string>
-    <string name="tile_type_water">Water</string>
-    <string name="settings_show_squares_map">Show squares in map</string>
+    <string name=”skill_dungeoneer”>&font_stone;Masmorrismo&font_end;</string>
+    <string name=”skill_dungeoneer_description”>Descobre o tipo de &font_stone;Masmorra &font_end;que existe em uma ilha, se houver alguma.</string>
+    <string name=”skill_dungeoneer_action”>Sentir &font_stone;Masmorra&font_end;</string>
+    <string name=”skill_dungeoneer_action_title”>Sentindo &font_stone;Masmorras&font_end;</string>
+    <string name=”skill_dungeoneer_success”>Você sente que existe %s!</string>
+    <string name=”skill_dungeoneer_no_dungeon_detected”>Você não detecta nenhuma &font_stone;Masmorra&font_end;…</string>
+    <string name=”material_pure_essence”>&font_purifying;Essência Pura&font_end;</string>
+    <string name=”completely_purified_island”>Agora a ilha está completamente &font_purifying;* Purificada * &font_end;e você obteve uma &font_purifying;Essência Pura&font_end;!</string>
+    <string name="purifying_tree_text_completely_purified_label">{ &font_purifying;* Purificada *&font_end;}</string>
+    <string name=”tile_type_water”>Água</string>
+    <string name=”settings_show_squares_map”>Mostrar quadrados no mapa</string>
 
-    <string name="island_remove_mark">Remove Mark</string>
-    <string name="island_remove_text">Remove Info</string>
+    <string name=”island_remove_mark”>Remover Marca</string>
+    <string name=”island_remove_text”>Remover Info</string>
 
-    <string name="advantage_cartographer">&font_cyan;Cartographer&font_end;</string>
-    <string name="advantage_cartographer_desc">(You will start with an &font_cyan;Island &font_end;&font_gold;Map &font_end;and a random &font_cyan;Nautical Chart&font_end;)</string>
+    <string name=”advantage_cartographer”>&font_cyan;Cartógrafo&font_end;</string>
+    <string name=”advantage_cartographer_desc”>(Você começará com um &font_gold;Mapa  &font_end;da &font_cyan;Ilha &font_end;e com uma &font_cyan;Carta Náutica&font_end;aleatória)</string>
 
-    <string name="title_the_cartographer_male">%1$s, the &font_cyan;Cartographer&font_end;</string>
-    <string name="title_the_cartographer_female">%1$s, the &font_cyan;Cartographer&font_end;</string>
-    <string name="title_the_cartographer_no_gender">%1$s, the &font_cyan;Cartographer&font_end;</string>
-    <string name="blacksmith_repair_tool_button">Repair (&font_gold;%d&font_end;)</string>
+    <string name="title_the_cartographer_male">%1$s, o &font_cyan;Cartógrafo&font_end;</string>
+    <string name="title_the_cartographer_female">%1$s, a &font_cyan;Cartógrafa&font_end;</string>
+    <string name="title_the_cartographer_no_gender">%1$s, &font_cyan;Cartógrafx&font_end;</string>
+    <string name=”blacksmith_repair_tool_button”>Consertar (&font_gold;%d&font_end;)</string>
 
-    <string name="button_blacksmith_repair_tools">Repair &font_cyan;Tools&font_end;</string>
+    <string name=”button_blacksmith_repair_tools”>Consertar &font_cyan;Ferramentas&font_end;</string>
 
-    <string name="settings_leaderboards_wip">Leaderboards (Beta)</string>
-    <string name="button_quit">Quit</string>
-    <string name="quit_quest_title">Quit Quest</string>
-    <string name="quit_quest_message">Do you want to quit \'%s\'?</string>
-    <string name="quit_quest_confirmation_message">Are you sure you want to quit \'%s\'?&br;&br;You won\'t be able to undo this action…</string>
-    <string name="quit_merchant_quest_message">Do you want to quit \'%s\'?</string>
-    <string name="quit_merchant_quest_confirmation_message">Are you sure you want to quit \'%s\'?&br;&br;The &font_gold;Merchant &font_end;will disappear and you won\'t be able to undo this action…</string>
-    <string name="quest_quit">You quit \'%s\'…</string>
-    <string name="tool_doesnt_need_to_be_repaired">This tool doesn\'t need to be repaired!</string>
+    <string name=”settings_leaderboards_wip”>Placar (Beta)</string>
+    <string name=”button_quit”>Sair</string>
+    <string name=”quit_quest_title”>Desistir da Missão</string>
+    <string name=”quit_quest_message”>Deseja desistir de \'%s\'?</string>
+    <string name=”quit_quest_confirmation_message”>Tem certeza que deseja desistir de \’%s\’?&br;&br;Você não poderá desfazer esta ação…</string>
+    <string name=”quit_merchant_quest_message”>Deseja desistir de \'%s\'?</string>
+    <string name=”quit_merchant_quest_confirmation_message”>Tem certeza que deseja desistir de \'%s\’?&br;&br;O &font_gold;Mercador &font_end;desaparecerá e você não poderá desfazer esta ação…</string>
+    <string name=”quest_quit”>Você desistiu de \'%s\'…</string>
+    <string name=”tool_doesnt_need_to_be_repaired”>Esta ferramenta não precisa ser consertada!</string>
 
-    <string name="merchant_quest_quit_description">&font_gold;%1$s&font_end; at &font_cyan;%2$d&font_end;, &font_cyan;%3$d &font_end;has asked you to bring &font_cyan;%4$d &font_end;%5$s.</string>
+    <string name=”merchant_quest_quit_description”>&font_gold;%1$s&font_end; em &font_cyan;%2$d&font_end;, &font_cyan;%3$d &font_end;pediu que lhe trouxesse &font_cyan;%4$d &font_end;%5$s.</string>
 
-    <string name="content_description_arrow_to_unfold">Arrow to unfold this</string>
-    <string name="settings_show_hero_icon">Show Hero Icon</string>
-    <string name="pets_combat_is_dead">%s can\'t attack because it\'s dead!</string>
-    <string name="pets_combat_died">%s died!</string>
-    <string name="pets_combat_received_damage">Your %1$s received &font_red;%2$d &font_end;damage!</string>
-    <string name="combat_heal_message">Cast to yourself or to %s?</string>
-    <string name="button_you">Me</string>
+    <string name=”content_description_arrow_to_unfold”>Flecha para exibir isto</string>
+    <string name=”settings_show_hero_icon”>Mostrar Ícone Lenda</string>
+    <string name="pets_combat_is_dead">%s não pode atacar porque morreu!</string>
+    <string name="pets_combat_died">%s morreu!</string>
+    <string name=”pets_combat_received_damage”>Seu mascote %1$s recebeu &font_red;%2$d &font_end;pontos de dano!</string>
+    <string name=”combat_heal_message”>Lançar sobre si mesmo ou sobre %s?</string>
+    <string name=”button_you”>Sobre mim</string>
 
-    <string name="pets_combat_health_restored">%1$s restored &font_health;%2$d &font_end;health!</string>
+    <string name="pets_combat_health_restored">%1$s restaurou &font_health;%2$d &font_end;pontos de vida!</string>
 
     <string name="spell_revive_pet_name">&font_health;Revive &font_end;&font_pet;Pet&font_end;</string>
     <string name="spell_revive_pet_desc">Cast this to &font_health;revive &font_end;your &font_pet;pet&font_end;.</string>
