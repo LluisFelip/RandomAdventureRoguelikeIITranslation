@@ -3037,362 +3037,362 @@
     <string name="race_attributes">Atributos</string>
     <string name="race_traits">Características</string>
 
-    <string name="race_attributes_with_numbers">Attack: &font_attack;%1$s &font_end;Defe.: &font_defense;%2$s&font_end;&br;Intel.: &font_mana;%3$s &font_end;Speed: &font_speed;%4$s&font_end;</string>
+     <string name="race_attributes_with_numbers">Ataque: &font_attack;%1$s &font_end;Def.: &font_defense;%2$s&font_end;&br;Int.: &font_mana;%3$s &font_end;Agi: &font_speed;%4$s&font_end;</string>
 
-    <string name="status_attack_new">Attack:&font_attack;\t%1$d &font_end;&br;(Base (%2$d%%): &font_attack;%3$d&font_end;, Eq (%4$d%%): &font_attack;%5$d&font_end;, +Temp: &font_attack;%6$d&font_end;)</string>
-    <string name="status_defense_new">Defense:&font_defense;\t%1$d &font_end;&br;(Base (%2$d%%): &font_defense;%3$d&font_end;, Eq (%4$d%%): &font_defense;%5$d&font_end;, +Temp: &font_defense;%6$d&font_end;)</string>
-    <string name="status_speed_new">Speed:\t&font_speed;%1$d &font_end;&br;(Base (%2$d%%): &font_speed;%3$d&font_end;, Eq (%4$d%%): &font_speed;%5$d&font_end;, +Temp: &font_speed;%6$d&font_end;)</string>
-    <string name="status_intelligence_new">Intelligence:\t&font_mana;%1$d &font_end;&br;(Base (%2$d%%): &font_mana;%3$d&font_end;, Eq (%4$d%%): &font_mana;%5$d&font_end;, +Temp: &font_mana;%6$d&font_end;)</string>
+    <string name="status_attack_new">Ataque:&font_attack;\t%1$d &font_end;&br;(Base (%2$d%%): &font_attack;%3$d&font_end;, Eq (%4$d%%): &font_attack;%5$d&font_end;, +Temp: &font_attack;%6$d&font_end;)</string>
+    <string name="status_defense_new">Defesa:&font_defense;\t%1$d &font_end;&br;(Base (%2$d%%): &font_defense;%3$d&font_end;, Eq (%4$d%%): &font_defense;%5$d&font_end;, +Temp: &font_defense;%6$d&font_end;)</string>
+    <string name="status_speed_new">Agilidade:\t&font_speed;%1$d &font_end;&br;(Base (%2$d%%): &font_speed;%3$d&font_end;, Eq (%4$d%%): &font_speed;%5$d&font_end;, +Temp: &font_speed;%6$d&font_end;)</string>
+    <string name="status_intelligence_new">Inteligência:\t&font_mana;%1$d &font_end;&br;(Base (%2$d%%): &font_mana;%3$d&font_end;, Eq (%4$d%%): &font_mana;%5$d&font_end;, +Temp: &font_mana;%6$d&font_end;)</string>
 
-    <string name="skill_natural_explorer">&font_cyan;Natural Explorer&font_end;</string>
-    <string name="skill_natural_explorer_description">Can see the surrounding tiles when moving around, making it easier to explore.</string>
+    <string name="skill_natural_explorer">&font_cyan;Exploração Natural&font_end;</string>
+    <string name="skill_natural_explorer_description">Pode enxergar os espaços vizinhos ao andar, tornando a exploração mais fácil.</string>
 
-    <string name="human_traits">&font_cyan;* &font_end;Start knowing some basic crafting recipes.&br;&br;&font_cyan;* &font_end;Start with some &font_food;food&font_end;.&br;&br;&font_cyan;Natural Explorer&font_end;: Can see the surrounding tiles when moving around, making it easier to explore.</string>
-    <string name="dwarf_traits">&font_cyan;* &font_end;Starts with a &font_silver;Pickaxe&font_end;.&br;&br;&font_cyan;Blacksmith&font_end;: Increases the chances of crafting better weapons, shields and armors. (Level &font_cyan;%1$d&font_end;).&br;&br;&font_gold;Beer &font_end;&font_cyan;Crafter&font_end;: Can craft &font_gold;Beer &font_end;and &font_epic;Epic&font_end; &font_gold;Beer &font_end;(and start with the necessary materials to craft a &font_gold;Beer&font_end;).</string>
-    <string name="halfling_traits">&font_food;Foodie&font_end;: Increased max. hunger, allowing to resist longer without eating.&br;&br;&font_food;Gourmet&font_end;: Increases the hunger restored when eating.&br;&br;&font_cyan;Discrete&font_end;: Reduces the probability of being attacked by a &font_red;Monster &font_end;by &font_cyan;33&font_end;%.</string>
-    <string name="gnome_traits">&font_wood;Gnomic Space&font_end;: Increases the inventory size by &font_cyan;10&font_end;.&br;&br;&font_bomb;Bomber&font_end;: Starts with some &font_gunpowder;Gunpowder&font_end;, various &font_bomb;Bombs &font_end;and knowing how to craft them.&br;&br;&font_cyan;Perceptive&font_end;: Detects when there\'s something hidden, so you can &font_cyan;Search &font_end;to find it.</string>
-    <string name="elf_traits">&font_cyan;* &font_end;Starts with &font_cyan;5 &font_end;x &font_plant;Plant &font_end;and &font_cyan;5 &font_end;x &font_mushroom;Mushroom&font_end;.&br;&br;&font_mana;Mana Flow&font_end;: Regenerates &font_cyan;1% &font_end;&font_mana;mana &font_end;every turn if &font_health;health &font_end;is over &font_cyan;50%&font_end;.&br;&br;&font_mana;Elven Magic&font_end;: Have extra &font_mana;mana &font_end;(&font_cyan;+25&font_end;).</string>
-    <string name="drow_traits">&font_portal;Teleport&font_end;: Can &font_portal;teleport &font_end;to a random location in the island.&br;&br;&font_mana;Mana Flow&font_end;: Regenerates &font_cyan;1% &font_end;&font_mana;mana &font_end;every turn if &font_health;health &font_end;is over &font_cyan;50%&font_end;.&br;&br;&font_mana;Elven Magic&font_end;: Have extra &font_mana;mana &font_end;(&font_cyan;+25&font_end;).</string>
-    <string name="undead_traits">&font_green;Weather Immunity&font_end;: Immune to &font_red;Hot &font_end;or &font_tundra;Cold &font_end;damage.&br;&br;&font_health;Unbreakable&font_end;: If a &font_red;Monster&font_end;\'s attack would kill you, you resist it and survive with &font_health;1 &font_end;health point.&br;&br;&font_hunger;Undead Hunger&font_end;: &font_hunger;Hunger &font_end;increases faster, but can eat from corpses to restore &font_hunger;Hunger&font_end;, &font_health;Health &font_end;and &font_mana;Mana&font_end;.</string>
-    <string name="orc_traits">&font_dark_green;Tough Skin&font_end;: &font_cyan;5% &font_end;damage reduction in combat.&br;&br;&font_attack;Berserk&font_end;: In combat, using the "Attack" command increases a &font_cyan;10% &font_end;the damage each turn. When using a different action in combat, the &font_attack;Berserk &font_end;bonus is lost.&br;&br;&font_dark_green;First Strike&font_end;: When attacking a monster, performs an initial hit.&br;&br;</string>
-    <string name="lizard_traits">&font_health;Regeneration&font_end;: Regenerates &font_cyan;2% &font_end;of &font_health;health &font_end;every turn when the weather is &font_yellow;Sunny&font_end;.&br;&br;&font_cyan;Slippery&font_end;: Always succeeds fleeing (if fleeing is allowed).&br;&br;&font_insect;Insect Eater&font_end;: Can &font_hunger;eat &font_end;&font_insect;insects &font_end;without having to capture them.</string>
-    <string name="unknown_traits">&font_cyan;* &font_end;Start with &font_cyan;15 &font_end;Skill Points.&br;&br;&font_cyan;* &font_end;Start with a random &font_cyan;Nautical Chart&font_end;&br;&br;&font_cyan;* &font_end;Start with a random &font_mana;Spell &font_end;Book.</string>
+    <string name="human_traits">&font_cyan;* &font_end;Comece sabendo receitas básicas de fabricação.&br;&br;&font_cyan;* &font_end;Comece com um pouco de &font_food;comida&font_end;.&br;&br;&font_cyan;Exploração Natural&font_end;: Pode enxergar os espaços vizinhos ao andar, tornando a exploração mais fácil.</string>
+    <string name="dwarf_traits">&font_cyan;* &font_end;Comece com uma &font_silver;Picareta&font_end;.&br;&br;&font_cyan;Forja&font_end;: Aumenta as chances de fabricar armas, escudos e armaduras melhores. (Nível &font_cyan;%1$d&font_end;).&br;&br;&font_gold;&font_end;&font_cyan;Fabricante de&font_end;Cerveja: Pode fabrciar &font_gold;Cerveja &font_end;e &font_gold;Cerveja &font_end; &font_epic;Épica&font_end; (e comece com materiais necessários para fabricar uma &font_gold;Cerveja&font_end;).</string>
+    <string name="halfling_traits">&font_food;Foodie&font_end;: Barra de fome aumentada, permitindo resistir mais tempo sem comer.&br;&br;&font_food;Gourmet&font_end;: Aumenta a fome restaurada ao comer.&br;&br;&font_cyan;Discreto&font_end;: Reduz a probabilidade de ser atacado por um &font_red;Monstro &font_end;em &font_cyan;33&font_end;%.</string>
+    <string name="gnome_traits">&font_wood;Espaço Gnômico&font_end;: Aumenta em by &font_cyan;10&font_end; o tamanho do inventário.&br;&br;&font_bomb;Bombardeiro&font_end;: Comece com um pouco de &font_gunpowder;Pólvora&font_end;, várias &font_bomb;Bombas &font_end;e sabe fabricá-las.&br;&br;&font_cyan;Perceptividade&font_end;: Detecta quando há algo escondido e permite que &font_cyan;Procure &font_end;por coisas.</string>
+    <string name="elf_traits">&font_cyan;* &font_end;Comece com &font_cyan;5 &font_end;x &font_plant;Plantas &font_end;and &font_cyan;5 &font_end;x &font_mushroom;Cogumelos&font_end;.&br;&br;&font_mana;Fluxo de Mana&font_end;: Regenere &font_cyan;1% &font_end;&font_mana;de mana &font_end;a cada turno se a &font_health;saúde &font_end;estiver maior que &font_cyan;50%&font_end;.&br;&br;&font_mana;Magia Élfica&font_end;: Tenha &font_mana;mana &font_end; extra (&font_cyan;+25&font_end;).</string>
+    <string name="drow_traits">&font_portal;Teletransporte&font_end;: Pode &font_portal;teletransportar &font_end;para um local aleatórioto na ilha.&br;&br;&font_mana;Fluxo de Mana&font_end;: Regenere &font_cyan;1% &font_end;&font_mana;de mana &font_end;a cada turno se sua  &font_health;saúde &font_end;estiver maior que &font_cyan;50%&font_end;.&br;&br;&font_mana;Magia Élfica&font_end;: Tenha &font_mana;mana &font_end; extra (&font_cyan;+25&font_end;).</string>
+    <string name="undead_traits">&font_green;Imunidade ao Clima&font_end;: Imune ao dano de &font_red;Calor &font_end;ou ao &font_tundra;Frio &font_end;.&br;&br;&font_health;Inquebrável&font_end;: Se um ataque de &font_red;Monstro&font_end;for te matar, você resiste e sobrevive com &font_health;1 &font_end;ponto de saúde.&br;&br;&font_hunger;Fome do Morto-Vivo&font_end;: A &font_hunger;Fome &font_end;aumenta mais rápido, mas pode se alimentar de cadáveres para restaurar a &font_hunger;Fome&font_end;,&font_health;Saúde &font_end;e &font_mana;Mana&font_end;.</string>
+    <string name="orc_traits">&font_dark_green;Casca Grossa&font_end;: &font_cyan;5% &font_end;de dano reduzido em combate.&br;&br;&font_attack;Berserk&font_end;: Em combate, usar o comando "Atacar" aumenta em &font_cyan;10% &font_end;o dano a cada turno. Ao usar uma ação diferente em combate, o bônus&font_attack;Berserk &font_end;será perdido.&br;&br;&font_dark_green;Golpe Inical&font_end;: Ao atacar um monstro, desfira o primeiro golpe. &br;&br;</string>
+    <string name="lizard_traits">&font_health;Regeneração&font_end;: Regenere &font_cyan;2% &font_end;de &font_health;saúde &font_end;a cada turno quando o clima estiver &font_yellow;Ensolarado&font_end;.&br;&br;&font_cyan;Escorregadio&font_end;: Sempre tenha sucesso em fugir (caso seja permitido fugir).&br;&br;&font_insect;Consumir Insetos&font_end;: Pode &font_hunger;comer &font_end;&font_insect;insetos &font_end;sem precisar capturá-los.</string>
+    <string name="unknown_traits">&font_cyan;* &font_end;Comece com &font_cyan;15 &font_end;Pontos de Habilidade.&br;&br;&font_cyan;* &font_end;Comece com uma &font_cyan;Carta Naútica&font_end; aleatória &br;&br;&font_cyan;* &font_end;Comece com um livro de &font_mana;Feitiço &font_end; aleatório.</string>
 
-    <string name="item_beer">&font_gold;Beer&font_end;</string>
-    <string name="item_epic_beer">&font_epic;Epic&font_end; &font_gold;Beer&font_end;</string>
-    <string name="item_info_beer">Drink this to restore &font_cyan;%1$d%% &font_end;of your &font_health;health&font_end;, &font_mana;mana &font_end;and &font_hunger;hunger&font_end;!</string>
+    <string name="item_beer">&font_gold;Cerveja&font_end;</string>
+    <string name="item_epic_beer">&font_gold;Cerveja&font_end; &font_epic;Épica&font_end;</string>
+    <string name="item_info_beer">Beba-a para restaurar &font_cyan;%1$d%% &font_end;de sua &font_health;saúde&font_end;, &font_mana;mana &font_end;e &font_hunger;fome&font_end;!</string>
 
-    <string name="drink_beer_restored">Drank &font_gold;Beer &font_end;and restored &font_health;%1$d &font_end;health, &font_mana;%2$d &font_end;mana and &font_hunger;%3$d &font_end;hunger!</string>
+    <string name="drink_beer_restored">Beba &font_gold;Cerveja &font_end;e restaure &font_health;%1$d &font_end; de saúde, &font_mana;%2$d &font_end;mana e &font_hunger;%3$d &font_end;fome!</string>
 
     <string name="skill_foodie">&font_food;Foodie&font_end;</string>
     <string name="skill_gourmet">&font_food;Gourmet&font_end;</string>
 
-    <string name="skill_foodie_description">Increased max. hunger, allowing to resist longer without eating.</string>
-    <string name="skill_gourmet_description">Increases the hunger restored when eating.</string>
+    <string name="skill_foodie_description">Barra de fome aumentada, permitindo resistir mais tempo sem comer.</string>
+    <string name="skill_gourmet_description">Aumenta a fome restaurada ao comer.</string>
 
-    <string name="skill_gnomic_space">&font_wood;Gnomic Space&font_end;</string>
-    <string name="skill_gnomic_space_description">Increases the inventory size by &font_cyan;10&font_end;.</string>
+    <string name="skill_gnomic_space">&font_wood;Espaço Gnômico&font_end;</string>
+    <string name="skill_gnomic_space_description">Aumenta em &font_cyan;10&font_end; o tamanho do inventário.</string>
 
-    <string name="skill_mana_flow">&font_mana;Mana Flow&font_end;</string>
-    <string name="skill_mana_flow_description">Regenerates &font_cyan;1%&font_end; &font_mana;mana &font_end;every turn if &font_mana;health &font_end;is over &font_cyan;50%&font_end;.</string>
+    <string name="skill_mana_flow">&font_mana;Fluxo de Mana&font_end;</string>
+    <string name="skill_mana_flow_description">Regenere &font_cyan;1%&font_end; &font_mana;de mana &font_end;a cada turno se sua &font_mana;saúde &font_end;estiver maior que &font_cyan;50%&font_end;.</string>
 
-    <string name="skill_reckoner">&font_cyan;Reckoner&font_end;</string>
-    <string name="skill_reckoner_description">Can always see the difficulty of killing a &font_red;Monster&font_end;.</string>
+    <string name="skill_reckoner">&font_cyan;Reconhecimento&font_end;</string>
+    <string name="skill_reckoner_description">Sempre pode ver a dificuldade em matar um &font_red;Monstro&font_end;.</string>
 
-    <string name="reckon_easy">[&font_green;Easy&font_end;]</string>
-    <string name="reckon_fair">[&font_yellow;Fair&font_end;]</string>
-    <string name="reckon_hard">[&font_red;Hard&font_end;]</string>
+    <string name="reckon_easy">[&font_green;Fácil&font_end;]</string>
+    <string name="reckon_fair">[&font_yellow;Justo&font_end;]</string>
+    <string name="reckon_hard">[&font_red;Difícil&font_end;]</string>
 
-    <string name="skill_weather_immunity">&font_green;Weather Immunity&font_end;</string>
-    <string name="skill_weather_immunity_description">Immune to &font_red;Hot &font_end;or &font_tundra;Cold &font_end;damage.</string>
+    <string name="skill_weather_immunity">&font_green;Imunidade ao Clima&font_end;</string>
+    <string name="skill_weather_immunity_description">Imune ao dano de &font_red;Calor &font_end;ou ao &font_tundra;Frio &font_end;.</string>
 
-    <string name="skill_undead_hunger">&font_hunger;Undead Hunger&font_end;</string>
-    <string name="skill_undead_hunger_description">&font_hunger;Hunger &font_end;increases faster, but can eat from corpses to restore &font_hunger;Hunger&font_end;, &font_health;Health &font_end;and &font_mana;Mana&font_end;.</string>
+    <string name="skill_undead_hunger">&font_hunger;Fome do Morto-Vivo&font_end;</string>
+    <string name="skill_undead_hunger_description">A &font_hunger;Fome &font_end;aumenta mais rápido, mas pode se alimentar de cadáveres para restaurar a &font_hunger;Fome&font_end;, &font_health;Saúde &font_end;e &font_mana;Mana&font_end;.</string>
 
-    <string name="skill_undead_hunger_ate_corpse">Ate %1$s and restored &font_health;%2$d &font_end;health, &font_mana;%3$d &font_end;mana and &font_hunger;%4$d &font_end;hunger!</string>
+    <string name="skill_undead_hunger_ate_corpse">Comeu %1$s e restaurou &font_health;%2$d &font_end;de saúde, &font_mana;%3$d &font_end;de mana e &font_hunger;%4$d &font_end;de fome!</string>
 
-    <string name="skill_tough_skin">&font_dark_green;Tough Skin&font_end;</string>
-    <string name="skill_tough_skin_description">&font_cyan;5% &font_end;damage reduction in combat.</string>
+    <string name="skill_tough_skin">&font_dark_green;Casca Grossa&font_end;</string>
+    <string name="skill_tough_skin_description">&font_cyan;5% &font_end;de dano reduzido em combate.</string>
 
-    <string name="skill_first_strike">&font_dark_green;First Strike&font_end;</string>
-    <string name="skill_first_strike_description">When attacking a monster, performs an initial hit.</string>
+    <string name="skill_first_strike">&font_dark_green;Golpe Inicial&font_end;</string>
+    <string name="skill_first_strike_description">Ao atacar um monstro, desfira o primeiro golpe.</string>
 
-    <string name="skill_regeneration">&font_health;Regeneration&font_end;</string>
-    <string name="skill_regeneration_description">Regenerates &font_cyan;2% &font_end;of &font_health;health &font_end;every turn when the weather is &font_yellow;Sunny&font_end;</string>
+    <string name="skill_regeneration">&font_health;Regeneração&font_end;</string>
+    <string name="skill_regeneration_description">Regenere &font_cyan;2% &font_end;de &font_health;saúde &font_end;a cada turno quando o clima estiver &font_yellow;Ensolarado&font_end;</string>
 
-    <string name="skill_slippery">&font_cyan;Slippery&font_end;</string>
-    <string name="skill_slippery_description">Always succeeds fleeing (if fleeing is allowed).</string>
+    <string name="skill_slippery">&font_cyan;Escorregadio&font_end;</string>
+    <string name="skill_slippery_description">Sempre tenha sucesso em fugir (caso seja permitido fugir).</string>
 
-    <string name="skill_insect_eater">&font_insect;Insect Eater&font_end;</string>
-    <string name="skill_insect_eater_description">Can &font_hunger;eat &font_end;&font_insect;insects &font_end;without having to capture them.</string>
+    <string name="skill_insect_eater">&font_insect;Consumir Inseto&font_end;</string>
+    <string name="skill_insect_eater_description">Pode &font_hunger;comer &font_end;&font_insect;insetos &font_end;sem precisar capturá-los.</string>
 
-    <string name="skill_insect_eater_ate_insect">Ate &font_insect;%1$s &font_end;and restored &font_cyan;%2$d &font_end;&font_hunger;hunger&font_end;.</string>
+    <string name="skill_insect_eater_ate_insect">Comeu &font_insect;%1$s &font_end;e restaurou &font_cyan;%2$d &font_end; de &font_hunger;fome&font_end;.</string>
 
-    <string name="easter_egg_dwarf_mine">I am a Dwarf and I\'m digging a hole…</string>
+    <string name="easter_egg_dwarf_mine">Sou um anão e estou cavando um buraco…</string>
 
-    <string name="skill_weapon_learner">&font_iron;Weapon Learner&font_end;</string>
-    <string name="skill_weapon_learner_description">Learn the Weapon Mastery skills faster.</string>
-    <string name="settings_craft_toast_enabled">Enable Crafting Toast</string>
-    <string name="button_all">All</string>
-    <string name="cemetery_clear_message">Do you want to delete all the dead heroes data?</string>
+    <string name="skill_weapon_learner">&font_iron;Estudante de Armas&font_end;</string>
+    <string name="skill_weapon_learner_description">Aprenda mais rápido as habilidades em Perícia com Arma.</string>
+    <string name="settings_craft_toast_enabled">Permitir Balões Flutuantes</string>
+    <string name="button_all">Todos</string>
+    <string name="cemetery_clear_message">Deseja apagar os dados de todos os heróis mortos?</string>
 
-    <string name="menu_cemetery_all">Cemetery (&font_cyan;All&font_end;)</string>
-    <string name="menu_cemetery_permadeath">Cemetery (&font_red;Permadeath&font_end;)</string>
-    <string name="menu_cemetery_no_permadeath">Cemetery (&font_green;No Permadeath&font_end;)</string>
+    <string name="menu_cemetery_all">Cemitério (&font_cyan;Todos&font_end;)</string>
+    <string name="menu_cemetery_permadeath">Cemitério (&font_red;Morte permanente&font_end;)</string>
+    <string name="menu_cemetery_no_permadeath">Cemitério (&font_green;Sem Morte permanente&font_end;)</string>
 
-    <string name="game_over_rank_permadeath">You ranked &font_cyan;#%d &font_end;on &font_red;Permadeath &font_end;in the Cemetery.</string>
-    <string name="game_over_rank_no_permadeath">You ranked &font_cyan;#%d &font_end;on &font_green;No Permadeath &font_end;in the Cemetery.</string>
+    <string name="game_over_rank_permadeath">Você ficou em &font_cyan;#%d &font_end;no modo &font_red;Morte permanente &font_end;no Cemitério.</string>
+    <string name="game_over_rank_no_permadeath">Você ficou em &font_cyan;#%d &font_end;no modo &font_green;Sem Morte permanente &font_end;no Cemitério.</string>
 
-    <string name="blacksmith_level_up_button">Level Up &font_iron;Blacksmith&font_end;: &font_gold;%1$d&font_end;</string>
-    <string name="blacksmith_level">&font_iron;Blacksmith &font_end;Level: &font_cyan;%1$d&font_end;</string>
-    <string name="blacksmith_levelup_dialog_text">Level up Blacksmith per &font_gold;%1$d &font_end;gold?&br;&br;(Slightly improves the levelled up equipment, increases the success rate of &font_copper;scrapping &font_end;, and reduces the cost of crafting bars)</string>
-    <string name="blacksmith_scrap_probability">Success rate: %1$s%%</string>
+    <string name="blacksmith_level_up_button">Aprimorar &font_iron;Forja&font_end;: &font_gold;%1$d&font_end;</string>
+    <string name="blacksmith_level">&font_iron;Forja &font_end;Nível: &font_cyan;%1$d&font_end;</string>
+    <string name="blacksmith_levelup_dialog_text">Aprimorar Forja por &font_gold;%1$d &font_end;de ouro?&br;&br;(Melhora um pouco os equipamentos que serão melhorados, aumenta a taxa de sucesso de &font_copper;desmanche &font_end;, e reduz o custo da fabricação de barras)</string>
+    <string name="blacksmith_scrap_probability">Taxa de sucesso: %1$s%%</string>
     <string name="success_lower_than_100">&font_cyan;%1$d&font_end;</string>
     <string name="success_100">&font_green;%1$d&font_end;</string>
 
-    <string name="bar_inn_text_extra_cost_undead">"We don\'t like having people like you around…"&br;&br;</string>
-    <string name="bar_inn_text_normal_cost">"Hello, how are you?"&br;&br;</string>
-    <string name="bar_inn_text_lower_cost">"Welcome! I hope you have a great day!"&br;&br;</string>
+    <string name="bar_inn_text_extra_cost_undead">"Não gostamos de gente como você por perto…"&br;&br;</string>
+    <string name="bar_inn_text_normal_cost">"Olá, como vai?"&br;&br;</string>
+    <string name="bar_inn_text_lower_cost">"Entre! Espero que tenha tido um ótimo dia!"&br;&br;</string>
 
-    <string name="shop_bad_text">"Come on, I don\'t have all day for this…"</string>
-    <string name="shop_normal_text">"Hello, what can I help you with?"</string>
-    <string name="shop_nice_text">"Welcome! It\'s nice to do business with you!"</string>
-    <string name="button_share">Share</string>
-    <string name="achievement_desc_purifier">Purify an island for the first time</string>
-    <string name="achievement_name_purifier">Purifier</string>
+    <string name="shop_bad_text">"Anda, não tenho o dia todo para fazer isso…"</string>
+    <string name="shop_normal_text">"Olá, em que posso te ajudar?"</string>
+    <string name="shop_nice_text">"Entre! É um prazer fazer negócios com você!"</string>
+    <string name="button_share">Compartilhar</string>
+    <string name="achievement_desc_purifier">Purificar uma ilha pela primeira vez</string>
+    <string name="achievement_name_purifier">Purificador</string>
 
-    <string name="island_type_treasure">Treasure</string>
-    <string name="material_old_paper_piece">Old Paper Piece</string>
-    <string name="item_info_old_paper_piece">It has some strange drawings on it…</string>
-    <string name="tile_content_type_nautical_chart_treasure_island">Nautical Chart (&font_gold;Treasure &font_end;&font_cyan;Island&font_end;)</string>
-    <string name="craft_various_title">Craft Various</string>
-    <string name="craft_various_message_not_stackable">What amount do you want to craft?&br;&br;(You have enough materials to craft &font_cyan;%1$d&font_end;, the maximum amount allowed to craft is &font_cyan;%2$d&font_end;, and you have enough space in your inventory to craft &font_cyan;%3$d&font_end;, so, the maximum you can craft is: &font_cyan;%4$d&font_end;)</string>
-    <string name="crafted_amount">Crafted &font_cyan;%1$d&font_end;!</string>
+    <string name="island_type_treasure">Tesouro</string>
+    <string name="material_old_paper_piece">Pedaço de Papel Velho</string>
+    <string name="item_info_old_paper_piece">Tem uns desenhos esquisitos nele…</string>
+    <string name="tile_content_type_nautical_chart_treasure_island">Carta Náutica (&font_cyan;Ilha &font_end do ;&font_gold;Tesouro &font_end;)</string>
+    <string name="craft_various_title">Fabricar Vários</string>
+    <string name="craft_various_message_not_stackable">Quantos você quer fabricar?&br;&br;(Você tem materiais suficientes para fabricar &font_cyan;%1$d&font_end;, a quantidade máxima para se fabricar é &font_cyan;%2$d&font_end;, e você tem espaço suficiente no inventário para fabricar &font_cyan;%3$d&font_end;, então, o máximo que pode fabricar é: &font_cyan;%4$d&font_end;)</string>
+    <string name="crafted_amount">Criou &font_cyan;%1$d&font_end;!</string>
 
-    <string name="settings_navigation_buttons_position">Navigation Buttons Position</string>
+    <string name="settings_navigation_buttons_position">Posição dos Botões de Navegação</string>
 
-    <string name="skill_unarmed_mastery">&font_skill_attack;Unarmed &font_end;Mastery</string>
-    <string name="skill_unarmed_mastery_description">Attacking with no &font_skill_attack;weapon &font_end;in combat unlocks &font_skill_attack;Unarmed &font_end;Combat Skills.</string>
+    <string name="skill_unarmed_mastery">&font_end;Maestria &font_skill_attack;Sem armas</string>
+    <string name="skill_unarmed_mastery_description">Atacar sem uma &font_skill_attack;arma &font_end;em combates desbloqueia Habilidades de Combate &font_skill_attack;Sem Arma &font_end;.</string>
 
-    <string name="weapon_skill_unarmed_punch">Punch</string>
-    <string name="weapon_skill_unarmed_punch_desc">Punches the enemy.</string>
-    <string name="weapon_skill_unarmed_punch_attack">You punch the enemy!</string>
+    <string name="weapon_skill_unarmed_punch">Socar</string>
+    <string name="weapon_skill_unarmed_punch_desc">Soque o inimigo.</string>
+    <string name="weapon_skill_unarmed_punch_attack">Você socou o inimigo!</string>
 
-    <string name="weapon_skill_unarmed_hammerfist">Hammer Fist</string>
-    <string name="weapon_skill_unarmed_hammerfist_desc">Punches the enemy from above.</string>
-    <string name="weapon_skill_unarmed_hammerfist_attack">You punch the enemy from above!</string>
+    <string name="weapon_skill_unarmed_hammerfist">Soco Martelo</string>
+    <string name="weapon_skill_unarmed_hammerfist_desc">Soca o inimigo de cima para baixo.</string>
+    <string name="weapon_skill_unarmed_hammerfist_attack">Você desferiu um soco martelo!</string>
 
-    <string name="weapon_skill_unarmed_magicfist">Magic Fist</string>
-    <string name="weapon_skill_unarmed_magicfist_desc">Hits and absorbs mana from the enemy.</string>
-    <string name="weapon_skill_unarmed_magicfist_attack">¡You hit and absorb mana from the enemy!</string>
+    <string name="weapon_skill_unarmed_magicfist">Soco Mágico</string>
+    <string name="weapon_skill_unarmed_magicfist_desc">Acerta e absorve mana do inimigo.</string>
+    <string name="weapon_skill_unarmed_magicfist_attack">Você acertou e absorveu mana do inimigo!</string>
 
-    <string name="weapon_skill_unarmed_double_punch">Double Punch</string>
-    <string name="weapon_skill_unarmed_double_punch_desc">Punches the enemy two times.</string>
-    <string name="weapon_skill_unarmed_double_punch_attack">You punch two times the enemy!</string>
+    <string name="weapon_skill_unarmed_double_punch">Soco Duplo</string>
+    <string name="weapon_skill_unarmed_double_punch_desc">Desfere dois socos no inimigo.</string>
+    <string name="weapon_skill_unarmed_double_punch_attack">Você socou duas vezes o inimigo!</string>
 
-    <string name="weapon_skill_unarmed_fastfist">Fast Fist</string>
-    <string name="weapon_skill_unarmed_fastfist_desc">Punches the enemy strongly. Always attacks first.</string>
-    <string name="weapon_skill_unarmed_fastfist_attack">You push the enemy strongly!</string>
+    <string name="weapon_skill_unarmed_fastfist">Soco Rápido</string>
+    <string name="weapon_skill_unarmed_fastfist_desc">Soque bem forte o inimigo. Sempre ataca primeiro.</string>
+    <string name="weapon_skill_unarmed_fastfist_attack">Você acertou ele com força!</string>
 
-    <string name="material_type_cartographer_stone">&font_cyan;Cartographer &font_end;&font_stone;Stone&font_end;</string>
-    <string name="world_info_empty">(No info added, use a &font_cyan;Cartographer &font_end;&font_stone;Stone &font_end;to add a text to an island)</string>
+    <string name="material_type_cartographer_stone">&font_stone;Pedra&font_end; do &font_cyan;Cartógrafo &font_end;</string>
+    <string name="world_info_empty">(Sem informação adicionada, use uma &font_stone;Pedra&font_end; do &font_cyan;Cartógrafo &font_end;para adicionar um texto à uma ilha)</string>
     <string name="button_plus">+</string>
-    <string name="button_mark">Mark</string>
-    <string name="button_add_info">Add Info</string>
-    <string name="world_mark_island_message">To help you in your adventures, you can &font_cyan;mark &font_end;an island with a single character to be shown in the island list, and/or write some &font_cyan;info &font_end;about an it. You\'ll need a &font_cyan;Cartographer &font_end;&font_stone;Stone &font_end;for each of these actions.&br;&br;You currently have &font_cyan;%1$d &font_end;&font_cyan;Cartographer &font_end;&font_stone;Stones&font_end;</string>
+    <string name="button_mark">Marca</string>
+    <string name="button_add_info">Add Inf</string>
+    <string name="world_mark_island_message">Para ajudar em suas aventuras, você pode &font_cyan;marcar &font_end;uma ilha com para aparecer na lista de ilhas, e/ou escrever alguma &font_cyan;informação &font_end;sobre elas. Você irá precisar de uma &font_stone;Pedra&font_end; do &font_cyan;Cartógrafo &font_end;para realizar essa ação.&br;&br;Você tem &font_cyan;%1$d &font_end;&font_stone;Pedra(s)&font_end; do &font_cyan;Cartógrafo &font_end;</string>
 
-    <string name="world_add_info_message">Add info for the island (You can add line breaks by writing \'br\' between &lt; and &gt;. Max. characters allowed: &font_cyan;%1$d&font_end;):</string>
-    <string name="world_add_info_message_replacing">There\'s already info added to this island, adding info will replace the current info!&br;&br;Add info for the island (You can add line breaks by writing \'br\' between &lt; and &gt;. Max. characters allowed: &font_cyan;%1$d&font_end;):</string>
-    <string name="world_add_info_length_error" tools:ignore="PluralsCandidate">Write between 1 and %d characters…</string>
-    <string name="world_add_mark_length_error">Write 1 character…</string>
-    <string name="world_mark_island_no_cartographer_stone">You need a &font_cyan;Cartographer &font_end;&font_stone;Stone &font_end;to be able to do this…</string>
-    <string name="button_add_mark">Add Mark</string>
-    <string name="world_add_mark_message">Add a mark to be displayed in the island list (write only &font_cyan;1 &font_end;character.):</string>
-    <string name="world_add_mark_message_replacing">There\'s already one mark added to this island, adding a new one will replace the previous mark.&br;&br;Add a mark to be displayed in the island list (write only &font_cyan;1 &font_end;character):</string>
-    <string name="mark_color_title">Choose color for the mark:</string>
+    <string name="world_add_info_message">Adicione informação sobre a ilha (Você pode quebrar linhas com \'br\' entre &lt; e &gt;. Máx. de palavras permitido: &font_cyan;%1$d&font_end;):</string>
+    <string name="world_add_info_message_replacing">Você já adicionou informação sobre esta ilha, assim, você irá sobrescrever informação!&br;&br;Adicione informação à ilha (Você pode quebrar linhas com \'br\' entre &lt; e &gt;. Máx. de palavras permitido: &font_cyan;%1$d&font_end;):</string>
+    <string name="world_add_info_length_error" tools:ignore="PluralsCandidate">Escreva entre 1 e %d caracteres…</string>
+    <string name="world_add_mark_length_error">Escreva 1 caráter…</string>
+    <string name="world_mark_island_no_cartographer_stone">Você precisa de uma &font_stone;Pedra&font_end; do &font_cyan;Cartógrafo &font_end;para fazer isso…</string>
+    <string name="button_add_mark">Adicionar Marca</string>
+    <string name="world_add_mark_message">Adicione uma marca para ser exibida na lista de ilhas (escreva somente &font_cyan;1 &font_end;caráter.):</string>
+    <string name="world_add_mark_message_replacing">Você já adicionou uma marca à esta ilha, você irá sobrescrever a marca anterior se adicionar outra..&br;&br;Adicione uma marca para ser exibida na lista de ilhas (escreva somente &font_cyan;1 &font_end;caráter.):</string>
+    <string name="mark_color_title">Escolha uma cor para a marca:</string>
 
-    <string name="craft_would_die_crafting">You\'re dying of &font_hunger;hunger&font_end;!</string>
+    <string name="craft_would_die_crafting">Você está morrendo de &font_hunger;fome&font_end;!</string>
 
-    <string name="skill_teleport">&font_portal;Teleport&font_end;</string>
-    <string name="skill_teleport_desc">&font_portal;Teleports &font_end;to a random location in the island. Costs &font_mana;10 mana &font_end;points.</string>
+    <string name="skill_teleport">&font_portal;Teleporte&font_end;</string>
+    <string name="skill_teleport_desc">&font_portal;Teleporte-se &font_end;para uma localização aleatória na ilha. Custa &font_mana;10 de mana &font_end;.</string>
 
-    <string name="yang_amulet">&font_white;Yang &font_end;Amulet</string>
+    <string name="yang_amulet">Amuleto &font_white;Yang &font_end;</string>
 
-    <string name="settings_show_main_stats">Show Main Stats</string>
+    <string name="settings_show_main_stats">Mostrar Atributos</string>
 
-    <string name="ranged_weapon_type_bow">&font_speed;Bow&font_end;</string>
-    <string name="ranged_weapon_type_crossbow">&font_speed;Crossbow&font_end;</string>
-    <string name="ranged_weapon_type_slingshot">&font_speed;Slingshot&font_end;</string>
+    <string name="ranged_weapon_type_bow">&font_speed;Arco&font_end;</string>
+    <string name="ranged_weapon_type_crossbow">&font_speed;Besta&font_end;</string>
+    <string name="ranged_weapon_type_slingshot">&font_speed;Estilingue&font_end;</string>
 
-    <string name="tile_content_type_ranged_weapon">Ranged Weapon</string>
+    <string name="tile_content_type_ranged_weapon">Arma de Longo Alcance</string>
 
-    <string name="item_info_ranged_weapon">Wield this to be able to shoot monsters before engaging into combat.&br;%1$s&br;%2$s</string>
+    <string name="item_info_ranged_weapon">Use-as para poder atirar em monstros antes de iniciar o combate.&br;%1$s&br;%2$s</string>
 
-    <string name="item_wood_bow">&font_wood;Wood&font_end; Bow</string>
-    <string name="item_bone_bow">&font_bone;Bone&font_end; Bow</string>
-    <string name="item_copper_bow">&font_copper;Copper&font_end; Bow</string>
-    <string name="item_tin_bow">&font_tin;Tin&font_end; Bow</string>
-    <string name="item_iron_bow">&font_iron;Iron&font_end; Bow</string>
-    <string name="item_bronze_bow">&font_bronze;Bronze&font_end; Bow</string>
-    <string name="item_silver_bow">&font_silver;Silver&font_end; Bow</string>
-    <string name="item_gold_bow">&font_gold;Gold&font_end; Bow</string>
-    <string name="item_diamond_bow">&font_diamond;Diamond&font_end; Bow</string>
-    <string name="item_obsidian_bow">&font_obsidian;Obsidian&font_end; Bow</string>
+    <string name="item_wood_bow">Arco de &font_wood;Madeira&font_end;</string>
+    <string name="item_bone_bow">Arco de &font_bone;Osso&font_end;</string>
+    <string name="item_copper_bow">Arco de &font_copper;Cobre&font_end;</string>
+    <string name="item_tin_bow">Arco de &font_tin;Latão&font_end;</string>
+    <string name="item_iron_bow">Arco de &font_iron;Ferro&font_end;</string>
+    <string name="item_bronze_bow">Arco de &font_bronze;Bronze&font_end;</string>
+    <string name="item_silver_bow">Arco de &font_silver;Prata&font_end;</string>
+    <string name="item_gold_bow">Arco de &font_gold;Ouro&font_end;</string>
+    <string name="item_diamond_bow">Arco de &font_diamond;Diamante&font_end;</string>
+    <string name="item_obsidian_bow">Arco de &font_obsidian;Obsidiana&font_end;</string>
 
-    <string name="item_wood_crossbow">&font_wood;Wood&font_end; Crossbow</string>
-    <string name="item_bone_crossbow">&font_bone;Bone&font_end; Crossbow</string>
-    <string name="item_copper_crossbow">&font_copper;Copper&font_end; Crossbow</string>
-    <string name="item_tin_crossbow">&font_tin;Tin&font_end; Crossbow</string>
-    <string name="item_iron_crossbow">&font_iron;Iron&font_end; Crossbow</string>
-    <string name="item_bronze_crossbow">&font_bronze;Bronze&font_end; Crossbow</string>
-    <string name="item_silver_crossbow">&font_silver;Silver&font_end; Crossbow</string>
-    <string name="item_gold_crossbow">&font_gold;Gold&font_end; Crossbow</string>
-    <string name="item_diamond_crossbow">&font_diamond;Diamond&font_end; Crossbow</string>
-    <string name="item_obsidian_crossbow">&font_obsidian;Obsidian&font_end; Crossbow</string>
+    <string name="item_wood_crossbow">Besta de &font_wood;Madeira&font_end;</string>
+    <string name="item_bone_crossbow">Besta de &font_bone;Osso&font_end;</string>
+    <string name="item_copper_crossbow">Besta de &font_copper;Cobre&font_end;</string>
+    <string name="item_tin_crossbow">Besta de &font_tin;Latão&font_end;</string>
+    <string name="item_iron_crossbow">Besta de &font_iron;Ferro&font_end;</string>
+    <string name="item_bronze_crossbow">Besta de &font_bronze;Bronze&font_end;</string>
+    <string name="item_silver_crossbow">Besta de &font_silver;Prata&font_end;</string>
+    <string name="item_gold_crossbow">Besta de &font_gold;Ouro&font_end;</string>
+    <string name="item_diamond_crossbow">Besta de &font_diamond;Diamante&font_end;</string>
+    <string name="item_obsidian_crossbow">Besta de &font_obsidian;Obsidiana&font_end;</string>
 
-    <string name="item_wood_slingshot">&font_wood;Wood&font_end; Slingshot</string>
-    <string name="item_bone_slingshot">&font_bone;Bone&font_end; Slingshot</string>
-    <string name="item_copper_slingshot">&font_copper;Copper&font_end; Slingshot</string>
-    <string name="item_tin_slingshot">&font_tin;Tin&font_end; Slingshot</string>
-    <string name="item_iron_slingshot">&font_iron;Iron&font_end; Slingshot</string>
-    <string name="item_bronze_slingshot">&font_bronze;Bronze&font_end; Slingshot</string>
-    <string name="item_silver_slingshot">&font_silver;Silver&font_end; Slingshot</string>
-    <string name="item_gold_slingshot">&font_gold;Gold&font_end; Slingshot</string>
-    <string name="item_diamond_slingshot">&font_diamond;Diamond&font_end; Slingshot</string>
-    <string name="item_obsidian_slingshot">&font_obsidian;Obsidian&font_end; Slingshot</string>
+    <string name="item_wood_slingshot">Estilingue de &font_wood;Madeira&font_end;</string>
+    <string name="item_bone_slingshot">Estilingue de &font_bone;Osso&font_end;</string>
+    <string name="item_copper_slingshot">Estilingue de &font_copper;Cobre&font_end;</string>
+    <string name="item_tin_slingshot">Estilingue de &font_tin;Latão&font_end;</string>
+    <string name="item_iron_slingshot">Estilingue de &font_iron;Ferro&font_end;</string>
+    <string name="item_bronze_slingshot">Estilingue de &font_bronze;Bronze&font_end;</string>
+    <string name="item_silver_slingshot">Estilingue de &font_silver;Prata&font_end;</string>
+    <string name="item_gold_slingshot">Estilingue de &font_gold;Ouro&font_end;</string>
+    <string name="item_diamond_slingshot">Estilingue de &font_diamond;Diamante&font_end;</string>
+    <string name="item_obsidian_slingshot">Estilingue de &font_obsidian;Obsidiana&font_end;</string>
 
-    <string name="button_shoot">Shoot</string>
-    <string name="ranged_weapon_shoot_monster">You shot %1$s with your %2$s and dealt &font_speed;%3$d &font_end;damage!</string>
-    <string name="material_type_arrow">&font_wood;Arrow&font_end;</string>
-    <string name="ranged_weapon_need_ammunition">You need %1$s to do that!</string>
+    <string name="button_shoot">Atirar</string>
+    <string name="ranged_weapon_shoot_monster">Você atirou %1$s com %2$s e causou &font_speed;%3$d &font_end;de dano!</string>
+    <string name="material_type_arrow">&font_wood;Flecha&font_end;</string>
+    <string name="ranged_weapon_need_ammunition">Você precisa de %1$s para fazer isso!</string>
 
-    <string name="skill_bow_mastery">&font_speed;Bow &font_end;Mastery</string>
-    <string name="skill_crossbow_mastery">&font_speed;Crossbow &font_end;Mastery</string>
-    <string name="skill_slingshot_mastery">&font_speed;Slingshot &font_end;Mastery</string>
+    <string name="skill_bow_mastery">Perícia com &font_speed;Arco &font_end;</string>
+    <string name="skill_crossbow_mastery">Perícia com &font_speed;Besta &font_end;</string>
+    <string name="skill_slingshot_mastery">Perícia com &font_speed;Estilingue &font_end;</string>
 
-    <string name="skill_bow_mastery_desc">As it levels up, slightly increases the damage of shooting with a &font_speed;Bow &font_end;and the probability of recovering the &font_wood;Arrows &font_end;used.</string>
-    <string name="skill_crossbow_mastery_desc">As it levels up, slightly increases the damage of shooting with a &font_speed;Crossbow&font_end;and the probability of recovering the &font_wood;Bolt &font_end;used.</string>
-    <string name="skill_slingshot_mastery_desc">As it levels up, slightly increases the damage of shooting with a &font_speed;Slingshot&font_end;and the probability of recovering the &font_stone;Stone &font_end;used.</string>
+    <string name="skill_bow_mastery_desc">À medida que sobe de nível, aumenta levemente o dano ao atirar com um &font_speed;Arco &font_end;e a probabilidade de recuperar as &font_wood;Flechas &font_end;usadas.</string>
+    <string name="skill_crossbow_mastery_desc">À medida que sobe de nível, aumenta levemente o dano ao atirar com um &font_speed;Besta&font_end;e a probabilidade de recuperar as &font_wood;Setas &font_end;usadas.</string>
+    <string name="skill_slingshot_mastery_desc">À medida que sobe de nível, aumenta levemente o dano ao atirar com um &font_speed;Estilingue&font_end;e a probabilidade de recuperar as &font_stone;Pedras &font_end;usadas.</string>
 
-    <string name="combat_shortcut_empty">(empty)</string>
-    <string name="combat_shortcut_skill">Skill</string>
-    <string name="combat_shortcut_spell">Spell</string>
+    <string name="combat_shortcut_empty">(vazio)</string>
+    <string name="combat_shortcut_skill">Habilidade</string>
+    <string name="combat_shortcut_spell">Feitiço</string>
 
     <string name="button_shortcut">*</string>
 
 
-    <string name="shortcut_title">Shortcut</string>
-    <string name="shortcut_message">Select combat shortcut to set.</string>
-    <string name="shortcut_1">Shortcut 1</string>
-    <string name="shortcut_2">Shortcut 2</string>
-    <string name="shortcut_toast">Added %1$s to combat shortcut %2$d!</string>
-    <string name="combat_shortcut_pet_attack">Pet Attack</string>
-    <string name="shortcut_pet_attack">Pet Attack</string>
+    <string name="shortcut_title">Atalho</string>
+    <string name="shortcut_message">Selecione um atalho para combate.</string>
+    <string name="shortcut_1">1º Atalho</string>
+    <string name="shortcut_2">2º Atalho</string>
+    <string name="shortcut_toast">Adicionado %1$s ao atalho de combate %2$d!</string>
+    <string name="combat_shortcut_pet_attack">Ataque de Mascote</string>
+    <string name="shortcut_pet_attack">Ataque de Mascote</string>
 
-    <string name="food_trail_mix">&font_nut;Trail Mix&font_end;</string>
+    <string name="food_trail_mix">&font_nut;Mix de Nuts&font_end;</string>
 
-    <string name="island_discovered">Island Discovered</string>
+    <string name="island_discovered">Ilha Descoberta</string>
 
-    <string name="island_arrival_speaking_natives">Speaking with the natives, you learn this %1$s island is called &font_cyan;%2$s&font_end;.</string>
-    <string name="island_arrival_sense_island">You sense this %1$s island is called &font_cyan;%2$s&font_end;.</string>
+    <string name="island_arrival_speaking_natives">Ao conversar com os nativos, você descobriu que %1$s esta ilha é chamada de &font_cyan;%2$s&font_end;.</string>
+    <string name="island_arrival_sense_island">Você sente que %1$s esta ilha é chamada de &font_cyan;%2$s&font_end;.</string>
 
-    <string name="island_arrival_type_valley">You discover an island. It seems to be covered with grass, plenty of plants and small mountains.</string>
-    <string name="island_arrival_type_forest">You discover an island seemingly covered with trees and exotic monsters.</string>
-    <string name="island_arrival_type_mountain">You discover a mountainous island. There are lots of rocks, and you feel you\'ll need to climb a lot.</string>
-    <string name="island_arrival_type_swamp">You discover an island. The smell and the flies in the air are a sign of danger.</string>
-    <string name="island_arrival_type_savanna">You discover an island. There are scattered shrubs and isolated trees and the temperature is quite comfortable.</string>
-    <string name="island_arrival_type_jungle">You discover an island with thick trees, plants and lots of vegetation. Who knows what dangers lie ahead…</string>
-    <string name="island_arrival_type_desert">You discover an island. The sand and the sun are the main things you see around.</string>
-    <string name="island_arrival_type_tundra">You discover an island. The ice and the cold temperature makes you wonder if it is a good idea to explore this place.</string>
-    <string name="island_arrival_type_taiga">You discover an island. The cold temperature and the ice makes you wonder if it is a good idea to explore this place.</string>
-    <string name="island_arrival_type_mesa">You discover an island which seems to be a flat-topped hill bounded from all sides by steep escarpments.</string>
-    <string name="island_arrival_type_beach">You arrive at what seems to be an archipelago. You\'ll have to swim a lot if you want to explore all the secrets of this place.</string>
-    <string name="island_arrival_type_lake">You discover an island containing some sort of lake and abundant vegetation.</string>
-    <string name="island_arrival_type_barrens">You discover an island with a variety of biomes.</string>
-    <string name="island_arrival_type_volcano">You discover an island. The hot temperature and the vision of smoke are a sign of danger.</string>
-    <string name="island_arrival_type_high_mountains">You discover a mountainous island. There seem to be the highest mountains you\'ve ever seen.</string>
+    <string name="island_arrival_type_valley">Você descobriu uma ilha. Ela parece ser coberta por grama, muitas plantas e pequenas montanhas.</string>
+    <string name="island_arrival_type_forest">Você descobriu uma ilha aparentemente coberta por árvores e animais exóticos.</string>
+    <string name="island_arrival_type_mountain">Você descobriu uma ilha montanhosa. Há várias rochas e você sente que precisará escalar bastante.</string>
+    <string name="island_arrival_type_swamp">Você descobriu uma ilha. As moscas e o fedor são um sinal de perigo.</string>
+    <string name="island_arrival_type_savanna">Você descobriu uma ilha. Há arbustos dispersos e árvores isoladas. A temperatura é bem confortável.</string>
+    <string name="island_arrival_type_jungle">Você descobriu uma ilha com uma floresta densa, e muita vegetação. Quem sabe que perigos há pela frente…</string>
+    <string name="island_arrival_type_desert">Você descobriu uma ilha. Você praticamente só enxerga o sol e areia.</string>
+    <string name="island_arrival_type_tundra">Você descobriu uma ilha. O gelo e a baixa temperatura fazem você pensar se é uma boa ideia explorar o lugar.</string>
+    <string name="island_arrival_type_taiga">Você descobriu uma ilha. A baixa temperatura e o gelo fazem você pensar se é uma boa ideia explorar o lugar.</string>
+    <string name="island_arrival_type_mesa">Você descobriu uma área elevada de solo com um topo plano rodeado por escarpas.</string>
+    <string name="island_arrival_type_beach">Você chegou ao que parece ser um arquipélago. Você terá que nadar bastante se quiser explorar todos os segredos daqui.</string>
+    <string name="island_arrival_type_lake">Você descobriu uma ilha com um lago e vegetação abundante.</string>
+    <string name="island_arrival_type_barrens">Você descobriu uma ilha com uma variedade de biomas.</string>
+    <string name="island_arrival_type_volcano">Você descobriu uma ilha. A alta temperatura e os sinais de fumaça são um sinal de perigo.</string>
+    <string name="island_arrival_type_high_mountains">Você descobriu uma ilha montanhosa. Aqui parece ter as maiores montanhas que você já viu.</string>
 
-    <string name="island_arrival_type_giants">You discover an island where everything seems to be bigger than the regular islands you\'ve been before.</string>
-    <string name="island_arrival_type_dragons">You discover an island where you smell sulfur and feel the presence of dangerous creatures.</string>
-    <string name="island_arrival_type_undead">You discover an island where there seems to be almost no life left.</string>
-    <string name="island_arrival_type_plant">You discover an island where everything is mainly green. It seems to be full of dangerous plants.</string>
-    <string name="island_arrival_type_fey">You discover a mysterious island. The trees and dense vegetation are hiding exotic and dangerous creatures.</string>
-    <string name="island_arrival_type_beast">You discover an island. The screams of the beasts living here make you stand still for a moment. What kind of place is this?</string>
-    <string name="island_arrival_type_humanoid">You discover an island. You notice nothing special about this place, but you think it\'ll be hard to tell friend from foe.</string>
-    <string name="island_arrival_type_construct">You discover an island. Every monster you sense around seem to be somehow artificial or not organic.</string>
-    <string name="island_arrival_type_elemental">You discover an island. You sense a lot of energy in this island, it seems a dangerous place to explore.</string>
-    <string name="island_arrival_type_swarm">You discover an island. It seems to be some sort of swamp, and you can\'t stop hearing a constant buzz all the time.</string>
-    <string name="island_arrival_type_ooze">You discover an island. It seems there\'s nothing around you but something tells you there\'s something else here.</string>
-    <string name="island_arrival_type_aberration">You discover an island. This is not a normal island. You can feel huge and ugly monsters live here.</string>
+    <string name="island_arrival_type_giants">Você descobriu uma ilha em que tudo parece ser maior do que nas outras ilhas já visitadas.</string>
+    <string name="island_arrival_type_dragons">Você descobriu uma ilha com cheiro de enxofre e sente a presença de criaturas perigosas.</string>
+    <string name="island_arrival_type_undead">Você descobriu uma ilha em que quase não parece haver vida nela.</string>
+    <string name="island_arrival_type_plant">Você descobriu uma ilha onde o verde predomina. Parece estar repleta de plantas perigosas.</string>
+    <string name="island_arrival_type_fey">Você descobriu uma ilha misteriosa. A vegetação densa está escondendo criaturas exóticas e perigosas.</string>
+    <string name="island_arrival_type_beast">Você descobriu uma ilha. O som dos gritos das feras que vivem aqui deixam você paralisado por um momento. Que tipo de lugar é esse?</string>
+    <string name="island_arrival_type_humanoid">Você descobriu uma ilha.Você não vê nada de especial aqui, mas acha que será difícil diferenciar amigo de inimigo.</string>
+    <string name="island_arrival_type_construct">Você descobriu uma ilha. Você sente que os monstros ao redor parecem ser artificiais ou não-orgânicos.</string>
+    <string name="island_arrival_type_elemental">Você descobriu uma ilha. Você sente muita energia nesta ilha, parece ser um lugar perigoso de explorar.</string>
+    <string name="island_arrival_type_swarm">Você descobriu uma ilha. Parece ser um tipo de pântano e você não para de ouvir um zumbido.</string>
+    <string name="island_arrival_type_ooze">Você descobriu uma ilha. Não parece haver nada ao seu redor, mas algo lhe diz que há alguma coisa aqui.</string>
+    <string name="island_arrival_type_aberration">Você descobriu uma ilha. Esta não é uma ilha normal. Você pode sentir que monstros enormes e feios vivem aqui.</string>
 
-    <string name="island_arrival_type_tyrant">As soon as you step in this island, you feel the chills and realise this island is going to be tough.</string>
-    <string name="island_arrival_type_hell">Lava and fire. This is Hell. You smell the sulfur and see the place is full of demons and evil beings.</string>
-    <string name="island_arrival_type_heaven">The clouds, the cold air and the beings in this place… You have the feeling this is the most dangerous place you\'ve ever been.</string>
+    <string name="island_arrival_type_tyrant">Logo que você pisa nesta ilha, você sente calafrios e percebe que será uma ilha difícil.</string>
+    <string name="island_arrival_type_hell">Lava e fogo. Aqui é o Inferno. Você sente cheiro de enxofre e e vê que o lugar está repleto de demônios e seres malignos.</string>
+    <string name="island_arrival_type_heaven">As nuvens, o ar gelado e os seres deste lugar... Você sente que este é o lugar mais perigoso que você já esteve.</string>
 
-    <string name="island_arrival_type_black_island">As soon as you arrive to this island, the emptiness and the strange beings inhabiting this place make you feel uncomfortable.</string>
-    <string name="island_arrival_type_white_island">As soon as you arrive to this island, the emptiness and the strange beings inhabiting this place make you feel uncomfortable.</string>
+    <string name="island_arrival_type_black_island">Assim que você chega a esta ilha, o vazio e os seres estranhos que aqui habitam, fazem você se sentir desconfortável.</string>
+    <string name="island_arrival_type_white_island">Assim que você chega a esta ilha, o vazio e os seres estranhos que aqui habitam, fazem você se sentir desconfortável.</string>
 
-    <string name="island_arrival_type_void_island">This is different than any other place you\'ve been so far. You feel nothing. You are surrounded by &font_void;void &font_end;and have no idea of what you\'ll find here.</string>
+    <string name="island_arrival_type_void_island">Aqui é completamente diferente de qualquer outro lugar já visitado. Você não sente nada. Você está cercado por &font_void;vazio &font_end;e não tem ideia do que irá encontrar aqui.</string>
 
-    <string name="island_arrival_type_infinity_island">You are in an infinity island. Reality seems to bend here.</string>
-    <string name="island_arrival_type_treasure_island">You discover a small island. There seems to be nothing else but sand and soon realise something great awaits.</string>
+    <string name="island_arrival_type_infinity_island">Você está em uma ilha da infinidade. A realidade parece distorcer aqui.</string>
+    <string name="island_arrival_type_treasure_island">Você descobriu uma pequena ilha. Parece não haver nada aqui, exceto areia, mas algo lhe diz que há muitos tesouros aqui.</string>
 
-    <string name="material_type_bolt">&font_wood;Bolt&font_end;</string>
+    <string name="material_type_bolt">&font_wood;Seta&font_end;</string>
 
-    <string name="tile_content_type_dungeon">Dungeon</string>
-    <string name="dungeon_title">%1$s - Floor &font_cyan;%2$d &font_end;(&font_cyan;%3$d&font_end;, &font_cyan;%4$d&font_end;)</string>
-    <string name="dungeon_go_up">Go Up</string>
-    <string name="dungeon_go_down">Go Down</string>
+    <string name="tile_content_type_dungeon">Masmorra</string>
+    <string name="dungeon_title">%1$s - Andar &font_cyan;%2$d &font_end;(&font_cyan;%3$d&font_end;, &font_cyan;%4$d&font_end;)</string>
+    <string name="dungeon_go_up">Subir</string>
+    <string name="dungeon_go_down">Descer</string>
 
-    <string name="dungeon_abandoned_mine">&font_wood;Abandoned &font_end;&font_stone;Mine&font_end;</string>
-    <string name="dungeon_dungeon">&font_stone;Dungeon&font_end;</string>
-    <string name="dungeon_grotto">&font_iron;Grotto&font_end;</string>
+    <string name="dungeon_abandoned_mine">&font_stone;Mina &font_end;&font_wood;Abandonada&font_end;</string>
+    <string name="dungeon_dungeon">&font_stone;Masmorra&font_end;</string>
+    <string name="dungeon_grotto">&font_iron;Gruta&font_end;</string>
     <string name="dungeon_deep_forest">&font_dark_green;Deep &font_end;&font_green;Forest&font_end;</string>
-    <string name="dungeon_old_tomb">&font_silver;Old &font_end;&font_stone;Tomb&font_end;</string>
-    <string name="dungeon_ancient_ruins">&font_gold;Ancient &font_end;&font_ruins;Ruins&font_end;</string>
-    <string name="dungeon_pyramid">&font_beetle_talisman;Pyramid&font_end;</string>
-    <string name="dungeon_big_cave">&font_stone;Big &font_end;&font_end;&font_cave;Cave&font_end;</string>
-    <string name="dungeon_icy_cave">&font_ice;Icy &font_end;&font_cave;Cave&font_end;</string>
-    <string name="dungeon_lava_cave">&font_red;Lava &font_end;&font_cave;Cave&font_end;</string>
+    <string name="dungeon_old_tomb">&font_stone;Tumba &font_end;&font_silver;Antiga&font_end;</string>
+    <string name="dungeon_ancient_ruins">&font_ruins;Ruínas &font_end;&font_gold;Antigas&font_end;</string>
+    <string name="dungeon_pyramid">&font_beetle_talisman;Pirâmide&font_end;</string>
+    <string name="dungeon_big_cave">&font_end;&font_cave;Caverna &font_end;&font_stone;Grande&font_end;</string>
+    <string name="dungeon_icy_cave">&font_cave;Caverna &font_end;&font_ice;Gelada&font_end;</string>
+    <string name="dungeon_lava_cave">&font_cave;Caverna &font_end;de &font_red;Lava&font_end;</string>
 
-    <string name="dungeon_exit">Exit</string>
+    <string name="dungeon_exit">Saída</string>
     <string name="dungeon_question_mark">\?</string>
-    <string name="dungeon_exit_dungeon">You exit %1$s.</string>
-    <string name="dungeon_accessibility">You are at &font_cyan;%1$d&font_end;, &font_cyan;%2$d &font_end;in %3$s, Floor &font_cyan;%4$d&font_end;.&br;&br;You can move to the following directions: %5$s.</string>
-    <string name="dungeon_can_go_up">You can go &font_cyan;up &font_end;from here.</string>
-    <string name="dungeon_can_go_down">You can go &font_cyan;down &font_end;from here.</string>
-    <string name="dungeon_can_exit">You can &font_cyan;exit &font_end;from here.</string>
-    <string name="dungeon_enter">You enter %s…</string>
-    <string name="tile_type_dungeon">Dungeon</string>
-    <string name="dungeon_loot">&font_cyan;Loot&font_end;</string>
-    <string name="dungeon_loot_message">You obtained: %s</string>
-    <string name="found_item">Found: %s</string>
+    <string name="dungeon_exit_dungeon">Você saiu %1$s.</string>
+    <string name="dungeon_accessibility">Você saiu no &font_cyan;%1$d&font_end;, &font_cyan;%2$d &font_end;no %3$s, Andar &font_cyan;%4$d&font_end;.&br;&br;Você pode andar para as seguintes direções: %5$s.</string>
+    <string name="dungeon_can_go_up">Você pode &font_cyan;subir &font_end;aqui.</string>
+    <string name="dungeon_can_go_down">Você pode &font_cyan;descer &font_end;aqui.</string>
+    <string name="dungeon_can_exit">Você pode &font_cyan;sair &font_end;aqui.</string>
+    <string name="dungeon_enter">Você entrou %s…</string>
+    <string name="tile_type_dungeon">Masmorra</string>
+    <string name="dungeon_loot">&font_cyan;Saque&font_end;</string>
+    <string name="dungeon_loot_message">Você obteve: %s</string>
+    <string name="found_item">Encontrou: %s</string>
     <string name="dungeon_entrance_name">&font_stone;%1$s &font_end;(%2$s)</string>
 
-    <string name="tile_content_type_dungeon_portal">&font_stone;Dungeon &font_end;&font_portal;Portal&font_end;</string>
+    <string name="tile_content_type_dungeon_portal">&font_portal;Portal &font_end;da &font_stone;Masmorra &font_end;</string>
 
-    <string name="dungeon_north_content">&font_cyan;North&font_end;: %1$s</string>
-    <string name="dungeon_south_content">&font_cyan;South&font_end;: %1$s</string>
-    <string name="dungeon_east_content">&font_cyan;East&font_end;: %1$s</string>
-    <string name="dungeon_west_content">&font_cyan;West&font_end;: %1$s</string>
-    <string name="dungeon_boss">&font_dungeon_boss;Boss&font_end;</string>
-    <string name="settings_show_combat_shortcuts">Enable Combat Shortcuts</string>
+    <string name="dungeon_north_content">&font_cyan;Norte&font_end;: %1$s</string>
+    <string name="dungeon_south_content">&font_cyan;Sul&font_end;: %1$s</string>
+    <string name="dungeon_east_content">&font_cyan;Leste&font_end;: %1$s</string>
+    <string name="dungeon_west_content">&font_cyan;Oeste&font_end;: %1$s</string>
+    <string name="dungeon_boss">&font_dungeon_boss;Chefe&font_end;</string>
+    <string name="settings_show_combat_shortcuts">Habilitar Atalhos de Combate</string>
 
-    <string name="dungeon_enter_portal">Enter Portal</string>
-    <string name="dungeon_entered_portal">You entered the portal and appeared at the entrance of the dungeon!</string>
+    <string name="dungeon_enter_portal">Entrar no Portal</string>
+    <string name="dungeon_entered_portal">Vcoê entrou no portal e apareceu na entrada da masmorra!</string>
 
-    <string name="dungeon_tutorial_title">Dungeons</string>
-    <string name="dungeon_tutorial_message_1">Welcome to your first dungeon, hero!</string>
-    <string name="dungeon_tutorial_message_2">In the dungeons, every item you find will be given to you when you leave the dungeon.</string>
-    <string name="dungeon_tutorial_message_3">You won\'t be able to change your equipment, craft, use items, etc… except while in combat!</string>
-    <string name="dungeon_tutorial_message_4">A Boss monster awaits in the last floor of the dungeons. Be careful though, the deeper the floor, the more dangerous the monsters can be!</string>
-    <string name="dungeon_tutorial_message_5">Good luck, and be careful!</string>
-    <string name="button_next">Next</string>
+    <string name="dungeon_tutorial_title">Masmorras</string>
+    <string name="dungeon_tutorial_message_1">Bem-vindo à sua primeira masmorra, lenda!</string>
+    <string name="dungeon_tutorial_message_2">Nas masmorras, cada item encontrado será entregue ao sair da masmorra.</string>
+    <string name="dungeon_tutorial_message_3">Você não poderá mudar seu equipamento, fabricar, usar itens etc... a menos que esteja em combate!</string>
+    <string name="dungeon_tutorial_message_4">Um monstro Chefe te aguarda no último andar da masmorra. Tenha cuidado, quanto mais longe for o andar, maior será o perigo!</string>
+    <string name="dungeon_tutorial_message_5">Boa sorte e tenha cuidado!</string>
+    <string name="button_next">Próximo</string>
 
-    <string name="dead_reason_unknown">Died!</string>
-    <string name="food_cooked_fish">&font_white;Cooked &font_end;&font_blue;Fish&font_end;</string>
-    <string name="share_dialog_title">Share</string>
-    <string name="share_dialog_message">Share your hero\'s status as an image or as text!</string>
-    <string name="button_share_image">As Image</string>
-    <string name="button_share_text">As Text</string>
+    <string name="dead_reason_unknown">Morreu!</string>
+    <string name="food_cooked_fish">&font_blue;Peixe &font_end;&font_white;Cozido&font_end;</string>
+    <string name="share_dialog_title">Compartilhar</string>
+    <string name="share_dialog_message">Compartilhe suas estatísticas por imagem ou por texto!</string>
+    <string name="button_share_image">Por Imagem</string>
+    <string name="button_share_text">Por Texto</string>
 
-    <string name="material_type_beetle_talisman">&font_beetle_talisman;Beetle Talisman&font_end;</string>
+    <string name="material_type_beetle_talisman">&font_beetle_talisman;Talismã do Besouro&font_end;</string>
 
-    <string name="pyramid_its_closed">It\'s closed…</string>
-    <string name="pyramid_its_closed_can_open">It\'s closed but it seems to be reacting with your &font_beetle_talisman;Beetle Talisman&font_end;…</string>
-    <string name="pyramid_interact">Interact</string>
-    <string name="pyramid_opened">The pyramid absorbs the &font_beetle_talisman;Beetle Talisman &font_end;and opens!</string>
+    <string name="pyramid_its_closed">Está fechada…</string>
+    <string name="pyramid_its_closed_can_open">Está fechada, mas parece estar reagindo ao seu &font_beetle_talisman;Talismã do Besouro&font_end;…</string>
+    <string name="pyramid_interact">Interagir</string>
+    <string name="pyramid_opened">A pirâmide absorve o &font_beetle_talisman;Talismã do Besouro&font_end;e abre!</string>
 
     <string name="material_type_jade">&font_jade;Jade&font_end;</string>
-    <string name="material_type_quartz">&font_quartz;Quartz&font_end;</string>
-    <string name="material_type_jasper">&font_jasper;Jasper&font_end;</string>
-    <string name="material_type_sodalite">&font_sodalite;Sodalite&font_end;</string>
-    <string name="material_type_onyx">&font_onyx;Onyx&font_end;</string>
-    <string name="material_type_serpentine">&font_serpentine;Serpentine&font_end;</string>
-    <string name="material_type_aragonite">&font_aragonite;Aragonite&font_end;</string>
+    <string name="material_type_quartz">&font_quartz;Quartzo&font_end;</string>
+    <string name="material_type_jasper">&font_jasper;Jaspe&font_end;</string>
+    <string name="material_type_sodalite">&font_sodalite;Sodalita&font_end;</string>
+    <string name="material_type_onyx">&font_onyx;Ônix&font_end;</string>
+    <string name="material_type_serpentine">&font_serpentine;Serpentina&font_end;</string>
+    <string name="material_type_aragonite">&font_aragonite;Aragonita&font_end;</string>
 
-    <string name="material_type_saphir">&font_saphir;Saphir&font_end;</string>
-    <string name="material_type_ruby">&font_ruby;Ruby&font_end;</string>
+    <string name="material_type_saphir">&font_saphir;Safira&font_end;</string>
+    <string name="material_type_ruby">&font_ruby;Rubi&font_end;</string>
 
     <string name="material_type_ankh">&font_gold;Ankh&font_end;</string>
 
