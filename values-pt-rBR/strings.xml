@@ -387,7 +387,7 @@
     <string name="status_skills_learnt">Habilidades Aprendidas: &font_green;%1$d&font_end;</string>
     <string name="status_spells_learnt">Feitiços Aprendidos: &font_mana;%1$d&font_end;</string>
     <string name="status_main_story_times">Vezes que Completou a História Principal: &font_asterisk_main_story;%1$d&font_end;</string>
-    <string name="status_void_master_times">Vezes que Matou Mestre do Vácuo: &font_asterisk_void_master;%1$d&font_end;</string>
+    <string name="status_void_master_times">Vezes que Matou Mestre do Vazio: &font_asterisk_void_master;%1$d&font_end;</string>
     <string name="status_deaths">Mortes: &font_red;%1$d&font_end;</string>
     <string name="status_ascended_times">Vezes que Ascendeu: &asterisk_ascend_color;%1$d&font_end;</string>
     <string name="status_met_the_creator_times">Vezes que Conheceu o Criador: &font_asterisk_creator;%1$d&font_end;</string>
