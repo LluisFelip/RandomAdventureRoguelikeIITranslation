@@ -2800,14 +2800,14 @@
     <string name="forget_crafting_recipe_title">Oublier la recette de fabrication ?</string>
     <string name="forget_crafting_recipe_message">Voulez-vous oublier comment fabriquer %1$s ?</string>
 
-    <string name="crafting_recipe_migration_alert_title">Crafting Recipes</string>
+    <string name="crafting_recipe_migration_alert_title">Recettes de fabrication</string>
     <string name="crafting_recipe_migration_alert_message">The &font_red;Evil Forces &font_end;have stolen your crafting recipes knowledge, but the &font_wise;Wise &font_end;has taught you all the recipes you could know…&br;&br;The &font_asterisk_creator;Creator &font_end;hopes you use them wisely!</string>
     <string name="crafting_recipe_legacy">[Legacy]</string>
     <string name="crafting_recipe_legacy_cant_learn">&italic;You can\'t learn a Legacy Recipe&italic_end;</string>
 
-    <string name="skill_pet_collector">&font_pet;Pet Collector&font_end;</string>
-    <string name="skill_zoologist">&font_pet;Zoologist&font_end;</string>
-    <string name="skill_pet_hoarder">&font_pet;Pet Hoarder&font_end;</string>
+    <string name="skill_pet_collector">&font_pet;Collectionneur d\'animaux&font_end;</string>
+    <string name="skill_zoologist">&font_pet;Zoologiste&font_end;</string>
+    <string name="skill_pet_hoarder">&font_pet;Amasseur d\'animaux&font_end;</string>
 
     <string name="skill_pet_collector_description">Increases the maximum &font_red;monster&font_end; &font_pet;pets &font_end;you can have by &bold;&font_cyan;5&font_end;&bold_end;</string>
     <string name="skill_zoologist_description">Increases the maximum &font_red;monster&font_end; &font_pet;pets &font_end;you can have by &bold;&font_cyan;5&font_end;&bold_end;</string>
@@ -2995,23 +2995,23 @@
     <string name="title_the_ranger_no_gender">%1$s, the &font_wood;Ranger&font_end;</string>
     <string name="title_the_librarian_no_gender">%1$s, the &font_wood;Librarian&font_end;</string>
 
-    <string name="skill_crafter">&font_cyan;Crafter&font_end;</string>
-    <string name="skill_crafter_description">Allows to &font_cyan;Craft&font_end; with both the items in the &font_wood;Inventory &font_end;and the ones in the &font_wood;Stash&font_end;</string>
-    <string name="bug_was_a">The &font_insect;Bug &font_end;was a &font_insect;%1$s&font_end;!</string>
+    <string name="skill_crafter">&font_cyan;Artisan&font_end;</string>
+    <string name="skill_crafter_description">Permet de &font_cyan;fabriquer&font_end; à partir des objets de l\'&font_wood;inventaire &font_end;et de ceux de la &font_wood;réserve&font_end;</string>
+    <string name="bug_was_a">L\'&font_insect;insecte &font_end;était un &font_insect;%1$s&font_end; !</string>
 
     <string name="button_sort_by_quantity">Trier (Quantité)</string>
 
-    <string name="no_gender">None</string>
+    <string name="no_gender">Aucun</string>
 
-    <string name="shop_magic">&font_gold;Magasin &font_end;&font_mana;Magique&font_end;</string>
+    <string name="shop_magic">&font_gold;Magasin &font_end;&font_mana;magique&font_end;</string>
 
-    <string name="quest_rescue_someone_following_you_grouped">&font_quest;%1$d &font_end;people are here, following you…</string>
+    <string name="quest_rescue_someone_following_you_grouped">&font_quest;%1$d &font_end;personnes sont là, et te suivent…</string>
 
     <string name="feed_no_food">Vous n\'avez pas de nourriture…</string>
 
-    <string name="achievement_name_animal_lover">Animal Whisperer</string>
+    <string name="achievement_name_animal_lover">Murmureur des animaux</string>
 
-    <string name="food_fish_stick">&font_cyan;Fish &font_end;&font_wood;Stick&font_end;</string>
+    <string name="food_fish_stick">&font_wood;Bâton &font_end;de &font_cyan;poisson&font_end;</string>
 
     <string name="new_game_whats_your_race">… et quelle est votre race ?</string>
 
@@ -3039,15 +3039,15 @@
     <string name="race_attributes">Attributes</string>
     <string name="race_traits">Traits</string>
 
-    <string name="race_attributes_with_numbers">Attack: &font_attack;%1$s &font_end;Defe.: &font_defense;%2$s&font_end;&br;Intel.: &font_mana;%3$s &font_end;Speed: &font_speed;%4$s&font_end;</string>
+    <string name="race_attributes_with_numbers">Att. : &font_attack;%1$s &font_end;Def. : &font_defense;%2$s&font_end;&br;Int. : &font_mana;%3$s &font_end;Vit. : &font_speed;%4$s&font_end;</string>
 
-    <string name="status_attack_new">Attack:&font_attack;\t%1$d &font_end;&br;(Base (%2$d%%): &font_attack;%3$d&font_end;, Eq (%4$d%%): &font_attack;%5$d&font_end;, +Temp: &font_attack;%6$d&font_end;)</string>
-    <string name="status_defense_new">Defense:&font_defense;\t%1$d &font_end;&br;(Base (%2$d%%): &font_defense;%3$d&font_end;, Eq (%4$d%%): &font_defense;%5$d&font_end;, +Temp: &font_defense;%6$d&font_end;)</string>
-    <string name="status_speed_new">Speed:\t&font_speed;%1$d &font_end;&br;(Base (%2$d%%): &font_speed;%3$d&font_end;, Eq (%4$d%%): &font_speed;%5$d&font_end;, +Temp: &font_speed;%6$d&font_end;)</string>
-    <string name="status_intelligence_new">Intelligence:\t&font_mana;%1$d &font_end;&br;(Base (%2$d%%): &font_mana;%3$d&font_end;, Eq (%4$d%%): &font_mana;%5$d&font_end;, +Temp: &font_mana;%6$d&font_end;)</string>
+    <string name="status_attack_new">Attaque :&font_attack;\t%1$d &font_end;&br;(Base (%2$d%%): &font_attack;%3$d&font_end;, Eq (%4$d%%): &font_attack;%5$d&font_end;, +Temp: &font_attack;%6$d&font_end;)</string>
+    <string name="status_defense_new">Défense :&font_defense;\t%1$d &font_end;&br;(Base (%2$d%%): &font_defense;%3$d&font_end;, Eq (%4$d%%): &font_defense;%5$d&font_end;, +Temp: &font_defense;%6$d&font_end;)</string>
+    <string name="status_speed_new">Vitesse :\t&font_speed;%1$d &font_end;&br;(Base (%2$d%%): &font_speed;%3$d&font_end;, Eq (%4$d%%): &font_speed;%5$d&font_end;, +Temp: &font_speed;%6$d&font_end;)</string>
+    <string name="status_intelligence_new">Intelligence :\t&font_mana;%1$d &font_end;&br;(Base (%2$d%%): &font_mana;%3$d&font_end;, Eq (%4$d%%): &font_mana;%5$d&font_end;, +Temp: &font_mana;%6$d&font_end;)</string>
 
-    <string name="skill_natural_explorer">&font_cyan;Natural Explorer&font_end;</string>
-    <string name="skill_natural_explorer_description">Can see the surrounding tiles when moving around, making it easier to explore.</string>
+    <string name="skill_natural_explorer">&font_cyan;Explorateur-né&font_end;</string>
+    <string name="skill_natural_explorer_description">Peut voir les cases alentour en se déplaçant, rendant l\'exploration plus aisée.</string>
 
     <string name="human_traits">&font_cyan;* &font_end;Start knowing some basic crafting recipes.&br;&br;&font_cyan;* &font_end;Start with some &font_food;food&font_end;.&br;&br;&font_cyan;Natural Explorer&font_end;: Can see the surrounding tiles when moving around, making it easier to explore.</string>
     <string name="dwarf_traits">&font_cyan;* &font_end;Starts with a &font_silver;Pickaxe&font_end;.&br;&br;&font_cyan;Blacksmith&font_end;: Increases the chances of crafting better weapons, shields and armors. (Level &font_cyan;%1$d&font_end;).&br;&br;&font_gold;Beer &font_end;&font_cyan;Crafter&font_end;: Can craft &font_gold;Beer &font_end;and &font_epic;Epic&font_end; &font_gold;Beer &font_end;(and start with the necessary materials to craft a &font_gold;Beer&font_end;).</string>
@@ -3060,9 +3060,9 @@
     <string name="lizard_traits">&font_health;Regeneration&font_end;: Regenerates &font_cyan;2% &font_end;of &font_health;health &font_end;every turn when the weather is &font_yellow;Sunny&font_end;.&br;&br;&font_cyan;Slippery&font_end;: Always succeeds fleeing (if fleeing is allowed).&br;&br;&font_insect;Insect Eater&font_end;: Can &font_hunger;eat &font_end;&font_insect;insects &font_end;without having to capture them.</string>
     <string name="unknown_traits">&font_cyan;* &font_end;Start with &font_cyan;15 &font_end;Skill Points.&br;&br;&font_cyan;* &font_end;Start with a random &font_cyan;Nautical Chart&font_end;&br;&br;&font_cyan;* &font_end;Start with a random &font_mana;Spell &font_end;Book.</string>
 
-    <string name="item_beer">&font_gold;Beer&font_end;</string>
-    <string name="item_epic_beer">&font_epic;Epic&font_end; &font_gold;Beer&font_end;</string>
-    <string name="item_info_beer">Drink this to restore &font_cyan;%1$d%% &font_end;of your &font_health;health&font_end;, &font_mana;mana &font_end;and &font_hunger;hunger&font_end;!</string>
+    <string name="item_beer">&font_gold;Bière&font_end;</string>
+    <string name="item_epic_beer">&font_gold;Bière &font_end;&font_epic;épique&font_end;</string>
+    <string name="item_info_beer">Buvez ça pour regagner &font_cyan;%1$d%% &font_end;de &font_health;vie&font_end;, &font_mana;mana &font_end;et &font_hunger;faim&font_end; !</string>
 
     <string name="drink_beer_restored">Drank &font_gold;Beer &font_end;and restored &font_health;%1$d &font_end;health, &font_mana;%2$d &font_end;mana and &font_hunger;%3$d &font_end;hunger!</string>
 
@@ -3442,26 +3442,26 @@
 
     <string name="void_master_after_killing_text_4">Well well… You are wearing a complete set of the &font_void;Void&font_end;… Here you are, you will know what to do with it…</string>
 
-    <string name="dungeon_infinite_vortex">&font_infinity;Infinite &font_end;&font_void;Vortex&font_end;</string>
-    <string name="collection_tiles">Tiles</string>
+    <string name="dungeon_infinite_vortex">&font_void;Vortex &font_end;&font_infinity;infini&font_end;</string>
+    <string name="collection_tiles">Cases</string>
     <string name="collection_cassettes">Cassettes</string>
     <string name="cassette_menu">Menu</string>
-    <string name="cassette_new_game">New Game</string>
-    <string name="cassette_journey">Journey</string>
+    <string name="cassette_new_game">Nouvelle partie</string>
+    <string name="cassette_journey">Aventure</string>
     <string name="cassette_game_over">Game Over</string>
     <string name="cassette_collections">Collections</string>
-    <string name="collection_dungeons">Dungeons</string>
+    <string name="collection_dungeons">Donjons</string>
 
-    <string name="button_play">Play</string>
+    <string name="button_play">Jouer</string>
 
     <string name="cassette_rar1_menu">RAR I - Menu</string>
-    <string name="cassette_rar1_journey">RAR I - Journey</string>
+    <string name="cassette_rar1_journey">RAR I - Aventure</string>
     <string name="cassette_rar1_game_over">RAR I - Game Over</string>
     <string name="cassette_rar1_collections">RAR I - Collections</string>
 
     <string name="tile_content_type_cassette">&font_alchemist;Cassette&font_end;</string>
     <string name="cassette_name">&font_alchemist;Cassette &font_end;(%s)</string>
-    <string name="item_info_cassette">This seems to be an ancient relic of sorts. Who knows what is this used for…</string>
+    <string name="item_info_cassette">Ça ressemble à une sorte de relique ancienne. Va savoir à quoi ça pourrait servir…</string>
 
     <string name="wise_ascend_message_confirmation">If you &asterisk_ascend_color;Ascend&font_end;, you\'ll start over from level 1. You\'ll forget every island, quest, etc…, and you\'ll lose all your items, your gold… BUT, you\'ll have improved starting stats, you\'ll obtain an &asterisk_ascend_color;Ascension &font_end;&font_red;Flame&font_end;…!</string>
     <string name="wise_ascend_message_confirmation_2">Are you sure you want to &asterisk_ascend_color;Ascend&font_end;?</string>
@@ -3559,9 +3559,9 @@
     <string name="autolevelup_levelled_up">%1$s auto-levelled up to level &font_cyan;%2$d&font_end;</string>
     <string name="received_void_weapon">You received %1$s!</string>
 
-    <string name="settings_auto_pick_up_enabled">Combat auto pick-up enabled</string>
-    <string name="material_seaweed">&font_red;Seaweed&font_end;</string>
-    <string name="material_pearl">&font_pearl;Pearl&font_end;</string>
+    <string name="settings_auto_pick_up_enabled">Ramasse-objets combat auto</string>
+    <string name="material_seaweed">&font_red;Algue&font_end;</string>
+    <string name="material_pearl">&font_pearl;Perle&font_end;</string>
 
     <string name="dungeon_coral_cave">&font_coral;Coral &font_end;&font_cave;Cave&font_end;</string>
     <string name="tile_content_type_torch">&font_red;Torch&font_end;</string>
