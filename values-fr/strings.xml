@@ -2572,7 +2572,7 @@
     <string name="achievement_name_mimic">Mimique</string>
     <string name="achievement_name_curiousity_killed_the_cat">La curiosité est un villain défaut</string>
     <string name="achievement_name_dissimulate">Dissimulé</string>
-    <string name="achievement_name_mainstory_no_permadeath">New Chicken Beginnings</string>
+    <string name="achievement_name_mainstory_no_permadeath">Prémices de la poule mouillée</string>
     <string name="achievement_name_mainstory_permadeath">Tu as réussi !</string>
     <string name="achievement_name_encyclokiller">Encyclotueur</string>
     <string name="achievement_name_capture_tyrant">Maître du Tyran</string>
@@ -2759,32 +2759,32 @@
 
     <string name="dark_orb_gate_open">Le &font_gate;portail sombre &font_end;s\'ouvre soudainement sous vos yeux, une quantité importante d\'&italic;énergie sombre &italic_end;en émane…</string>
 
-    <string name="void_master_after_killing_text">Killing me, you have activated the end for you and the rest of mortals… get ready for the &font_void;Void &font_end;Monsters appearing in your world…</string>
-    <string name="void_master_after_killing_text_2">You again…? Well… I\'m surprised you arrived so far with my &font_void;Void &font_end;Monsters around the world… I\'ll see you again…</string>
-    <string name="void_master_after_killing_text_3">Well well… You are wearing a complete set of the &font_void;Void&font_end;… Right now there\'s nothing else I can offer… But come soon, and I\'ll give you something you need…</string>
+    <string name="void_master_after_killing_text">En me tuant, tu condamne tous les mortels, toi y compris… Prépare toi à ce que les monstres du &font_void;néant &font_end;commencent à apparaitre dans ton monde…</string>
+    <string name="void_master_after_killing_text_2">Encore toi… ? Pour dire vrai… Je suis surpris que tu tienne le coup face à mes monstres du &font_void;néant &font_end;éparpillés dans le monde… On se reverra…</string>
+    <string name="void_master_after_killing_text_3">Bien, bien… Je vois que tu portes un set complet du &font_void;néant&font_end;… Pour l'instant, je ne peux rien t'offrir d'autre… Mais reviens une autre fois et je te donnerais quelque chose dont tu as besoin…</string>
 
-    <string name="your_ship_appears_magically">Your &font_wood;Ship &font_end;appears…</string>
+    <string name="your_ship_appears_magically">Votre &font_wood;navire &font_end;apparait comme par magie…</string>
 
-    <string name="void_monster_prefix">&font_void;Void&font_end;</string>
+    <string name="void_monster_prefix">&font_void;Vide&font_end;</string>
 
-    <string name="item_void_helmet">&font_void;Void &font_end;Helmet</string>
-    <string name="item_void_armor">&font_void;Void &font_end;Plate</string>
-    <string name="item_void_pants">&font_void;Void &font_end;Pants</string>
-    <string name="item_void_boots">&font_void;Void &font_end;Boots</string>
-    <string name="item_void_gloves">&font_void;Void &font_end;Gloves</string>
-    <string name="item_void_amulet">&font_void;Void &font_end;Amulet</string>
-    <string name="item_void_ring">&font_void;Void &font_end;Ring</string>
+    <string name="item_void_helmet">Casque du &font_void;néant&font_end;</string>
+    <string name="item_void_armor">Armure du &font_void;néant&font_end;</string>
+    <string name="item_void_pants">Pantalon du &font_void;néant&font_end;</string>
+    <string name="item_void_boots">Bottes du &font_void;néant&font_end;</string>
+    <string name="item_void_gloves">Gants du &font_void;néant&font_end;</string>
+    <string name="item_void_amulet">Amulette du &font_void;néant&font_end;</string>
+    <string name="item_void_ring">Anneau du &font_void;néant&font_end;</string>
 
-    <string name="tile_content_type_infinity_door">&font_infinity;Infinity &font_end;&font_gold;Door&font_end;</string>
-    <string name="infinity_door_open">&font_infinity;Infinity &font_end;&font_gold;Door &font_end;(&font_green;Open&font_end;)</string>
-    <string name="infinity_door_closed">&font_infinity;Infinity &font_end;&font_gold;Door &font_end;(&font_red;Closed&font_end;)</string>
-    <string name="item_infinity_key">&font_infinity;Infinity &font_end;&font_gold;Key&font_end;</string>
-    <string name="button_open_with_infinity_key">Open with &font_infinity;Infinity &font_end;&font_gold;Key&font_end;</string>
-    <string name="item_info_infinity_key">A glowing mysterious &font_gold;Key&font_end;…</string>
-    <string name="infinity_door_enter_title">&font_infinity;Infinity &font_end;&font_gold;Door&font_end;</string>
-    <string name="infinity_door_enter_message">Enter the &font_infinity;Infinity &font_end;&font_gold;Door&font_end;?</string>
-    <string name="entering_infinity_door">Entering &font_infinity;Infinity &font_end;&font_gold;Door&font_end;</string>
-    <string name="infinity_door_opened">You open the &font_infinity;Infinity &font_end;&font_gold;Door&font_end;!</string>
+    <string name="tile_content_type_infinity_door">&font_gold;Porte &font_end;de l\'&font_infinity;infini&font_end;</string>
+    <string name="infinity_door_open">&font_gold;Porte &font_end;de l\'&font_infinity;infini &font_end;(&font_green;Ouverte&font_end;)</string>
+    <string name="infinity_door_closed">&font_gold;Porte &font_end;de l\'&font_infinity;infini &font_end;(&font_green;Fermée&font_end;)</string>
+    <string name="item_infinity_key">&font_gold;Clé &font_end;de l\'&font_infinity;infini&font_end;</string>
+    <string name="button_open_with_infinity_key">Ouvrir avec la &font_gold;clé &font_end;de l\'&font_infinity;infini&font_end;</string>
+    <string name="item_info_infinity_key">Une mystérieuse &font_gold;clé &font_end;scintilante…</string>
+    <string name="infinity_door_enter_title">&font_gold;Porte &font_end;de l\'&font_infinity;infini&font_end;</string>
+    <string name="infinity_door_enter_message">Pénétrer la &font_gold;porte &font_end;de l\'&font_infinity;infini&font_end; ?</string>
+    <string name="entering_infinity_door">Vous pénétrez la &font_gold;porte &font_end;de l\'&font_infinity;infini&font_end;</string>
+    <string name="infinity_door_opened">Vous ouvrez la &font_gold;porte &font_end;de l\'&font_infinity;infini&font_end; !</string>
 
     <string name="infinity_door_closed_message">It\'s a locked door, there\'s nothing around it… looks like it needs some sort of &font_gold;Key &font_end;to open it…</string>
 
