@@ -3396,21 +3396,21 @@
 
     <string name="material_type_ankh">&font_gold;Ankh&font_end;</string>
 
-    <string name="material_type_infinity_energy">&font_infinity;Infinity &font_end;&font_cyan;Energy&font_end;</string>
-    <string name="material_type_creator_medal">&font_asterisk_creator;Creator &font_end;&font_white;Medal&font_end;</string>
-    <string name="achievement_name_capture_creator">How could you?!</string>
-    <string name="achievement_name_desc_capture_creator">Capture the Creator!</string>
+    <string name="material_type_infinity_energy">&font_cyan;Energia &font_end;&font_infinity;Infinita&font_end;</string>
+    <string name="material_type_creator_medal">&font_white;Medalha &font_end;do &font_asterisk_creator;Criador&font_end;</string>
+    <string name="achievement_name_capture_creator">Como pôde?!</string>
+    <string name="achievement_name_desc_capture_creator">Capture o Criador!</string>
 
-    <string name="title_the_creator_male">%1$s, the &font_asterisk_creator;Creator&font_end;</string>
-    <string name="title_the_creator_female">%1$s, the &font_asterisk_creator;Creator&font_end;</string>
-    <string name="title_the_creator_no_gender">%1$s, the &font_asterisk_creator;Creator&font_end;</string>
+    <string name="title_the_creator_male">%1$s, o &font_asterisk_creator;Criador&font_end;</string>
+    <string name="title_the_creator_female">%1$s, a &font_asterisk_creator;Criadora&font_end;</string>
+    <string name="title_the_creator_no_gender">%1$s, &font_asterisk_creator;Criadorx&font_end;</string>
 
-    <string name="wise_have_creator_medal">You… you are unbelievable! You killed the &font_asterisk_creator;Creator &font_end;and obtained a %s? I\'m afraid the only thing left to do for you is to &asterisk_ascend_color;Ascend&font_end;…</string>
+    <string name="wise_have_creator_medal">Você… Você é inacredtável! Você matou o &font_asterisk_creator;Criador &font_end;e obteve uma %s? Receio que a única coisa que lhe resta fazer é &asterisk_ascend_color;Ascender&font_end;…</string>
 
-    <string name="wise_ascend_message_1">You want to &asterisk_ascend_color;Ascend&font_end;?</string>
-    <string name="creator_appeared_title">&font_asterisk_creator;The Creator &font_end;Appeared</string>
-    <string name="creator_appeared_message">Suddenly, a supreme being, nothing like you\'ve seen before, appears in front of you… And, you know, deep inside, this is nothing else than… &font_asterisk_creator;Archison&font_end;, &font_asterisk_creator;The Creator&font_end;.</string>
-    <string name="combat_monster_healed_completely">%s healed completely!</string>
+    <string name="wise_ascend_message_1">Deseja &asterisk_ascend_color;Ascender&font_end;?</string>
+    <string name="creator_appeared_title">&font_asterisk_creator;O Criador &font_end;Apareceu</string>
+    <string name="creator_appeared_message">De repente, um ser supremo, como você nunca viu antes, aparece diante de você… E sabe, lá no fundo, isso nada mais é do que… &font_asterisk_creator;Archison&font_end;, &font_asterisk_creator;O Criador&font_end;.</string>
+    <string name="combat_monster_healed_completely">%s se curou completamente!</string>
 
     <string name="item_info_creator_medal">É uma medalha brilhante, uma lembrança de quando você matou &font_asterisk_creator;O Criador&font_end;.</string>
 
@@ -3524,7 +3524,7 @@
     <string name="void_merchant_message_have">Ai meu &font_void;vazio&font_end;…! Obrigado... Como prometido, isto é para você...</string>
     <string name="void_merchant_message_have_2">Volte aqui se encontrar outras...</string>
 
-    <string name="settings_show_gold_on_top">Mostrar Moedas de Ouro acima</string>
+    <string name="settings_show_gold_on_top">Mostrar Ouro acima</string>
     <string name="skill_whip_mastery">Domínio do &font_void;Chicote&font_end;</string>
     <string name="skill_whip_mastery_desc">Atacar com um &font_void;Chicote &font_end;em combate desbloqueia Habilidades de Combate com &font_void;Chicote&font_end;.</string>
     <string name="weapon_type_whip">&font_void;Chicote&font_end;</string>
@@ -3620,272 +3620,272 @@
 
     <string name="pets_combat_health_restored">%1$s restaurou &font_health;%2$d &font_end;pontos de vida!</string>
 
-    <string name="spell_revive_pet_name">&font_health;Revive &font_end;&font_pet;Pet&font_end;</string>
-    <string name="spell_revive_pet_desc">Cast this to &font_health;revive &font_end;your &font_pet;pet&font_end;.</string>
-    <string name="spell_revive_pet_desc_combat_success">You &font_health;revive &font_end;your &font_pet;pet&font_end;!</string>
+    <string name=”spell_revive_pet_name”>&font_health;Reanimar &font_end;&font_pet;Mascote&font_end;</string>
+    <string name=”spell_revive_pet_desc”>Lance isto para &font_health;reanimar &font_end;o seu &font_pet;mascote&font_end;.</string>
+    <string name=”spell_revive_pet_desc_combat_success”>Você &font_health;reanimou &font_end;o seu &font_pet;mascote&font_end;!</string>
 
-    <string name="pets_combat_revived">You revived %s!</string>
-    <string name="item_info_potion_pet_heal">Give this to your &font_pet;pet &font_end;to heal it &font_health;%1$s&font_end;%%.</string>
-    <string name="item_info_potion_pet_revive">Give this to your &font_pet;pet &font_end;to &font_health;revive &font_end;and &font_health;heal &font_end;it a &font_health;%1$s&font_end;%%.</string>
-    <string name="your_pet_quaffs_potion">%1$s quaffs %2$s!</string>
-    <string name="your_pet_quaffs_potion_revived">%1$s revived with &font_health;%2$d &font_end;health points!</string>
-    <string name="your_pet_quaffs_potion_healed">%1$s healed &font_health;%2$d &font_end;health points!</string>
-    <string name="your_pet_quaffs_potion_restored">%1$s restored &font_mana;%2$d &font_end;mana points!</string>
+    <string name=”pets_combat_revived”>Você reanimou %s!</string>
+    <string name=”item_info_potion_pet_heal”>Dê isto para o seu &font_pet;mascote &font_end;para curar &font_health;%1$s&font_end;%% dos seus pontos de vida.</string>
+    <string name="item_info_potion_pet_revive">Dê isto para o seu &font_pet;mascote &font_end;para &font_health;reanimá-lo &font_end;e &font_health;curar &font_end;&font_health;%1$s&font_end;%% dos seus pontos de vida.</string>
+    <string name="your_pet_quaffs_potion">%1$s tomou %2$s!</string>
+    <string name="your_pet_quaffs_potion_revived">%1$s se reanimou com &font_health;%2$d &font_end;pontos de vida!</string>
+    <string name="your_pet_quaffs_potion_healed">%1$s recuperou &font_health;%2$d &font_end;pontos de vida!</string>
+    <string name="your_pet_quaffs_potion_restored">%1$s recuperou &font_mana;%2$d &font_end;pontos de mana!</string>
 
-    <string name="tile_content_type_heal_pet_potion">&font_health;Heal &font_end;&font_pet;Pet &font_end;Potion</string>
-    <string name="tile_content_type_mana_pet_potion">&font_mana;Mana &font_end;&font_pet;Pet &font_end;Potion</string>
-    <string name="tile_content_type_revive_pet_potion">&font_health;Revive &font_end;&font_pet;Pet &font_end;Potion</string>
+    <string name=”tile_content_type_heal_pet_potion”>Poção de &font_health;Cura &font_end;para &font_pet;Macotes&font_end;</string>
+    <string name=”tile_content_type_mana_pet_potion”>Poção de &font_mana;Mana &font_end;para &font_pet;Mascotes&font_end;</string>
+    <string name=”tile_content_type_revive_pet_potion”>Poção para &font_health;Reanimar &font_end;&font_pet;Mascotes&font_end;</string>
 
-    <string name="item_name_heal_pet_potion">&font_health;Heal &font_end;&font_pet;Pet &font_end;Potion (&font_health;%1$d&font_end;%%)</string>
-    <string name="item_name_mana_pet_potion">&font_mana;Mana &font_end;&font_pet;Pet &font_end;Potion (&font_health;%1$d&font_end;%%)</string>
-    <string name="item_name_revive_pet_potion">&font_health;Revive &font_end;&font_pet;Pet &font_end;Potion (&font_health;%1$d&font_end;%%)</string>
-    <string name="item_experience_pet_potion">&font_cyan;Experience &font_end;&font_pet;Pet &font_end;Potion</string>
-    <string name="item_experience_pet_potion_amount">&font_cyan;Experience &font_end;&font_pet;Pet &font_end;Potion (&font_cyan;%1$d&font_end;)</string>
+    <string name=”item_name_heal_pet_potion”>Poção de &font_health;Cura &font_end;para &font_pet;Mascotes&font_end; (&font_health;%1$d&font_end;%%)</string>
+    <string name=”item_name_mana_pet_potion”>Poção de &font_mana;Mana &font_end;para &font_pet;Mascotes&font_end; (&font_health;%1$d&font_end;%%)</string>
+    <string name=”item_name_revive_pet_potion”>Poção para&font_health;Reanimar &font_end;&font_pet;Mascotes&font_end; (&font_health;%1$d&font_end;%%)</string>
+    <string name=”item_experience_pet_potion”>Poção de &font_cyan;Experiência &font_end;para &font_pet;Mascotes&font_end;</string>
+    <string name="item_experience_pet_potion_amount">Poção de &font_cyan;Experiência &font_end;para &font_pet;Mascotes&font_end; (&font_cyan;%1$d&font_end;)</string>
 
-    <string name="tile_content_type_pet_shop">&font_pet;Pet &font_end;&font_gold;Shop&font_end;</string>
-    <string name="pet_item_name">&font_pet;Pet &font_end; (%1$s)</string>
-    <string name="item_info_pet_item">Buy this to add this &font_pet;Pet &font_end;as a companion in your adventures!</string>
+    <string name=”tile_content_type_pet_shop”>&font_gold;Loja &font_end;de &font_pet;Mascotes&font_end;</string>
+    <string name=”pet_item_name”>&font_pet;Mascote&font_end; (%1$s)</string>
+    <string name=”item_info_pet_item”>Compre para acrescentar este &font_pet;Mascote &font_end;como companheiro em suas aventuras!</string>
 
-    <string name="pets_couldn_pick_up">You can\'t take %s with you, not enough space for &font_pet;pets&font_end;!</string>
-    <string name="pets_already_healthy">Your %1$s is already &font_health;healthy&font_end;!</string>
-    <string name="pets_already_healthy_mana">The &font_mana;mana &font_end;of your %1$s is already full!</string>
-    <string name="pets_already_alive">Your %1$s is already alive!</string>
+    <string name=”pets_couldn_pick_up”>Você não pode levar %s com você, pois não possui espaço suficiente para &font_pet;mascotes&font_end;!</string>
+    <string name="pets_already_healthy">%1$s já está &font_health;saudável&font_end;!</string>
+    <string name="pets_already_healthy_mana”>O &font_mana;mana &font_end;de %1$s já está cheio!</string>
+    <string name="pets_already_alive">%1$s já está bem!</string>
 
-    <string name="tile_content_type_dark_stone">&font_void;Dark &font_end;&font_stone;Stone&font_end;</string>
-    <string name="tile_content_type_broken_dark_gate">Broken &font_void;Dark &font_end;&font_stone;Gate&font_end;</string>
-    <string name="repairing">Repairing %s</string>
-    <string name="repaired">Repaired %s!</string>
+    <string name=”tile_content_type_dark_stone”>&font_stone;Pedra &font_end;&font_void;Sombria&font_end;</string>
+    <string name="tile_content_type_broken_dark_gate">&font_stone;Potal &font_end;&font_void;Sombrio &font_end; Quebrado</string>
+    <string name=”repairing”>Consertando %s</string>
+    <string name=”repaired”>Consertou %s!</string>
 
-    <string name="broken_dark_gate_message_not_repairable">The &font_void;Dark &font_end;&font_stone;Gate &font_end;is broken… maybe it could be repaired if having enough &font_void;Dark &font_end;&font_stone;Stone&font_end;…</string>
-    <string name="broken_dark_gate_message_repairable">The &font_void;Dark &font_end;&font_stone;Gate &font_end;is broken… it seems you have enough &font_void;Dark &font_end;&font_stone;Stone &font_end;to repair it!&br;&br;Repair &font_void;Dark &font_end;&font_stone;Gate &font_end;with %d &font_void;Dark &font_end;&font_stone;Stones&font_end;?</string>
-    <string name="purifying_tree_message_with_monsters">A pure and shiny %1$s is here.&br;&br;You look at its bright purple leaves, but can count &font_cyan;%2$d &font_end;&font_red;red &font_end;leaves…</string>
-    <string name="purifying_tree_message_with_one_monster">A pure and shiny %1$s is here.&br;&br;You look at its bright purple leaves, but can count &font_cyan;%2$d &font_end;&font_red;red &font_end;leave…</string>
-    <string name="purifying_tree_message_no_monsters_no_completely_purified">A pure and shiny %1$s is here.&br;&br;You look at its bright purple leaves, and there are no more &font_red;red &font_end;leaves…&br;&br;There is something here for you…</string>
-    <string name="purifying_tree_message_no_monsters_completely_purified">A pure and shiny %1$s is here.&br;&br;You look at its bright purple leaves and feel how your &font_health;health &font_end;and &font_mana;mana &font_end;are completely restored…</string>
+    <string name="broken_dark_gate_message_not_repairable”>O &font_stone;Portal &font_end;&font_void;Sombrio &font_end;está quebrado… talvez possa ser consertado se houver &font_stone;Pedras &font_end;&font_void;Sombrias &font_end;suficientes…</string>
+    <string name="broken_dark_gate_message_repairable”>O &font_stone;Portal &font_end;&font_void;Sombrio &font_end;está quebrado… parece que você possui &font_stone;Pedras &font_end;&font_void;Sombrias &font_end;suficientes para consertá-lo!&br;&br;Consertar o &font_stone;Portal &font_end;&font_void;Sombrio &font_end;usando %d &font_stone;Pedras &font_end;&font_void;Sombrias&font_end;?</string>
+    <string name=”purifying_tree_message_with_monsters”>Há uma %1$s pura e brilhante aqui.&br;&br;Você olha para suas folhas púrpuras brilhantes, mas você consegue contar &font_cyan;%2$d &font_end;folhas &font_red;vermelhas&font_end;…</string>
+    <string name=”purifying_tree_message_with_one_monster”>Há uma %1$s pura e brilhante aqui.&br;&br;Você olha para suas folhas púrpuras brilhantes, mas você consegue contar &font_cyan;%2$d &font_end;folha &font_red;vermelha&font_end;…</string>
+    <string name="purifying_tree_message_no_monsters_no_completely_purified">Há uma %1$s pura e brilhante aqui.&br;&br;Você olha para suas folhas púrpuras brilhantes, e não há mais nenhuma &font_end;folha &font_red;vermelha&font_end;…&br;&br;Há algo aqui para você…</string>
+    <string name="purifying_tree_message_no_monsters_completely_purified">Há uma %1$s pura e brilhante aqui.&br;&br;Você olha para suas folhas púrpuras brilhantes e sente que a sua &font_health;vida &font_end;e o seu &font_mana;mana &font_end;estão completamente restaurados…</string>
 
-    <string name="item_info_experience_pet_potion">Give this to your &font_pet;pet &font_end;to make it gain %1$s &font_cyan;experience &font_end;instantly.</string>
-    <string name="button_oh_no">Oh no…</string>
+    <string name=”item_info_experience_pet_potion”>Dê isto para o seu &font_pet;mascote &font_end;para fazê-lo ganhar %1$s &font_cyan;pontos de experiência &font_end;instantâneamente.</string>
+    <string name=”button_oh_no”>Ah não…</string>
 
-    <string name="status_sound_and_vibration">&font_cyan;Sound / Vibration&font_end;</string>
-    <string name="status_game_ui_title">&font_cyan;Game UI&font_end;</string>
-    <string name="status_various_title">&font_cyan;Various&font_end;</string>
-    <string name="settings_music_volume">Music Volume</string>
-    <string name="settings_sound_volume">Sound Volume</string>
+    <string name="status_sound_and_vibration”>&font_cyan;Som / Vibração&font_end;</string>
+    <string name=”status_game_ui_title”>&font_cyan;IU do Jogo&font_end;</string>
+    <string name=”status_various_title”>&font_cyan;Diversos&font_end;</string>
+    <string name=”settings_music_volume”>Volume da Música</string>
+    <string name=”settings_sound_volume”>Volume do Som</string>
 
-    <string name="tile_content_type_purifying_seed_planted">&font_purifying;Purifying&font_end; &font_plant;Seed &font_end;(&font_green;Planted&font_end;)</string>
+    <string name=”tile_content_type_purifying_seed_planted”>&font_plant;Semente&font_end; &font_purifying;Purificadora&font_end; (&font_green;Plantada&font_end;)</string>
 
-    <string name="dropped_ammo_toast">Some of the &font_wood;ammo &font_end;is able to be retrieved!</string>
+    <string name=”dropped_ammo_toast”>É possível recuperar uma parte da &font_wood;munição&font_end;!</string>
 
-    <string name="craft_not_enough_inventory_space">You don\'t have enough space in your inventory…</string>
+    <string name=”craft_not_enough_inventory_space”>Você não possui espaço suficiente no inventário…</string>
 
-    <string name="craft_various_message_stackable">What amount do you want to craft?&br;&br;(You have enough materials to craft &font_cyan;%1$d&font_end;)</string>
-    <string name="craft_various_message_stackable_higher_than_the_max">What amount do you want to craft?&br;&br;(You have enough materials to craft &font_cyan;%1$d&font_end;, but the maximum amount allowed to craft is &font_cyan;%2$d&font_end;)</string>
+    <string name=”craft_various_message_stackable”>Qual a quantidade que você deseja produzir?&br;&br;(Você possui materiasi suficientes para produzir &font_cyan;%1$d&font_end;)</string>
+    <string name="craft_various_message_stackable_higher_than_the_max">Qual a quantidade que você deseja produzir?&br;&br;(Você possui materiasi suficientes para produzir &font_cyan;%1$d&font_end;, mas a quantidade máxima de produção permitida é &font_cyan;%2$d&font_end;)</string>
 
-    <string name="item_info_potion_pet_heal_recipe_info">Give this to your &font_pet;pet &font_end;to &font_health;heal &font_end;it.</string>
-    <string name="item_info_potion_pet_mana">Give this to your &font_pet;pet &font_end;to restore its &font_mana;mana &font_end;by a &font_mana;%1$s&font_end;%%.</string>
-    <string name="item_info_potion_pet_mana_recipe_info">Give this to your &font_pet;pet &font_end;to restore its &font_mana;mana&font_end;.</string>
-    <string name="item_info_experience_pet_potion_recipe_info">Give this to your &font_pet;pet &font_end;to make it gain &font_cyan;experience &font_end;instantly.</string>
-    <string name="item_info_heal_potion_recipe_info">Quaff this to restore your &font_health;health&font_end;.</string>
-    <string name="item_info_mana_potion_recipe_info">Quaff this to restore your &font_mana;mana&font_end;.</string>
-    <string name="item_info_experience_potion_recipe_info">Quaff this to gain &font_cyan;experience &font_end;instantly.</string>
-    <string name="item_info_potion_pet_revive_recipe_info_recipe_info">Give this to your &font_pet;pet &font_end;to &font_health;revive &font_end;and &font_health;heal &font_end;it.</string>
+    <string name=”item_info_potion_pet_heal_recipe_info”>Dê isto ao seu &font_pet;mascote &font_end;para &font_health;curá-lo&font_end;.</string>
+    <string name="item_info_potion_pet_mana">Dê isto ao seu &font_pet;mascote &font_end;para restaurar o seu &font_mana;mana &font_end;em &font_mana;%1$s&font_end;%%.</string>
+    <string name="item_info_potion_pet_mana_recipe_info">Dê isto ao seu &font_pet;mascote &font_end;para restaurar o seu &font_mana;mana&font_end;.</string>
+    <string name="item_info_experience_pet_potion_recipe_info">Dê isto ao seu &font_pet;mascote &font_end;para fazê-lo ganhar &font_cyan;experiência &font_end;instantâneamente.</string>
+    <string name=”item_info_heal_potion_recipe_info”>Tome isto para restaurar a sua &font_health;vida&font_end;.</string>
+    <string name=”item_info_mana_potion_recipe_info”>Beba isto para restaurar o seu &font_mana;mana&font_end;.</string>
+    <string name=”item_info_experience_potion_recipe_info”>Beba isto para ganhar &font_cyan;experiência &font_end;instantâneamente.</string>
+    <string name=”item_info_potion_pet_revive_recipe_info_recipe_info”>Dê isto o seu &font_pet;mascote &font_end;para &font_health;reanimá-lo &font_end;e &font_health;curá-lo&font_end;.</string>
 
-    <string name="arrow_item_info">The &font_wood;ammo &font_end;used to shoot a &font_wood;Bow&font_end;.</string>
-    <string name="bolt_item_info">The &font_wood;ammo &font_end;used to shoot a &font_wood;Crossbow&font_end;.</string>
-    <string name="stone_item_info">A material used to &font_cyan;Craft &font_end;other items. It also is the &font_wood;ammo &font_end;used to shoot with a &font_wood;Slingshot&font_end;.</string>
-    <string name="cartographer_stone_info">Allows to mark or add information to your islands from the island list.</string>
-    <string name="wooden_sign_info">Use this to create a &font_wood;Wooden Sign &font_end;anywhere and write some text on it. It will be shown in the map as an &font_wood;X&font_end;.</string>
+    <string name=”arrow_item_info”>Tipo de &font_wood;munição &font_end;usada para disparar com um &font_wood;Arco&font_end;.</string>
+    <string name=”bolt_item_info”>Tipo de &font_wood;munição &font_end;usada para disparar com uma &font_wood;Besta&font_end;.</string>
+    <string name=”stone_item_info”>Material utilizado para &font_cyan;Produzir &font_end;outros itens. Também é o tipo de &font_wood;munição &font_end;usada para disparar com uma &font_wood;Funda&font_end;.</string>
+    <string name=”cartographer_stone_info”>Permite marcar ou acrescentar informações às suas ilhas na lista de ilhas.</string>
+    <string name="wooden_sign_info">Use isto para criar uma &font_wood;Placa de Madeira &font_end;em qualquer lugar, com um texto escrito. Ela irá aparecer no mapa como um &font_wood;X&font_end;.</string>
 
-    <string name="button_blacksmith_ask_about_material_tiers">Ask about &font_wood;material &font_end;&font_cyan;tiers&font_end;</string>
-    <string name="blacksmith_material_tiers_message">Oh, you want to know about the material tiers? This is the order:&br;&br;&font_wood;Wood &font_end;-> &font_leather;Leather &font_end;-> &font_copper;Copper &font_end;-> &font_tin;Tin &font_end;-> &font_iron;Iron &font_end;-> &font_bronze;Bronze &font_end;-> &font_silver;Silver &font_end;-> &font_gold;Gold &font_end;-> &font_diamond;Diamond &font_end;-> &font_obsidian;Obsidian &font_end;&br;&br;There are a some other very rare materials but I don\'t think you will ever be able to find them…</string>
-    <string name="button_sort_by_can_craft">Sort (can craft)</string>
-    <string name="crafting_filter_can_craft">Can Craft</string>
+    <string name=”button_blacksmith_ask_about_material_tiers”>Perguntar sobre os &font_cyan;ranqueamento&font_end; dos &font_wood;materiais&font_end;</string>
+    <string name=”blacksmith_material_tiers_message”>Ah, você quer saber sobre o ranqueamento dos materiais? Esta é a ordem:&br;&br;&font_wood;Madeira &font_end;-> &font_leather;Couro &font_end;-> &font_copper;Cobre &font_end;-> &font_tin;Latão &font_end;-> &font_iron;Ferro &font_end;-> &font_bronze;Bronze &font_end;-> &font_silver;Prata &font_end;-> &font_gold;Ouro &font_end;-> &font_diamond;Diamante &font_end;-> &font_obsidian;Obsidiana &font_end;&br;&br;Existem alguns materiais muito raros, mas eu não acho que você poderá encontrá-los algum dia...</string>
+    <string name=”button_sort_by_can_craft”>Organizar (pode fabricar)</string>
+    <string name=”crafting_filter_can_craft”>Pode Fabricar</string>
 
-    <string name="ascending">Ascending</string>
-    <string name="button_continue">Continue</string>
-    <string name="button_wake_up">Wake Up</string>
-    <string name="ascended">Ascended!</string>
+    <string name=”ascending”>Ascendendo</string>
+    <string name=”button_continue”>Continuar</string>
+    <string name=”button_wake_up”>Acordar</string>
+    <string name=”ascended”>Ascendeu!</string>
 
     <string name="ascended_text">
-        You forget everything but start to feel more powerful…
-        &br;&br;* You obtain &font_cyan;%1$d &font_end;x &asterisk_ascend_color;Ascension &font_end;&font_red;Flame&font_end;
-        &br;* Your max. &font_health;health &font_end;is now &font_health;%2$d&font_end;
-        &br;* Your max. &font_mana;mana &font_end;is now &font_mana;%3$d&font_end;
-        &br;* Your max. &font_hunger;hunger &font_end;is now &font_hunger;%4$d&font_end;
+        Você se esquece de tudo, mas começa a sentir com mais poder…
+        &br;&br;* Você obtém &font_cyan;%1$d &font_end;x &font_red;Chamas&font_end da &asterisk_ascend_color;Ascenção&font_end;;
+        &br;* A sua &font_health;vida &font_end;máxima agora é &font_health;%2$d&font_end;
+        &br;* O seu &font_mana;mana &font_end;máximo agora é &font_mana;%3$d&font_end;
+        &br;* A sua &font_hunger;fome &font_end;máxima agora é &font_hunger;%4$d&font_end;
 
-        &br;* Your base &font_attack;attack &font_end;is now &font_attack;%5$d&font_end;
-        &br;* Your base &font_defense;defense &font_end;is now &font_defense;%6$d&font_end;
-        &br;* Your base &font_mana;intelligence &font_end;is now &font_mana;%7$d&font_end;
-        &br;* Your base &font_speed;speed &font_end;is now &font_speed;%8$d&font_end;
+        &br;* O seu &font_attack;ataque &font_end;básico agora é &font_attack;%5$d&font_end;
+        &br;* A sua &font_defense;defesa &font_end;básica agora é &font_defense;%6$d&font_end;
+        &br;* A sua &font_mana;inteligência &font_end;básica agora é &font_mana;%7$d&font_end;
+        &br;* A sua &font_speed;velocidade &font_end;básica agora é &font_speed;%8$d&font_end;
 
-        &br;* You start with &font_gold;%9$d gold &font_end;coins
-        &br;* You start with &font_cyan;%10$d &font_end;&font_cyan;Skill Points&font_end;
-        &br;&br;Good luck with your new adventures,&br;%11$s!
+        &br;* Você começa com &font_gold;%9$d &font_end moedas de &font_gold;ouro&font_end;
+        &br;* Você começa com &font_cyan;%10$d &font_end;&font_cyan;Pontos de Habilidade&font_end;
+        &br;&br;Boa sorte nas suas novas aventuras,&br;%11$s!
     </string>
 
-    <string name="monster_action_break_reality">Break Reality</string>
-    <string name="monster_action_discord_spam">Discord Spam</string>
+    <string name=”monster_action_break_reality”>Quebrar Realidade</string>
+    <string name=”monster_action_discord_spam”>Spam do Discord</string>
 
-    <string name="monster_action_translate_reality">Translate Reality</string>
-    <string name="monster_action_anime_transformation">Anime Transformation</string>
+    <string name=”monster_action_translate_reality”>Traduzir Realidade</string>
+    <string name=”monster_action_anime_transformation”>Transformação Anime</string>
 
-    <string name="monster_action_sleep_deprivation">Sleep Deprivation</string>
-    <string name="monster_action_infinity_test">Infinity Test</string>
+    <string name=”monster_action_sleep_deprivation”>Privação de Sono</string>
+    <string name=”monster_action_infinity_test”>Teste Infinito</string>
 
-    <string name="monster_action_infinity_donation">Infinity Donation</string>
-    <string name="monster_action_infinity_patreon">Infinity Patreon</string>
+    <string name=”monster_action_infinity_donation”>Doação Infinita</string>
+    <string name="monster_action_infinity_patreon”>Patreon Infinito</string>
 
-    <string name="monster_action_island_spam">Island Spam</string>
-    <string name="monster_action_infinite_islands">Infinite Islands</string>
+    <string name="monster_action_island_spam”>Spam de Ilhas</string>
+    <string name=”monster_action_infinite_islands”>Ilhas Infinitas</string>
 
-    <string name="monster_action_infinity_email">Infinity Email</string>
+    <string name=”monster_action_infinity_email”>E-mail Infinito</string>
 
-    <string name="monster_action_infinity_love">Infinity Love</string>
-    <string name="monster_action_infinity_patience">Infinity Patience</string>
-    <string name="monster_action_infinity_work">Infinity Work</string>
+    <string name=”monster_action_infinity_love”>Amor Infinito</string>
+    <string name=”monster_action_infinity_patience”>Paciência Infinita</string>
+    <string name=”monster_action_infinity_work”>Trabalho Infinito</string>
 
-    <string name="monster_action_discord_message">Discord Message</string>
-    <string name="monster_action_reddit_post">Reddit Post</string>
-    <string name="monster_action_song_composition">Song Composition</string>
-    <string name="monster_action_game_update">Game Update</string>
+    <string name=”monster_action_discord_message”>Mensagem no Discord</string>
+    <string name=”monster_action_reddit_post”>Postagem no Reddit</string>
+    <string name=”monster_action_song_composition”>Composição de Canção</string>
+    <string name=”monster_action_game_update”>Atualização do Jogo</string>
 
-    <string name="tool_chopping_axe_infinite">&font_infinity;Infinite &font_end;&font_wood;Chopping &font_end;Axe</string>
-    <string name="tool_pickaxe_infinite">&font_infinity;Infinite &font_end;&font_silver;Pickaxe&font_end;</string>
-    <string name="tool_fishing_rod_infinite">&font_infinity;Infinite &font_end;&font_cyan;Fishing &font_end;Rod</string>
-    <string name="tool_net_infinite">&font_infinity;Infinite &font_end;&font_insect;Net&font_end;</string>
-    <string name="tool_skinning_knife_infinite">&font_infinity;Infinite &font_end;&font_skin;Skinning &font_end;Knife</string>
-    <string name="tool_meat_cleaver_infinite">&font_infinity;Infinite &font_end;&font_blood;Meat &font_end;Cleaver</string>
+    <string name=”tool_chopping_axe_infinite”>Machado de &font_wood;Corte &font_end;&font_infinity;Infinito&font_end;</string>
+    <string name=”tool_pickaxe_infinite”>&font_silver;Picareta&font_end;&font_infinity;Infinita&font_end;</string>
+    <string name=”tool_fishing_rod_infinite”>Vara de &font_cyan;Pescar &font_end;&font_infinity;Infinita&font_end;</string>
+    <string name=”tool_net_infinite”>&font_insect;Rede &font_end;&font_infinity;Infinita&font_end;</string>
+    <string name=”tool_skinning_knife_infinite”>Faca de &font_skin;Esfolar &font_end;&font_infinity;Infinita&font_end;</string>
+    <string name=”tool_meat_cleaver_infinite”>Cutelo de &font_blood;Carne &font_end;&font_infinity;Infinito&font_end;</string>
 
-    <string name="tile_content_type_summoning_stone">&font_void;Summoning &font_end;&font_stone;Stone&font_end;</string>
+    <string name=”tile_content_type_summoning_stone”>&font_stone;Pedra &font_end;de&font_void;Invocação&font_end;</string>
 
-    <string name="item_jade_amulet">&font_jade;Jade &font_end;Amulet</string>
-    <string name="item_serpentine_amulet">&font_serpentine;Serpentine &font_end;Amulet</string>
-    <string name="item_sodalite_amulet">&font_sodalite;Sodalite &font_end;Amulet</string>
-    <string name="item_saphir_amulet">&font_saphir;Sapphire &font_end;Amulet</string>
-    <string name="item_aragonite_amulet">&font_aragonite;Aragonite &font_end;Amulet</string>
-    <string name="item_jasper_amulet">&font_jasper;Jasper &font_end;Amulet</string>
-    <string name="item_ruby_amulet">&font_ruby;Ruby &font_end;Amulet</string>
-    <string name="item_onyx_amulet">&font_onyx;Onyx &font_end;Amulet</string>
-    <string name="item_quartz_amulet">&font_quartz;Quartz &font_end;Amulet</string>
-    <string name="item_pearl_amulet">&font_pearl;Pearl &font_end;Amulet</string>
+    <string name=”item_jade_amulet”>Amuleto de &font_jade;Jade&font_end;</string>
+    <string name=”item_serpentine_amulet”>Amuleto de &font_serpentine;Serpentina&font_end;</string>
+    <string name=”item_sodalite_amulet”>Amuleto de &font_sodalite;Sodalita&font_end;</string>
+    <string name=”item_saphir_amulet”>Amuleto de &font_saphir;Safira&font_end;</string>
+    <string name=”item_aragonite_amulet”>Amuleto de &font_aragonite;Aragonita&font_end;</string>
+    <string name=”item_jasper_amulet”>Amuleto de &font_jasper;Jaspe&font_end;</string>
+    <string name=”item_ruby_amulet”>Amuleto de &font_ruby;Rubi&font_end;</string>
+    <string name=”item_onyx_amulet”>Amuleto de &font_onyx;Ônix&font_end;</string>
+    <string name=”item_quartz_amulet”>Amuleto de &font_quartz;Quartzo&font_end;</string>
+    <string name=”item_pearl_amulet”>Amuleto de &font_pearl;Pérola&font_end;</string>
 
-    <string name="item_emerald_ring">&font_emerald;Emerald &font_end;Ring</string>
-    <string name="item_jade_ring">&font_jade;Jade &font_end;Ring</string>
-    <string name="item_serpentine_ring">&font_serpentine;Serpentine &font_end;Ring</string>
-    <string name="item_sodalite_ring">&font_sodalite;Sodalite &font_end;Ring</string>
-    <string name="item_saphir_ring">&font_saphir;Sapphire &font_end;Ring</string>
-    <string name="item_aragonite_ring">&font_aragonite;Aragonite &font_end;Ring</string>
-    <string name="item_jasper_ring">&font_jasper;Jasper &font_end;Ring</string>
-    <string name="item_ruby_ring">&font_ruby;Ruby &font_end;Ring</string>
-    <string name="item_onyx_ring">&font_onyx;Onyx &font_end;Ring</string>
-    <string name="item_quartz_ring">&font_quartz;Quartz &font_end;Ring</string>
-    <string name="item_pearl_ring">&font_pearl;Pearl &font_end;Ring</string>
+    <string name=”item_emerald_ring”>Anel de &font_emerald;Esmeralda&font_end;</string>
+    <string name=”item_jade_ring”>Anel de &font_jade;Jade&font_end;</string>
+    <string name=”item_serpentine_ring”>Anel de &font_serpentine;Serpentina&font_end;</string>
+    <string name=”item_sodalite_ring”>Anel de &font_sodalite;Sodalita&font_end;</string>
+    <string name=”item_saphir_ring”>Anel de &font_saphir;Safira&font_end;</string>
+    <string name=”item_aragonite_ring”>Anel de &font_aragonite;Aragonita&font_end;</string>
+    <string name=”item_jasper_ring”>Anel de &font_jasper;Jaspe&font_end;</string>
+    <string name=”item_ruby_ring”>Anel de &font_ruby;Rubi&font_end;</string>
+    <string name=”item_onyx_ring”>Anel de &font_onyx;Ônix&font_end;</string>
+    <string name=”item_quartz_ring”>Anel de &font_quartz;Quartzo&font_end;</string>
+    <string name=”item_pearl_ring”>Anel de &font_pearl;Pérola&font_end;</string>
 
-    <string name="item_info_summoning_stone">Use this &font_void;Summoning &font_end;&font_stone;Stone &font_end;to summon a random &font_void;monster&font_end;!</string>
+    <string name="item_info_summoning_stone">Use esta &font_stone;Pedra &font_end;de &font_void;Invocação &font_end;para invocar um &font_void;monstro &font_end;aleatório!</string>
 
-    <string name="stats_extra_inc_attack">Increased &font_attack;Att&font_end;.: &font_attack;%d&font_end;</string>
-    <string name="stats_extra_inc_defense">Increased &font_defense;Def&font_end;.: &font_defense;%d&font_end;</string>
-    <string name="stats_extra_inc_speed">Increased &font_speed;Spd&font_end;.: &font_speed;%d&font_end;</string>
-    <string name="stats_extra_inc_intelligence">Increased &font_mana;Int&font_end;.: &font_mana;%d&font_end;</string>
+    <string name=”stats_extra_inc_attack”>&font_attack;Ata&font_end;. Aumentado: &font_attack;%d&font_end;</string>
+    <string name="stats_extra_inc_defense”>&font_defense;Def&font_end;. Aumentada: &font_defense;%d&font_end;</string>
+    <string name=”stats_extra_inc_speed”>&font_speed;Vel&font_end;. Aumentada: &font_speed;%d&font_end;</string>
+    <string name="stats_extra_inc_intelligence”>&font_mana;Int&font_end;. Aumentada: &font_mana;%d&font_end;</string>
 
-    <string name="increases_max_health">&br;&br;Increases the Maximum &font_health;Health&font_end;.</string>
-    <string name="increases_max_mana">&br;&br;Increases the Maximum &font_mana;Mana&font_end;.</string>
-    <string name="increases_max_hunger">&br;&br;Increases the Maximum &font_hunger;Hunger&font_end;.</string>
-    <string name="increases_base_attack">&br;&br;Increases the &font_cyan;base &font_end;&font_attack;attack&font_end;.</string>
-    <string name="increases_base_defense">&br;&br;Increases the &font_cyan;base &font_end;&font_defense;defense&font_end;.</string>
-    <string name="increases_base_speed">&br;&br;Increases the &font_cyan;base &font_end;&font_speed;speed&font_end;.</string>
-    <string name="increases_base_intelligence">&br;&br;Increases the &font_cyan;base &font_end;&font_mana;intelligence&font_end;.</string>
+    <string name=”increases_max_health”>&br;&br;Aumenta a &font_health;Vida&font_end; Máxima.</string>
+    <string name=”increases_max_mana”>&br;&br;Aumenta o &font_mana;Mana&font_end; Máximo.</string>
+    <string name=”increases_max_hunger”>&br;&br;Aumenta a &font_hunger;Fome&font_end; Máxima.</string>
+    <string name=”increases_base_attack”>&br;&br;Aumenta o &font_attack;ataque &font_end;&font_cyan;básico&font_end;.</string>
+    <string name=”increases_base_defense”>&br;&br;Aumenta a &font_defense;defesa &font_end;&font_cyan;básica&font_end;.</string>
+    <string name=”increases_base_speed”>&br;&br;Aumenta a &font_speed;velocidade &font_end;&font_cyan;básica&font_end;.</string>
+    <string name=”increases_base_intelligence”>&br;&br;Aumenta a &font_mana;inteligência &font_end;&font_cyan;básica&font_end;.</string>
 
-    <string name="summoning_monster">&font_void;Summoning &font_end;&font_red;monster&font_end;…</string>
-    <string name="summoned_monster">…&font_void;summoned &font_end;%1$s!</string>
-    <string name="cant_summon_if_theres_a_monster_nearby">Can\'t &font_void;summon &font_end;a &font_red;monster &font_end;if there\'s already a &font_red;monster &font_end;nearby…</string>
-    <string name="scrap_from_inventory_message">You have an &asterisk_ascend_color;Ascension &font_end;&font_red;Flame&font_end;, so you can &font_iron;scrap &font_end;your equipment pieces.&br;&br;Do you want to &font_iron;scrap &font_end;%1$s?</string>
+    <string name=”summoning_monster”>&font_void;Invocando &font_end;&font_red;monstro&font_end;…</string>
+    <string name=”summoned_monster”>…&font_void;invocou &font_end;%1$s!</string>
+    <string name=”cant_summon_if_theres_a_monster_nearby”>Não é possível &font_void;invocar &font_end;um &font_red;monstro &font_end;se já houver um &font_red;monstro &font_end;por perto…</string>
+    <string name=”scrap_from_inventory_message”>Você possui uma &font_red;Chama&font_end; da &asterisk_ascend_color;Ascenção&font_end;, por isso pode &font_iron;sucatear &font_end;o seu equipamento.&br;&br;Deseja &font_iron;sucatear &font_end;%1$s?</string>
 
-    <string name="button_scrap_inventory">S</string>
-    <string name="button_drop_reduced">D</string>
+    <string name=”button_scrap_inventory”>Suc</string>
+    <string name=”button_drop_reduced”>Lar</string>
 
-    <string name="tile_content_type_monster_trophy">&font_red;Monster &font_end;&font_gold;Trophy&font_end;</string>
-    <string name="monster_trophy_name">%1$s\'s &font_gold;Trophy&font_end; [&font_cyan;%2$d&font_end;]</string>
-    <string name="item_info_monster_trohpy_info">It\'s a %1$s\'s &font_gold;Trophy&font_end;, obtained for killing a level &font_cyan;%2$d &font_end;%1$s!</string>
+    <string name=”tile_content_type_monster_trophy”>&font_gold;Troféu&font_end; de &font_red;Monstro&font_end;</string>
+    <string name="monster_trophy_name”>&font_gold;Troféu&font_end; de %1$s [&font_cyan;%2$d&font_end;]</string>
+    <string name=”item_info_monster_trohpy_info”>É um &font_gold;Troféu&font_end; de %1$s, obtido ao matar um %1$s de nível &font_cyan;%2$d &font_end;!</string>
 
-    <string name="tile_content_type_infinity_portal">&font_infinity;Infinity &font_end;&font_portal;Portal&font_end;</string>
-    <string name="infinity_portal_info">Use this to create a &font_portal;Portal &font_end;to the beginning of this &font_infinity;Infinity &font_end;(if this even makes sense).</string>
-    <string name="infinity_portal_enter">Cross this &font_portal;Portal &font_end;to go to the beginning of this &font_infinity;Infinity &font_end;(if this even makes sense).</string>
-    <string name="cant_cross_this_portal">You can\'t enter this &font_infinity;Infinity &font_end;&font_portal;Portal&font_end;…</string>
+    <string name="tile_content_type_infinity_portal”>&font_portal;Portal &font_end;&font_infinity;Infinito&font_end;</string>
+    <string name="infinity_portal_info">Use isto para criar um &font_portal;Portal &font_end;para o princípio deste &font_infinity;Infinito &font_end;(se é que isso faz sentido).</string>
+    <string name=”infinity_portal_enter”>Atravesse esse &font_portal;Portal &font_end;para ir ao princípio deste &font_infinity;Infinito &font_end;(se é que isso faz sentido).</string>
+    <string name=”cant_cross_this_portal”>Você não pode entrar nesse &font_portal;Portal &font_end;&font_infinity;Infinito&font_end;…</string>
 
-    <string name="achievement_name_summoner">Summoner</string>
-    <string name="achievement_desc_summoner">Summon a Monster using a Summoning Stone</string>
+    <string name=”achievement_name_summoner”>Especialista em Invocação</string>
+    <string name=”achievement_desc_summoner”>Invoque um monstro usando uma Pedra de Invocação</string>
 
-    <string name="achievement_name_infinity">Infinity</string>
-    <string name="achievement_desc_infinity">Enter the Infinity for the first time.</string>
+    <string name=”achievement_name_infinity”>Infinitude</string>
+    <string name=”achievement_desc_infinity”>Entre no Infinito pela primeira vez.</string>
 
-    <string name="achievement_name_ascend">Ascend</string>
-    <string name="achievement_desc_ascend">Ascend for the first time.</string>
+    <string name=”achievement_name_ascend”>Ascenção</string>
+    <string name="achievement_desc_ascend”>Ascenda pela primeira vez.</string>
 
-    <string name="achievement_name_the_end">Last Boss</string>
-    <string name="achievement_name_game_breaker">Game Breaker</string>
-    <string name="achievement_name_desc_game_breaker">Kill all the Infinity special Bosses</string>
-    <string name="achievement_name_desc_the_end">Kill the last Boss!</string>
+    <string name=”achievement_name_the_end”>Último Chefe</string>
+    <string name=”achievement_name_game_breaker”>Destruindo o Jogo</string>
+    <string name=”achievement_name_desc_game_breaker”>Mate todos os chefes especiais do Infinito</string>
+    <string name=”achievement_name_desc_the_end”>Mate o último Chefe!</string>
 
-    <string name="title_the_summoner_male">%1$s, the &font_void;Summoner&font_end;</string>
-    <string name="title_the_summoner_female">%1$s, the &font_void;Summoner&font_end;</string>
-    <string name="title_the_summoner_no_gender">%1$s, the &font_void;Summoner&font_end;</string>
+    <string name="title_the_summoner_male">%1$s, o &font_void;Invocador&font_end;</string>
+    <string name="title_the_summoner_female">%1$s, a &font_void;Invocadora&font_end;</string>
+    <string name="title_the_summoner_no_gender">%1$s, &font_void;Invocadorx&font_end;</string>
 
-    <string name="title_the_game_breaker_male">%1$s, the &font_pink;Game Breaker&font_end;</string>
-    <string name="title_the_game_breaker_female">%1$s, the &font_pink;Game Breaker&font_end;</string>
-    <string name="title_the_game_breaker_no_gender">%1$s, the &font_pink;Game Breaker&font_end;</string>
+    <string name="title_the_game_breaker_male">%1$s, o &font_pink;Destruidor de Jogos&font_end;</string>
+    <string name="title_the_game_breaker_female">%1$s, a &font_pink;Destruidora de Jogos&font_end;</string>
+    <string name="title_the_game_breaker_no_gender">%1$s, &font_pink;Destruidorx de Jogos&font_end;</string>
 
-    <string name="title_the_ender_male">%1$s, the &font_legendary;Ender&font_end;</string>
-    <string name="title_the_ender_female">%1$s, the &font_legendary;Ender&font_end;</string>
-    <string name="title_the_ender_no_gender">%1$s, the &font_legendary;Ender&font_end;</string>
+    <string name="title_the_ender_male">%1$s, o &font_legendary;Finalizador&font_end;</string>
+    <string name="title_the_ender_female">%1$s, a &font_legendary;Finalizadora&font_end;</string>
+    <string name="title_the_ender_no_gender">%1$s, &font_legendary;Finalizadorx&font_end;</string>
 
-    <string name="settings_show_pet_in_combat">Show Pet in Combat</string>
-    <string name="settings_show_progress_bars">Show Progress Bars</string>
+    <string name=”settings_show_pet_in_combat”>Mostrar Mascote em Combate</string>
+    <string name=”settings_show_progress_bars”>Mostrar Barras de Progresso</string>
 
-    <string name="wise_have_in_void_island">Great, you are here! You should be careful… Creatures here are more dangerous… And there\'s a powerful being waiting for you…</string>
+    <string name=”wise_have_in_void_island”>Que ótimo! Você chegou! Você deve ser cuidadoso... As criaturas daqui são mais perigosas... E há um ser poderoso esperando por você...</string>
 
-    <string name="void_master_after_killing_text_3_new">Well well… You are wearing a complete set of the &font_void;Void&font_end;… Here, take this… You will know what to do with it… See you soon…</string>
-    <string name="settings_show_double_space_map">Double Space In Map</string>
+    <string name=”void_master_after_killing_text_3_new”>Vejam só… Você está usando um conjunto completo do &font_void;Vazio&font_end;… Aqui está. Você saberá o que fazer com isto… Até logo…</string>
+    <string name=”settings_show_double_space_map”>Espaço Duplo no Mapa</string>
 
-    <string name="young_child_extra_advice_1">Oh, ok… Well, since you seem kind of disoriented, let me give you my advice…&br;&br;I wouldn\'t engage into combat against stronger monsters than you, at least not until you feel you are ready.</string>
-    <string name="young_child_extra_advice_2">If I were you, I\'d buy some &font_cyan;Equipment &font_end;at an &font_bronze;Armory &font_end;or a powerful &font_mana;Spell &font_end;at a &font_mana;Magic &font_end;&font_gold;Shop &font_end;if you want to protect yourself better…&br;&br;And no, I don\'t collect commission for this! Even though my &italic;Uncle &italic_end;works at the &font_bronze;Armory &font_end;and my &italic;Grandma &italic_end;runs the &font_mana;Magic &font_end;&font_gold;Shop&font_end;…</string>
-    <string name="young_child_extra_advice_3">Ah! And you should eat when you are &font_hunger;hungry &font_end;or you will die faster than you think!&br;&br;You can &font_cyan;eat &font_end;&font_plant;food &font_end;from your &font_wood;Inventory &font_end;or eat at a &font_bar;Bar &font_end;or a &font_bar;Tavern&font_end;…</string>
+    <string name="young_child_extra_advice_1”>Ah, certo… Bem, já que você parece estar meio desorientado, permita-me dar-lhe um conselho…&br;&br;Eu não entraria em combate contra monstros mais fortes do que eu, pelo menos não até me sentir preparado para isso.</string>
+    <string name=”young_child_extra_advice_2”>Se eu fosse você, compraria alguns &font_cyan;Equipamentos &font_end;em uma &font_bronze;Loja de Armas &font_end;ou um &font_mana;Feitiço &font_end;poderoso em uma &font_gold;Loja &font_end;de &font_mana;Magia &font_end;caso queira se proteger melhor…&br;&br;E não, eu não ganho comissão por isso! Muito embora meu &italic;Tio &italic_end;trabalhe na &font_bronze;Loja de Armas &font_end;e minha &italic;Vó &italic_end;gerencie a &font_gold;Loja &font_end;de &font_mana;Magia&font_end;…</string>
+    <string name="young_child_extra_advice_3">Ah! E você deveria comer quando estiver com &font_hunger;fome&font_end;,senão morrerá mais rápido do que imagina!&br;&br;Você pode &font_cyan;comer &font_end;a &font_plant;comida &font_end;do seu &font_wood;Inventário &font_end;ou comer em um &font_bar;Bar &font_end;ou &font_bar;Taverna&font_end;…</string>
 
-    <string name="pyramid_was_cursed_and_closed">The &font_pyramid;Pyramid &font_end;was cursed and closed!</string>
-    <string name="pyramid_is_now_open">The &font_pyramid;Pyramid &font_end;is now open!</string>
-    <string name="pyramid_didnt_open">The &font_pyramid;Pyramid &font_end;didn\'t open…</string>
-    <string name="new_game_chicken_mode_selected">In &font_animal;Chicken Mode &font_end;you will have the following advantages:&br;&br;* &font_red;Monsters &font_end;won\'t block you from interacting with &font_cyan;NPCs&font_end;.&br;&br;* You will start with some extra &font_gold;Gold&font_end;.&br;&br;* Your starting base stats will be slightly better.&br;&br;* You will have extra &font_speed;Speed &font_end;when &font_cyan;fleeing &font_end;from &font_red;Monsters&font_end;.&br;&br;* \"&font_animal;Chicken Mode&font_end;\" will be shown in your &font_cyan;hero &font_end;stats screen!</string>
-    <string name="chicken_mode_checkbox">&font_animal;Chicken Mode&font_end;</string>
-    <string name="new_game_chicken_mode_not_selected">Enjoy the regular RAR II experience.</string>
-    <string name="chicken_mode_in_stats">&font_animal;Chicken Mode&font_end;</string>
-    <string name="the_chicken_smiles_at_you">The &font_animal;Chicken &font_end;smiles at you…</string>
-    <string name="achievement_name_chicken_feed_chicken">Chicken Feeds Chicken</string>
-    <string name="achievement_desc_chicken_feed_chicken">Feed a Chicken in Chicken Mode.</string>
-
-
-    <string name="no_permadeath_gold_penalty">&br;&br;&font_cyan;* &font_end;If you die, you will lose &font_cyan;50% &font_end;of the &font_gold;gold &font_end;you are carrying.</string>
-    <string name="pet_dead">(&font_red;&italic;Dead&italic_end;&font_end;)</string>
-    <string name="your_active_pet_is_not_dead">Your active &font_pet;Pet &font_end;is not dead…</string>
-
-    <string name="void_master_after_killing_text_3_new_chicken_mode">Well well… You are wearing a complete set of the &font_void;Void&font_end;… Here, take this…</string>
-
-    <string name="tile_content_type_rubber_chicken">&font_legendary;Rubber &font_end;&font_animal;Chicken&font_end;</string>
-
-    <string name="achievement_name_rubber_chicken">Rubber Chicken</string>
-    <string name="achievement_desc_rubber_chicken">Kill the Void Master while wearing a full Void Armor set in Chicken Mode.</string>
+    <string name="pyramid_was_cursed_and_closed”>A &font_pyramid;Pirâmide &font_end;estava amaldiçoada e fechada!</string>
+    <string name="pyramid_is_now_open”>A &font_pyramid;Pirâmide &font_end;está aberta agora!</string>
+    <string name="pyramid_didnt_open”>A &font_pyramid;Pirâmide &font_end;não abriu…</string>
+    <string name=”new_game_chicken_mode_selected”>No &font_animal;Modo Franguinho &font_end;você terá as seguintes vantagens:&br;&br;* Os &font_red;monstros &font_end;não irão impedi-lo de interagir com &font_cyan;NPCs&font_end;.&br;&br;* Você começará com algumas moedas de &font_gold;Ouro&font_end; extras.&br;&br;* A suas estatísticas básicas serão um pouco melhores.&br;&br;* Você terá &font_speed;Velocidade &font_end;extra quando estiver &font_cyan;fugindo &font_end;de &font_red;Monstros&font_end;.&br;&br;* O \”&font_animal;Modo Franguinho&font_end;\" será exibido na sua tela de estatísticas de &font_cyan;herói&font_end;!</string>
+    <string name=”chicken_mode_checkbox”>&font_animal;Modo Franguinho&font_end;</string>
+    <string name=”new_game_chicken_mode_not_selected”>Divirta-se com a experiência RAR II normal.</string>
+    <string name=”chicken_mode_in_stats”>&font_animal;Modo Franguinho&font_end;</string>
+    <string name="the_chicken_smiles_at_you”>O &font_animal;Franguinho &font_end;sorri para você…</string>
+    <string name=”achievement_name_chicken_feed_chicken”>Frango alimenta Frango</string>
+    <string name=”achievement_desc_chicken_feed_chicken”>Alimente um Frango no Modo Franguinho.</string>
 
 
-    <string name="dead_reason_by_cactus">You died picking up a &font_cactus;Cactus&font_end;!</string>
+    <string name="no_permadeath_gold_penalty">&br;&br;&font_cyan;* &font_end;Se morrer, você perderá &font_cyan;50% &font_end;do &font_gold;ouro &font_end;que estiver caregando.</string>
+    <string name=”pet_dead”>(&font_red;&italic;Inconsciente&italic_end;&font_end;)</string>
+    <string name=”your_active_pet_is_not_dead”>O seu &font_pet;Mascote &font_end;ativo não está morto…</string>
 
-    <string name="action_trader_action_description">&font_cyan;Sensing&font_end; &font_gold;Merchants&font_end;</string>
-    <string name="action_treasure_hunter_action_description">&font_cyan;Hunting&font_end; &font_chest;Treasures&font_end;</string>
+    <string name="void_master_after_killing_text_3_new_chicken_mode">Vejam só… Você está usando um conjunto completo do &font_void;Vazio&font_end;… Aqui está…</string>
 
-    <string name="action_contractor_action_description">&font_cyan;Sensing&font_end; &font_cyan;Quests&font_end;</string>
-    <string name="settings_show_coordinates_below">Show Coordinates Below</string>
+    <string name=”tile_content_type_rubber_chicken”>&font_animal;Frango&font_end; de &font_legendary;Borracha&font_end;</string>
 
-    <string name="skill_mana_eyes_description">Allows seeing the &font_red;Monster&font_end;\'s &font_mana;mana &font_end;in combat.</string>
-    <string name="skill_mana_eyes">&font_mana;Mana &font_end;&font_mushroom;Eyes&font_end;</string>
+    <string name=”achievement_name_rubber_chicken”>Frango de Borracha</string>
+    <string name=”achievement_desc_rubber_chicken”>Mate o Mestre do Vazio usando o conjunto completo da Armadura do Vazio no Modo Franguinho.</string>
 
-    <string name="saving_checkpoint">&font_primary_light;&italic;[SAVING CHECKPOINT…]&italic_end;&font_end;</string>
+
+    <string name=”dead_reason_by_cactus”>Você morreu recolhendo um &font_cactus;Cacto&font_end;!</string>
+
+    <string name=”action_trader_action_description”>&font_cyan;Sentindo&font_end; &font_gold;Mercadores&font_end;</string>
+    <string name=”action_treasure_hunter_action_description”>&font_cyan;Caçando&font_end; &font_chest;Tesouros&font_end;</string>
+
+    <string name=”action_contractor_action_description”>&font_cyan;Sentindo&font_end; &font_cyan;Missões&font_end;</string>
+    <string name=”settings_show_coordinates_below”>Mostrar Coordenadas Abaixo</string>
+
+    <string name=”skill_mana_eyes_description”>Permite ver o &font_mana;mana &font_end; do &font_red;Monstro&font_end; em combate.</string>
+    <string name=”skill_mana_eyes”>&font_mushroom;Olhos &font_end;de &font_mana;Mana&font_end;</string>
+
+    <string name=”saving_checkpoint”>&font_primary_light;&italic;[SALVANDO CHECKPOINT…]&italic_end;&font_end;</string>
 
 </resources>
