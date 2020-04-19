@@ -453,7 +453,7 @@
     <string name="material_silver_ore">Minerai d\'&font_silver;argent&font_end;</string>
     <string name="material_gold_ore">Minerai d\'&font_gold;or&font_end;</string>
     <string name="material_copper_bar">Lingot de &font_copper;cuivre&font_end;</string>
-    <string name="material_tin_bar">Lingot d\'&font_tin;Étain&font_end;</string>
+    <string name="material_tin_bar">Lingot d\'&font_tin;étain&font_end;</string>
     <string name="material_iron_bar">Lingot de &font_iron;fer&font_end;</string>
     <string name="material_bronze_bar">Lingot de &font_bronze;bronze&font_end;</string>
     <string name="material_silver_bar">Lingot d\'&font_silver;argent&font_end;</string>
@@ -466,7 +466,7 @@
     <string name="material_nut">&font_nut;Noix&font_end;</string>
     <string name="material_stone">&font_stone;Pierre&font_end;</string>
     <string name="material_copper_ore">Minerai de &font_copper;cuivre&font_end;</string>
-    <string name="material_tin_ore">Minerai d\'&font_tin;Étain&font_end;</string>
+    <string name="material_tin_ore">Minerai d\'&font_tin;étain&font_end;</string>
     <string name="material_iron">Minerai de &font_iron;fer&font_end;</string>
     <string name="material_wood">&font_wood;Bois&font_end;</string>
     <string name="material_coconut">Noix de &font_coconut;coco&font_end;</string>
@@ -512,7 +512,7 @@
     <string name="item_info_material">Un matériel de base utilisée lors de la &font_cyan;création &font_end;de divers objets.</string>
     <string name="item_info_merchants_mark">Ce symbole spécial pourrait avoir de la valeur pour quelque chose ou quelqu\'un…</string>
     <string name="item_info_tool_chopping_axe">Utilisez ça pour &font_wood;couper &font_end;
-        des &font_wood;arbres &font_end;et obtenir du &font_wood;Bois&font_end;.</string>
+        des &font_wood;arbres &font_end;et obtenir du &font_wood;bois&font_end;.</string>
     <string name="item_info_tool_pickaxe">Utilisez ça pour &font_stone;miner &font_end;et récupérer de la &font_stone;Pierre &font_end;et d\'autres minéraux.</string>
     <string name="item_info_tool_fishing_rod">Utilisez ça pour &font_cyan;pêcher&font_end;
         dans un &font_cyan;endroit &font_end; pour &font_cyan;pêcher&font_end;</string>
@@ -523,20 +523,20 @@
     <string name="item_info_monster_flesh_not_edible">Cuisinez ça dans un &font_attack;feu de camp &font_end;pour être capable de le manger.</string>
     <string name="item_info_nautical_chart">Utilisé par les marins pour naviguer vers un &font_cyan;type&font_end;
         d\'île bien précis.</string>
-    <string name="item_info_whetstone">Utilisez cet objet pour réparer n\'importe quel &font_cyan;Outil&font_end;.</string>
+    <string name="item_info_whetstone">Utilisez cet objet pour réparer n\'importe quel &font_cyan;outil&font_end;.</string>
     <string name="item_info_pet_collar">Dirigez-vous vers la liste des &font_pet;compagnons&font_end;
         pour pouvoir le mettre sur un &font_pet;compagnon &font_end;et être capable de le renommer !</string>
     <string name="item_info_magic_stone">Utilisez ceci pour échanger la force et l\'intelligence de n\'importe quel équipement.</string>
     <string name="item_info_island_soul">La mystérieuse âme de l\'île…</string>
     <string name="item_info_spellbook">Lisez ce livre pour maîtriser le sort qu\'il contient : %1$s.</string>
-    <string name="item_info_teleport_stone">Utilise cette pierre pour revenir au dernier &font_inn;Hotel &font_end;où tu t\'es dernièrement reposé sur cette &font_cyan;île&font_end;.</string>
-    <string name="item_info_piece_of_map">Un &font_cyan;Morceau De Carte&font_end;. Tu en aura besoin de plus si tu veux savoir ce qu\'elle contient…</string>
-    <string name="item_info_dark_orb">C\'est une &font_dark_orb;Orbe Sombre&font_end; plutôt mystérieuse.</string>
-    <string name="item_info_bomb_normal">Lance cette &font_bomb;Bombe&font_end; à ton ennemi lors d\'un affrontement.</string>
-    <string name="item_info_bomb_fire">Lance cette &font_bomb;Bombe &font_end;
-        de &font_attack;Feu &font_end;sur un monstre lors d\'un affrontement. Peut &font_attack;Brûler &font_end;l\'opposant.</string>
-    <string name="item_info_bomb_ice">Lance cette &font_bomb;Bombe &font_end; de &font_ice;Glace&font_end;
-        sur un monstre lors d\'un affrontement. Peut &font_ice;Geler &font_end;
+    <string name="item_info_teleport_stone">Utilise cette pierre pour revenir au dernier &font_inn;hôtel &font_end;où tu t\'es dernièrement reposé sur cette &font_cyan;île&font_end;.</string>
+    <string name="item_info_piece_of_map">Un &font_cyan;morceau de carte&font_end;. Tu en aura besoin de plus si tu veux savoir ce qu\'elle contient…</string>
+    <string name="item_info_dark_orb">C\'est une &font_dark_orb;orbe sombre&font_end; plutôt mystérieuse.</string>
+    <string name="item_info_bomb_normal">Lance cette &font_bomb;bombe&font_end; à ton ennemi lors d\'un affrontement.</string>
+    <string name="item_info_bomb_fire">Lance cette &font_bomb;bombe &font_end;
+        de &font_attack;feu &font_end;sur un monstre lors d\'un affrontement. Peut &font_attack;brûler &font_end;l\'opposant.</string>
+    <string name="item_info_bomb_ice">Lance cette &font_bomb;bombe &font_end; de &font_ice;glace&font_end;
+        sur un monstre lors d\'un affrontement. Peut &font_ice;geler &font_end;
         l\'opposant.</string>
     <string name="item_info_bomb_electric">Lance cette &font_bomb;Bombe&font_end; &font_electric;Électrique&font_end;
         sur un monstre lors d\'un affrontement. Peut &font_electric;Paralyser &font_end;
@@ -569,7 +569,7 @@
     <string name="tools_repaired_tool">%1$s réparé !</string>
     <string name="tool_chopping_axe">&font_wood;Hache&font_end;</string>
     <string name="tool_pickaxe">&font_silver;Pioche&font_end;</string>
-    <string name="tool_fishing_rod">Canne à &font_cyan;Pêche&font_end;</string>
+    <string name="tool_fishing_rod">Canne à &font_cyan;pêche&font_end;</string>
     <string name="tool_action_chopping">&font_wood;Couper l\'arbre&font_end;</string>
     <string name="tool_action_mining">&font_silver;Miner&font_end;</string>
     <string name="tool_action_fishing">&font_cyan;Pêcher&font_end;</string>
@@ -588,13 +588,13 @@
     <string name="text_armor_hands">Gants</string>
     <string name="text_armor_neck">Amulette</string>
     <string name="text_armor_finger">Anneau</string>
-    <string name="text_armor_magic_head">Casque &font_mana;Magique&font_end;</string>
-    <string name="text_armor_magic_body">Plastron &font_mana;Magique&font_end;</string>
-    <string name="text_armor_magic_legs">Jambière &font_mana;Magique&font_end;</string>
-    <string name="text_armor_magic_feet">Bottes &font_mana;Magique&font_end;</string>
-    <string name="text_armor_magic_hands">Gants &font_mana;Magique&font_end;</string>
-    <string name="text_armor_magic_neck">Amulette &font_mana;Magique&font_end;</string>
-    <string name="text_armor_magic_finger">Anneau &font_mana;Magique&font_end;</string>
+    <string name="text_armor_magic_head">Casque &font_mana;magique&font_end;</string>
+    <string name="text_armor_magic_body">Plastron &font_mana;magique&font_end;</string>
+    <string name="text_armor_magic_legs">Jambière &font_mana;magique&font_end;</string>
+    <string name="text_armor_magic_feet">Bottes &font_mana;magique&font_end;</string>
+    <string name="text_armor_magic_hands">Gants &font_mana;magique&font_end;</string>
+    <string name="text_armor_magic_neck">Amulette &font_mana;magique&font_end;</string>
+    <string name="text_armor_magic_finger">Anneau &font_mana;magique&font_end;</string>
 
     <string name="tile_type_deepocean">Océan profond</string>
     <string name="tile_type_ocean">Océan</string>
@@ -604,13 +604,13 @@
     <string name="tile_type_plain">Plaine</string>
     <string name="tile_type_forest">Forêt</string>
     <string name="tile_type_mountain">Montagne</string>
-    <string name="tile_type_icy_mountain">Montagne Glacée</string>
+    <string name="tile_type_icy_mountain">Montagne glacée</string>
     <string name="tile_type_cave">Cave</string>
-    <string name="tile_type_green_cave">Cave Verte</string>
+    <string name="tile_type_green_cave">Cave verte</string>
     <string name="tile_type_desert">Désert</string>
     <string name="tile_type_cloud">Nuage</string>
     <string name="tile_type_heaven">Paradis</string>
-    <string name="tile_type_silver_throne">Trône d\'Argent</string>
+    <string name="tile_type_silver_throne">Trône d\'argent</string>
     <string name="tile_type_swamp">Marais</string>
     <string name="tile_type_savanna">Savanne</string>
     <string name="tile_type_jungle">Jungle</string>
@@ -619,31 +619,31 @@
     <string name="tile_type_tundra">Toundra</string>
     <string name="tile_type_volcano">Volcan</string>
     <string name="tile_type_lava">Lave</string>
-    <string name="tile_type_deadland">Plaine Morte</string>
+    <string name="tile_type_deadland">Plaine morte</string>
     <string name="tile_type_hell_fortress">Forteresse des Enfers</string>
     <string name="tile_type_cemetery">Cimetière</string>
-    <string name="tile_type_dragon_nest">Le Repère du Dragon</string>
-    <string name="tile_type_white_lotus">Lotus Blanc</string>
-    <string name="tile_type_beast_nest">Le Repère de la Bête</string>
-    <string name="tile_type_ooze_nest">Le Repère de l\'Abomination</string>
-    <string name="tile_type_swarm_nest">Le Repère de l\'Essaim d\'insecte</string>
+    <string name="tile_type_dragon_nest">Le repère du Dragon</string>
+    <string name="tile_type_white_lotus">Lotus blanc</string>
+    <string name="tile_type_beast_nest">Le repère de la Bête</string>
+    <string name="tile_type_ooze_nest">Le repère de l\'Abomination</string>
+    <string name="tile_type_swarm_nest">Le repère de l\'Essaim d\'insectes</string>
     <string name="tile_type_hideout">Cachette</string>
     <string name="tile_type_factory">Usine</string>
-    <string name="tile_type_eye_of_the_storm">Oeil de la Tempête</string>
-    <string name="tile_type_giant_nest">Le Repère du Géant</string>
+    <string name="tile_type_eye_of_the_storm">Oeil de la tempête</string>
+    <string name="tile_type_giant_nest">Le repère du Géant</string>
     <string name="tile_type_crater">Cratère</string>
     <string name="tile_type_witch_hut">Cabane de la Sorcière</string>
     <string name="tile_type_tyrant_quarters">Les quartiers du Tyran</string>
     <string name="tile_type_oasis">Oasis</string>
     <string name="tile_type_pyramid">Pyramide</string>
     <string name="tile_type_frozen_cave">Cave gelée</string>
-    <string name="tile_type_city">Grande Ville</string>
+    <string name="tile_type_city">Grande ville</string>
     <string name="tile_type_town">Ville</string>
     <string name="tile_type_village">Village</string>
     <string name="tile_type_black_sand">Sable noir</string>
     <string name="tile_type_white_sand">Sable blanc</string>
-    <string name="tile_type_black_monolith">Monolithe Noir</string>
-    <string name="tile_type_white_monolith">Monolithe Blanc</string>
+    <string name="tile_type_black_monolith">Monolithe noir</string>
+    <string name="tile_type_white_monolith">Monolithe blanc</string>
     <string name="tile_type_hell">Enfer</string>
 
     <string name="islandtype_valley">Vallée</string>
@@ -666,179 +666,179 @@
     <string name="island_type_black_island">Île Noire</string>
     <string name="island_type_white_island">Île Blanche</string>
 
-    <string name="item_wood_sword">Épée en &font_wood;Bois&font_end;</string>
-    <string name="item_bone_sword">Épée en &font_bone;Os&font_end;</string>
-    <string name="item_copper_sword">Épée en &font_copper;Cuivre&font_end;</string>
-    <string name="item_tin_sword">Épée en &font_tin;Étain&font_end;</string>
-    <string name="item_iron_sword">Épée en &font_iron;Fer&font_end;</string>
-    <string name="item_bronze_sword">Épée en &font_bronze;Bronze&font_end;</string>
-    <string name="item_silver_sword">Épée en &font_silver;Argent&font_end;</string>
-    <string name="item_gold_sword">Épée en &font_gold;Or&font_end;</string>
+    <string name="item_wood_sword">Épée en &font_wood;bois&font_end;</string>
+    <string name="item_bone_sword">Épée en &font_bone;os&font_end;</string>
+    <string name="item_copper_sword">Épée en &font_copper;cuivre&font_end;</string>
+    <string name="item_tin_sword">Épée en &font_tin;étain&font_end;</string>
+    <string name="item_iron_sword">Épée en &font_iron;fer&font_end;</string>
+    <string name="item_bronze_sword">Épée en &font_bronze;bronze&font_end;</string>
+    <string name="item_silver_sword">Épée en &font_silver;argent&font_end;</string>
+    <string name="item_gold_sword">Épée en &font_gold;or&font_end;</string>
 
-    <string name="item_diamond_sword">Épée en &font_diamond;Diamant&font_end;</string>
-    <string name="item_obsidian_sword">Épée en &font_obsidian;Obsidienne&font_end;</string>
-    <string name="item_wood_dagger">Dague en &font_wood;Bois&font_end;</string>
-    <string name="item_bone_dagger">Dague en &font_bone;Os&font_end;</string>
-    <string name="item_copper_dagger">Dague en &font_copper;Cuivre&font_end;</string>
-    <string name="item_tin_dagger">Dague en &font_tin;Étain&font_end;</string>
-    <string name="item_iron_dagger">Dague en &font_iron;Fer&font_end;</string>
-    <string name="item_bronze_dagger">Dague en &font_bronze;Bronze&font_end;</string>
-    <string name="item_silver_dagger">Dague en &font_silver;Argent&font_end;</string>
-    <string name="item_gold_dagger">Dague en &font_gold;Or&font_end;</string>
+    <string name="item_diamond_sword">Épée en &font_diamond;diamant&font_end;</string>
+    <string name="item_obsidian_sword">Épée en &font_obsidian;obsidienne&font_end;</string>
+    <string name="item_wood_dagger">Dague en &font_wood;bois&font_end;</string>
+    <string name="item_bone_dagger">Dague en &font_bone;os&font_end;</string>
+    <string name="item_copper_dagger">Dague en &font_copper;cuivre&font_end;</string>
+    <string name="item_tin_dagger">Dague en &font_tin;étain&font_end;</string>
+    <string name="item_iron_dagger">Dague en &font_iron;fer&font_end;</string>
+    <string name="item_bronze_dagger">Dague en &font_bronze;bronze&font_end;</string>
+    <string name="item_silver_dagger">Dague en &font_silver;argent&font_end;</string>
+    <string name="item_gold_dagger">Dague en &font_gold;or&font_end;</string>
 
-    <string name="item_diamond_dagger">Dague en &font_diamond;Diamant&font_end;</string>
-    <string name="item_obsidian_dagger">Dague en &font_obsidian;Obsidienne&font_end;</string>
-    <string name="item_wood_spear">Lance en &font_wood;Bois&font_end;</string>
-    <string name="item_bone_spear">Lance en &font_bone;Os&font_end;</string>
-    <string name="item_copper_spear">Lance en &font_copper;Cuivre&font_end;</string>
-    <string name="item_tin_spear">Lance en &font_tin;Étain&font_end;</string>
-    <string name="item_iron_spear">Lance en &font_iron;Fer&font_end;</string>
-    <string name="item_bronze_spear">Lance en &font_bronze;Bronze&font_end;</string>
-    <string name="item_silver_spear">Lance en &font_silver;Argent&font_end;</string>
-    <string name="item_gold_spear">Lance en &font_gold;Or&font_end;</string>
+    <string name="item_diamond_dagger">Dague en &font_diamond;diamant&font_end;</string>
+    <string name="item_obsidian_dagger">Dague en &font_obsidian;obsidienne&font_end;</string>
+    <string name="item_wood_spear">Lance en &font_wood;bois&font_end;</string>
+    <string name="item_bone_spear">Lance en &font_bone;os&font_end;</string>
+    <string name="item_copper_spear">Lance en &font_copper;cuivre&font_end;</string>
+    <string name="item_tin_spear">Lance en &font_tin;étain&font_end;</string>
+    <string name="item_iron_spear">Lance en &font_iron;fer&font_end;</string>
+    <string name="item_bronze_spear">Lance en &font_bronze;bronze&font_end;</string>
+    <string name="item_silver_spear">Lance en &font_silver;argent&font_end;</string>
+    <string name="item_gold_spear">Lance en &font_gold;or&font_end;</string>
 
-    <string name="item_diamond_spear">Lance en &font_diamond;Diamant&font_end;</string>
-    <string name="item_obsidian_spear">Lance en &font_obsidian;Obsidienne&font_end;</string>
-    <string name="item_wood_axe">Hache en &font_wood;Bois&font_end;</string>
-    <string name="item_bone_axe">Hache en &font_bone;Os&font_end;</string>
-    <string name="item_copper_axe">Hache en &font_copper;Cuivre&font_end;</string>
-    <string name="item_tin_axe">Hache en &font_tin;Étain&font_end;</string>
-    <string name="item_iron_axe">Hache en &font_iron;Fer&font_end;</string>
-    <string name="item_bronze_axe">Hache en &font_bronze;Bronze&font_end;</string>
-    <string name="item_silver_axe">Hache en &font_silver;Argent&font_end;</string>
-    <string name="item_gold_axe">Hache en &font_gold;Or&font_end;</string>
+    <string name="item_diamond_spear">Lance en &font_diamond;diamant&font_end;</string>
+    <string name="item_obsidian_spear">Lance en &font_obsidian;obsidienne&font_end;</string>
+    <string name="item_wood_axe">Hache en &font_wood;bois&font_end;</string>
+    <string name="item_bone_axe">Hache en &font_bone;os&font_end;</string>
+    <string name="item_copper_axe">Hache en &font_copper;cuivre&font_end;</string>
+    <string name="item_tin_axe">Hache en &font_tin;étain&font_end;</string>
+    <string name="item_iron_axe">Hache en &font_iron;fer&font_end;</string>
+    <string name="item_bronze_axe">Hache en &font_bronze;bronze&font_end;</string>
+    <string name="item_silver_axe">Hache en &font_silver;argent&font_end;</string>
+    <string name="item_gold_axe">Hache en &font_gold;or&font_end;</string>
 
-    <string name="item_diamond_axe">Hache en &font_diamond;Diamant&font_end;</string>
-    <string name="item_obsidian_axe">Hache en &font_obsidian;Obsidienne&font_end;</string>
-    <string name="item_wood_mace">Masse en &font_wood;Bois&font_end;</string>
-    <string name="item_bone_mace">Masse en &font_bone;Os&font_end;</string>
-    <string name="item_copper_mace">Masse en &font_copper;Cuivre&font_end;</string>
-    <string name="item_tin_mace">Masse en &font_tin;Étain&font_end;</string>
-    <string name="item_iron_mace">Masse en &font_iron;Fer&font_end;</string>
-    <string name="item_bronze_mace">Masse en &font_bronze;Bronze&font_end;</string>
-    <string name="item_silver_mace">Masse en &font_silver;Argent&font_end;</string>
-    <string name="item_gold_mace">Masse en &font_gold;Or&font_end;</string>
-    <string name="item_diamond_mace">Masse en &font_diamond;Diamant&font_end;</string>
-    <string name="item_obsidian_mace">Masse en &font_obsidian;Obsidienne&font_end;</string>
+    <string name="item_diamond_axe">Hache en &font_diamond;diamant&font_end;</string>
+    <string name="item_obsidian_axe">Hache en &font_obsidian;obsidienne&font_end;</string>
+    <string name="item_wood_mace">Masse en &font_wood;bois&font_end;</string>
+    <string name="item_bone_mace">Masse en &font_bone;os&font_end;</string>
+    <string name="item_copper_mace">Masse en &font_copper;cuivre&font_end;</string>
+    <string name="item_tin_mace">Masse en &font_tin;étain&font_end;</string>
+    <string name="item_iron_mace">Masse en &font_iron;fer&font_end;</string>
+    <string name="item_bronze_mace">Masse en &font_bronze;bronze&font_end;</string>
+    <string name="item_silver_mace">Masse en &font_silver;argent&font_end;</string>
+    <string name="item_gold_mace">Masse en &font_gold;or&font_end;</string>
+    <string name="item_diamond_mace">Masse en &font_diamond;diamant&font_end;</string>
+    <string name="item_obsidian_mace">Masse en &font_obsidian;obsidienne&font_end;</string>
 
-    <string name="item_volcanic_sword">Épée &font_volcano;Volcanique&font_end;</string>
-    <string name="item_volcanic_mace">Mace &font_volcano;Volcanique&font_end;</string>
-    <string name="item_volcanic_axe">Hache &font_volcano;Volcanique&font_end;</string>
-    <string name="item_volcanic_spear">Lance &font_volcano;Volcanique&font_end;</string>
-    <string name="item_volcanic_dagger">Dague&font_volcano;Volcanique&font_end;</string>
+    <string name="item_volcanic_sword">Épée &font_volcano;volcanique&font_end;</string>
+    <string name="item_volcanic_mace">Mace &font_volcano;volcanique&font_end;</string>
+    <string name="item_volcanic_axe">Hache &font_volcano;volcanique&font_end;</string>
+    <string name="item_volcanic_spear">Lance &font_volcano;volcanique&font_end;</string>
+    <string name="item_volcanic_dagger">Dague&font_volcano;volcanique&font_end;</string>
 
-    <string name="item_icy_sword">Épée &font_icy;Gelée&font_end;</string>
-    <string name="item_icy_mace">Mace &font_icy;Gelée&font_end;</string>
-    <string name="item_icy_axe">Hache &font_icy;Gelée&font_end;</string>
-    <string name="item_icy_spear">Lance &font_icy;Gelée&font_end;</string>
-    <string name="item_icy_dagger">Dague &font_icy;Gelée&font_end;</string>
+    <string name="item_icy_sword">Épée &font_icy;gelée&font_end;</string>
+    <string name="item_icy_mace">Mace &font_icy;gelée&font_end;</string>
+    <string name="item_icy_axe">Hache &font_icy;gelée&font_end;</string>
+    <string name="item_icy_spear">Lance &font_icy;gelée&font_end;</string>
+    <string name="item_icy_dagger">Dague &font_icy;gelée&font_end;</string>
 
-    <string name="text_wood_shield">Bouclier en &font_wood;Bois&font_end;</string>
-    <string name="text_bone_shield">Bouclier en &font_bone;Os&font_end;</string>
-    <string name="text_copper_shield">Bouclier en &font_copper;Cuivre&font_end;</string>
-    <string name="text_tin_shield">Bouclier en &font_tin;Étain&font_end;</string>
-    <string name="text_iron_shield">Bouclier en &font_iron;Fer&font_end;</string>
-    <string name="text_bronze_shield">Bouclier en &font_bronze;Bronze&font_end;</string>
-    <string name="text_silver_shield">Bouclier en &font_silver;Argent&font_end;</string>
-    <string name="text_gold_shield">Bouclier en &font_gold;Or&font_end;</string>
-    <string name="text_diamond_shield">Bouclier en &font_diamond;Diamant&font_end;</string>
-    <string name="text_obsidian_shield">Bouclier en &font_obsidian;Obsidienne&font_end;</string>
-    <string name="text_wood_helmet">Casque en &font_wood;Bois&font_end;</string>
-    <string name="text_leather_helmet">Casque en &font_leather;Cuir&font_end;</string>
-    <string name="text_bone_helmet">Casque en &font_bone;Os&font_end;</string>
-    <string name="text_copper_helmet">Casqud en &font_copper;Cuivre&font_end;</string>
-    <string name="text_tin_helmet">Casque en &font_tin;Étain&font_end;</string>
-    <string name="text_iron_helmet">Casque en &font_iron;Fer&font_end;</string>
-    <string name="text_bronze_helmet">Casque en &font_bronze;Bronze&font_end;</string>
-    <string name="text_silver_helmet">Casque en &font_silver;Argent&font_end;</string>
-    <string name="text_gold_helmet">Casque en &font_gold;Or&font_end;</string>
-    <string name="text_diamond_helmet">Casque en &font_diamond;Diamant&font_end;</string>
-    <string name="text_obsidian_helmet">Casque en &font_obsidian;Obsidienne&font_end;</string>
-    <string name="text_wood_plate">Plastron en &font_wood;Bois&font_end;</string>
-    <string name="text_leather_plate">Plastron en &font_leather;Cuir&font_end;</string>
-    <string name="text_bone_plate">Plastron en &font_bone;Os&font_end;</string>
-    <string name="text_copper_plate">Plastron en &font_copper;Cuivre&font_end;</string>
-    <string name="text_tin_plate">Plastron en &font_tin;Étain&font_end;</string>
-    <string name="text_iron_plate">Plastron en &font_iron;Fer&font_end;</string>
-    <string name="text_bronze_plate">Plastron en &font_bronze;Bronze&font_end;</string>
-    <string name="text_silver_plate">Plastron en &font_silver;Argent&font_end;</string>
-    <string name="text_gold_plate">Plastron en &font_gold;Or&font_end;</string>
-    <string name="text_diamond_plate">Plastron en &font_diamond;Diamond&font_end;</string>
-    <string name="text_obsidian_plate">Plastron en &font_obsidian;Obsidienne&font_end;</string>
-    <string name="text_wood_pants">Jambière en &font_wood;Bois&font_end;</string>
-    <string name="text_leather_pants">Jambière en &font_leather;Cuir&font_end;</string>
-    <string name="text_bone_pants">Jambière en &font_bone;Os&font_end;</string>
-    <string name="text_copper_pants">Jambière en &font_copper;Cuivre&font_end;</string>
-    <string name="text_tin_pants">Jambière en &font_tin;Étain&font_end;</string>
-    <string name="text_iron_pants">Jambière en &font_iron;Fer&font_end;</string>
-    <string name="text_bronze_pants">Jambière en &font_bronze;Bronze&font_end;</string>
-    <string name="text_silver_pants">Jambière en &font_silver;Argent&font_end;</string>
-    <string name="text_gold_pants">Jambière en &font_gold;Or&font_end;</string>
-    <string name="text_diamond_pants">Jambière en &font_diamond;Diamant&font_end;</string>
-    <string name="text_obsidian_pants">Jambière en &font_obsidian;Obsidienne&font_end;</string>
-    <string name="text_wood_boots">Bottes en &font_wood;Bois&font_end;</string>
-    <string name="text_leather_boots">Bottes en &font_leather;Cuir&font_end;</string>
-    <string name="text_bone_boots">Bottes en &font_bone;Os&font_end;</string>
-    <string name="text_copper_boots">Bottes en &font_copper;Cuivre&font_end;</string>
-    <string name="text_tin_boots">Bottes en &font_tin;Étain&font_end;</string>
-    <string name="text_iron_boots">Bottes en &font_iron;Fer&font_end;</string>
-    <string name="text_bronze_boots">Bottes en &font_bronze;Bronze&font_end;</string>
-    <string name="text_silver_boots">Bottes en &font_silver;Argent&font_end;</string>
-    <string name="text_gold_boots">Bottes en &font_gold;Or&font_end;</string>
-    <string name="text_diamond_boots">Bottes en &font_diamond;Diamant&font_end;</string>
-    <string name="text_obsidian_boots">Bottes en &font_obsidian;Obsidienne&font_end;</string>
-    <string name="text_wood_gloves">Gantelets en &font_wood;Bois&font_end;</string>
-    <string name="text_leather_gloves">Gantelets en &font_leather;Cuir&font_end;</string>
-    <string name="text_bone_gloves">Gantelets en &font_bone;Os&font_end;</string>
-    <string name="text_copper_gloves">Gantelets en &font_copper;Cuivre&font_end;</string>
-    <string name="text_tin_gloves">Gantelets en &font_tin;Étain&font_end;</string>
-    <string name="text_iron_gloves">Gantelets en &font_iron;Fer&font_end;</string>
-    <string name="text_bronze_gloves">Gantelets en &font_bronze;Bronze&font_end;</string>
-    <string name="text_silver_gloves">Gantelets en &font_silver;Argent&font_end;</string>
-    <string name="text_gold_gloves">Gantelets en &font_gold;Or&font_end;</string>
-    <string name="text_diamond_gloves">Gantelets en &font_diamond;Diamant&font_end;</string>
-    <string name="text_obsidian_gloves">Gantelets en &font_obsidian;Obsidienne&font_end;</string>
-    <string name="text_wood_amulet">Amulette en &font_wood;Bois&font_end;</string>
-    <string name="text_leather_amulet">Amulette en &font_leather;Cuir&font_end;</string>
-    <string name="text_bone_amulet">Amulette en &font_bone;Os&font_end;</string>
-    <string name="text_copper_amulet">Amulette en &font_copper;Cuivre&font_end;</string>
-    <string name="text_tin_amulet">Amulette en &font_tin;Étain&font_end;</string>
-    <string name="text_iron_amulet">Amulette en &font_iron;Fer&font_end;</string>
-    <string name="text_bronze_amulet">Amulette en &font_bronze;Bronze&font_end;</string>
-    <string name="text_silver_amulet">Amulette en &font_silver;Argent&font_end;</string>
-    <string name="text_gold_amulet">Amulette en &font_gold;Or&font_end;</string>
-    <string name="text_diamond_amulet">Amulette en &font_diamond;Diamant&font_end;</string>
-    <string name="text_obsidian_amulet">Amulette en &font_obsidian;Obsidienne&font_end;</string>
-    <string name="text_wood_ring">Anneau en &font_wood;Bois&font_end;</string>
-    <string name="text_leather_ring">Anneau en &font_leather;Cuir&font_end;</string>
-    <string name="text_bone_ring">Anneau en &font_bone;Os&font_end;</string>
-    <string name="text_copper_ring">Anneau en &font_copper;Cuivre&font_end;</string>
-    <string name="text_tin_ring">Anneau en &font_tin;Étain&font_end;</string>
-    <string name="text_iron_ring">Anneau en &font_iron;Fer&font_end;</string>
-    <string name="text_bronze_ring">Anneau en &font_bronze;Bronze&font_end;</string>
-    <string name="text_silver_ring">Anneau en &font_silver;Argent&font_end;</string>
-    <string name="text_gold_ring">Anneau en &font_gold;Or&font_end;</string>
-    <string name="text_diamond_ring">Anneau en &font_diamond;Diamant&font_end;</string>
-    <string name="text_obsidian_ring">Anneau en &font_obsidian;Obsidienne&font_end;</string>
+    <string name="text_wood_shield">Bouclier en &font_wood;bois&font_end;</string>
+    <string name="text_bone_shield">Bouclier en &font_bone;os&font_end;</string>
+    <string name="text_copper_shield">Bouclier en &font_copper;cuivre&font_end;</string>
+    <string name="text_tin_shield">Bouclier en &font_tin;étain&font_end;</string>
+    <string name="text_iron_shield">Bouclier en &font_iron;fer&font_end;</string>
+    <string name="text_bronze_shield">Bouclier en &font_bronze;bronze&font_end;</string>
+    <string name="text_silver_shield">Bouclier en &font_silver;argent&font_end;</string>
+    <string name="text_gold_shield">Bouclier en &font_gold;or&font_end;</string>
+    <string name="text_diamond_shield">Bouclier en &font_diamond;diamant&font_end;</string>
+    <string name="text_obsidian_shield">Bouclier en &font_obsidian;obsidienne&font_end;</string>
+    <string name="text_wood_helmet">Casque en &font_wood;bois&font_end;</string>
+    <string name="text_leather_helmet">Casque en &font_leather;cuir&font_end;</string>
+    <string name="text_bone_helmet">Casque en &font_bone;os&font_end;</string>
+    <string name="text_copper_helmet">Casqud en &font_copper;cuivre&font_end;</string>
+    <string name="text_tin_helmet">Casque en &font_tin;étain&font_end;</string>
+    <string name="text_iron_helmet">Casque en &font_iron;fer&font_end;</string>
+    <string name="text_bronze_helmet">Casque en &font_bronze;bronze&font_end;</string>
+    <string name="text_silver_helmet">Casque en &font_silver;argent&font_end;</string>
+    <string name="text_gold_helmet">Casque en &font_gold;or&font_end;</string>
+    <string name="text_diamond_helmet">Casque en &font_diamond;diamant&font_end;</string>
+    <string name="text_obsidian_helmet">Casque en &font_obsidian;obsidienne&font_end;</string>
+    <string name="text_wood_plate">Plastron en &font_wood;bois&font_end;</string>
+    <string name="text_leather_plate">Plastron en &font_leather;cuir&font_end;</string>
+    <string name="text_bone_plate">Plastron en &font_bone;os&font_end;</string>
+    <string name="text_copper_plate">Plastron en &font_copper;cuivre&font_end;</string>
+    <string name="text_tin_plate">Plastron en &font_tin;étain&font_end;</string>
+    <string name="text_iron_plate">Plastron en &font_iron;fer&font_end;</string>
+    <string name="text_bronze_plate">Plastron en &font_bronze;bronze&font_end;</string>
+    <string name="text_silver_plate">Plastron en &font_silver;argent&font_end;</string>
+    <string name="text_gold_plate">Plastron en &font_gold;or&font_end;</string>
+    <string name="text_diamond_plate">Plastron en &font_diamond;diamond&font_end;</string>
+    <string name="text_obsidian_plate">Plastron en &font_obsidian;obsidienne&font_end;</string>
+    <string name="text_wood_pants">Jambière en &font_wood;bois&font_end;</string>
+    <string name="text_leather_pants">Jambière en &font_leather;cuir&font_end;</string>
+    <string name="text_bone_pants">Jambière en &font_bone;os&font_end;</string>
+    <string name="text_copper_pants">Jambière en &font_copper;cuivre&font_end;</string>
+    <string name="text_tin_pants">Jambière en &font_tin;étain&font_end;</string>
+    <string name="text_iron_pants">Jambière en &font_iron;fer&font_end;</string>
+    <string name="text_bronze_pants">Jambière en &font_bronze;bronze&font_end;</string>
+    <string name="text_silver_pants">Jambière en &font_silver;argent&font_end;</string>
+    <string name="text_gold_pants">Jambière en &font_gold;or&font_end;</string>
+    <string name="text_diamond_pants">Jambière en &font_diamond;diamant&font_end;</string>
+    <string name="text_obsidian_pants">Jambière en &font_obsidian;obsidienne&font_end;</string>
+    <string name="text_wood_boots">Bottes en &font_wood;bois&font_end;</string>
+    <string name="text_leather_boots">Bottes en &font_leather;cuir&font_end;</string>
+    <string name="text_bone_boots">Bottes en &font_bone;os&font_end;</string>
+    <string name="text_copper_boots">Bottes en &font_copper;cuivre&font_end;</string>
+    <string name="text_tin_boots">Bottes en &font_tin;étain&font_end;</string>
+    <string name="text_iron_boots">Bottes en &font_iron;fer&font_end;</string>
+    <string name="text_bronze_boots">Bottes en &font_bronze;bronze&font_end;</string>
+    <string name="text_silver_boots">Bottes en &font_silver;argent&font_end;</string>
+    <string name="text_gold_boots">Bottes en &font_gold;or&font_end;</string>
+    <string name="text_diamond_boots">Bottes en &font_diamond;diamant&font_end;</string>
+    <string name="text_obsidian_boots">Bottes en &font_obsidian;obsidienne&font_end;</string>
+    <string name="text_wood_gloves">Gantelets en &font_wood;bois&font_end;</string>
+    <string name="text_leather_gloves">Gantelets en &font_leather;cuir&font_end;</string>
+    <string name="text_bone_gloves">Gantelets en &font_bone;os&font_end;</string>
+    <string name="text_copper_gloves">Gantelets en &font_copper;cuivre&font_end;</string>
+    <string name="text_tin_gloves">Gantelets en &font_tin;étain&font_end;</string>
+    <string name="text_iron_gloves">Gantelets en &font_iron;fer&font_end;</string>
+    <string name="text_bronze_gloves">Gantelets en &font_bronze;bronze&font_end;</string>
+    <string name="text_silver_gloves">Gantelets en &font_silver;argent&font_end;</string>
+    <string name="text_gold_gloves">Gantelets en &font_gold;or&font_end;</string>
+    <string name="text_diamond_gloves">Gantelets en &font_diamond;diamant&font_end;</string>
+    <string name="text_obsidian_gloves">Gantelets en &font_obsidian;obsidienne&font_end;</string>
+    <string name="text_wood_amulet">Amulette en &font_wood;bois&font_end;</string>
+    <string name="text_leather_amulet">Amulette en &font_leather;cuir&font_end;</string>
+    <string name="text_bone_amulet">Amulette en &font_bone;os&font_end;</string>
+    <string name="text_copper_amulet">Amulette en &font_copper;cuivre&font_end;</string>
+    <string name="text_tin_amulet">Amulette en &font_tin;étain&font_end;</string>
+    <string name="text_iron_amulet">Amulette en &font_iron;fer&font_end;</string>
+    <string name="text_bronze_amulet">Amulette en &font_bronze;bronze&font_end;</string>
+    <string name="text_silver_amulet">Amulette en &font_silver;argent&font_end;</string>
+    <string name="text_gold_amulet">Amulette en &font_gold;or&font_end;</string>
+    <string name="text_diamond_amulet">Amulette en &font_diamond;diamant&font_end;</string>
+    <string name="text_obsidian_amulet">Amulette en &font_obsidian;obsidienne&font_end;</string>
+    <string name="text_wood_ring">Anneau en &font_wood;bois&font_end;</string>
+    <string name="text_leather_ring">Anneau en &font_leather;cuir&font_end;</string>
+    <string name="text_bone_ring">Anneau en &font_bone;os&font_end;</string>
+    <string name="text_copper_ring">Anneau en &font_copper;cuivre&font_end;</string>
+    <string name="text_tin_ring">Anneau en &font_tin;étain&font_end;</string>
+    <string name="text_iron_ring">Anneau en &font_iron;fer&font_end;</string>
+    <string name="text_bronze_ring">Anneau en &font_bronze;bronze&font_end;</string>
+    <string name="text_silver_ring">Anneau en &font_silver;argent&font_end;</string>
+    <string name="text_gold_ring">Anneau en &font_gold;or&font_end;</string>
+    <string name="text_diamond_ring">Anneau en &font_diamond;diamant&font_end;</string>
+    <string name="text_obsidian_ring">Anneau en &font_obsidian;obsidienne&font_end;</string>
 
     <string name="bomb_normal">&font_bomb;Bombe&font_end;</string>
-    <string name="bomb_fire">&font_bomb;Bombe&font_end; de &font_attack;Feu&font_end;</string>
-    <string name="bomb_ice">&font_bomb;Bombe&font_end; de &font_ice;Glace&font_end;</string>
-    <string name="bomb_electric">&font_bomb;Bombe&font_end; &font_electric;Électrique&font_end;</string>
+    <string name="bomb_fire">&font_bomb;Bombe&font_end; de &font_attack;feu&font_end;</string>
+    <string name="bomb_ice">&font_bomb;Bombe&font_end; de &font_ice;glace&font_end;</string>
+    <string name="bomb_electric">&font_bomb;Bombe&font_end; &font_electric;électrique&font_end;</string>
     <string name="bomb_you_throw_the_bomb_to">Tu as balancé une %1$s sur %2$s ! %3$s reçoit &font_red;%4$d &font_end;de dégâts !</string>
 
-    <string name="food_green_salad">Salade &font_plant;Verte&font_end;</string>
-    <string name="food_eye_soup">Soupe d\'&font_swamp;Yeux&font_end;</string>
-    <string name="food_mushroom_stew">Soupe de &font_mushroom;Champignon&font_end;</string>
-    <string name="food_cactus_salad">Salade de &font_cactus;Cactus&font_end;</string>
-    <string name="food_coconut_soda">Boisson à la &font_coconut;Noix de coco&font_end;</string>
-    <string name="food_fish_salad">Salade de &font_cyan;Poisson&font_end;</string>
+    <string name="food_green_salad">Salade &font_plant;verte&font_end;</string>
+    <string name="food_eye_soup">Soupe d\'&font_swamp;yeux&font_end;</string>
+    <string name="food_mushroom_stew">Soupe de &font_mushroom;champignons&font_end;</string>
+    <string name="food_cactus_salad">Salade de &font_cactus;cactus&font_end;</string>
+    <string name="food_coconut_soda">Boisson à la &font_coconut;noix de coco&font_end;</string>
+    <string name="food_fish_salad">Salade de &font_cyan;poissons&font_end;</string>
     <string name="food_desert_fish">&font_cyan;Poisson&font_end;
-        du &font_desert;Désert&font_end;</string>
-    <string name="food_marrow">e &font_bone;Courge&font_end;</string>
+        du &font_desert;désert&font_end;</string>
+    <string name="food_marrow">&font_bone;Courge&font_end;</string>
     <string name="food_meat_stick">&font_copper;Viande&font_end;
-        sur un &font_wood;Bâton&font_end;</string>
-    <string name="food_vegetable_stick">&font_plant;Végétaux&font_end; accrochés à un &font_wood;Bâton&font_end;</string>
+        en &font_wood;brochette&font_end;</string>
+    <string name="food_vegetable_stick">&font_plant;Végétaux &font_end;en &font_wood;brochette&font_end;</string>
     <string name="food_milk">Lait</string>
     <string name="food_cereal">Céréale</string>
     <string name="food_fruit">Fruit</string>
@@ -849,11 +849,11 @@
     <string name="food_onion">Onion</string>
     <string name="food_cucumber">Concombre</string>
     <string name="text_level_up_increasal">
-        Point de &font_health;Vie&font_end; à &font_health;%1$d&font_end;&br;
-        Point de &font_mana;Mana&font_end; à &font_mana;%2$d&font_end;&br; Point d\'&font_attack;Attaque&font_end;
-        à &font_attack;%3$d&font_end;&br; Point de &font_defense;Défense&font_end;
-        à &font_defense;%4$d&font_end;&br; Point de &font_speed;Vitesse&font_end; à &font_speed;%5$d&font_end;&br;
-        Point d\'&font_mana;Intelligence&font_end; à &font_mana;%6$d&font_end;&br;
+        Point de &font_health;vie&font_end; à &font_health;%1$d&font_end;&br;
+        Point de &font_mana;mana&font_end; à &font_mana;%2$d&font_end;&br; Point d\'&font_attack;attaque&font_end;
+        à &font_attack;%3$d&font_end;&br; Point de &font_defense;défense&font_end;
+        à &font_defense;%4$d&font_end;&br; Point de &font_speed;vitesse&font_end; à &font_speed;%5$d&font_end;&br;
+        Point d\'&font_mana;intelligence&font_end; à &font_mana;%6$d&font_end;&br;
     </string>
 
     <string name="level_up_inventory_increase">&br;Ta &font_gold;Capacité de stockage &font_end;est à &font_gold;%1$d&font_end;</string>
@@ -872,7 +872,7 @@
     <string name="combat_player_skill_attacks_first">Tu attaques le premier !</string>
     <string name="combat_dont_know_any_skill">Tu ne connais aucunes &font_skill_attack;Compétences&font_end;
         !</string>
-    <string name="combat_dont_know_any_spell">Aucun &font_mana;Sort&font_end;
+    <string name="combat_dont_know_any_spell">Aucun &font_mana;sort&font_end;
         n\'est maîtrisé !</string>
     <string name="combat_cant_cast_skill">Tu n\'as pas assez de ressources pour faire ceci !</string>
     <string name="combat_cant_cast_spell">Tu n\'as pas assez de ressource pour lancer ce sort !</string>
@@ -2713,14 +2713,14 @@
     <string name="skill_life_mastery_description">Augmente ta maîtrise de la &font_health;vie &font_end;en jetant des sorts de type &font_health;vie&font_end;.&br;&br;Monter de niveau dans cette maîtrise te permettra d\'apprendre de nouveaux sorts de ce type de magie en lisant le livre de &font_mana;sortilèges &font_end;correspondant.&br;&br;Chaque niveau diminue le coût de &font_mana;mana &font_end;d\'un petit pourcentage.</string>
     <string name="skill_monster_mastery_description">Augmente ta maîtrise des &font_pet;monstres &font_end;en jetant des sorts de type &font_pet;monstre&font_end;.&br;&br;Monter de niveau dans cette maîtrise te permettra d\'apprendre de nouveaux sorts de ce type de magie en lisant le livre de &font_mana;sortilèges &font_end;correspondant.&br;&br;Chaque niveau diminue le coût de &font_mana;mana &font_end;d\'un petit pourcentage.</string>
 
-    <string name="skill_fire_mastery">&font_red;Feu &font_end;Mastery</string>
-    <string name="skill_water_mastery">&font_water;Eau &font_end;Mastery</string>
-    <string name="skill_ice_mastery">&font_ice;Glace &font_end;Mastery</string>
-    <string name="skill_air_mastery">&font_spell_wind;Air &font_end;Mastery</string>
-    <string name="skill_electric_mastery">&font_electric;Électricité &font_end;Mastery</string>
-    <string name="skill_earth_mastery">&font_wood;Terre &font_end;Mastery</string>
-    <string name="skill_life_mastery">&font_health;Vie &font_end;Mastery</string>
-    <string name="skill_monster_mastery">&font_pet;Monstre &font_end;Mastery</string>
+    <string name="skill_fire_mastery">Maîtrise du &font_red;feu&font_end;</string>
+    <string name="skill_water_mastery">Maîtrise de l\'&font_water;eau&font_end;</string>
+    <string name="skill_ice_mastery">Maîtrise de la &font_ice;glace&font_end;</string>
+    <string name="skill_air_mastery">Maîtrise de l\'&font_spell_wind;air&font_end;</string>
+    <string name="skill_electric_mastery">Maîtrise de l\'&font_electric;électricité &font_end;</string>
+    <string name="skill_earth_mastery">Maîtrise de la &font_wood;terre&font_end;</string>
+    <string name="skill_life_mastery">Maîtrise de la &font_health;vie &font_end;</string>
+    <string name="skill_monster_mastery">Maîtrise des &font_pet;monstres&font_end;</string>
 
     <string name="spell_book_need_skill_level">&italic;Ton %1$s n\'est pas assez élevé pour apprendre ce &font_mana;sort&font_end;&italic_end;</string>
 
@@ -2763,7 +2763,7 @@
     <string name="void_master_after_killing_text_2">Encore toi… ? Pour dire vrai… Je suis surpris que tu tienne le coup face à mes monstres du &font_void;néant &font_end;éparpillés dans le monde… On se reverra…</string>
     <string name="void_master_after_killing_text_3">Bien, bien… Je vois que tu portes un set complet du &font_void;néant&font_end;… Pour l'instant, je ne peux rien t'offrir d'autre… Mais reviens une autre fois et je te donnerais quelque chose dont tu as besoin…</string>
 
-    <string name="your_ship_appears_magically">Votre &font_wood;navire &font_end;apparait comme par magie…</string>
+    <string name="your_ship_appears_magically">Votre &font_wood;navire &font_end;apparaît comme par magie…</string>
 
     <string name="void_monster_prefix">&font_void;Vide&font_end;</string>
 
@@ -2786,13 +2786,13 @@
     <string name="entering_infinity_door">Vous pénétrez la &font_gold;porte &font_end;de l\'&font_infinity;infini&font_end;</string>
     <string name="infinity_door_opened">Vous ouvrez la &font_gold;porte &font_end;de l\'&font_infinity;infini&font_end; !</string>
 
-    <string name="infinity_door_closed_message">It\'s a locked door, there\'s nothing around it… looks like it needs some sort of &font_gold;Key &font_end;to open it…</string>
+    <string name="infinity_door_closed_message">C'est une porte fermée… Il semblerait qu'une sorte de &font_gold;clé &font_end;soit nécessaire pour l\'ouvrir…</string>
 
-    <string name="achievements_clear_title">Are you sure?</string>
-    <string name="collections_clear_title">Are you sure?</string>
-    <string name="collections_cleared">Collections cleared!</string>
-    <string name="cemetery_cleared">Cemetery cleared!</string>
-    <string name="achievements_cleared">Achievements cleared!</string>
+    <string name="achievements_clear_title">Êtes-vous sûr ?</string>
+    <string name="collections_clear_title">Êtes-vous sûr ?</string>
+    <string name="collections_cleared">Collections effacées !</string>
+    <string name="cemetery_cleared">Cimetière vidé !</string>
+    <string name="achievements_cleared">Succès éffacés !</string>
 
     <string name="button_unfold_output_text">Montrer bouton texte de sortie</string>
     <string name="settings_map_controls">Montrer boutons minimap</string>
@@ -2801,20 +2801,20 @@
     <string name="forget_crafting_recipe_message">Voulez-vous oublier comment fabriquer %1$s ?</string>
 
     <string name="crafting_recipe_migration_alert_title">Recettes de fabrication</string>
-    <string name="crafting_recipe_migration_alert_message">The &font_red;Evil Forces &font_end;have stolen your crafting recipes knowledge, but the &font_wise;Wise &font_end;has taught you all the recipes you could know…&br;&br;The &font_asterisk_creator;Creator &font_end;hopes you use them wisely!</string>
-    <string name="crafting_recipe_legacy">[Legacy]</string>
-    <string name="crafting_recipe_legacy_cant_learn">&italic;You can\'t learn a Legacy Recipe&italic_end;</string>
+    <string name="crafting_recipe_migration_alert_message">Les &font_red;forces du mal &font_end;ont volé toutes vos connaissances en recettes de fabrication, mais le &font_wise;Sage &font_end;vous a enseigné toutes les recettes possibles… &br;&br;Le &font_asterisk_creator;Créateur &font_end;espère que vous les utiliserez judicieusement !</string>
+    <string name="crafting_recipe_legacy">[Héritage]</string>
+    <string name="crafting_recipe_legacy_cant_learn">&italic;Vous ne pouvez pas apprendre de recettes Héritage&italic_end;</string>
 
     <string name="skill_pet_collector">&font_pet;Collectionneur d\'animaux&font_end;</string>
     <string name="skill_zoologist">&font_pet;Zoologiste&font_end;</string>
     <string name="skill_pet_hoarder">&font_pet;Amasseur d\'animaux&font_end;</string>
 
-    <string name="skill_pet_collector_description">Increases the maximum &font_red;monster&font_end; &font_pet;pets &font_end;you can have by &bold;&font_cyan;5&font_end;&bold_end;</string>
-    <string name="skill_zoologist_description">Increases the maximum &font_red;monster&font_end; &font_pet;pets &font_end;you can have by &bold;&font_cyan;5&font_end;&bold_end;</string>
-    <string name="skill_pet_hoarder_description">Increases the maximum &font_red;monster&font_end; &font_pet;pets &font_end;you can have by &bold;&font_cyan;10&font_end;&bold_end;</string>
+    <string name="skill_pet_collector_description">Augmente le nombre maximum de &font_red;monstres&font_end; &font_pet;apprivoisés &font_end;que vous pouvez avoir de &bold;&font_cyan;5&font_end;&bold_end;</string>
+    <string name="skill_zoologist_description">Augmente le nombre maximum de &font_red;monstres&font_end; &font_pet;apprivoisés &font_end;que vous pouvez avoir de &bold;&font_cyan;5&font_end;&bold_end;</string>
+    <string name="skill_pet_hoarder_description">Augmente le nombre maximum de &font_red;monstres&font_end; &font_pet;apprivoisés &font_end;que vous pouvez avoir de &bold;&font_cyan;10&font_end;&bold_end;</string>
 
-    <string name="ee_your_tongue_hurts">Your tongue hurts… what is wrong with it?</string>
-    <string name="ee_kirito">Oh, you got a mysterious discount at the %1$s!</string>
+    <string name="ee_your_tongue_hurts">Vous avez mal à la langue… Qu’est-ce que ça peut bien être ?</string>
+    <string name="ee_kirito">Oh, vous avez obtenu une mistérieuse réduction à %1$s !</string>
 
     <string name="only_placeholder">%1$s</string>
 
