@@ -299,7 +299,7 @@
     <string name="button_ellipsis">…</string>
     <string name="button_sacrifice">Poświeć</string>
     <string name="button_set_active">Ustaw jako aktywne</string>
-    <string name="button_withdraw">Podejmij</string>
+    <string name="button_withdraw">Weź</string>
     <string name="button_withdraw_bank">&font_gold;Podejmij&font_end;</string>
     <string name="button_deposit_bank">&font_gold;Zdeponuj&font_end;</string>
     <string name="button_exit">Wyjdź</string>
@@ -373,14 +373,14 @@
     <string name="status_spells_learnt">Poznanie zaklęcia: &font_mana;%1$d&font_end;</string>
     <string name="status_main_story_times">Ilość ukończeń głównego wątku: &font_green;%1$d&font_end;</string>
     <string name="status_void_master_times">Ilość zabić Pana Pustki: &font_green;%1$d&font_end;</string>
-    <string name="status_deaths">Śmierci: &font_red;%1$d&font_end;</string>
+    <string name="status_deaths">Zgony: &font_red;%1$d&font_end;</string>
     <string name="status_ascended_times">Ilość Wstąpień: &font_green;%1$d&font_end;</string>
     <string name="status_met_the_creator_times">Ilość spotkań ze Stwórcą: &font_green;%1$d&font_end;</string>
     <string name="status_general">&font_cyan;Ogólne&font_end;</string>
     <string name="status_health">Zdrowie:&font_health;\t%1$d&font_end;/&font_health;%2$d&font_end;</string>
     <string name="status_mana">Mana:&font_mana;\t%1$d&font_end;/&font_mana;%2$d&font_end;</string>
     <string name="status_hunger">Głód:&font_hunger;\t%1$d&font_end;/&font_hunger;%2$d&font_end;</string>
-    <string name="status_attack">Att:&font_attack;\t%1$d&font_end;</string>
+    <string name="status_attack">Atk:&font_attack;\t%1$d&font_end;</string>
     <string name="status_defense">Obr:\t&font_defense;%1$d&font_end;</string>
     <string name="status_speed">Szb:\t&font_speed;%1$d&font_end;</string>
     <string name="status_intelligence">Int:\t&font_mana;%1$d&font_end;</string>
@@ -393,7 +393,7 @@
     <string name="status_player_experience_needed">Doświadczenie: &font_cyan;%1$d&font_end;/&font_cyan;%2$d&font_end;</string>
     <string name="status_player_gold">Złoto: &font_gold;%1$d&font_end;
         (&font_gold;%2$d &font_end;+ &font_gold;%3$d&font_end;
-        in &font_gold;Bank&font_end;)</string>
+        w &font_gold;Banku&font_end;)</string>
     <string name="status_permadeath">&font_red;&bold;DEFINITYWNY&bold_end;&font_end;</string>
     <string name="status_no_permadeath">&font_green;&bold;BEZPIECZNY&bold_end;&font_end;</string>
 
@@ -424,11 +424,11 @@
     <string name="item_heal_potion">Mikstura &font_health;Zdrowia&font_end; </string>
     <string name="item_mana_potion">Mikstura &font_mana;Many&font_end;</string>
     <string name="item_experience_potion">Mikstura &font_cyan;Doświadczenia&font_end; </string>
-    <string name="item_temporary_potion">&font_white;[Tymczasowe]&font_end;</string>
+    <string name="item_temporary_potion">&font_white;[Tymczasowa]&font_end;</string>
     <string name="item_heal_potion_amount">Mikstura &font_health;Zdrowia&font_end; (&font_health;%1$d&font_end;)</string>
     <string name="item_mana_potion_amount">Mikstura &font_mana;Many&font_end; (&font_mana;%1$d&font_end;)</string>
     <string name="item_experience_potion_amount">Mikstura &font_cyan;Doświadczenia&font_end; (&font_cyan;%1$d&font_end;)</string>
-    <string name="item_temporary_potion_amount">%1$s &font_white;[Tymczasowe]&font_end; (&font_cyan;%2$d&font_end;)</string>
+    <string name="item_temporary_potion_amount">%1$s &font_white;[Tymczasowa]&font_end; (&font_cyan;%2$d&font_end;)</string>
     <string name="item_shield">Tarcza</string>
     <string name="item_monster_flesh">&font_red;%1$s&font_end; &font_red;
         jako mięso&font_end;</string>
@@ -456,7 +456,7 @@
     <string name="material_copper_eq">&font_copper;Miedź&font_end;</string>
     <string name="material_tin_eq">&font_tin;Cyna&font_end;</string>
     <string name="material_iron_eq">&font_iron;Żelazo&font_end;</string>
-    <string name="material_bronze_eq">&font_bronze;Bronz&font_end;</string>
+    <string name="material_bronze_eq">&font_bronze;Brąz&font_end;</string>
     <string name="material_silver_eq">&font_silver;Srebro&font_end;</string>
     <string name="material_gold_eq">&font_gold;Złoto&font_end;</string>
     <string name="material_diamond_eq">&font_diamond;Diament&font_end;</string>
@@ -511,7 +511,7 @@
 
     <string name="item_info_material_edible">Można zjeść, by zmniejszyć głód o &font_hunger;%1$d &font_end;.</string>
     <string name="item_info_royal_seal"> &font_gold;Królewska pieczęć&font_end; może za nią kupić coś niezwykłego </string>
-    <string name="item_info_armor">Załóż to, aby poprawić swoje statystyki.&br;%1$s&br;%2$s</string>
+    <string name="item_info_armor">Załóż to, aby zmienić swoje statystyki.&br;%1$s&br;%2$s</string>
     <string name="item_info_weapon">Dobądź tego, aby szybciej zabijać monstra!&br;%1$s&br;%2$s</string>
     <string name="item_info_shield">Dobądź tego, aby lepiej się chronić.&br;%1$s&br;%2$s</string>
     <string name="item_info_recipe">Przyczytaj to, aby nauczyć się &font_cyan;wytwarzać &font_end;%1$s.</string>
@@ -566,9 +566,9 @@
     <string name="materialsource_exhausted">Wyczerpano: %1$s…</string>
     <string name="materialsource_rock">Kamień</string>
     <string name="materialsource_tree">Drzewo</string>
-    <string name="materialsource_palm_tree">Palmę</string>
+    <string name="materialsource_palm_tree">Palma</string>
     <string name="materialsource_fish">Łowisko</string>
-    <string name="materialsource_insect">Robaka</string>
+    <string name="materialsource_insect">Robak</string>
 
     <string name="tools_butchered_monster_corpse">Oskórowano %1$s!</string>
     <string name="tools_used_tool">Użyto %1$s.</string>
@@ -658,7 +658,7 @@
     <string name="islandtype_plant">Rośliny</string>
     <string name="islandtype_fey">Dziwadła</string>
     <string name="islandtype_beast">Bestie</string>
-    <string name="islandtype_aberration">Aberracyjny</string>
+    <string name="islandtype_aberration">Aberracje</string>
     <string name="islandtype_ooze">Szlam</string>
     <string name="islandtype_swarm">Roje</string>
     <string name="islandtype_elemental">Żywiołaki</string>
@@ -837,7 +837,7 @@
     <string name="bomb_normal">&font_bomb;Bomba&font_end;</string>
     <string name="bomb_fire">&font_attack;Ognista &font_end;&font_bomb;Bomba&font_end;</string>
     <string name="bomb_ice">&font_ice;Lodowa &font_end;&font_bomb;Bomba&font_end;</string>
-    <string name="bomb_electric">&font_electric;Elektyczna&font_end; &font_bomb;Bomba&font_end;</string>
+    <string name="bomb_electric">&font_electric;Elektryczna&font_end; &font_bomb;Bomba&font_end;</string>
     <string name="bomb_you_throw_the_bomb_to">Rzucono %1$s na %2$s! Zadano %3$s &font_red;%4$d &font_end;puntków obrażeń!</string>
 
     <string name="food_green_salad">&font_plant;Zielona&font_end; Sałatka</string>
@@ -869,121 +869,121 @@
         Zwiększono &font_mana;Intelekt&font_end; do &font_mana;%6$d&font_end;&br;
     </string>
 
-    <string name="level_up_inventory_increase">&br;Increased your &font_gold;Inventory Capacity &font_end;to &font_gold;%1$d&font_end;</string>
-    <string name="level_up_pets_increase">&br;Increased your &font_pet;Pets Capacity &font_end;to &font_gold;%1$d&font_end;</string>
-    <string name="level_up_skill_point">&br;You earned &font_cyan;%1$d &font_end;Skill Points.</string>
+    <string name="level_up_inventory_increase">&br;Zwiększono &font_gold;Pojemność Ekwipunku &font_end;do &font_gold;%1$d&font_end;</string>
+    <string name="level_up_pets_increase">&br;Zwiększono maksymalną &font_pet;Ilość Zwierząt &font_end;do &font_gold;%1$d&font_end;</string>
+    <string name="level_up_skill_point">&br;Otrzymano &font_cyan;%1$d &font_end;punktów umiejętności.</string>
 
-    <string name="combat_monster_attacked_player">&font_red;%1$s &font_end;attacked!&br;You received &font_red;%2$d &font_end;damage!</string>
-    <string name="combat_monster_action_attacked_player">&font_red;%1$s &font_end;attacked with its &font_red;%2$s&font_end;!&br;You received &font_red;%3$d &font_end;damage!</string>
-    <string name="combat_player_attacked_monster_damage">You attacked!&br;&font_red;%1$s &font_end;received &font_red;%2$d &font_end;damage!</string>
-    <string name="combat_player_skill_dealt_damage">&font_red;%1$s &font_end;received &font_red;%2$d &font_end;damage!</string>
-    <string name="combat_player_skill_restored_health">You restored &font_health;%1$d &font_end;health!</string>
-    <string name="combat_player_skill_restored_mana">You restored &font_mana;%1$d &font_end;mana!</string>
-    <string name="combat_player_skill_dealt_damage_n_times">You hit &font_cyan;%1$d &font_end;times! &font_red;%2$s &font_end;received &font_red;%3$d &font_end;damage!</string>
-    <string name="combat_player_skill_attacks_first">You attack first!</string>
-    <string name="combat_dont_know_any_skill">You don\'t know any &font_skill_attack;Skills&font_end;!</string>
-    <string name="combat_dont_know_any_spell">You don\'t know any &font_mana;Spells&font_end;!</string>
-    <string name="combat_cant_cast_skill">You don\'t have enough resources to do this!</string>
-    <string name="combat_cant_cast_spell">You don\'t have enough resources to cast this!</string>
-    <string name="combat_already_captured">You have already captured it!</string>
-    <string name="combat_cant_carry_more_pets">You can\'t have more pets!</string>
-    <string name="combat_monster_dead_vanishes">%1$s turns to dust!</string>
-    <string name="combat_monster_attacks">%1$s attacks!</string>
-    <string name="combat_fight">Fight</string>
-    <string name="combat_player_flee_fails">You tried to escape and failed…</string>
-    <string name="combat_player_flee_succeeds">You escaped successfully!</string>
-    <string name="combat_killed_monster">You killed %1$s!</string>
-    <string name="combat_player_is_dead">%1$s&br;died at level &font_cyan;%2$d&font_end;!</string>
-    <string name="combat_corpse_name">Corpse of %1$s</string>
+    <string name="combat_monster_attacked_player">&font_red;%1$s &font_end;zaatakował!&br;Otrzymano &font_red;%2$d &font_end;punktów obrażeń!</string>
+    <string name="combat_monster_action_attacked_player">&font_red;%1$s &font_end;zaatakował swoim &font_red;%2$s&font_end;!&br;Otrzymano &font_red;%3$d &font_end;punktów obrażeń!</string>
+    <string name="combat_player_attacked_monster_damage">Atak!&br;&font_red;%1$s &font_end;otrzymał &font_red;%2$d &font_end;punktów obrażeń!</string>
+    <string name="combat_player_skill_dealt_damage">&font_red;%1$s &font_end;otrzymał &font_red;%2$d &font_end;obrażeń!</string>
+    <string name="combat_player_skill_restored_health">Przywrócono &font_health;%1$d &font_end;punktów zdrowia!</string>
+    <string name="combat_player_skill_restored_mana">Przywrócono &font_mana;%1$d &font_end;many!</string>
+    <string name="combat_player_skill_dealt_damage_n_times">Uderzono &font_cyan;%1$d &font_end;razy! &font_red;%2$s &font_end;otrzymał &font_red;%3$d &font_end;obrażeń!</string>
+    <string name="combat_player_skill_attacks_first">Twoja tura!</string>
+    <string name="combat_dont_know_any_skill">Nie znasz żadnych &font_skill_attack;Technik&font_end;!</string>
+    <string name="combat_dont_know_any_spell">Nie znasz żadnych &font_mana;Zaklęć&font_end;!</string>
+    <string name="combat_cant_cast_skill">Musisz coś zjeść, aby użyć tej techniki!</string>
+    <string name="combat_cant_cast_spell">Twój umysł jest zbyt wykończony, aby użyć tego zaklęcia!</string>
+    <string name="combat_already_captured">Aktualnie już jest twoje!</string>
+    <string name="combat_cant_carry_more_pets">Nie możesz mieć więcej pupili!</string>
+    <string name="combat_monster_dead_vanishes">%1$s obraca się w proch!</string>
+    <string name="combat_monster_attacks">%1$s atakuje!</string>
+    <string name="combat_fight">Walka</string>
+    <string name="combat_player_flee_fails">Stwór zagradza Ci drogę ucieczki…</string>
+    <string name="combat_player_flee_succeeds">Nawiano!</string>
+    <string name="combat_killed_monster">%1$s nie żyje!</string>
+    <string name="combat_player_is_dead">%1$s&br;o poziomie &font_cyan;%2$d&font_end; leży w grobie!</string>
+    <string name="combat_corpse_name">Zwłoki %1$s</string>
     <string name="combat_monster_attacking_symbol">-&font_dark_red;A&font_end;-</string>
-    <string name="combat_cant_flee_from_monster">Can\'t flee from %1$s…</string>
-    <string name="combat_monster_obtained_gold">Obtained &font_gold;%1$d&font_end; gold.</string>
-    <string name="combat_monster_obtained_item">Obtained %1$s.</string>
-    <string name="combat_you_throw_the_bucket_to">You throw the %1$s to %2$s! %3$s receives &font_red;%4$d &font_end;damage!</string>
+    <string name="combat_cant_flee_from_monster">Aura %1$s uniemożliwia ucieczkę…</string>
+    <string name="combat_monster_obtained_gold">Znaleziono &font_gold;%1$d&font_end; złota.</string>
+    <string name="combat_monster_obtained_item">Znaleziono %1$s.</string>
+    <string name="combat_you_throw_the_bucket_to">Ciśnięto %1$s w %2$s! %3$s otrzymuje &font_red;%4$d &font_end;obrażeń!</string>
 
 
-    <string name="villager_text_hello_1" tools:ignore="UnusedResources">Hi!</string>
-    <string name="villager_text_hello_2" tools:ignore="UnusedResources">Hi, hero!</string>
-    <string name="villager_text_hello_3" tools:ignore="UnusedResources">Hi, adventurer!</string>
-    <string name="villager_text_hello_4" tools:ignore="UnusedResources">Hello!</string>
-    <string name="villager_text_hello_5" tools:ignore="UnusedResources">Hello, adventurer!</string>
-    <string name="villager_text_hello_6" tools:ignore="UnusedResources">Hello, hero!</string>
-    <string name="villager_text_hello_7" tools:ignore="UnusedResources">Hey…</string>
-    <string name="villager_text_hello_8" tools:ignore="UnusedResources">Hey, adventurer…</string>
-    <string name="villager_text_hello_9" tools:ignore="UnusedResources">Hey, hero…</string>
-    <string name="villager_text_hello_10" tools:ignore="UnusedResources">Nice to meet you!</string>
-    <string name="villager_text_hello_11" tools:ignore="UnusedResources">Nice to meet you, adventurer!</string>
-    <string name="villager_text_hello_12" tools:ignore="UnusedResources">Nice to meet you, hero!</string>
-    <string name="villager_text_hello_13" tools:ignore="UnusedResources">How\'s it going?</string>
-    <string name="villager_text_hello_14" tools:ignore="UnusedResources">How\'s it going, adventurer?</string>
-    <string name="villager_text_hello_15" tools:ignore="UnusedResources">How\'s it going, hero?</string>
-    <string name="villager_text_hello_16" tools:ignore="UnusedResources">How are you doing?</string>
-    <string name="villager_text_hello_17" tools:ignore="UnusedResources">How are you doing, adventurer?</string>
-    <string name="villager_text_hello_18" tools:ignore="UnusedResources">How are you doing, hero?</string>
+    <string name="villager_text_hello_1" tools:ignore="UnusedResources">Hej!</string>
+    <string name="villager_text_hello_2" tools:ignore="UnusedResources">Hej! hero!</string>
+    <string name="villager_text_hello_3" tools:ignore="UnusedResources">Hej! awanturniku?!</string>
+    <string name="villager_text_hello_4" tools:ignore="UnusedResources">Witaj</string>
+    <string name="villager_text_hello_5" tools:ignore="UnusedResources">Witaj awanturniku?!</string>
+    <string name="villager_text_hello_6" tools:ignore="UnusedResources">Witaj hero!</string>
+    <string name="villager_text_hello_7" tools:ignore="UnusedResources">To ty, cześć…</string>
+    <string name="villager_text_hello_8" tools:ignore="UnusedResources">Hejo awanturniku?…</string>
+    <string name="villager_text_hello_9" tools:ignore="UnusedResources">Hejo hero…</string>
+    <string name="villager_text_hello_10" tools:ignore="UnusedResources">Miło cię widzieć</string>
+    <string name="villager_text_hello_11" tools:ignore="UnusedResources">Miło cię widzieć awanturniku?!</string>
+    <string name="villager_text_hello_12" tools:ignore="UnusedResources">Miło cię widzieć hero!</string>
+    <string name="villager_text_hello_13" tools:ignore="UnusedResources">Jak leci?</string>
+    <string name="villager_text_hello_14" tools:ignore="UnusedResources">Jak leci, awanturniku??</string>
+    <string name="villager_text_hello_15" tools:ignore="UnusedResources">Jak leci, bohaterze?</string>
+    <string name="villager_text_hello_16" tools:ignore="UnusedResources">Co tam porabiasz?</string>
+    <string name="villager_text_hello_17" tools:ignore="UnusedResources">Co tam porabiasz, awanturniku??</string>
+    <string name="villager_text_hello_18" tools:ignore="UnusedResources">Co tam porabiasz, bohaterze?</string>
     <string name="villager_text_hello_19" tools:ignore="UnusedResources">Mmm…</string>
     <string name="villager_text_hello_20" tools:ignore="UnusedResources">Pse…</string>
     <string name="villager_text_hello_21" tools:ignore="UnusedResources">Wow!</string>
     <string name="villager_text_hello_22" tools:ignore="UnusedResources">Oh!</string>
     <string name="villager_text_hello_23" tools:ignore="UnusedResources">Eh!</string>
-    <string name="villager_text_hello_24" tools:ignore="UnusedResources">Hey!</string>
-    <string name="villager_text_hello_25" tools:ignore="UnusedResources">Howdy!</string>
-    <string name="villager_text_hello_26" tools:ignore="UnusedResources">What\'s up?</string>
-    <string name="villager_text_hello_27" tools:ignore="UnusedResources">What\'s up, adventurer?</string>
-    <string name="villager_text_hello_28" tools:ignore="UnusedResources">What\'s up, hero?</string>
-    <string name="villager_text_hello_29" tools:ignore="UnusedResources">Hi…</string>
-    <string name="villager_text_hello_30" tools:ignore="UnusedResources">Hello…</string>
+    <string name="villager_text_hello_24" tools:ignore="UnusedResources">Hejo</string>
+    <string name="villager_text_hello_25" tools:ignore="UnusedResources">Hejże!</string>
+    <string name="villager_text_hello_26" tools:ignore="UnusedResources">Co tam?</string>
+    <string name="villager_text_hello_27" tools:ignore="UnusedResources">Co tam, awanturniku??</string>
+    <string name="villager_text_hello_28" tools:ignore="UnusedResources">Co tam, bohaterze?</string>
+    <string name="villager_text_hello_29" tools:ignore="UnusedResources">Hej…</string>
+    <string name="villager_text_hello_30" tools:ignore="UnusedResources">Cześć…</string>
     <string name="villager_text_hello_31" tools:ignore="UnusedResources">…</string>
-    <string name="villager_text_hello_32" tools:ignore="UnusedResources">Well…</string>
-    <string name="villager_text_hello_33" tools:ignore="UnusedResources">So…</string>
-    <string name="villager_text_hello_34" tools:ignore="UnusedResources">What\'s new?</string>
-    <string name="villager_text_hello_35" tools:ignore="UnusedResources">G\'day!</string>
-    <string name="villager_text_hello_36" tools:ignore="UnusedResources">Yo!</string>
-    <string name="villager_text_hello_37" tools:ignore="UnusedResources">Hello.</string>
-    <string name="villager_text_hello_38" tools:ignore="UnusedResources">Hi.</string>
-    <string name="villager_text_hello_39" tools:ignore="UnusedResources">Hey.</string>
+    <string name="villager_text_hello_32" tools:ignore="UnusedResources">Więc…</string>
+    <string name="villager_text_hello_33" tools:ignore="UnusedResources">No…</string>
+    <string name="villager_text_hello_34" tools:ignore="UnusedResources">Coś nowego?</string>
+    <string name="villager_text_hello_35" tools:ignore="UnusedResources">Dobryday!</string>
+    <string name="villager_text_hello_36" tools:ignore="UnusedResources">Joł!</string>
+    <string name="villager_text_hello_37" tools:ignore="UnusedResources">Cześć.</string>
+    <string name="villager_text_hello_38" tools:ignore="UnusedResources">Hej.</string>
+    <string name="villager_text_hello_39" tools:ignore="UnusedResources">Hejo.</string>
     <string name="villager_text_hello_40" tools:ignore="UnusedResources" />
 
 
     <string name="villager_i_need_help">
         <![CDATA[
-    I need help with something…\n
-    Can I ask you for a favor?\n
-    I\'d be grateful if you could help me…\n
-    Could you help me with something?\n
-    You look like someone who can help!\n
-    If you aren\'t busy, I\'d need something from you…\n
-    Could you please help?\n
-    Could you please help me?\n
-    My family and I would be grateful if you could help us…\n
-    My family and I need something…\n
-    There\'s something I need…\n
-    Would you be so kind to help me?\n
-    Could you help me out?\n
-    I\'m afraid I must ask you for a favor…\n
-    If it isn\'t much to ask, I need you to do something…\n
-    Could you please help me with something?\n
-    Could you give me a hand?\n
-    We need help with something…\n
-    We need to ask you for a favor…\n
-    I know we haven\'t met before, but I must ask you for a favor…\n
-    I\'ve had this problem for a long time and I could use your help with it…\n
-    We aren\'t used to having strangers around here… Can I ask you for a favor?\n
-    We aren\'t used to having strangers around here… Can you do me a favor?\n
-    You are not from around here, are you? Can you do something for me?\n
-    You are not from around here, are you? May I ask you for a favor?\n
-    Where do you come from? Is it too much if I ask you for this…\n
-    Ah, if it isn\'t much trouble, could you help me with something?\n
-    I am in trouble and would really appreciate some help. Would you be willing to help?\n
-    Before you leave, could you help with something? It\'s a matter of vital importance…\n
-    Before you leave, could you help me?\n
-    Before you leave, would you help me?\n
-    Before you go, could you help me?\n
-    Before you go, would you help me?\n
-    Before you go, please can you do me a favor?\n
-    Can you help with something?\n
-    Can you help me out with something, please?\n
-    Can you help me with something, please?\n
-    I heard you are a good hero. Would you help me please?
+    Potrzebuję twej pomocy…\n
+    Mogę Cię o coś prosić?\n
+    Byłoby cudownie, gdybyś mógł mi pomóc…\n
+    Pomożesz mi w takiej małej sprawie?\n
+    Wyglądasz mi na kogoś zdolnego do pomocy w pewnej sprawie...\n
+    Masz może czas? Bo potrzebuję pomocy w pewnej sprawie…\n
+    Pomożesz?\n
+    Pomożesz? Proszę...\n
+    Moja familia będzie Ci dozgonnie wdzięczna jak pomożesz…\n
+    Moja rodzina potrzebuje czegoś…\n
+    Potrzebuję czegoś…\n
+    Bądź tak miły i pomoż mi...\n
+    Pomożesz mi w pewnej sprawie?\n
+    Obawiam się, że potrzebuję twej pomocy…\n
+    Pomożesz mi? Nie proszę o nic szczególnego…\n
+    Pomożesz mi w pewnej sprawie?\n
+    Dasz mi pomocną dłoń?\n
+    Potrzebujemy twej pomocy…\n
+    Musimy prosić cię o przysługę…\n
+    Wiem, że widzimy się pierwszy raz, ale muszę Cię o coś prosić…\n
+    Ostatnio coś mi się bardzo nastręcza i czuję, że możesz mi pomóc z tym…\n
+    Rzadko widujemy tu obcych… Mogę Cię prosić o przysługę?\n
+    Rzadko widujemy tu obcych… Pomożesz mi?\n
+    Jesteś nietutejszy, co? Zrobisz coś dla mnie?\n
+    Jesteś nietutejszy, co? Mam dla Ciebie zlecenie.\n
+    Skąd przybywasz? Mam nadzieję, że podołasz takiemu małemu zleceniu…\n
+    Hej, mam dla Ciebie takie proste zlecenie, podołasz?\n
+    Wpadłem w tarapaty i potrzebuję pomocy. Udzielisz mi jej?\n
+    Zanim odejdzies, może mi pomógłbyś. To kwestia niecierpiącej zwłoki…\n
+    Zanim odejdziesz, pomożesz?\n
+    Zanim odejdziesz, mógłbyś mi pomóc?\n
+    Zanim pójdziesz, pomożesz mi?\n
+    Zanim pójdziesz, mógłbyś mi pomóc?\n
+    Zanim pójdziesz, mogę Cię prosić o przysługę?\n
+    Możesz mi w czymś pomóc?\n
+    Możesz mi pomóc rozwiązać pewną kwestię?\n
+    Mam dla Ciebie zlecenie, wchodzisz w to?\n
+    Słyszałem, że kawał z Ciebie bohatera. Pomógłbyś mi?
         ]]>
     </string>
 
@@ -991,18 +991,18 @@
     <!-- Do not translate this, instead, each language should have its own quotes, pop culture references, some kind of jokes, etc… -->
     <string name="villager_quotes">
         <![CDATA[
-    Buy more, buy more now. Buy and be happy.\n
-    Our time is yours.\n
-    Do it for the fat lady.\n
-    From this moment we travel together East. Always to the East.\n
-    Stay away from normal people. They\'re stupid.\n
-    To what do we owe the extreme pleasure of this surprising visit?\n
-    Klaatu barada nikto.\n
-    Wake up, we\'re here. Why are you shaking? Are you okay?\n
-    Your mission was to retrieve Dr. Durand Durand from Tau Ceti!\n
-    Out here on the perimeter there are no stars.\n
-    I only can see in black and white…\n
-    I don\'t know why you gotta be so undemanding.\n
+    Ciemność, widzę ciemność.\n
+    Kopernik była kobietą.\n
+    Ja tam nie spodziewam się hiszpańskiej inkwizycji.\n
+    Kierunek - wschód. Tam musi być jakaś cywilizacja!\n
+    Ja lubie szypko.\n
+    Ja lubie wolmo.\n
+    My lubimy w umiarkowanym tempie.\n
+    Uważaj, by nie stać się cool jak te gryfy.\n
+    Klatka też jest z kucy!\n
+    Wytrenuję Cię w jeden księżyc.\n
+    Nikt mnie nie przekona, że czarne jest czarne a białe jest białe…\n
+    Jeszcze tylko parę wiosen.\n
     You need chaos inside to give birth to a dancing star.\n
     Involving yourself in status quo creativity is counter-revolutionary!\n
     We constructed pyramids in honour of our escaping.\n
@@ -1039,7 +1039,7 @@
     What can I do, sometimes…\n
     Are you afraid to get dirty?\n
     What does breaking the 4th wall mean?\n
-    AVADA KEDAVRA! …oops, wrong spell!\n
+    AVADA KEDAVRA! ...ups, nie to zaklęcie!\n
     Respect my authority!\n
     It could be worse, I could be at the hospital!\n
     Potatoes make French fries, chips and vodka. It\'s like the other vegetables aren\'t even trying…\n
@@ -1065,239 +1065,239 @@
     Stand and deliver.\n
     We are all Stardust.\n
     I know the ways of the potato.\n
-    Help! I\'m stuck in a video game!\n
-    Good thing I\'m not an NPC, that would suck.\n
-    I used to be an adventurer like you, but then I took an arrow to the knee.\n
+    Pomocy, jestem uwięziony w tej grze!\n
+    Dobrze, że nie jestem NPC. Wyobrażasz to sobie?\n
+    Kiedyś też byłem poszukiwaczem przygód, ale strzała w kolano zniszczyła moje marenia o awanturniczym życiu.\n
     Sometimes, I dream about cheese.\n
     Error obtaining a quote;\n
     I wonder what that green light on the other side of the water is.\n
     Hmmmmmmmmmmm.\n
-    Coss a toin to your Witcher.\n
+    Grosza daj wiedźminowi.\n
     I kick ass for the Lord!\n
-    Have you seen Archison? I need to talk to him about getting off this stupid island.\n
-    What is a man but a miserable pile of secrets?\n
-    Don\'t focus too much on the game or you\'ll take the wrong bus.
+    Widziałeś gdzieś Archisona? Muszę z nim porozmawiać o ucieczce z tej głupiej wyspy.\n
+    A czymże jest człowiek jak nie mizerną hałdą sekretów?\n
+    Graj, ale zważ na to, który mijasz przystanek.
 ]]>
     </string>
 
-    <string name="merchants_title">&font_gold;Merchants &font_end;(&font_gold;%1$d&font_end;)</string>
-    <string name="merchant_text_you_have_no_merchants_right_now">You haven\'t found any merchants yet…</string>
-    <string name="merchant_quest_description">&font_gold;%1$s&font_end; at &font_cyan;%2$d&font_end;, &font_cyan;%3$d &font_end;has asked you to bring &font_cyan;%4$d &font_end;%5$s. You currently have %6$s. [&font_cyan;%7$s&font_end;]</string>
+    <string name="merchants_title">&font_gold;Handlarze &font_end;(&font_gold;%1$d&font_end;)</string>
+    <string name="merchant_text_you_have_no_merchants_right_now">Nie znalazłem żadnych handlarzy jak dotąd…</string>
+    <string name="merchant_quest_description">&font_gold;%1$s&font_end; z wyspy &font_cyan;%2$d&font_end;, &font_cyan;%3$d &font_end; poprosił Cię o &font_cyan;%4$d &font_end;%5$s. Obecnie masz tego sztuk %6$s. [&font_cyan;%7$s&font_end;]</string>
 
-    <string name="quest_quests_title">&font_cyan;Quests &font_end;(&font_cyan;%1$d&font_end;)</string>
-    <string name="quest_text_for_gold">for %1$s Gold</string>
-    <string name="quest_text_reward">Reward: %1$s Gold</string>
+    <string name="quest_quests_title">&font_cyan;Zadania &font_end;(&font_cyan;%1$d&font_end;)</string>
+    <string name="quest_text_for_gold">za %1$s złota</string>
+    <string name="quest_text_reward">Nagroda: %1$s Złota</string>
     <string name="quest_island_name_parenthesis">[&font_cyan;%1$s&font_end;]</string>
-    <string name="quest_snackbar_action_go">Go</string>
-    <string name="quest_text_you_have_no_quests_right_now">You have no quests right now…</string>
-    <string name="quest_completed_quest">Completed %1$s</string>
-    <string name="quest_item_found">Found %1$s!</string>
-    <string name="quest_bring_crafted_food_text_giving">I\'m hungry! I\'d love to eat %1$s… Could you &font_gold;buy &font_end;or &font_cyan;craft &font_end;one and bring it to me?</string>
-    <string name="quest_bring_crafted_food_text_desc">You have to &font_gold;buy &font_end;or &font_cyan;craft &font_end;a %1$s and bring it to %2$s at %3$s,%4$s</string>
-    <string name="quest_bring_crafted_food_text_complete_desc">Thanks! I love it!</string>
-    <string name="quest_bring_crafted_food_text_negative">I\'m afraid you don\'t have %1$s… Come back when you &font_gold;Buy &font_end;or &font_cyan;craft &font_end;one!</string>
-    <string name="quest_bring_crafted_food_text_bring">Do you have the %1$s? Give it to me, please!</string>
-    <string name="quest_bring_crafted_food_thanks">Thanks! I love it!</string>
-    <string name="quest_added_quest">Added Quest (%1$s)</string>
-    <string name="quest_complete">Quest complete!</string>
-    <string name="quest_kill_single_monster_text_giving">Kill the %1$s at &font_cyan;%2$d&font_end;, &font_cyan;%3$d&font_end; </string>
-    <string name="quest_find_lost_item_text_giving">I\'ve lost %1$s… The last time I saw it, I think it was around %2$s, %3$s… Please, &font_cyan;Search &font_end;for it and return it to me! Thank you!</string>
-    <string name="quest_find_lost_item_text_reward">Here\'s your reward: %1$s!</string>
-    <string name="quest_find_lost_item_text_quest_screen_find">You must find %1$s. You\'ve been told to &font_cyan;Search &font_end;for it around %2$s, %3$s.</string>
-    <string name="quest_find_lost_item_text_quest_screen_return">Return %1$s to %2$s at %3$s, %4$s.</string>
-    <string name="quest_find_lost_item_text_villager_complete">Thanks for returning me %1$s!</string>
-    <string name="quest_find_item_now_return_to">You found %1$s! Now return it to &font_cyan;%2$s &font_end;at &font_cyan;%3$d&font_end;, &font_cyan;%4$d&font_end;.</string>
-    <string name="quest_find_lost_item_tile_content_name">This is a quest item. You have to return it to its owner.</string>
+    <string name="quest_snackbar_action_go">Dalej</string>
+    <string name="quest_text_you_have_no_quests_right_now">Póki co, jesteś czysty z zadaniami…</string>
+    <string name="quest_completed_quest">Ukończono %1$s</string>
+    <string name="quest_item_found">Znaleziono %1$s!</string>
+    <string name="quest_bring_crafted_food_text_giving">Jestem głodny. Z chęcią bym zjadł %1$s… &font_gold;Kup &font_end;, &font_cyan;Wytwórz &font_end;, bylebyś mi przyniósł.</string>
+    <string name="quest_bring_crafted_food_text_desc">Masz &font_gold;kupić &font_end;lub &font_cyan;wytworzyć &font_end; %1$s i doręczyć do %2$s znajdującego się na %3$s,%4$s</string>
+    <string name="quest_bring_crafted_food_text_complete_desc">Dziękować dziękować!</string>
+    <string name="quest_bring_crafted_food_text_negative">Widzę, że nie masz %1$s… &font_gold;Kup &font_end; lub &font_cyan;wytwórz &font_end; a potem przychodź!</string>
+    <string name="quest_bring_crafted_food_text_bring">Masz %1$s? Dasz mi?</string>
+    <string name="quest_bring_crafted_food_thanks">Dzięki wielkie!</string>
+    <string name="quest_added_quest">Nowe zadanie (%1$s)</string>
+    <string name="quest_complete">Zadanie wykonane!</string>
+    <string name="quest_kill_single_monster_text_giving">Zabij %1$s. Znajduje się na &font_cyan;%2$d&font_end;, &font_cyan;%3$d&font_end; </string>
+    <string name="quest_find_lost_item_text_giving">Zgubiłem %1$s… O ile pamiętam, byłem ostatnio na %2$s, %3$s i tam mogłem to zgubić… Słuchaj! &font_cyan;Poszukaj &font_end;to a ja Ci zapłacę! Umowa stoi?</string>
+    <string name="quest_find_lost_item_text_reward">Twoja nagroda: %1$s!</string>
+    <string name="quest_find_lost_item_text_quest_screen_find">Masz znaleźć %1$s. &font_cyan;Szukaj &font_end; tego w okolicach %2$s, %3$s.</string>
+    <string name="quest_find_lost_item_text_quest_screen_return">Zwróc %1$s %2$s znajdującego się na %3$s, %4$s.</string>
+    <string name="quest_find_lost_item_text_villager_complete">Dzięki za znalezienie %1$s!</string>
+    <string name="quest_find_item_now_return_to">Znaleziono %1$s! Teraz zwróc to &font_cyan;%2$s &font_end;znajdującego się na &font_cyan;%3$d&font_end;, &font_cyan;%4$d&font_end;.</string>
+    <string name="quest_find_lost_item_tile_content_name">Ten przedmiot należy do kogoś. Zwróć go prawowitemu posiadaczowi</string>
 
 
-    <string name="quest_find_lost_item_item_name_001" tools:ignore="UnusedResources">a magic box</string>
-    <string name="quest_find_lost_item_item_name_002" tools:ignore="UnusedResources">a mysterious bag</string>
-    <string name="quest_find_lost_item_item_name_003" tools:ignore="UnusedResources">a secret document</string>
-    <string name="quest_find_lost_item_item_name_004" tools:ignore="UnusedResources">a stinky thing</string>
-    <string name="quest_find_lost_item_item_name_005" tools:ignore="UnusedResources">a map with an X</string>
-    <string name="quest_find_lost_item_item_name_006" tools:ignore="UnusedResources">a family picture</string>
-    <string name="quest_find_lost_item_item_name_007" tools:ignore="UnusedResources">a bucket of flowers</string>
-    <string name="quest_find_lost_item_item_name_008" tools:ignore="UnusedResources">a can of dog food</string>
-    <string name="quest_find_lost_item_item_name_009" tools:ignore="UnusedResources">a key</string>
-    <string name="quest_find_lost_item_item_name_010" tools:ignore="UnusedResources">a valuable disk</string>
-    <string name="quest_find_lost_item_item_name_011" tools:ignore="UnusedResources">a nice hat</string>
-    <string name="quest_find_lost_item_item_name_012" tools:ignore="UnusedResources">a potato</string>
-    <string name="quest_find_lost_item_item_name_013" tools:ignore="UnusedResources">a raincoat</string>
-    <string name="quest_find_lost_item_item_name_014" tools:ignore="UnusedResources">a magic mirror</string>
-    <string name="quest_find_lost_item_item_name_015" tools:ignore="UnusedResources">a guitar without strings</string>
-    <string name="quest_find_lost_item_item_name_016" tools:ignore="UnusedResources">a gift box</string>
-    <string name="quest_find_lost_item_item_name_017" tools:ignore="UnusedResources">a king\'s diary</string>
-    <string name="quest_find_lost_item_item_name_018" tools:ignore="UnusedResources">a golden tooth</string>
-    <string name="quest_find_lost_item_item_name_019" tools:ignore="UnusedResources">a toy</string>
-    <string name="quest_find_lost_item_item_name_020" tools:ignore="UnusedResources">a glove</string>
-    <string name="quest_find_lost_item_item_name_021" tools:ignore="UnusedResources">a smashed pumpkin</string>
-    <string name="quest_find_lost_item_item_name_022" tools:ignore="UnusedResources">a piece of paper</string>
-    <string name="quest_find_lost_item_item_name_023" tools:ignore="UnusedResources">a love letter</string>
-    <string name="quest_find_lost_item_item_name_024" tools:ignore="UnusedResources">a beer can</string>
-    <string name="quest_find_lost_item_item_name_025" tools:ignore="UnusedResources">a wine bottle</string>
-    <string name="quest_find_lost_item_item_name_026" tools:ignore="UnusedResources">a newspaper</string>
-    <string name="quest_find_lost_item_item_name_027" tools:ignore="UnusedResources">a golf stick</string>
-    <string name="quest_find_lost_item_item_name_028" tools:ignore="UnusedResources">a screwdriver</string>
-    <string name="quest_find_lost_item_item_name_029" tools:ignore="UnusedResources">a screw</string>
-    <string name="quest_find_lost_item_item_name_030" tools:ignore="UnusedResources">a rare book</string>
-    <string name="quest_find_lost_item_item_name_031" tools:ignore="UnusedResources">a mask</string>
-    <string name="quest_find_lost_item_item_name_032" tools:ignore="UnusedResources">a cauliflower</string>
-    <string name="quest_find_lost_item_item_name_033" tools:ignore="UnusedResources">an antique coin</string>
-    <string name="quest_find_lost_item_item_name_034" tools:ignore="UnusedResources">an antique picture</string>
-    <string name="quest_find_lost_item_item_name_035" tools:ignore="UnusedResources">a memory</string>
-    <string name="quest_find_lost_item_item_name_036" tools:ignore="UnusedResources">a book without pages</string>
-    <string name="quest_find_lost_item_item_name_037" tools:ignore="UnusedResources">an elf\'s ear</string>
-    <string name="quest_find_lost_item_item_name_038" tools:ignore="UnusedResources">a cucumber</string>
-    <string name="quest_find_lost_item_item_name_039" tools:ignore="UnusedResources">a pickle</string>
-    <string name="quest_find_lost_item_item_name_040" tools:ignore="UnusedResources">a princes shoe</string>
-    <string name="quest_find_lost_item_item_name_041" tools:ignore="UnusedResources">a fancy dress</string>
-    <string name="quest_find_lost_item_item_name_042" tools:ignore="UnusedResources">a bag of snacks</string>
-    <string name="quest_find_lost_item_item_name_043" tools:ignore="UnusedResources">a bag of laughs</string>
-    <string name="quest_find_lost_item_item_name_044" tools:ignore="UnusedResources">a delicate vase</string>
-    <string name="quest_find_lost_item_item_name_045" tools:ignore="UnusedResources">a nail file</string>
-    <string name="quest_find_lost_item_item_name_046" tools:ignore="UnusedResources">a chalk</string>
-    <string name="quest_find_lost_item_item_name_047" tools:ignore="UnusedResources">a needle</string>
-    <string name="quest_find_lost_item_item_name_048" tools:ignore="UnusedResources">a cork</string>
-    <string name="quest_find_lost_item_item_name_049" tools:ignore="UnusedResources">a magnet</string>
-    <string name="quest_find_lost_item_item_name_050" tools:ignore="UnusedResources">a button</string>
-    <string name="quest_find_lost_item_item_name_051" tools:ignore="UnusedResources">a bookmark</string>
-    <string name="quest_find_lost_item_item_name_052" tools:ignore="UnusedResources">a red jumper</string>
-    <string name="quest_find_lost_item_item_name_053" tools:ignore="UnusedResources">a blue t-shirt</string>
-    <string name="quest_find_lost_item_item_name_054" tools:ignore="UnusedResources">a green shirt</string>
-    <string name="quest_find_lost_item_item_name_055" tools:ignore="UnusedResources">a hand mirror</string>
-    <string name="quest_find_lost_item_item_name_056" tools:ignore="UnusedResources">a used sock</string>
-    <string name="quest_find_lost_item_item_name_057" tools:ignore="UnusedResources">an old figurine</string>
-    <string name="quest_find_lost_item_item_name_058" tools:ignore="UnusedResources">a familiar face</string>
-    <string name="quest_find_lost_item_item_name_059" tools:ignore="UnusedResources">a weird stone</string>
-    <string name="quest_find_lost_item_item_name_060" tools:ignore="UnusedResources">an amazing spider</string>
-    <string name="quest_find_lost_item_item_name_061" tools:ignore="UnusedResources">a picture of a dog</string>
-    <string name="quest_find_lost_item_item_name_062" tools:ignore="UnusedResources">a picture of a cat</string>
-    <string name="quest_find_lost_item_item_name_063" tools:ignore="UnusedResources">a very valuable painting</string>
-    <string name="quest_find_lost_item_item_name_064" tools:ignore="UnusedResources">a useless tool</string>
-    <string name="quest_find_lost_item_item_name_065" tools:ignore="UnusedResources">a weird device</string>
-    <string name="quest_find_lost_item_item_name_066" tools:ignore="UnusedResources">a hate letter</string>
-    <string name="quest_find_lost_item_item_name_067" tools:ignore="UnusedResources">a bird statue</string>
-    <string name="quest_find_lost_item_item_name_068" tools:ignore="UnusedResources">a cake</string>
-    <string name="quest_find_lost_item_item_name_069" tools:ignore="UnusedResources">a zipper</string>
-    <string name="quest_find_lost_item_item_name_070" tools:ignore="UnusedResources">an elegant blouse</string>
-    <string name="quest_find_lost_item_item_name_071" tools:ignore="UnusedResources">a solar watch</string>
+    <string name="quest_find_lost_item_item_name_001" tools:ignore="UnusedResources">Magiczne pudełko</string>
+    <string name="quest_find_lost_item_item_name_002" tools:ignore="UnusedResources">Tajemnicze pudełko</string>
+    <string name="quest_find_lost_item_item_name_003" tools:ignore="UnusedResources">Tajny dokument</string>
+    <string name="quest_find_lost_item_item_name_004" tools:ignore="UnusedResources">Cuchnące coś</string>
+    <string name="quest_find_lost_item_item_name_005" tools:ignore="UnusedResources">Mapa z X</string>
+    <string name="quest_find_lost_item_item_name_006" tools:ignore="UnusedResources">Zdjęcie rodzinne</string>
+    <string name="quest_find_lost_item_item_name_007" tools:ignore="UnusedResources">Wiadro kwiatów</string>
+    <string name="quest_find_lost_item_item_name_008" tools:ignore="UnusedResources">Karma dla psa</string>
+    <string name="quest_find_lost_item_item_name_009" tools:ignore="UnusedResources">Klucz</string>
+    <string name="quest_find_lost_item_item_name_010" tools:ignore="UnusedResources">Cenny dysk</string>
+    <string name="quest_find_lost_item_item_name_011" tools:ignore="UnusedResources">Ładny kapelusz</string>
+    <string name="quest_find_lost_item_item_name_012" tools:ignore="UnusedResources">Ziemniak</string>
+    <string name="quest_find_lost_item_item_name_013" tools:ignore="UnusedResources">Płasz przeciwdeszczowy</string>
+    <string name="quest_find_lost_item_item_name_014" tools:ignore="UnusedResources">Magiczne zwierciadło</string>
+    <string name="quest_find_lost_item_item_name_015" tools:ignore="UnusedResources">Gitara bez strun</string>
+    <string name="quest_find_lost_item_item_name_016" tools:ignore="UnusedResources">Pudełko na prezent</string>
+    <string name="quest_find_lost_item_item_name_017" tools:ignore="UnusedResources">Dziennik króla</string>
+    <string name="quest_find_lost_item_item_name_018" tools:ignore="UnusedResources">Złoty ząb</string>
+    <string name="quest_find_lost_item_item_name_019" tools:ignore="UnusedResources">Zabawka</string>
+    <string name="quest_find_lost_item_item_name_020" tools:ignore="UnusedResources">Rękawica</string>
+    <string name="quest_find_lost_item_item_name_021" tools:ignore="UnusedResources">Zmiażdzona dynia</string>
+    <string name="quest_find_lost_item_item_name_022" tools:ignore="UnusedResources">Kawałek papieru</string>
+    <string name="quest_find_lost_item_item_name_023" tools:ignore="UnusedResources">List miłosny</string>
+    <string name="quest_find_lost_item_item_name_024" tools:ignore="UnusedResources">Puszka z piwem</string>
+    <string name="quest_find_lost_item_item_name_025" tools:ignore="UnusedResources">Butelka z winem</string>
+    <string name="quest_find_lost_item_item_name_026" tools:ignore="UnusedResources">Gazeta</string>
+    <string name="quest_find_lost_item_item_name_027" tools:ignore="UnusedResources">Kij golfowy</string>
+    <string name="quest_find_lost_item_item_name_028" tools:ignore="UnusedResources">Wiertarka</string>
+    <string name="quest_find_lost_item_item_name_029" tools:ignore="UnusedResources">Śruba</string>
+    <string name="quest_find_lost_item_item_name_030" tools:ignore="UnusedResources">Biały kruk</string>
+    <string name="quest_find_lost_item_item_name_031" tools:ignore="UnusedResources">Maska</string>
+    <string name="quest_find_lost_item_item_name_032" tools:ignore="UnusedResources">Kalafior</string>
+    <string name="quest_find_lost_item_item_name_033" tools:ignore="UnusedResources">Starożytna moneta</string>
+    <string name="quest_find_lost_item_item_name_034" tools:ignore="UnusedResources">Starożytny obraz</string>
+    <string name="quest_find_lost_item_item_name_035" tools:ignore="UnusedResources">Notatka</string>
+    <string name="quest_find_lost_item_item_name_036" tools:ignore="UnusedResources">Książka bez stron</string>
+    <string name="quest_find_lost_item_item_name_037" tools:ignore="UnusedResources">Ucho elfa</string>
+    <string name="quest_find_lost_item_item_name_038" tools:ignore="UnusedResources">Ogórek</string>
+    <string name="quest_find_lost_item_item_name_039" tools:ignore="UnusedResources">Marynata</string>
+    <string name="quest_find_lost_item_item_name_040" tools:ignore="UnusedResources">Pantofel księżniczki</string>
+    <string name="quest_find_lost_item_item_name_041" tools:ignore="UnusedResources">Zdobiona suknia</string>
+    <string name="quest_find_lost_item_item_name_042" tools:ignore="UnusedResources">Wór słodyczy</string>
+    <string name="quest_find_lost_item_item_name_043" tools:ignore="UnusedResources">Beczka śmiechu</string>
+    <string name="quest_find_lost_item_item_name_044" tools:ignore="UnusedResources">Delikatna waza</string>
+    <string name="quest_find_lost_item_item_name_045" tools:ignore="UnusedResources">Pilnik do paznokci</string>
+    <string name="quest_find_lost_item_item_name_046" tools:ignore="UnusedResources">Kreda</string>
+    <string name="quest_find_lost_item_item_name_047" tools:ignore="UnusedResources">Igła</string>
+    <string name="quest_find_lost_item_item_name_048" tools:ignore="UnusedResources">Korek</string>
+    <string name="quest_find_lost_item_item_name_049" tools:ignore="UnusedResources">Magnes</string>
+    <string name="quest_find_lost_item_item_name_050" tools:ignore="UnusedResources">Przycisk</string>
+    <string name="quest_find_lost_item_item_name_051" tools:ignore="UnusedResources">Zakładka</string>
+    <string name="quest_find_lost_item_item_name_052" tools:ignore="UnusedResources">Czerwony sweter</string>
+    <string name="quest_find_lost_item_item_name_053" tools:ignore="UnusedResources">Niebieski t-shirt</string>
+    <string name="quest_find_lost_item_item_name_054" tools:ignore="UnusedResources">Zielony shirt</string>
+    <string name="quest_find_lost_item_item_name_055" tools:ignore="UnusedResources">Lustereczko</string>
+    <string name="quest_find_lost_item_item_name_056" tools:ignore="UnusedResources">Używane skarpety</string>
+    <string name="quest_find_lost_item_item_name_057" tools:ignore="UnusedResources">Stara statuetka</string>
+    <string name="quest_find_lost_item_item_name_058" tools:ignore="UnusedResources">Znajoma twarz</string>
+    <string name="quest_find_lost_item_item_name_059" tools:ignore="UnusedResources">Szalony kamień</string>
+    <string name="quest_find_lost_item_item_name_060" tools:ignore="UnusedResources">Niesamowity pająk</string>
+    <string name="quest_find_lost_item_item_name_061" tools:ignore="UnusedResources">Obrazek psa</string>
+    <string name="quest_find_lost_item_item_name_062" tools:ignore="UnusedResources">Obrazek kota</string>
+    <string name="quest_find_lost_item_item_name_063" tools:ignore="UnusedResources">Bardzo cenne malowidło</string>
+    <string name="quest_find_lost_item_item_name_064" tools:ignore="UnusedResources">Bezużyteczne narzędzie</string>
+    <string name="quest_find_lost_item_item_name_065" tools:ignore="UnusedResources">Dziwaczne urządzenie</string>
+    <string name="quest_find_lost_item_item_name_066" tools:ignore="UnusedResources">List pełny nienawiści</string>
+    <string name="quest_find_lost_item_item_name_067" tools:ignore="UnusedResources">Posążek ptaka</string>
+    <string name="quest_find_lost_item_item_name_068" tools:ignore="UnusedResources">Ciasto</string>
+    <string name="quest_find_lost_item_item_name_069" tools:ignore="UnusedResources">Zamek</string>
+    <string name="quest_find_lost_item_item_name_070" tools:ignore="UnusedResources">Elegencka bluza</string>
+    <string name="quest_find_lost_item_item_name_071" tools:ignore="UnusedResources">Zegar słoneczny</string>
 
-    <string name="quest_bring_items_text_giving">I need %1$s %2$s…</string>
-    <string name="quest_bring_items_text_quest_screen">Bring %1$s %2$s to %3$s at %4$s, %5$s</string>
-    <string name="quest_bring_items_text_villager_not_enough">Oh, I need %1$s %2$s, you still need %3$s more…</string>
-    <string name="quest_bring_items_text_villager_give_items">Give %1$s %2$s to %3$s?</string>
-    <string name="quest_bring_items_text_you_have_the_items">You have the items!</string>
+    <string name="quest_bring_items_text_giving">Potrzebuję %1$s %2$s…</string>
+    <string name="quest_bring_items_text_quest_screen">Przynieś %1$s %2$s %3$s znajdującego się na %4$s, %5$s</string>
+    <string name="quest_bring_items_text_villager_not_enough">Oh, potrzebuję przecież %1$s %2$s. Znajdź jeszcze %3$s i wtedy dopiero przybywaj…</string>
+    <string name="quest_bring_items_text_villager_give_items">Dasz %1$s %2$s %3$s?</string>
+    <string name="quest_bring_items_text_you_have_the_items">Posiadasz przedmioty zamówienia!</string>
 
-    <string name="quest_rescue_someone_text_giving">You must rescue %1$s! You should search at %2$s, %3$s, please, hurry up!</string>
-    <string name="quest_rescue_someone_text_quest_screen_rescue">Rescue %1$s! Search at %2$s, %3$s.</string>
-    <string name="quest_rescue_someone_text_quest_screen_return">Return with %1$s to %2$s at %3$s, %4$s.</string>
-    <string name="quest_rescue_someone_text_villager_complete">Thanks for finding %1$s!</string>
-    <string name="quest_rescue_someone_text_reward">Here\'s your reward: %1$s Gold!</string>
-    <string name="quest_rescue_someone">Rescue Someone</string>
-    <string name="quest_rescue_someone_text_output_rescued">Rescued \"%1$s\"!</string>
-    <string name="quest_rescue_someone_following_you">&font_quest;%1$s &font_end;is here, following you…</string>
+    <string name="quest_rescue_someone_text_giving">%1$s jest w niebezpieczeństwie! Jest gdzieś na %2$s, %3$s. Nie ma czasu do stracenia!</string>
+    <string name="quest_rescue_someone_text_quest_screen_rescue">%1$s jest w opałach! Jest gdzieś na %2$s, %3$s.</string>
+    <string name="quest_rescue_someone_text_quest_screen_return">Przyprowadź %1$s %2$s który jest na %3$s, %4$s.</string>
+    <string name="quest_rescue_someone_text_villager_complete">Chwała Ci za uratowanie %1$s!</string>
+    <string name="quest_rescue_someone_text_reward">Twoja nagroda: %1$s złota!</string>
+    <string name="quest_rescue_someone">Uratuj kogoś</string>
+    <string name="quest_rescue_someone_text_output_rescued">Uratowano kogoś, kto przedstawia się jako: \"%1$s\"!</string>
+    <string name="quest_rescue_someone_following_you">&font_quest;%1$s &font_end;jest tutaj, podąża za tobą…</string>
 
 
-    <string name="quest_rescue_someone_name_1" tools:ignore="UnusedResources">The Princess</string>
-    <string name="quest_rescue_someone_name_2" tools:ignore="UnusedResources">The Prince</string>
-    <string name="quest_rescue_someone_name_3" tools:ignore="UnusedResources">The Queen</string>
-    <string name="quest_rescue_someone_name_4" tools:ignore="UnusedResources">The King</string>
-    <string name="quest_rescue_someone_name_5" tools:ignore="UnusedResources">The Soldier</string>
-    <string name="quest_rescue_someone_name_6" tools:ignore="UnusedResources">The Wounded Soldier</string>
-    <string name="quest_rescue_someone_name_7" tools:ignore="UnusedResources">The Scared Magician</string>
-    <string name="quest_rescue_someone_name_8" tools:ignore="UnusedResources">The Peasant</string>
-    <string name="quest_rescue_someone_name_9" tools:ignore="UnusedResources">The Farmer</string>
-    <string name="quest_rescue_someone_name_10" tools:ignore="UnusedResources">The Wife</string>
-    <string name="quest_rescue_someone_name_11" tools:ignore="UnusedResources">The Husband</string>
-    <string name="quest_rescue_someone_name_12" tools:ignore="UnusedResources">The Child</string>
-    <string name="quest_rescue_someone_name_13" tools:ignore="UnusedResources">The Son</string>
-    <string name="quest_rescue_someone_name_14" tools:ignore="UnusedResources">The Daughter</string>
-    <string name="quest_rescue_someone_name_15" tools:ignore="UnusedResources">The Friend</string>
-    <string name="quest_rescue_someone_name_16" tools:ignore="UnusedResources">The Baker</string>
-    <string name="quest_rescue_someone_name_17" tools:ignore="UnusedResources">The Banker</string>
-    <string name="quest_rescue_someone_name_18" tools:ignore="UnusedResources">The Neighbour</string>
-    <string name="quest_rescue_someone_name_19" tools:ignore="UnusedResources">The Dog</string>
-    <string name="quest_rescue_someone_name_20" tools:ignore="UnusedResources">The Cat</string>
-    <string name="quest_rescue_someone_name_21" tools:ignore="UnusedResources">The Parrot</string>
-    <string name="quest_rescue_someone_name_22" tools:ignore="UnusedResources">The Clown</string>
-    <string name="quest_rescue_someone_name_23" tools:ignore="UnusedResources">The Jester</string>
-    <string name="quest_rescue_someone_name_24" tools:ignore="UnusedResources">The Maths Teacher</string>
-    <string name="quest_rescue_someone_name_25" tools:ignore="UnusedResources">The Scientist</string>
-    <string name="quest_rescue_someone_name_26" tools:ignore="UnusedResources">The Actress</string>
-    <string name="quest_rescue_someone_name_27" tools:ignore="UnusedResources">The Actor</string>
-    <string name="quest_rescue_someone_name_28" tools:ignore="UnusedResources">The Doctor</string>
-    <string name="quest_rescue_someone_name_29" tools:ignore="UnusedResources">The Good Witch</string>
-    <string name="quest_rescue_someone_name_30" tools:ignore="UnusedResources">The Boy</string>
-    <string name="quest_rescue_someone_name_31" tools:ignore="UnusedResources">The Girl</string>
-    <string name="quest_rescue_someone_name_32" tools:ignore="UnusedResources">The Slave</string>
-    <string name="quest_rescue_someone_name_33" tools:ignore="UnusedResources">The Master</string>
-    <string name="quest_rescue_someone_name_34" tools:ignore="UnusedResources">The Lover</string>
-    <string name="quest_rescue_someone_name_35" tools:ignore="UnusedResources">The Priest</string>
-    <string name="quest_rescue_someone_name_36" tools:ignore="UnusedResources">The Monk</string>
-    <string name="quest_rescue_someone_name_37" tools:ignore="UnusedResources">The Warrior</string>
-    <string name="quest_rescue_someone_name_38" tools:ignore="UnusedResources">The Lost Villager</string>
-    <string name="quest_rescue_someone_name_39" tools:ignore="UnusedResources">The Lost Viking</string>
-    <string name="quest_rescue_someone_name_40" tools:ignore="UnusedResources">The Not So Brave Hero</string>
-    <string name="quest_rescue_someone_name_41" tools:ignore="UnusedResources">The Gamer</string>
-    <string name="quest_rescue_someone_name_42" tools:ignore="UnusedResources">The Gambler</string>
-    <string name="quest_rescue_someone_name_43" tools:ignore="UnusedResources">The Chef</string>
-    <string name="quest_rescue_someone_name_44" tools:ignore="UnusedResources">The Cheater</string>
-    <string name="quest_rescue_someone_name_45" tools:ignore="UnusedResources">The Liar</string>
-    <string name="quest_rescue_someone_name_46" tools:ignore="UnusedResources">The Mysterious Man</string>
-    <string name="quest_rescue_someone_name_47" tools:ignore="UnusedResources">The Mysterious Woman</string>
-    <string name="quest_rescue_someone_name_48" tools:ignore="UnusedResources">The Craftsman</string>
-    <string name="quest_rescue_someone_name_49" tools:ignore="UnusedResources">The Council Member</string>
-    <string name="quest_rescue_someone_name_50" tools:ignore="UnusedResources">The Storyteller</string>
-    <string name="quest_rescue_someone_name_51" tools:ignore="UnusedResources">The Torturer</string>
-    <string name="quest_rescue_someone_name_52" tools:ignore="UnusedResources">The Masochist</string>
-    <string name="quest_rescue_someone_name_53" tools:ignore="UnusedResources">The Tortured</string>
-    <string name="quest_rescue_someone_name_54" tools:ignore="UnusedResources">The Funny Guy</string>
-    <string name="quest_rescue_someone_name_55" tools:ignore="UnusedResources">The Boring Guy</string>
-    <string name="quest_rescue_someone_name_56" tools:ignore="UnusedResources">The Funny Girl</string>
-    <string name="quest_rescue_someone_name_57" tools:ignore="UnusedResources">The Boring Girl</string>
-    <string name="quest_rescue_someone_name_58" tools:ignore="UnusedResources">The Woman</string>
-    <string name="quest_rescue_someone_name_59" tools:ignore="UnusedResources">The Man</string>
-    <string name="quest_rescue_someone_name_60" tools:ignore="UnusedResources">The Ugly Woman</string>
-    <string name="quest_rescue_someone_name_61" tools:ignore="UnusedResources">The Ugly Man</string>
-    <string name="quest_rescue_someone_name_62" tools:ignore="UnusedResources">The Beautiful Woman</string>
-    <string name="quest_rescue_someone_name_63" tools:ignore="UnusedResources">The Handsome Man</string>
-    <string name="quest_rescue_someone_name_64" tools:ignore="UnusedResources">The Poor Woman</string>
-    <string name="quest_rescue_someone_name_65" tools:ignore="UnusedResources">The Poor Man</string>
-    <string name="quest_rescue_someone_name_66" tools:ignore="UnusedResources">The Poor Boy</string>
-    <string name="quest_rescue_someone_name_67" tools:ignore="UnusedResources">The Poor Girl</string>
-    <string name="quest_rescue_someone_name_68" tools:ignore="UnusedResources">The Poor Lady</string>
-    <string name="quest_rescue_someone_name_69" tools:ignore="UnusedResources">The Gentleman</string>
-    <string name="quest_rescue_someone_name_70" tools:ignore="UnusedResources">The Gentlewoman</string>
-    <string name="quest_rescue_someone_name_71" tools:ignore="UnusedResources">The Hero</string>
-    <string name="quest_rescue_someone_name_72" tools:ignore="UnusedResources">The Foreigner</string>
-    <string name="quest_rescue_someone_name_73" tools:ignore="UnusedResources">The Traveller</string>
-    <string name="quest_rescue_someone_name_74" tools:ignore="UnusedResources">The Troublemaker</string>
-    <string name="quest_rescue_someone_name_75" tools:ignore="UnusedResources">The Lazy Woman</string>
-    <string name="quest_rescue_someone_name_76" tools:ignore="UnusedResources">The Lazy Man</string>
-    <string name="quest_rescue_someone_name_77" tools:ignore="UnusedResources">The Lazy Kid</string>
-    <string name="quest_rescue_someone_name_78" tools:ignore="UnusedResources">The Lazy Girl</string>
-    <string name="quest_rescue_someone_name_79" tools:ignore="UnusedResources">The Lazy Boy</string>
-    <string name="quest_rescue_someone_name_80" tools:ignore="UnusedResources">The Mayor</string>
-    <string name="quest_rescue_someone_name_81" tools:ignore="UnusedResources">The Thief</string>
-    <string name="quest_rescue_someone_name_82" tools:ignore="UnusedResources">The Painter</string>
-    <string name="quest_rescue_someone_name_83" tools:ignore="UnusedResources">The Musician</string>
-    <string name="quest_rescue_someone_name_84" tools:ignore="UnusedResources">The Singer</string>
-    <string name="quest_rescue_someone_name_85" tools:ignore="UnusedResources">The Bard</string>
-    <string name="quest_rescue_someone_name_86" tools:ignore="UnusedResources">The Guard</string>
-    <string name="quest_rescue_someone_name_87" tools:ignore="UnusedResources">The Big Woman</string>
-    <string name="quest_rescue_someone_name_88" tools:ignore="UnusedResources">The Big Man</string>
-    <string name="quest_rescue_someone_name_89" tools:ignore="UnusedResources">The Small Woman</string>
-    <string name="quest_rescue_someone_name_90" tools:ignore="UnusedResources">The Small Man</string>
-    <string name="quest_rescue_someone_name_91" tools:ignore="UnusedResources">The Small Boy</string>
-    <string name="quest_rescue_someone_name_92" tools:ignore="UnusedResources">The Small Girl</string>
-    <string name="quest_rescue_someone_name_93" tools:ignore="UnusedResources">The Small Kid</string>
-    <string name="quest_rescue_someone_name_94" tools:ignore="UnusedResources">The Strong Woman</string>
-    <string name="quest_rescue_someone_name_95" tools:ignore="UnusedResources">The Strong Man</string>
-    <string name="quest_rescue_someone_name_96" tools:ignore="UnusedResources">The Guitarist</string>
-    <string name="quest_rescue_someone_name_97" tools:ignore="UnusedResources">The Artisan</string>
-    <string name="quest_rescue_someone_name_98" tools:ignore="UnusedResources">The Free Woman</string>
-    <string name="quest_rescue_someone_name_99" tools:ignore="UnusedResources">The Free Man</string>
-    <string name="quest_rescue_someone_name_100" tools:ignore="UnusedResources">The Prisoner</string>
+    <string name="quest_rescue_someone_name_1" tools:ignore="UnusedResources">Księżniczna</string>
+    <string name="quest_rescue_someone_name_2" tools:ignore="UnusedResources">Książe</string>
+    <string name="quest_rescue_someone_name_3" tools:ignore="UnusedResources">Królowa</string>
+    <string name="quest_rescue_someone_name_4" tools:ignore="UnusedResources">Król</string>
+    <string name="quest_rescue_someone_name_5" tools:ignore="UnusedResources">Żołnierz</string>
+    <string name="quest_rescue_someone_name_6" tools:ignore="UnusedResources">Ranny żołnierz</string>
+    <string name="quest_rescue_someone_name_7" tools:ignore="UnusedResources">Przerażony magik</string>
+    <string name="quest_rescue_someone_name_8" tools:ignore="UnusedResources">Chłop</string>
+    <string name="quest_rescue_someone_name_9" tools:ignore="UnusedResources">Rolnik</string>
+    <string name="quest_rescue_someone_name_10" tools:ignore="UnusedResources">Żona</string>
+    <string name="quest_rescue_someone_name_11" tools:ignore="UnusedResources">Mąż</string>
+    <string name="quest_rescue_someone_name_12" tools:ignore="UnusedResources">Dziecko</string>
+    <string name="quest_rescue_someone_name_13" tools:ignore="UnusedResources">Syn</string>
+    <string name="quest_rescue_someone_name_14" tools:ignore="UnusedResources">Córka</string>
+    <string name="quest_rescue_someone_name_15" tools:ignore="UnusedResources">Kumpel</string>
+    <string name="quest_rescue_someone_name_16" tools:ignore="UnusedResources">Piekarz</string>
+    <string name="quest_rescue_someone_name_17" tools:ignore="UnusedResources">Bankier</string>
+    <string name="quest_rescue_someone_name_18" tools:ignore="UnusedResources">Sąsiad</string>
+    <string name="quest_rescue_someone_name_19" tools:ignore="UnusedResources">Pies</string>
+    <string name="quest_rescue_someone_name_20" tools:ignore="UnusedResources">Kot</string>
+    <string name="quest_rescue_someone_name_21" tools:ignore="UnusedResources">Papuga</string>
+    <string name="quest_rescue_someone_name_22" tools:ignore="UnusedResources">Klaun</string>
+    <string name="quest_rescue_someone_name_23" tools:ignore="UnusedResources">Błazen</string>
+    <string name="quest_rescue_someone_name_24" tools:ignore="UnusedResources">Nauczycielka niemieckiego</string>
+    <string name="quest_rescue_someone_name_25" tools:ignore="UnusedResources">Naukowiec</string>
+    <string name="quest_rescue_someone_name_26" tools:ignore="UnusedResources">Aktorka</string>
+    <string name="quest_rescue_someone_name_27" tools:ignore="UnusedResources">Aktor</string>
+    <string name="quest_rescue_someone_name_28" tools:ignore="UnusedResources">Lekarz</string>
+    <string name="quest_rescue_someone_name_29" tools:ignore="UnusedResources">Dobra wiedźma</string>
+    <string name="quest_rescue_someone_name_30" tools:ignore="UnusedResources">Chłopiec</string>
+    <string name="quest_rescue_someone_name_31" tools:ignore="UnusedResources">Dziewczynka</string>
+    <string name="quest_rescue_someone_name_32" tools:ignore="UnusedResources">Niewolnik</string>
+    <string name="quest_rescue_someone_name_33" tools:ignore="UnusedResources">Pan</string>
+    <string name="quest_rescue_someone_name_34" tools:ignore="UnusedResources">Kochanek</string>
+    <string name="quest_rescue_someone_name_35" tools:ignore="UnusedResources">Kapłan</string>
+    <string name="quest_rescue_someone_name_36" tools:ignore="UnusedResources">Mnich</string>
+    <string name="quest_rescue_someone_name_37" tools:ignore="UnusedResources">Wojownik</string>
+    <string name="quest_rescue_someone_name_38" tools:ignore="UnusedResources">Zagubiony osadnik</string>
+    <string name="quest_rescue_someone_name_39" tools:ignore="UnusedResources">Zagubiony wiking</string>
+    <string name="quest_rescue_someone_name_40" tools:ignore="UnusedResources">Nie tak dzielny bohater</string>
+    <string name="quest_rescue_someone_name_41" tools:ignore="UnusedResources">Gracz</string>
+    <string name="quest_rescue_someone_name_42" tools:ignore="UnusedResources">Hazardzista</string>
+    <string name="quest_rescue_someone_name_43" tools:ignore="UnusedResources">Kucharz</string>
+    <string name="quest_rescue_someone_name_44" tools:ignore="UnusedResources">Oszust</string>
+    <string name="quest_rescue_someone_name_45" tools:ignore="UnusedResources">Kłamca</string>
+    <string name="quest_rescue_someone_name_46" tools:ignore="UnusedResources">Tajemniczy jegomość</string>
+    <string name="quest_rescue_someone_name_47" tools:ignore="UnusedResources">Tajemnicza nieznajoma</string>
+    <string name="quest_rescue_someone_name_48" tools:ignore="UnusedResources">Rzemieślnik</string>
+    <string name="quest_rescue_someone_name_49" tools:ignore="UnusedResources">Radny</string>
+    <string name="quest_rescue_someone_name_50" tools:ignore="UnusedResources">Bajkopisarz</string>
+    <string name="quest_rescue_someone_name_51" tools:ignore="UnusedResources">Kat</string>
+    <string name="quest_rescue_someone_name_52" tools:ignore="UnusedResources">Masochista</string>
+    <string name="quest_rescue_someone_name_53" tools:ignore="UnusedResources">Torturowany</string>
+    <string name="quest_rescue_someone_name_54" tools:ignore="UnusedResources">Żartowniś</string>
+    <string name="quest_rescue_someone_name_55" tools:ignore="UnusedResources">Nudziarz</string>
+    <string name="quest_rescue_someone_name_56" tools:ignore="UnusedResources">Zabawna dziewczyna</string>
+    <string name="quest_rescue_someone_name_57" tools:ignore="UnusedResources">Nudziara</string>
+    <string name="quest_rescue_someone_name_58" tools:ignore="UnusedResources">Kobieta</string>
+    <string name="quest_rescue_someone_name_59" tools:ignore="UnusedResources">Mężczyzna</string>
+    <string name="quest_rescue_someone_name_60" tools:ignore="UnusedResources">Brzydula</string>
+    <string name="quest_rescue_someone_name_61" tools:ignore="UnusedResources">Brzydal</string>
+    <string name="quest_rescue_someone_name_62" tools:ignore="UnusedResources">Piękna</string>
+    <string name="quest_rescue_someone_name_63" tools:ignore="UnusedResources">Przystojniak</string>
+    <string name="quest_rescue_someone_name_64" tools:ignore="UnusedResources">Nędzniczka</string>
+    <string name="quest_rescue_someone_name_65" tools:ignore="UnusedResources">Nędzarz</string>
+    <string name="quest_rescue_someone_name_66" tools:ignore="UnusedResources">Ubogi chłopiec</string>
+    <string name="quest_rescue_someone_name_67" tools:ignore="UnusedResources">Uboga dziewczyna</string>
+    <string name="quest_rescue_someone_name_68" tools:ignore="UnusedResources">Uboga pani</string>
+    <string name="quest_rescue_someone_name_69" tools:ignore="UnusedResources">Gentelmen</string>
+    <string name="quest_rescue_someone_name_70" tools:ignore="UnusedResources">Gentelmenka</string>
+    <string name="quest_rescue_someone_name_71" tools:ignore="UnusedResources">Bohater</string>
+    <string name="quest_rescue_someone_name_72" tools:ignore="UnusedResources">Cudzoziemiec</string>
+    <string name="quest_rescue_someone_name_73" tools:ignore="UnusedResources">Podróżnik</string>
+    <string name="quest_rescue_someone_name_74" tools:ignore="UnusedResources">Mąciwoda</string>
+    <string name="quest_rescue_someone_name_75" tools:ignore="UnusedResources">Lenidama</string>
+    <string name="quest_rescue_someone_name_76" tools:ignore="UnusedResources">Leniuch</string>
+    <string name="quest_rescue_someone_name_77" tools:ignore="UnusedResources">Leniwe dziecko</string>
+    <string name="quest_rescue_someone_name_78" tools:ignore="UnusedResources">Leniwa dziewczyna</string>
+    <string name="quest_rescue_someone_name_79" tools:ignore="UnusedResources">Leniwy chłopiec</string>
+    <string name="quest_rescue_someone_name_80" tools:ignore="UnusedResources">Burmistrz</string>
+    <string name="quest_rescue_someone_name_81" tools:ignore="UnusedResources">Złodziej</string>
+    <string name="quest_rescue_someone_name_82" tools:ignore="UnusedResources">Malarz</string>
+    <string name="quest_rescue_someone_name_83" tools:ignore="UnusedResources">Muzyk</string>
+    <string name="quest_rescue_someone_name_84" tools:ignore="UnusedResources">Śpiewak</string>
+    <string name="quest_rescue_someone_name_85" tools:ignore="UnusedResources">Bard</string>
+    <string name="quest_rescue_someone_name_86" tools:ignore="UnusedResources">Strażnik</string>
+    <string name="quest_rescue_someone_name_87" tools:ignore="UnusedResources">Duża dama</string>
+    <string name="quest_rescue_someone_name_88" tools:ignore="UnusedResources">Dryblas</string>
+    <string name="quest_rescue_someone_name_89" tools:ignore="UnusedResources">Drobna dama</string>
+    <string name="quest_rescue_someone_name_90" tools:ignore="UnusedResources">Drobny mężczyzna</string>
+    <string name="quest_rescue_someone_name_91" tools:ignore="UnusedResources">Drobny chłopiec</string>
+    <string name="quest_rescue_someone_name_92" tools:ignore="UnusedResources">Drobna dziewczynka</string>
+    <string name="quest_rescue_someone_name_93" tools:ignore="UnusedResources">Drobne dziecko</string>
+    <string name="quest_rescue_someone_name_94" tools:ignore="UnusedResources">Siłaczka</string>
+    <string name="quest_rescue_someone_name_95" tools:ignore="UnusedResources">Siłacz</string>
+    <string name="quest_rescue_someone_name_96" tools:ignore="UnusedResources">Gitarzysta</string>
+    <string name="quest_rescue_someone_name_97" tools:ignore="UnusedResources">Artysta</string>
+    <string name="quest_rescue_someone_name_98" tools:ignore="UnusedResources">Wyzwolona kobieta</string>
+    <string name="quest_rescue_someone_name_99" tools:ignore="UnusedResources">Wyzwolony mężczyzna</string>
+    <string name="quest_rescue_someone_name_100" tools:ignore="UnusedResources">Więzień</string>
 
     <string name="quest_rescue_someone_text_villager_give_rescue_someone">Leave %1$s with %2$s.</string>
 
@@ -1338,23 +1338,23 @@
     <string name="item_temporary_potion_cold_protection_quaff">Temporary &font_tundra;Cold&font_end; &font_green;Protection&font_end;</string>
     <string name="item_temporary_potion_cold_protection_remove">The effects of the &font_tundra;Cold&font_end; &font_green;Protection &font_end;Potion wear off…</string>
 
-    <string name="rarity_common">Common</string>
-    <string name="rarity_uncommon">Uncommon</string>
-    <string name="rarity_rare">Rare</string>
-    <string name="rarity_epic">Epic</string>
-    <string name="rarity_legendary">Legendary</string>
+    <string name="rarity_common">Zwyczajny</string>
+    <string name="rarity_uncommon">Nadzwyczajny</string>
+    <string name="rarity_rare">Rzadki</string>
+    <string name="rarity_epic">Epicki</string>
+    <string name="rarity_legendary">Legendarny</string>
 
-    <string name="weapon_type_sword">Sword</string>
-    <string name="weapon_type_spear">Spear</string>
-    <string name="weapon_type_mace">Mace</string>
-    <string name="weapon_type_axe">Axe</string>
-    <string name="weapon_type_dagger">Dagger</string>
+    <string name="weapon_type_sword">Miecz</string>
+    <string name="weapon_type_spear">Włóczna</string>
+    <string name="weapon_type_mace">Buława</string>
+    <string name="weapon_type_axe">Topór</string>
+    <string name="weapon_type_dagger">Sztylet</string>
 
-    <string name="hot_damage">It\'s too &font_red;hot &font_end;here! Received &font_red;%1$d &font_end;damage!</string>
-    <string name="cold_damage">It\'s too &font_tundra;cold &font_end;here! Received &font_red;%1$d &font_end;damage!</string>
-    <string name="protection_type_hot">&font_hell;Hot&font_end;</string>
-    <string name="protection_type_cold">&font_tundra;Cold&font_end;</string>
-    <string name="equipment_protection">&lt;font color=\"%1$s\"&gt;%2$s &font_end;protection</string>
+    <string name="hot_damage">Zbyt &font_red;gorąco &font_end;! Otrzymano obrażeń &font_red;%1$d &font_end;</string>
+    <string name="cold_damage">&font_tundra;Mrozi &font_end;tu za mocno! Otrzymano obrażeń &font_red;%1$d &font_end;</string>
+    <string name="protection_type_hot">&font_hell;Ogień&font_end;</string>
+    <string name="protection_type_cold">&font_tundra;Lód&font_end;</string>
+    <string name="equipment_protection">Ochrania przed: &lt;font color=\"%1$s\"&gt;%2$s &font_end;</string>
 
     <string name="content_description_arrow_to_unfold_complete_status_info">Arrow to unfold complete status info.</string>
     <string name="content_description_arrow_to_filter_crafting">Arrow to filter crafting recipes.</string>
@@ -1753,7 +1753,7 @@
     <string name="bank_deposit_amount" tools:ignore="PluralsCandidate">You deposit &font_gold;%1$d gold &font_end;in the %2$s!</string>
 
     <string name="item_island_soul">&font_cyan;Island Soul&font_end; (%1$s)</string>
-    <string name="text_island_soul_title">Island &font_cyan;100%&font_end; Explored</string>
+    <string name="text_island_soul_title">Island &font_cyan;100%&font_end; Explored</string>
     <string name="text_island_soul_message">You mysteriously obtain an %1$s!</string>
 
     <string name="weather_sunny">Sunny</string>
@@ -1779,7 +1779,7 @@
     <string name="merchant">Merchant</string>
     <string name="merchant_name">(&font_gold;%1$s&font_end;)</string>
     <string name="merchant_dialog_text">Have you brought &font_cyan;%1$d&font_end; &lt;font color=\"%2$s\"&gt;%3$s &font_end;to me?</string>
-    <string name="merchant_giving_merchant_quest_message">Hello! I\'m looking for &font_cyan;%1$d &font_end;&lt;font color=\"%2$s\"&gt;%3$s&font_end;. Could you bring them to me? I\'ll give you something very special in exchange.</string>
+    <string name="merchant_giving_merchant_quest_message">Witaj I\'m looking for &font_cyan;%1$d &font_end;&lt;font color=\"%2$s\"&gt;%3$s&font_end;. Could you bring them to me? I\'ll give you something very special in exchange.</string>
     <string name="merchant_not_enough_materials">You don\'t have enough materials…</string>
     <string name="merchant_you_receive_the_merchants_mark">You received the Merchant\'s Mark &font_cyan;#%1$d&font_end;!</string>
     <string name="merchant_dialog_text_mark_given">You already gave me what I needed, thanks!</string>
@@ -1848,7 +1848,7 @@
     <string name="dead_reason_tile_damage_hot">You were killed by &font_red;scorching heat&font_end;!</string>
     <string name="dead_reason_tile_damage_cold">You &font_tundra;froze&font_end; to death!</string>
 
-    <string name="blacksmith_message">Hello! Do you need to improve any "&font_green;\*&font_end;" equipment?&br;&br;Maybe scrap a piece of equipment?&br;&br;I can also craft bars from your ores if you need it.&br;&br;Just tell me and I\'ll do my best!&br;&br;Remember, I can\'t work with wielded or equipped items.</string>
+    <string name="blacksmith_message">Witaj Do you need to improve any "&font_green;\*&font_end;" equipment?&br;&br;Maybe scrap a piece of equipment?&br;&br;I can also craft bars from your ores if you need it.&br;&br;Just tell me and I\'ll do my best!&br;&br;Remember, I can\'t work with wielded or equipped items.</string>
     <string name="blacksmith_no_equipment_message">I\'m sorry, but you don\'t seem to have any equipment I can improve…</string>
     <string name="blacksmith_no_equipment_message_scrap">I\'m sorry, but you don\'t seem to have any equipment I can scrap…</string>
     <string name="blacksmith_cost" tools:ignore="PluralsCandidate">&font_gold;%1$d Gold&font_end;</string>
@@ -1863,7 +1863,7 @@
     <string name="well_drink_message">Drink from the %1$s?</string>
     <string name="well_message_empty">The %1$s is empty…</string>
     <string name="castle_message_cant_pass">Stop! You are not allowed to enter!&br;&br;Only those who have something to offer to the &font_gold;King &font_end;are allowed to pass!</string>
-    <string name="castle_message_have_letter">Hello! You have a &font_cyan;Letter &font_end;For The &font_gold;King &font_end;you say?&br;&br;Come, enter the &font_stone;Castle &font_end;and give it to him…</string>
+    <string name="castle_message_have_letter">Witaj You have a &font_cyan;Letter &font_end;For The &font_gold;King &font_end;you say?&br;&br;Come, enter the &font_stone;Castle &font_end;and give it to him…</string>
     <string name="castle_king_title">&font_gold;King&font_end;</string>
     <string name="castle_king_message_1">You\'ve got something for me?&br;&br;Give it to me…</string>
     <string name="castle_king_message_2">Thanks… Oh, interesting… I\'ll read it in private.</string>
@@ -1894,8 +1894,8 @@
     <string name="troll_not_enough_gold">You don\'t have enough &font_gold;gold&font_end;! The %1$s attacks you!</string>
     <string name="troll_leaves_happily_with_your_money">%1$s leaves happily with your money…</string>
     <string name="explorer_you_dont_have_the_necessary_island_soul" tools:ignore="UnusedResources">You don\'t have the necessary &font_cyan;Island Soul&font_end;…</string>
-    <string name="explorer_im_looking_for_an_island_soul">Hello! I\'m a passionate explorer and I\'m looking for an %1$s! If you happen to have one, could you give it to me?&br;&br;I will give you a &font_cyan;special &font_end;item in exchange!</string>
-    <string name="explorer_already_given">Hello! Thanks for the %1$s! I\'m still trying to figure out what to do with it… Onward, my friend!</string>
+    <string name="explorer_im_looking_for_an_island_soul">Witaj I\'m a passionate explorer and I\'m looking for an %1$s! If you happen to have one, could you give it to me?&br;&br;I will give you a &font_cyan;special &font_end;item in exchange!</string>
+    <string name="explorer_already_given">Witaj Thanks for the %1$s! I\'m still trying to figure out what to do with it… Onward, my friend!</string>
     <string name="explorer_gaven_you">The %1$s gave you %2$s!</string>
     <string name="waterfall_info">There is a beautiful &font_water;Waterfall&font_end; here. You contemplate it for a few moments before continuing with your adventure.</string>
     <string name="sphinx_info">You look at the giant &font_pyramid;Sphinx &font_end;and are amazed about its size and beauty. It seems pretty old.</string>
@@ -2219,7 +2219,7 @@
     <string name="select_nautical_chart">Select Nautical Chart</string>
     <string name="text_sailing_title">Sailing…</string>
     <string name="text_sailing_title_to_island_name">Sailing to &font_cyan;%1$s&font_end;…</string>
-    <string name="moved_direction">Moved %1$s.</string>
+    <string name="moved_direction">Kierunek: %1$s.</string>
     <string name="player_waits">You wait…</string>
     <string name="select_island_discover_new_island">Discover new Island!</string>
     <string name="select_island_title">Select Island</string>
@@ -2235,7 +2235,7 @@
     <string name="sail_cant">Can\'t sail</string>
     <string name="sail_rescued_message">You should return the rescued people first!</string>
     <string name="sail_pay_sailing_taxes">You must pay the sailing taxes in the &font_wood;Pier &font_end;to sail from here!</string>
-    <string name="sail_pier_pay_taxes_to_sail" tools:ignore="PluralsCandidate">Hello, do you want to pay the taxes to be able to &font_cyan;sail &font_end;with your &font_wood;ship &font_end;from this island?&br;&br;It\'s &font_gold;%1$d gold&font_end;, please.</string>
+    <string name="sail_pier_pay_taxes_to_sail" tools:ignore="PluralsCandidate">Witaj do you want to pay the taxes to be able to &font_cyan;sail &font_end;with your &font_wood;ship &font_end;from this island?&br;&br;It\'s &font_gold;%1$d gold&font_end;, please.</string>
     <string name="sail_pier_already_payed">Thank you for paying the taxes to &font_cyan;sail &font_end;from this island. Enjoy your adventures!</string>
 
     <string name="corpse_turns_to_dust">%1$s turns into dust…</string>
@@ -2246,11 +2246,11 @@
     <string name="main_story_shipwreck_info">It seems impossible to make this &font_wood;Shipwreck &font_end;sail again.&br;&br;Examining it closely you realise it looks familiar…</string>
     <string name="main_story_young_boy_message_1">He… hello? Are you okay? I was playing around and found you unconscious…</string>
     <string name="main_story_young_boy_message_2">I was scared you could be dead. Glad you’re alive! Is that your &font_wood;Ship&font_end;?</string>
-    <string name="main_story_young_boy_message_3">Oh… well, I suppose you need to rest. My father is the owner of the &font_inn;Inn &font_end;at &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end;. Go there to rest, and talk to him if you need something. Nice to meet you!</string>
+    <string name="main_story_young_boy_message_3">Oh… well, I suppose you need to rest. My father is the owner of the &font_inn;Inn &font_end;at &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end;. Go there to rest, and talk to him if you need something. Miło cię widzieć</string>
     <string name="main_story_young_boy_runs_away">The &font_cyan;Young Boy &font_end;runs away.</string>
     <string name="main_story_1_giving_description">After waking up at the &font_sand;Beach&font_end;, a &font_cyan;Young Boy &font_end;has told you to go to the Inn at &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end;. There you may rest and talk to his father.</string>
     <string name="main_story_inn_owner_title">&font_inn;Inn Owner&font_end;</string>
-    <string name="main_story_inn_dialog_1">Hello! Oh, you talked with my son you say? A &font_wood;Shipwreck&font_end;? Mmm… You look tired, you can rest in my &font_inn;Inn&font_end;.</string>
+    <string name="main_story_inn_dialog_1">Witaj Oh, you talked with my son you say? A &font_wood;Shipwreck&font_end;? Mmm… You look tired, you can rest in my &font_inn;Inn&font_end;.</string>
     <string name="main_story_inn_dialog_2">By the way, the inhabitants of the island have been really scared lately. There are rumours that there\'s a &font_cave;Cave &font_end;in &font_cyan;%1$d&font_end;, &font_cyan;%2$d &font_end;where a very dangerous &font_red;monster &font_end;lives.</string>
     <string name="main_story_inn_dialog_3">The island\'s &font_wood;Carpenter&font_end; is kind of adventurous and went to the cave a few days ago and hasn\'t returned yet… Please, kill that &font_red;monster &font_end;and save him if you can!</string>
     <string name="main_story_inn_dialog_2_button">What can I do?</string>
@@ -2268,17 +2268,17 @@
     <string name="main_story_the_carpenter_left">&font_wood;The Old Carpenter &font_end;left…</string>
     <string name="main_story_the_carpenter_shipwreck_button">Tell him about the &font_wood;Shipwreck&font_end;</string>
     <string name="main_story_3">Find &font_cyan;5&font_end; x &font_wood;Wood&font_end; and bring it to &font_wood;The Old Carpenter &font_end;in &font_cyan;%1$d&font_end;, &font_cyan;%2$d &font_end;so he will be able to repair the &font_wood;Shipwreck&font_end;!.</string>
-    <string name="main_story_the_carpenter_second_dialog_1">Hi! Have you found &font_cyan;5 &font_end;pieces of &font_wood;Wood&font_end;?</string>
+    <string name="main_story_the_carpenter_second_dialog_1">Hej! Have you found &font_cyan;5 &font_end;pieces of &font_wood;Wood&font_end;?</string>
     <string name="main_story_the_carpenter_second_dialog_1_not_enough">Oh, you don\'t have enough… come back when you have at least &font_cyan;5 &font_end;pieces of &font_wood;Wood&font_end;!</string>
     <string name="main_story_the_carpenter_second_dialog_2">Oh, great! I\'ll start working immediately!</string>
     <string name="main_story_the_carpenter_second_dialog_repairing_ship">&font_wood;The Old Carpenter &font_end;is repairing the &font_wood;Ship&font_end;</string>
     <string name="main_story_the_carpenter_third_dialog_1">Great! I haven\'t lost my touch! You now can travel to other islands in search for clues to find &font_red;The Tyrant&font_end;! Good luck, and thank you for everything!</string>
-    <string name="main_story_the_carpenter_end_dialog">Hello, hero! How is your quest to find &font_red;The Tyrant &font_end;going?</string>
+    <string name="main_story_the_carpenter_end_dialog">Witaj hero! How is your quest to find &font_red;The Tyrant &font_end;going?</string>
     <string name="main_story_4">Find &font_cyan;clues&font_end; about the whereabouts of &font_red;The Tyrant&font_end;.</string>
     <string name="main_story_5_dialog_message">The &font_red;monster &font_end;dropped a strange &font_cyan;Piece Of Map&font_end;. You don\'t know what it exactly is. You should ask a &font_cyan;Cartographer &font_end;about it.</string>
     <string name="main_story_5">Talk with a &font_cyan;Cartographer&font_end; about the &font_cyan;Piece of Map &font_end;you found. It surely is related with &font_red;The Tyrant &font_end;whereabouts.</string>
     <string name="shop_cartographer">Cartographer</string>
-    <string name="main_story_cartographer_dialog_1">Hello! What can I help you with?</string>
+    <string name="main_story_cartographer_dialog_1">Witaj What can I help you with?</string>
     <string name="main_story_cartographer_dialog_button_show_piece_of_map">Show the &font_cyan;Piece Of Map&font_end;</string>
     <string name="main_story_cartographer_dialog_2">Oh my… is this what I think it is? I can\'t believe it!</string>
     <string name="main_story_cartographer_dialog_3">This is one &font_cyan;Piece Of Map &font_end;from the legends! It\'s real!</string>
@@ -2332,7 +2332,7 @@
     <string name="main_story_sail_advice_wont_be_able_to_come_back_to_island">If you sail, you won\'t be able to come back to %1$s!&br;&br;Do you want to sail?</string>
     <string name="main_story_heaven_gate_advice_wont_be_able_to_come_back_to_island">If you enter the %1$s you won\'t be able to come back to %2$s!&br;&br;Enter anyway?</string>
 
-    <string name="professional_quest_giving_quest_0">Hello, hero! Do you want to learn the basics of the %1$s profession?</string>
+    <string name="professional_quest_giving_quest_0">Witaj hero! Do you want to learn the basics of the %1$s profession?</string>
     <string name="professional_quest_giving_quest_1_dialog">Bring me a %1$s and I will explain the rest! You can &font_cyan;craft &font_end;it if you learn the recipe or directly buy it from a &font_gold;shop&font_end;.</string>
     <string name="professional_quest_giving_quest_1_description">The %1$s at &font_cyan;%2$d&font_end;, &font_cyan;%3$d &font_end;has asked to bring a %4$s to him. You can &font_cyan;craft &font_end;it if you learn the recipe or directly buy it from a &font_gold;shop&font_end;.</string>
     <string name="professional_quest_giving_quest_1_check_if_have_tool_dialog">Have you brought a %1$s?</string>
@@ -3089,11 +3089,11 @@
     <string name="success_100">&font_green;%1$d&font_end;</string>
 
     <string name="bar_inn_text_extra_cost_undead">"We don\'t like having people like you around…"&br;&br;</string>
-    <string name="bar_inn_text_normal_cost">"Hello, how are you?"&br;&br;</string>
+    <string name="bar_inn_text_normal_cost">"Witaj how are you?"&br;&br;</string>
     <string name="bar_inn_text_lower_cost">"Welcome! I hope you have a great day!"&br;&br;</string>
 
     <string name="shop_bad_text">"Come on, I don\'t have all day for this…"</string>
-    <string name="shop_normal_text">"Hello, what can I help you with?"</string>
+    <string name="shop_normal_text">"Witaj what can I help you with?"</string>
     <string name="shop_nice_text">"Welcome! It\'s nice to do business with you!"</string>
     <string name="button_share">Share</string>
     <string name="achievement_desc_purifier">Purify an island for the first time</string>
@@ -3375,7 +3375,7 @@
 
     <string name="item_info_creator_medal">It is a bright medal, a memory of the time you killed &font_asterisk_creator;The Creator&font_end;.</string>
 
-    <string name="wise_main_story_island_first_message">Hello, hero! I\'ll be here if you need help!&br;&br;Talk to me if you need to rest or if you want to leave this place…</string>
+    <string name="wise_main_story_island_first_message">Witaj hero! I\'ll be here if you need help!&br;&br;Talk to me if you need to rest or if you want to leave this place…</string>
     <string name="wise_main_story_island_second_message">Do you want to restore your &font_health;health &font_end;, &font_mana;mana &font_end;and &font_hunger;hunger &font_end;for &font_gold;%1$d gold&font_end;? (A &font_primary_light;&italic;[CHECKPOINT] &italic_end;&font_end;will be saved)&br;&br;…or…&br;&br;Do you want to leave this place? It will disappear forever, you\'ll lose half of the &font_gold;gold &font_end;you are carrying, half from the &font_gold;BANK&font_end;, and you\'ll have to start looking for the &font_cyan;Pieces Of Map &font_end;again.</string>
     <string name="wise_leave_island_confirmation_message">Are you sure you want to leave?&br;&br;This place will disappear forever, you\'ll lose half of the &font_gold;gold &font_end;you are carrying, half from the &font_gold;BANK&font_end;, and you\'ll have to start looking for the &font_cyan;Pieces Of Map &font_end;again.</string>
 
@@ -3437,7 +3437,7 @@
     <string name="tile_content_type_cassette_collector">&font_alchemist;Cassette &font_end;&font_gold;Collector&font_end;</string>
     <string name="tile_content_type_cassette_collector_with_gem">&font_alchemist;Cassette &font_end;&font_gold;Collector &font_end;(%s)</string>
 
-    <string name="cassette_collector_message">Hello! I\'m a &font_alchemist;Cassette &font_end;&font_gold;Collector&font_end;!&br;&br;If you happen to have any &font_alchemist;Cassette&font_end;, would you give it to me? I would give you a %1$s in exchange…</string>
+    <string name="cassette_collector_message">Witaj I\'m a &font_alchemist;Cassette &font_end;&font_gold;Collector&font_end;!&br;&br;If you happen to have any &font_alchemist;Cassette&font_end;, would you give it to me? I would give you a %1$s in exchange…</string>
     <string name="cassette_collector_you_dont_have_any_cassette">You don\'t have any &font_alchemist;Cassette&font_end;…</string>
 
     <string name="collection_material">Material</string>
