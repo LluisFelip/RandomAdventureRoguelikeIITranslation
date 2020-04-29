@@ -2761,7 +2761,7 @@
 
     <string name="void_master_after_killing_text">En me tuant, tu condamne tous les mortels, toi y compris… Prépare toi à ce que les monstres du &font_void;néant &font_end;commencent à apparaitre dans ton monde…</string>
     <string name="void_master_after_killing_text_2">Encore toi… ? Pour dire vrai… Je suis surpris que tu tienne le coup face à mes monstres du &font_void;néant &font_end;éparpillés dans le monde… On se reverra…</string>
-    <string name="void_master_after_killing_text_3">Bien, bien… Je vois que tu portes un set complet du &font_void;néant&font_end;… Pour l'instant, je ne peux rien t'offrir d'autre… Mais reviens une autre fois et je te donnerais quelque chose dont tu as besoin…</string>
+    <string name="void_master_after_killing_text_3">Bien, bien… Je vois que tu portes un set complet du &font_void;néant&font_end;… Pour l\'instant, je ne peux rien t\'offrir d\'autre… Mais reviens une autre fois et je te donnerais quelque chose dont tu as besoin…</string>
 
     <string name="your_ship_appears_magically">Votre &font_wood;navire &font_end;apparaît comme par magie…</string>
 
@@ -2786,7 +2786,7 @@
     <string name="entering_infinity_door">Vous pénétrez la &font_gold;porte &font_end;de l\'&font_infinity;infini&font_end;</string>
     <string name="infinity_door_opened">Vous ouvrez la &font_gold;porte &font_end;de l\'&font_infinity;infini&font_end; !</string>
 
-    <string name="infinity_door_closed_message">C'est une porte fermée… Il semblerait qu'une sorte de &font_gold;clé &font_end;soit nécessaire pour l\'ouvrir…</string>
+    <string name="infinity_door_closed_message">C\'est une porte fermée… Il semblerait qu\'une sorte de &font_gold;clé &font_end;soit nécessaire pour l\'ouvrir…</string>
 
     <string name="achievements_clear_title">Êtes-vous sûr ?</string>
     <string name="collections_clear_title">Êtes-vous sûr ?</string>
