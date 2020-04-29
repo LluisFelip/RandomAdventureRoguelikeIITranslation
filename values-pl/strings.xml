@@ -1426,10 +1426,10 @@
     <string name="skill_furrier_description">Im wyższy poziom, tym większa szansa na oskórowanie zwłok.</string>
     <string name="skill_butcher_description">Im wyższy poziom, tym większa szansa na wypatroszenie zwłok.</string>
     <string name="skill_sword_mastery_description">Atakowanie &font_skill_attack;Mieczem&font_end; w walce oblokowuje Techniki Walki &font_skill_attack;Mieczem&font_end;.</string>
-    <string name="skill_dagger_mastery_description">Atakowanie &font_skill_attack;Sztyletem&font_end; w walce oblokowuje Techniki Walki &font_skill_attack;Sztyletem&font_end;.
-    <string name="skill_spear_mastery_description">Atakowanie &font_skill_attack;Włócznia&font_end; w walce oblokowuje Techniki Walki &font_skill_attack;Włócznią&font_end;.
-    <string name="skill_axe_mastery_description">Atakowanie &font_skill_attack;Toporem&font_end; w walce oblokowuje Techniki Walki &font_skill_attack;Toporem&font_end;.
-    <string name="skill_mace_mastery_description">Atakowanie &font_skill_attack;Buławą&font_end; w walce oblokowuje Techniki Walki &font_skill_attack;Buławą&font_end;.
+    <string name="skill_dagger_mastery_description">Atakowanie &font_skill_attack;Sztyletem&font_end; w walce oblokowuje Techniki Walki &font_skill_attack;Sztyletem&font_end;.</string>
+    <string name="skill_spear_mastery_description">Atakowanie &font_skill_attack;Włócznia&font_end; w walce oblokowuje Techniki Walki &font_skill_attack;Włócznią&font_end;.</string>
+    <string name="skill_axe_mastery_description">Atakowanie &font_skill_attack;Toporem&font_end; w walce oblokowuje Techniki Walki &font_skill_attack;Toporem&font_end;.</string>
+    <string name="skill_mace_mastery_description">Atakowanie &font_skill_attack;Buławą&font_end; w walce oblokowuje Techniki Walki &font_skill_attack;Buławą&font_end;.</string>
     <string name="skill_level_up">&font_cyan;Umiejętność&font_end; %1$s wskakuje na poziom &font_cyan;%2$d&font_end;</string>
     <string name="spell_level_up">&font_mana;Zaklęcie&font_end; %1$s wskakuje na poziom &font_cyan;%2$d&font_end;</string>
     <string name="skill_failed">%1$s się nie powiodło.</string>
