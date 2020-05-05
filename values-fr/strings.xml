@@ -3068,7 +3068,7 @@
     <string name="skill_foodie">&font_food;Gourmand&font_end;</string>
     <string name="skill_gourmet">&font_food;Gourmet&font_end;</string>
 
-    <string name="skill_foodie_description">Augmente la faim max, permet de résister plus longtemps sans manger.</string>
+    <string name="skill_foodie_description">Augmente la faim max., permet de résister plus longtemps sans manger.</string>
     <string name="skill_gourmet_description">Augmente la faim restaurée en mangeant.</string>
 
     <string name="skill_gnomic_space">&font_wood;Espace gnomique&font_end;</string>
@@ -3131,52 +3131,52 @@
     <string name="success_lower_than_100">&font_cyan;%1$d&font_end;</string>
     <string name="success_100">&font_green;%1$d&font_end;</string>
 
-    <string name="bar_inn_text_extra_cost_undead">"We don\'t like having people like you around…"&br;&br;</string>
-    <string name="bar_inn_text_normal_cost">"Hello, how are you?"&br;&br;</string>
-    <string name="bar_inn_text_lower_cost">"Welcome! I hope you have a great day!"&br;&br;</string>
+    <string name="bar_inn_text_extra_cost_undead">"Nous n'aimons pas avoir des gens comme toi dans le coin…"&br;&br;</string>
+    <string name="bar_inn_text_normal_cost">"Bonjour, comment allez-vous ?"&br;&br;</string>
+    <string name="bar_inn_text_lower_cost">"Bienvenue ! Passez une bonne journée !"&br;&br;</string>
 
-    <string name="shop_bad_text">"Come on, I don\'t have all day for this…"</string>
-    <string name="shop_normal_text">"Hello, what can I help you with?"</string>
-    <string name="shop_nice_text">"Welcome! It\'s nice to do business with you!"</string>
-    <string name="button_share">Share</string>
-    <string name="achievement_desc_purifier">Purify an island for the first time</string>
-    <string name="achievement_name_purifier">Purifier</string>
+    <string name="shop_bad_text">"Fait un effort, j'ai pas tout mon temps…"</string>
+    <string name="shop_normal_text">"Bonjour ! Comment puis-je vous aider ?"</string>
+    <string name="shop_nice_text">"Bienvenue ! C'est un plaisir de faire affaire avec vous !"</string>
+    <string name="button_share">Partager</string>
+    <string name="achievement_desc_purifier">Purifier une île pour la première fois</string>
+    <string name="achievement_name_purifier">Purificateur</string>
 
-    <string name="island_type_treasure">Treasure</string>
-    <string name="material_old_paper_piece">Old Paper Piece</string>
-    <string name="item_info_old_paper_piece">It has some strange drawings on it…</string>
-    <string name="tile_content_type_nautical_chart_treasure_island">Nautical Chart (&font_gold;Treasure &font_end;&font_cyan;Island&font_end;)</string>
+    <string name="island_type_treasure">Trésor</string>
+    <string name="material_old_paper_piece">Vieux morceau de papier</string>
+    <string name="item_info_old_paper_piece">Il est recouvert d'étranges dessins…</string>
+    <string name="tile_content_type_nautical_chart_treasure_island">Carte maritime (&font_cyan;Île &font_end;au&font_gold;trésor&font_end;)</string>
 
-    <string name="craft_various_title">Craft Various</string>
-    <string name="craft_various_message_not_stackable">What amount do you want to craft?&br;&br;(You have enough materials to craft &font_cyan;%1$d&font_end;, the maximum amount allowed to craft is &font_cyan;%2$d&font_end;, and you have enough space in your inventory to craft &font_cyan;%3$d&font_end;, so, the maximum you can craft is: &font_cyan;%4$d&font_end;)</string>
-    <string name="crafted_amount">Crafted &font_cyan;%1$d&font_end;!</string>
+    <string name="craft_various_title">Fabrications diverses</string>
+    <string name="craft_various_message_not_stackable">Quelle quantiter voulez-vous fabriquer ?&br;&br;(Vous possédez suffisament de matériaux pour fabriquer &font_cyan;%1$d&font_end;, le maximum autorisé à fabriquer est &font_cyan;%2$d&font_end;, et vous avez un espace d'inventaire pour en fabriquer &font_cyan;%3$d&font_end;, ainsi, le maximum que vous puissiez fabriquer est : &font_cyan;%4$d&font_end;)</string>
+    <string name="crafted_amount">&font_cyan;%1$d&font_end; fabriqué !</string>
 
     <string name="settings_navigation_buttons_position">Position boutons de navigation</string>
 
-    <string name="skill_unarmed_mastery">&font_skill_attack;Unarmed &font_end;Mastery</string>
-    <string name="skill_unarmed_mastery_description">Attacking with no &font_skill_attack;weapon &font_end;in combat unlocks &font_skill_attack;Unarmed &font_end;Combat Skills.</string>
+    <string name="skill_unarmed_mastery">Maîtrise à &font_skill_attack;mains nues&font_end;</string>
+    <string name="skill_unarmed_mastery_description">Attaquer sans &font_skill_attack;arme &font_end;en combat débloque la compétence &font_skill_attack;mains nues&font_end;.</string>
 
-    <string name="weapon_skill_unarmed_punch">Punch</string>
-    <string name="weapon_skill_unarmed_punch_desc">Punches the enemy.</string>
-    <string name="weapon_skill_unarmed_punch_attack">You punch the enemy!</string>
+    <string name="weapon_skill_unarmed_punch">Poing</string>
+    <string name="weapon_skill_unarmed_punch_desc">Frappe l'ennemi.</string>
+    <string name="weapon_skill_unarmed_punch_attack">Vous frappez l'ennemi !</string>
 
-    <string name="weapon_skill_unarmed_hammerfist">Hammer Fist</string>
-    <string name="weapon_skill_unarmed_hammerfist_desc">Punches the enemy from above.</string>
-    <string name="weapon_skill_unarmed_hammerfist_attack">You punch the enemy from above!</string>
+    <string name="weapon_skill_unarmed_hammerfist">Poing marteau</string>
+    <string name="weapon_skill_unarmed_hammerfist_desc">Frappe l'ennemi par en haut.</string>
+    <string name="weapon_skill_unarmed_hammerfist_attack">Vous frapper l'ennemi d'en haut !</string>
 
-    <string name="weapon_skill_unarmed_magicfist">Magic Fist</string>
-    <string name="weapon_skill_unarmed_magicfist_desc">Hits and absorbs mana from the enemy.</string>
-    <string name="weapon_skill_unarmed_magicfist_attack">¡You hit and absorb mana from the enemy!</string>
+    <string name="weapon_skill_unarmed_magicfist">Poing magique</string>
+    <string name="weapon_skill_unarmed_magicfist_desc">Frappe et absorbe le mana de l'ennemi.</string>
+    <string name="weapon_skill_unarmed_magicfist_attack">Vous frappez et absorbez le mana de l'ennemi !</string>
 
-    <string name="weapon_skill_unarmed_double_punch">Double Punch</string>
-    <string name="weapon_skill_unarmed_double_punch_desc">Punches the enemy two times.</string>
-    <string name="weapon_skill_unarmed_double_punch_attack">You punch two times the enemy!</string>
+    <string name="weapon_skill_unarmed_double_punch">Poing double</string>
+    <string name="weapon_skill_unarmed_double_punch_desc">Frappe l'ennemi à deux reprises.</string>
+    <string name="weapon_skill_unarmed_double_punch_attack">Vous frappez l'ennemi à deux reprises !</string>
 
-    <string name="weapon_skill_unarmed_fastfist">Fast Fist</string>
-    <string name="weapon_skill_unarmed_fastfist_desc">Punches the enemy strongly. Always attacks first.</string>
-    <string name="weapon_skill_unarmed_fastfist_attack">You push the enemy strongly!</string>
+    <string name="weapon_skill_unarmed_fastfist">Poing rapide</string>
+    <string name="weapon_skill_unarmed_fastfist_desc">Frappe violement l'ennemi. Vous attaquez toujours en premier.</string>
+    <string name="weapon_skill_unarmed_fastfist_attack">Vous propulsez l'ennemi en arrière !</string>
 
-    <string name="material_type_cartographer_stone">&font_cyan;Cartographer &font_end;&font_stone;Stone&font_end;</string>
+    <string name="material_type_cartographer_stone">&font_stone;Pierre &font_end;du &font_cyan;carthographe&font_end;</string>
     <string name="world_info_empty">(No info added, use a &font_cyan;Cartographer &font_end;&font_stone;Stone &font_end;to add a text to an island)</string>
     <string name="button_plus">+</string>
     <string name="button_mark">Mark</string>
