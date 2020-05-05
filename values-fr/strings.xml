@@ -1018,11 +1018,11 @@
             On dirait bien que t\'as mal choisis ta semaine pour arréter de fûmer.\n
             Je ne suis pas superstitieux mais je suis un peu stitieux.\n
             T\'as vu ta gueule ?\n
-            Donne moa du respet.\n
-            S…s…senpai ?\n
+            Tu crois que c'est du respect ça mon garçon ?\n
+            S-s-senpai ?\n
             All your base are belong to us.\n
             Nuuut Nuuut !\n
-            N\'oublie pas te t\'abonner, de retweeter, de liker, de partager, et d\'upvote ça! Attend… on parlait de quoi déjà?\n
+            N\'oublie pas te t\'abonner, de retweeter, de liker, de partager, et d\'activer la cloche ! Attend… on parlait de quoi déjà ?\n
             Être ou ne pas être bourré, telle est la question…\n
             Pour survivre à la guerre, il faut devenir la guerre.\n
             Comment ça je suis pas net ? Mais si je suis très net !\n
@@ -1030,7 +1030,7 @@
 
 
     <string name="merchants_title">&font_gold;Marchands &font_end;(&font_gold;%1$d&font_end;)</string>
-    <string name="merchant_text_you_have_no_merchants_right_now">Tu n\'as, pour le moment, rencontré aucun marchand…</string>
+    <string name="merchant_text_you_have_no_merchants_right_now">Tu n\'as pour le moment rencontré aucun marchand…</string>
     <string name="merchant_quest_description">&font_gold;%1$s&font_end;
         à &font_cyan;%2$d&font_end;, &font_cyan;%3$d &font_end;t\'a demandé de ramener&font_cyan;%4$d &font_end;%5$s. Tu possèdes en ce moment %6$s. [&font_cyan;%7$s&font_end;]</string>
 
@@ -1039,26 +1039,25 @@
     <string name="quest_text_reward">Récompense : %1$s d\'or</string>
     <string name="quest_island_name_parenthesis">[&font_cyan;%1$s&font_end;]</string>
     <string name="quest_snackbar_action_go">Accepter</string>
-    <string name="quest_text_you_have_no_quests_right_now">Tu n\'as en ce moment aucunes quêtes…</string>
+    <string name="quest_text_you_have_no_quests_right_now">Tu n\'as pas de quêtes pour le moment…</string>
     <string name="quest_completed_quest">%1$s complété</string>
     <string name="quest_item_found">%1$s trouvé !</string>
     <string name="quest_bring_crafted_food_text_giving">J\'ai tellement faim ! Je voudrais bien %1$s… Pourriez vous en &font_gold;acheter &font_end;ou en &font_cyan;fabriquer &font_end;une et me l\'apporter ?</string>
     <string name="quest_bring_crafted_food_text_desc">Tu dois &font_gold;acheter &font_end;ou &font_cyan;fabriquer &font_end;un(e) %1$s et la rapporter à %2$s en %3$s,%4$s</string>
     <string name="quest_bring_crafted_food_text_complete_desc">Merci ! J\'apprécie le geste !</string>
-    <string name="quest_bring_crafted_food_text_negative">Je suis au regret de vous dire que vous n\'avez pas de %1$s… Revenez quand vous en aurait &font_gold;acheté &font_end;ou &font_cyan;fabriqué &font_end;un(e)!</string>
-    <string name="quest_bring_crafted_food_text_bring">Vous avez un(e) %1$s ? Je vous en prie, donnez la moi!</string>
-    <string name="quest_bring_crafted_food_thanks">Merci! J\'apprécie le geste!</string>
+    <string name="quest_bring_crafted_food_text_negative">Je suis au regret de vous dire que vous n\'avez pas de %1$s… Revenez quand vous en aurait &font_gold;acheté &font_end;ou &font_cyan;fabriqué &font_end;un(e) !</string>
+    <string name="quest_bring_crafted_food_text_bring">Vous avez un(e) %1$s ? Je vous en prie, donnez la moi !</string>
+    <string name="quest_bring_crafted_food_thanks">Merci ! J\'apprécie le geste !</string>
     <string name="quest_added_quest">Quête ajoutée (%1$s)</string>
     <string name="quest_complete">Quête accomplie !</string>
     <string name="quest_kill_single_monster_text_giving">Élimine le %1$s vers &font_cyan;%2$d&font_end;, &font_cyan;%3$d&font_end; </string>
-    <string name="quest_find_lost_item_text_giving">J\'ai perdu un(e) %1$s… La dernière fois que je l\'ai vu, je crois que c\'était vers %2$s, %3$s… Je vous le demande, &font_cyan;Cherchez &font_end;
-        le et ramenez le moi ! Merci !</string>
+    <string name="quest_find_lost_item_text_giving">J\'ai perdu un(e) %1$s… La dernière fois que je l\'ai vu, je crois que c\'était vers %2$s, %3$s… Je vous le demande, &font_cyan;cherchez-le&font_end; et ramenez le moi ! Merci !</string>
     <string name="quest_find_lost_item_text_reward">Voici ta récompense : %1$s !</string>
-    <string name="quest_find_lost_item_text_quest_screen_find">Vous devez retrouver %1$s. On t\'a conseillé d\'aller &font_cyan;Chercher &font_end;vers %2$s, %3$s.</string>
+    <string name="quest_find_lost_item_text_quest_screen_find">Vous devez retrouver %1$s. On t\'a conseillé d\'aller &font_cyan;chercher &font_end;vers %2$s, %3$s.</string>
     <string name="quest_find_lost_item_text_quest_screen_return">Remettre le %1$s à %2$s vers %3$s, %4$s.</string>
     <string name="quest_find_lost_item_text_villager_complete">Un grand merci de me rendre %1$s !</string>
     <string name="quest_find_item_now_return_to">Tu as trouvé %1$s ! Tu devrais maintenant le remettre à &font_cyan;%2$s &font_end;vers &font_cyan;%3$d&font_end;, &font_cyan;%4$d&font_end;.</string>
-    <string name="quest_find_lost_item_tile_content_name">C\'est un item de quête. Ta mission est de le rapporter à son propriétaire.</string>
+    <string name="quest_find_lost_item_tile_content_name">C\'est un objet de quête. Ta mission est de le rapporter à son propriétaire.</string>
 
     <string name="quest_find_lost_item_item_name_001" tools:ignore="UnusedResources">une boîte</string>
     <string name="quest_find_lost_item_item_name_002" tools:ignore="UnusedResources">un sac mystérieux</string>
@@ -1120,8 +1119,8 @@
     <string name="quest_find_lost_item_item_name_058" tools:ignore="UnusedResources">un visage familier</string>
     <string name="quest_find_lost_item_item_name_059" tools:ignore="UnusedResources">un caillou bizarre</string>
     <string name="quest_find_lost_item_item_name_060" tools:ignore="UnusedResources">une araignée extraordinaire</string>
-    <string name="quest_find_lost_item_item_name_061" tools:ignore="UnusedResources">une photo d\'un chien</string>
-    <string name="quest_find_lost_item_item_name_062" tools:ignore="UnusedResources">une photo d\'un chat</string>
+    <string name="quest_find_lost_item_item_name_061" tools:ignore="UnusedResources">une photo de chien</string>
+    <string name="quest_find_lost_item_item_name_062" tools:ignore="UnusedResources">une photo de chat</string>
     <string name="quest_find_lost_item_item_name_063" tools:ignore="UnusedResources">une peinture onéreuse</string>
     <string name="quest_find_lost_item_item_name_064" tools:ignore="UnusedResources">un objet inutile</string>
     <string name="quest_find_lost_item_item_name_065" tools:ignore="UnusedResources">un étrange appareil</string>
@@ -1136,7 +1135,7 @@
     <string name="quest_bring_items_text_quest_screen">Apporte %1$s %2$s à %3$s vers %4$s, %5$s</string>
     <string name="quest_bring_items_text_villager_not_enough">Oh, j\'ai besoin de %1$s %2$s, tu as encore besoin de %3$s de plus…</string>
     <string name="quest_bring_items_text_villager_give_items">Donner %1$s %2$s à %3$s ?</string>
-    <string name="quest_bring_items_text_you_have_the_items">Tu as les items !</string>
+    <string name="quest_bring_items_text_you_have_the_items">Tu as les objets !</string>
 
     <string name="quest_rescue_someone_text_giving">Vous devriez aller secourir %1$s ! La dernière fois que je l\'ai vu, c\'était vers %2$s, %3$s, je vous en prie, faites vite !</string>
     <string name="quest_rescue_someone_text_quest_screen_rescue">Va secourir %1$s ! Cherche vers%2$s, %3$s.</string>
@@ -1144,7 +1143,7 @@
     <string name="quest_rescue_someone_text_villager_complete">Merci d\'avoir retrouvé %1$s !</string>
     <string name="quest_rescue_someone_text_reward">Voici votre récompense : %1$s d\'or !</string>
     <string name="quest_rescue_someone">Secourir quelqu\'un</string>
-    <string name="quest_rescue_someone_text_output_rescued">Secouru \"%1$s\" !</string>
+    <string name="quest_rescue_someone_text_output_rescued">\"%1$s\" secouru !</string>
     <string name="quest_rescue_someone_following_you">&font_quest;%1$s &font_end;est ici et te suit…</string>
 
     <string name="quest_rescue_someone_name_1" tools:ignore="UnusedResources">La princesse</string>
@@ -2974,26 +2973,26 @@
     <string name="title_the_hauler_no_gender">%1$s, le/la &font_stone;Apprenti mineur&font_end;</string>
     <string name="title_the_miner_no_gender">%1$s, le/la &font_stone;Mineur&font_end;</string>
     <string name="title_the_fisherman_no_gender">%1$s, le/la &font_cyan;Pêcheur&font_end;</string>
-    <string name="title_the_bughunter_no_gender">%1$s, the &font_insect;Bug Hunter&font_end;</string>
-    <string name="title_the_entomologist_no_gender">%1$s, the &font_insect;Entomologist&font_end;</string>
-    <string name="title_the_butcherer_no_gender">%1$s, the &font_red;Butcherer&font_end;</string>
-    <string name="title_the_skinner_no_gender">%1$s, the &font_skin;Skinner&font_end;</string>
-    <string name="title_the_furrier_no_gender">%1$s, the &font_skin;Furrier&font_end;</string>
-    <string name="title_the_romantic_no_gender">%1$s, the &font_pink;Romantic&font_end;</string>
-    <string name="title_the_merchant_no_gender">%1$s, the &font_gold;Merchant&font_end;</string>
-    <string name="title_the_merchant_master_no_gender">%1$s, the &font_gold;Merchant Master&font_end;</string>
-    <string name="title_the_bomberman_no_gender">%1$s, the &font_bomb;Bomberman&font_end;</string>
-    <string name="title_the_mimic_no_gender">%1$s, the &font_attack;Mimic&font_end;</string>
-    <string name="title_the_champion_no_gender">%1$s, the &font_attack;Champion&font_end;</string>
-    <string name="title_the_encyclokiller_no_gender">%1$s, the &font_attack;Encyclokiller&font_end;</string>
-    <string name="title_the_tyrant_no_gender">%1$s, the &font_tyrant;Tyrant&font_end;</string>
-    <string name="title_the_devil_no_gender">%1$s, the &font_red;Devil&font_end;</string>
-    <string name="title_the_corrupted_god_no_gender">%1$s, the &font_corrupted_god;Corrupted God&font_end;</string>
-    <string name="title_the_obsessed_no_gender">%1$s, the &font_wise;Obsessed&font_end;</string>
-    <string name="title_the_animal_lover_no_gender">%1$s, the &font_animal;Animal Lover&font_end;</string>
-    <string name="title_the_purifier_no_gender">%1$s, the &font_purifying;Purifier&font_end;</string>
-    <string name="title_the_ranger_no_gender">%1$s, the &font_wood;Ranger&font_end;</string>
-    <string name="title_the_librarian_no_gender">%1$s, the &font_wood;Librarian&font_end;</string>
+    <string name="title_the_bughunter_no_gender">%1$s, le/la &font_insect;Chasseur d'insectes&font_end;</string>
+    <string name="title_the_entomologist_no_gender">%1$s, le/la &font_insect;Entomologiste&font_end;</string>
+    <string name="title_the_butcherer_no_gender">%1$s, le/la &font_red;Boucher&font_end;</string>
+    <string name="title_the_skinner_no_gender">%1$s, l'&font_skin;Écorcheur&font_end;</string>
+    <string name="title_the_furrier_no_gender">%1$s, le/la &font_skin;Dépeceur&font_end;</string>
+    <string name="title_the_romantic_no_gender">%1$s, le/la &font_pink;Romantique&font_end;</string>
+    <string name="title_the_merchant_no_gender">%1$s, le/la &font_gold;Marchand&font_end;</string>
+    <string name="title_the_merchant_master_no_gender">%1$s, le/la &font_gold;Maître marchand&font_end;</string>
+    <string name="title_the_bomberman_no_gender">%1$s, le/la &font_bomb;Bomberman&font_end;</string>
+    <string name="title_the_mimic_no_gender">%1$s, le/la &font_attack;Imitateur&font_end;</string>
+    <string name="title_the_champion_no_gender">%1$s, le/la &font_attack;Champion&font_end;</string>
+    <string name="title_the_encyclokiller_no_gender">%1$s, le/la &font_attack;Encyclotueur&font_end;</string>
+    <string name="title_the_tyrant_no_gender">%1$s, le &font_tyrant;Tyran&font_end;</string>
+    <string name="title_the_devil_no_gender">%1$s, le/la &font_red;Démon&font_end;</string>
+    <string name="title_the_corrupted_god_no_gender">%1$s, le/la &font_corrupted_god;Dieu corrompu&font_end;</string>
+    <string name="title_the_obsessed_no_gender">%1$s, l'&font_wise;Obsédé&font_end;</string>
+    <string name="title_the_animal_lover_no_gender">%1$s, l'&font_animal;Amis des animaux&font_end;</string>
+    <string name="title_the_purifier_no_gender">%1$s, le/la &font_purifying;Purificateur&font_end;</string>
+    <string name="title_the_ranger_no_gender">%1$s, le/la &font_wood;Ranger&font_end;</string>
+    <string name="title_the_librarian_no_gender">%1$s, le/la &font_wood;Libraire&font_end;</string>
 
     <string name="skill_crafter">&font_cyan;Artisan&font_end;</string>
     <string name="skill_crafter_description">Permet de &font_cyan;fabriquer&font_end; à partir des objets de l\'&font_wood;inventaire &font_end;et de ceux de la &font_wood;réserve&font_end;</string>
@@ -3011,7 +3010,7 @@
 
     <string name="achievement_name_animal_lover">Murmureur des animaux</string>
 
-    <string name="food_fish_stick">&font_wood;Bâton &font_end;de &font_cyan;poisson&font_end;</string>
+    <string name="food_fish_stick">&font_wood;bâton &font_end;de &font_cyan;poisson&font_end;</string>
 
     <string name="new_game_whats_your_race">… et quelle est votre race ?</string>
 
@@ -3026,8 +3025,8 @@
     <string name="race_lizard">&font_yellow;Lézard&font_end;</string>
     <string name="race_unknown">&font_white;Inconnu&font_end;</string>
 
-    <string name="race_human_desc">La plus polyvalente et flexible des races communes. Their alignment resides in the fine line between good and evil. They are balanced in fighting and magic and have an innate knowledge of crafting, and are natural explorers.</string>
-    <string name="race_dwarf_desc">They used to live under the mountains just caring about their mines and beers, but due to the recent spreading of evil in the world, many have started to explore the world to live their own legends like their ancestors did in the past. They are one of the strongest races, having great mining skills, and they are the only ones capable of crafting Beer.</string>
+    <string name="race_human_desc">La plus polyvalente et flexible des races communes. Leur force réside en un esprit capable du bien comme du mal. Il sont équilibrés pour le combat et la magie. Ils ont une connaissance innée de la fabrication et sont des explorateurs-nés.</string>
+    <string name="race_dwarf_desc">Intéressés uniquement par les mines et la bière, ils sont habitués à vivre sous terre. Mais suite à l'expansion du mal, ils ont commencés à explorer le monde et marcher dans les pas de leurs légendaires ancètres. Ils sont une des races les plus robustes, avec de bonnes compétences de minage et sont également les seuls à savoir confectionner de la bière.</string>
     <string name="race_halfling_desc">Even though they have appeared on books and stories, almost no one has seen one in their life, as Halflings are peaceful people who live in their own hidden villages, cooking, eating, reading about stories from the first era, and living all kinds of fantasy in their minds. Since evil has started spreading around the world, some of the most brave Halfling have started their own adventures like the ones they read on their books.</string>
     <string name="race_gnome_desc">They take delight in life, enjoying every moment of invention, exploration and investigation. They used to be focused just on their inventions, and exploration, but recently many brave Gnomes have been seen adventuring around the world.</string>
     <string name="race_elf_desc">Elves are magical people of otherworldly grace, living in the world but not entirely part of it. Selfish and egocentric, they are worried about their future due to the increased presence of evil, so they have started to become more present in the world in search for their salvation.</string>
@@ -3064,71 +3063,71 @@
     <string name="item_epic_beer">&font_gold;Bière &font_end;&font_epic;épique&font_end;</string>
     <string name="item_info_beer">Buvez ça pour regagner &font_cyan;%1$d%% &font_end;de &font_health;vie&font_end;, &font_mana;mana &font_end;et &font_hunger;faim&font_end; !</string>
 
-    <string name="drink_beer_restored">Drank &font_gold;Beer &font_end;and restored &font_health;%1$d &font_end;health, &font_mana;%2$d &font_end;mana and &font_hunger;%3$d &font_end;hunger!</string>
+    <string name="drink_beer_restored">Vous buvez une &font_gold;bière &font_end;et regagnez &font_health;%1$d &font_end;de vie, &font_mana;%2$d &font_end;mana et &font_hunger;%3$d &font_end;faim !</string>
 
-    <string name="skill_foodie">&font_food;Foodie&font_end;</string>
+    <string name="skill_foodie">&font_food;Gourmand&font_end;</string>
     <string name="skill_gourmet">&font_food;Gourmet&font_end;</string>
 
-    <string name="skill_foodie_description">Increased max. hunger, allowing to resist longer without eating.</string>
-    <string name="skill_gourmet_description">Increases the hunger restored when eating.</string>
+    <string name="skill_foodie_description">Augmente la faim max, permet de résister plus longtemps sans manger.</string>
+    <string name="skill_gourmet_description">Augmente la faim restaurée en mangeant.</string>
 
-    <string name="skill_gnomic_space">&font_wood;Gnomic Space&font_end;</string>
-    <string name="skill_gnomic_space_description">Increases the inventory size by &font_cyan;10&font_end;.</string>
+    <string name="skill_gnomic_space">&font_wood;Espace gnomique&font_end;</string>
+    <string name="skill_gnomic_space_description">Augmente la taille de l'inventaire de &font_cyan;10&font_end;.</string>
 
-    <string name="skill_mana_flow">&font_mana;Mana Flow&font_end;</string>
-    <string name="skill_mana_flow_description">Regenerates &font_cyan;1% &font_end;&font_mana;mana &font_end;every turn if &font_mana;health &font_end;is over &font_cyan;50%&font_end;.</string>
+    <string name="skill_mana_flow">&font_mana;Flux de mana&font_end;</string>
+    <string name="skill_mana_flow_description">Régénère &font_cyan;1 % de &font_end;&font_mana;mana &font_end;chaque tour si la &font_mana;vie &font_end;est supérieure à &font_cyan;50 %&font_end;.</string>
 
-    <string name="skill_reckoner">&font_cyan;Reckoner&font_end;</string>
-    <string name="skill_reckoner_description">Can always see the difficulty of killing a &font_red;Monster&font_end;.</string>
+    <string name="skill_reckoner">&font_cyan;Calculations&font_end;</string>
+    <string name="skill_reckoner_description">Donne un indicateur de difficulté pour abattre un &font_red;monstre&font_end;.</string>
 
-    <string name="reckon_easy">[&font_green;Easy&font_end;]</string>
-    <string name="reckon_fair">[&font_yellow;Fair&font_end;]</string>
-    <string name="reckon_hard">[&font_red;Hard&font_end;]</string>
+    <string name="reckon_easy">[&font_green;Facile&font_end;]</string>
+    <string name="reckon_fair">[&font_yellow;Normal&font_end;]</string>
+    <string name="reckon_hard">[&font_red;Difficile&font_end;]</string>
 
-    <string name="skill_weather_immunity">&font_green;Weather Immunity&font_end;</string>
-    <string name="skill_weather_immunity_description">Immune to &font_red;Hot &font_end;or &font_tundra;Cold &font_end;damage.</string>
+    <string name="skill_weather_immunity">&font_green;Résistance climatique&font_end;</string>
+    <string name="skill_weather_immunity_description">Insensible aux dégâts dûs au &font_red;chaud &font_end;ou au &font_tundra;froid &font_end;.</string>
 
-    <string name="skill_undead_hunger">&font_hunger;Undead Hunger&font_end;</string>
-    <string name="skill_undead_hunger_description">&font_hunger;Hunger &font_end;increases faster, but can eat from corpses to restore &font_hunger;Hunger&font_end;, &font_health;Health &font_end;and &font_mana;Mana&font_end;.</string>
+    <string name="skill_undead_hunger">&font_hunger;Appétit morbide&font_end;</string>
+    <string name="skill_undead_hunger_description">La &font_hunger;faim &font_end;augmente plus vite, mais vous pouvez manger à même les cadavres pour restaurer votre &font_hunger;faim&font_end;, &font_health;vie &font_end;et &font_mana;mana&font_end;.</string>
 
-    <string name="skill_undead_hunger_ate_corpse">Ate %1$s and restored &font_health;%2$d &font_end;health, &font_mana;%3$d &font_end;mana and &font_hunger;%4$d &font_end;hunger!</string>
+    <string name="skill_undead_hunger_ate_corpse">Vous mangez %1$s et regagnez &font_health;%2$d &font_end;de vie, &font_mana;%3$d &font_end;de mana et &font_hunger;%4$d &font_end;de faim !</string>
 
-    <string name="skill_tough_skin">&font_dark_green;Tough Skin&font_end;</string>
-    <string name="skill_tough_skin_description">&font_cyan;5% &font_end;damage reduction in combat.</string>
+    <string name="skill_tough_skin">&font_dark_green;Peau dure&font_end;</string>
+    <string name="skill_tough_skin_description">&font_cyan;5 % &font_end;des dégâts réduits en combat.</string>
 
-    <string name="skill_first_strike">&font_dark_green;First Strike&font_end;</string>
-    <string name="skill_first_strike_description">When attacking a monster, performs an initial hit.</string>
+    <string name="skill_first_strike">&font_dark_green;Premier coup&font_end;</string>
+    <string name="skill_first_strike_description">Quand vous attaquez un monstre, vous effectuez un coup initial.</string>
 
-    <string name="skill_regeneration">&font_health;Regeneration&font_end;</string>
-    <string name="skill_regeneration_description">Regenerates &font_cyan;2% &font_end;of &font_health;health &font_end;every turn when the weather is &font_yellow;Sunny&font_end;</string>
+    <string name="skill_regeneration">&font_health;Photosynthèse&font_end;</string>
+    <string name="skill_regeneration_description">Régénère &font_cyan;2 % &font_end;de &font_health;vie &font_end;chaque tour où la météo est &font_yellow;ensoleillée&font_end;</string>
 
-    <string name="skill_slippery">&font_cyan;Slippery&font_end;</string>
-    <string name="skill_slippery_description">Always succeeds fleeing (if fleeing is allowed).</string>
+    <string name="skill_slippery">&font_cyan;Déserteur&font_end;</string>
+    <string name="skill_slippery_description">La fuite est toujours un succès (si possible).</string>
 
-    <string name="skill_insect_eater">&font_insect;Insect Eater&font_end;</string>
-    <string name="skill_insect_eater_description">Can &font_hunger;eat &font_end;&font_insect;insects &font_end;without having to capture them.</string>
+    <string name="skill_insect_eater">&font_insect;Mangeur d\'insectes&font_end;</string>
+    <string name="skill_insect_eater_description">Peut &font_hunger;manger &font_end;&font_insect;des insectes &font_end;sans avoir à les capturer.</string>
 
-    <string name="skill_insect_eater_ate_insect">Ate &font_insect;%1$s &font_end;and restored &font_cyan;%2$d &font_end;&font_hunger;hunger&font_end;.</string>
+    <string name="skill_insect_eater_ate_insect">Vous mangez &font_insect;%1$s &font_end;et regagnez &font_cyan;%2$d &font_end;&font_hunger;de faim&font_end;.</string>
 
-    <string name="easter_egg_dwarf_mine">I am a Dwarf and I\'m digging a hole…</string>
+    <string name="easter_egg_dwarf_mine">Je suis un nain et je creuse un trou…</string>
 
-    <string name="skill_weapon_learner">&font_iron;Weapon Learner&font_end;</string>
-    <string name="skill_weapon_learner_description">Learn the Weapon Mastery skills faster.</string>
-    <string name="settings_craft_toast_enabled">Enable Crafting Toast</string>
-    <string name="button_all">All</string>
+    <string name="skill_weapon_learner">&font_iron;Manieur d\'armes&font_end;</string>
+    <string name="skill_weapon_learner_description">Apprenez les compétences de maîtrise d'armes plus rapidement.</string>
+    <string name="settings_craft_toast_enabled">Activer notifications de fabrication</string>
+    <string name="button_all">Tout</string>
     <string name="cemetery_clear_message">Voulez-vous supprimer toutes les données des héros morts ?</string>
 
     <string name="menu_cemetery_all">Cimetière (&font_cyan;Tout&font_end;)</string>
     <string name="menu_cemetery_permadeath">Cimetière (&font_red;Mort permanente&font_end;)</string>
     <string name="menu_cemetery_no_permadeath">Cimetière (&font_green;Mort non-permanente&font_end;)</string>
 
-    <string name="game_over_rank_permadeath">You ranked &font_cyan;#%d &font_end;on &font_red;Permadeath &font_end;in the Cemetery.</string>
-    <string name="game_over_rank_no_permadeath">You ranked &font_cyan;#%d &font_end;on &font_green;No Permadeath &font_end;in the Cemetery.</string>
+    <string name="game_over_rank_permadeath">Vous vous placez &font_cyan;#%d &font_end;en mode &font_red;mort permanente &font_end;dans le cimetière.</string>
+    <string name="game_over_rank_no_permadeath">Vous vous placez &font_cyan;#%d &font_end;en mode &font_green;mort non-permanente &font_end;dans le cimetière.</string>
 
-    <string name="blacksmith_level_up_button">Level Up &font_iron;Blacksmith&font_end;: &font_gold;%1$d&font_end;</string>
-    <string name="blacksmith_level">&font_iron;Blacksmith &font_end;Level: &font_cyan;%1$d&font_end;</string>
-    <string name="blacksmith_levelup_dialog_text">Level up Blacksmith per &font_gold;%1$d &font_end;gold?&br;&br;(Slightly improves the levelled up equipment, increases the success rate of &font_copper;scrapping &font_end;, and reduces the cost of crafting bars)</string>
-    <string name="blacksmith_scrap_probability">Success rate: %1$s%%</string>
+    <string name="blacksmith_level_up_button">Monter niv. de &font_iron;forge&font_end; : &font_gold;%1$d&font_end;</string>
+    <string name="blacksmith_level">Niveau de &font_iron;forge&font_end; : &font_cyan;%1$d&font_end;</string>
+    <string name="blacksmith_levelup_dialog_text">Monter le niveau de forge pour &font_gold;%1$d &font_end;d'or ?&br;&br;(Améliore légèrement l'équipement en question, augmente les taux de réussite de &font_copper;morcelage &font_end;et réduit les coûts de fabrication des barres)</string>
+    <string name="blacksmith_scrap_probability">Taux de réussite : %1$s%%</string>
     <string name="success_lower_than_100">&font_cyan;%1$d&font_end;</string>
     <string name="success_100">&font_green;%1$d&font_end;</string>
 
@@ -3194,12 +3193,12 @@
     <string name="world_add_mark_message_replacing">There\'s already one mark added to this island, adding a new one will replace the previous mark.&br;&br;Add a mark to be displayed in the island list (write only &font_cyan;1 &font_end;character):</string>
     <string name="mark_color_title">Choose color for the mark:</string>
 
-    <string name="craft_would_die_crafting">You\'re dying of &font_hunger;hunger&font_end;!</string>
+    <string name="craft_would_die_crafting">Vous mourrez de &font_hunger;faim&font_end; !</string>
 
-    <string name="skill_teleport">&font_portal;Teleport&font_end;</string>
-    <string name="skill_teleport_desc">&font_portal;Teleports &font_end;to a random location in the island. Costs &font_mana;10 mana &font_end;points.</string>
+    <string name="skill_teleport">&font_portal;Teleportation&font_end;</string>
+    <string name="skill_teleport_desc">Vous &font_portal;téléporte &font_end;aléatoirement sur l'île. Coûte &font_mana;10 pts de mana &font_end;.</string>
 
-    <string name="yang_amulet">&font_white;Yang &font_end;Amulet</string>
+    <string name="yang_amulet">Amulette &font_white;Yang&font_end;</string>
 
     <string name="settings_show_main_stats">Montrer stats principales</string>
 
