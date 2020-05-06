@@ -365,7 +365,7 @@
     <string name="status_skills_learnt">Умений изучено: &font_green;%1$d&font_end;</string>
     <string name="status_spells_learnt">Заклинаний изучено: &font_mana;%1$d&font_end;</string>
     <string name="status_main_story_times">Основной сюжет закончен раз: &font_green;%1$d&font_end;</string>
-    <string name="status_void_master_times">Властитель Пустоты убит раз: &font_green;%1$d&font_end;</string>
+    <string name="status_void_master_times">Властитель Бездны убит раз: &font_green;%1$d&font_end;</string>
     <string name="status_deaths">Смертей: &font_red;%1$d&font_end;</string>
     <string name="status_ascended_times">Божественных Предметов: &font_green;%1$d&font_end;</string>
     <string name="status_met_the_creator_times">Встретил Создателя раз: &font_green;%1$d&font_end;</string>
@@ -2959,7 +2959,7 @@
     <string name="race_gnome_desc">Они любят жизнь, наслаждаются каждым мгновением процесса изобретения и исследования. Раньше они думали только о своих изобретениях и исследованиях, но в последнее время многие смелые Гномы стали выходить в мир.</string>
     <string name="race_elf_desc">Эльфы - волшебный народ с внеземной грациозностью, живущий в мире, но не являющийся настоящей его частью. Эгоистичные и эгоцентричные, они заботятся только о своём будущем перед лицом зла, поэтому стали чаще появляться в мире в поисках своего спасения.</string>
     <string name="race_drow_desc">Считаются злой версией обычных эльфов. Они чрезвычайно умны, харизматичны и ловки, но обладают хрупкостью эльфов. Их отличают белые или серебряные волосы и обсидианово-чёрная кожа.</string>
-    <string name="race_undead_desc">Once living humans brought to life in a horrifying state of undeath through the practice of necromantic magic. They have great strength and intelligence but lack of speed. Their hunger increases faster than the other races, but they can eat corpses to restore Mana, Hunger, and Health.</string>
+    <string name="race_undead_desc">Живших когда-то людей вернули к жизни в ужасающем состоянии нежити посредством некромантии. Обладают большой силой и высоким интеллектом, но им не хватает скорости. Их голод увеличивается быстрее, но они могут есть трупы, чтобы восстановить Ману, Голод и Здоровье.</string>
     <string name="race_orc_desc">Грубые и дикие, орки объединяются в племена и живут охотой да разбоем. Любители войны, они нашли прекрасного врага в том зле, что недавно начало распространяться в мире. Они стали общаться с другими расами, с которыми до этого говорили лишь на языке оружия и магии.</string>
     <string name="race_lizard_desc">Полу-амфибии, человекоподобные рептилии. Их кожа покрыта чешуёй и может быть разного цвета, начиная с тёмно-зелёного и заканчивая оттенками коричневого и серого. Самые смелые из них путешествовали по миру, чтобы найти новые места для жизни, а также помочь в борьбе со злом.</string>
     <string name="race_unknown_desc">Странное создание, которого никто до сих пор никогда не видел. Уравновешенно, умно, может приспособиться к любой ситуации, но цель его существования остаётся загадкой.</string>
@@ -2968,147 +2968,147 @@
 
     <string name="race_attributes_with_numbers">Атака: &font_attack;%1$s &font_end;Защ.: &font_defense;%2$s&font_end;&br;Интел.: &font_mana;%3$s &font_end;Скорость: &font_speed;%4$s&font_end;</string>
 
-    <string name="status_attack_new">Attack:&font_attack;\t%1$d &font_end;&br;(Base (%2$d%%): &font_attack;%3$d&font_end;, Eq (%4$d%%): &font_attack;%5$d&font_end;, +Temp: &font_attack;%6$d&font_end;)</string>
+    <string name="status_attack_new">Атака:&font_attack;\t%1$d &font_end;&br;(Base (%2$d%%): &font_attack;%3$d&font_end;, Eq (%4$d%%): &font_attack;%5$d&font_end;, +Temp: &font_attack;%6$d&font_end;)</string>
     <string name="status_defense_new">Defense:&font_defense;\t%1$d &font_end;&br;(Base (%2$d%%): &font_defense;%3$d&font_end;, Eq (%4$d%%): &font_defense;%5$d&font_end;, +Temp: &font_defense;%6$d&font_end;)</string>
     <string name="status_speed_new">Speed:\t&font_speed;%1$d &font_end;&br;(Base (%2$d%%): &font_speed;%3$d&font_end;, Eq (%4$d%%): &font_speed;%5$d&font_end;, +Temp: &font_speed;%6$d&font_end;)</string>
     <string name="status_intelligence_new">Intelligence:\t&font_mana;%1$d &font_end;&br;(Base (%2$d%%): &font_mana;%3$d&font_end;, Eq (%4$d%%): &font_mana;%5$d&font_end;, +Temp: &font_mana;%6$d&font_end;)</string>
 
-    <string name="skill_natural_explorer">&font_cyan;Natural Explorer&font_end;</string>
-    <string name="skill_natural_explorer_description">Can see the surrounding tiles when moving around, making it easier to explore.</string>
+    <string name="skill_natural_explorer">&font_cyan;Естествоиспытатель&font_end;</string>
+    <string name="skill_natural_explorer_description">Может видеть названия находящихся рядом предметов при передвижении, что значительно упрощает процесс исследования.</string>
 
-    <string name="human_traits">&font_cyan;* &font_end;Start knowing some basic crafting recipes.&br;&br;&font_cyan;* &font_end;Start with some &font_food;food&font_end;.&br;&br;&font_cyan;Natural Explorer&font_end;: Can see the surrounding tiles when moving around, making it easier to explore.</string>
-    <string name="dwarf_traits">&font_cyan;* &font_end;Starts with a &font_silver;Pickaxe&font_end;.&br;&br;&font_cyan;Blacksmith&font_end;: Increases the chances of crafting better weapons, shields and armors. (Level &font_cyan;%1$d&font_end;).&br;&br;&font_gold;Beer &font_end;&font_cyan;Crafter&font_end;: Can craft &font_gold;Beer &font_end;and &font_epic;Epic&font_end; &font_gold;Beer &font_end;(and start with the necessary materials to craft a &font_gold;Beer&font_end;).</string>
-    <string name="halfling_traits">&font_food;Foodie&font_end;: Increased max. hunger, allowing to resist longer without eating.&br;&br;&font_food;Gourmet&font_end;: Increases the hunger restored when eating.&br;&br;&font_cyan;Discrete&font_end;: Reduces the probability of being attacked by a &font_red;Monster &font_end;by &font_cyan;33&font_end;%.</string>
-    <string name="gnome_traits">&font_wood;Gnomic Space&font_end;: Increases the inventory size by &font_cyan;10&font_end;.&br;&br;&font_bomb;Bomber&font_end;: Starts with some &font_gunpowder;Gunpowder&font_end;, various &font_bomb;Bombs &font_end;and knowing how to craft them.&br;&br;&font_cyan;Perceptive&font_end;: Detects when there\'s something hidden, so you can &font_cyan;Search &font_end;to find it.</string>
-    <string name="elf_traits">&font_cyan;* &font_end;Starts with &font_cyan;5 &font_end;x &font_plant;Plant &font_end;and &font_cyan;5 &font_end;x &font_mushroom;Mushroom&font_end;.&br;&br;&font_mana;Mana Flow&font_end;: Regenerates &font_cyan;1% &font_end;&font_mana;mana &font_end;every turn if &font_health;health &font_end;is over &font_cyan;50%&font_end;.&br;&br;&font_mana;Elven Magic&font_end;: Have extra &font_mana;mana &font_end;(&font_cyan;+25&font_end;).</string>
-    <string name="drow_traits">&font_portal;Teleport&font_end;: Can &font_portal;teleport &font_end;to a random location in the island.&br;&br;&font_mana;Mana Flow&font_end;: Regenerates &font_cyan;1% &font_end;&font_mana;mana &font_end;every turn if &font_health;health &font_end;is over &font_cyan;50%&font_end;.&br;&br;&font_mana;Elven Magic&font_end;: Have extra &font_mana;mana &font_end;(&font_cyan;+25&font_end;).</string>
-    <string name="undead_traits">&font_green;Weather Immunity&font_end;: Immune to &font_red;Hot &font_end;or &font_tundra;Cold &font_end;damage.&br;&br;&font_health;Unbreakable&font_end;: If a &font_red;Monster&font_end;\'s attack would kill you, you resist it and survive with &font_health;1 &font_end;health point.&br;&br;&font_hunger;Undead Hunger&font_end;: &font_hunger;Hunger &font_end;increases faster, but can eat from corpses to restore &font_hunger;Hunger&font_end;, &font_health;Health &font_end;and &font_mana;Mana&font_end;.</string>
-    <string name="orc_traits">&font_dark_green;Tough Skin&font_end;: &font_cyan;5%% &font_end;damage reduction in combat.&br;&br;&font_attack;Berserk&font_end;: In combat, using the "Attack" command increases a &font_cyan;10%% &font_end;the damage each turn. When using a different action in combat, the &font_attack;Berserk &font_end;bonus is lost.&br;&br;&font_dark_green;First Strike&font_end;: When attacking a monster, performs an initial hit.&br;&br;</string>
-    <string name="lizard_traits">&font_health;Regeneration&font_end;: Regenerates &font_cyan;2%% &font_end;of &font_health;health &font_end;every turn when the weather is &font_yellow;Sunny&font_end;.&br;&br;&font_cyan;Slippery&font_end;: Always succeeds fleeing (if fleeing is allowed).&br;&br;&font_insect;Insect Eater&font_end;: Can &font_hunger;eat &font_end;&font_insect;insects &font_end;without having to capture them.</string>
-    <string name="unknown_traits">&font_cyan;* &font_end;Start with &font_cyan;15 &font_end;Skill Points.&br;&br;&font_cyan;* &font_end;Start with a random &font_cyan;Nautical Chart&font_end;&br;&br;&font_cyan;* &font_end;Start with a random &font_mana;Spell &font_end;Book.</string>
+    <string name="human_traits">&font_cyan;* &font_end;Начинает со знанием базовых рецептов.&br;&br;&font_cyan;* &font_end;Начинает с некоторым количеством &font_food;еды&font_end;.&br;&br;&font_cyan;Естествоиспытатель&font_end;: Может видеть названия находящихся рядом предметов при передвижении, что значительно упрощает процесс исследования.</string>
+    <string name="dwarf_traits">&font_cyan;* &font_end;Начинает с &font_silver;Киркой&font_end;.&br;&br;&font_cyan;Кузнец&font_end;: Выше шанс изготовить лучшее оружие, щиты и доспехи. (Уровень &font_cyan;%1$d&font_end;).&br;&br;&font_cyan;Изготовитель &font_end;&font_gold;Пива&font_end;: Может изготовить &font_gold;Пиво &font_end;и &font_epic;Легендарное&font_end; &font_gold;Пиво &font_end;(и начинает с необходимыми для изготовления &font_gold;Пива &font_end;материалами).</string>
+    <string name="halfling_traits">&font_food;Едок&font_end;: Повышенный уровень макс. голода, что позволяет дольше обходиться без еды.&br;&br;&font_food;Гурман&font_end;: Повышенное восстановление голода при поглощении пищи.&br;&br;&font_cyan;Незаметный&font_end;: Ниже шанс быть атакованным &font_red;Монстром &font_end;на &font_cyan;33&font_end;%.</string>
+    <string name="gnome_traits">&font_wood;Гномическое пространство&font_end;: Увеличенный размер инвентаря на &font_cyan;10&font_end;.&br;&br;&font_bomb;Сапёр&font_end;: Начинает с некоторым количеством &font_gunpowder;Пороха&font_end;, разных &font_bomb;Бомб &font_end;и знанием рецептом их изготовления.&br;&br;&font_cyan;Чуткий&font_end;: Обнаруживает скрытые предметы, так что вы можеть начать &font_cyan;Поиск &font_end;и найти их.</string>
+    <string name="elf_traits">&font_cyan;* &font_end;Начинает с &font_cyan;5 &font_end;x &font_plant;Растениями &font_end;и &font_cyan;5 &font_end;x &font_mushroom;Грибами&font_end;.&br;&br;&font_mana;Поток маны&font_end;: Восстанавливает &font_cyan;1% &font_end;&font_mana;маны &font_end;при каждом ходе, если &font_health;здоровья &font_end;больше &font_cyan;50%&font_end;.&br;&br;&font_mana;Эльфийская магия&font_end;: Дополнительная &font_mana;мана &font_end;(&font_cyan;+25&font_end;).</string>
+    <string name="drow_traits">&font_portal;Телепортация&font_end;: Может &font_portal;телепортироваться &font_end;в случайную точку острова.&br;&br;&font_mana;Поток маны&font_end;: Восстанавливает &font_cyan;1% &font_end;&font_mana;маны &font_end;при каждом ходе, если &font_health;здоровья &font_end;больше &font_cyan;50%&font_end;.&br;&br;&font_mana;Эльфийская магия&font_end;: Дополнительная &font_mana;мана &font_end;(&font_cyan;+25&font_end;).</string>
+    <string name="undead_traits">&font_green;Иммунитет к погоде&font_end;: Имеет иммунитет к урону &font_red;Жарой &font_end;или &font_tundra;Холодом&font_end;.&br;&br;&font_health;Неразрушимый&font_end;: Если атака &font_red;Монстра &font_end;убивает вас, вы сможете выстоять и остаться в живых с &font_health;1 &font_end;очком здоровья.&br;&br;&font_hunger;Жажда мертвячины&font_end;: &font_hunger;Голод &font_end;увеличивается быстрее, но можно есть трупы, чтобы восстановить &font_hunger;Голод&font_end;, &font_health;Здоровье &font_end;и &font_mana;Ману&font_end;.</string>
+    <string name="orc_traits">&font_dark_green;Толстая кожа&font_end;: &font_cyan;5%% &font_end;снижение урона в бою.&br;&br;&font_attack;Берсерк&font_end;: В бою использование команды "Атака" увеличивает урон на каждом ходе на &font_cyan;10%% &font_end;. При использовании разных атак бонус от &font_attack;Берсерка &font_end;пропадает.&br;&br;&font_dark_green;Первый удар&font_end;: При нападении на монстра наносит первый удар.&br;&br;</string>
+    <string name="lizard_traits">&font_health;Регенерация&font_end;: Восстанавливает &font_cyan;2%% &font_end;&font_health;здоровья &font_end;при каждом ходе, если погода &font_yellow;Солнечная&font_end;.&br;&br;&font_cyan;Изворотливый&font_end;: Всегда успешно сбегает (если возможно сбежать).&br;&br;&font_insect;Пожиратель насекомых&font_end;: Можно &font_hunger;есть &font_end;&font_insect;насекомых&font_end;, не ловя их.</string>
+    <string name="unknown_traits">&font_cyan;* &font_end;Начинает с &font_cyan;15 &font_end;Очками Навыков.&br;&br;&font_cyan;* &font_end;Начинает со случайной &font_cyan;Навигационной картой&font_end;&br;&br;&font_cyan;* &font_end;Начинает со случайной Книгой &font_mana;Заклинаний&font_end;.</string>
 
-    <string name="item_beer">&font_gold;Beer&font_end;</string>
-    <string name="item_epic_beer">&font_epic;Epic&font_end; &font_gold;Beer&font_end;</string>
-    <string name="item_info_beer">Drink this to restore &font_cyan;%1$d%% &font_end;of your &font_health;health&font_end;, &font_mana;mana &font_end;and &font_hunger;hunger&font_end;!</string>
+    <string name="item_beer">&font_gold;Пиво&font_end;</string>
+    <string name="item_epic_beer">&font_epic;Легендарное&font_end; &font_gold;Пиво&font_end;</string>
+    <string name="item_info_beer">Выпейте, чтобы восстановить &font_cyan;%1$d%% &font_end;вашего &font_health;здоровья&font_end;, &font_mana;маны &font_end;и &font_hunger;голода&font_end;!</string>
 
-    <string name="drink_beer_restored">Drank &font_gold;Beer &font_end;and restored &font_health;%1$d &font_end;health, &font_mana;%2$d &font_end;mana and &font_hunger;%3$d &font_end;hunger!</string>
+    <string name="drink_beer_restored">Вы выпили &font_gold;Пиво &font_end;и восстановили &font_health;%1$d &font_end;здоровья, &font_mana;%2$d &font_end;маны и &font_hunger;%3$d &font_end;голода!</string>
 
-    <string name="skill_foodie">&font_food;Foodie&font_end;</string>
-    <string name="skill_gourmet">&font_food;Gourmet&font_end;</string>
+    <string name="skill_foodie">&font_food;Едок&font_end;</string>
+    <string name="skill_gourmet">&font_food;Гурман&font_end;</string>
 
-    <string name="skill_foodie_description">Increased max. hunger, allowing to resist longer without eating.</string>
-    <string name="skill_gourmet_description">Increases the hunger restored when eating.</string>
+    <string name="skill_foodie_description">Повышенный уровень макс. голода, что позволяет дольше обходиться без еды.</string>
+    <string name="skill_gourmet_description">Повышенное восстановление голода при поглощении пищи.</string>
 
-    <string name="skill_gnomic_space">&font_wood;Gnomic Space&font_end;</string>
-    <string name="skill_gnomic_space_description">Increases the inventory size by &font_cyan;10&font_end;.</string>
+    <string name="skill_gnomic_space">&font_wood;Гномическое пространство&font_end;</string>
+    <string name="skill_gnomic_space_description">Увеличенный размер инвентаря на &font_cyan;10&font_end;.</string>
 
-    <string name="skill_mana_flow">&font_mana;Mana Flow&font_end;</string>
-    <string name="skill_mana_flow_description">Regenerates &font_cyan;1%&font_end; &font_mana;mana &font_end;every turn if &font_mana;health &font_end;is over &font_cyan;50%&font_end;.</string>
+    <string name="skill_mana_flow">&font_mana;Поток маны&font_end;</string>
+    <string name="skill_mana_flow_description">Восстанавливает &font_cyan;1%&font_end; &font_mana;маны &font_end;при каждом ходе, если &font_mana;здоровья &font_end;больше &font_cyan;50%&font_end;.</string>
 
-    <string name="skill_reckoner">&font_cyan;Reckoner&font_end;</string>
-    <string name="skill_reckoner_description">Can always see the difficulty of killing a &font_red;Monster&font_end;.</string>
+    <string name="skill_reckoner">&font_cyan;Расчётливый&font_end;</string>
+    <string name="skill_reckoner_description">Всегда видит, насколько трудно убить &font_red;Монстра&font_end;.</string>
 
-    <string name="reckon_easy">[&font_green;Easy&font_end;]</string>
-    <string name="reckon_fair">[&font_yellow;Fair&font_end;]</string>
-    <string name="reckon_hard">[&font_red;Hard&font_end;]</string>
+    <string name="reckon_easy">[&font_green;Легко&font_end;]</string>
+    <string name="reckon_fair">[&font_yellow;Средне&font_end;]</string>
+    <string name="reckon_hard">[&font_red;Тяжело&font_end;]</string>
 
-    <string name="skill_weather_immunity">&font_green;Weather Immunity&font_end;</string>
-    <string name="skill_weather_immunity_description">Immune to &font_red;Hot &font_end;or &font_tundra;Cold &font_end;damage.</string>
+    <string name="skill_weather_immunity">&font_green;Иммунитет к погоде&font_end;</string>
+    <string name="skill_weather_immunity_description">Имеет иммунитет к урону &font_red;Жарой &font_end;или &font_tundra;Холодом&font_end;.</string>
 
-    <string name="skill_undead_hunger">&font_hunger;Undead Hunger&font_end;</string>
-    <string name="skill_undead_hunger_description">&font_hunger;Hunger &font_end;increases faster, but can eat from corpses to restore &font_hunger;Hunger&font_end;, &font_health;Health &font_end;and &font_mana;Mana&font_end;.</string>
+    <string name="skill_undead_hunger">&font_hunger;Жажда мертвячины&font_end;</string>
+    <string name="skill_undead_hunger_description">&font_hunger;Голод &font_end;увеличивается быстрее, но можно есть трупы, чтобы восстановить &font_hunger;Голод&font_end;, &font_health;Здоровье &font_end;и &font_mana;Ману&font_end;.</string>
 
-    <string name="skill_undead_hunger_ate_corpse">Ate %1$s and restored &font_health;%2$d &font_end;health, &font_mana;%3$d &font_end;mana and &font_hunger;%4$d &font_end;hunger!</string>
+    <string name="skill_undead_hunger_ate_corpse">Вы съели %1$s и восстановили &font_health;%2$d &font_end;здоровья, &font_mana;%3$d &font_end;маны и &font_hunger;%4$d &font_end;голода!</string>
 
-    <string name="skill_tough_skin">&font_dark_green;Tough Skin&font_end;</string>
-    <string name="skill_tough_skin_description">&font_cyan;5% &font_end;damage reduction in combat.</string>
+    <string name="skill_tough_skin">&font_dark_green;Толстая кожа&font_end;</string>
+    <string name="skill_tough_skin_description">&font_cyan;5% &font_end;снижение урона в бою.</string>
 
-    <string name="skill_first_strike">&font_dark_green;First Strike&font_end;</string>
-    <string name="skill_first_strike_description">When attacking a monster, performs an initial hit.</string>
+    <string name="skill_first_strike">&font_dark_green;Первый удар&font_end;</string>
+    <string name="skill_first_strike_description">При нападении на монстра наносит первый удар.</string>
 
-    <string name="skill_regeneration">&font_health;Regeneration&font_end;</string>
-    <string name="skill_regeneration_description">Regenerates &font_cyan;2% &font_end;of &font_health;health &font_end;every turn when the weather is &font_yellow;Sunny&font_end;</string>
+    <string name="skill_regeneration">&font_health;Регенерация&font_end;</string>
+    <string name="skill_regeneration_description">Восстанавливает &font_cyan;2% &font_end;&font_health;здоровья &font_end;при каждом ходе, если погода &font_yellow;Солнечная&font_end;</string>
 
-    <string name="skill_slippery">&font_cyan;Slippery&font_end;</string>
-    <string name="skill_slippery_description">Always succeeds fleeing (if fleeing is allowed).</string>
+    <string name="skill_slippery">&font_cyan;Изворотливый&font_end;</string>
+    <string name="skill_slippery_description">Всегда успешно сбегает (если возможно сбежать).</string>
 
-    <string name="skill_insect_eater">&font_insect;Insect Eater&font_end;</string>
-    <string name="skill_insect_eater_description">Can &font_hunger;eat &font_end;&font_insect;insects &font_end;without having to capture them.</string>
+    <string name="skill_insect_eater">&font_insect;Пожиратель насекомых&font_end;</string>
+    <string name="skill_insect_eater_description">Можно &font_hunger;есть &font_end;&font_insect;насекомых&font_end;, не ловя их.</string>
 
-    <string name="skill_insect_eater_ate_insect">Ate &font_insect;%1$s &font_end;and restored &font_cyan;%2$d &font_end;&font_hunger;hunger&font_end;.</string>
+    <string name="skill_insect_eater_ate_insect">Вы съели &font_insect;%1$s &font_end;и восстановили &font_cyan;%2$d &font_end;&font_hunger;голода&font_end;.</string>
 
-    <string name="easter_egg_dwarf_mine">I am a Dwarf and I\'m digging a hole…</string>
+    <string name="easter_egg_dwarf_mine">Я Дварф. Я копаю яму…</string>
 
-    <string name="skill_weapon_learner">&font_iron;Weapon Learner&font_end;</string>
-    <string name="skill_weapon_learner_description">Learn the Weapon Mastery skills faster.</string>
-    <string name="settings_craft_toast_enabled">Enable Crafting Toast</string>
-    <string name="button_all">All</string>
-    <string name="cemetery_clear_message">Do you want to delete all the dead heroes data?</string>
+    <string name="skill_weapon_learner">&font_iron;Изучающий оружие&font_end;</string>
+    <string name="skill_weapon_learner_description">Быстрее осваивать навыки владения Оружием.</string>
+    <string name="settings_craft_toast_enabled">Включить всплывающие уведомления об Изготовлении</string>
+    <string name="button_all">Все</string>
+    <string name="cemetery_clear_message">Вы хотите удалить данные о всех павших героях?</string>
 
-    <string name="menu_cemetery_all">Cemetery (&font_cyan;All&font_end;)</string>
-    <string name="menu_cemetery_permadeath">Cemetery (&font_red;Permadeath&font_end;)</string>
-    <string name="menu_cemetery_no_permadeath">Cemetery (&font_green;No Permadeath&font_end;)</string>
+    <string name="menu_cemetery_all">Кладбище (&font_cyan;Все&font_end;)</string>
+    <string name="menu_cemetery_permadeath">Кладбище (&font_red;Хардкор&font_end;)</string>
+    <string name="menu_cemetery_no_permadeath">Кладбище (&font_green;Обычный&font_end;)</string>
 
-    <string name="game_over_rank_permadeath">You ranked &font_cyan;#%d &font_end;on &font_red;Permadeath &font_end;in the Cemetery.</string>
-    <string name="game_over_rank_no_permadeath">You ranked &font_cyan;#%d &font_end;on &font_green;No Permadeath &font_end;in the Cemetery.</string>
+    <string name="game_over_rank_permadeath">Вы заняли &font_cyan;#%d &font_end;место в режиме &font_red;Хардкор &font_end;на Кладбище.</string>
+    <string name="game_over_rank_no_permadeath">Вы заняли &font_cyan;#%d &font_end;место в &font_green;Обычном &font_end;режиме на Кладбище.</string>
 
-    <string name="blacksmith_level_up_button">Level Up &font_iron;Blacksmith&font_end;: &font_gold;%1$d&font_end;</string>
-    <string name="blacksmith_level">&font_iron;Blacksmith &font_end;Level: &font_cyan;%1$d&font_end;</string>
-    <string name="blacksmith_levelup_dialog_text">Level up Blacksmith per &font_gold;%1$d &font_end;gold?&br;&br;(Slightly improves the levelled up equipment, increases the success rate of &font_copper;scrapping &font_end;, and reduces the cost of crafting bars)</string>
-    <string name="blacksmith_scrap_probability">Success rate: %1$s%%</string>
+    <string name="blacksmith_level_up_button">Повысить уровень &font_iron;Кузнец&font_end;: &font_gold;%1$d&font_end;</string>
+    <string name="blacksmith_level">Уровень &font_iron;Кузнец&font_end;: &font_cyan;%1$d&font_end;</string>
+    <string name="blacksmith_levelup_dialog_text">Повысить уровень Кузнец за &font_gold;%1$d &font_end;золота?&br;&br;(Немного улучшить снаряжение с повышенным уровнем, повысить шансы успешно &font_copper;разобрать &font_end;предмет и снизить стоимость изготовления слитков)</string>
+    <string name="blacksmith_scrap_probability">Вероятность успеха: %1$s%%</string>
     <string name="success_lower_than_100">&font_cyan;%1$d&font_end;</string>
     <string name="success_100">&font_green;%1$d&font_end;</string>
 
-    <string name="bar_inn_text_extra_cost_undead">"We don\'t like having people like you around…"&br;&br;</string>
-    <string name="bar_inn_text_normal_cost">"Hello, how are you?"&br;&br;</string>
-    <string name="bar_inn_text_lower_cost">"Welcome! I hope you have a great day!"&br;&br;</string>
+    <string name="bar_inn_text_extra_cost_undead">"Мы не особо рады таким, как ты…"&br;&br;</string>
+    <string name="bar_inn_text_normal_cost">"Здравствуй, как поживаешь?"&br;&br;</string>
+    <string name="bar_inn_text_lower_cost">"Добро пожаловать! Хорошего дня!"&br;&br;</string>
 
-    <string name="shop_bad_text">"Come on, I don\'t have all day for this…"</string>
-    <string name="shop_normal_text">"Hello, what can I help you with?"</string>
-    <string name="shop_nice_text">"Welcome! It\'s nice to do business with you!"</string>
-    <string name="button_share">Share</string>
-    <string name="achievement_desc_purifier">Purify an island for the first time</string>
-    <string name="achievement_name_purifier">Purifier</string>
+    <string name="shop_bad_text">"Ну, давай уже! Я не собираюсь целый день тебя ждать…"</string>
+    <string name="shop_normal_text">"Привет, чем я могу помочь?"</string>
+    <string name="shop_nice_text">"Отлично! С тобой приятно иметь дело!"</string>
+    <string name="button_share">Поделиться</string>
+    <string name="achievement_desc_purifier">Очистить остров в первый раз</string>
+    <string name="achievement_name_purifier">Очиститель</string>
 
-    <string name="island_type_treasure">Treasure</string>
-    <string name="material_old_paper_piece">Old Paper Piece</string>
-    <string name="item_info_old_paper_piece">It has some strange drawings on it…</string>
-    <string name="tile_content_type_nautical_chart_treasure_island">Nautical Chart (&font_gold;Treasure &font_end;&font_cyan;Island&font_end;)</string>
-    <string name="craft_various_title">Craft Various</string>
-    <string name="craft_various_message_not_stackable">What amount do you want to craft?&br;&br;(You have enough materials to craft &font_cyan;%1$d&font_end;, the maximum amount allowed to craft is &font_cyan;%2$d&font_end;, and you have enough space in your inventory to craft &font_cyan;%3$d&font_end;, so, the maximum you can craft is: &font_cyan;%4$d&font_end;)</string>
-    <string name="crafted_amount">Crafted &font_cyan;%1$d&font_end;!</string>
+    <string name="island_type_treasure">Сокровище</string>
+    <string name="material_old_paper_piece">Кусок старой бумаги</string>
+    <string name="item_info_old_paper_piece">На нём какие-то странные рисунки…</string>
+    <string name="tile_content_type_nautical_chart_treasure_island">Навигационная карта (&font_cyan;Остров &font_end;&font_gold;Сокровищ&font_end;)</string>
+    <string name="craft_various_title">Изготовить разное</string>
+    <string name="craft_various_message_not_stackable">Сколько вы хотите изготовить?&br;&br;(У вас достаточно материалов, чтобы изготовить &font_cyan;%1$d&font_end;, максимум можно изготовить &font_cyan;%2$d&font_end;, и у вас достаточно места в инвентаре, чтобы изготовить &font_cyan;%3$d&font_end;, так что, максимум вы можете сделать: &font_cyan;%4$d&font_end;)</string>
+    <string name="crafted_amount">Вы изготовили &font_cyan;%1$d&font_end;!</string>
 
-    <string name="settings_navigation_buttons_position">Navigation Buttons Position</string>
+    <string name="settings_navigation_buttons_position">Положение кнопок для навигации</string>
 
-    <string name="skill_unarmed_mastery">&font_skill_attack;Unarmed &font_end;Mastery</string>
-    <string name="skill_unarmed_mastery_description">Attacking with no &font_skill_attack;weapon &font_end;in combat unlocks &font_skill_attack;Unarmed &font_end;Combat Skills.</string>
+    <string name="skill_unarmed_mastery">Знание &font_skill_attack;Рукопашного боя&font_end;</string>
+    <string name="skill_unarmed_mastery_description">Атака без &font_skill_attack;оружия &font_end;в бою разблокирует Навыки &font_skill_attack;Рукопашного боя&font_end;.</string>
 
-    <string name="weapon_skill_unarmed_punch">Punch</string>
-    <string name="weapon_skill_unarmed_punch_desc">Punches the enemy.</string>
-    <string name="weapon_skill_unarmed_punch_attack">You push the enemy!</string>
+    <string name="weapon_skill_unarmed_punch">Удар</string>
+    <string name="weapon_skill_unarmed_punch_desc">Ударить врага.</string>
+    <string name="weapon_skill_unarmed_punch_attack">Вы ударяете врага!</string>
 
-    <string name="weapon_skill_unarmed_hammerfist">Hammer Fist</string>
-    <string name="weapon_skill_unarmed_hammerfist_desc">Punches the enemy from above.</string>
-    <string name="weapon_skill_unarmed_hammerfist_attack">You push the enemy from above!</string>
+    <string name="weapon_skill_unarmed_hammerfist">Кулак-молот</string>
+    <string name="weapon_skill_unarmed_hammerfist_desc">Ударить врага сверху.</string>
+    <string name="weapon_skill_unarmed_hammerfist_attack">Вы ударяете врага сверху!</string>
 
-    <string name="weapon_skill_unarmed_magicfist">Magic Fist</string>
-    <string name="weapon_skill_unarmed_magicfist_desc">Hits and absorbs mana from the enemy.</string>
-    <string name="weapon_skill_unarmed_magicfist_attack">¡You hit and absorb mana from the enemy!</string>
+    <string name="weapon_skill_unarmed_magicfist">Волшебный кулак</string>
+    <string name="weapon_skill_unarmed_magicfist_desc">Ударить и поглотить ману врага.</string>
+    <string name="weapon_skill_unarmed_magicfist_attack">Вы ударяете и поглощаете ману врага!</string>
 
-    <string name="weapon_skill_unarmed_double_punch">Double Punch</string>
-    <string name="weapon_skill_unarmed_double_punch_desc">Punches the enemy two times.</string>
-    <string name="weapon_skill_unarmed_double_punch_attack">You punch two times the enemy!</string>
+    <string name="weapon_skill_unarmed_double_punch">Двойной удар</string>
+    <string name="weapon_skill_unarmed_double_punch_desc">Ударить врага дважды.</string>
+    <string name="weapon_skill_unarmed_double_punch_attack">Вы дважды ударяете врага!</string>
 
-    <string name="weapon_skill_unarmed_fastfist">Fast Fist</string>
-    <string name="weapon_skill_unarmed_fastfist_desc">Punches the enemy strongly. Always attacks first.</string>
-    <string name="weapon_skill_unarmed_fastfist_attack">You push the enemy strongly!</string>
+    <string name="weapon_skill_unarmed_fastfist">Быстрый кулак</string>
+    <string name="weapon_skill_unarmed_fastfist_desc">Сильно ударить врага. Всегда идёт первой атакой.</string>
+    <string name="weapon_skill_unarmed_fastfist_attack">Вы наносите сильный удар по врагу!</string>
 
-    <string name="material_type_cartographer_stone">&font_cyan;Cartographer &font_end;&font_stone;Stone&font_end;</string>
-    <string name="world_info_empty">(No info added, use a &font_cyan;Cartographer &font_end;&font_stone;Stone &font_end;to add a text to an island)</string>
+    <string name="material_type_cartographer_stone">&font_stone;Камень &font_end;&font_cyan;Картографа&font_end;</string>
+    <string name="world_info_empty">(Нет дополнительной информации, используйте &font_stone;Камень &font_end;&font_cyan;Картографа&font_end;, чтобы добавить текст к острову)</string>
     <string name="button_plus">+</string>
-    <string name="button_mark">Mark</string>
-    <string name="button_add_info">Add Info</string>
-    <string name="world_mark_island_message">To help you in your adventures, you can &font_cyan;mark &font_end;an island with a single character to be shown in the island list, and/or write some &font_cyan;info &font_end;about an it. You\'ll need a &font_cyan;Cartographer &font_end;&font_stone;Stone &font_end;for each of these actions.&br;&br;You currently have &font_cyan;%1$d &font_end;&font_cyan;Cartographer &font_end;&font_stone;Stones&font_end;</string>
+    <string name="button_mark">Отметить</string>
+    <string name="button_add_info">Добавить информацию</string>
+    <string name="world_mark_island_message">Чтобы облегчить себе приключения, вы можете &font_cyan;отметить &font_end;остров одним символом, который будет виден в списке островов, и/или написать &font_cyan;информацию &font_end;о нём. Для каждого из этих действий вам необходимо использовать &font_stone;Камень &font_end;&font_cyan;Картографа&font_end;.&br;&br;Сейчас у вас &font_cyan;%1$d &font_end;&font_stone;Камней &font_end;&font_cyan;Картографа&font_end;</string>
 
     <string name="world_add_info_message">Add info for the island (You can add line breaks by writing \'br\' between &lt; and &gt;. Max. characters allowed: &font_cyan;%1$d&font_end;):</string>
     <string name="world_add_info_message_replacing">There\'s already info added to this island, adding info will replace the current info!&br;&br;Add info for the island (You can add line breaks by writing \'br\' between &lt; and &gt;. Max. characters allowed: &font_cyan;%1$d&font_end;):</string>
