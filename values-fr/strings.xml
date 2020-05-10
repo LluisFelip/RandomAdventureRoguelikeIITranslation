@@ -197,7 +197,7 @@
     <string name="advantage_warrior_desc">(Vous commencerez avec une &font_attack;arme&font_end;, un &font_defense;bouclier&font_end;, et un morceau d\'&font_defense;armure&font_end;)</string>
     <string name="advantage_wizard_desc">(Vous commencerez avec un &font_mana;sort &font_end;aléatoire)</string>
     <string name="advantage_cleric_desc">(Vous commencerez avec un &font_mana;sort &font_end;de &font_health;soin&font_end;)</string>
-    <string name="advantage_petmaster_desc">(Vous commencerez avec le &font_mana;sort &font_end;de &font_pet;capture &font_end;de &font_red;monstre &font_end;et un CR &font_cyan;0&font_end; &font_pet;compagnon&font_end; &font_red;monstre&font_end;)</string>
+    <string name="advantage_petmaster_desc">(Vous commencerez avec le &font_mana;sort &font_end;de &font_pet;capture &font_end;de &font_red;monstre &font_end;et un CR &font_cyan;0&font_end; &font_pet;familiers&font_end; &font_red;monstre&font_end;)</string>
     <string name="advantage_worker_desc">(Vous commencerez avec un &font_cyan;Outil&font_end; au hasard)</string>
     <string name="advantage_alchemist_desc">(Vous commencerez en sachant préparer &font_cyan;1 &font_end;type de potion et vous recevrez &font_cyan;3 &font_end;matériaux aléatoires)</string>
     <string name="advantage_blacksmith_desc">(Vous commencerez en sachant créer une &font_attack;arme&font_end;, un &font_defense;bouclier&font_end;, une piece d\'&font_defense;armure &font_end;et vous recevrez &font_cyan;3 &font_end;des matériaux aléatoires)</string>
@@ -205,7 +205,7 @@
     <string name="advantage_random_selected">Vous êtes: %1$s !</string>
     <string name="advantage_ranger_desc">(Vous commencerez avec une arme à &font_speed;distance &font_end;et quelques munitions)</string>
 
-    <string name="new_game_permadeath_question">Sélection difficulté</string>
+    <string name="new_game_permadeath_question">Sélection de la difficulté</string>
     <string name="new_game_permadeath_selected">Mode &font_red;&bold;MORT PERMANANTE&bold_end; &font_end;selectionné.&br;&br;Si vous &font_red;mourez&font_end;, vous &font_cyan;perdrez tout &font_end;et vous devrez &font_cyan;tout recommencer&font_end;! uwu</string>
     <string name="new_game_no_permadeath_selected">Mode &font_red;&bold;MORT NON-PERMANANTE &bold_end;&font_end;selectionné.&br;&br;Si vous mourez, il vous sera possible de revenir au dernier &font_primary_light;&italic;[CHECKPOINT SAUVEGARDÉ] &italic_end;&font_end;(quand vous vous reposez dans une &font_inn;Auberge &font_end;où quand vous &font_cyan;montez en niveau&font_end;, un &font_primary_light;&italic;[CHECKPOINT SAUVEGARDÉ] &italic_end;&font_end;sera créé).</string>
     <string name="saved_checkpoint">&font_primary_light;&italic;[CHECKPOINT SAUVEGARDÉ]&italic_end;&font_end;</string>
@@ -273,7 +273,7 @@
     <string name="button_items">Objets</string>
     <string name="button_skills">Compétences</string>
     <string name="button_spells">Sorts</string>
-    <string name="button_pets">Compagnons</string>
+    <string name="button_pets">Familiers</string>
     <string name="button_rescue">Sauver</string>
     <string name="button_learn">Apprendre</string>
     <string name="button_ranking">Classement</string>
@@ -356,7 +356,7 @@
     <string name="status_monsters_killed">Monstres tués : &font_attack;%1$d&font_end;</string>
     <string name="status_quests_completed">Quêtes terminées : &font_cyan;%1$d&font_end;</string>
     <string name="status_islands_visited_completed">Îles &font_cyan;visitées &font_end;/&font_health;explorées&font_end;/&font_purifying;purifiées&font_end;: &font_cyan;%1$d&font_end;/&font_health;%2$d&font_end;/&font_purifying;%3$d&font_end;</string>
-    <string name="status_pets_captured">Compagnons capturés : &font_pet;%1$d&font_end;</string>
+    <string name="status_pets_captured">Familiers capturés : &font_pet;%1$d&font_end;</string>
     <string name="status_animals_befriended">Animaux apprivoisés : &font_pet;%1$d&font_end;</string>
     <string name="status_crafting_recipes">Recettes de fabrication : &font_cyan;%1$d&font_end;</string>
     <string name="status_crafted_items">Objets fabriqués : &font_cyan;%1$d&font_end;</string>
@@ -524,8 +524,8 @@
     <string name="item_info_nautical_chart">Utilisé par les marins pour naviguer vers un &font_cyan;type&font_end;
         d\'île bien précis.</string>
     <string name="item_info_whetstone">Utilisez cet objet pour réparer n\'importe quel &font_cyan;outil&font_end;.</string>
-    <string name="item_info_pet_collar">Dirigez-vous vers la liste des &font_pet;compagnons&font_end;
-        pour pouvoir le mettre sur un &font_pet;compagnon &font_end;et être capable de le renommer !</string>
+    <string name="item_info_pet_collar">Dirigez-vous vers la liste des &font_pet;familiers&font_end;
+        pour pouvoir le mettre sur un &font_pet;familier &font_end;et être capable de le renommer !</string>
     <string name="item_info_magic_stone">Utilisez ceci pour échanger la force et l\'intelligence de n\'importe quel équipement.</string>
     <string name="item_info_island_soul">La mystérieuse âme de l\'île…</string>
     <string name="item_info_spellbook">Lisez ce livre pour maîtriser le sort qu\'il contient : %1$s.</string>
@@ -877,7 +877,7 @@
     <string name="combat_cant_cast_skill">Tu n\'as pas assez de ressources pour faire ceci !</string>
     <string name="combat_cant_cast_spell">Tu n\'as pas assez de ressource pour lancer ce sort !</string>
     <string name="combat_already_captured">Tu l\'as déjà capturé !</string>
-    <string name="combat_cant_carry_more_pets">Tu ne peux pas avoir plus de compagnons !</string>
+    <string name="combat_cant_carry_more_pets">Tu ne peux pas avoir plus de familiers !</string>
     <string name="combat_monster_dead_vanishes">%1$s est réduit en poussière !</string>
     <string name="combat_monster_attacks">%1$s lance un assaut !</string>
     <string name="combat_fight">Combattre</string>
@@ -1315,7 +1315,7 @@
     <string name="content_description_arrow_to_filter_crafting">Tape la flèche pour filtrer les recettes de fabrication.</string>
     <string name="content_description_coin_image">Image de la monnaie</string>
     <string name="content_description_skill_image">Image des compétences</string>
-    <string name="content_description_pet_image">Icône des compagnons</string>
+    <string name="content_description_pet_image">Icône des familiers</string>
     <string name="content_description_advantage_image">Icône des avantages</string>
     <string name="content_description_item_image">Image de l\'objet</string>
     <string name="content_description_tile_content_image">Image du contenu dans les cases</string>
@@ -1565,10 +1565,10 @@
     <string name="weapon_skill_mace_ultimate_strike_desc">Frappe brutalement l\'ennemi.</string>
     <string name="weapon_skill_mace_ultimate_strike_attack">Tu frappes brutalement l\'ennemi !</string>
 
-    <string name="pets_title">&font_pet;Compagnons&font_end; (&lt;font color=\"%1$s\"&gt;%2$d&font_end;/&font_cyan;%3$d&font_end;)</string>
+    <string name="pets_title">&font_pet;Familiers&font_end; (&lt;font color=\"%1$s\"&gt;%2$d&font_end;/&font_cyan;%3$d&font_end;)</string>
     <string name="pets_monster_joined">%1$s vous rejoins!</string>
-    <string name="pets_active_pet">Compagnon Actif</string>
-    <string name="pets_set_active">Mettre %1$s en tant que &font_pet;Compagnon actif&font_end;</string>
+    <string name="pets_active_pet">Familier Actif</string>
+    <string name="pets_set_active">Mettre %1$s en tant que &font_pet;familier actif&font_end;</string>
     <string name="pets_withdraw">Abandonner %1$s.</string>
     <string name="pets_x_following_you">Ton %1$s est ici et te suis</string>
     <string name="pets_normal_attack">Attaquer</string>
@@ -1576,13 +1576,13 @@
     <string name="pets_attacked">%1$s a attaqué !</string>
     <string name="pets_pet_action">%1$s a utilisé sa compétence &font_red;%2$s&font_end;</string>
     <string name="pets_text_pet_dealt_damage_to_monster">%1$s génère %2$s &font_red;%3$d &font_end;de dégâts !</string>
-    <string name="pets_combat_dont_have_an_active_pet">Tu n\'as aucun &font_pet;Compagnon actif&font_end;</string>
+    <string name="pets_combat_dont_have_an_active_pet">Tu n\'as aucun &font_pet;familier actif&font_end;</string>
     <string name="pets_text_pet_level_up_to_level">%1$s est maintenant niveau %2$d</string>
-    <string name="pets_empty_message">Tu n\'as aucun &font_pet;Compagnons&font_end;…</string>
-    <string name="pets_rename_pet">Renommer ton compagnon</string>
-    <string name="pets_rename_pet_message">Choisis un nouveau nom pour ton compagnon %1$s !</string>
+    <string name="pets_empty_message">Tu n\'as aucun &font_pet;Familier&font_end;…</string>
+    <string name="pets_rename_pet">Renommer ton familier</string>
+    <string name="pets_rename_pet_message">Choisis un nouveau nom pour ton familier %1$s !</string>
     <string name="pets_rename_pet_success">Tu l\'as renommé %1$s ! Super !</string>
-    <string name="pets_list">Liste de Compagnons</string>
+    <string name="pets_list">Liste des familiers</string>
     <string name="pets_abandon_pet_message">Es-tu sûr de vouloir abandonner le %1$s ? Il va disparaître &italic;pour toujours&italic_end;…</string>
     <string name="pets_abandon_pet_abandoned_message">Tu as abandonné %1$s… Adieu…</string>
 
@@ -1639,7 +1639,7 @@
     <string name="tile_content_type_animal">Animal</string>
     <string name="tile_content_type_slave">Esclave</string>
     <string name="tile_content_type_guard">Garde</string>
-    <string name="tile_content_type_pet">&font_pet;Compagnon&font_end;</string>
+    <string name="tile_content_type_pet">&font_pet;Familier&font_end;</string>
     <string name="tile_content_type_nautical_chart_black_island">Carte de navigation (&font_black_low;Île Noire&font_end;)</string>
     <string name="tile_content_type_nautical_chart_white_island">Carte de navigation (&font_white;Île Blanche&font_end;)</string>
     <string name="tile_content_type_spell_book">Livre de &font_mana;sorts&font_end;</string>
@@ -1677,7 +1677,7 @@
     <string name="tile_content_type_gate_to_heaven">Porte vers le Paradis</string>
     <string name="tile_content_type_chest">Coffre</string>
     <string name="tile_content_type_professional">Professionnel</string>
-    <string name="tile_content_type_pet_collar">&font_cyan;Collier&font_end; pour &font_pet;Compagnon&font_end;</string>
+    <string name="tile_content_type_pet_collar">&font_cyan;Collier&font_end; pour &font_pet;familier&font_end;</string>
     <string name="tile_content_type_merchant_master">Maître-marchand</string>
     <string name="tile_content_type_magic_stone">&font_bronze;Pierre&font_end; &font_mana;magique&font_end;</string>
     <string name="tile_content_type_bomb">Bombe</string>
@@ -2156,7 +2156,7 @@
     <string name="spell_electricstorm_desc_combat">Tu invoques un &font_electric;orage &font_end;très puissant sur %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
     <string name="spell_capture_monster_name">&font_pet;Capturer&font_end;
         de &font_red;Monstre&font_end;</string>
-    <string name="spell_capture_monster_desc">Tentative de &font_pet;capturer &font_end;l\'adversaire afin de le ralier à ta cause, il deviendra un &font_pet;Compagnon&font_end;. Plus le niveau de cette compétence est élevé, plus tu as de chance de le capturer.</string>
+    <string name="spell_capture_monster_desc">Tentative de &font_pet;capturer &font_end;l\'adversaire afin de le ralier à ta cause, il deviendra un &font_pet;familier&font_end;. Plus le niveau de cette compétence est élevé, plus tu as de chance de le capturer.</string>
     <string name="spell_capture_monster_combat_success">&font_green;Succès&font_end; ! %1$s te rejoindra après que tu l\'aies vaincu.</string>
     <string name="spell_capture_monster_combat_fail">Raté ! Tu n\'as pas pu &font_pet;capturer &font_end;%1$s.</string>
     <string name="spell_calmmonster_name">&font_pet;Tranquilisant&font_end;</string>
@@ -2598,8 +2598,8 @@
     <string name="achievement_desc_explorer">Explore complètement une île pour la première fois</string>
     <string name="achievement_desc_completionist">Explore complètement 10 îles en une seule partie</string>
     <string name="achievement_desc_isnt_it_cute">Capture your first pet</string>
-    <string name="achievement_desc_pet_collector">Capture 10 compagnons en une seule partie</string>
-    <string name="achievement_desc_pet_master">Capture 100 compagnons en une seule partie</string>
+    <string name="achievement_desc_pet_collector">Capture 10 familiers en une seule partie</string>
+    <string name="achievement_desc_pet_master">Capture 100 familiers en une seule partie</string>
     <string name="achievement_desc_skilled">Apprends une compétence pour la première fois</string>
     <string name="achievement_desc_skill_master">Apprends 10 compétences en une seule partie</string>
     <string name="achievement_desc_wizard_apprentice">Apprends 3 sorts magiques</string>
@@ -2804,9 +2804,9 @@
     <string name="crafting_recipe_legacy">[Héritage]</string>
     <string name="crafting_recipe_legacy_cant_learn">&italic;Vous ne pouvez pas apprendre de recettes Héritage&italic_end;</string>
 
-    <string name="skill_pet_collector">&font_pet;Collectionneur d\'animaux&font_end;</string>
+    <string name="skill_pet_collector">&font_pet;Collectionneur de familiers&font_end;</string>
     <string name="skill_zoologist">&font_pet;Zoologiste&font_end;</string>
-    <string name="skill_pet_hoarder">&font_pet;Amasseur d\'animaux&font_end;</string>
+    <string name="skill_pet_hoarder">&font_pet;Amasseur de familiers&font_end;</string>
 
     <string name="skill_pet_collector_description">Augmente le nombre maximum de &font_red;monstres&font_end; &font_pet;apprivoisés &font_end;que vous pouvez avoir de &bold;&font_cyan;5&font_end;&bold_end;</string>
     <string name="skill_zoologist_description">Augmente le nombre maximum de &font_red;monstres&font_end; &font_pet;apprivoisés &font_end;que vous pouvez avoir de &bold;&font_cyan;5&font_end;&bold_end;</string>
@@ -2854,8 +2854,8 @@
     <string name="title_the_willy_fog_male">%1$s, le &font_cyan;Phileas Fogg&font_end;</string>
     <string name="title_the_explorer_male">%1$s, l\'&font_cyan;Explorateur&font_end;</string>
     <string name="title_the_completionist_male">%1$s, le &font_cyan;Complétioniste&font_end;</string>
-    <string name="title_the_pet_collector_male">%1$s, le &font_pet;Collectionneur d\'animaux&font_end;</string>
-    <string name="title_the_pet_master_male">%1$s, le &font_pet;Dompteur d\'animaux&font_end;</string>
+    <string name="title_the_pet_collector_male">%1$s, le &font_pet;Collectionneur de familiers&font_end;</string>
+    <string name="title_the_pet_master_male">%1$s, le &font_pet;Dompteur de familiers&font_end;</string>
     <string name="title_the_skilled_male">%1$s, le &font_cyan;Compétent&font_end;</string>
     <string name="title_the_skill_master_male">%1$s, le &font_cyan;Maître des compétences&font_end;</string>
     <string name="title_the_wizard_apprentice_male">%1$s, l\'&font_mana;Apprenti mage&font_end;</string>
@@ -2903,8 +2903,8 @@
     <string name="title_the_willy_fog_female">%1$s, la &font_cyan;Phileas Fogg&font_end;</string>
     <string name="title_the_explorer_female">%1$s, l\'&font_cyan;Exploratrice&font_end;</string>
     <string name="title_the_completionist_female">%1$s, la &font_cyan;Complétioniste&font_end;</string>
-    <string name="title_the_pet_collector_female">%1$s, la &font_pet;Collectionneuse d\'animaux&font_end;</string>
-    <string name="title_the_pet_master_female">%1$s, la &font_pet;Dompteuse d\'animaux&font_end;</string>
+    <string name="title_the_pet_collector_female">%1$s, la &font_pet;Collectionneuse de familiers&font_end;</string>
+    <string name="title_the_pet_master_female">%1$s, la &font_pet;Dompteuse de familiers&font_end;</string>
     <string name="title_the_skilled_female">%1$s, la &font_cyan;Douée&font_end;</string>
     <string name="title_the_skill_master_female">%1$s, la &font_cyan;Maître des compétences&font_end;</string>
     <string name="title_the_wizard_apprentice_female">%1$s, l\'&font_mana;Apprentie mage&font_end;</string>
@@ -2959,8 +2959,8 @@
     <string name="title_the_willy_fog_no_gender">%1$s, le/la &font_cyan;Phileas Fogg&font_end;</string>
     <string name="title_the_explorer_no_gender">%1$s, l\'&font_cyan;Explorateur&font_end;</string>
     <string name="title_the_completionist_no_gender">%1$s, le/la &font_cyan;Complétioniste&font_end;</string>
-    <string name="title_the_pet_collector_no_gender">%1$s, le/la &font_pet;Collectionneur d\'animaux&font_end;</string>
-    <string name="title_the_pet_master_no_gender">%1$s, le/la &font_pet;Dompteur d\'animaux&font_end;</string>
+    <string name="title_the_pet_collector_no_gender">%1$s, le/la &font_pet;Collectionneur de familiers&font_end;</string>
+    <string name="title_the_pet_master_no_gender">%1$s, le/la &font_pet;Dompteur de familiers&font_end;</string>
     <string name="title_the_skilled_no_gender">%1$s, le/la &font_cyan;Doué&font_end;</string>
     <string name="title_the_skill_master_no_gender">%1$s, le/la &font_cyan;Maître des compétences&font_end;</string>
     <string name="title_the_wizard_apprentice_no_gender">%1$s, l\'&font_mana;Apprenti mage&font_end;</string>
@@ -3027,16 +3027,16 @@
 
     <string name="race_human_desc">La plus polyvalente et flexible des races communes. Leur force réside en un esprit capable du bien comme du mal. Il sont équilibrés pour le combat et la magie. Ils ont une connaissance innée de la fabrication et sont des explorateurs-nés.</string>
     <string name="race_dwarf_desc">Intéressés uniquement par les mines et la bière, ils sont habitués à vivre sous terre. Mais suite à l\'expansion du mal, ils ont commencés à explorer le monde et marcher dans les pas de leurs légendaires ancètres. Ils sont une des races les plus robustes, avec de bonnes compétences de minage et sont également les seuls à savoir confectionner de la bière.</string>
-    <string name="race_halfling_desc">Even though they have appeared on books and stories, almost no one has seen one in their life, as Halflings are peaceful people who live in their own hidden villages, cooking, eating, reading about stories from the first era, and living all kinds of fantasy in their minds. Since evil has started spreading around the world, some of the most brave Halfling have started their own adventures like the ones they read on their books.</string>
-    <string name="race_gnome_desc">They take delight in life, enjoying every moment of invention, exploration and investigation. They used to be focused just on their inventions, and exploration, but recently many brave Gnomes have been seen adventuring around the world.</string>
-    <string name="race_elf_desc">Elves are magical people of otherworldly grace, living in the world but not entirely part of it. Selfish and egocentric, they are worried about their future due to the increased presence of evil, so they have started to become more present in the world in search for their salvation.</string>
+    <string name="race_halfling_desc">Bien qu'ils soient apparus dans bon nombres de livres et de contes, les personnes en ayant vus de leur vivant se comptent sur les doigts de la main. Les Halflings sont paisibles et vivent dans leurs villages cachés. Ils cuisinent, mangent, lisent des histoires datant de la première ère, et vivent toutes sortes d'aventures dans leur rêves. Depuis que le mal s'est répandu autour du monde, certains des Halflings les plus courageux sont partis en quête d'aventure, à la manière de ceux décrits dans les livres qu'ils avaient l'habitude de lires.</string>
+    <string name="race_gnome_desc">Ils prennent plaisir à vivre et savourent chaque instant où ils créent des inventions, explorent et étudient l'inconnu. Ils étaient généralement concentrés sur leurs inventions, mais certains Gnomes courageux se sont lancés dans une aventure autour du globe.</string>
+    <string name="race_elf_desc">Les Elfes sont des créatures magiques possédant une grâce inégalable. Ils vivent dans ce monde mais n'en font pas totalement parti. Egoïstes et égocentriques, la présence du mal de plus en plus importante rend leur avenir incertain. Ils ont ainsi commencés à être plus présents dans le monde afin d'atteindre la délivrance.</string>
     <string name="race_drow_desc">Generally known as the evil version of the regular elves. They are extremely intelligent, charismatic and dexterous, but share surface elves\' comparative frailty and slight frames. They are characterized by white or silver hair and obsidian black skin.</string>
     <string name="race_undead_desc">Once living humans brought to life in a horrifying state of undeath through the practice of necromantic magic. They have great strength and intelligence but lack of speed. Their hunger increases faster than the other races, but they can eat corpses to restore Mana, Hunger, and Health.</string>
     <string name="race_orc_desc">Bestial and savage, orcs band together as trıbes, living on hunting and raiding. As lovers of war, they have found a great enemy in the evil that has recently spread around the world. They have started to relate to other races with whom they had only spoken in the language of weapons and magic not so long ago.</string>
     <string name="race_lizard_desc">They are semi-aquatic reptilian humanoids. Their skin was covered in scales and varied in color from dark green through to shades of brown and gray. The most brave of them have been travelling around the world, finding other places to expand their lifes and be able to help in the destruction of evil.</string>
     <string name="race_unknown_desc">A strange being who no one has ever seen before. Balanced, smart, and able to adapt to any situation, their purpose in life is a mystery.</string>
-    <string name="race_attributes">Attributes</string>
-    <string name="race_traits">Traits</string>
+    <string name="race_attributes">Attribus</string>
+    <string name="race_traits">Caractéristiques</string>
 
     <string name="race_attributes_with_numbers">Att. : &font_attack;%1$s &font_end;Def. : &font_defense;%2$s&font_end;&br;Int. : &font_mana;%3$s &font_end;Vit. : &font_speed;%4$s&font_end;</string>
 
@@ -3176,22 +3176,22 @@
     <string name="weapon_skill_unarmed_fastfist_desc">Frappe violement l\'ennemi. Vous attaquez toujours en premier.</string>
     <string name="weapon_skill_unarmed_fastfist_attack">Vous propulsez l\'ennemi en arrière !</string>
 
-    <string name="material_type_cartographer_stone">&font_stone;Pierre &font_end;du &font_cyan;carthographe&font_end;</string>
-    <string name="world_info_empty">(No info added, use a &font_cyan;Cartographer &font_end;&font_stone;Stone &font_end;to add a text to an island)</string>
+    <string name="material_type_cartographer_stone">&font_stone;Pierre &font_end;du &font_cyan;Carthographe&font_end;</string>
+    <string name="world_info_empty">(Pas d'infos ajoutées, utilisez une &font_stone;pierre &font_end;du &font_cyan;Cartographe &font_end;pour ajouter un memo à une île)</string>
     <string name="button_plus">+</string>
-    <string name="button_mark">Mark</string>
-    <string name="button_add_info">Add Info</string>
-    <string name="world_mark_island_message">To help you in your adventures, you can &font_cyan;mark &font_end;an island with a single character to be shown in the island list, and/or write some &font_cyan;info &font_end;about an it. You\'ll need a &font_cyan;Cartographer &font_end;&font_stone;Stone &font_end;for each of these actions.&br;&br;You currently have &font_cyan;%1$d &font_end;&font_cyan;Cartographer &font_end;&font_stone;Stones&font_end;</string>
+    <string name="button_mark">Marquer</string>
+    <string name="button_add_info">Ajouter infos</string>
+    <string name="world_mark_island_message">Pour vous aider dans vos aventures, vous pouvez &font_cyan;marquer &font_end;une île avec un symbole qui apparaitra dans la liste des îles, et/ou écrire des &font_cyan;infos &font_end;a son propos. Vous arez besoin d'une &font_stone;pierre &font_end;du &font_cyan;Cartographe &font_end;pour chaqune de ces actions.&br;&br;Vous possédez actuellement &font_cyan;%1$d &font_end;&font_stone;pierres &font_end;du &font_cyan;Cartographe&font_end;.</string>
 
-    <string name="world_add_info_message">Add info for the island (You can add line breaks by writing \'br\' between &lt; and &gt;. Max. characters allowed: &font_cyan;%1$d&font_end;):</string>
-    <string name="world_add_info_message_replacing">There\'s already info added to this island, adding info will replace the current info!&br;&br;Add info for the island (You can add line breaks by writing \'br\' between &lt; and &gt;. Max. characters allowed: &font_cyan;%1$d&font_end;):</string>
-    <string name="world_add_info_length_error">Write between 1 and %d characters…</string>
-    <string name="world_add_mark_length_error">Write 1 character…</string>
-    <string name="world_mark_island_no_cartographer_stone">You need a &font_cyan;Cartographer &font_end;&font_stone;Stone &font_end;to be able to do this…</string>
-    <string name="button_add_mark">Add Mark</string>
-    <string name="world_add_mark_message">Add a mark to be displayed in the island list (write only &font_cyan;1 &font_end;character.):</string>
-    <string name="world_add_mark_message_replacing">There\'s already one mark added to this island, adding a new one will replace the previous mark.&br;&br;Add a mark to be displayed in the island list (write only &font_cyan;1 &font_end;character):</string>
-    <string name="mark_color_title">Choose color for the mark:</string>
+    <string name="world_add_info_message">Ajoutez des infos à l'île (Vous pouvez insérer des retours à la ligne en écrivant \'br\' entre &lt; et &gt;. Caractères max. authorisés : &font_cyan;%1$d&font_end;) :</string>
+    <string name="world_add_info_message_replacing">Il existe déjà des infos pour cette île. Ajouter des infos supprimera les infos actuelles !&br;&br;Ajouter des infos à l'île (Vous pouvez insérer des retours à la ligne en écrivant \'br\' entre &lt; et &gt;. Caractères max. authorisés : &font_cyan;%1$d&font_end;) :</string>
+    <string name="world_add_info_length_error">Écrivez entre 1 e %d caractères…</string>
+    <string name="world_add_mark_length_error">Écrivez 1 caractères…</string>
+    <string name="world_mark_island_no_cartographer_stone">Vous avez besoin d'une &font_stone;pierre &font_end;du &font_cyan;Cartographe &font_end;pour faire ça…</string>
+    <string name="button_add_mark">Ajouter une marque</string>
+    <string name="world_add_mark_message">Ajouter une marque qui apparaîtra dans la liste des îles (écrivez uniquement &font_cyan;1 &font_end;caractère.) :</string>
+    <string name="world_add_mark_message_replacing">Il y a déjà une marque pour cette île, en ajouter une nouvelle supprimera la marque précédente.&br;&br;Ajouter une marque qui apparaîtra dans la liste des îles (écrivez uniquement &font_cyan;1 &font_end;caractère.) :</string>
+    <string name="mark_color_title">Choisissez une couleur pour la marque :</string>
 
     <string name="craft_would_die_crafting">Vous mourrez de &font_hunger;faim&font_end; !</string>
 
@@ -3202,102 +3202,102 @@
 
     <string name="settings_show_main_stats">Montrer stats principales</string>
 
-    <string name="ranged_weapon_type_bow">&font_speed;Bow&font_end;</string>
-    <string name="ranged_weapon_type_crossbow">&font_speed;Crossbow&font_end;</string>
-    <string name="ranged_weapon_type_slingshot">&font_speed;Slingshot&font_end;</string>
+    <string name="ranged_weapon_type_bow">&font_speed;Arc&font_end;</string>
+    <string name="ranged_weapon_type_crossbow">&font_speed;Arbalète&font_end;</string>
+    <string name="ranged_weapon_type_slingshot">&font_speed;Fronde&font_end;</string>
 
-    <string name="tile_content_type_ranged_weapon">Ranged Weapon</string>
+    <string name="tile_content_type_ranged_weapon">Arme à distance</string>
 
-    <string name="content_description_ranged_weapon_image">Ranged Weapon</string>
-    <string name="item_info_ranged_weapon">Wield this to be able to shoot monsters before engaging into combat.&br;%1$s&br;%2$s</string>
+    <string name="content_description_ranged_weapon_image">Arme à distance</string>
+    <string name="item_info_ranged_weapon">Maniez cela pour être capable de tirer sur les monstres avant d'engager un combat.&br;%1$s&br;%2$s</string>
 
-    <string name="item_wood_bow">&font_wood;Wood&font_end; Bow</string>
-    <string name="item_bone_bow">&font_bone;Bone&font_end; Bow</string>
-    <string name="item_copper_bow">&font_copper;Copper&font_end; Bow</string>
-    <string name="item_tin_bow">&font_tin;Tin&font_end; Bow</string>
-    <string name="item_iron_bow">&font_iron;Iron&font_end; Bow</string>
-    <string name="item_bronze_bow">&font_bronze;Bronze&font_end; Bow</string>
-    <string name="item_silver_bow">&font_silver;Silver&font_end; Bow</string>
-    <string name="item_gold_bow">&font_gold;Gold&font_end; Bow</string>
-    <string name="item_diamond_bow">&font_diamond;Diamond&font_end; Bow</string>
-    <string name="item_obsidian_bow">&font_obsidian;Obsidian&font_end; Bow</string>
+    <string name="item_wood_bow">Arc en &font_wood;bois&font_end;</string>
+    <string name="item_bone_bow">Arc en &font_bone;os&font_end;</string>
+    <string name="item_copper_bow">Arc en &font_copper;cuivre&font_end;</string>
+    <string name="item_tin_bow">Arc en &font_tin;étain&font_end;</string>
+    <string name="item_iron_bow">Arc en &font_iron;fer&font_end;</string>
+    <string name="item_bronze_bow">Arc en &font_bronze;bronze&font_end;</string>
+    <string name="item_silver_bow">Arc en &font_silver;argent&font_end;</string>
+    <string name="item_gold_bow">Arc en &font_gold;or&font_end;</string>
+    <string name="item_diamond_bow">Arc en &font_diamond;diamant&font_end;</string>
+    <string name="item_obsidian_bow">Arc en &font_obsidian;obsidienne&font_end;</string>
 
-    <string name="item_wood_crossbow">&font_wood;Wood&font_end; Crossbow</string>
-    <string name="item_bone_crossbow">&font_bone;Bone&font_end; Crossbow</string>
-    <string name="item_copper_crossbow">&font_copper;Copper&font_end; Crossbow</string>
-    <string name="item_tin_crossbow">&font_tin;Tin&font_end; Crossbow</string>
-    <string name="item_iron_crossbow">&font_iron;Iron&font_end; Crossbow</string>
-    <string name="item_bronze_crossbow">&font_bronze;Bronze&font_end; Crossbow</string>
-    <string name="item_silver_crossbow">&font_silver;Silver&font_end; Crossbow</string>
-    <string name="item_gold_crossbow">&font_gold;Gold&font_end; Crossbow</string>
-    <string name="item_diamond_crossbow">&font_diamond;Diamond&font_end; Crossbow</string>
-    <string name="item_obsidian_crossbow">&font_obsidian;Obsidian&font_end; Crossbow</string>
+    <string name="item_wood_crossbow">Arbalète en &font_wood;bois&font_end;</string>
+    <string name="item_bone_crossbow">Arbalète en &font_bone;os&font_end;</string>
+    <string name="item_copper_crossbow">Arbalète en &font_copper;cuivre&font_end;</string>
+    <string name="item_tin_crossbow">Arbalète en &font_tin;étain&font_end;</string>
+    <string name="item_iron_crossbow">Arbalète en &font_iron;fer&font_end;</string>
+    <string name="item_bronze_crossbow">Arbalète en &font_bronze;bronze&font_end;</string>
+    <string name="item_silver_crossbow">Arbalète en &font_silver;argent&font_end;</string>
+    <string name="item_gold_crossbow">Arbalète en &font_gold;or&font_end;</string>
+    <string name="item_diamond_crossbow">Arbalète en &font_diamond;diamant&font_end;</string>
+    <string name="item_obsidian_crossbow">Arbalète en &font_obsidian;obsidienne&font_end;</string>
 
-    <string name="item_wood_slingshot">&font_wood;Wood&font_end; Slingshot</string>
-    <string name="item_bone_slingshot">&font_bone;Bone&font_end; Slingshot</string>
-    <string name="item_copper_slingshot">&font_copper;Copper&font_end; Slingshot</string>
-    <string name="item_tin_slingshot">&font_tin;Tin&font_end; Slingshot</string>
-    <string name="item_iron_slingshot">&font_iron;Iron&font_end; Slingshot</string>
-    <string name="item_bronze_slingshot">&font_bronze;Bronze&font_end; Slingshot</string>
-    <string name="item_silver_slingshot">&font_silver;Silver&font_end; Slingshot</string>
-    <string name="item_gold_slingshot">&font_gold;Gold&font_end; Slingshot</string>
-    <string name="item_diamond_slingshot">&font_diamond;Diamond&font_end; Slingshot</string>
-    <string name="item_obsidian_slingshot">&font_obsidian;Obsidian&font_end; Slingshot</string>
+    <string name="item_wood_slingshot">Fronde en &font_wood;boi&font_end;</string>
+    <string name="item_bone_slingshot">Fronde en &font_bone;os&font_end;</string>
+    <string name="item_copper_slingshot">Fronde en &font_copper;cuivre&font_end;</string>
+    <string name="item_tin_slingshot">Fronde en &font_tin;étain&font_end;</string>
+    <string name="item_iron_slingshot">Fronde en &font_iron;fer&font_end;</string>
+    <string name="item_bronze_slingshot">Fronde en &font_bronze;bronze&font_end;</string>
+    <string name="item_silver_slingshot">Fronde en &font_silver;argent&font_end;</string>
+    <string name="item_gold_slingshot">Fronde en &font_gold;or&font_end;</string>
+    <string name="item_diamond_slingshot">Fronde en &font_diamond;diamant&font_end;</string>
+    <string name="item_obsidian_slingshot">Fronde en &font_obsidian;obsidienne&font_end;</string>
 
-    <string name="button_shoot">Shoot</string>
-    <string name="ranged_weapon_shoot_monster">You shot %1$s with your %2$s and dealt &font_speed;%3$d &font_end;damage!</string>
-    <string name="material_type_arrow">&font_wood;Arrow&font_end;</string>
-    <string name="ranged_weapon_need_ammunition">You need %1$s to do that!</string>
+    <string name="button_shoot">Tirer</string>
+    <string name="ranged_weapon_shoot_monster">Vous avez tiré sur %1$s avec votre %2$s et infligé &font_speed;%3$d &font_end;de dégâts !</string>
+    <string name="material_type_arrow">&font_wood;Flèche&font_end;</string>
+    <string name="ranged_weapon_need_ammunition">Vous avez besoin de %1$s pour faire ça !</string>
 
     <!-- Translate to Spanish -->
 
-    <string name="skill_bow_mastery">&font_speed;Bow &font_end;Mastery</string>
-    <string name="skill_crossbow_mastery">&font_speed;Crossbow &font_end;Mastery</string>
-    <string name="skill_slingshot_mastery">&font_speed;Slingshot &font_end;Mastery</string>
+    <string name="skill_bow_mastery">Maîtrise de l'\&font_speed;arc&font_end;</string>
+    <string name="skill_crossbow_mastery">Maîtrise de l'\&font_speed;arbalète&font_end;</string>
+    <string name="skill_slingshot_mastery">Maîtrise de la &font_speed;fronde&font_end;</string>
 
-    <string name="skill_bow_mastery_desc">As it levels up, slightly increases the damage of shooting with a &font_speed;Bow&font_end;.</string>
-    <string name="skill_crossbow_mastery_desc">As it levels up, slightly increases the damage of shooting with a &font_speed;Crossbow&font_end;.</string>
-    <string name="skill_slingshot_mastery_desc">As it levels up, slightly increases the damage of shooting with a &font_speed;Slingshot&font_end;.</string>
+    <string name="skill_bow_mastery_desc">En montant de niveau, les dégâts infligés avec l'\&font_speed;arc &font_end;augmentent.</string>
+    <string name="skill_crossbow_mastery_desc">En montant de niveau, les dégâts infligés avec l'\&font_speed;arbalète &font_end;augmentent.</string>
+    <string name="skill_slingshot_mastery_desc">En montant de niveau, les dégâts infligés avec la&font_speed;fronde &font_end;augmentent.</string>
 
-    <string name="content_description_decrease_minimap_size">Decrease Minimap Size</string>
-    <string name="content_description_increase_minimap_size">Increase Minimap Size</string>
-    <string name="combat_shortcut_empty">(empty)</string>
-    <string name="combat_shortcut_skill">Skill</string>
-    <string name="combat_shortcut_spell">Spell</string>
+    <string name="content_description_decrease_minimap_size">Diminuer taille minimap</string>
+    <string name="content_description_increase_minimap_size">Augmenter taille minimap</string>
+    <string name="combat_shortcut_empty">(vide)</string>
+    <string name="combat_shortcut_skill">Compétence</string>
+    <string name="combat_shortcut_spell">Sort</string>
 
     <string name="button_shortcut">*</string>
-    <string name="button_shortcut_content_description">Add to combat shortcut</string>
+    <string name="button_shortcut_content_description">Ajouter aux raccourcis de combat</string>
 
-    <string name="shortcut_title">Shortcut</string>
-    <string name="shortcut_message">Select combat shortcut to set.</string>
-    <string name="shortcut_1">Shortcut 1</string>
-    <string name="shortcut_2">Shortcut 2</string>
-    <string name="shortcut_toast">Added %1$s to combat shortcut %2$d!</string>
-    <string name="combat_shortcut_pet_attack">Pet Attack</string>
-    <string name="shortcut_pet_attack">Pet Attack</string>
+    <string name="shortcut_title">Raccourcis</string>
+    <string name="shortcut_message">Sélectionnez le raccourci de combat à établir.</string>
+    <string name="shortcut_1">Raccourci 1</string>
+    <string name="shortcut_2">Raccourci 2</string>
+    <string name="shortcut_toast">%1$s ajouté au raccourci de combat %2$d !</string>
+    <string name="combat_shortcut_pet_attack">Attaque du familier</string>
+    <string name="shortcut_pet_attack">Attaque du familier</string>
 
-    <string name="food_trail_mix">&font_nut;Trail Mix&font_end;</string>
+    <string name="food_trail_mix">&font_nut;Fruits secs&font_end;</string>
 
-    <string name="island_discovered">Island Discovered</string>
+    <string name="island_discovered">Île découverte</string>
 
-    <string name="island_arrival_speaking_natives">Speaking with the natives, you learn this %1$s island is called &font_cyan;%2$s&font_end;.</string>
-    <string name="island_arrival_sense_island">You sense this %1$s island is called &font_cyan;%2$s&font_end;.</string>
+    <string name="island_arrival_speaking_natives">En parlant avec les locaux, vous apprenez que cette île %1$s est nommée &font_cyan;%2$s&font_end;.</string>
+    <string name="island_arrival_sense_island">Vous pensez que cette île %1$s porte le nom de &font_cyan;%2$s&font_end;.</string>
 
-    <string name="island_arrival_type_valley">You discover an island. It seems to be covered with grass, plenty of plants and small mountains.</string>
-    <string name="island_arrival_type_forest">You discover an island seemingly covered with trees and exotic monsters.</string>
-    <string name="island_arrival_type_mountain">You discover a mountainous island. There are lots of rocks, and you feel you\'ll need to climb a lot.</string>
-    <string name="island_arrival_type_swamp">You discover an island. The smell and the flies in the air are a sign of danger.</string>
-    <string name="island_arrival_type_savanna">You discover an island. There are scattered shrubs and isolated trees and the temperature is quite comfortable.</string>
-    <string name="island_arrival_type_jungle">You discover an island with thick trees, plants and lots of vegetation. Who knows what dangers lie ahead…</string>
-    <string name="island_arrival_type_desert">You discover an island. The sand and the sun are the main things you see around.</string>
-    <string name="island_arrival_type_tundra">You discover an island. The ice and the cold temperature makes you wonder if it is a good idea to explore this place.</string>
-    <string name="island_arrival_type_taiga">You discover an island. The cold temperature and the ice makes you wonder if it is a good idea to explore this place.</string>
-    <string name="island_arrival_type_mesa">You discover an island which seems to be a flat-topped hill bounded from all sides by steep escarpments.</string>
-    <string name="island_arrival_type_beach">You arrive at what seems to be an archipelago. You\'ll have to swim a lot if you want to explore all the secrets of this place.</string>
-    <string name="island_arrival_type_lake">You discover an island containing some sort of lake and abundant vegetation.</string>
-    <string name="island_arrival_type_barrens">You discover an island with a variety of biomes.</string>
-    <string name="island_arrival_type_volcano">You discover an island. The hot temperature and the vision of smoke are a sign of danger.</string>
-    <string name="island_arrival_type_high_mountains">You discover a mountainous island. There seem to be the highest mountains you\'ve ever seen.</string>
+    <string name="island_arrival_type_valley">Vous découvrez une île. On dirait qu'elle possède une végétation luxuriante et de petites montagnes.</string>
+    <string name="island_arrival_type_forest">Vous découvrez une île couverte d'arbres et de monstres exotiques.</string>
+    <string name="island_arrival_type_mountain">Vous découvrez une île montagneuse. Il y a beaucoup de rochers et vous savez à l'avance que vous aurez beaucoup à grimper.</string>
+    <string name="island_arrival_type_swamp">Vous découvrez une île. La puanteur et les amas de mouches ne vous inspirent pas confiance.</string>
+    <string name="island_arrival_type_savanna">Vous découvrez une île. Il y a quelques arbustes éparpillés et des arbres isolés. La température est assez agréable.</string>
+    <string name="island_arrival_type_jungle">Vous découvrez une île couverte d'arbres imposants et d'une végétation luxuriante. Allez savoir quels dangers elle pourrait cacher…</string>
+    <string name="island_arrival_type_desert">Vous découvrez une île. Sous le soleil, rien d'autre que du sable à perte de vue.</string>
+    <string name="island_arrival_type_tundra">Vous découvrez une île. Le givre et la température glaciale te font te demander si c'est vraiment une bonne idée de l'explorer.</string>
+    <string name="island_arrival_type_taiga">Vous découvrez une île. La température glaciale et le givre te font te demander si c'est vraiment une bonne idée de l'explorer.</string>
+    <string name="island_arrival_type_mesa">Vous découvrez une île qui semble être une colline à sommet plat entourée d'escarpements.</string>
+    <string name="island_arrival_type_beach">Vous arrivez à ce qui semble être un archipel. Vous aurez à beaucoup nager si vous voulez en découvrir tous les secrets.</string>
+    <string name="island_arrival_type_lake">Vous découvrez une île contenant un lac d'abondante végétation.</string>
+    <string name="island_arrival_type_barrens">Vous découvrez une île contenant une variété de biomes.</string>
+    <string name="island_arrival_type_volcano">Vous découvrez une île. La température étouffante et la fumée en émanant vous mettent en garde d'un potentiel danger.</string>
+    <string name="island_arrival_type_high_mountains">Vous découvrez une île montagneuse. Vous n'aviez jamais vu de montagnes aussi imposantes.</string>
 
     <string name="island_arrival_type_giants">You discover an island where everything seems to be bigger than the regular islands you\'ve been before.</string>
     <string name="island_arrival_type_dragons">You discover an island where you smell sulfur and feel the presence of dangerous creatures.</string>
