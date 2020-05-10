@@ -3870,18 +3870,18 @@
     <string name="achievement_desc_chicken_feed_chicken">Nourris un poulet en Mode Poule Mouillée.</string>
 
 
-    <string name="no_permadeath_gold_penalty">&br;&br;&font_cyan;* &font_end;If you die, you will lose &font_cyan;50% &font_end;of the &font_gold;gold &font_end;you are carrying.</string>
-    <string name="pet_dead">(&font_red;&italic;Dead&italic_end;&font_end;)</string>
-    <string name="your_active_pet_is_not_dead">Your active &font_pet;Pet &font_end;is not dead…</string>
+    <string name="no_permadeath_gold_penalty">&br;&br;&font_cyan;* &font_end;Si vous mourez, vous perdrez &font_cyan;50 % &font_end;de l'&font_gold;or &font_end;que vous transportez.</string>
+    <string name="pet_dead">(&font_red;&italic;Mort&italic_end;&font_end;)</string>
+    <string name="your_active_pet_is_not_dead">Votre &font_pet;familier &font_end;actif n'est pas mort…</string>
 
-    <string name="void_master_after_killing_text_3_new_chicken_mode">Well well… You are wearing a complete set of the &font_void;Void&font_end;… Here, take this…</string>
+    <string name="void_master_after_killing_text_3_new_chicken_mode">Eh bien… Vous portez un set complet du &font_void;vide&font_end;… Tenez, prenez ça…</string>
 
-    <string name="tile_content_type_rubber_chicken">&font_legendary;Rubber &font_end;&font_animal;Chicken&font_end;</string>
+    <string name="tile_content_type_rubber_chicken">&font_animal;Poulet &font_end;en &font_legendary;caoutchouc&font_end;</string>
 
-    <string name="achievement_name_rubber_chicken">Rubber Chicken</string>
-    <string name="achievement_desc_rubber_chicken">Kill the Void Master while wearing a full Void Armor set in Chicken Mode.</string>
+    <string name="achievement_name_rubber_chicken">Poulet en caoutchouc</string>
+    <string name="achievement_desc_rubber_chicken">Tuez le Maître du Vide en portant un set d'armure du vide complet en Mode Poule Mouillée.</string>
 
-    <string name="dead_reason_by_cactus">You died picking up a &font_cactus;Cactus&font_end;!</string>
+    <string name="dead_reason_by_cactus">Vous êtes mort en ramassant un &font_cactus;cactus&font_end; !</string>
 
     <string name="action_trader_action_description">&font_cyan;Sensing&font_end; &font_gold;Merchants&font_end;</string>
     <string name="action_treasure_hunter_action_description">&font_cyan;Hunting&font_end; &font_chest;Treasures&font_end;</string>
@@ -3889,9 +3889,9 @@
     <string name="action_contractor_action_description">&font_cyan;Sensing&font_end; &font_cyan;Quests&font_end;</string>
     <string name="settings_show_coordinates_below">Show Coordinates Below</string>
 
-    <string name="skill_mana_eyes_description">Allows seeing the &font_red;Monster&font_end;\'s &font_mana;mana &font_end;in combat.</string>
-    <string name="skill_mana_eyes">&font_mana;Mana &font_end;&font_mushroom;Eyes&font_end;</string>
+    <string name="skill_mana_eyes_description">Permet de voir le &font_mana;mana &font_end;du &font_red;monstre &font_end;en combat.</string>
+    <string name="skill_mana_eyes">&font_mushroom;Yeux &font_end;de &font_mana;mana&font_end;</string>
 
-    <string name="saving_checkpoint">&font_primary_light;&italic;[SAVING CHECKPOINT…]&italic_end;&font_end;</string>
+    <string name="saving_checkpoint">&font_primary_light;&italic;[POINT DE SAUVEGARDE…]&italic_end;&font_end;</string>
 
 </resources>
