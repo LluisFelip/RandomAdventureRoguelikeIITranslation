@@ -1018,7 +1018,7 @@
             On dirait bien que t\'as mal choisis ta semaine pour arréter de fûmer.\n
             Je ne suis pas superstitieux mais je suis un peu stitieux.\n
             T\'as vu ta gueule ?\n
-            Tu crois que c'est du respect ça mon garçon ?\n
+            Tu crois que c\'est du respect ça mon garçon ?\n
             S-s-senpai ?\n
             All your base are belong to us.\n
             Nuuut Nuuut !\n
@@ -2973,10 +2973,10 @@
     <string name="title_the_hauler_no_gender">%1$s, le/la &font_stone;Apprenti mineur&font_end;</string>
     <string name="title_the_miner_no_gender">%1$s, le/la &font_stone;Mineur&font_end;</string>
     <string name="title_the_fisherman_no_gender">%1$s, le/la &font_cyan;Pêcheur&font_end;</string>
-    <string name="title_the_bughunter_no_gender">%1$s, le/la &font_insect;Chasseur d'insectes&font_end;</string>
+    <string name="title_the_bughunter_no_gender">%1$s, le/la &font_insect;Chasseur d\'insectes&font_end;</string>
     <string name="title_the_entomologist_no_gender">%1$s, le/la &font_insect;Entomologiste&font_end;</string>
     <string name="title_the_butcherer_no_gender">%1$s, le/la &font_red;Boucher&font_end;</string>
-    <string name="title_the_skinner_no_gender">%1$s, l'&font_skin;Écorcheur&font_end;</string>
+    <string name="title_the_skinner_no_gender">%1$s, l\'&font_skin;Écorcheur&font_end;</string>
     <string name="title_the_furrier_no_gender">%1$s, le/la &font_skin;Dépeceur&font_end;</string>
     <string name="title_the_romantic_no_gender">%1$s, le/la &font_pink;Romantique&font_end;</string>
     <string name="title_the_merchant_no_gender">%1$s, le/la &font_gold;Marchand&font_end;</string>
@@ -2988,8 +2988,8 @@
     <string name="title_the_tyrant_no_gender">%1$s, le &font_tyrant;Tyran&font_end;</string>
     <string name="title_the_devil_no_gender">%1$s, le/la &font_red;Démon&font_end;</string>
     <string name="title_the_corrupted_god_no_gender">%1$s, le/la &font_corrupted_god;Dieu corrompu&font_end;</string>
-    <string name="title_the_obsessed_no_gender">%1$s, l'&font_wise;Obsédé&font_end;</string>
-    <string name="title_the_animal_lover_no_gender">%1$s, l'&font_animal;Amis des animaux&font_end;</string>
+    <string name="title_the_obsessed_no_gender">%1$s, l\'&font_wise;Obsédé&font_end;</string>
+    <string name="title_the_animal_lover_no_gender">%1$s, l\'&font_animal;Amis des animaux&font_end;</string>
     <string name="title_the_purifier_no_gender">%1$s, le/la &font_purifying;Purificateur&font_end;</string>
     <string name="title_the_ranger_no_gender">%1$s, le/la &font_wood;Ranger&font_end;</string>
     <string name="title_the_librarian_no_gender">%1$s, le/la &font_wood;Libraire&font_end;</string>
@@ -3026,7 +3026,7 @@
     <string name="race_unknown">&font_white;Inconnu&font_end;</string>
 
     <string name="race_human_desc">La plus polyvalente et flexible des races communes. Leur force réside en un esprit capable du bien comme du mal. Il sont équilibrés pour le combat et la magie. Ils ont une connaissance innée de la fabrication et sont des explorateurs-nés.</string>
-    <string name="race_dwarf_desc">Intéressés uniquement par les mines et la bière, ils sont habitués à vivre sous terre. Mais suite à l'expansion du mal, ils ont commencés à explorer le monde et marcher dans les pas de leurs légendaires ancètres. Ils sont une des races les plus robustes, avec de bonnes compétences de minage et sont également les seuls à savoir confectionner de la bière.</string>
+    <string name="race_dwarf_desc">Intéressés uniquement par les mines et la bière, ils sont habitués à vivre sous terre. Mais suite à l\'expansion du mal, ils ont commencés à explorer le monde et marcher dans les pas de leurs légendaires ancètres. Ils sont une des races les plus robustes, avec de bonnes compétences de minage et sont également les seuls à savoir confectionner de la bière.</string>
     <string name="race_halfling_desc">Even though they have appeared on books and stories, almost no one has seen one in their life, as Halflings are peaceful people who live in their own hidden villages, cooking, eating, reading about stories from the first era, and living all kinds of fantasy in their minds. Since evil has started spreading around the world, some of the most brave Halfling have started their own adventures like the ones they read on their books.</string>
     <string name="race_gnome_desc">They take delight in life, enjoying every moment of invention, exploration and investigation. They used to be focused just on their inventions, and exploration, but recently many brave Gnomes have been seen adventuring around the world.</string>
     <string name="race_elf_desc">Elves are magical people of otherworldly grace, living in the world but not entirely part of it. Selfish and egocentric, they are worried about their future due to the increased presence of evil, so they have started to become more present in the world in search for their salvation.</string>
@@ -3048,10 +3048,10 @@
     <string name="skill_natural_explorer">&font_cyan;Explorateur-né&font_end;</string>
     <string name="skill_natural_explorer_description">Peut voir les cases alentour en se déplaçant, rendant l\'exploration plus aisée.</string>
 
-    <string name="human_traits">&font_cyan;* &font_end;Démarre avec des connaissances de fabrication basiques.&br;&br;&font_cyan;* &font_end;Démarre avec un peu de &font_food;nourriture&font_end;.&br;&br;&font_cyan;Explorateur-né&font_end; : Peut voir les cases alentours en se déplaçant, ce qui facilite l'exploration.</string>
+    <string name="human_traits">&font_cyan;* &font_end;Démarre avec des connaissances de fabrication basiques.&br;&br;&font_cyan;* &font_end;Démarre avec un peu de &font_food;nourriture&font_end;.&br;&br;&font_cyan;Explorateur-né&font_end; : Peut voir les cases alentours en se déplaçant, ce qui facilite l\'exploration.</string>
     <string name="dwarf_traits">&font_cyan;* &font_end;Démarre avec une &font_silver;pioche&font_end;.&br;&br;&font_cyan;Forgeron&font_end; : Augmente les chances de fabiquer de meilleurs arems, boucliers ou armures. (Niveau &font_cyan;%1$d&font_end;).&br;&br;&font_cyan;Maître &font_end;&font_gold;brasseur &font_end; : Peut fabriquer des &font_gold;bières &font_end;et des &font_gold;bières &font_end;&font_epic;épiques&font_end; (et démarre avec matériaux nécessaires pour faire de la &font_gold;bière&font_end;).</string>
-    <string name="halfling_traits">&font_food;Gourmand&font_end; : Augmente la faim max., permet de résister plus longtemps sans manger.&br;&br;&font_food;Gourmet&font_end; : Augmente la faim restaurée en mangeant.&br;&br;&font_cyan;Discret&font_end; : Réduit les chances d'être attaqué par un &font_red;monstre &font_end;de &font_cyan;33 &font_end;%.</string>
-    <string name="gnome_traits">&font_wood;Espace gnomique&font_end; : Augmente la taille de l'inventaire de &font_cyan;10&font_end;.&br;&br;&font_bomb;Bomberman&font_end; : Démarre avec un peu de &font_gunpowder;Poudre à canon&font_end;, divers &font_bomb;bombes &font_end;et des recettes pour les fabriquer.&br;&br;&font_cyan;Perspicace&font_end; : Détecte s'il y a quelque-chose de caché et peut utiliser &font_cyan;recherche &font_end;pour le trouver.</string>
+    <string name="halfling_traits">&font_food;Gourmand&font_end; : Augmente la faim max., permet de résister plus longtemps sans manger.&br;&br;&font_food;Gourmet&font_end; : Augmente la faim restaurée en mangeant.&br;&br;&font_cyan;Discret&font_end; : Réduit les chances d\'être attaqué par un &font_red;monstre &font_end;de &font_cyan;33 &font_end;%.</string>
+    <string name="gnome_traits">&font_wood;Espace gnomique&font_end; : Augmente la taille de l\'inventaire de &font_cyan;10&font_end;.&br;&br;&font_bomb;Bomberman&font_end; : Démarre avec un peu de &font_gunpowder;Poudre à canon&font_end;, divers &font_bomb;bombes &font_end;et des recettes pour les fabriquer.&br;&br;&font_cyan;Perspicace&font_end; : Détecte s\'il y a quelque-chose de caché et peut utiliser &font_cyan;recherche &font_end;pour le trouver.</string>
     <string name="elf_traits">&font_cyan;* &font_end;Démarre avec &font_cyan;5 &font_end;&font_plant;plantes &font_end;et &font_cyan;5 &font_end;&font_mushroom;champignons&font_end;.&br;&br;&font_mana;Flux de mana&font_end; : Régénère &font_cyan;1 % &font_end;de &font_mana;mana &font_end;chaque tour si la &font_health;vie &font_end;est supérieure à &font_cyan;50 %&font_end;.&br;&br;&font_mana;Magie elfique&font_end; : &font_mana;Mana &font_end; supplémentaire (&font_cyan;+25&font_end;).</string>
     <string name="drow_traits">&font_portal;Teleport&font_end;: Can &font_portal;teleport &font_end;to a random location in the island.&br;&br;&font_mana;Mana Flow&font_end;: Regenerates &font_cyan;1% &font_end;&font_mana;mana &font_end;every turn if &font_health;health &font_end;is over &font_cyan;50%&font_end;.&br;&br;&font_mana;Elven Magic&font_end;: Have extra &font_mana;mana &font_end;(&font_cyan;+25&font_end;).</string>
     <string name="undead_traits">&font_green;Weather Immunity&font_end;: Immune to &font_red;Hot &font_end;or &font_tundra;Cold &font_end;damage.&br;&br;&font_health;Unbreakable&font_end;: If a &font_red;Monster&font_end;\'s attack would kill you, you resist it and survive with &font_health;1 &font_end;health point.&br;&br;&font_hunger;Undead Hunger&font_end;: &font_hunger;Hunger &font_end;increases faster, but can eat from corpses to restore &font_hunger;Hunger&font_end;, &font_health;Health &font_end;and &font_mana;Mana&font_end;.</string>
@@ -3072,7 +3072,7 @@
     <string name="skill_gourmet_description">Augmente la faim restaurée en mangeant.</string>
 
     <string name="skill_gnomic_space">&font_wood;Espace gnomique&font_end;</string>
-    <string name="skill_gnomic_space_description">Augmente la taille de l'inventaire de &font_cyan;10&font_end;.</string>
+    <string name="skill_gnomic_space_description">Augmente la taille de l\'inventaire de &font_cyan;10&font_end;.</string>
 
     <string name="skill_mana_flow">&font_mana;Flux de mana&font_end;</string>
     <string name="skill_mana_flow_description">Régénère &font_cyan;1 % de &font_end;&font_mana;mana &font_end;chaque tour si la &font_mana;vie &font_end;est supérieure à &font_cyan;50 %&font_end;.</string>
@@ -3112,7 +3112,7 @@
     <string name="easter_egg_dwarf_mine">Je suis un nain et je creuse un trou…</string>
 
     <string name="skill_weapon_learner">&font_iron;Manieur d\'armes&font_end;</string>
-    <string name="skill_weapon_learner_description">Apprenez les compétences de maîtrise d'armes plus rapidement.</string>
+    <string name="skill_weapon_learner_description">Apprenez les compétences de maîtrise d\'armes plus rapidement.</string>
     <string name="settings_craft_toast_enabled">Activer notifications de fabrication</string>
     <string name="button_all">Tout</string>
     <string name="cemetery_clear_message">Voulez-vous supprimer toutes les données des héros morts ?</string>
@@ -3126,7 +3126,7 @@
 
     <string name="blacksmith_level_up_button">Monter niv. de &font_iron;forge&font_end; : &font_gold;%1$d&font_end;</string>
     <string name="blacksmith_level">Niveau de &font_iron;forge&font_end; : &font_cyan;%1$d&font_end;</string>
-    <string name="blacksmith_levelup_dialog_text">Monter le niveau de forge pour &font_gold;%1$d &font_end;d'or ?&br;&br;(Améliore légèrement l'équipement en question, augmente les taux de réussite de &font_copper;morcelage &font_end;et réduit les coûts de fabrication des barres)</string>
+    <string name="blacksmith_levelup_dialog_text">Monter le niveau de forge pour &font_gold;%1$d &font_end;d\'or ?&br;&br;(Améliore légèrement l\'équipement en question, augmente les taux de réussite de &font_copper;morcelage &font_end;et réduit les coûts de fabrication des barres)</string>
     <string name="blacksmith_scrap_probability">Taux de réussite : %1$s%%</string>
     <string name="success_lower_than_100">&font_cyan;%1$d&font_end;</string>
     <string name="success_100">&font_green;%1$d&font_end;</string>
@@ -3144,11 +3144,11 @@
 
     <string name="island_type_treasure">Trésor</string>
     <string name="material_old_paper_piece">Vieux morceau de papier</string>
-    <string name="item_info_old_paper_piece">Il est recouvert d'étranges dessins…</string>
+    <string name="item_info_old_paper_piece">Il est recouvert d\'étranges dessins…</string>
     <string name="tile_content_type_nautical_chart_treasure_island">Carte maritime (&font_cyan;Île &font_end;au&font_gold;trésor&font_end;)</string>
 
     <string name="craft_various_title">Fabrications diverses</string>
-    <string name="craft_various_message_not_stackable">Quelle quantiter voulez-vous fabriquer ?&br;&br;(Vous possédez suffisament de matériaux pour fabriquer &font_cyan;%1$d&font_end;, le maximum autorisé à fabriquer est &font_cyan;%2$d&font_end;, et vous avez un espace d'inventaire pour en fabriquer &font_cyan;%3$d&font_end;, ainsi, le maximum que vous puissiez fabriquer est : &font_cyan;%4$d&font_end;)</string>
+    <string name="craft_various_message_not_stackable">Quelle quantiter voulez-vous fabriquer ?&br;&br;(Vous possédez suffisament de matériaux pour fabriquer &font_cyan;%1$d&font_end;, le maximum autorisé à fabriquer est &font_cyan;%2$d&font_end;, et vous avez un espace d\'inventaire pour en fabriquer &font_cyan;%3$d&font_end;, ainsi, le maximum que vous puissiez fabriquer est : &font_cyan;%4$d&font_end;)</string>
     <string name="crafted_amount">&font_cyan;%1$d&font_end; fabriqué !</string>
 
     <string name="settings_navigation_buttons_position">Position boutons de navigation</string>
@@ -3157,24 +3157,24 @@
     <string name="skill_unarmed_mastery_description">Attaquer sans &font_skill_attack;arme &font_end;en combat débloque la compétence &font_skill_attack;mains nues&font_end;.</string>
 
     <string name="weapon_skill_unarmed_punch">Poing</string>
-    <string name="weapon_skill_unarmed_punch_desc">Frappe l'ennemi.</string>
-    <string name="weapon_skill_unarmed_punch_attack">Vous frappez l'ennemi !</string>
+    <string name="weapon_skill_unarmed_punch_desc">Frappe l\'ennemi.</string>
+    <string name="weapon_skill_unarmed_punch_attack">Vous frappez l\'ennemi !</string>
 
     <string name="weapon_skill_unarmed_hammerfist">Poing marteau</string>
-    <string name="weapon_skill_unarmed_hammerfist_desc">Frappe l'ennemi par en haut.</string>
-    <string name="weapon_skill_unarmed_hammerfist_attack">Vous frapper l'ennemi d'en haut !</string>
+    <string name="weapon_skill_unarmed_hammerfist_desc">Frappe l\'ennemi par en haut.</string>
+    <string name="weapon_skill_unarmed_hammerfist_attack">Vous frapper l\'ennemi d\'en haut !</string>
 
     <string name="weapon_skill_unarmed_magicfist">Poing magique</string>
-    <string name="weapon_skill_unarmed_magicfist_desc">Frappe et absorbe le mana de l'ennemi.</string>
-    <string name="weapon_skill_unarmed_magicfist_attack">Vous frappez et absorbez le mana de l'ennemi !</string>
+    <string name="weapon_skill_unarmed_magicfist_desc">Frappe et absorbe le mana de l\'ennemi.</string>
+    <string name="weapon_skill_unarmed_magicfist_attack">Vous frappez et absorbez le mana de l\'ennemi !</string>
 
     <string name="weapon_skill_unarmed_double_punch">Poing double</string>
-    <string name="weapon_skill_unarmed_double_punch_desc">Frappe l'ennemi à deux reprises.</string>
-    <string name="weapon_skill_unarmed_double_punch_attack">Vous frappez l'ennemi à deux reprises !</string>
+    <string name="weapon_skill_unarmed_double_punch_desc">Frappe l\'ennemi à deux reprises.</string>
+    <string name="weapon_skill_unarmed_double_punch_attack">Vous frappez l\'ennemi à deux reprises !</string>
 
     <string name="weapon_skill_unarmed_fastfist">Poing rapide</string>
-    <string name="weapon_skill_unarmed_fastfist_desc">Frappe violement l'ennemi. Vous attaquez toujours en premier.</string>
-    <string name="weapon_skill_unarmed_fastfist_attack">Vous propulsez l'ennemi en arrière !</string>
+    <string name="weapon_skill_unarmed_fastfist_desc">Frappe violement l\'ennemi. Vous attaquez toujours en premier.</string>
+    <string name="weapon_skill_unarmed_fastfist_attack">Vous propulsez l\'ennemi en arrière !</string>
 
     <string name="material_type_cartographer_stone">&font_stone;Pierre &font_end;du &font_cyan;carthographe&font_end;</string>
     <string name="world_info_empty">(No info added, use a &font_cyan;Cartographer &font_end;&font_stone;Stone &font_end;to add a text to an island)</string>
@@ -3196,7 +3196,7 @@
     <string name="craft_would_die_crafting">Vous mourrez de &font_hunger;faim&font_end; !</string>
 
     <string name="skill_teleport">&font_portal;Teleportation&font_end;</string>
-    <string name="skill_teleport_desc">Vous &font_portal;téléporte &font_end;aléatoirement sur l'île. Coûte &font_mana;10 pts de mana &font_end;.</string>
+    <string name="skill_teleport_desc">Vous &font_portal;téléporte &font_end;aléatoirement sur l\'île. Coûte &font_mana;10 pts de mana &font_end;.</string>
 
     <string name="yang_amulet">Amulette &font_white;Yang&font_end;</string>
 
