@@ -2206,14 +2206,14 @@
     <string name="spell_effect_combat_frozen">%1$s está &font_tundra;congelado&font_end;!</string>
     <string name="spell_effect_combat_blocked">%1$s está &font_electric;bloqueado&font_end;!</string>
     <string name="spell_effect_combat_paralysed">%1$s está &font_electric;paralisado&font_end;!</string>
-    <string name="spell_effect_burnt_damage">%1$s está &font_attack;queimado &font_end;e sofre &font_red;%2$d &font_end;pontos de dano!</string>
+    <string name="spell_effect_burnt_damage">%1$s está &font_attack;queimado &font_end;e perdeu &font_red;%2$d &font_end;pontos de vida!</string>
     <string name="spell_effect_burnt_is_gone">%1$s não está mais &font_attack;queimando&font_end;.</string>
     <string name="spell_effect_frozen_is_gone">%1$s não está mais &font_tundra;congelado&font_end;.</string>
     <string name="spell_effect_paralysed_is_gone">%1$s não está mais &font_electric;paralisado&font_end;.</string>
     <string name="spell_effect_you_unfroze_monster">Você &font_tundra;descongelou &font_end;%1$s!</string>
-    <string name="spell_effect_monster_cant_attack_paralysed">%1$s está &font_electric;paralisado &font_end;e ão pode atacar!</string>
+    <string name="spell_effect_monster_cant_attack_paralysed">%1$s está &font_electric;paralisado &font_end;e não pode atacar!</string>
     <string name="spell_effect_monster_cant_attack_frozen">%1$s está &font_tundra;congelado &font_end;e não pode atacar!</string>
-    <string name="spell_effect_ice_armor_damage">%1$s é ferido pela &font_ice;armadura de gelo &font_end;e sofre &font_red;%2$d &font_end;pontos de dano!</string>
+    <string name="spell_effect_ice_armor_damage">%1$s foi ferido pela &font_ice;armadura de gelo &font_end;e perdeu &font_red;%2$d &font_end;pontos de vida!</string>
     <string name="spell_effect_burn">&font_red;Queima&font_end;</string>
     <string name="spell_effect_freeze">&font_icy;Congela&font_end;</string>
     <string name="spell_effect_block">&font_spell_wind;Bloqueia&font_end;</string>
@@ -2247,8 +2247,8 @@
     <string name="text_select_island_empty_message">Você ainda não explorou outras ilhas…</string>
     <string name="text_arrived_at">Você chegou em &font_cyan;%1$s&font_end;!</string>
     <string name="tile_unexplored">Inexplorada</string>
-    <string name="text_cant_swim_in_deep_ocean">Você não pode nadar no &font_blue;Mar Aberto&font_end;…</string>
-    <string name="text_level_up_to">Subiu de níve para &font_cyan;%1$d&font_end;!</string>
+    <string name="text_cant_swim_in_deep_ocean">Você não pode nadar em &font_blue;Mar Aberto&font_end;…</string>
+    <string name="text_level_up_to">Você subiu de nível para &font_cyan;%1$d&font_end;!</string>
 
     <string name="world_title">&font_wood;Mundo&font_end;</string>
     <string name="world_current_island">&italic; - Atual&italic_end;</string>
@@ -2256,23 +2256,23 @@
     <string name="sail_cant">Você não pode navegar</string>
     <string name="sail_rescued_message">Você deve levar as pessoas resgatadas primeiro!</string>
     <string name="sail_pay_sailing_taxes">Você precisa pagar a taxa de navegação no &font_wood;Cais &font_end;para navegar a partir daqui!</string>
-    <string name="sail_pier_pay_taxes_to_sail" tools:ignore="PluralsCandidate">Olá! Você deseja pagar a taxa para &font_cyan;navegar &font_end;com o seu &font_wood;barco &font_end;a partir desta ilha?&br;&br;Custa &font_gold;%1$d moedas de ouro&font_end;.</string>
+    <string name="sail_pier_pay_taxes_to_sail" tools:ignore="PluralsCandidate">Olá! Você deseja pagar a taxa para &font_cyan;navegar &font_end;com o seu &font_wood;barco &font_end;a partir desta ilha?&br;&br;Isso lhe custará &font_gold;%1$d moedas de ouro&font_end;.</string>
     <string name="sail_pier_already_payed">Obrigado por pagar a taxa para &font_cyan;navegar &font_end;a partir desta ilha. Divirta-se em suas aventuras!</string>
 
     <string name="corpse_turns_to_dust">%1$s se transformou em pó…</string>
 
     <string name="main_story_new_game_first_output">Você acordou em uma &font_sand;Praia &font_end;em &font_cyan;%1$s&font_end;.</string>
     <string name="main_story_1_dialog_title">Abra os olhos</string>
-    <string name="main_story_1_dialog_message">Após o que pareceu ser uma eternidade, você abre os seus olhos e tenta ficar de pé.&br;&br;Olhando ao redor, percebe que está em uma &font_sand;Praia&font_end;. Há um &font_wood;Barco Naufragado&font_end;.&br;&br;Após alguns momentos, percebe que um &font_cyan;Menino &font_end;te olha fixamente.</string>
-    <string name="main_story_shipwreck_info">Parce impossível fazer esse &font_wood;Barco Naufragado &font_end;navegar novamente.&br;&br;Ao examiná-lo de perto, ele lhe parece familiar…</string>
+    <string name="main_story_1_dialog_message">Após o que pareceu ser uma eternidade, você abre os seus olhos e tenta ficar de pé.&br;&br;Olhando ao redor, percebe que está em uma &font_sand;Praia&font_end;. Há um &font_wood;Barco Naufragado&font_end;.&br;&br;Após alguns momentos, percebe que um &font_cyan;Menino &font_end;olha fixamente para você.</string>
+    <string name="main_story_shipwreck_info">Parece impossível fazer esse &font_wood;Barco Naufragado &font_end;navegar novamente.&br;&br;Ao examiná-lo de perto, ele lhe parece familiar…</string>
     <string name="main_story_young_boy_message_1">O... Olá? Você está bem? Eu estava brincando por aqui e te encontrei inconsciente…</string>
-    <string name="main_story_young_boy_message_2">Temia que estivesse morto. Que bom que está vivo! Esse &font_wood;Barco&font_end;
+    <string name="main_story_young_boy_message_2">Achei que tivesse morrido. Ainda bem que em enganei! Esse &font_wood;Barco&font_end;
         é seu?</string>
-    <string name="main_story_young_boy_message_3">Ah… bem, acho que você precisa descansar. O meu pai é o dono da &font_inn;Hospedaria &font_end;em &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end;. Vá até lá para descansar, e fale com ele se precisar de alguma coisa. Foi um prazer conhecê-lo!</string>
+    <string name="main_story_young_boy_message_3">Ah… bem, acho que você precisa descansar. O meu pai é o dono da &font_inn;Estalagem &font_end;em &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end;. Vá até lá para descansar, e fale com ele se precisar de alguma coisa. Foi um prazer conhecê-lo!</string>
     <string name="main_story_young_boy_runs_away">O &font_cyan;Menino &font_end;sai correndo.</string>
-    <string name="main_story_1_giving_description">Após ter acordado na &font_sand;Praia&font_end;, um &font_cyan;Menino &font_end;lhe disse para ir até a Hospedaria em &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end;. Lá você poderá descansar e conversar com o pai dele.</string>
+    <string name="main_story_1_giving_description">Após ter acordado na &font_sand;Praia&font_end;, um &font_cyan;Menino &font_end;lhe disse para ir até a Estalagem em &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end;. Lá você poderá descansar e conversar com o pai dele.</string>
     <string name="main_story_inn_owner_title">&font_inn;Dono da Hospedaria&font_end;</string>
-    <string name="main_story_inn_dialog_1">Olá! Ah, quer dizer que falou com o meu filho? Um &font_wood;Barco Naufragado&font_end;? Hmm… Dá para notar o seu cansaço. Você pode descansar na minha &font_inn;Hospedaria&font_end;.</string>
+    <string name="main_story_inn_dialog_1">Olá! Ah, quer dizer que falou com o meu filho? Um &font_wood;Barco Naufragado&font_end;? Hmm… Dá para notar o seu cansaço. Você pode descansar na minha &font_inn;Estalagem&font_end;.</string>
     <string name="main_story_inn_dialog_2">A propósito, os habitantes da ilha estão muito assustados ultimamente. Há rumores de que há uma &font_cave;Caverna &font_end;em &font_cyan;%1$d&font_end;, &font_cyan;%2$d &font_end;onde vive um &font_red;monstro &font_end;perigoso.</string>
     <string name="main_story_inn_dialog_3">O &font_wood;Carpinteiro&font_end; da ilha é um pouco aventureiro e foi até a caverna alguns dias atrás, mas não voltou ainda… Por favor, mate aquele &font_red;monstro &font_end;e salve-o se puder!</string>
     <string name="main_story_inn_dialog_2_button">O que posso fazer?</string>
@@ -2281,7 +2281,7 @@
     <string name="main_story_the_carpenter_1">Obrigado por me salvar! Achei que fosse morrer aqui!</string>
     <string name="main_story_the_carpenter_2">Ouvi dizer que um dos monstros que servem &font_red;O Tirano &font_end;estava aqui e vim procurar uma pista do seu paradeiro…</string>
     <string name="main_story_the_carpenter_3">Você não sabe quem é &font_red;O Tirano&font_end;? Ah… resumindo, ele é o motivo pelo qual o mal tem se espalhado pelo mundo ultimamente.</string>
-    <string name="main_story_the_carpenter_4">Ninguém sabe onde ele está, mas a lenda diz que um verdadeiro herói surgirá, que será capaz de derrotá-lo de uma vez por todas…</string>
+    <string name="main_story_the_carpenter_4">Ninguém sabe onde ele está, mas a lenda diz que uma verdadeira lenda surgirá, que será capaz de derrotá-lo de uma vez por todas…</string>
     <string name="main_story_the_carpenter_5">Esse &font_red;monstro&font_end; que você acabou de matar era o motivo de não termos nenhum &font_wood;Barco &font_end;nesta ilha. Ele destruiu todos!</string>
     <string name="main_story_the_carpenter_5b">Se tivéssemos um, eu teria ido pessoalmente procurar pistas sobre &font_red;O Tirano &font_end;para poder derrotá-lo! (se ao menos eu não fosse tão velho…)</string>
     <string name="main_story_the_carpenter_6">Quer dizer que encontrou um &font_wood;Barco Naufragado &font_end;em &font_cyan;%1$d&font_end;, &font_cyan;%2$d &font_end;? Acho que poderei consertá-lo se você trouxer &font_wood;Madeira&font_end;
@@ -2295,10 +2295,10 @@
     <string name="main_story_the_carpenter_second_dialog_1">Oi! Você encontrou &font_cyan;5 &font_end;pedaços de &font_wood;Madeira&font_end;?</string>
     <string name="main_story_the_carpenter_second_dialog_1_not_enough">Ah, você ainda não tem o suficiente… volte quando tiver pelo menos &font_cyan;5 &font_end;pedaços de &font_wood;Madeira&font_end;!</string>
     <string name="main_story_the_carpenter_second_dialog_2">Ah, que ótimo!! Começarei a trabalhar imediatamente!</string>
-    <string name="main_story_the_carpenter_second_dialog_repairing_ship">&font_wood;O Velho Carpinteiro &font_end;stá consertando o &font_wood;Barco&font_end;</string>
+    <string name="main_story_the_carpenter_second_dialog_repairing_ship">&font_wood;O Velho Carpinteiro &font_end;está consertando o &font_wood;Barco&font_end;</string>
     <string name="main_story_the_carpenter_third_dialog_1">Muito bem! Eu não perdi o jeito! Agora você pode viajar para outras ilhas em busca de pistas para encontrar &font_red;O Tirano&font_end;! Boa sorte, e obrigado por tudo!</string>
-    <string name="main_story_the_carpenter_end_dialog">Olá, herói! Como vai a missão de encontrar &font_red;O Tirano&font_end;?</string>
-    <string name="main_story_4">Encontre &font_cyan;pistas&font_end; sobre o lugar onde &font_red;O Tirante &font_end;se encontra.</string>
+    <string name="main_story_the_carpenter_end_dialog">Olá, lenda! Como vai a missão de encontrar &font_red;O Tirano&font_end;?</string>
+    <string name="main_story_4">Encontre &font_cyan;pistas&font_end; sobre o lugar onde &font_red;O Tirano &font_end;se encontra.</string>
     <string name="main_story_5_dialog_message">O &font_red;monstro &font_end;derrubou um estranho &font_cyan;Pedaço de Mapa&font_end;. Você não sabe exatamente o que é isso. É melhor consultar um &font_cyan;Cartógrafo&font_end;.</string>
     <string name="main_story_5">Converse com um &font_cyan;Cartógrafo&font_end; sobre o &font_cyan;Pedaço de Mapa &font_end;que você encontrou. Certamente tem relação com o local onde &font_red;O Tirano &font_end;está.</string>
     <string name="shop_cartographer">Cartógrafo</string>
