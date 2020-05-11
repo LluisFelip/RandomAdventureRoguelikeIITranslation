@@ -2297,36 +2297,36 @@
     <string name="main_story_the_carpenter_second_dialog_2">Ah, que ótimo!! Começarei a trabalhar imediatamente!</string>
     <string name="main_story_the_carpenter_second_dialog_repairing_ship">&font_wood;O Velho Carpinteiro &font_end;está consertando o &font_wood;Barco&font_end;</string>
     <string name="main_story_the_carpenter_third_dialog_1">Muito bem! Eu não perdi o jeito! Agora você pode viajar para outras ilhas em busca de pistas para encontrar &font_red;O Tirano&font_end;! Boa sorte, e obrigado por tudo!</string>
-    <string name="main_story_the_carpenter_end_dialog">Olá, lenda! Como vai a missão de encontrar &font_red;O Tirano&font_end;?</string>
+    <string name="main_story_the_carpenter_end_dialog">Olá, Lenda! Como vai a missão de encontrar &font_red;O Tirano&font_end;?</string>
     <string name="main_story_4">Encontre &font_cyan;pistas&font_end; sobre o lugar onde &font_red;O Tirano &font_end;se encontra.</string>
     <string name="main_story_5_dialog_message">O &font_red;monstro &font_end;derrubou um estranho &font_cyan;Pedaço de Mapa&font_end;. Você não sabe exatamente o que é isso. É melhor consultar um &font_cyan;Cartógrafo&font_end;.</string>
     <string name="main_story_5">Converse com um &font_cyan;Cartógrafo&font_end; sobre o &font_cyan;Pedaço de Mapa &font_end;que você encontrou. Certamente tem relação com o local onde &font_red;O Tirano &font_end;está.</string>
     <string name="shop_cartographer">Cartógrafo</string>
     <string name="main_story_cartographer_dialog_1">Olá! Em que posso ajudar?</string>
     <string name="main_story_cartographer_dialog_button_show_piece_of_map">Mostrar o &font_cyan;Pedaço de Mapa&font_end;</string>
-    <string name="main_story_cartographer_dialog_2">Minha nossa… é o que penso que é? Não posso acreditar!</string>
-    <string name="main_story_cartographer_dialog_3">Este é um dos lendários &font_cyan;Pedaços de Mapa &font_end;! É real!</string>
+    <string name="main_story_cartographer_dialog_2">Minha nossa… isso é o que penso que é? Não posso acreditar!</string>
+    <string name="main_story_cartographer_dialog_3">Este é um dos lendários &font_cyan;Pedaços de Mapa &font_end;! Eles existem!</string>
     <string name="main_story_cartographer_dialog_4">Perdoe a minha empolgação… Eu nunca pensei que veria algo assim…</string>
-    <string name="main_story_cartographer_dialog_5" tools:ignore="PluralsCandidate">Bem, a lenda diz que, se você encontar os %1$d pedaços, poderá encontrar a &font_cyan;Island&font_end;
-        onde vive &font_red;O Tirano&font_end;… Eu achava que era apenas uma lenda, mas agora vejo que ela existe…</string>
-    <string name="main_story_cartographer_dialog_6">Tenha cuidado durante a sua jornada em busca dos &font_cyan;Pedaços de Mapa&font_end;. Os monstros que os guardam são muito perigosos…</string>
+    <string name="main_story_cartographer_dialog_5" tools:ignore="PluralsCandidate">Bem, a lenda diz que, se você encontar os %1$d pedaços, poderá encontrar a &font_cyan;Ilha&font_end;
+        onde vive &font_red;O Tirano&font_end;… Eu achava que isso era apenas uma lenda, mas agora vejo que é real…</string>
+    <string name="main_story_cartographer_dialog_6">Tenha cuidado durante a sua jornada em busca dos &font_cyan;Pedaços de Mapa&font_end;. Os monstros que os vigiam são muito perigosos…</string>
     <string name="main_story_6">Encontre &font_cyan;%1$d &font_end; x &font_cyan;Pedaço de Mapa&font_end;. &font_cyan;O Cartógrafo &font_end;lhe disse que, quando você o fizer, poderá juntar os pedaços para formar uma &font_cyan;Carta Náutica&font_end;, e finalmente poderá encontrar o local onde &font_red;O Tirano &font_end;se encontra.</string>
-    <string name="main_story_6_got_a_piece_total_amount" tools:ignore="PluralsCandidate">Você obteve um &font_cyan;Pedaço de Mapa&font_end;! Você possui %1$d pedaços! Faltam %2$d pedaços…</string>
+    <string name="main_story_6_got_a_piece_total_amount" tools:ignore="PluralsCandidate">Você obteve um &font_cyan;Pedaço de Mapa&font_end;! Você possui %1$d deles! Falta encontrar %2$d…</string>
     <string name="main_story_6_got_the_pieces" tools:ignore="PluralsCandidate">Você obteve todos os pedaços! Combine-os como &font_cyan;O Cartógrafo &font_end;mandou…</string>
     <string name="main_story_7">Siga a &font_cyan;Carta Náutica&font_end;
-        até a &font_cyan;Ilha &font_end;onde está &font_red;O Tirano&font_end; e o mate!</string>
+        até a &font_cyan;Ilha &font_end;onde está &font_red;O Tirano&font_end; para matá-lo!</string>
     <string name="main_story_7_advice_before_sail_title">Viajar até a &font_cyan;Ilha&font_end; onde está &font_red;O Tirano&font_end;?</string>
     <string name="main_story_7_advice_before_sail_message">Você está pronto? Você pode não conseguir voltar de lá…</string>
     <string name="monster_thetyrant">O Tirano</string>
     <string name="main_story_7_the_tyrant_message_1">Por favor, pare! Eu me rendo!</string>
     <string name="main_story_7_the_tyrant_message_2">Eu estava apenas seguindo ordens… Ele… Ele disse que me mataria se eu não seguisse as suas ordens…</string>
     <string name="main_story_7_the_tyrant_message_2_button">Quem?</string>
-    <string name="main_story_7_the_tyrant_message_3">Não posso dizer… se bem que… você ia me matar de qualquer forma, então...</string>
+    <string name="main_story_7_the_tyrant_message_3">Não posso dizer… se bem que… você me mataria de qualquer forma, então...</string>
     <string name="main_story_7_the_tyrant_message_4">Ele não tem nome… Ele é… &font_red;O Diabo&font_end;…</string>
     <string name="main_story_7_the_tyrant_message_5">Ele está no &font_red;Inferno&font_end;…</string>
     <string name="main_story_7_the_tyrant_message_6">Eu lhe darei esta &font_cyan;Carta Náutica &font_end;para o &font_red;Inferno&font_end;…</string>
     <string name="main_story_7_the_tyrant_message_7">Eu te aconselho a se preparar antes de ir. A &font_red;Lava &font_end;e o próprio &font_red;Inferno &font_end;irão feri-lo, e os monstros de lá são muito mais ferozes do que os meus…</string>
-    <string name="main_story_7_the_tyrant_message_8">Boa sorte! Se perguntarem, eu não disse nada!</string>
+    <string name="main_story_7_the_tyrant_message_8">Boa sorte! Se perguntarem algo, eu não te falei nada!</string>
     <string name="tyrant_disappears">&font_red;O Tirano&font_end; desaparece…</string>
     <string name="main_story_7_ship_is_back">O seu &font_wood;Barco&font_end;
         está de volta…</string>
@@ -2337,7 +2337,7 @@
     <string name="main_story_8_advice_before_sail_title">Viajar para a &font_cyan;Ilha&font_end; &font_red;Inferno&font_end;?</string>
     <string name="main_story_8_advice_before_sail_message">Tem certeza? Você pode não conseguir voltar de lá…</string>
     <string name="monster_devil">Diabo</string>
-    <string name="main_story_8_the_devil_pre_combat_message_1">Bah! Eu sabia que não podia contar com &font_red;O Tirano&font_end;!</string>
+    <string name="main_story_8_the_devil_pre_combat_message_1">Há! Eu sabia que não podia contar com &font_red;O Tirano&font_end;!</string>
     <string name="main_story_8_the_devil_pre_combat_message_2">Espero que aquele rato preguiçoso esteja morto, ou eu mesmo o matarei!</string>
     <string name="main_story_8_the_devil_pre_combat_message_3">Bem… e quanto a você… prepare-se… prepare-se para morrer!</string>
     <string name="main_story_8_devil_message_1">Oh… Sinto muito… &font_corrupted_god;Deus&font_end;, me perdoe…</string>
@@ -2348,7 +2348,7 @@
     <string name="main_story_8_corrupted_god_pre_combat_message_2">Deixe-me te contar algo antes de esmagá-lo como um inseto…</string>
     <string name="main_story_8_corrupted_god_pre_combat_message_3">Existem infinitos &font_hell;Infernos &font_end;e &font_heaven;Paraísos&font_end;, como dimensões infinitas…</string>
     <string name="main_story_8_corrupted_god_pre_combat_message_4">Tudo isto não passa de um jogo de xadrez para &font_corrupted_god;Deus&font_end;… Não há esperança para mortais como você.</string>
-    <string name="main_story_8_corrupted_god_pre_combat_message_5">Todos vocês, entutulados Lendas, sempre se esforçam tanto para \"salvar o mundo\"… mas isso não passa de uma causa perdida, pois sempre haverá um Deus com o verdadeiro poder… VOCÊ é uma causa perdida…</string>
+    <string name="main_story_8_corrupted_god_pre_combat_message_5">Todos vocês, entitulados Lendas, sempre se esforçam tanto para \"salvar o mundo\"… mas isso não passa de uma causa perdida, pois sempre haverá um Deus com o verdadeiro poder… VOCÊ é uma causa perdida…</string>
     <string name="main_story_8_corrupted_god_pre_combat_message_6">Bem… Acho que está na hora… ISTO DEVE TERMINAR AGORA!</string>
     <string name="main_story_9_corrupted_god_message_1">Essa não… Eu… Eu não entendo… Como isto é possível? Será possível que você seja... Você é...? Não... Não pode ser...</string>
     <string name="main_story_9_advice_before_sail_title">Viajar para a &font_cyan;Ilha&font_end; &font_heaven;Paraíso&font_end;?</string>
@@ -2361,14 +2361,14 @@
         Entrar mesmo assim?</string>
 
     <string name="professional_quest_giving_quest_0">Olá, Lenda! Deseja aprender o básico sobre a profissão %1$s?</string>
-    <string name="professional_quest_giving_quest_1_dialog">Traga %1$s até aqui e lhe explicarei o restante! Você poderá &font_cyan;fabricar &font_end;se souber a receita, ou comprar diretamente em uma &font_gold;loja&font_end;.</string>
-    <string name="professional_quest_giving_quest_1_description">O %1$s, em &font_cyan;%2$d&font_end;, &font_cyan;%3$d &font_end;pediu que lhe trouxesse %4$s. Você poderá &font_cyan;fabricar &font_end;se souber a receita, ou comprar diretamente em uma &font_gold;loja&font_end;.</string>
+    <string name="professional_quest_giving_quest_1_dialog">Traga %1$s até aqui e lhe explicarei o restante! Você poderá &font_cyan;fabricar &font_end;coisas se souber a receita, ou comprar diretamente em uma &font_gold;loja&font_end;.</string>
+    <string name="professional_quest_giving_quest_1_description">O %1$s, em &font_cyan;%2$d&font_end;, &font_cyan;%3$d &font_end;pediu que lhe trouxesse %4$s. Você poderá &font_cyan;fabricar &font_end;coisas se souber a receita, ou comprar diretamente em uma &font_gold;loja&font_end;.</string>
     <string name="professional_quest_giving_quest_1_check_if_have_tool_dialog">Você trouxe %1$s?</string>
     <string name="professional_quest_giving_quest_1_positive_have">Muito bem! Deixe-me ver… Certo! Isso irá servir!</string>
     <string name="professional_quest_giving_quest_1_positive_dont_have">Sinto muito, mas parece que você não tem…</string>
     <string name="professional_quest_giving_quest_1_negative">Ah, mas não se preocupe. Volte quando tiver!</string>
     <string name="professional_quest_giving_quest_2_dialog">Aprenda como se tornar %1$s usando %2$s.</string>
-    <string name="professional_quest_giving_quest_3_dialog_miner">Utilize %1$s para &font_silver;escavar &font_end;uma &font_silver;Rocha &font_end;ou de uma&font_silver;Mina &font_end;para obter &font_silver;pedras &font_end;e minérios.&br;&br;Traga-me &font_cyan;%2$d &font_end;%3$s para completar o seu treinamento.</string>
+    <string name="professional_quest_giving_quest_3_dialog_miner">Utilize %1$s para &font_silver;escavar &font_end;uma &font_silver;Rocha &font_end;ou uma&font_silver;Mina &font_end;para obter &font_silver;pedras &font_end;e minérios.&br;&br;Traga-me &font_cyan;%2$d &font_end;%3$s para completar o seu treinamento.</string>
     <string name="professional_quest_giving_quest_3_dialog_woodcutter">Utilize %1$s para &font_wood;cortar &font_end;uma &font_wood;árvore &font_end;para obter &font_wood;madeira&font_end;.&br;&br;Traga-me &font_cyan;%2$d &font_end;%3$s para completar o seu treinamento.</string>
     <string name="professional_quest_giving_quest_3_dialog_butcher">Utilize %1$s para &font_red;cortar &font_end;um &font_red;cadáver de monstro &font_end;para obter &font_red;carne de monstro&font_end;.&br;&br;Traga-me &font_cyan;%2$d &font_end;%3$s para completar o seu treinamento.</string>
     <string name="professional_quest_giving_quest_3_dialog_bughunter">Utilize %1$s para &font_insect;capturar &font_end;um &font_insect;Inseto&font_end;.&br;&br;Traga-me &font_cyan;%2$d &font_end;%3$s para completar o seu treinamento.</string>
@@ -2488,11 +2488,11 @@
     <string name="monster_action_smother">asfixiar</string>
     <string name="monster_action_shock">choque</string>
     <string name="monster_action_rake">ancinho</string>
-    <string name="monster_action_black_wave">onda negra</string>
+    <string name="monster_action_black_wave">onda preta</string>
     <string name="monster_action_white_wave">onda branca</string>
-    <string name="monster_action_black_void">vazio negro</string>
+    <string name="monster_action_black_void">vazio preto</string>
     <string name="monster_action_white_void">vazio branco</string>
-    <string name="monster_action_black_storm">tempestade negra</string>
+    <string name="monster_action_black_storm">tempestade preta</string>
     <string name="monster_action_white_storm">tempestade branca</string>
     <string name="monster_action_emptyness">solidão</string>
     <string name="monster_action_deep_void">vazio profundo</string>
