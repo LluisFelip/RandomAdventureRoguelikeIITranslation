@@ -3027,9 +3027,9 @@
 
     <string name="race_human_desc">La plus polyvalente et flexible des races communes. Leur force réside en un esprit capable du bien comme du mal. Il sont équilibrés pour le combat et la magie. Ils ont une connaissance innée de la fabrication et sont des explorateurs-nés.</string>
     <string name="race_dwarf_desc">Intéressés uniquement par les mines et la bière, ils sont habitués à vivre sous terre. Mais suite à l\'expansion du mal, ils ont commencés à explorer le monde et marcher dans les pas de leurs légendaires ancètres. Ils sont une des races les plus robustes, avec de bonnes compétences de minage et sont également les seuls à savoir confectionner de la bière.</string>
-    <string name="race_halfling_desc">Bien qu'ils soient apparus dans bon nombres de livres et de contes, les personnes en ayant vus de leur vivant se comptent sur les doigts de la main. Les Halflings sont paisibles et vivent dans leurs villages cachés. Ils cuisinent, mangent, lisent des histoires datant de la première ère, et vivent toutes sortes d'aventures dans leur rêves. Depuis que le mal s'est répandu autour du monde, certains des Halflings les plus courageux sont partis en quête d'aventure, à la manière de ceux décrits dans les livres qu'ils avaient l'habitude de lires.</string>
-    <string name="race_gnome_desc">Ils prennent plaisir à vivre et savourent chaque instant où ils créent des inventions, explorent et étudient l'inconnu. Ils étaient généralement concentrés sur leurs inventions, mais certains Gnomes courageux se sont lancés dans une aventure autour du globe.</string>
-    <string name="race_elf_desc">Les Elfes sont des créatures magiques possédant une grâce inégalable. Ils vivent dans ce monde mais n'en font pas totalement parti. Egoïstes et égocentriques, la présence du mal de plus en plus importante rend leur avenir incertain. Ils ont ainsi commencés à être plus présents dans le monde afin d'atteindre la délivrance.</string>
+    <string name="race_halfling_desc">Bien qu\'ils soient apparus dans bon nombres de livres et de contes, les personnes en ayant vus de leur vivant se comptent sur les doigts de la main. Les Halflings sont paisibles et vivent dans leurs villages cachés. Ils cuisinent, mangent, lisent des histoires datant de la première ère, et vivent toutes sortes d\'aventures dans leur rêves. Depuis que le mal s\'est répandu autour du monde, certains des Halflings les plus courageux sont partis en quête d\'aventure, à la manière de ceux décrits dans les livres qu\'ils avaient l\'habitude de lires.</string>
+    <string name="race_gnome_desc">Ils prennent plaisir à vivre et savourent chaque instant où ils créent des inventions, explorent et étudient l\'inconnu. Ils étaient généralement concentrés sur leurs inventions, mais certains Gnomes courageux se sont lancés dans une aventure autour du globe.</string>
+    <string name="race_elf_desc">Les Elfes sont des créatures magiques possédant une grâce inégalable. Ils vivent dans ce monde mais n\'en font pas totalement parti. Egoïstes et égocentriques, la présence du mal de plus en plus importante rend leur avenir incertain. Ils ont ainsi commencés à être plus présents dans le monde afin d\'atteindre la délivrance.</string>
     <string name="race_drow_desc">Generally known as the evil version of the regular elves. They are extremely intelligent, charismatic and dexterous, but share surface elves\' comparative frailty and slight frames. They are characterized by white or silver hair and obsidian black skin.</string>
     <string name="race_undead_desc">Once living humans brought to life in a horrifying state of undeath through the practice of necromantic magic. They have great strength and intelligence but lack of speed. Their hunger increases faster than the other races, but they can eat corpses to restore Mana, Hunger, and Health.</string>
     <string name="race_orc_desc">Bestial and savage, orcs band together as trıbes, living on hunting and raiding. As lovers of war, they have found a great enemy in the evil that has recently spread around the world. They have started to relate to other races with whom they had only spoken in the language of weapons and magic not so long ago.</string>
@@ -3131,13 +3131,13 @@
     <string name="success_lower_than_100">&font_cyan;%1$d&font_end;</string>
     <string name="success_100">&font_green;%1$d&font_end;</string>
 
-    <string name="bar_inn_text_extra_cost_undead">"Nous n'aimons pas avoir des gens comme toi dans le coin…"&br;&br;</string>
+    <string name="bar_inn_text_extra_cost_undead">"Nous n\'aimons pas avoir des gens comme toi dans le coin…"&br;&br;</string>
     <string name="bar_inn_text_normal_cost">"Bonjour, comment allez-vous ?"&br;&br;</string>
     <string name="bar_inn_text_lower_cost">"Bienvenue ! Passez une bonne journée !"&br;&br;</string>
 
-    <string name="shop_bad_text">"Fait un effort, j'ai pas tout mon temps…"</string>
+    <string name="shop_bad_text">"Fait un effort, j\'ai pas tout mon temps…"</string>
     <string name="shop_normal_text">"Bonjour ! Comment puis-je vous aider ?"</string>
-    <string name="shop_nice_text">"Bienvenue ! C'est un plaisir de faire affaire avec vous !"</string>
+    <string name="shop_nice_text">"Bienvenue ! c\'est un plaisir de faire affaire avec vous !"</string>
     <string name="button_share">Partager</string>
     <string name="achievement_desc_purifier">Purifier une île pour la première fois</string>
     <string name="achievement_name_purifier">Purificateur</string>
@@ -3177,17 +3177,17 @@
     <string name="weapon_skill_unarmed_fastfist_attack">Vous propulsez l\'ennemi en arrière !</string>
 
     <string name="material_type_cartographer_stone">&font_stone;Pierre &font_end;du &font_cyan;Carthographe&font_end;</string>
-    <string name="world_info_empty">(Pas d'infos ajoutées, utilisez une &font_stone;pierre &font_end;du &font_cyan;Cartographe &font_end;pour ajouter un memo à une île)</string>
+    <string name="world_info_empty">(Pas d\'infos ajoutées, utilisez une &font_stone;pierre &font_end;du &font_cyan;Cartographe &font_end;pour ajouter un memo à une île)</string>
     <string name="button_plus">+</string>
     <string name="button_mark">Marquer</string>
     <string name="button_add_info">Ajouter infos</string>
-    <string name="world_mark_island_message">Pour vous aider dans vos aventures, vous pouvez &font_cyan;marquer &font_end;une île avec un symbole qui apparaitra dans la liste des îles, et/ou écrire des &font_cyan;infos &font_end;a son propos. Vous arez besoin d'une &font_stone;pierre &font_end;du &font_cyan;Cartographe &font_end;pour chaqune de ces actions.&br;&br;Vous possédez actuellement &font_cyan;%1$d &font_end;&font_stone;pierres &font_end;du &font_cyan;Cartographe&font_end;.</string>
+    <string name="world_mark_island_message">Pour vous aider dans vos aventures, vous pouvez &font_cyan;marquer &font_end;une île avec un symbole qui apparaitra dans la liste des îles, et/ou écrire des &font_cyan;infos &font_end;a son propos. Vous arez besoin d\'une &font_stone;pierre &font_end;du &font_cyan;Cartographe &font_end;pour chaqune de ces actions.&br;&br;Vous possédez actuellement &font_cyan;%1$d &font_end;&font_stone;pierres &font_end;du &font_cyan;Cartographe&font_end;.</string>
 
-    <string name="world_add_info_message">Ajoutez des infos à l'île (Vous pouvez insérer des retours à la ligne en écrivant \'br\' entre &lt; et &gt;. Caractères max. authorisés : &font_cyan;%1$d&font_end;) :</string>
-    <string name="world_add_info_message_replacing">Il existe déjà des infos pour cette île. Ajouter des infos supprimera les infos actuelles !&br;&br;Ajouter des infos à l'île (Vous pouvez insérer des retours à la ligne en écrivant \'br\' entre &lt; et &gt;. Caractères max. authorisés : &font_cyan;%1$d&font_end;) :</string>
+    <string name="world_add_info_message">Ajoutez des infos à l\'île (Vous pouvez insérer des retours à la ligne en écrivant \'br\' entre &lt; et &gt;. Caractères max. authorisés : &font_cyan;%1$d&font_end;) :</string>
+    <string name="world_add_info_message_replacing">Il existe déjà des infos pour cette île. Ajouter des infos supprimera les infos actuelles !&br;&br;Ajouter des infos à l\'île (Vous pouvez insérer des retours à la ligne en écrivant \'br\' entre &lt; et &gt;. Caractères max. authorisés : &font_cyan;%1$d&font_end;) :</string>
     <string name="world_add_info_length_error">Écrivez entre 1 e %d caractères…</string>
     <string name="world_add_mark_length_error">Écrivez 1 caractères…</string>
-    <string name="world_mark_island_no_cartographer_stone">Vous avez besoin d'une &font_stone;pierre &font_end;du &font_cyan;Cartographe &font_end;pour faire ça…</string>
+    <string name="world_mark_island_no_cartographer_stone">Vous avez besoin d\'une &font_stone;pierre &font_end;du &font_cyan;Cartographe &font_end;pour faire ça…</string>
     <string name="button_add_mark">Ajouter une marque</string>
     <string name="world_add_mark_message">Ajouter une marque qui apparaîtra dans la liste des îles (écrivez uniquement &font_cyan;1 &font_end;caractère.) :</string>
     <string name="world_add_mark_message_replacing">Il y a déjà une marque pour cette île, en ajouter une nouvelle supprimera la marque précédente.&br;&br;Ajouter une marque qui apparaîtra dans la liste des îles (écrivez uniquement &font_cyan;1 &font_end;caractère.) :</string>
@@ -3209,7 +3209,7 @@
     <string name="tile_content_type_ranged_weapon">Arme à distance</string>
 
     <string name="content_description_ranged_weapon_image">Arme à distance</string>
-    <string name="item_info_ranged_weapon">Maniez cela pour être capable de tirer sur les monstres avant d'engager un combat.&br;%1$s&br;%2$s</string>
+    <string name="item_info_ranged_weapon">Maniez cela pour être capable de tirer sur les monstres avant d\'engager un combat.&br;%1$s&br;%2$s</string>
 
     <string name="item_wood_bow">Arc en &font_wood;bois&font_end;</string>
     <string name="item_bone_bow">Arc en &font_bone;os&font_end;</string>
@@ -3251,12 +3251,12 @@
 
     <!-- Translate to Spanish -->
 
-    <string name="skill_bow_mastery">Maîtrise de l'\&font_speed;arc&font_end;</string>
-    <string name="skill_crossbow_mastery">Maîtrise de l'\&font_speed;arbalète&font_end;</string>
+    <string name="skill_bow_mastery">Maîtrise de l\'&font_speed;arc&font_end;</string>
+    <string name="skill_crossbow_mastery">Maîtrise de l\'&font_speed;arbalète&font_end;</string>
     <string name="skill_slingshot_mastery">Maîtrise de la &font_speed;fronde&font_end;</string>
 
-    <string name="skill_bow_mastery_desc">En montant de niveau, les dégâts infligés avec l'\&font_speed;arc &font_end;augmentent.</string>
-    <string name="skill_crossbow_mastery_desc">En montant de niveau, les dégâts infligés avec l'\&font_speed;arbalète &font_end;augmentent.</string>
+    <string name="skill_bow_mastery_desc">En montant de niveau, les dégâts infligés avec l\'&font_speed;arc &font_end;augmentent.</string>
+    <string name="skill_crossbow_mastery_desc">En montant de niveau, les dégâts infligés avec l\'&font_speed;arbalète &font_end;augmentent.</string>
     <string name="skill_slingshot_mastery_desc">En montant de niveau, les dégâts infligés avec la&font_speed;fronde &font_end;augmentent.</string>
 
     <string name="content_description_decrease_minimap_size">Diminuer taille minimap</string>
@@ -3283,21 +3283,21 @@
     <string name="island_arrival_speaking_natives">En parlant avec les locaux, vous apprenez que cette île %1$s est nommée &font_cyan;%2$s&font_end;.</string>
     <string name="island_arrival_sense_island">Vous pensez que cette île %1$s porte le nom de &font_cyan;%2$s&font_end;.</string>
 
-    <string name="island_arrival_type_valley">Vous découvrez une île. On dirait qu'elle possède une végétation luxuriante et de petites montagnes.</string>
-    <string name="island_arrival_type_forest">Vous découvrez une île couverte d'arbres et de monstres exotiques.</string>
-    <string name="island_arrival_type_mountain">Vous découvrez une île montagneuse. Il y a beaucoup de rochers et vous savez à l'avance que vous aurez beaucoup à grimper.</string>
+    <string name="island_arrival_type_valley">Vous découvrez une île. On dirait qu\'elle possède une végétation luxuriante et de petites montagnes.</string>
+    <string name="island_arrival_type_forest">Vous découvrez une île couverte d\'arbres et de monstres exotiques.</string>
+    <string name="island_arrival_type_mountain">Vous découvrez une île montagneuse. Il y a beaucoup de rochers et vous savez à l\'avance que vous aurez beaucoup à grimper.</string>
     <string name="island_arrival_type_swamp">Vous découvrez une île. La puanteur et les amas de mouches ne vous inspirent pas confiance.</string>
     <string name="island_arrival_type_savanna">Vous découvrez une île. Il y a quelques arbustes éparpillés et des arbres isolés. La température est assez agréable.</string>
-    <string name="island_arrival_type_jungle">Vous découvrez une île couverte d'arbres imposants et d'une végétation luxuriante. Allez savoir quels dangers elle pourrait cacher…</string>
-    <string name="island_arrival_type_desert">Vous découvrez une île. Sous le soleil, rien d'autre que du sable à perte de vue.</string>
-    <string name="island_arrival_type_tundra">Vous découvrez une île. Le givre et la température glaciale te font te demander si c'est vraiment une bonne idée de l'explorer.</string>
-    <string name="island_arrival_type_taiga">Vous découvrez une île. La température glaciale et le givre te font te demander si c'est vraiment une bonne idée de l'explorer.</string>
-    <string name="island_arrival_type_mesa">Vous découvrez une île qui semble être une colline à sommet plat entourée d'escarpements.</string>
+    <string name="island_arrival_type_jungle">Vous découvrez une île couverte d\'arbres imposants et d\'une végétation luxuriante. Allez savoir quels dangers elle pourrait cacher…</string>
+    <string name="island_arrival_type_desert">Vous découvrez une île. Sous le soleil, rien d\'autre que du sable à perte de vue.</string>
+    <string name="island_arrival_type_tundra">Vous découvrez une île. Le givre et la température glaciale te font te demander si c\'est vraiment une bonne idée de l\'explorer.</string>
+    <string name="island_arrival_type_taiga">Vous découvrez une île. La température glaciale et le givre te font te demander si c\'est vraiment une bonne idée de l\'explorer.</string>
+    <string name="island_arrival_type_mesa">Vous découvrez une île qui semble être une colline à sommet plat entourée d\'escarpements.</string>
     <string name="island_arrival_type_beach">Vous arrivez à ce qui semble être un archipel. Vous aurez à beaucoup nager si vous voulez en découvrir tous les secrets.</string>
-    <string name="island_arrival_type_lake">Vous découvrez une île contenant un lac d'abondante végétation.</string>
+    <string name="island_arrival_type_lake">Vous découvrez une île contenant un lac d\'abondante végétation.</string>
     <string name="island_arrival_type_barrens">Vous découvrez une île contenant une variété de biomes.</string>
-    <string name="island_arrival_type_volcano">Vous découvrez une île. La température étouffante et la fumée en émanant vous mettent en garde d'un potentiel danger.</string>
-    <string name="island_arrival_type_high_mountains">Vous découvrez une île montagneuse. Vous n'aviez jamais vu de montagnes aussi imposantes.</string>
+    <string name="island_arrival_type_volcano">Vous découvrez une île. La température étouffante et la fumée en émanant vous mettent en garde d\'un potentiel danger.</string>
+    <string name="island_arrival_type_high_mountains">Vous découvrez une île montagneuse. Vous n\'aviez jamais vu de montagnes aussi imposantes.</string>
 
     <string name="island_arrival_type_giants">You discover an island where everything seems to be bigger than the regular islands you\'ve been before.</string>
     <string name="island_arrival_type_dragons">You discover an island where you smell sulfur and feel the presence of dangerous creatures.</string>
@@ -3870,16 +3870,16 @@
     <string name="achievement_desc_chicken_feed_chicken">Nourris un poulet en Mode Poule Mouillée.</string>
 
 
-    <string name="no_permadeath_gold_penalty">&br;&br;&font_cyan;* &font_end;Si vous mourez, vous perdrez &font_cyan;50 % &font_end;de l'&font_gold;or &font_end;que vous transportez.</string>
+    <string name="no_permadeath_gold_penalty">&br;&br;&font_cyan;* &font_end;Si vous mourez, vous perdrez &font_cyan;50 % &font_end;de l\'&font_gold;or &font_end;que vous transportez.</string>
     <string name="pet_dead">(&font_red;&italic;Mort&italic_end;&font_end;)</string>
-    <string name="your_active_pet_is_not_dead">Votre &font_pet;familier &font_end;actif n'est pas mort…</string>
+    <string name="your_active_pet_is_not_dead">Votre &font_pet;familier &font_end;actif n\'est pas mort…</string>
 
     <string name="void_master_after_killing_text_3_new_chicken_mode">Eh bien… Vous portez un set complet du &font_void;vide&font_end;… Tenez, prenez ça…</string>
 
     <string name="tile_content_type_rubber_chicken">&font_animal;Poulet &font_end;en &font_legendary;caoutchouc&font_end;</string>
 
     <string name="achievement_name_rubber_chicken">Poulet en caoutchouc</string>
-    <string name="achievement_desc_rubber_chicken">Tuez le Maître du Vide en portant un set d'armure du vide complet en Mode Poule Mouillée.</string>
+    <string name="achievement_desc_rubber_chicken">Tuez le Maître du Vide en portant un set d\'armure du vide complet en Mode Poule Mouillée.</string>
 
     <string name="dead_reason_by_cactus">Vous êtes mort en ramassant un &font_cactus;cactus&font_end; !</string>
 
