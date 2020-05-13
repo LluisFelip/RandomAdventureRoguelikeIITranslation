@@ -2232,7 +2232,7 @@
     <string name="magic_type_electric">&font_electric;Eletricidade&font_end;</string>
     <string name="magic_type_earth">&font_wood;Terra&font_end;</string>
     <string name="magic_type_life">&font_health;Vida&font_end;</string>
-    <string name="magic_type_monster_mastery">&font_pet;Controle de Monstro&font_end;</string>
+    <string name="magic_type_monster_mastery">&font_pet;Domar Monstros&font_end;</string>
 
 
     <string name="nautical_chart_name">Carta Náutica (%1$s)</string>
@@ -2511,7 +2511,7 @@
     <string name="achievement_name_questor">Missionário</string>
     <string name="achievement_name_hard_worker">Trabalho duro</string>
     <string name="achievement_name_employee_of_the_month">Destaque do mês</string>
-    <string name="achievement_name_full_equip">Um exagero de equipamento</string>
+    <string name="achievement_name_full_equip">Conjunto completo</string>
     <string name="achievement_name_traveller">Viajante</string>
     <string name="achievement_name_willy_fog">Willy fog</string>
     <string name="achievement_name_explorer">De ponta a ponta</string>
@@ -2562,7 +2562,7 @@
     <string name="achievement_name_capture_tyrant">Mestre d\’O Tirano</string>
     <string name="achievement_name_capture_devil">Mestre do Diabo</string>
     <string name="achievement_name_capture_corrupted_god">Mestre do Deus Corrompido</string>
-    <string name="achievement_name_gotta_catch_em_all">Preciso pegar todos!</string>
+    <string name="achievement_name_gotta_catch_em_all">Temos que pegar todos!</string>
 
     <string name="achievement_desc_to_die_is_fun">Morra pela primeira vez</string>
     <string name="achievement_desc_the_first_of_many_to_come">Suba de nível pela primeira vez</string>
@@ -2611,7 +2611,7 @@
     <string name="achievement_desc_the_fast_and_the_furrious">Esfole um monstro pela primeira vez</string>
     <string name="achievement_desc_skinner">Esfole 10 monstros em uma única partida</string>
     <string name="achievement_desc_furrier">Esfole 100 monstros em uma única partida</string>
-    <string name="achievement_desc_blacksmith">Melhore um Equipamento na Ferraria pela primeira vez</string>
+    <string name="achievement_desc_blacksmith">Melhore um Equipamento na Forja pela primeira vez</string>
     <string name="achievement_desc_romantic">Compre uma planta em uma \’Floricultura\'</string>
     <string name="achievement_desc_merchant">Ganhe uma Marca do Mercador pela primeira vez</string>
     <string name="achievement_desc_merchant_master">Reúna todas as diferentes 28 Marcas do Mercador</string>
@@ -2625,7 +2625,7 @@
     <string name="achievement_desc_mainstory_no_permadeath">Complete a História Principal pela primeira vez no modo Sem Morte Permanente</string>
     <string name="achievement_desc_mainstory_permadeath">Complete a História Principal pela primeira vez no modo Com Morte Permanente</string>
     <string name="achievement_desc_encyclokiller">Mate todos os tipos de monstros</string>
-    <string name="achievement_desc_capture_tyrant">Capture O Tirante</string>
+    <string name="achievement_desc_capture_tyrant">Capture O Tirano</string>
     <string name="achievement_desc_capture_devil">Capture o Diabo</string>
     <string name="achievement_desc_capture_corrupted_god">Capture o Deus Corrompido</string>
     <string name="achievement_desc_gotta_catch_em_all">Capture todos os diferentes monstros do jogo</string>
@@ -2633,35 +2633,35 @@
 
     <string name="quest_bring_animal_text_giving">Ah… Eu tenho um sonho… Adoraria ver um espécime de &font_animal;%1$s &font_end;pelo menos uma vez na vida… Você poderia me trazer um?</string>
     <string name="quest_bring_animal_text_desc">Você precisa encontrar um animal: &font_animal;%1$s &font_end;e levá-lo para %2$s em %3$s,%4$s</string>
-    <string name="quest_bring_animal_text_complete_desc">Oh! É melhor do que pensei! Muito obrigado!</string>
+    <string name="quest_bring_animal_text_complete_desc">Oh! É melhor do que pensava! Muito obrigado!</string>
     <string name="quest_bring_animal_text_negative">Sinto muito, mas você não trouxe um espécime de &font_animal;%1$s &font_end;com você… Volte quando encontrar um. Isso vai me deixar tão feliz!</string>
     <string name="quest_bring_animal_text_bring">Você encontrou um espécime de &font_animal;%1$s&font_end;? Vamos, me mostre logo!</string>
 
     <string name="tile_content_type_island_map">&font_gold;Mapa&font_end;
         da &font_cyan;Ilha&font_end;</string>
     <string name="item_info_island_map">Use este &font_gold;Mapa&font_end;
-        da &font_cyan;Ilha &font_end;para ver o mapa da ilha sem precisar explorá-la completamente.&br;&br;(Você precisará explorar a ilha completamente se quiser completá-la 100%.)</string>
+        da &font_cyan;Ilha &font_end;para ver o mapa completo sem precisar explorar a ilha completamente.&br;&br;(Você precisará explorar a ilha completamente se quiser completá-la 100%.)</string>
     <string name="island_map_island_name">(&font_cyan;%1$s&font_end;)</string>
 
     <string name="settings_change_language_title">Mudar Idioma</string>
     <string name="settings_change_language_message">Tem certeza de que deseja mudar o idioma?&br;&br;O app precisa ser reiniciado para que a mudança de idioma seja aplicada.&br;&br;Reiniciar app? (Você não perderá os dados do jogo)</string>
 
 
-    <string name="weapon_type_staff">&font_mana;Bastão&font_end;</string>
+    <string name="weapon_type_staff">&font_mana;Cajado&font_end;</string>
 
-    <string name="item_wood_staff">Bastão de &font_wood;Madeira&font_end;</string>
-    <string name="item_bone_staff">Bastão de &font_bone;Osso&font_end;</string>
-    <string name="item_copper_staff">Bastão de &font_copper;Cobre&font_end;</string>
-    <string name="item_tin_staff">Bastão de &font_tin;Latão&font_end;</string>
-    <string name="item_iron_staff">Bastão de &font_iron;Ferro&font_end;</string>
-    <string name="item_bronze_staff">Bastão de &font_bronze;Bronze&font_end;</string>
-    <string name="item_silver_staff">Bastão de &font_silver;Prata&font_end;</string>
-    <string name="item_gold_staff">Bastão de &font_gold;Ouro&font_end;</string>
-    <string name="item_diamond_staff">Bastão de &font_diamond;Diamante&font_end;</string>
-    <string name="item_obsidian_staff">Bastão de &font_obsidian;Obsidiana&font_end;</string>
+    <string name="item_wood_staff">Cajado de &font_wood;Madeira&font_end;</string>
+    <string name="item_bone_staff">Cajado de &font_bone;Osso&font_end;</string>
+    <string name="item_copper_staff">Cajado de &font_copper;Cobre&font_end;</string>
+    <string name="item_tin_staff">Cajado de &font_tin;Latão&font_end;</string>
+    <string name="item_iron_staff">Cajado de &font_iron;Ferro&font_end;</string>
+    <string name="item_bronze_staff">Cajado de &font_bronze;Bronze&font_end;</string>
+    <string name="item_silver_staff">Cajado de &font_silver;Prata&font_end;</string>
+    <string name="item_gold_staff">Cajado de &font_gold;Ouro&font_end;</string>
+    <string name="item_diamond_staff">Cajado de &font_diamond;Diamante&font_end;</string>
+    <string name="item_obsidian_staff">Cajado de &font_obsidian;Obsidiana&font_end;</string>
 
-    <string name="skill_staff_mastery">Domínio sobre o &font_mana;Bastão&font_end;</string>
-    <string name="skill_staff_mastery_description">Atacar com um &font_mana;Bastão &font_end;em combate desbloqueia Habilidades de Combate com &font_mana;Bastão&font_end;.</string>
+    <string name="skill_staff_mastery">Perícia com o &font_mana;Cajado&font_end;</string>
+    <string name="skill_staff_mastery_description">Atacar com um &font_mana;Cajado &font_end;em combate desbloqueia Habilidades de Combate com &font_mana;Cajado&font_end;.</string>
     <string name="weapon_skill_staff_hit">&font_skill_attack;Golpear&font_end;</string>
     <string name="weapon_skill_staff_hit_desc">Golpeia o inimigo.</string>
     <string name="weapon_skill_staff_hit_attack">Você golpeia o inimigo fortemente!</string>
