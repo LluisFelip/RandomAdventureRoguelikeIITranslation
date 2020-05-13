@@ -2817,7 +2817,7 @@
     <string name="only_placeholder">%1$s</string>
 
     <string name="title_warrior_male">%1$s, o &font_attack;Guerreiro&font_end;</string>
-    <string name="title_wizard_male">%1$s, o &font_mana;Bruxo&font_end;</string>
+    <string name="title_wizard_male">%1$s, o &font_mana;Feiticeiro&font_end;</string>
     <string name="title_cleric_male">%1$s, o &font_health;Clérigo&font_end;</string>
     <string name="title_worker_male">%1$s, o &font_wood;Trabalhador&font_end;</string>
     <string name="title_alchemist_male">%1$s, o &font_alchemist;Alquimista&font_end;</string>
@@ -2857,8 +2857,8 @@
     <string name="title_the_pet_master_male">%1$s, o &font_pet;Mestre dos Mascotes&font_end;</string>
     <string name="title_the_skilled_male">%1$s, o &font_cyan;Habilidoso&font_end;</string>
     <string name="title_the_skill_master_male">%1$s, o &font_cyan;Mestre das Habilidades&font_end;</string>
-    <string name="title_the_wizard_apprentice_male">%1$s, o &font_mana;Aprendiz de Bruxo&font_end;</string>
-    <string name="title_the_wizard_master_male">%1$s, o &font_mana;Mestre Bruxo&font_end;</string>
+    <string name="title_the_wizard_apprentice_male">%1$s, o &font_mana;Aprendiz de Feiticeiro&font_end;</string>
+    <string name="title_the_wizard_master_male">%1$s, o &font_mana;Mestre Feiticeiro&font_end;</string>
     <string name="title_the_crafter_male">%1$s, o &font_cyan;Fabricante&font_end;</string>
     <string name="title_the_crafter_artist_male">%1$s, o &font_cyan;Artista&font_end;</string>
     <string name="title_the_crafter_master_male">%1$s, o &font_cyan;Mestre Artesão&font_end;</string>
@@ -3393,7 +3393,7 @@
     <string name="pyramid_its_closed">Está fechada…</string>
     <string name="pyramid_its_closed_can_open">Está fechada, mas parece estar reagindo ao seu &font_beetle_talisman;Talismã do Besouro&font_end;…</string>
     <string name="pyramid_interact">Interagir</string>
-    <string name="pyramid_opened">A pirâmide absorve o &font_beetle_talisman;Talismã do Besouro&font_end;e abre!</string>
+    <string name="pyramid_opened">A pirâmide absorve o &font_beetle_talisman;Talismã do Besouro&font_end;e se abre!</string>
 
     <string name="material_type_jade">&font_jade;Jade&font_end;</string>
     <string name="material_type_quartz">&font_quartz;Quartzo&font_end;</string>
@@ -3421,13 +3421,13 @@
 
     <string name="wise_ascend_message_1">Deseja &asterisk_ascend_color;Ascender&font_end;?</string>
     <string name="creator_appeared_title">&font_asterisk_creator;O Criador &font_end;Apareceu</string>
-    <string name="creator_appeared_message">De repente, um ser supremo, como você nunca viu antes, aparece diante de você… E sabe, lá no fundo, isso nada mais é do que… &font_asterisk_creator;Archison&font_end;, &font_asterisk_creator;O Criador&font_end;.</string>
+    <string name="creator_appeared_message">De repente, um ser supremo, como você nunca viu antes, aparece diante de você… E você sabe, lá no fundo, que esse ser não é ninguém menos do que… &font_asterisk_creator;Archison&font_end;, &font_asterisk_creator;O Criador&font_end;.</string>
     <string name="combat_monster_healed_completely">%s se curou completamente!</string>
 
     <string name="item_info_creator_medal">É uma medalha brilhante, uma lembrança de quando você matou &font_asterisk_creator;O Criador&font_end;.</string>
 
     <string name="wise_main_story_island_first_message">Olá, Lenda! Eu estarei aqui se precisar de ajuda!&br;&br;Fale comigo se precisar descansar ou se quiser sair daqui...</string>
-    <string name="wise_main_story_island_second_message">Deseja restaurar a &font_health;vida&font_end;, o &font_mana;mana &font_end;e a sua &font_hunger;fome &font_end;por &font_gold;%1$d &font_end;moedas de &font_gold;ouro&font_end;? (UM &font_primary_light;&italic;[CHECKPOINT] &italic_end;&font_end;será salvo)&br;&br;… ou… &br;&br;Deseja sair daqui? Desaparecerá para sempre, e você perderá metade das &font_gold;moedas de ouro &font_end;que está carregando, metade do que está no &font_gold;BANCO&font_end;, e ainda terá que começar a procurar pelos &font_cyan;Pedaços do Mapa &font_end;novamente.</string>
+    <string name="wise_main_story_island_second_message">Deseja restaurar a &font_health;vida&font_end;, o &font_mana;mana &font_end;e a sua &font_hunger;fome &font_end;por &font_gold;%1$d &font_end;moedas de &font_gold;ouro&font_end;? (UM &font_primary_light;&italic;[CHECKPOINT] &italic_end;&font_end;será salvo)&br;&br;… ou… &br;&br;Deseja sair daqui? Você desaparecerá para sempre, e perderá metade das &font_gold;moedas de ouro &font_end;que está carregando, metade do que está no &font_gold;BANCO&font_end;, e ainda terá que começar a procurar pelos &font_cyan;Pedaços do Mapa &font_end;novamente.</string>
     <string name="wise_leave_island_confirmation_message">Tem certeza que deseja sair?&br;&br;Este lugar desaparecerá para sempre, e você perderá metade das &font_gold;moedas de ouro &font_end;que está carregando, metade do que está no &font_gold;BANCO&font_end;, e ainda terá que começar a procurar pelos &font_cyan;Pedaços do Mapa &font_end;novamente.</string>
 
     <string name="button_rest">Descansar</string>
