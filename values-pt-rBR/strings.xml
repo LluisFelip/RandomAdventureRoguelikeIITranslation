@@ -2664,19 +2664,19 @@
     <string name="skill_staff_mastery_description">Atacar com um &font_mana;Cajado &font_end;em combate desbloqueia Habilidades de Combate com &font_mana;Cajado&font_end;.</string>
     <string name="weapon_skill_staff_hit">&font_skill_attack;Golpear&font_end;</string>
     <string name="weapon_skill_staff_hit_desc">Golpeia o inimigo.</string>
-    <string name="weapon_skill_staff_hit_attack">Você golpeia o inimigo fortemente!</string>
+    <string name="weapon_skill_staff_hit_attack">Você golpeou o inimigo fortemente!</string>
     <string name="weapon_skill_staff_absorption">&font_skill_attack;Absorção de Mana&font_end;</string>
     <string name="weapon_skill_staff_absorption_desc">Absorve mana do inimigo.</string>
-    <string name="weapon_skill_staff_absorption_attack">Você absorve mana do inimigo!</string>
+    <string name="weapon_skill_staff_absorption_attack">Você absorveu mana do inimigo!</string>
     <string name="weapon_skill_staff_great_hit">&font_skill_attack;Grande Golpe&font_end;</string>
     <string name="weapon_skill_staff_great_hit_desc">Golpeia fortemente o inimigo.</string>
-    <string name="weapon_skill_staff_great_hit_attack">Você golpeia o inimigo fortemente!</string>
+    <string name="weapon_skill_staff_great_hit_attack">Você golpeou o inimigo fortemente!</string>
     <string name="weapon_skill_staff_mana_thief">&font_skill_attack;Ladrão de Mana&font_end;</string>
     <string name="weapon_skill_staff_mana_thief_desc">Rouba mana do inimigo.</string>
-    <string name="weapon_skill_staff_mana_thief_attack">Você atinge o inimigo e rouba seu mana!</string>
+    <string name="weapon_skill_staff_mana_thief_attack">Você atingiu o inimigo e roubou seu mana!</string>
     <string name="weapon_skill_staff_ultimate_strike">&font_skill_attack;Golpe Final&font_end;</string>
     <string name="weapon_skill_staff_ultimate_strike_desc">Golpeia o inimigo fortemente com o cajado.</string>
-    <string name="weapon_skill_staff_ultimate_strike_attack">Você golpeia o inimigo com toda a sua força!</string>
+    <string name="weapon_skill_staff_ultimate_strike_attack">Você golpeou o inimigo com toda a sua força!</string>
 
     <string name="material_unicorn_horn">Chifre de &font_unicorn;Unicórnio&font_end;</string>
     <string name="item_unicorn_horn_spear">Lança de Chifre de &font_unicorn;Unicórnio&font_end;</string>
@@ -3375,7 +3375,7 @@
 
     <string name="dungeon_tutorial_title">Masmorras</string>
     <string name="dungeon_tutorial_message_1">Bem-vindo à sua primeira masmorra, lenda!</string>
-    <string name="dungeon_tutorial_message_2">Nas masmorras, cada item encontrado será entregue ao sair da masmorra.</string>
+    <string name="dungeon_tutorial_message_2">Nas masmorras, cada item encontrado será entregue ao sair.</string>
     <string name="dungeon_tutorial_message_3">Você não poderá mudar seu equipamento, fabricar, usar itens etc... a menos que esteja em combate!</string>
     <string name="dungeon_tutorial_message_4">Um monstro Chefe te aguarda no último andar da masmorra. Tenha cuidado, quanto mais longe for o andar, maior será o perigo!</string>
     <string name="dungeon_tutorial_message_5">Boa sorte e tenha cuidado!</string>
@@ -3493,7 +3493,7 @@
         de &font_alchemist;Fitas Cassete &font_end;(%s)</string>
 
     <string name="cassette_collector_message">Olá! Eu sou um &font_gold;Colecionador&font_end;
-        de &font_alchemist;Fitas Cassete&font_end;!&br;&br;Se por acaso você tiver alguma &font_alchemist;Fita Cassete&font_end;, você poderia me dar? Eu lhe daria %1$s em troca…</string>
+        de &font_alchemist;Fitas Cassete&font_end;!&br;&br;Por acaso você tem alguma &font_alchemist;Fita Cassete&font_end; que possa me dar? Eu lhe darei %1$s em troca…</string>
     <string name="cassette_collector_you_dont_have_any_cassette">Você não possui nenhuma &font_alchemist;Fita Cassete&font_end;…</string>
 
     <string name="collection_material">Material</string>
@@ -3521,7 +3521,7 @@
 
     <string name="inventory_used_infinity_energy">Você usou a &font_cyan;Energia &font_end;&font_infinity;Infinita&font_end;!</string>
 
-    <string name="item_info_ascension_flame">Você sente que esta &font_red;Chama &font_end;da &asterisk_ascend_color;Ascenção &font_end;é a mais poderosa que você já tocou... Você se pergunta qual poderá ser a sua utilidade...</string>
+    <string name="item_info_ascension_flame">Você sente que esta &font_red;Chama &font_end;da &asterisk_ascend_color;Ascenção &font_end;é a mais poderosa que você já tocou... Você se pergunta qual será a sua utilidade...</string>
     <string name="settings_leaderboards">Placar</string>
 
 
@@ -3537,29 +3537,29 @@
     <string name="void_merchant_message_have_2">Volte aqui se encontrar outras...</string>
 
     <string name="settings_show_gold_on_top">Mostrar Ouro acima</string>
-    <string name="skill_whip_mastery">Domínio do &font_void;Chicote&font_end;</string>
+    <string name="skill_whip_mastery">Perícia com o &font_void;Chicote&font_end;</string>
     <string name="skill_whip_mastery_desc">Atacar com um &font_void;Chicote &font_end;em combate desbloqueia Habilidades de Combate com &font_void;Chicote&font_end;.</string>
     <string name="weapon_type_whip">&font_void;Chicote&font_end;</string>
 
     <string name="weapon_skill_whip_fast_lash">&font_void;Açoite &font_end;&font_speed;Rápido&font_end;</string>
     <string name="weapon_skill_whip_fast_lash_desc">Açoita o inimigo rapidamente. Sempre ataca primeiro.</string>
-    <string name="weapon_skill_whip_fast_lash_attack">Você açoita o inimigo!</string>
+    <string name="weapon_skill_whip_fast_lash_attack">Você açoitou o inimigo!</string>
 
     <string name="weapon_skill_whip_healing_lash">&font_void;Açoite &font_end;&font_health;Curativo&font_end;</string>
     <string name="weapon_skill_whip_healing_lash_desc">Açoita o inimigo e absorve a sua vida.</string>
-    <string name="weapon_skill_whip_healing_lash_attack">Você açoita o inimigo e absorve a sua vida!</string>
+    <string name="weapon_skill_whip_healing_lash_attack">Você açoitou o inimigo e absorveu a sua vida!</string>
 
     <string name="weapon_skill_whip_double_whip">&font_void;Chicote Duplo&font_end;</string>
     <string name="weapon_skill_whip_double_whip_desc">Ataca duas vezes com o chicote.</string>
-    <string name="weapon_skill_whip_double_whip_attack">Você ataca duas vezes com o chicote!</string>
+    <string name="weapon_skill_whip_double_whip_attack">Você atacou duas vezes com o chicote!</string>
 
     <string name="weapon_skill_whip_absorbing_lash">&font_void;Chicote &font_end;&font_health;Absorvente&font_end;</string>
     <string name="weapon_skill_whip_absorbing_lash_desc">Ataca e absorve tanto mana quanto vida do inimigo.</string>
-    <string name="weapon_skill_whip_absorbing_lash_attack">Você ataca e absorve mana e vida do inimigo!</string>
+    <string name="weapon_skill_whip_absorbing_lash_attack">Você atacou e absorveu mana e vida do inimigo!</string>
 
     <string name="weapon_skill_whip_ultimate_lash">&font_void;Açoite Final&font_end;</string>
     <string name="weapon_skill_whip_ultimate_lash_desc">Açoita o inimigo com força.</string>
-    <string name="weapon_skill_whip_ultimate_lash_attack">Você açoita o inimigo com força!</string>
+    <string name="weapon_skill_whip_ultimate_lash_attack">Você açoitou o inimigo com força!</string>
 
     <string name="autolevelup_levelled_up">%1$s subiu de nível automaticamente para o nível &font_cyan;%2$d&font_end;</string>
     <string name="received_void_weapon">Você recebeu %1$s!</string>
@@ -3696,17 +3696,17 @@
 
     <string name="craft_not_enough_inventory_space">Você não possui espaço suficiente no inventário…</string>
 
-    <string name="craft_various_message_stackable">Qual a quantidade que você deseja produzir?&br;&br;(Você possui materiasi suficientes para produzir &font_cyan;%1$d&font_end;)</string>
+    <string name="craft_various_message_stackable">Qual a quantidade que você deseja produzir?&br;&br;(Você possui materiais suficientes para produzir &font_cyan;%1$d&font_end;)</string>
     <string name="craft_various_message_stackable_higher_than_the_max">Qual a quantidade que você deseja produzir?&br;&br;(Você possui materiasi suficientes para produzir &font_cyan;%1$d&font_end;, mas a quantidade máxima de produção permitida é &font_cyan;%2$d&font_end;)</string>
 
     <string name="item_info_potion_pet_heal_recipe_info">Dê isto ao seu &font_pet;mascote &font_end;para &font_health;curá-lo&font_end;.</string>
     <string name="item_info_potion_pet_mana">Dê isto ao seu &font_pet;mascote &font_end;para restaurar o seu &font_mana;mana &font_end;em &font_mana;%1$s&font_end;%%.</string>
     <string name="item_info_potion_pet_mana_recipe_info">Dê isto ao seu &font_pet;mascote &font_end;para restaurar o seu &font_mana;mana&font_end;.</string>
     <string name="item_info_experience_pet_potion_recipe_info">Dê isto ao seu &font_pet;mascote &font_end;para fazê-lo ganhar &font_cyan;experiência &font_end;instantâneamente.</string>
-    <string name="item_info_heal_potion_recipe_info">Tome isto para restaurar a sua &font_health;vida&font_end;.</string>
+    <string name="item_info_heal_potion_recipe_info">Beba isto para restaurar a sua &font_health;vida&font_end;.</string>
     <string name="item_info_mana_potion_recipe_info">Beba isto para restaurar o seu &font_mana;mana&font_end;.</string>
     <string name="item_info_experience_potion_recipe_info">Beba isto para ganhar &font_cyan;experiência &font_end;instantâneamente.</string>
-    <string name="item_info_potion_pet_revive_recipe_info_recipe_info">Dê isto o seu &font_pet;mascote &font_end;para &font_health;reanimá-lo &font_end;e &font_health;curá-lo&font_end;.</string>
+    <string name="item_info_potion_pet_revive_recipe_info_recipe_info">Dê isto para o seu &font_pet;mascote &font_end;para &font_health;reanimá-lo &font_end;e &font_health;curá-lo&font_end;.</string>
 
     <string name="arrow_item_info">Tipo de &font_wood;munição &font_end;usada para disparar com um &font_wood;Arco&font_end;.</string>
     <string name="bolt_item_info">Tipo de &font_wood;munição &font_end;usada para disparar com uma &font_wood;Besta&font_end;.</string>
@@ -3714,7 +3714,7 @@
     <string name="cartographer_stone_info">Permite marcar ou acrescentar informações às suas ilhas na lista de ilhas.</string>
     <string name="wooden_sign_info">Use isto para criar uma &font_wood;Placa de Madeira &font_end;em qualquer lugar, com um texto escrito. Ela irá aparecer no mapa como um &font_wood;X&font_end;.</string>
 
-    <string name="button_blacksmith_ask_about_material_tiers">Perguntar sobre os &font_cyan;ranqueamento&font_end;
+    <string name="button_blacksmith_ask_about_material_tiers">Perguntar sobre o &font_cyan;ranqueamento&font_end;
         dos &font_wood;materiais&font_end;</string>
     <string name="blacksmith_material_tiers_message">Ah, você quer saber sobre o ranqueamento dos materiais? Esta é a ordem:&br;&br;&font_wood;Madeira &font_end;-> &font_leather;Couro &font_end;-> &font_copper;Cobre &font_end;-> &font_tin;Latão &font_end;-> &font_iron;Ferro &font_end;-> &font_bronze;Bronze &font_end;-> &font_silver;Prata &font_end;-> &font_gold;Ouro &font_end;-> &font_diamond;Diamante &font_end;-> &font_obsidian;Obsidiana &font_end;&br;&br;Existem alguns materiais muito raros, mas eu não acho que você poderá encontrá-los algum dia...</string>
     <string name="button_sort_by_can_craft">Organizar (pode fabricar)</string>
@@ -3726,7 +3726,7 @@
     <string name="ascended">Ascendeu!</string>
 
     <string name="ascended_text">
-        Você se esquece de tudo, mas começa a sentir com mais poder…
+        Você se esquece de tudo, mas começa a sentir que possui mais poder…
         &br;&br;* Você obtém &font_cyan;%1$d &font_end;x &font_red;Chamas&font_end;
         da &asterisk_ascend_color;Ascenção&font_end;;
         &br;* A sua &font_health;vida &font_end;máxima agora é &font_health;%2$d&font_end;
@@ -3830,7 +3830,7 @@
     <string name="tile_content_type_monster_trophy">&font_gold;Troféu&font_end;
         de &font_red;Monstro&font_end;</string>
     <string name="monster_trophy_name">&font_gold;Troféu&font_end; de %1$s [&font_cyan;%2$d&font_end;]</string>
-    <string name="item_info_monster_trohpy_info">É um &font_gold;Troféu&font_end; de %1$s, obtido ao matar um %1$s de nível &font_cyan;%2$d &font_end;!</string>
+    <string name="item_info_monster_trohpy_info">É um &font_gold;Troféu&font_end; de %1$s, obtido ao matar %1$s de nível &font_cyan;%2$d &font_end;!</string>
 
     <string name="tile_content_type_infinity_portal">&font_portal;Portal &font_end;&font_infinity;Infinito&font_end;</string>
     <string name="infinity_portal_info">Use isto para criar um &font_portal;Portal &font_end;para o princípio deste &font_infinity;Infinito &font_end;(se é que isso faz sentido).</string>
@@ -3879,7 +3879,7 @@
     <string name="pyramid_is_now_open">A &font_pyramid;Pirâmide &font_end;está aberta agora!</string>
     <string name="pyramid_didnt_open">A &font_pyramid;Pirâmide &font_end;não abriu…</string>
     <string name="new_game_chicken_mode_selected">No &font_animal;Modo Franguinho &font_end;você terá as seguintes vantagens:&br;&br;* Os &font_red;monstros &font_end;não irão impedi-lo de interagir com &font_cyan;NPCs&font_end;.&br;&br;* Você começará com algumas moedas de &font_gold;Ouro&font_end;
-        extras.&br;&br;* A suas estatísticas básicas serão um pouco melhores.&br;&br;* Você terá &font_speed;Velocidade &font_end;extra quando estiver &font_cyan;fugindo &font_end;de &font_red;Monstros&font_end;.&br;&br;* O \"&font_animal;Modo Franguinho&font_end;\" de de estatísticas exibido herói na será sua &font_cyan;tela&font_end;!</string>
+        extras.&br;&br;* A suas estatísticas básicas serão um pouco melhores.&br;&br;* Você terá &font_speed;Velocidade &font_end;extra quando estiver &font_cyan;fugindo &font_end;de &font_red;Monstros&font_end;.&br;&br;* O \"&font_animal;Modo Franguinho&font_end;\" será exibido na tela de estatísticas da &font_cyan;Lenda&font_end;!</string>
     <string name="chicken_mode_checkbox">&font_animal;Modo Franguinho&font_end;</string>
     <string name="new_game_chicken_mode_not_selected">Divirta-se com a experiência RAR II normal.</string>
     <string name="chicken_mode_in_stats">&font_animal;Modo Franguinho&font_end;</string>
