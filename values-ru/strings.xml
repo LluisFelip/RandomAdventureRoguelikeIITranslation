@@ -3110,33 +3110,33 @@
     <string name="button_add_info">Добавить информацию</string>
     <string name="world_mark_island_message">Чтобы облегчить себе приключения, вы можете &font_cyan;отметить &font_end;остров одним символом, который будет виден в списке островов, и/или написать &font_cyan;информацию &font_end;о нём. Для каждого из этих действий вам необходимо использовать &font_stone;Камень &font_end;&font_cyan;Картографа&font_end;.&br;&br;Сейчас у вас &font_cyan;%1$d &font_end;&font_stone;Камней &font_end;&font_cyan;Картографа&font_end;</string>
 
-    <string name="world_add_info_message">Add info for the island (You can add line breaks by writing \'br\' between &lt; and &gt;. Max. characters allowed: &font_cyan;%1$d&font_end;):</string>
-    <string name="world_add_info_message_replacing">There\'s already info added to this island, adding info will replace the current info!&br;&br;Add info for the island (You can add line breaks by writing \'br\' between &lt; and &gt;. Max. characters allowed: &font_cyan;%1$d&font_end;):</string>
-    <string name="world_add_info_length_error">Write between 1 and %d characters…</string>
-    <string name="world_add_mark_length_error">Write 1 character…</string>
-    <string name="world_mark_island_no_cartographer_stone">You need a &font_cyan;Cartographer &font_end;&font_stone;Stone &font_end;to be able to do this…</string>
-    <string name="button_add_mark">Add Mark</string>
-    <string name="world_add_mark_message">Add a mark to be displayed in the island list (write only &font_cyan;1 &font_end;character.):</string>
-    <string name="world_add_mark_message_replacing">There\'s already one mark added to this island, adding a new one will replace the previous mark.&br;&br;Add a mark to be displayed in the island list (write only &font_cyan;1 &font_end;character):</string>
-    <string name="mark_color_title">Choose color for the mark:</string>
+    <string name="world_add_info_message">Добавить информацию об острове (Вы можете добавить разрыв написав \'br\' между &lt; и &gt;. Максимальное количество разрешенных персонажей: &font_cyan;%1$d&font_end;):</string>
+    <string name="world_add_info_message_replacing">Информация об острове уже добавлена, новая информация упразднит текущую!&br;&br;Добавить информацию об острове (Вы можете добавить разрыв написав \'br\' между &lt; и &gt;. Максимальное количество разрешенных персонажей: &font_cyan;%1$d&font_end;):</string>
+    <string name="world_add_info_length_error">Напишите между 1 и %d персонажами…</string>
+    <string name="world_add_mark_length_error">Напишите 1 персонажа…</string>
+    <string name="world_mark_island_no_cartographer_stone">Вам нужен &font_cyan;Картогаф &font_end;&font_stone;Камень &font_end;чтобы иметь возможность сделать это…</string>
+    <string name="button_add_mark">Добавить отметку</string>
+    <string name="world_add_mark_message">Добавить отметку, которая отобразиться в списке островов (напишите только &font_cyan;1 &font_end;персонаж.):</string>
+    <string name="world_add_mark_message_replacing">К этому острову уже добавлена одна отметка, добавление новой отметки упразднит текущую.&br;&br;Добавить отметку, которая отобразиться в списке островов (напищите только &font_cyan;1 &font_end;персонаж):</string>
+    <string name="mark_color_title">Выберите цвет метки:</string>
 
-    <string name="craft_would_die_crafting">You\'re dying of &font_hunger;hunger&font_end;!</string>
+    <string name="craft_would_die_crafting">Вы умерли от &font_hunger;голода&font_end;!</string>
 
-    <string name="skill_teleport">&font_portal;Teleport&font_end;</string>
-    <string name="skill_teleport_desc">&font_portal;Teleports &font_end;to a random location in the island. Costs &font_mana;10 mana &font_end;points.</string>
+    <string name="skill_teleport">&font_portal;Телепорт&font_end;</string>
+    <string name="skill_teleport_desc">&font_portal;Телепорты &font_end;к случайному месту на острове. Стоит &font_mana;10 mana &font_end;точек.</string>
 
-    <string name="yang_amulet">&font_white;Yang &font_end;Amulet</string>
+    <string name="yang_amulet">&font_white;Yang &font_end;Амулет</string>
 
-    <string name="settings_show_main_stats">Show Main Stats</string>
+    <string name="settings_show_main_stats">Показать основную статистику</string>
 
-    <string name="ranged_weapon_type_bow">&font_wood;Bow&font_end;</string>
-    <string name="ranged_weapon_type_crossbow">&font_speed;Crossbow&font_end;</string>
-    <string name="ranged_weapon_type_slingshot">&font_speed;Slingshot&font_end;</string>
+    <string name="ranged_weapon_type_bow">&font_wood;Лук&font_end;</string>
+    <string name="ranged_weapon_type_crossbow">&font_speed;Арбалет&font_end;</string>
+    <string name="ranged_weapon_type_slingshot">&font_speed;Рогатка&font_end;</string>
 
     <string name="tile_content_type_ranged_weapon">Ranged Weapon</string>
 
-    <string name="content_description_ranged_weapon_image">Ranged Weapon</string>
-    <string name="item_info_ranged_weapon">Wield this to be able to shoot monsters before engaging into combat.&br;%1$s&br;%2$s</string>
+    <string name="content_description_ranged_weapon_image">Оружие дальнего боя</string>
+    <string name="item_info_ranged_weapon">Завладейте этим чтобы иметь возможность стрелять в монстров до вступления в бой.&br;%1$s&br;%2$s</string>
 
     <string name="item_wood_bow">&font_wood;Деревянный&font_end; Лук</string>
     <string name="item_bone_bow">&font_bone;Костяной&font_end; Лук</string>
@@ -3153,16 +3153,16 @@
     <string name="material_type_arrow">&font_wood;Стрела&font_end;</string>
     <string name="ranged_weapon_need_ammunition">Тебе нужна %1$s чтобы сделать это!</string>
 
-    <string name="item_wood_crossbow">&font_wood;Wood&font_end; Crossbow</string>
-    <string name="item_bone_crossbow">&font_bone;Bone&font_end; Crossbow</string>
-    <string name="item_copper_crossbow">&font_copper;Copper&font_end; Crossbow</string>
-    <string name="item_tin_crossbow">&font_tin;Tin&font_end; Crossbow</string>
-    <string name="item_iron_crossbow">&font_iron;Iron&font_end; Crossbow</string>
-    <string name="item_bronze_crossbow">&font_bronze;Bronze&font_end; Crossbow</string>
-    <string name="item_silver_crossbow">&font_silver;Silver&font_end; Crossbow</string>
-    <string name="item_gold_crossbow">&font_gold;Gold&font_end; Crossbow</string>
-    <string name="item_diamond_crossbow">&font_diamond;Diamond&font_end; Crossbow</string>
-    <string name="item_obsidian_crossbow">&font_obsidian;Obsidian&font_end; Crossbow</string>
+    <string name="item_wood_crossbow">&font_wood;Деревянный&font_end; Арбалет</string>
+    <string name="item_bone_crossbow">&font_bone;Костяной&font_end; Арбалет</string>
+    <string name="item_copper_crossbow">&font_copper;Медный&font_end; Арбалет</string>
+    <string name="item_tin_crossbow">&font_tin;Оловянный&font_end; Арбалет</string>
+    <string name="item_iron_crossbow">&font_iron;Железный&font_end; Арбалет</string>
+    <string name="item_bronze_crossbow">&font_bronze;Бронзовый&font_end; Арбалет</string>
+    <string name="item_silver_crossbow">&font_silver;Серебряный&font_end; Арбалет</string>
+    <string name="item_gold_crossbow">&font_gold;Золотой&font_end; Арбалет</string>
+    <string name="item_diamond_crossbow">&font_diamond;Алмазный&font_end; Арбалет</string>
+    <string name="item_obsidian_crossbow">&font_obsidian;Обсидиановый&font_end; Арбалет</string>
 
     <string name="item_wood_slingshot">&font_wood;Wood&font_end; Slingshot</string>
     <string name="item_bone_slingshot">&font_bone;Bone&font_end; Slingshot</string>
