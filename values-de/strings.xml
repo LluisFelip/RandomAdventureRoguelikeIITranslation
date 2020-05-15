@@ -281,8 +281,8 @@
     <string name="advantage_petmaster_desc">(Du Startest mit dem Wissen über den &font_red;Monster&font_end; &font_pet;fang&font_end; &font_mana;Zauberspruch &font_end;, einem CR &font_cyan;0&font_end; &font_pet;Haustier &font_end; &font_red;Monster&font_end;und einem &font_pet;Hals &font_end;&font_cyan;band&font_end;)</string>
     <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
 
-    <string name="advantage_worker_desc">(You will start with a random &font_cyan;Tool&font_end;)</string>
-    <string name="advantage_alchemist_desc">(You will start knowing how to brew &font_cyan;1 &font_end;type of potion and &font_cyan;3 &font_end;random materials)</string>
+    <string name="advantage_worker_desc">(Du Startest mit einem zufälligen &font_cyan;Werkzeug&font_end;)</string>
+    <string name="advantage_alchemist_desc">(Du Startest mit dem Wissen wie man &font_cyan;1 &font_end;Trank braut und &font_cyan;3 &font_end;zufälligen Materialien)</string>
     <string name="advantage_blacksmith_desc">(You will start knowing how to craft a &font_attack;Weapon&font_end;, a &font_defense;Shield&font_end;, and a piece of &font_defense;Armor &font_end;and &font_cyan;3 &font_end;random materials)</string>
     <string name="advantage_noble_desc">(You will start with more &font_gold;gold&font_end;)</string>
     <string name="advantage_random_selected">Starting as: %1$s!</string>
