@@ -227,7 +227,7 @@
     <string name="select_game_slot_erase_game_title">Spielstand Löschen?</string>
 
     <string name="text_update_available_title">Update Verfügbar</string>
-    <string name="text_update_available_message">There\'s a new version available!</string>
+    <string name="text_update_available_message">Es ist eine neue Version verfügbar!</string>
     <string name="text_update_available_positive">Update</string>
     <string name="text_update_available_cancel">Abbrechen</string>
 
@@ -244,7 +244,7 @@
     <string name="collection_monsters">Monster</string>
     <string name="collection_island">Inseln</string>
     <string name="collection_icon">Sammlungs Symbol</string>
-    <string name="collection_merchants_mark">Merchant\'s Mark</string>
+    <string name="collection_merchants_mark">Händler Siegel</string>
     <string name="collection_insects">Insekten</string>
     <string name="collection_animals">Tiere</string>
 
@@ -254,9 +254,9 @@
     <string name="about_twitter">Archison auf Twitter</string>
     <string name="about_discord">RAR II auf Discord</string>
 
-    <string name="new_game_welcome_hero_whats_your_name">Welcome, hero! What\'s your name?</string>
+    <string name="new_game_welcome_hero_whats_your_name">Willkommen Held. Wie lautet euer Name?</string>
     <string name="new_game_hero_name">Held</string>
-    <string name="new_game_whats_your_starting_advantage">… und was ist dein Startvorteil?</string>
+    <string name="new_game_whats_your_starting_advantage">… und was ist Euer Startvorteil?</string>
 
     <string name="advantage_random">Zufällig</string>
     <string name="advantage_ranger">&font_wood;Waldläufer&font_end;</string>
@@ -269,20 +269,20 @@
     <string name="advantage_blacksmith">&font_silver;Schmied&font_end;</string>
     <string name="advantage_noble">&font_gold;Adliger&font_end;</string>
     <string name="advantage_librarian">&font_wood;Bibliothekar&font_end;</string>
-    <string name="advantage_librarian_desc">(Du startest mit einem zufälligen Rezept, einem &font_cyan;Erfahrungs &font_end;Trank und 5 &font_cyan;skill &font_end;Punkten)</string>
-    <string name="advantage_random_desc">(Du startest mit einem Zufälligen Talent)</string>
-    <string name="advantage_warrior_desc">(Du startest mit einer &font_attack;Waffe&font_end;, einem &font_defense;Schild&font_end;, und dem Teil einer &font_defense;Rüstung&font_end;)</string>
-    <string name="advantage_ranger_desc">(Du startest mit einer &font_speed;Fernkampf &font_end;Waffe und ein Paar Schuss Munition)</string>
+    <string name="advantage_librarian_desc">(Ihr startet mit einem zufälligen Rezept, einem &font_cyan;Erfahrungs &font_end;Trank und 5 &font_cyan;skill &font_end;Punkten)</string>
+    <string name="advantage_random_desc">(Ihr startet mit einem Zufälligen Talent)</string>
+    <string name="advantage_warrior_desc">(Ihr startet mit einer &font_attack;Waffe&font_end;, einem &font_defense;Schild&font_end;, und dem Teil einer &font_defense;Rüstung&font_end;)</string>
+    <string name="advantage_ranger_desc">(Ihr startet mit einer &font_speed;Fernkampf &font_end;Waffe und ein Paar Schuss Munition)</string>
 
 
     <!-- NOTE FOR LANGUAGES ALREADY TRANSLATED: Translate these three  - - - - - - - - - - - - - -->
-    <string name="advantage_wizard_desc">(Du Startest mit dem Wissen über einen &font_mana;Zauberspruch &font_end;und einem &font_mana;Stab&font_end;)</string>
-    <string name="advantage_cleric_desc">(Du Startest mit dem Wissen über einen &font_health;Heilungs&font_end; &font_mana;zauber &font_end;und einem &font_mana;Stab&font_end;)</string>
-    <string name="advantage_petmaster_desc">(Du Startest mit dem Wissen über den &font_red;Monster&font_end; &font_pet;fang&font_end; &font_mana;Zauberspruch &font_end;, einem CR &font_cyan;0&font_end; &font_pet;Haustier &font_end; &font_red;Monster&font_end;und einem &font_pet;Hals &font_end;&font_cyan;band&font_end;)</string>
+    <string name="advantage_wizard_desc">(Ihr Startet mit dem Wissen über einen &font_mana;Zauberspruch &font_end;und einem &font_mana;Stab&font_end;)</string>
+    <string name="advantage_cleric_desc">(Ihr Startet mit dem Wissen über einen &font_health;Heilungs&font_end; &font_mana;zauber &font_end;und einem &font_mana;Stab&font_end;)</string>
+    <string name="advantage_petmaster_desc">(Ihr Startet mit dem Wissen über den &font_red;Monster&font_end; &font_pet;fang&font_end; &font_mana;Zauberspruch &font_end;, einem CR &font_cyan;0&font_end; &font_pet;Haustier &font_end; &font_red;Monster&font_end;und einem &font_pet;Hals &font_end;&font_cyan;band&font_end;)</string>
     <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
 
-    <string name="advantage_worker_desc">(Du Startest mit einem zufälligen &font_cyan;Werkzeug&font_end;)</string>
-    <string name="advantage_alchemist_desc">(Du Startest mit dem Wissen wie man &font_cyan;1 &font_end;Trank braut und &font_cyan;3 &font_end;zufälligen Materialien)</string>
+    <string name="advantage_worker_desc">(Ihr Startet mit einem zufälligen &font_cyan;Werkzeug&font_end;)</string>
+    <string name="advantage_alchemist_desc">(Ihr Startet mit dem Wissen wie man &font_cyan;1 &font_end;Trank braut und &font_cyan;3 &font_end;zufälligen Materialien)</string>
     <string name="advantage_blacksmith_desc">(You will start knowing how to craft a &font_attack;Weapon&font_end;, a &font_defense;Shield&font_end;, and a piece of &font_defense;Armor &font_end;and &font_cyan;3 &font_end;random materials)</string>
     <string name="advantage_noble_desc">(You will start with more &font_gold;gold&font_end;)</string>
     <string name="advantage_random_selected">Starting as: %1$s!</string>
