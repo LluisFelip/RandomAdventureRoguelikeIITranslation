@@ -3183,7 +3183,7 @@
     <string name="button_plus">+</string>
     <string name="button_mark">Mark</string>
     <string name="button_add_info">Add Info</string>
-    <string name="world_mark_island_message">To help you in your adventures, you can &font_cyan;mark &font_end;an island with a single character to be shown in the island list, and/or write some &font_cyan;info &font_end;about an it. You\'ll need a &font_cyan;Cartographer &font_end;&font_stone;Stone &font_end;for each of these actions.&br;&br;You currently have &font_cyan;%1$d &font_end;&font_cyan;Cartographer &font_end;&font_stone;Stones&font_end;</string>
+    <string name="world_mark_island_message">To help you in your adventures, you can &font_cyan;mark &font_end;an island with a single character to be shown in the island list, and/or write some &font_cyan;info &font_end;about it. You\'ll need a &font_cyan;Cartographer &font_end;&font_stone;Stone &font_end;for each of these actions.&br;&br;You currently have &font_cyan;%1$d &font_end;&font_cyan;Cartographer &font_end;&font_stone;Stones&font_end;</string>
 
     <string name="world_add_info_message">Add info for the island (You can add line breaks by writing \'br\' between &lt; and &gt;. Max. characters allowed: &font_cyan;%1$d&font_end;):</string>
     <string name="world_add_info_message_replacing">There\'s already info added to this island, adding info will replace the current info!&br;&br;Add info for the island (You can add line breaks by writing \'br\' between &lt; and &gt;. Max. characters allowed: &font_cyan;%1$d&font_end;):</string>
