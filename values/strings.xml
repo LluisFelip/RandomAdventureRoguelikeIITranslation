@@ -616,7 +616,7 @@
     <string name="item_info_iron_bucket_water">Throw this to put out a &font_attack;Firecamp &font_end;or throw it to a &font_red;monster &font_end;in combat!</string>
     <string name="item_info_purifying_seed">Plant this and water it with a &font_water;Water&font_end; &font_iron;Bucket &font_end;to make it grow into a &font_purifying;Purifying&font_end; &font_wood;Tree&font_end;.&br;&br;A &font_purifying;Purifying&font_end; &font_wood;Tree &font_end;prevents monsters from &italic;respawning &italic_end;on the island.</string>
     <string name="item_info_iron_bucket_lava">Throw this to a &font_red;monster &font_end;in combat!</string>
-    <string name="item_info_iron_bucket_mana">Drink this to recover all your the &font_mana;mana&font_end;.</string>
+    <string name="item_info_iron_bucket_mana">Drink this to recover all your &font_mana;mana&font_end;.</string>
     <string name="item_info_a_letter_for_the_king">It has a &font_gold;Royal Seal&font_end;, you should bring this to the &font_gold;King&font_end;.</string>
     <string name="item_royal">&font_gold;Royal&font_end;</string>
 
