@@ -918,36 +918,36 @@
         &font_mana;Inelligenz&font_end; auf &font_mana;%6$d&font_end; erhöht&br;
     </string>
 
-    <string name="level_up_inventory_increase">&br;Increased your &font_gold;Inventory Capacity &font_end;to &font_gold;%1$d&font_end;</string>
-    <string name="level_up_pets_increase">&br;Increased your &font_pet;Pets Capacity &font_end;to &font_gold;%1$d&font_end;</string>
-    <string name="level_up_skill_point">&br;You earned &font_cyan;%1$d &font_end;Skill Points.</string>
+    <string name="level_up_inventory_increase">&br;Eure &font_gold;Inventargröße &font_end;wurde auf &font_gold;%1$d&font_end; vergrößert</string>
+    <string name="level_up_pets_increase">&br;Euer &font_pet;Haustierlimit &font_end; wurde auf &font_gold;%1$d&font_end; vergrößert</string>
+    <string name="level_up_skill_point">&br;Ihr habt &font_cyan;%1$d &font_end;Skillpunkte verdient.</string>
 
-    <string name="combat_monster_attacked_player">&font_red;%1$s &font_end;attacked!&br;You received &font_red;%2$d &font_end;damage!</string>
-    <string name="combat_monster_action_attacked_player">&font_red;%1$s &font_end;attacked with its &font_red;%2$s&font_end;!&br;You received &font_red;%3$d &font_end;damage!</string>
-    <string name="combat_player_attacked_monster_damage">You attacked!&br;&font_red;%1$s &font_end;received &font_red;%2$d &font_end;damage!</string>
-    <string name="combat_player_skill_dealt_damage">&font_red;%1$s &font_end;received &font_red;%2$d &font_end;damage!</string>
-    <string name="combat_player_skill_restored_health">You restored &font_health;%1$d &font_end;health!</string>
-    <string name="combat_player_skill_restored_mana">You restored &font_mana;%1$d &font_end;mana!</string>
-    <string name="combat_player_skill_dealt_damage_n_times">You hit &font_cyan;%1$d &font_end;times! &font_red;%2$s &font_end;received &font_red;%3$d &font_end;damage!</string>
-    <string name="combat_player_skill_attacks_first">You attack first!</string>
-    <string name="combat_dont_know_any_skill">You don\'t know any &font_skill_attack;Skills&font_end;!</string>
-    <string name="combat_dont_know_any_spell">You don\'t know any &font_mana;Spells&font_end;!</string>
-    <string name="combat_cant_cast_skill">You don\'t have enough resources to do this!</string>
-    <string name="combat_cant_cast_spell">You don\'t have enough resources to cast this!</string>
-    <string name="combat_already_captured">You have already captured it!</string>
-    <string name="combat_cant_carry_more_pets">You can\'t have more pets!</string>
-    <string name="combat_monster_dead_vanishes">%1$s turns to dust!</string>
-    <string name="combat_monster_attacks">%1$s attacks!</string>
-    <string name="combat_fight">Fight</string>
-    <string name="combat_player_flee_fails">You tried to escape and failed…</string>
-    <string name="combat_player_flee_succeeds">You escaped successfully!</string>
-    <string name="combat_killed_monster">You killed %1$s!</string>
-    <string name="combat_player_is_dead">%1$s&br;died at level &font_cyan;%2$d&font_end;!</string>
-    <string name="combat_corpse_name">Corpse of %1$s</string>
+    <string name="combat_monster_attacked_player">&font_red;%1$s &font_end;hat Angegriffen!&br;Ihr verliert &font_red;%2$d &font_end;Leben!</string>
+    <string name="combat_monster_action_attacked_player">&font_red;%1$s &font_end;hat mit &font_red;%2$s&font_end; angegriffen!&br;Ihr verliert &font_red;%3$d &font_end;Leben!</string>
+    <string name="combat_player_attacked_monster_damage">Ihr greift an!&br;&font_red;%1$s &font_end;verliert &font_red;%2$d &font_end;Leben!</string>
+    <string name="combat_player_skill_dealt_damage">&font_red;%1$s &font_end;verliert &font_red;%2$d &font_end;Leben!</string>
+    <string name="combat_player_skill_restored_health">Ihr Regeneriert &font_health;%1$d &font_end;Leben!</string>
+    <string name="combat_player_skill_restored_mana">Ihr Regeneriert &font_mana;%1$d &font_end;Mana!</string>
+    <string name="combat_player_skill_dealt_damage_n_times">Iht trefft &font_cyan;%1$d &font_end;mal! &font_red;%2$s &font_end;verliert &font_red;%3$d &font_end;Leben!</string>
+    <string name="combat_player_skill_attacks_first">Ihr Trefft zuerst!</string>
+    <string name="combat_dont_know_any_skill">Ihr kennt keine &font_skill_attack;Fähigkeiten&font_end;!</string>
+    <string name="combat_dont_know_any_spell">Ihr kennt keine &font_mana;Zauber&font_end;!</string>
+    <string name="combat_cant_cast_skill">Ihr seid dafür zu Hungrig!</string>
+    <string name="combat_cant_cast_spell">Ihr habt nicht genug Mana!</string>
+    <string name="combat_already_captured">Ihr habt es bereits Gefangen!</string>
+    <string name="combat_cant_carry_more_pets">Ihr könnt keine weiteren Haustiere mehr aufnehmen!</string>
+    <string name="combat_monster_dead_vanishes">%1$s zerfällt zu Staub!</string>
+    <string name="combat_monster_attacks">%1$s greift an!</string>
+    <string name="combat_fight">Kampf</string>
+    <string name="combat_player_flee_fails">Euer Fluchtversuch ist gescheitert…</string>
+    <string name="combat_player_flee_succeeds">Ihr seit entkommen!</string>
+    <string name="combat_killed_monster">%1$s ist besiegt!</string>
+    <string name="combat_player_is_dead">%1$s&br;ist mit Level &font_cyan;%2$d&font_end; gestorben!</string>
+    <string name="combat_corpse_name">%1$sleiche</string>
     <string name="combat_monster_attacking_symbol">-&font_dark_red;A&font_end;-</string>
-    <string name="combat_cant_flee_from_monster">Can\'t flee from %1$s…</string>
-    <string name="combat_monster_obtained_gold">Obtained &font_gold;%1$d&font_end; gold.</string>
-    <string name="combat_monster_obtained_item">Obtained %1$s.</string>
+    <string name="combat_cant_flee_from_monster">Flucht vor %1$s unmöglich…</string>
+    <string name="combat_monster_obtained_gold">&font_gold;%1$d&font_end; Gold erhalten.</string>
+    <string name="combat_monster_obtained_item">%1$s erhalten.</string>
     <string name="combat_you_throw_the_bucket_to">You throw the %1$s to %2$s! %3$s receives &font_red;%4$d &font_end;damage!</string>
 
 
