@@ -2505,8 +2505,8 @@
     <string name="monster_action_rake">râteau</string>
     <string name="monster_action_black_wave">vague noire</string>
     <string name="monster_action_white_wave">vague blanche</string>
-    <string name="monster_action_black_void">vide noir</string>
-    <string name="monster_action_white_void">vide blanc</string>
+    <string name="monster_action_black_void">néant noir</string>
+    <string name="monster_action_white_void">néant blanc</string>
     <string name="monster_action_black_storm">tempête noire</string>
     <string name="monster_action_white_storm">tempête blanche</string>
     <string name="monster_action_emptyness">vide intérieur</string>
@@ -2751,8 +2751,8 @@
 
     <string name="island_type_void">Néant</string>
     <string name="island_type_infinity">Infini</string>
-    <string name="tile_type_void">Vide</string>
-    <string name="tile_type_void_vortex">Vortex du vide</string>
+    <string name="tile_type_void">Néant</string>
+    <string name="tile_type_void_vortex">Vortex du néant</string>
     <string name="tile_type_energy_source">Source infinie</string>
     <string name="tile_type_infinity">Infini</string>
 
@@ -3299,80 +3299,80 @@
     <string name="island_arrival_type_volcano">Vous découvrez une île. La température étouffante et la fumée en émanant vous mettent en garde d\'un potentiel danger.</string>
     <string name="island_arrival_type_high_mountains">Vous découvrez une île montagneuse. Vous n\'aviez jamais vu de montagnes aussi imposantes.</string>
 
-    <string name="island_arrival_type_giants">You discover an island where everything seems to be bigger than the regular islands you\'ve been before.</string>
-    <string name="island_arrival_type_dragons">You discover an island where you smell sulfur and feel the presence of dangerous creatures.</string>
-    <string name="island_arrival_type_undead">You discover an island where there seems to be almost no life left.</string>
-    <string name="island_arrival_type_plant">You discover an island where everything is mainly green. It seems to be full of dangerous plants.</string>
-    <string name="island_arrival_type_fey">You discover a mysterious island. The trees and dense vegetation are hiding exotic and dangerous creatures.</string>
-    <string name="island_arrival_type_beast">You discover an island. The screams of the beasts living here make you stand still for a moment. What kind of place is this?</string>
-    <string name="island_arrival_type_humanoid">You discover an island. You notice nothing special about this place, but you think it\'ll be hard to tell friend from foe.</string>
-    <string name="island_arrival_type_construct">You discover an island. Every monster you sense around seem to be somehow artificial or not organic.</string>
-    <string name="island_arrival_type_elemental">You discover an island. You sense a lot of energy in this island, it seems a dangerous place to explore.</string>
-    <string name="island_arrival_type_swarm">You discover an island. It seems to be some sort of swamp, and you can\'t stop hearing a constant buzz all the time.</string>
-    <string name="island_arrival_type_ooze">You discover an island. It seems there\'s nothing around you but something tells you there\'s something else here.</string>
-    <string name="island_arrival_type_aberration">You discover an island. This is not a normal island. You can feel huge and ugly monsters live here.</string>
+    <string name="island_arrival_type_giants">Vous découvrez une île immense, bien plus vaste que toutes celles que vous avez explorées jusqu'à présent.</string>
+    <string name="island_arrival_type_dragons">Vous découvrez une île de laquelle émane une forte odeur de soufre. Vous sentez aussi la présence inquiétante de monstres dans les parages.</string>
+    <string name="island_arrival_type_undead">Vous découvrez une île qui semble être dénuée de toute trace de vie.</string>
+    <string name="island_arrival_type_plant">Vous découvrez une île à la végétation luxuriante. Elle doit être pleine de plantes dangereuses.</string>
+    <string name="island_arrival_type_fey">Vous découvrez une île mystérieuse. Les arbres imposants et la dense végétation cachent des redoutables créatures exotiques.</string>
+    <string name="island_arrival_type_beast">Vous découvrez une île. Le cri des bêtes demeurant ici vous glace le sang. Quel genre d’endroit est-ce donc ?</string>
+    <string name="island_arrival_type_humanoid">Vous découvrez une île. Le lieu à l'air banal mais vous avez la sensation qu'il sera difficile de distinguer vos alliés de vos ennemis.</string>
+    <string name="island_arrival_type_construct">Vous découvrez une île. Les monstres que vous sentez autour de vous ne semblent pas organiques mais en quelque sorte artificiels.</string>
+    <string name="island_arrival_type_elemental">Vous découvrez une île. Vous sentez une importante source d'énergie émanant de cette île. L'explorer semble périlleux.</string>
+    <string name="island_arrival_type_swarm">Vous découvrez une île. Le lieu semble être marécageux et vous entendez un bourdonnement constant.</string>
+    <string name="island_arrival_type_ooze">Vous découvrez une île. Il ne semble y avoir rien dans les parages, mais quelque chose vous dit que cette impression est fausse.</string>
+    <string name="island_arrival_type_aberration">Vous découvrez une île. Cette île n'a rien d'habituel. Vous sentez que d'imposants monstres hideux y ont établi domicile.</string>
 
-    <string name="island_arrival_type_tyrant">As soon as you step in this island, you feel the chills and realise this island is going to be tough.</string>
-    <string name="island_arrival_type_hell">Lava and fire. This is Hell. You smell the sulfur and see the place is full of demons and evil beings.</string>
-    <string name="island_arrival_type_heaven">The clouds, the cold air and the beings in this place… You have the feeling this is the most dangerous place you\'ve ever been.</string>
+    <string name="island_arrival_type_tyrant">Au moment où vous posez le pied sur cette île, vous ressentez des frissons et réalisez que ce ne sera pas de tout repos.</string>
+    <string name="island_arrival_type_hell">De la lave et du feu à perte de vue. C'est littéralement l'Enfer. Le lieu dégage une odeur de soufre et vous sentez la présence de nombreux êtres démoniaques.</string>
+    <string name="island_arrival_type_heaven">Les nuages, l'air frais recouvrant ce lieu… Vous avez le sentiment que c’est l’endroit le plus dangereux que vous ayez jamais visité.</string>
 
-    <string name="island_arrival_type_black_island">As soon as you arrive to this island, the emptiness and the strange beings inhabiting this place make you feel uncomfortable.</string>
-    <string name="island_arrival_type_white_island">As soon as you arrive to this island, the emptiness and the strange beings inhabiting this place make you feel uncomfortable.</string>
+    <string name="island_arrival_type_black_island">Au moment où vous posez le pied sur cette île, la vacuité du lieu et les étranges êtres le peuplant vous mettent profondément mal à l'aise.</string>
+    <string name="island_arrival_type_white_island">Au moment où vous posez le pied sur cette île, la vacuité du lieu et les étranges êtres le peuplant vous mettent profondément mal à l'aise.</string>
 
-    <string name="island_arrival_type_void_island">This is different than any other place you\'ve been so far. You feel nothing. You are surrounded by &font_void;void &font_end;and have no idea of what you\'ll find here.</string>
+    <string name="island_arrival_type_void_island">Cette île est différente de toutes les autres. Vous ne ressentez rien. Vous êtes enveloppé par le &font_void;néant &font_end;. Vous n'avez aucune idée de ce qui pourrait se produire.</string>
 
-    <string name="island_arrival_type_infinity_island">You are in an infinity island. Reality seems to bend here.</string>
-    <string name="island_arrival_type_treasure_island">You discover a small island. There seems to be nothing else but sand and soon realise something great awaits.</string>
+    <string name="island_arrival_type_infinity_island">Vous vous trouvez sur une île de l'infini. Ici, la réalité est distordue.</string>
+    <string name="island_arrival_type_treasure_island">Vous découvrez une petite île. Alors qu'il ne semble y avoir que du sable à perte de vue, vous sentez que quelque chose de grand vous attends.</string>
 
-    <string name="material_type_bolt">&font_wood;Bolt&font_end;</string>
+    <string name="material_type_bolt">&font_wood;Boulon&font_end;</string>
 
-    <string name="tile_content_type_dungeon">Dungeon</string>
-    <string name="dungeon_title">%1$s - Floor &font_cyan;%2$d &font_end;(&font_cyan;%3$d&font_end;, &font_cyan;%4$d&font_end;)</string>
-    <string name="dungeon_go_up">Go Up</string>
-    <string name="dungeon_go_down">Go Down</string>
+    <string name="tile_content_type_dungeon">Donjon</string>
+    <string name="dungeon_title">%1$s - Étage &font_cyan;%2$d &font_end;(&font_cyan;%3$d&font_end;, &font_cyan;%4$d&font_end;)</string>
+    <string name="dungeon_go_up">Monter</string>
+    <string name="dungeon_go_down">Descendre</string>
 
-    <string name="dungeon_abandoned_mine">&font_wood;Abandoned &font_end;&font_stone;Mine&font_end;</string>
-    <string name="dungeon_dungeon">&font_stone;Dungeon&font_end;</string>
-    <string name="dungeon_grotto">&font_iron;Grotto&font_end;</string>
-    <string name="dungeon_deep_forest">&font_dark_green;Deep &font_end;&font_green;Forest&font_end;</string>
-    <string name="dungeon_old_tomb">&font_silver;Old &font_end;&font_stone;Tomb&font_end;</string>
-    <string name="dungeon_ancient_ruins">&font_gold;Ancient &font_end;&font_ruins;Ruins&font_end;</string>
-    <string name="dungeon_pyramid">&font_beetle_talisman;Pyramid&font_end;</string>
-    <string name="dungeon_big_cave">&font_stone;Big &font_end;&font_end;&font_cave;Cave&font_end;</string>
-    <string name="dungeon_icy_cave">&font_ice;Icy &font_end;&font_cave;Cave&font_end;</string>
-    <string name="dungeon_lava_cave">&font_red;Lava &font_end;&font_cave;Cave&font_end;</string>
+    <string name="dungeon_abandoned_mine">&font_stone;Mine &font_end;&font_wood;abandonnée&font_end;</string>
+    <string name="dungeon_dungeon">&font_stone;Donjon&font_end;</string>
+    <string name="dungeon_grotto">&font_iron;Grotte&font_end;</string>
+    <string name="dungeon_deep_forest">&font_green;Forêt &font_end;&font_dark_green;profonde&font_end;</string>
+    <string name="dungeon_old_tomb">&font_silver;Ancien &font_end;&font_stone;tombeau&font_end;</string>
+    <string name="dungeon_ancient_ruins">&font_ruins;Ruines &font_end;&font_gold;antiques&font_end;</string>
+    <string name="dungeon_pyramid">&font_beetle_talisman;Pyramide&font_end;</string>
+    <string name="dungeon_big_cave">&font_stone;Grande &font_end;&font_end;&font_cave;caverne&font_end;</string>
+    <string name="dungeon_icy_cave">&font_cave;Caverne &font_end;&font_ice;gelée&font_end;</string>
+    <string name="dungeon_lava_cave">&font_cave;Caverne &font_end;&font_red;volcanique&font_end;</string>
 
-    <string name="dungeon_exit">Exit</string>
-    <string name="dungeon_question_mark">\?</string>
-    <string name="dungeon_exit_dungeon">You exit %1$s.</string>
-    <string name="dungeon_accessibility">You are at &font_cyan;%1$d&font_end;, &font_cyan;%2$d &font_end;in %3$s, Floor &font_cyan;%4$d&font_end;.&br;&br;You can move to the following directions: %5$s.</string>
-    <string name="dungeon_can_go_up">You can go &font_cyan;up &font_end;from here.</string>
-    <string name="dungeon_can_go_down">You can go &font_cyan;down &font_end;from here.</string>
-    <string name="dungeon_can_exit">You can &font_cyan;exit &font_end;from here.</string>
-    <string name="dungeon_enter">You enter %s…</string>
-    <string name="tile_type_dungeon">Dungeon</string>
-    <string name="dungeon_loot">&font_cyan;Loot&font_end;</string>
-    <string name="dungeon_loot_message">You obtained: %s</string>
-    <string name="found_item">Found: %s</string>
+    <string name="dungeon_exit">Sortie</string>
+    <string name="dungeon_question_mark"> \?</string>
+    <string name="dungeon_exit_dungeon">Vous sortez de %1$s.</string>
+    <string name="dungeon_accessibility">Vous êtes à &font_cyan;%1$d&font_end;, &font_cyan;%2$d &font_end;dans %3$s, étage &font_cyan;%4$d&font_end;.&br;&br;Vous pouvez vous déplacer dans les directions suivantes : %5$s.</string>
+    <string name="dungeon_can_go_up">Vous pouvez &font_cyan;monter &font_end;depuis ici.</string>
+    <string name="dungeon_can_go_down">Vous pouvez &font_cyan;descendre &font_end;depuis ici.</string>
+    <string name="dungeon_can_exit">Vous pouvez &font_cyan;sortir &font_end;depuis ici.</string>
+    <string name="dungeon_enter">Vous pénétrez %s…</string>
+    <string name="tile_type_dungeon">Donjon</string>
+    <string name="dungeon_loot">&font_cyan;Butin&font_end;</string>
+    <string name="dungeon_loot_message">Vous obtenez : %s</string>
+    <string name="found_item">Vous trouvez : %s</string>
     <string name="dungeon_entrance_name">&font_stone;%1$s &font_end;(%2$s)</string>
-    <string name="tile_content_type_dungeon_portal">&font_stone;Dungeon &font_end;&font_portal;Portal&font_end;</string>
+    <string name="tile_content_type_dungeon_portal">&font_portal;Portail &font_end;de &font_stone;donjon&font_end;</string>
 
-    <string name="dungeon_north_content">&font_cyan;North&font_end;: %1$s</string>
-    <string name="dungeon_south_content">&font_cyan;South&font_end;: %1$s</string>
-    <string name="dungeon_east_content">&font_cyan;East&font_end;: %1$s</string>
-    <string name="dungeon_west_content">&font_cyan;West&font_end;: %1$s</string>
+    <string name="dungeon_north_content">&font_cyan;Nord&font_end; : %1$s</string>
+    <string name="dungeon_south_content">&font_cyan;Sud&font_end; : %1$s</string>
+    <string name="dungeon_east_content">&font_cyan;Est&font_end; : %1$s</string>
+    <string name="dungeon_west_content">&font_cyan;Ouest&font_end; : %1$s</string>
 
     <string name="dungeon_boss">&font_dungeon_boss;Boss&font_end;</string>
     <string name="settings_show_combat_shortcuts">Activer raccourcis de combat</string>
 
-    <string name="dungeon_enter_portal">Enter Portal</string>
-    <string name="dungeon_entered_portal">You entered the portal and appeared at the entrance of the dungeon!</string>
+    <string name="dungeon_enter_portal">Pénétrer le portail</string>
+    <string name="dungeon_entered_portal">Après avoir pénétré le portail, vous vous retrouvez à l'entrée du donjon !</string>
 
-    <string name="advantage_librarian">&font_wood;Librarian&font_end;</string>
-    <string name="advantage_librarian_desc">(You will start with a random crafting recipe, an &font_cyan;experience &font_end;potion and 5 &font_cyan;skill &font_end;points)</string>
+    <string name="advantage_librarian">&font_wood;Libraire&font_end;</string>
+    <string name="advantage_librarian_desc">(Vous démarrez avec une recette de fabrication aléatoire, une potion d'&font_cyan;expérience &font_end;et 5 points de &font_cyan;compétence&font_end;)</string>
 
-    <string name="dungeon_tutorial_title">Dungeons</string>
-    <string name="dungeon_tutorial_message_1">Welcome to your first dungeon, hero!</string>
+    <string name="dungeon_tutorial_title">Donjons</string>
+    <string name="dungeon_tutorial_message_1">Bienvenue dans votre premier donjon, héros !</string>
     <string name="dungeon_tutorial_message_2">In the dungeons, every item you find will be given to you when you leave the dungeon.</string>
     <string name="dungeon_tutorial_message_3">You won\'t be able to change your equipment, craft, use items, etc… except while in combat!</string>
     <string name="dungeon_tutorial_message_4">A Boss monster awaits in the last floor of the dungeons. Be careful though, the deeper the floor, the more dangerous the monsters can be!</string>
@@ -3874,12 +3874,12 @@
     <string name="pet_dead">(&font_red;&italic;Mort&italic_end;&font_end;)</string>
     <string name="your_active_pet_is_not_dead">Votre &font_pet;familier &font_end;actif n\'est pas mort…</string>
 
-    <string name="void_master_after_killing_text_3_new_chicken_mode">Eh bien… Vous portez un set complet du &font_void;vide&font_end;… Tenez, prenez ça…</string>
+    <string name="void_master_after_killing_text_3_new_chicken_mode">Eh bien… Vous portez un set complet du &font_void;néant&font_end;… Tenez, prenez ça…</string>
 
     <string name="tile_content_type_rubber_chicken">&font_animal;Poulet &font_end;en &font_legendary;caoutchouc&font_end;</string>
 
     <string name="achievement_name_rubber_chicken">Poulet en caoutchouc</string>
-    <string name="achievement_desc_rubber_chicken">Tuez le Maître du Vide en portant un set d\'armure du vide complet en Mode Poule Mouillée.</string>
+    <string name="achievement_desc_rubber_chicken">Tuez le Maître du Néant en portant un set d\'armure du néant complet en Mode Poule Mouillée.</string>
 
     <string name="dead_reason_by_cactus">Vous êtes mort en ramassant un &font_cactus;cactus&font_end; !</string>
 
