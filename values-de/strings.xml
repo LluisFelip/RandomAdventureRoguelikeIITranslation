@@ -911,11 +911,11 @@
     <string name="food_onion">Zwiebel</string>
     <string name="food_cucumber">Gurke</string>
     <string name="text_level_up_increasal">
-        &font_health;Leben&font_end; auf &font_health;%1$d&font_end;&br; erhöht
-        &font_mana;Mana&font_end; auf &font_mana;%2$d&font_end;&br; erhöht &font_attack;Angriff&font_end;
-        auf &font_attack;%3$d&font_end;&br; Increased &font_defense;Defense&font_end;
-        to &font_defense;%4$d&font_end;&br; Increased &font_speed;Speed&font_end; to &font_speed;%5$d&font_end;&br;
-        Increased &font_mana;Intelligence&font_end; to &font_mana;%6$d&font_end;&br;
+        &font_health;Leben&font_end; auf &font_health;%1$d&font_end; erhöht&br;
+        &font_mana;Mana&font_end; auf &font_mana;%2$d&font_end; erhöht&br; &font_attack;Angriff&font_end;
+        auf &font_attack;%3$d&font_end; erhöht&br; &font_defense;Verteidigung&font_end;
+        auf &font_defense;%4$d&font_end; erhöht&br; &font_speed;Geschwindigkeit&font_end; auf &font_speed;%5$d&font_end; erhöht&br;
+        &font_mana;Inelligenz&font_end; auf &font_mana;%6$d&font_end; erhöht&br;
     </string>
 
     <string name="level_up_inventory_increase">&br;Increased your &font_gold;Inventory Capacity &font_end;to &font_gold;%1$d&font_end;</string>
