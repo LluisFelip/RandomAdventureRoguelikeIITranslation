@@ -142,7 +142,7 @@
 
     <string name="text_achievement_unlocked_">Succès \'&bold;%1$s&bold_end;\' débloqué !</string>
 
-    <string name="select_game_slot_title">Sélection de la sauvegarde</string>
+    <string name="select_game_slot_title">Sélectionnez une sauvegarde</string>
     <string name="select_game_slot_asterisc_level">&font_asterisk_level;&bold;\*&bold_end;&font_end;</string>
     <string name="select_game_slot_asterisc_main_story_completed">&font_asterisk_main_story;&bold;\*&bold_end;&font_end;</string>
     <string name="select_game_slot_asterisc_void_master_killed">&font_asterisk_void_master;&bold;\*&bold_end;&font_end;</string>
@@ -194,21 +194,21 @@
     <string name="advantage_blacksmith">&font_silver;Forgeron&font_end;</string>
     <string name="advantage_noble">&font_gold;Noble&font_end;</string>
     <string name="advantage_random_desc">(Vous recevrez un talent aléatoire)</string>
-    <string name="advantage_warrior_desc">(Vous commencerez avec une &font_attack;arme&font_end;, un &font_defense;bouclier&font_end;, et un morceau d\'&font_defense;armure&font_end;)</string>
-    <string name="advantage_wizard_desc">(Vous commencerez avec un &font_mana;sort &font_end;aléatoire)</string>
-    <string name="advantage_cleric_desc">(Vous commencerez avec un &font_mana;sort &font_end;de &font_health;soin&font_end;)</string>
-    <string name="advantage_petmaster_desc">(Vous commencerez avec le &font_mana;sort &font_end;de &font_pet;capture &font_end;de &font_red;monstre &font_end;et un CR &font_cyan;0&font_end; &font_pet;familiers&font_end; &font_red;monstre&font_end;)</string>
-    <string name="advantage_worker_desc">(Vous commencerez avec un &font_cyan;Outil&font_end; au hasard)</string>
-    <string name="advantage_alchemist_desc">(Vous commencerez en sachant préparer &font_cyan;1 &font_end;type de potion et vous recevrez &font_cyan;3 &font_end;matériaux aléatoires)</string>
-    <string name="advantage_blacksmith_desc">(Vous commencerez en sachant créer une &font_attack;arme&font_end;, un &font_defense;bouclier&font_end;, une piece d\'&font_defense;armure &font_end;et vous recevrez &font_cyan;3 &font_end;des matériaux aléatoires)</string>
-    <string name="advantage_noble_desc">(Vous commencerez avec plus d\'&font_gold;or&font_end;)</string>
+    <string name="advantage_warrior_desc">(Vous démarrerez avec une &font_attack;arme&font_end;, un &font_defense;bouclier&font_end;, et un morceau d\'&font_defense;armure&font_end;)</string>
+    <string name="advantage_wizard_desc">(Vous démarrerez avec un &font_mana;sort &font_end;aléatoire)</string>
+    <string name="advantage_cleric_desc">(Vous démarrerez avec un &font_mana;sort &font_end;de &font_health;soin&font_end;)</string>
+    <string name="advantage_petmaster_desc">(Vous démarrerez avec le &font_mana;sort &font_end;de &font_pet;capture &font_end;de &font_red;monstre &font_end;et un CR &font_cyan;0&font_end; &font_pet;familiers&font_end; &font_red;monstre&font_end;)</string>
+    <string name="advantage_worker_desc">(Vous démarrerez avec un &font_cyan;outil&font_end; au hasard)</string>
+    <string name="advantage_alchemist_desc">(Vous démarrerez en sachant préparer &font_cyan;1 &font_end;type de potion et vous recevrez &font_cyan;3 &font_end;matériaux aléatoires)</string>
+    <string name="advantage_blacksmith_desc">(Vous démarrerez en sachant créer une &font_attack;arme&font_end;, un &font_defense;bouclier&font_end;, une pièce d\'&font_defense;armure &font_end;et vous recevrez &font_cyan;3 &font_end;des matériaux aléatoires)</string>
+    <string name="advantage_noble_desc">(Vous démarrerez avec plus d\'&font_gold;or&font_end;)</string>
     <string name="advantage_random_selected">Vous êtes: %1$s !</string>
-    <string name="advantage_ranger_desc">(Vous commencerez avec une arme à &font_speed;distance &font_end;et quelques munitions)</string>
+    <string name="advantage_ranger_desc">(Vous démarrerez avec une arme à &font_speed;distance &font_end;et quelques munitions)</string>
 
-    <string name="new_game_permadeath_question">Sélection de la difficulté</string>
+    <string name="new_game_permadeath_question">Sélectionnez la difficulté</string>
     <string name="new_game_permadeath_selected">Mode &font_red;&bold;MORT PERMANANTE&bold_end; &font_end;selectionné.&br;&br;Si vous &font_red;mourez&font_end;, vous &font_cyan;perdrez tout &font_end;et vous devrez &font_cyan;tout recommencer&font_end;! uwu</string>
-    <string name="new_game_no_permadeath_selected">Mode &font_red;&bold;MORT NON-PERMANANTE &bold_end;&font_end;selectionné.&br;&br;Si vous mourez, il vous sera possible de revenir au dernier &font_primary_light;&italic;[CHECKPOINT SAUVEGARDÉ] &italic_end;&font_end;(quand vous vous reposez dans une &font_inn;Auberge &font_end;où quand vous &font_cyan;montez en niveau&font_end;, un &font_primary_light;&italic;[CHECKPOINT SAUVEGARDÉ] &italic_end;&font_end;sera créé).</string>
-    <string name="saved_checkpoint">&font_primary_light;&italic;[CHECKPOINT SAUVEGARDÉ]&italic_end;&font_end;</string>
+    <string name="new_game_no_permadeath_selected">Mode &font_red;&bold;MORT NON-PERMANANTE &bold_end;&font_end;selectionné.&br;&br;Si vous mourez, il vous sera possible de revenir au dernier &font_primary_light;&italic;[POINT DE SAUVEGARDE] &italic_end;&font_end;(quand vous vous reposez dans une &font_inn;Auberge &font_end;où quand vous &font_cyan;montez en niveau&font_end;, un &font_primary_light;&italic;[POINT DE SAUVEGARDE] &italic_end;&font_end;sera créé).</string>
+    <string name="saved_checkpoint">&font_primary_light;&italic;[PARTIE SAUVEGARDÉE]&italic_end;&font_end;</string>
 
     <string name="cemetery_clear">Supprimer</string>
     <string name="cemetery_cancel">Annuler</string>
@@ -1912,7 +1912,7 @@
     <string name="temple_explore_2_a">Tu continues ta route dans un autre couloir et finis par apercevoir un levier. Il semble que tu puisses le faire pivoter à &font_cyan;droite &font_end;ou à &font_cyan;gauche&font_end;. Dans quelle direction l\'actives-tu ?</string>
     <string name="temple_explore_2_a_switch_left">&font_cyan;Gauche&font_end;</string>
     <string name="temple_explore_2_a_switch_right">&font_cyan;Droite&font_end;</string>
-    <string name="temple_explore_2_b">Tu te retrouves dans une piece remplie de poussière et de babioles. Tu regardes un peu partout et aperçois deux boutons sur le mur au fond. Sur lequel des deux appuies-tu ?</string>
+    <string name="temple_explore_2_b">Tu te retrouves dans une pièce remplie de poussière et de babioles. Tu regardes un peu partout et aperçois deux boutons sur le mur au fond. Sur lequel des deux appuies-tu ?</string>
     <string name="temple_explore_2_b_button_1">&font_cyan;Bouton 1&font_end;</string>
     <string name="temple_explore_2_b_button_2">&font_cyan;Bouton 2&font_end;</string>
     <string name="temple_explore_2_b_first_button_1">Oh ! Tu tombes dans un espèce de toboggan en spirale…</string>
@@ -3025,9 +3025,9 @@
     <string name="race_lizard">&font_yellow;Lézard&font_end;</string>
     <string name="race_unknown">&font_white;Inconnu&font_end;</string>
 
-    <string name="race_human_desc">La plus polyvalente et flexible des races communes. Leur force réside en un esprit capable du bien comme du mal. Il sont équilibrés pour le combat et la magie. Ils ont une connaissance innée de la fabrication et sont des explorateurs-nés.</string>
+    <string name="race_human_desc">La plus polyvalente et flexible des races communes. Leur force réside en un esprit capable du bien comme du mal. Ils sont équilibrés pour le combat et la magie. Ils ont une connaissance innée de la fabrication et sont des explorateurs-nés.</string>
     <string name="race_dwarf_desc">Intéressés uniquement par les mines et la bière, ils sont habitués à vivre sous terre. Mais suite à l\'expansion du mal, ils ont commencés à explorer le monde et marcher dans les pas de leurs légendaires ancètres. Ils sont une des races les plus robustes, avec de bonnes compétences de minage et sont également les seuls à savoir confectionner de la bière.</string>
-    <string name="race_halfling_desc">Bien qu\'ils soient apparus dans bon nombres de livres et de contes, les personnes en ayant vus de leur vivant se comptent sur les doigts de la main. Les Halflings sont paisibles et vivent dans leurs villages cachés. Ils cuisinent, mangent, lisent des histoires datant de la première ère, et vivent toutes sortes d\'aventures dans leur rêves. Depuis que le mal s\'est répandu autour du monde, certains des Halflings les plus courageux sont partis en quête d\'aventure, à la manière de ceux décrits dans les livres qu\'ils avaient l\'habitude de lires.</string>
+    <string name="race_halfling_desc">Bien qu\'ils soient apparus dans bon nombres de livres et de contes, les personnes en ayant vus de leur vivant se comptent sur les doigts de la main. Les Halfelins sont paisibles et vivent dans leurs villages cachés. Ils cuisinent, mangent, lisent des histoires datant de la première ère, et vivent toutes sortes d\'aventures dans leur rêves. Depuis que le mal s\'est répandu autour du monde, certains des Halfelins les plus courageux sont partis en quête d\'aventure, à la manière de ceux décrits dans les livres qu\'ils avaient l\'habitude de lire.</string>
     <string name="race_gnome_desc">Ils prennent plaisir à vivre et savourent chaque instant où ils créent des inventions, explorent et étudient l\'inconnu. Ils étaient généralement concentrés sur leurs inventions, mais certains Gnomes courageux se sont lancés dans une aventure autour du globe.</string>
     <string name="race_elf_desc">Les Elfes sont des créatures magiques possédant une grâce inégalable. Ils vivent dans ce monde mais n\'en font pas totalement parti. Egoïstes et égocentriques, la présence du mal de plus en plus importante rend leur avenir incertain. Ils ont ainsi commencés à être plus présents dans le monde afin d\'atteindre la délivrance.</string>
     <string name="race_drow_desc">Generally known as the evil version of the regular elves. They are extremely intelligent, charismatic and dexterous, but share surface elves\' comparative frailty and slight frames. They are characterized by white or silver hair and obsidian black skin.</string>
