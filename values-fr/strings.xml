@@ -3373,66 +3373,66 @@
 
     <string name="dungeon_tutorial_title">Donjons</string>
     <string name="dungeon_tutorial_message_1">Bienvenue dans votre premier donjon, héros !</string>
-    <string name="dungeon_tutorial_message_2">In the dungeons, every item you find will be given to you when you leave the dungeon.</string>
-    <string name="dungeon_tutorial_message_3">You won\'t be able to change your equipment, craft, use items, etc… except while in combat!</string>
-    <string name="dungeon_tutorial_message_4">A Boss monster awaits in the last floor of the dungeons. Be careful though, the deeper the floor, the more dangerous the monsters can be!</string>
-    <string name="dungeon_tutorial_message_5">Good luck, and be careful!</string>
-    <string name="button_next">Next</string>
+    <string name="dungeon_tutorial_message_2">Tous les objets trouvés dans un donjon vous seront remis lorsque vous le quitterez.</string>
+    <string name="dungeon_tutorial_message_3">Vous ne pourrez pas changer votre équipement ni utiliser d'objets, etc… excepté en combat !</string>
+    <string name="dungeon_tutorial_message_4">Un boss vous attend au dernier étage des donjons. Mais faites preuve de prudence, plus vous vous enfoncez dans le donjon, plus les monstres seront redoutables !</string>
+    <string name="dungeon_tutorial_message_5">Bonne chance à vous. Soyez prudent !</string>
+    <string name="button_next">Suivant</string>
 
-    <string name="dead_reason_unknown">Died!</string>
+    <string name="dead_reason_unknown">Mort !</string>
 
-    <string name="food_cooked_fish">&font_white;Cooked &font_end;&font_blue;Fish&font_end;</string>
-    <string name="share_dialog_title">Share</string>
-    <string name="share_dialog_message">Share your hero\'s status as an image or as text!</string>
-    <string name="button_share_image">As Image</string>
-    <string name="button_share_text">As Text</string>
+    <string name="food_cooked_fish">&font_blue;Poisson &font_end;&font_white;cuit&font_end;</string>
+    <string name="share_dialog_title">Partager</string>
+    <string name="share_dialog_message">Partagez le statut de votre héros sous forme de texte ou d'image !</string>
+    <string name="button_share_image">Image</string>
+    <string name="button_share_text">Texte</string>
 
-    <string name="material_type_beetle_talisman">&font_beetle_talisman;Beetle Talisman&font_end;</string>
+    <string name="material_type_beetle_talisman">&font_beetle_talisman;Talisman scarabée&font_end;</string>
 
-    <string name="pyramid_its_closed">It\'s closed…</string>
-    <string name="pyramid_its_closed_can_open">It\'s closed but it seems to be reacting with your &font_beetle_talisman;Beetle Talisman&font_end;…</string>
-    <string name="pyramid_interact">Interact</string>
-    <string name="pyramid_opened">The pyramid absorbs the &font_beetle_talisman;Beetle Talisman &font_end;and opens!</string>
+    <string name="pyramid_its_closed">C'est fermé…</string>
+    <string name="pyramid_its_closed_can_open">C'est fermé mais ça a l'air de réagir à votre &font_beetle_talisman;talisman scarabée&font_end;…</string>
+    <string name="pyramid_interact">Interagir</string>
+    <string name="pyramid_opened">La pyramide aspire le &font_beetle_talisman;talisman scarabée &font_end;et s'ouvre !</string>
 
     <string name="material_type_jade">&font_jade;Jade&font_end;</string>
     <string name="material_type_quartz">&font_quartz;Quartz&font_end;</string>
-    <string name="material_type_jasper">&font_jasper;Jasper&font_end;</string>
+    <string name="material_type_jasper">&font_jasper;Jaspe&font_end;</string>
     <string name="material_type_sodalite">&font_sodalite;Sodalite&font_end;</string>
     <string name="material_type_onyx">&font_onyx;Onyx&font_end;</string>
     <string name="material_type_serpentine">&font_serpentine;Serpentine&font_end;</string>
     <string name="material_type_aragonite">&font_aragonite;Aragonite&font_end;</string>
 
     <string name="material_type_saphir">&font_saphir;Saphir&font_end;</string>
-    <string name="material_type_ruby">&font_ruby;Ruby&font_end;</string>
+    <string name="material_type_ruby">&font_ruby;Rubis&font_end;</string>
 
-    <string name="material_type_ankh">&font_gold;Ankh&font_end;</string>
+    <string name="material_type_ankh">&font_gold;Ânkh&font_end;</string>
 
-    <string name="material_type_infinity_energy">&font_infinity;Infinity &font_end;&font_cyan;Energy&font_end;</string>
-    <string name="material_type_creator_medal">&font_asterisk_creator;Creator &font_end;&font_white;Medal&font_end;</string>
-    <string name="achievement_name_capture_creator">How could you?!</string>
-    <string name="achievement_name_desc_capture_creator">Capture the Creator!</string>
+    <string name="material_type_infinity_energy">&font_cyan;Énergie &font_end;&font_infinity;infinie&font_end;</string>
+    <string name="material_type_creator_medal">&font_white;Médaille &font_end;du &font_asterisk_creator;créateur&font_end;</string>
+    <string name="achievement_name_capture_creator">Comment oses-tu ?!</string>
+    <string name="achievement_name_desc_capture_creator">Capture le créateur !</string>
 
-    <string name="title_the_creator_male">%1$s, the &font_asterisk_creator;Creator&font_end;</string>
-    <string name="title_the_creator_female">%1$s, the &font_asterisk_creator;Creator&font_end;</string>
-    <string name="title_the_creator_no_gender">%1$s, the &font_asterisk_creator;Creator&font_end;</string>
+    <string name="title_the_creator_male">%1$s, le &font_asterisk_creator;Créateur&font_end;</string>
+    <string name="title_the_creator_female">%1$s, la &font_asterisk_creator;Créatrice&font_end;</string>
+    <string name="title_the_creator_no_gender">%1$s, le/la &font_asterisk_creator;Créateur&font_end;</string>
 
-    <string name="wise_have_creator_medal">You… you are unbelievable! You killed the &font_asterisk_creator;Creator &font_end;and obtained a %s? I\'m afraid the only thing left to do for you is to &font_asterisk_creator;Ascend&font_end;…</string>
+    <string name="wise_have_creator_medal">Tu… Tu es fantastique ! Tu as tué le &font_asterisk_creator;créateur &font_end;et obtenu %s ? J'ai bien peur qu'il ne te reste plus qu'à utiliser le mode &font_asterisk_creator;Ascension&font_end;…</string>
 
-    <string name="wise_ascend_message_1">You want to &font_alchemist;Ascend&font_end;?</string>
-    <string name="creator_appeared_title">&font_asterisk_creator;The Creator &font_end;Appeared</string>
-    <string name="creator_appeared_message">Suddenly, a supreme being, nothing like you\'ve seen before, appears in front of you… And, you know, deep inside, this is nothing else than… &font_asterisk_creator;Archison&font_end;, &font_asterisk_creator;The Creator&font_end;.</string>
-    <string name="combat_monster_healed_completely">%s healed completely!</string>
+    <string name="wise_ascend_message_1">Veux-tu démarrer l'&font_alchemist;Ascension&font_end; ?</string>
+    <string name="creator_appeared_title">&font_asterisk_creator;Le Créateur &font_end;est apparu</string>
+    <string name="creator_appeared_message">Soudainement, un être suprême, tel que vous n'en avez jamais vu, apparaît devant vos yeux… Et vous savez, au plus profond de vous, que ce n'est autre qu'&font_asterisk_creator;Archison&font_end;, &font_asterisk_creator;le Créateur&font_end;.</string>
+    <string name="combat_monster_healed_completely">%s se soigne entièrement !</string>
 
-    <string name="item_info_creator_medal">It is a bright medal, a memory of the time you killed &font_asterisk_creator;The Creator&font_end;.</string>
+    <string name="item_info_creator_medal">C'est une médaille éblouisante que vous gardez en mémoire de la fois où vous avez vaincu &font_asterisk_creator;le Créateur&font_end;.</string>
 
-    <string name="wise_main_story_island_first_message">Hello, hero! I\'ll be here if you need help!&br;&br;Talk to me if you need to rest or if you want to leave this place…</string>
-    <string name="wise_main_story_island_second_message">Do you want to restore your &font_health;health &font_end;, &font_mana;mana &font_end;and &font_hunger;hunger &font_end;for &font_gold;%1$d gold&font_end;? (A &font_primary_light;&italic;[CHECKPOINT] &italic_end;&font_end;will be saved)&br;&br;…or…&br;&br;Do you want to leave this place? It will disappear forever, you\'ll lose half of the &font_gold;gold &font_end;you are carrying, half from the &font_gold;BANK&font_end;, and you\'ll have to start looking for the &font_cyan;Pieces Of Map &font_end;again.</string>
-    <string name="wise_leave_island_confirmation_message">Are you sure you want to leave?&br;&br;This place will disappear forever, you\'ll lose half of the &font_gold;gold &font_end;you are carrying, half from the &font_gold;BANK&font_end;, and you\'ll have to start looking for the &font_cyan;Pieces Of Map &font_end;again.</string>
+    <string name="wise_main_story_island_first_message">Bonjour, héros ! Je serais ici en cas de besoin !&br;&br;Parle-moi si tu veux te reposer ou quitter cet endroit…</string>
+    <string name="wise_main_story_island_second_message">Veux-tu restaurer ta &font_health;vie&font_end;, ton &font_mana;mana &font_end;et ta &font_hunger;faim &font_end;pour &font_gold;%1$d d'or&font_end; ? (Un &font_primary_light;&italic;[POINT DE SAUVEGARDE] &italic_end;&font_end;sera enregistré)&br;&br;Ou alors…&br;&br;Veux-tu quitter cet endroit ? L'île disparaîtra pour toujours et tu perdras la moitié de l'&font_gold;or &font_end;que tu transportes et qui se trouve dans la &font_gold;BANQUE&font_end;, et tu devras à nouveau chercher les &font_cyan;morceaux de carte&font_end;.</string>
+    <string name="wise_leave_island_confirmation_message">Es-tu sûr de vouloir partir ?&br;&br;L'île disparaîtra pour toujours et tu perdras la moitié de l'&font_gold;or &font_end;que tu transportes et qui se trouve dans la &font_gold;BANQUE&font_end;, et tu devras à nouveau chercher les &font_cyan;morceaux de carte&font_end;.</string>
 
-    <string name="button_rest">Rest</string>
-    <string name="button_leave_island">Leave</string>
+    <string name="button_rest">Se reposer</string>
+    <string name="button_leave_island">Partir</string>
 
-    <string name="wise_completely_rested">You feel completely rested!</string>
+    <string name="wise_completely_rested">Vous vous sentez en pleine forme !</string>
     <string name="wise_main_story_island_lost_gold_and_memory">You lost some &font_gold;gold &font_end;and some of your memories…</string>
 
     <string name="creator_pre_combat_message_1">You know… It\’s not easy to be &font_asterisk_creator;The Creator&font_end;… Always coding, adding greater challenges, fixing bugs, answering emails, chatting in discord, reddit, the web, etc…</string>
@@ -3468,9 +3468,9 @@
     <string name="ascend_toast">Everything becomes dark…</string>
     <string name="ascend_end_toast">…you feel alive again…</string>
 
-    <string name="title_the_ascended_male">%1$s, the &asterisk_ascend_color;Ascended&font_end;</string>
-    <string name="title_the_ascended_female">%1$s, the &asterisk_ascend_color;Ascended&font_end;</string>
-    <string name="title_the_ascended_no_gender">%1$s, the &asterisk_ascend_color;Ascended&font_end;</string>
+    <string name="title_the_ascended_male">%1$s, le &asterisk_ascend_color;Ascensionné&font_end;</string>
+    <string name="title_the_ascended_female">%1$s, la &asterisk_ascend_color;Ascensionnée&font_end;</string>
+    <string name="title_the_ascended_no_gender">%1$s, le/la &asterisk_ascend_color;Ascensionné&font_end;</string>
 
     <string name="material_type_ascension_flame">&asterisk_ascend_color;Ascension &font_end;&font_red;Flame&font_end;</string>
 
