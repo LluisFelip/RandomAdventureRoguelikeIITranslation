@@ -948,27 +948,27 @@
     <string name="combat_cant_flee_from_monster">Flucht vor %1$s unmöglich…</string>
     <string name="combat_monster_obtained_gold">&font_gold;%1$d&font_end; Gold erhalten.</string>
     <string name="combat_monster_obtained_item">%1$s erhalten.</string>
-    <string name="combat_you_throw_the_bucket_to">You throw the %1$s to %2$s! %3$s receives &font_red;%4$d &font_end;damage!</string>
+    <string name="combat_you_throw_the_bucket_to">Ihr werft den %1$s auf %2$s! %3$s verliert &font_red;%4$d &font_end;Leben!</string>
 
 
     <string name="villager_text_hello_1" tools:ignore="UnusedResources">Hi!</string>
-    <string name="villager_text_hello_2" tools:ignore="UnusedResources">Hi, hero!</string>
-    <string name="villager_text_hello_3" tools:ignore="UnusedResources">Hi, adventurer!</string>
+    <string name="villager_text_hello_2" tools:ignore="UnusedResources">Hi, Held!</string>
+    <string name="villager_text_hello_3" tools:ignore="UnusedResources">Hi, Abenteurer!</string>
     <string name="villager_text_hello_4" tools:ignore="UnusedResources">Hello!</string>
-    <string name="villager_text_hello_5" tools:ignore="UnusedResources">Hello, adventurer!</string>
-    <string name="villager_text_hello_6" tools:ignore="UnusedResources">Hello, hero!</string>
+    <string name="villager_text_hello_5" tools:ignore="UnusedResources">Hello, Abenteurer!</string>
+    <string name="villager_text_hello_6" tools:ignore="UnusedResources">Hello, Held!</string>
     <string name="villager_text_hello_7" tools:ignore="UnusedResources">Hey…</string>
-    <string name="villager_text_hello_8" tools:ignore="UnusedResources">Hey, adventurer…</string>
-    <string name="villager_text_hello_9" tools:ignore="UnusedResources">Hey, hero…</string>
-    <string name="villager_text_hello_10" tools:ignore="UnusedResources">Nice to meet you!</string>
-    <string name="villager_text_hello_11" tools:ignore="UnusedResources">Nice to meet you, adventurer!</string>
-    <string name="villager_text_hello_12" tools:ignore="UnusedResources">Nice to meet you, hero!</string>
-    <string name="villager_text_hello_13" tools:ignore="UnusedResources">How\'s it going?</string>
-    <string name="villager_text_hello_14" tools:ignore="UnusedResources">How\'s it going, adventurer?</string>
-    <string name="villager_text_hello_15" tools:ignore="UnusedResources">How\'s it going, hero?</string>
-    <string name="villager_text_hello_16" tools:ignore="UnusedResources">How are you doing?</string>
-    <string name="villager_text_hello_17" tools:ignore="UnusedResources">How are you doing, adventurer?</string>
-    <string name="villager_text_hello_18" tools:ignore="UnusedResources">How are you doing, hero?</string>
+    <string name="villager_text_hello_8" tools:ignore="UnusedResources">Hey, Abenteurer…</string>
+    <string name="villager_text_hello_9" tools:ignore="UnusedResources">Hey, Held…</string>
+    <string name="villager_text_hello_10" tools:ignore="UnusedResources">Ich freue mich euch zu treffen!</string>
+    <string name="villager_text_hello_11" tools:ignore="UnusedResources">Ich freue mich euch zu treffen, Abenteurer!</string>
+    <string name="villager_text_hello_12" tools:ignore="UnusedResources">Ich freue mich euch zu treffen, Held!</string>
+    <string name="villager_text_hello_13" tools:ignore="UnusedResources">Wie gehts?</string>
+    <string name="villager_text_hello_14" tools:ignore="UnusedResources">Wie gehts, Abenteurer?</string>
+    <string name="villager_text_hello_15" tools:ignore="UnusedResources">Wie gehts, Held?</string>
+    <string name="villager_text_hello_16" tools:ignore="UnusedResources">Wie geht es euch?</string>
+    <string name="villager_text_hello_17" tools:ignore="UnusedResources">Wie geht es euch, Abenteurer?</string>
+    <string name="villager_text_hello_18" tools:ignore="UnusedResources">Wie geht es euch, Held?</string>
     <string name="villager_text_hello_19" tools:ignore="UnusedResources">Mmm…</string>
     <string name="villager_text_hello_20" tools:ignore="UnusedResources">Pse…</string>
     <string name="villager_text_hello_21" tools:ignore="UnusedResources">Wow!</string>
@@ -976,18 +976,18 @@
     <string name="villager_text_hello_23" tools:ignore="UnusedResources">Eh!</string>
     <string name="villager_text_hello_24" tools:ignore="UnusedResources">Hey!</string>
     <string name="villager_text_hello_25" tools:ignore="UnusedResources">Howdy!</string>
-    <string name="villager_text_hello_26" tools:ignore="UnusedResources">What\'s up?</string>
-    <string name="villager_text_hello_27" tools:ignore="UnusedResources">What\'s up, adventurer?</string>
-    <string name="villager_text_hello_28" tools:ignore="UnusedResources">What\'s up, hero?</string>
+    <string name="villager_text_hello_26" tools:ignore="UnusedResources">Was geht?</string>
+    <string name="villager_text_hello_27" tools:ignore="UnusedResources">Was geht, Abenteurer?</string>
+    <string name="villager_text_hello_28" tools:ignore="UnusedResources">Was geht, Held?</string>
     <string name="villager_text_hello_29" tools:ignore="UnusedResources">Hi…</string>
-    <string name="villager_text_hello_30" tools:ignore="UnusedResources">Hello…</string>
+    <string name="villager_text_hello_30" tools:ignore="UnusedResources">Hallo…</string>
     <string name="villager_text_hello_31" tools:ignore="UnusedResources">…</string>
-    <string name="villager_text_hello_32" tools:ignore="UnusedResources">Well…</string>
+    <string name="villager_text_hello_32" tools:ignore="UnusedResources">Naja…</string>
     <string name="villager_text_hello_33" tools:ignore="UnusedResources">So…</string>
-    <string name="villager_text_hello_34" tools:ignore="UnusedResources">What\'s new?</string>
-    <string name="villager_text_hello_35" tools:ignore="UnusedResources">G\'day!</string>
+    <string name="villager_text_hello_34" tools:ignore="UnusedResources">Was gibts?</string>
+    <string name="villager_text_hello_35" tools:ignore="UnusedResources">Moin!</string>
     <string name="villager_text_hello_36" tools:ignore="UnusedResources">Yo!</string>
-    <string name="villager_text_hello_37" tools:ignore="UnusedResources">Hello.</string>
+    <string name="villager_text_hello_37" tools:ignore="UnusedResources">Hallo.</string>
     <string name="villager_text_hello_38" tools:ignore="UnusedResources">Hi.</string>
     <string name="villager_text_hello_39" tools:ignore="UnusedResources">Hey.</string>
     <string name="villager_text_hello_40" tools:ignore="UnusedResources" />
@@ -995,14 +995,14 @@
 
     <string name="villager_i_need_help">
         <![CDATA[
-    I need help with something…\n
-    Can I ask you for a favor?\n
-    I\'d be grateful if you could help me…\n
-    Could you help me with something?\n
-    You look like someone who can help!\n
-    If you aren\'t busy, I\'d need something from you…\n
-    Could you please help?\n
-    Could you please help me?\n
+    Ich brauche da Hilfe mit einer Angelegeheit…\n
+    Kann ich euch um einen Gefallen bitten?\n
+    Ich wäre euch dankbar wenn Ihr mir helfen könntet…\n
+    Könnt ihr mir mit einer ANgelegenheit helfen?\n
+    Ihr seht wie Jemand aus der helfen kann!\n
+    Wenn ihr nichts zu tun habt… Ich könnte da mit etwas Hilfe brauchen\n
+    Könnt ihr Helfen?\n
+    Könnt ihr mir bitte Helfen?\n
     My family and I would be grateful if you could help us…\n
     My family and I need something…\n
     There\'s something I need…\n
