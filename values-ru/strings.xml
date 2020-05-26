@@ -3116,16 +3116,16 @@
     <string name="world_add_mark_length_error">Напишите 1 персонажа…</string>
     <string name="world_mark_island_no_cartographer_stone">Вам нужен &font_cyan;Картогаф &font_end;&font_stone;Камень &font_end;чтобы иметь возможность сделать это…</string>
     <string name="button_add_mark">Добавить отметку</string>
-    <string name="world_add_mark_message">Добавить отметку, которая отобразиться в списке островов (напишите только &font_cyan;1 &font_end;персонаж.):</string>
+    <string name="world_add_mark_message">Добавить отметку, которая отобразится в списке островов (напишите только &font_cyan;1 &font_end;персонаж.):</string>
     <string name="world_add_mark_message_replacing">К этому острову уже добавлена одна отметка, добавление новой отметки упразднит текущую.&br;&br;Добавить отметку, которая отобразиться в списке островов (напищите только &font_cyan;1 &font_end;персонаж):</string>
     <string name="mark_color_title">Выберите цвет метки:</string>
 
     <string name="craft_would_die_crafting">Вы умерли от &font_hunger;голода&font_end;!</string>
 
     <string name="skill_teleport">&font_portal;Телепорт&font_end;</string>
-    <string name="skill_teleport_desc">&font_portal;Телепорты &font_end;к случайному месту на острове. Стоит &font_mana;10 mana &font_end;точек.</string>
+    <string name="skill_teleport_desc">&font_portal;Телепорты &font_end;к случайному месту на острове. Стоит &font_mana;10 очков маны &font_end;.</string>
 
-    <string name="yang_amulet">&font_white;Yang &font_end;Амулет</string>
+    <string name="yang_amulet">&font_white;Янь &font_end;Амулет</string>
 
     <string name="settings_show_main_stats">Показать основную статистику</string>
 
@@ -3133,10 +3133,10 @@
     <string name="ranged_weapon_type_crossbow">&font_speed;Арбалет&font_end;</string>
     <string name="ranged_weapon_type_slingshot">&font_speed;Рогатка&font_end;</string>
 
-    <string name="tile_content_type_ranged_weapon">Ranged Weapon</string>
+    <string name="tile_content_type_ranged_weapon">Оружие дальнего боя</string>
 
     <string name="content_description_ranged_weapon_image">Оружие дальнего боя</string>
-    <string name="item_info_ranged_weapon">Завладейте этим чтобы иметь возможность стрелять в монстров до вступления в бой.&br;%1$s&br;%2$s</string>
+    <string name="item_info_ranged_weapon">Получите его, чтобы иметь возможность стрелять в монстров до вступления в бой.&br;%1$s&br;%2$s</string>
 
     <string name="item_wood_bow">&font_wood;Деревянный&font_end; Лук</string>
     <string name="item_bone_bow">&font_bone;Костяной&font_end; Лук</string>
@@ -3149,9 +3149,9 @@
     <string name="item_diamond_bow">&font_diamond;Алмазный&font_end; Лук</string>
     <string name="item_obsidian_bow">&font_obsidian;Обсидиановый&font_end; Лук</string>
     <string name="button_shoot">Выстрел</string>
-    <string name="ranged_weapon_shoot_monster">Ты выстрелил %1$s с %2$s и нанёс &font_speed;%3$d &font_end;урона!</string>
+    <string name="ranged_weapon_shoot_monster">Вы выстрелили %1$s с %2$s и нанесли &font_speed;%3$d &font_end;урона!</string>
     <string name="material_type_arrow">&font_wood;Стрела&font_end;</string>
-    <string name="ranged_weapon_need_ammunition">Тебе нужна %1$s чтобы сделать это!</string>
+    <string name="ranged_weapon_need_ammunition">Вам нужна %1$s, чтобы сделать это!</string>
 
     <string name="item_wood_crossbow">&font_wood;Деревянный&font_end; Арбалет</string>
     <string name="item_bone_crossbow">&font_bone;Костяной&font_end; Арбалет</string>
@@ -3164,64 +3164,64 @@
     <string name="item_diamond_crossbow">&font_diamond;Алмазный&font_end; Арбалет</string>
     <string name="item_obsidian_crossbow">&font_obsidian;Обсидиановый&font_end; Арбалет</string>
 
-    <string name="item_wood_slingshot">&font_wood;Wood&font_end; Slingshot</string>
-    <string name="item_bone_slingshot">&font_bone;Bone&font_end; Slingshot</string>
-    <string name="item_copper_slingshot">&font_copper;Copper&font_end; Slingshot</string>
-    <string name="item_tin_slingshot">&font_tin;Tin&font_end; Slingshot</string>
-    <string name="item_iron_slingshot">&font_iron;Iron&font_end; Slingshot</string>
-    <string name="item_bronze_slingshot">&font_bronze;Bronze&font_end; Slingshot</string>
-    <string name="item_silver_slingshot">&font_silver;Silver&font_end; Slingshot</string>
-    <string name="item_gold_slingshot">&font_gold;Gold&font_end; Slingshot</string>
-    <string name="item_diamond_slingshot">&font_diamond;Diamond&font_end; Slingshot</string>
-    <string name="item_obsidian_slingshot">&font_obsidian;Obsidian&font_end; Slingshot</string>
+    <string name="item_wood_slingshot">&font_wood;Деревянная&font_end; Праща</string>
+    <string name="item_bone_slingshot">&font_bone;Костяная&font_end; Праща</string>
+    <string name="item_copper_slingshot">&font_copper;Медная&font_end; Праща</string>
+    <string name="item_tin_slingshot">&font_tin;Оловянная&font_end; Праща</string>
+    <string name="item_iron_slingshot">&font_iron;Железная&font_end; Праща</string>
+    <string name="item_bronze_slingshot">&font_bronze;Бронзовая&font_end; Праща</string>
+    <string name="item_silver_slingshot">&font_silver;Серебряная&font_end; Праща</string>
+    <string name="item_gold_slingshot">&font_gold;Золотая&font_end; Праща</string>
+    <string name="item_diamond_slingshot">&font_diamond;Алмазная&font_end; Праща</string>
+    <string name="item_obsidian_slingshot">&font_obsidian;Обсидиановая&font_end; Праща</string>
 
-    <string name="skill_bow_mastery">&font_wood;Bow &font_end;Mastery</string>
-    <string name="skill_crossbow_mastery">&font_speed;Crossbow &font_end;Mastery</string>
-    <string name="skill_slingshot_mastery">&font_speed;Slingshot &font_end;Mastery</string>
+    <string name="skill_bow_mastery">Владение &font_wood;Луком&font_end;</string>
+    <string name="skill_crossbow_mastery">Владение &font_speed;Арбалетом&font_end;</string>
+    <string name="skill_slingshot_mastery">Владение &font_speed;Пращой&font_end;</string>
 
-    <string name="skill_bow_mastery_desc">As it levels up, slightly increases the damage of shooting with a &font_wood;Bow&font_end;.</string>
-    <string name="skill_crossbow_mastery_desc">As it levels up, slightly increases the damage of shooting with a &font_speed;Crossbow&font_end;.</string>
-    <string name="skill_slingshot_mastery_desc">As it levels up, slightly increases the damage of shooting with a &font_speed;Slingshot&font_end;.</string>
+    <string name="skill_bow_mastery_desc">При повышении уровня немного увеличивается урон от выстрела из &font_wood;Лука&font_end;.</string>
+    <string name="skill_crossbow_mastery_desc">При повышении уровня немного увеличивается урон от выстрела из &font_speed;Арбалета&font_end;.</string>
+    <string name="skill_slingshot_mastery_desc">При повышении уровня немного увеличивается урон от выстрела из &font_speed;Пращи&font_end;.</string>
 
-    <string name="content_description_decrease_minimap_size">Decrease Minimap Size</string>
-    <string name="content_description_increase_minimap_size">Increase Minimap Size</string>
-    <string name="combat_shortcut_empty">(empty)</string>
-    <string name="combat_shortcut_skill">Skill</string>
-    <string name="combat_shortcut_spell">Spell</string>
+    <string name="content_description_decrease_minimap_size">Уменьшить размер Миникарты</string>
+    <string name="content_description_increase_minimap_size">Увеличить размер Миникарты</string>
+    <string name="combat_shortcut_empty">(пусто)</string>
+    <string name="combat_shortcut_skill">Навык</string>
+    <string name="combat_shortcut_spell">Заклинание</string>
 
     <string name="button_shortcut">*</string>
-    <string name="button_shortcut_content_description">Add to combat shortcut</string>
+    <string name="button_shortcut_content_description">Добавить быстрый доступ боя</string>
 
-    <string name="shortcut_title">Shortcut</string>
-    <string name="shortcut_message">Select combat shortcut to set.</string>
-    <string name="shortcut_1">Shortcut 1</string>
-    <string name="shortcut_2">Shortcut 2</string>
-    <string name="shortcut_toast">Added %1$s to combat shortcut %2$d!</string>
-    <string name="combat_shortcut_pet_attack">Pet Attack</string>
-    <string name="shortcut_pet_attack">Pet Attack</string>
+    <string name="shortcut_title">Быстрый доступ</string>
+    <string name="shortcut_message">Выберите быстрый доступ боя.</string>
+    <string name="shortcut_1">Быстрый доступ 1</string>
+    <string name="shortcut_2">Быстрый доступ 2</string>
+    <string name="shortcut_toast">Вы добавили %1$s на быстрый доступ боя %2$d!</string>
+    <string name="combat_shortcut_pet_attack">Атака питомца</string>
+    <string name="shortcut_pet_attack">Атака питомца</string>
 
-    <string name="food_trail_mix">&font_nut;Trail Mix&font_end;</string>
+    <string name="food_trail_mix">&font_nut;Походная смесь&font_end;</string>
 
-    <string name="island_discovered">Island Discovered</string>
+    <string name="island_discovered">Обнаружен остров</string>
 
-    <string name="island_arrival_speaking_natives">Speaking with the natives, you learn this %1$s island is called &font_cyan;%2$s&font_end;.</string>
-    <string name="island_arrival_sense_island">You sense this %1$s island is called &font_cyan;%2$s&font_end;.</string>
+    <string name="island_arrival_speaking_natives">Поговорив с туземцами, вы узнали, что этот %1$s остров называется &font_cyan;%2$s&font_end;.</string>
+    <string name="island_arrival_sense_island">Вы чувствуете, что %1$s остров называется &font_cyan;%2$s&font_end;.</string>
 
-    <string name="island_arrival_type_valley">You discover an island. It seems to be covered with grass, plenty of plants and small mountains.</string>
-    <string name="island_arrival_type_forest">You discover an island seemingly covered with trees and exotic monsters.</string>
-    <string name="island_arrival_type_mountain">You discover a mountainous island. There are lots of rocks, and you feel you\'ll need to climb a lot.</string>
-    <string name="island_arrival_type_swamp">You discover an island. The smell and the flies in the air are a sign of danger.</string>
-    <string name="island_arrival_type_savanna">You discover an island. There are scattered shrubs and isolated trees and the temperature is quite comfortable.</string>
-    <string name="island_arrival_type_jungle">You discover an island with thick trees, plants and lots of vegetation. Who knows what dangers lie ahead…</string>
-    <string name="island_arrival_type_desert">You discover an island. The sand and the sun are the main things you see around.</string>
-    <string name="island_arrival_type_tundra">You discover an island. The ice and the cold temperature makes you wonder if it is a good idea to explore this place.</string>
-    <string name="island_arrival_type_taiga">You discover an island. The cold temperature and the ice makes you wonder if it is a good idea to explore this place.</string>
-    <string name="island_arrival_type_mesa">You discover an island which seems to be a flat-topped hill bounded from all sides by steep escarpments.</string>
-    <string name="island_arrival_type_beach">You arrive at what seems to be an archipelago. You\'ll have to swim a lot if you want to explore all the secrets of this place.</string>
-    <string name="island_arrival_type_lake">You discover an island containing some sort of lake and abundant vegetation.</string>
-    <string name="island_arrival_type_barrens">You discover an island with a variety of biomes.</string>
-    <string name="island_arrival_type_volcano">You discover an island. The hot temperature and the vision of smoke are a sign of danger.</string>
-    <string name="island_arrival_type_high_mountains">You discover a mountainous island. There seem to be the highest mountains you\'ve ever seen.</string>
+    <string name="island_arrival_type_valley">Вы обнаружили остров. Кажется, он покрыт травой, разными растениями и небольшими горами.</string>
+    <string name="island_arrival_type_forest">Вы обнаружили остров, который наполнен деревьями и экзотическими монстрами.</string>
+    <string name="island_arrival_type_mountain">Вы обнаружили горный остров. Здесь много скал, и вы чувствуете, что вам придётся много карабкаться.</string>
+    <string name="island_arrival_type_swamp">Вы обнаружили остров. Запах и мухи в воздухе говорят об опасности.</string>
+    <string name="island_arrival_type_savanna">Вы обнаружили остров. Здесь есть отдельные кусты и деревья, а температура вполне комфортная.</string>
+    <string name="island_arrival_type_jungle">Вы обнаружили остров с густыми деревьями, растениями и большим количеством зелени. Кто знает, какие опасности подстерегают впереди…</string>
+    <string name="island_arrival_type_desert">Вы обнаружили остров. Кругом вы видите только песок и солнце.</string>
+    <string name="island_arrival_type_tundra">Вы обнаружили остров. Кругом лед и очень низкая температура. Вы задумались, а стоит ли вообще исследовать это место.</string>
+    <string name="island_arrival_type_taiga">Вы обнаружили остров. Кругом лед и очень низкая температура. Вы задумались, а стоит ли вообще исследовать это место.</string>
+    <string name="island_arrival_type_mesa">Вы обнаружили остров, кажущийся холмом с плоской вершиной, окруженным со всех сторон крутыми утёсами.</string>
+    <string name="island_arrival_type_beach">Вы оказываетесь, кажется, на архипелаге. Вам придётся много плавать, если вы хотите раскрыть все секреты этого места.</string>
+    <string name="island_arrival_type_lake">Вы обнаружили остров с каким-то озером и обилием растительности.</string>
+    <string name="island_arrival_type_barrens">Вы обнаружили остров с разными биомами.</string>
+    <string name="island_arrival_type_volcano">Вы обнаружили остров. Высокая температура и дым говорят об опасности.</string>
+    <string name="island_arrival_type_high_mountains">Вы обнаружили горный остров. На нем расположены самые высокие горы, которые вам только доводилось видеть.</string>
 
     <string name="island_arrival_type_giants">You discover an island where everything seems to be bigger than the regular islands you\'ve been before.</string>
     <string name="island_arrival_type_dragons">You discover an island where you smell sulfur and feel the presence of dangerous creatures.</string>
