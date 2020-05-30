@@ -3299,30 +3299,30 @@
     <string name="island_arrival_type_volcano">Vous découvrez une île. La température étouffante et la fumée en émanant vous mettent en garde d\'un potentiel danger.</string>
     <string name="island_arrival_type_high_mountains">Vous découvrez une île montagneuse. Vous n\'aviez jamais vu de montagnes aussi imposantes.</string>
 
-    <string name="island_arrival_type_giants">Vous découvrez une île immense, bien plus vaste que toutes celles que vous avez explorées jusqu'à présent.</string>
+    <string name="island_arrival_type_giants">Vous découvrez une île immense, bien plus vaste que toutes celles que vous avez explorées jusqu\'à présent.</string>
     <string name="island_arrival_type_dragons">Vous découvrez une île de laquelle émane une forte odeur de soufre. Vous sentez aussi la présence inquiétante de monstres dans les parages.</string>
     <string name="island_arrival_type_undead">Vous découvrez une île qui semble être dénuée de toute trace de vie.</string>
     <string name="island_arrival_type_plant">Vous découvrez une île à la végétation luxuriante. Elle doit être pleine de plantes dangereuses.</string>
     <string name="island_arrival_type_fey">Vous découvrez une île mystérieuse. Les arbres imposants et la dense végétation cachent des redoutables créatures exotiques.</string>
     <string name="island_arrival_type_beast">Vous découvrez une île. Le cri des bêtes demeurant ici vous glace le sang. Quel genre d’endroit est-ce donc ?</string>
-    <string name="island_arrival_type_humanoid">Vous découvrez une île. Le lieu à l'air banal mais vous avez la sensation qu'il sera difficile de distinguer vos alliés de vos ennemis.</string>
+    <string name="island_arrival_type_humanoid">Vous découvrez une île. Le lieu à l\'air banal mais vous avez la sensation qu\'il sera difficile de distinguer vos alliés de vos ennemis.</string>
     <string name="island_arrival_type_construct">Vous découvrez une île. Les monstres que vous sentez autour de vous ne semblent pas organiques mais en quelque sorte artificiels.</string>
-    <string name="island_arrival_type_elemental">Vous découvrez une île. Vous sentez une importante source d'énergie émanant de cette île. L'explorer semble périlleux.</string>
+    <string name="island_arrival_type_elemental">Vous découvrez une île. Vous sentez une importante source d\'énergie émanant de cette île. l\'explorer semble périlleux.</string>
     <string name="island_arrival_type_swarm">Vous découvrez une île. Le lieu semble être marécageux et vous entendez un bourdonnement constant.</string>
     <string name="island_arrival_type_ooze">Vous découvrez une île. Il ne semble y avoir rien dans les parages, mais quelque chose vous dit que cette impression est fausse.</string>
-    <string name="island_arrival_type_aberration">Vous découvrez une île. Cette île n'a rien d'habituel. Vous sentez que d'imposants monstres hideux y ont établi domicile.</string>
+    <string name="island_arrival_type_aberration">Vous découvrez une île. Cette île n\'a rien d\'habituel. Vous sentez que d\'imposants monstres hideux y ont établi domicile.</string>
 
     <string name="island_arrival_type_tyrant">Au moment où vous posez le pied sur cette île, vous ressentez des frissons et réalisez que ce ne sera pas de tout repos.</string>
-    <string name="island_arrival_type_hell">De la lave et du feu à perte de vue. C'est littéralement l'Enfer. Le lieu dégage une odeur de soufre et vous sentez la présence de nombreux êtres démoniaques.</string>
-    <string name="island_arrival_type_heaven">Les nuages, l'air frais recouvrant ce lieu… Vous avez le sentiment que c’est l’endroit le plus dangereux que vous ayez jamais visité.</string>
+    <string name="island_arrival_type_hell">De la lave et du feu à perte de vue. C\'est littéralement l\'Enfer. Le lieu dégage une odeur de soufre et vous sentez la présence de nombreux êtres démoniaques.</string>
+    <string name="island_arrival_type_heaven">Les nuages, l\'air frais recouvrant ce lieu… Vous avez le sentiment que c’est l’endroit le plus dangereux que vous ayez jamais visité.</string>
 
-    <string name="island_arrival_type_black_island">Au moment où vous posez le pied sur cette île, la vacuité du lieu et les étranges êtres le peuplant vous mettent profondément mal à l'aise.</string>
-    <string name="island_arrival_type_white_island">Au moment où vous posez le pied sur cette île, la vacuité du lieu et les étranges êtres le peuplant vous mettent profondément mal à l'aise.</string>
+    <string name="island_arrival_type_black_island">Au moment où vous posez le pied sur cette île, la vacuité du lieu et les étranges êtres le peuplant vous mettent profondément mal à l\'aise.</string>
+    <string name="island_arrival_type_white_island">Au moment où vous posez le pied sur cette île, la vacuité du lieu et les étranges êtres le peuplant vous mettent profondément mal à l\'aise.</string>
 
-    <string name="island_arrival_type_void_island">Cette île est différente de toutes les autres. Vous ne ressentez rien. Vous êtes enveloppé par le &font_void;néant &font_end;. Vous n'avez aucune idée de ce qui pourrait se produire.</string>
+    <string name="island_arrival_type_void_island">Cette île est différente de toutes les autres. Vous ne ressentez rien. Vous êtes enveloppé par le &font_void;néant &font_end;. Vous n\'avez aucune idée de ce qui pourrait se produire.</string>
 
-    <string name="island_arrival_type_infinity_island">Vous vous trouvez sur une île de l'infini. Ici, la réalité est distordue.</string>
-    <string name="island_arrival_type_treasure_island">Vous découvrez une petite île. Alors qu'il ne semble y avoir que du sable à perte de vue, vous sentez que quelque chose de grand vous attends.</string>
+    <string name="island_arrival_type_infinity_island">Vous vous trouvez sur une île de l\'infini. Ici, la réalité est distordue.</string>
+    <string name="island_arrival_type_treasure_island">Vous découvrez une petite île. Alors qu\'il ne semble y avoir que du sable à perte de vue, vous sentez que quelque chose de grand vous attends.</string>
 
     <string name="material_type_bolt">&font_wood;Boulon&font_end;</string>
 
@@ -3366,15 +3366,15 @@
     <string name="settings_show_combat_shortcuts">Activer raccourcis de combat</string>
 
     <string name="dungeon_enter_portal">Pénétrer le portail</string>
-    <string name="dungeon_entered_portal">Après avoir pénétré le portail, vous vous retrouvez à l'entrée du donjon !</string>
+    <string name="dungeon_entered_portal">Après avoir pénétré le portail, vous vous retrouvez à l\'entrée du donjon !</string>
 
     <string name="advantage_librarian">&font_wood;Libraire&font_end;</string>
-    <string name="advantage_librarian_desc">(Vous démarrez avec une recette de fabrication aléatoire, une potion d'&font_cyan;expérience &font_end;et 5 points de &font_cyan;compétence&font_end;)</string>
+    <string name="advantage_librarian_desc">(Vous démarrez avec une recette de fabrication aléatoire, une potion d\'&font_cyan;expérience &font_end;et 5 points de &font_cyan;compétence&font_end;)</string>
 
     <string name="dungeon_tutorial_title">Donjons</string>
     <string name="dungeon_tutorial_message_1">Bienvenue dans votre premier donjon, héros !</string>
     <string name="dungeon_tutorial_message_2">Tous les objets trouvés dans un donjon vous seront remis lorsque vous le quitterez.</string>
-    <string name="dungeon_tutorial_message_3">Vous ne pourrez pas changer votre équipement ni utiliser d'objets, etc… excepté en combat !</string>
+    <string name="dungeon_tutorial_message_3">Vous ne pourrez pas changer votre équipement ni utiliser d\'objets, etc… excepté en combat !</string>
     <string name="dungeon_tutorial_message_4">Un boss vous attend au dernier étage des donjons. Mais faites preuve de prudence, plus vous vous enfoncez dans le donjon, plus les monstres seront redoutables !</string>
     <string name="dungeon_tutorial_message_5">Bonne chance à vous. Soyez prudent !</string>
     <string name="button_next">Suivant</string>
@@ -3383,16 +3383,16 @@
 
     <string name="food_cooked_fish">&font_blue;Poisson &font_end;&font_white;cuit&font_end;</string>
     <string name="share_dialog_title">Partager</string>
-    <string name="share_dialog_message">Partagez le statut de votre héros sous forme de texte ou d'image !</string>
+    <string name="share_dialog_message">Partagez le statut de votre héros sous forme de texte ou d\'image !</string>
     <string name="button_share_image">Image</string>
     <string name="button_share_text">Texte</string>
 
     <string name="material_type_beetle_talisman">&font_beetle_talisman;Talisman scarabée&font_end;</string>
 
-    <string name="pyramid_its_closed">C'est fermé…</string>
-    <string name="pyramid_its_closed_can_open">C'est fermé mais ça a l'air de réagir à votre &font_beetle_talisman;talisman scarabée&font_end;…</string>
+    <string name="pyramid_its_closed">C\'est fermé…</string>
+    <string name="pyramid_its_closed_can_open">C\'est fermé mais ça a l\'air de réagir à votre &font_beetle_talisman;talisman scarabée&font_end;…</string>
     <string name="pyramid_interact">Interagir</string>
-    <string name="pyramid_opened">La pyramide aspire le &font_beetle_talisman;talisman scarabée &font_end;et s'ouvre !</string>
+    <string name="pyramid_opened">La pyramide aspire le &font_beetle_talisman;talisman scarabée &font_end;et s\'ouvre !</string>
 
     <string name="material_type_jade">&font_jade;Jade&font_end;</string>
     <string name="material_type_quartz">&font_quartz;Quartz&font_end;</string>
@@ -3416,18 +3416,18 @@
     <string name="title_the_creator_female">%1$s, la &font_asterisk_creator;Créatrice&font_end;</string>
     <string name="title_the_creator_no_gender">%1$s, le/la &font_asterisk_creator;Créateur&font_end;</string>
 
-    <string name="wise_have_creator_medal">Tu… Tu es fantastique ! Tu as tué le &font_asterisk_creator;créateur &font_end;et obtenu %s ? J'ai bien peur qu'il ne te reste plus qu'à utiliser le mode &font_asterisk_creator;Ascension&font_end;…</string>
+    <string name="wise_have_creator_medal">Tu… Tu es fantastique ! Tu as tué le &font_asterisk_creator;créateur &font_end;et obtenu %s ? J\'ai bien peur qu\'il ne te reste plus qu\'à utiliser le mode &font_asterisk_creator;Ascension&font_end;…</string>
 
-    <string name="wise_ascend_message_1">Veux-tu démarrer l'&font_alchemist;Ascension&font_end; ?</string>
+    <string name="wise_ascend_message_1">Veux-tu démarrer l\'&font_alchemist;Ascension&font_end; ?</string>
     <string name="creator_appeared_title">&font_asterisk_creator;Le Créateur &font_end;est apparu</string>
-    <string name="creator_appeared_message">Soudainement, un être suprême, tel que vous n'en avez jamais vu, apparaît devant vos yeux… Et vous savez, au plus profond de vous, que ce n'est autre qu'&font_asterisk_creator;Archison&font_end;, &font_asterisk_creator;le Créateur&font_end;.</string>
+    <string name="creator_appeared_message">Soudainement, un être suprême, tel que vous n\'en avez jamais vu, apparaît devant vos yeux… Et vous savez, au plus profond de vous, que ce n\'est autre qu\'&font_asterisk_creator;Archison&font_end;, &font_asterisk_creator;le Créateur&font_end;.</string>
     <string name="combat_monster_healed_completely">%s se soigne entièrement !</string>
 
-    <string name="item_info_creator_medal">C'est une médaille éblouisante que vous gardez en mémoire de la fois où vous avez vaincu &font_asterisk_creator;le Créateur&font_end;.</string>
+    <string name="item_info_creator_medal">C\'est une médaille éblouisante que vous gardez en mémoire de la fois où vous avez vaincu &font_asterisk_creator;le Créateur&font_end;.</string>
 
     <string name="wise_main_story_island_first_message">Bonjour, héros ! Je serais ici en cas de besoin !&br;&br;Parle-moi si tu veux te reposer ou quitter cet endroit…</string>
-    <string name="wise_main_story_island_second_message">Veux-tu restaurer ta &font_health;vie&font_end;, ton &font_mana;mana &font_end;et ta &font_hunger;faim &font_end;pour &font_gold;%1$d d'or&font_end; ? (Un &font_primary_light;&italic;[POINT DE SAUVEGARDE] &italic_end;&font_end;sera enregistré)&br;&br;Ou alors…&br;&br;Veux-tu quitter cet endroit ? L'île disparaîtra pour toujours et tu perdras la moitié de l'&font_gold;or &font_end;que tu transportes et qui se trouve dans la &font_gold;BANQUE&font_end;, et tu devras à nouveau chercher les &font_cyan;morceaux de carte&font_end;.</string>
-    <string name="wise_leave_island_confirmation_message">Es-tu sûr de vouloir partir ?&br;&br;L'île disparaîtra pour toujours et tu perdras la moitié de l'&font_gold;or &font_end;que tu transportes et qui se trouve dans la &font_gold;BANQUE&font_end;, et tu devras à nouveau chercher les &font_cyan;morceaux de carte&font_end;.</string>
+    <string name="wise_main_story_island_second_message">Veux-tu restaurer ta &font_health;vie&font_end;, ton &font_mana;mana &font_end;et ta &font_hunger;faim &font_end;pour &font_gold;%1$d d\'or&font_end; ? (Un &font_primary_light;&italic;[POINT DE SAUVEGARDE] &italic_end;&font_end;sera enregistré)&br;&br;Ou alors…&br;&br;Veux-tu quitter cet endroit ? l\'île disparaîtra pour toujours et tu perdras la moitié de l\'&font_gold;or &font_end;que tu transportes et qui se trouve dans la &font_gold;BANQUE&font_end;, et tu devras à nouveau chercher les &font_cyan;morceaux de carte&font_end;.</string>
+    <string name="wise_leave_island_confirmation_message">Es-tu sûr de vouloir partir ?&br;&br;l\'île disparaîtra pour toujours et tu perdras la moitié de l\'&font_gold;or &font_end;que tu transportes et qui se trouve dans la &font_gold;BANQUE&font_end;, et tu devras à nouveau chercher les &font_cyan;morceaux de carte&font_end;.</string>
 
     <string name="button_rest">Se reposer</string>
     <string name="button_leave_island">Partir</string>
