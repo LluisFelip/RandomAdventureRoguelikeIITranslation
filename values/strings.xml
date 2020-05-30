@@ -3888,4 +3888,9 @@
 
     <string name="saving_checkpoint">&font_primary_light;&italic;[SAVING CHECKPOINT…]&italic_end;&font_end;</string>
 
+
+    <!-- New strings -->
+    <string name="dropped_ammo_auto_looted_toast">You looted some of the used &font_wood;ammo&font_end;!</string>
+    <string name="settings_auto_loot_ammo_enabled">Combat auto loot ammo enabled</string>
+
 </resources>
