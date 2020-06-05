@@ -12,7 +12,7 @@ This is the main repository for the Random Adventure Roguelike II content transl
   <li>The <b>Russian</b> translation is in the <b>values-ru</b> folder. Translated by @kola132 and @MeMaxik (Discord).</li>
   <li>The <b>Korean</b> translation is in the <b>values-kr</b> folder. Translated by @RockstarZ (Discord).</li>
   <li>The <b>Czech</b> translation is in the <b>values-cs</b> folder. Translated by @BearerOfTheCurse (Discord).</li>
-  <li>The <b>Turkish</b> translation is in the <b>values-tr</b> folder. Translated by @CansuKarayel.</li>
+  <li>The <b>Turkish</b> translation is in the <b>values-tr</b> folder. Translated by @05190000219.</li>
   <li>The <b>Italian</b> translation is in the <b>values-it</b> folder. Translated by @CryKing.</li>
 </ul>
 
