@@ -115,10 +115,9 @@
     <!ENTITY font_coral "&lt;font color=&quot;#FF00BF&quot;&gt;">
     <!ENTITY font_legendary "&lt;font color=&quot;#FF920D&quot;&gt;">
     ]>
-
 <resources xmlns:tools="http://schemas.android.com/tools">
 
-<plurals name="quest_kill_monsters_text_giving" tools:ignore="MissingQuantity">
+    <plurals name="quest_kill_monsters_text_giving" tools:ignore="MissingQuantity">
         <item quantity="one">Preciso que mate %1$s %2$s monstro</item>
         <item quantity="other">Preciso que mate %1$s %2$s monstros</item>
     </plurals>
@@ -212,19 +211,24 @@
     <string name="advantage_blacksmith">&font_silver;Forja&font_end;</string>
     <string name="advantage_noble">&font_gold;Nobreza&font_end;</string>
     <string name="advantage_librarian">&font_wood;Bibliotecologia&font_end;</string>
-    <string name="advantage_librarian_desc">(Você irá começar com uma receita aleatória de criação, uma poção de &font_cyan;experiência &font_end; e 5 pontos de &font_cyan;habilidade&font_end;)</string>
+    <string name="advantage_librarian_desc">(Você irá começar com uma receita aleatória de criação, uma poção de &font_cyan;experiência &font_end;
+        e 5 pontos de &font_cyan;habilidade&font_end;)</string>
     <string name="advantage_random_desc">(Você irá começar com um talento aleatório)</string>
     <string name="advantage_warrior_desc">(Você irá começar com uma &font_attack;Arma&font_end;, um &font_defense;Escudo&font_end;, e com uma peça de &font_defense;Armadura&font_end;)</string>
     <string name="advantage_ranger_desc">(Você irá começar com um &font_speed;Arco &font_end;e um pouco de munição)</string>
 
 
     <!-- NOTE FOR LANGUAGES ALREADY TRANSLATED: Translate these three  - - - - - - - - - - - - - -->
-     <string name="advantage_wizard_desc">(Você irá começar sabendo um &font_mana;Feitiço &font_end;aleatório e virá com um &font_mana;Cajado&font_end;)</string>
-    <string name="advantage_cleric_desc">(Você irá começar sabendo um &font_mana;Feitiço &font_end;de &font_health;Cura&font_end; e virá com um &font_mana;Cajado&font_end;)</string>
-    <string name="advantage_petmaster_desc">(Você irá começar sabendo o  &font_mana;Feitiço &font_end; &font_red;Capturar&font_end; &font_pet;monstro&font_end;, um Monstro &font_cyan;com&font_end; &font_red;0 de ND&font_end; como &font_pet;Mascote &font_end;e uma &font_cyan;Coleira&font_end; de &font_pet;Mascote &font_end;)</string>
+    <string name="advantage_wizard_desc">(Você irá começar sabendo um &font_mana;Feitiço &font_end;aleatório e virá com um &font_mana;Cajado&font_end;)</string>
+    <string name="advantage_cleric_desc">(Você irá começar sabendo um &font_mana;Feitiço &font_end;de &font_health;Cura&font_end;
+        e virá com um &font_mana;Cajado&font_end;)</string>
+    <string name="advantage_petmaster_desc">(Você irá começar sabendo o &font_mana;Feitiço &font_end; &font_red;Capturar&font_end; &font_pet;monstro&font_end;, um Monstro &font_cyan;com&font_end; &font_red;0 de ND&font_end;
+        como &font_pet;Mascote &font_end;e uma &font_cyan;Coleira&font_end;
+        de &font_pet;Mascote &font_end;)</string>
     <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
 
-    <string name="advantage_worker_desc">(Você irá começar com uma &font_cyan;Ferramenta&font_end aleatória;)</string>
+    <string name="advantage_worker_desc">(Você irá começar com uma &font_cyan;Ferramenta&font_end;
+        aleatória;)</string>
     <string name="advantage_alchemist_desc">(Você irá começar sabendo como preparar &font_cyan;1 &font_end;tipo de poção e virá com &font_cyan;3 &font_end;materiais aleatórios)</string>
     <string name="advantage_blacksmith_desc">(Você irá começar sabendo como criar uma &font_attack;Arma&font_end;, um &font_defense;Escudo&font_end;, uma peça de &font_defense;Armadura &font_end;e virá com &font_cyan;3 &font_end;materiais aleatórios)</string>
     <string name="advantage_noble_desc">(Você irá começar com mais &font_gold;Ouro&font_end;)</string>
@@ -345,7 +349,8 @@
     <string name="button_scrap_per_gold">Desmanchar: &font_gold;%1$d&font_end; Ouro</string>
     <string name="button_feedback">&font_cyan;Feedback&font_end;</string>
     <string name="button_blacksmith_upgrade_equipment">Melhorar &font_green;\*&font_end;Equipamento</string>
-    <string name="button_blacksmith_scrap_equipment">&font_copper;Desmanchar&font_end; Equipamento</string>
+    <string name="button_blacksmith_scrap_equipment">&font_copper;Desmanchar&font_end;
+        Equipamento</string>
     <string name="button_blacksmith_craft_bars">Criar &font_gold;Barras&font_end;</string>
     <string name="button_scrap">Desmanchar</string>
 
@@ -423,7 +428,8 @@
     <string name="shop_empty_message_inventory">Você não tem itens…</string>
     <string name="shop_bought_item">Você comprou %1$s por &font_gold;%2$d&font_end;.</string>
     <string name="shop_sold_item">Você vendeu %1$s por &font_gold;%2$d&font_end;.</string>
-    <string name="shop_sold_item_with_amount">Você vendeu &font_cyan;%1$d&font_end; x %2$s por &font_gold;%3$d&font_end;.</string>
+    <string name="shop_sold_item_with_amount">Você vendeu &font_cyan;%1$d&font_end;
+        x %2$s por &font_gold;%3$d&font_end;.</string>
     <string name="shop_sell_all_question">Vender tudo?</string>
     <string name="shop_spell_already_known">&italic;&font_mana;Feitiço &font_end;já conhecido&italic_end;</string>
 
@@ -450,10 +456,11 @@
     <string name="item_dark_orb">Esfera Sombria</string>
     <string name="item_magic_stone_transformed_item">Você transformou %1$s em %2$s!</string>
 
-    <string name="purifying_seed_plant_message">Plantar &font_plant;Semente &font_end;&font_purifying;Purificadora &font_end?; &br;&br;Ao virar uma &font_wood;Árvore&font_end; &font_purifying;Purificadora&font_end;, irá impedir que monstros renasçam na ilha.&br;&br;Lembre-se de regá-la com um &font_iron;Balde &font_end; de &font_water;Água&font_end;para que cresça.</string>
+    <string name="purifying_seed_plant_message">Plantar &font_plant;Semente &font_end;&font_purifying;Purificadora &font_end;? &br;&br;Ao virar uma &font_wood;Árvore&font_end; &font_purifying;Purificadora&font_end;, irá impedir que monstros renasçam na ilha.&br;&br;Lembre-se de regá-la com um &font_iron;Balde &font_end;
+        de &font_water;Água&font_end;para que cresça.</string>
     <string name="purifying_seed_island_already_purified">Uma força mágica impede que você a plante… (A ilha já está purificada…)</string>
     <string name="purifying_seed_island_already_planted_purified_seed">Uma força mágica impede que você a plante (A ilha já possui uma font_plant;Semente &font_end;&font_purifying;Purificadora &font_end;plantada…)</string>
-    <string name="purifying_seed_planted">Você plantou a font_plant;Semente &font_end;&font_purifying;Purificadora &font_end.</string>
+    <string name="purifying_seed_planted">Você plantou a font_plant;Semente &font_end;&font_purifying;Purificadora &font_end;.</string>
     <string name="purifying_seed_watered_magically_grows">A font_plant;Semente &font_end;&font_purifying;Purificadora &font_end;magicalmente se tornou uma &font_wood;Árvore&font_end; &font_purifying;Purificadora&font_end;! Você sente uma sensação purificadora enquanto a ilha é purificada.</string>
     <string name="purifying_tree_chop_title">Cortar &font_wood;Árvore&font_end; &font_purifying;Purificadora&font_end;?</string>
     <string name="purifying_tree_chop_message">Se cortar a &font_wood;Árvore&font_end; &font_purifying;Purificadora&font_end;, a ilha deixará de ser purificada e os monstros renascerão…</string>
@@ -534,24 +541,29 @@
     <string name="item_info_merchants_mark">Este símbolo especial pode ser valioso para algo ou alguém…</string>
     <string name="item_info_tool_chopping_axe">Use isto para &font_wood;cortar árvores &font_end;a fim de obter &font_wood;Madeira&font_end;.</string>
     <string name="item_info_tool_pickaxe">Use isto para &font_stone;minerar pedras &font_end;para obter &font_stone;Pedra &font_end;e outros minerais.</string>
-    <string name="item_info_tool_fishing_rod">Use isto para &font_cyan;pescar&font_end; em um &font_cyan;Local de Pesca&font_end;.</string>
+    <string name="item_info_tool_fishing_rod">Use isto para &font_cyan;pescar&font_end;
+        em um &font_cyan;Local de Pesca&font_end;.</string>
     <string name="item_info_tool_net">Use isto para capturar um &font_insect;inseto&font_end;.</string>
     <string name="item_info_tool_skinning_knife">Use isto para &font_skin;esfolar &font_end;um &font_green;cadáver de monstro &font_end;para tentar obter &font_skin;Pele&font_end;.</string>
     <string name="item_info_tool_meat_cleaver">Use isto para talhar um &font_green;cadáver de monstro &font_end;para tentar obter &font_green;Carne de Monstro&font_end;.</string>
-    <string name="item_info_monster_flesh_edible">Coma isto para reduzir &font_green;%1$d&font_end; pontos de fome.</string>
+    <string name="item_info_monster_flesh_edible">Coma isto para reduzir &font_green;%1$d&font_end;
+        pontos de fome.</string>
     <string name="item_info_monster_flesh_not_edible">Cozinhe isto em uma &font_attack;Fogueira &font_end;para poder comer.</string>
-    <string name="item_info_nautical_chart">Usado por marinheiros para viajar a uma ilha de &font_cyan;tipo&font_end; específico.</string>
+    <string name="item_info_nautical_chart">Usado por marinheiros para viajar a uma ilha de &font_cyan;tipo&font_end;
+        específico.</string>
     <string name="item_info_whetstone">Usada para reparar uma &font_cyan;Ferramenta&font_end;.</string>
     <string name="item_info_pet_collar">Vá até a tela &font_pet;Mascote&font_end; para poder colocar esta coleira em um &font_pet;Mascote &font_end;e renomeá-lo!</string>
     <string name="item_info_magic_stone">Use isto para melhorar o ataque e a inteligência de um equipamento.</string>
     <string name="item_info_island_soul">A misteriosa alma de uma ilha…</string>
-    <string name="item_info_spellbook">Leia isto para aprender o &font_mana;feitiço&font_end; contido: %1$s.</string>
+    <string name="item_info_spellbook">Leia isto para aprender o &font_mana;feitiço&font_end;
+        contido: %1$s.</string>
     <string name="item_info_teleport_stone">Use isto para retornar à última &font_inn;Estalagem &font_end;onde descansou ou ao ponto inicial desta &font_cyan;ilha&font_end;.</string>
     <string name="item_info_piece_of_map">Um &font_cyan;Pedaço de Mapa&font_end;. Você precisará encontrar mais pedaços para descobrir mais…</string>
     <string name="item_info_dark_orb">É uma misteriosa &font_dark_orb;Esfera Sombria&font_end;.</string>
     <string name="item_info_bomb_normal">Jogue esta &font_bomb;Bomba&font_end; em seu inimigo durante o combate.</string>
     <string name="item_info_bomb_fire">Jogue esta &font_bomb;Bomba&font_end; de &font_attack;Fogo&font_end;em seu inimigo durante o combate. Pode &font_attack;queimar&font_end;.</string>
-    <string name="item_info_bomb_ice">Jogue esta &font_bomb;Bomba&font_end; de &font_ice;Gelo&font_end; em seu inimigo durante o combate. Pode &font_ice;congelar&font_end;.</string>
+    <string name="item_info_bomb_ice">Jogue esta &font_bomb;Bomba&font_end; de &font_ice;Gelo&font_end;
+        em seu inimigo durante o combate. Pode &font_ice;congelar&font_end;.</string>
     <string name="item_info_bomb_electric">Jogue esta &font_bomb;Bomba &font_end;&font_electric;Elétrica &font_end;em seu inimigo durante o combate. Pode &font_electric;paralizar&font_end;.</string>
     <string name="item_info_equipment_attack">Ataque: &font_attack;%1$d&font_end;</string>
     <string name="item_info_equipment_defense">Defesa: &font_defense;%1$d&font_end;</string>
@@ -559,12 +571,14 @@
     <string name="item_info_equipment_intelligence">Inteligência: &font_mana;%1$d&font_end;</string>
     <string name="item_info_iron_bucket_empty">Encha-o com água ou outros tipos de líquido…</string>
     <string name="item_info_iron_bucket_water">Jogue isto para apagar uma &font_attack;Fogueira &font_end;ou jogue-o em um &font_red;monstro &font_end;durante o combate!</string>
-    <string name="item_info_purifying_seed">Plante e regue com um &font_iron;Balde&font_end; de &font_water;Água&font_end; para fazê-la se tornar uma &font_wood;Árvore&font_end; &font_purifying;Purificadora&font_end;.&br;&br;Uma &font_wood;Árvore&font_end; &font_purifying;Purificadora&font_end; impede que monstros &italic;renasçam &italic_end;na ilha.</string>
+    <string name="item_info_purifying_seed">Plante e regue com um &font_iron;Balde&font_end;
+        de &font_water;Água&font_end;
+        para fazê-la se tornar uma &font_wood;Árvore&font_end; &font_purifying;Purificadora&font_end;.&br;&br;Uma &font_wood;Árvore&font_end; &font_purifying;Purificadora&font_end;
+        impede que monstros &italic;renasçam &italic_end;na ilha.</string>
     <string name="item_info_iron_bucket_lava">Jogue isto em um &font_red;monstro &font_end;durante o combate!</string>
     <string name="item_info_iron_bucket_mana">Beba isto para recuperar todo seu &font_mana;mana&font_end;.</string>
     <string name="item_info_a_letter_for_the_king">Ela possui um &font_gold;Selo Real&font_end;. Você devia levar isto para o &font_gold;Rei&font_end;.</string>
     <string name="item_royal">&font_gold;Real&font_end;</string>
-
 
 
     <string name="materialsource_exhausted">%1$s se esgotou…</string>
@@ -580,7 +594,6 @@
     <string name="tool_chopping_axe">Machado de cortar &font_wood;Lenha&font_end;</string>
     <string name="tool_pickaxe">&font_silver;Picareta&font_end;</string>
     <string name="tool_fishing_rod">Vara de &font_cyan;Pescar&font_end;</string>
-    <string name="tool_broke">%1$s quebrou!</string>
     <string name="tool_action_chopping">&font_wood;Cortando&font_end;</string>
     <string name="tool_action_mining">&font_silver;Minerando&font_end;</string>
     <string name="tool_action_fishing">&font_cyan;Pescando&font_end;</string>
@@ -851,10 +864,12 @@
     <string name="food_cactus_salad">Salada de &font_cactus;Cactos&font_end;</string>
     <string name="food_coconut_soda">Refrigerante de &font_coconut;Coco&font_end;</string>
     <string name="food_fish_salad">Salada de &font_cyan;Peixe&font_end;</string>
-    <string name="food_desert_fish">&font_cyan;Peixe&font_end; do &font_desert;Deserto&font_end;</string>
+    <string name="food_desert_fish">&font_cyan;Peixe&font_end;
+        do &font_desert;Deserto&font_end;</string>
     <string name="food_marrow">&font_bone;Tutano&font_end;</string>
     <string name="food_meat_stick">&font_copper;Carne &font_end;no &font_wood;Espeto&font_end;</string>
-    <string name="food_vegetable_stick">&font_wood;Espetinho&font_end; de &font_plant;Legumes&font_end;</string>
+    <string name="food_vegetable_stick">&font_wood;Espetinho&font_end;
+        de &font_plant;Legumes&font_end;</string>
     <string name="food_milk">Leite</string>
     <string name="food_cereal">Cereal</string>
     <string name="food_fruit">Fruta</string>
@@ -866,9 +881,10 @@
     <string name="food_cucumber">Pepino</string>
     <string name="text_level_up_increasal">
         A quantidade de pontos de &font_health;vida&font_end; aumentou para &font_health;%1$d&font_end;&br;
-        A quantidade de pontos de &font_mana;mana&font_end; aumentou para &font_mana;%2$d&font_end;&br; O &font_attack;Ataque&font_end; aumentou para
-        &font_attack;%3$d&font_end;&br; A &font_defense;Defesa&font_end; aumentou para
-        &font_defense;%4$d&font_end;&br; A &font_speed;Velocidade&font_end; aumentou para &font_speed;%5$d&font_end;&br;
+        A quantidade de pontos de &font_mana;mana&font_end; aumentou para &font_mana;%2$d&font_end;&br;
+        O &font_attack;Ataque&font_end; aumentou para &font_attack;%3$d&font_end;&br;
+        A &font_defense;Defesa&font_end; aumentou para &font_defense;%4$d&font_end;&br;
+        A &font_speed;Velocidade&font_end; aumentou para &font_speed;%5$d&font_end;&br;
         A &font_mana;Inteligência&font_end; aumentou para &font_mana;%6$d&font_end;&br;
     </string>
 
@@ -897,7 +913,8 @@
     <string name="combat_player_flee_fails">Você tentou fugir e falhou…</string>
     <string name="combat_player_flee_succeeds">Você conseguiu fugir!</string>
     <string name="combat_killed_monster">Você matou %1$s!</string>
-    <string name="combat_player_is_dead">%1$s&br; morreu no nível &font_cyan;%2$d&font_end;!</string>
+    <string name="combat_player_is_dead">%1$s&br;
+        morreu no nível &font_cyan;%2$d&font_end;!</string>
     <string name="combat_corpse_name">Cadáver de %1$s</string>
     <string name="combat_monster_attacking_symbol">-&font_dark_red;A&font_end;-</string>
     <string name="combat_cant_flee_from_monster">Não pode fugir %1$s…</string>
@@ -1107,7 +1124,8 @@
     <string name="quest_completed_quest">%1$s completadas</string>
     <string name="quest_item_found">Você encontrou %1$s!</string>
     <string name="quest_bring_crafted_food_text_giving">Estou com fome! Eu adoraria comer %1$s… Você poderia &font_gold;comprar &font_end;ou &font_cyan;criar &font_end;e trazer para mim?</string>
-    <string name="quest_bring_crafted_food_text_desc">Você precisa &font_gold;comprar &font_end;ou &font_cyan;criar&font_end; %1$s e levar para %2$s em %3$s,%4$s</string>
+    <string name="quest_bring_crafted_food_text_desc">Você precisa &font_gold;comprar &font_end;ou &font_cyan;criar&font_end;
+        %1$s e levar para %2$s em %3$s,%4$s</string>
     <string name="quest_bring_crafted_food_text_complete_desc">Agradeço! Adoro isso!</string>
     <string name="quest_bring_crafted_food_text_negative">Acho que você não tem %1$s… Volte quando tiver &font_gold;comprado &font_end;ou &font_cyan;criado &font_end;!</string>
     <string name="quest_bring_crafted_food_text_bring">Você tem %1$s? Dê-me, por favor!</string>
@@ -1117,13 +1135,14 @@
     <string name="quest_kill_single_monster_text_giving">Mate %1$s em &font_cyan;%2$d&font_end;, &font_cyan;%3$d&font_end; </string>
     <string name="quest_find_lost_item_text_giving">Eu perdi %1$s… A última vez que vi, acho que estava pelas bandas de %2$s, %3$s… Por favor, &font_cyan;procure &font_end;e traga de volta para mim. Agradeço muito!</string>
     <string name="quest_find_lost_item_text_reward">Aqui está sua recompensa: %1$s!</string>
-    <string name="quest_find_lost_item_text_quest_screen_find">Você precisa achar %1$s. Disseram-lhe para &font_cyan;procurar&font_end; pelas bandas de %2$s, %3$s.</string>
+    <string name="quest_find_lost_item_text_quest_screen_find">Você precisa achar %1$s. Disseram-lhe para &font_cyan;procurar&font_end;
+        pelas bandas de %2$s, %3$s.</string>
     <string name="quest_find_lost_item_text_quest_screen_return">Leve %1$s de volta a %2$s em %3$s, %4$s.</string>
     <string name="quest_find_lost_item_text_villager_complete">Agradeço por ter trazido %1$s de volta para mim!</string>
     <string name="quest_find_item_now_return_to">Você encontrou %1$s! Agora, leve de volta a &font_cyan;%2$s &font_end;em &font_cyan;%3$d&font_end;, &font_cyan;%4$d&font_end;.</string>
     <string name="quest_find_lost_item_tile_content_name">Este é um item da missão. Você precisa levá-lo de volta ao dono.</string>
 
-   <string name="quest_find_lost_item_item_name_001" tools:ignore="UnusedResources">uma caixa mágica</string>
+    <string name="quest_find_lost_item_item_name_001" tools:ignore="UnusedResources">uma caixa mágica</string>
     <string name="quest_find_lost_item_item_name_002" tools:ignore="UnusedResources">uma bolsa misteriosa</string>
     <string name="quest_find_lost_item_item_name_003" tools:ignore="UnusedResources">um documento secreto</string>
     <string name="quest_find_lost_item_item_name_004" tools:ignore="UnusedResources">uma coisa fedorenta</string>
@@ -1194,7 +1213,7 @@
     <string name="quest_find_lost_item_item_name_069" tools:ignore="UnusedResources">um zíper</string>
     <string name="quest_find_lost_item_item_name_070" tools:ignore="UnusedResources">uma blusa elegante</string>
     <string name="quest_find_lost_item_item_name_071" tools:ignore="UnusedResources">um relógio de energia solar</string>
-    
+
     <string name="quest_bring_items_text_giving">Eu preciso de %1$s %2$s…</string>
     <string name="quest_bring_items_text_quest_screen">Traga %1$s %2$s para %3$s em %4$s, %5$s</string>
     <string name="quest_bring_items_text_villager_not_enough">Ah, eu preciso de %1$s %2$s, você deve encontrar mais %3$s…</string>
@@ -1211,7 +1230,6 @@
     <string name="quest_rescue_someone_following_you">&font_quest;%1$s &font_end;está aqui, seguindo você…</string>
 
 
-    
     <string name="quest_rescue_someone_name_1" tools:ignore="UnusedResources">A princesa</string>
     <string name="quest_rescue_someone_name_2" tools:ignore="UnusedResources">O príncipe</string>
     <string name="quest_rescue_someone_name_3" tools:ignore="UnusedResources">A rainha</string>
@@ -1333,24 +1351,33 @@
     <string name="item_temporary_potion_attack_remove">O efeito da Poção de &font_attack;Ataque&font_end;acabou…</string>
     <string name="item_temporary_potion_defense">Poção de &font_defense;Defesa&font_end;</string>
     <string name="item_temporary_potion_defense_info">Tome isto para aumentar temporariamente a &font_defense;Defesa&font_end;.</string>
-    <string name="item_temporary_potion_defense_quaff">&font_defense;Defesa&font_end; temporariamente aumentada para &font_defense;%1$d&font_end;.</string>
+    <string name="item_temporary_potion_defense_quaff">&font_defense;Defesa&font_end;
+        temporariamente aumentada para &font_defense;%1$d&font_end;.</string>
     <string name="item_temporary_potion_defense_remove">O efeito da Poção de &font_defense;Defesa&font_end;acabou…</string>
     <string name="item_temporary_potion_speed">Poção de &font_speed;Velocidade&font_end;</string>
     <string name="item_temporary_potion_speed_info">Tome isto para aumentar temporariamente a &font_speed;Velocidade&font_end;.</string>
-    <string name="item_temporary_potion_speed_quaff">&font_speed;Velocidade&font_end; temporariamente aumentada para &font_speed;%1$d&font_end;.</string>
+    <string name="item_temporary_potion_speed_quaff">&font_speed;Velocidade&font_end;
+        temporariamente aumentada para &font_speed;%1$d&font_end;.</string>
     <string name="item_temporary_potion_speed_remove">O efeito da Poção de &font_speed;Velocidade&font_end;acabou…</string>
     <string name="item_temporary_potion_intelligence">Poção de &font_mana;Inteligência&font_end;</string>
     <string name="item_temporary_potion_intelligence_info">Tome isto para aumentar temporariamente a &font_mana;Inteligência&font_end;.</string>
-    <string name="item_temporary_potion_intelligence_quaff">&font_mana;Inteligência&font_end; temporariamente aumentada para &font_mana;%1$d&font_end;.</string>
+    <string name="item_temporary_potion_intelligence_quaff">&font_mana;Inteligência&font_end;
+        temporariamente aumentada para &font_mana;%1$d&font_end;.</string>
     <string name="item_temporary_potion_intelligence_remove">O efeito da Poção de &font_mana;Inteligência&font_end;acabou…</string>
-    <string name="item_temporary_potion_hot_protection">Poção de &font_green;Proteção&font_end; contra o &font_red;Calor&font_end; [Temporário]</string>
+    <string name="item_temporary_potion_hot_protection">Poção de &font_green;Proteção&font_end;
+        contra o &font_red;Calor&font_end; [Temporário]</string>
     <string name="item_temporary_potion_hot_protection_info">Tome isto para ter proteção temporária contra o &font_red;Calor&font_end;.</string>
-    <string name="item_temporary_potion_hot_protection_quaff">&font_green;Proteção&font_end; temporária contra o &font_red;Calor&font_end; </string>
-    <string name="item_temporary_potion_hot_protection_remove">O efeito da Poção de &font_green;Proteção&font_end; contra o &font_red;Calor&font_end; acabou...</string>
-    <string name="item_temporary_potion_cold_protection">Poção de &font_green;Proteção&font_end; contra o &font_tundra;Frio&font_end; [Temporário]</string>
+    <string name="item_temporary_potion_hot_protection_quaff">&font_green;Proteção&font_end;
+        temporária contra o &font_red;Calor&font_end; </string>
+    <string name="item_temporary_potion_hot_protection_remove">O efeito da Poção de &font_green;Proteção&font_end;
+        contra o &font_red;Calor&font_end; acabou...</string>
+    <string name="item_temporary_potion_cold_protection">Poção de &font_green;Proteção&font_end;
+        contra o &font_tundra;Frio&font_end; [Temporário]</string>
     <string name="item_temporary_potion_cold_protection_info">Tome isto para ter proteção temporária contra o &font_tundra;Frio&font_end;.</string>
-    <string name="item_temporary_potion_cold_protection_quaff">&font_green;Proteção&font_end; temporária contra o &font_tundra;Frio&font_end; </string>
-    <string name="item_temporary_potion_cold_protection_remove">O efeito da Poção de &font_green;Proteção&font_end; contra o &font_tundra;Frio&font_end; acabou...</string>
+    <string name="item_temporary_potion_cold_protection_quaff">&font_green;Proteção&font_end;
+        temporária contra o &font_tundra;Frio&font_end; </string>
+    <string name="item_temporary_potion_cold_protection_remove">O efeito da Poção de &font_green;Proteção&font_end;
+        contra o &font_tundra;Frio&font_end; acabou...</string>
 
     <string name="rarity_common">Comum</string>
     <string name="rarity_uncommon">Incomum</string>
@@ -1382,7 +1409,8 @@
 
     <string name="skills_title">&font_cyan;Habilidade&font_end;</string>
     <string name="skills_skill_learnt">Você aprendeu a Habilidade %1$s!</string>
-    <string name="skills_tree_title">&font_cyan;Árvore de Habilidades&font_end; (&font_cyan;%1$d&font_end; Pontos de Habilidade)</string>
+    <string name="skills_tree_title">&font_cyan;Árvore de Habilidades&font_end; (&font_cyan;%1$d&font_end;
+        Pontos de Habilidade)</string>
     <string name="skills_empty_message">Você ainda não tem nenhuma &font_cyan;Habilidade&font_end;…</string>
     <string name="skills_empty_tree_message">Você não tem nenhuma &font_cyan;Habilidade &font_end;para aprender…</string>
     <string name="skills_necessary_skill_text">Habilidade necessária: &font_cyan;%1$s&font_end;</string>
@@ -1409,7 +1437,7 @@
     <string name="action_treasure_hunter_action_description_positive_singular">Você detectou &font_cyan;%1$d &font_end;&font_chest;item oculto&font_end;.</string>
     <string name="action_treasure_hunter_action_description_positive_plural">Você detectou &font_cyan;%1$d &font_end;&font_chest;itens ocultos&font_end;.</string>
     <string name="action_treasure_hunter_action_description_negative">Não há &font_chest;itens ocultos&font_end;...</string>
-    
+
     <string name="skill_fisherman">&font_cyan;Pesca&font_end;</string>
     <string name="skill_woodcutter">&font_wood;Corte de lenha&font_end;</string>
     <string name="skill_miner">&font_silver;Mineração&font_end;</string>
@@ -1443,7 +1471,6 @@
     <string name="skill_absorbs_mana">Absorve &font_mana;mana&font_end; do inimigo </string>
     <string name="skill_hunger_cost">Fome: &font_hunger;%1$s&font_end;</string>
     <string name="skill_mana_cost">Mana: &font_mana;%1$s&font_end;</string>
-
 
 
     <string name="action_trader_no_merchants_pending">Não restam mais &font_gold;mercadores &font_end;para serem encontrados nesta ilha.</string>
@@ -1614,13 +1641,16 @@
     <string name="pets_withdraw">Você retirou %1$s.</string>
     <string name="pets_x_following_you">%1$s está aqui, seguindo você</string>
     <string name="pets_normal_attack">Atacar</string>
-    <string name="pets_cant_cast_action">%1$s não pode lançar %2$s (não possui &font_mana;mana&font_end; suficiente)</string>
+    <string name="pets_cant_cast_action">%1$s não pode lançar %2$s (não possui &font_mana;mana&font_end;
+        suficiente)</string>
     <string name="pets_attacked">%1$s atacou!</string>
     <string name="pets_pet_action">%1$s usou &font_red;%2$s&font_end;</string>
-    <string name="pets_text_pet_dealt_damage_to_monster">%1$s perdeu %2$s &font_red;%3$d &font_end; pontos de vida!</string>
+    <string name="pets_text_pet_dealt_damage_to_monster">%1$s perdeu %2$s &font_red;%3$d &font_end;
+        pontos de vida!</string>
     <string name="pets_combat_dont_have_an_active_pet">Você não tem um &font_pet;Mascote &font_end;ativo</string>
     <string name="pets_text_pet_level_up_to_level">O nível de %1$s subiu para %2$d</string>
-    <string name="pets_empty_message">Você não tem nenhum &font_pet;Mascote&font_end; no momento…</string>
+    <string name="pets_empty_message">Você não tem nenhum &font_pet;Mascote&font_end;
+        no momento…</string>
     <string name="pets_rename_pet">Renomear Mascote</string>
     <string name="pets_rename_pet_message">Escolha um novo nome para %1$s!</string>
     <string name="pets_rename_pet_success">Você renomeou %1$s! Legal!</string>
@@ -1630,7 +1660,7 @@
 
     <string name="text_player_experience_given">Você ganhou&font_cyan;%1$d &font_end;pontos de experiência!</string>
     <string name="text_pet_experience_given">%1$s ganhou &font_cyan;%2$d &font_end;pontos de experiência!</string>
-    
+
     <string name="animal_fed_flesh">Você alimentou %1$s com %2$s.</string>
     <string name="animal_is_here_following_you">%1$s está aqui, seguindo você</string>
     <string name="animal_is_here">%1$s está aqui</string>
@@ -1719,7 +1749,8 @@
     <string name="tile_content_type_gate_to_heaven">Portão do Paraíso</string>
     <string name="tile_content_type_chest">Baú</string>
     <string name="tile_content_type_professional">Profissionalismo</string>
-    <string name="tile_content_type_pet_collar">&font_cyan;Coleira&font_end; de &font_pet;Mascote&font_end;</string>
+    <string name="tile_content_type_pet_collar">&font_cyan;Coleira&font_end;
+        de &font_pet;Mascote&font_end;</string>
     <string name="tile_content_type_merchant_master">Mestre Mercador</string>
     <string name="tile_content_type_magic_stone">&font_bronze;Pedra&font_end; &font_mana;Mágica&font_end;</string>
     <string name="tile_content_type_bomb">Bomba</string>
@@ -1735,21 +1766,25 @@
     <string name="tile_content_type_royal_seal">&font_gold;Selo Real&font_end;</string>
     <string name="tile_content_type_iron_bucket_water">&font_iron;Balde&font_end; de &font_water;Água&font_end;</string>
     <string name="tile_content_type_iron_bucket_lava">&font_iron;Balde&font_end; de &font_attack;Lava&font_end;</string>
-    <string name="tile_content_type_iron_bucket_mana">&font_iron;Balde&font_end; de &font_end;Mana&font_mana;</string>
+    <string name="tile_content_type_iron_bucket_mana">&font_iron;Balde&font_end;
+        de &font_end;Mana&font_mana;</string>
 
-     <string name="wooden_sign_write">Escreva na &font_wooden_sign;Placa de Madeira&font_end;</string>
+    <string name="wooden_sign_write">Escreva na &font_wooden_sign;Placa de Madeira&font_end;</string>
     <string name="wooden_sign_text_chopped_the">Você cortou %1$s.</string>
     <string name="wooden_sign_wrote_message">Mensagem escrita em %1$s.</string>
 
     <string name="iron_bucket_pickup_water">Você pegou &font_water;água &font_end;com o &font_iron;Balde de Ferro&font_end;.</string>
     <string name="iron_bucket_pickup_lava">Você pegou &font_attack;lava &font_end;com o &font_iron;Balde de Ferro&font_end;.</string>
     <string name="iron_bucket_pickup_mana">Você pegou &font_mana;mana &font_end;com o &font_iron;Balde de Ferro&font_end;.</string>
-    <string name="iron_bucket_put_out_firecamp_ash">Você apagou a &font_attack;Fogueira &font_end;com o &font_iron;Balde&font_end; de &font_end;Água&font_water;.</string>
-    <string name="iron_bucket_drank_mana">Você bebeu o &font_iron;Balde&font_end; de &font_mana;Mana&font_end; e restaurou todo o &font_mana;mana&font_end;.</string>
+    <string name="iron_bucket_put_out_firecamp_ash">Você apagou a &font_attack;Fogueira &font_end;com o &font_iron;Balde&font_end;
+        de &font_end;Água&font_water;.</string>
+    <string name="iron_bucket_drank_mana">Você bebeu o &font_iron;Balde&font_end; de &font_mana;Mana&font_end;
+        e restaurou todo o &font_mana;mana&font_end;.</string>
 
     <string name="bank_welcome_message" tools:ignore="PluralsCandidate">Boas-vindas a %1$s!&br;&br;Nós mantemos seu &font_gold;Ouro &font_end;seguro aqui.&br;&br;Você atualmente tem &font_gold;%2$d Ouro &font_end;no %3$s.&br;</string>
     <string name="bank_deposit_message" tools:ignore="PluralsCandidate">Quanto você quer &font_gold;depositar&font_end;?&br;&br;Você atualmente tem &font_gold;%1$d Ouro&font_end;.</string>
-    <string name="bank_withdraw_message" tools:ignore="PluralsCandidate">Quanto você quer &font_gold;sacar&font_end;?&br;&br;Você atualmente tem &font_gold;%1$d Ouro&font_end; no %2$s.</string>
+    <string name="bank_withdraw_message" tools:ignore="PluralsCandidate">Quanto você quer &font_gold;sacar&font_end;?&br;&br;Você atualmente tem &font_gold;%1$d Ouro&font_end;
+        no %2$s.</string>
     <string name="bank_deposit">(Depositar)</string>
     <string name="bank_withdraw">(Sacar)</string>
     <string name="bank_introduce_a_valid_amount">Digite um valor válido!</string>
@@ -1775,7 +1810,8 @@
     <string name="stash_empty_message">Não há itens…</string>
     <string name="stash_title">&font_wood;Armazém&font_end; (&font_cyan;%1$d&font_end;/&font_cyan;%2$d&font_end;)</string>
     <string name="stash_inventory_title_stash">&font_wood;Inventário&font_end; (&font_cyan;%1$d&font_end;/&font_cyan;%2$d&font_end;)</string>
-    <string name="stash_store_couldnt">Não foi possível armazenar %1$s, pois o &font_wood;Armazém&font_end; está cheio!</string>
+    <string name="stash_store_couldnt">Não foi possível armazenar %1$s, pois o &font_wood;Armazém&font_end;
+        está cheio!</string>
     <string name="stash_increase_title">Aumentar o tamanho do &font_wood;Armazém&font_end;?</string>
     <string name="stash_increase_message" tools:ignore="PluralsCandidate">Você quer aumentar o tamanho do &font_wood;Armazém &font_end;de &font_cyan;%1$d &font_end;para &font_cyan;%2$d&font_end;? Vai custar &font_gold;%3$d Ouro&font_end;.</string>
 
@@ -1792,9 +1828,10 @@
     <string name="witch_dialog_text_mark_given">Eu não preciso de mais &font_mushroom;Cogumelos&font_end;. Agradeço...</string>
     <string name="witch_received">A &font_witch;Bruxa&font_end; lhe deu %1$s!</string>
     <string name="witch_hat">&font_witch;Chapéu de Bruxa&font_end;</string>
-    <string name="witch_not_enough_mushrooms">Você não tem &font_mushroom;Cogumelos&font_end; suficientes…</string>
+    <string name="witch_not_enough_mushrooms">Você não tem &font_mushroom;Cogumelos&font_end;
+        suficientes…</string>
 
-<string name="wizard_tower_dialog_message_1">Você entrou no %1$s e encontrou um velho &font_mana;Mago&font_end;…</string>
+    <string name="wizard_tower_dialog_message_1">Você entrou no %1$s e encontrou um velho &font_mana;Mago&font_end;…</string>
     <string name="wizard_tower_dialog_message_2">Boas-vindas a %1$s… Você quer se tornar um &font_mana;Mago &font_end;como eu?</string>
     <string name="wizard_tower_dialog_message_2_already_given">Boas-vindas de volta a %1$s… Ah… é você… Eu já lhe dei meu Livro de &font_mana;Feitiços&font_end;… Você terá que aprender mais magias por conta própria…</string>
     <string name="wizard_tower_dialog_message_3_no">Então saia daqui e não desperdice meu tempo!</string>
@@ -1804,7 +1841,8 @@
     <string name="wizard_tower_dialog_message_5_no">Vá embora e pare de desperdiçar meu tempo!</string>
     <string name="wizard_tower_dialog_message_5_yes">Você faria qualquer coisa para se tornar um &font_mana;Mago&font_end;?</string>
     <string name="wizard_tower_dialog_message_6_no">Estou cansado de você, estou muito ocupado hoje!</string>
-    <string name="wizard_tower_dialog_message_6_yes">Certo, então, diga-me. Você conseguiria entender este Livro de &font_mana;Feitiços&font_end; que eu lhe darei?</string>
+    <string name="wizard_tower_dialog_message_6_yes">Certo, então, diga-me. Você conseguiria entender este Livro de &font_mana;Feitiços&font_end;
+        que eu lhe darei?</string>
     <string name="wizard_tower_dialog_message_7_no">Então ficarei com ele.</string>
     <string name="wizard_tower_dialog_message_7_yes">Aqui está. Lembre-se, para aprender um feitiço, você precisa saber o tipo de feitiço do nível anterior àquela magia.</string>
     <string name="wizard_name">&font_mana;Velho Mago&font_end;</string>
@@ -1866,8 +1904,10 @@
     <string name="needs_two_dots">Necessidades:</string>
     <string name="well_drink_message">Beber do %1$s?</string>
     <string name="well_message_empty">O %1$s está vazio…</string>
-    <string name="castle_message_cant_pass">Pare! Você não tem permissão para entrar!&br;&br;Somente aqueles que têm algo a oferecer para o &font_gold;Rei&font_end; têm permissão de passagem!</string>
-    <string name="castle_message_have_letter">Olá! Você diz que possui uma &font_cyan;Carta&font_end; para o &font_gold;Rei&font_end;?&br;&br;Venha, entre no &font_stone;Castelo&font_end; e entregue-a ao Rei…</string>
+    <string name="castle_message_cant_pass">Pare! Você não tem permissão para entrar!&br;&br;Somente aqueles que têm algo a oferecer para o &font_gold;Rei&font_end;
+        têm permissão de passagem!</string>
+    <string name="castle_message_have_letter">Olá! Você diz que possui uma &font_cyan;Carta&font_end;
+        para o &font_gold;Rei&font_end;?&br;&br;Venha, entre no &font_stone;Castelo&font_end; e entregue-a ao Rei…</string>
     <string name="castle_king_title">&font_gold;Rei&font_end;</string>
     <string name="castle_king_message_1">Você tem algo para mim?&br;&br;Dê-me…</string>
     <string name="castle_king_message_2">Obrigado… Oh, interessante… Vou ler sozinho.</string>
@@ -1877,8 +1917,10 @@
     <string name="castle_king_message_6">Ah, acho que você quer algo em troca…</string>
     <string name="castle_king_message_7">Certo… aqui está! Agora saia do meu &font_stone;Castelo&font_end;!</string>
     <string name="castle_king_gives_you_this">O &font_gold;Rei&font_end; lhe deu %1$s!</string>
-    <string name="castle_message_royal_seal_message">Vejo que você tem um &font_gold;Selo Real &font_end;. Se você me der &font_cyan;%1$d &font_end;, eu lhe darei um &font_iron;Escudo&font_end; &font_gold;Real&font_end; em troca. Você quer?</string>
-    <string name="castle_message_royal_seal_not_enough">Você não tem &font_gold;Selos Reais&font_end; o suficiente… Volte quando tiver pelo menos &font_cyan;%1$d&font_end;!</string>
+    <string name="castle_message_royal_seal_message">Vejo que você tem um &font_gold;Selo Real &font_end;. Se você me der &font_cyan;%1$d &font_end;, eu lhe darei um &font_iron;Escudo&font_end; &font_gold;Real&font_end;
+        em troca. Você quer?</string>
+    <string name="castle_message_royal_seal_not_enough">Você não tem &font_gold;Selos Reais&font_end;
+        o suficiente… Volte quando tiver pelo menos &font_cyan;%1$d&font_end;!</string>
     <string name="bar_caps">Bar</string>
     <string name="bar_text_question_eat_at_the" tools:ignore="PluralsCandidate">Você quer comer por &font_gold;%1$d Ouro&font_end;?</string>
     <string name="bar_not_hungry">Sem fome…</string>
@@ -1897,8 +1939,10 @@
     <string name="troll_pay_or_fight" tools:ignore="PluralsCandidate">Eu sou %1$s! Esta é minha ponte! Se quiser passar por ela, terá que pagar &font_gold;%2$d Ouro&font_end;, ou vai morrer pelas minhas mãos!</string>
     <string name="troll_not_enough_gold">Você não tem &font_gold;Ouro&font_end; suficiente! %1$s lhe ataca!</string>
     <string name="troll_leaves_happily_with_your_money">%1$s vai embora feliz com o seu dinheiro…</string>
-    <string name="explorer_you_dont_have_the_necessary_island_soul" tools:ignore="UnusedResources">Você não tem a &font_cyan;Alma da Ilha&font_end; necessária…</string>
-    <string name="explorer_im_looking_for_an_island_soul">Olá! Eu sou um explorador fervoroso e estou procurando por %1$s! Se você por acaso tiver, poderia me dar?&br;&br;Eu lhe darei um item &font_cyan;especial&font_end; em troca!</string>
+    <string name="explorer_you_dont_have_the_necessary_island_soul" tools:ignore="UnusedResources">Você não tem a &font_cyan;Alma da Ilha&font_end;
+        necessária…</string>
+    <string name="explorer_im_looking_for_an_island_soul">Olá! Eu sou um explorador fervoroso e estou procurando por %1$s! Se você por acaso tiver, poderia me dar?&br;&br;Eu lhe darei um item &font_cyan;especial&font_end;
+        em troca!</string>
     <string name="explorer_already_given">Olá! Agradeço pela %1$s! Ainda estou tentando descobrir o que fazer com isso… Para frente e avante!</string>
     <string name="explorer_gaven_you">%1$s lhe deu %2$s!</string>
     <string name="waterfall_info">Há uma linda &font_water;Cachoeira&font_end; aqui. Você a admira por alguns momentos antes de continuar a sua aventura.</string>
@@ -1926,15 +1970,19 @@
 
     <string name="merchant_master_marks_exchanged_message">Ah, é você de novo… Agradeço pela contribuição à &font_gold;Guilda dos Mercadores&font_end;.</string>
     <string name="merchant_master_no_business_with_you">Não tenho negócios para tratar com você…</string>
-    <string name="merchant_master_marks_exchange_message">Ah, olá! Vejo que você tem a &font_cyan;Marca do Mercador&font_end;…&br;&br;Você estaria interessado em contribuir para a &font_gold;Guilda dos Mercadores&font_end;?&font_cyan;%1$d&font_end; &font_cyan;Marcas&font_end; serão suficientes.&br;&br;Eu lhe darei isto em troca:&br;%2$s.</string>
+    <string name="merchant_master_marks_exchange_message">Ah, olá! Vejo que você tem a &font_cyan;Marca do Mercador&font_end;…&br;&br;Você estaria interessado em contribuir para a &font_gold;Guilda dos Mercadores&font_end;?&font_cyan;%1$d&font_end; &font_cyan;Marcas&font_end;
+        serão suficientes.&br;&br;Eu lhe darei isto em troca:&br;%2$s.</string>
     <string name="merchant_master_marks_exchange_success_message">Aqui estão! Agradeço!&br;&br;Como prometido, lhe darei %1$s!&br;Ah, e boas-vindas à &font_gold;Guilda dos Mercadores&font_end;…</string>
-    <string name="merchant_master_not_enough">Parece que você não tem &font_cyan;Marcas do Mercador&font_end; suficientes…&br;&br;Volte quando tiver &font_cyan;%1$d&font_end;…</string>
+    <string name="merchant_master_not_enough">Parece que você não tem &font_cyan;Marcas do Mercador&font_end;
+        suficientes…&br;&br;Volte quando tiver &font_cyan;%1$d&font_end;…</string>
 
     <string name="temple_explore_the_temple_it_seems_dangerous">Explorar %1$s? Parece perigoso…</string>
-    <string name="temple_explore_1">Você entrou em %1$s. Há um longo corredor e, no final, você encontra duas portas: uma &font_red;porta vermelha&font_end; e uma &font_blue;porta azul&font_end;. Qual você irá abrir?</string>
+    <string name="temple_explore_1">Você entrou em %1$s. Há um longo corredor e, no final, você encontra duas portas: uma &font_red;porta vermelha&font_end;
+        e uma &font_blue;porta azul&font_end;. Qual você irá abrir?</string>
     <string name="temple_explore_1_red_door">&font_red;Porta vermelha&font_end;</string>
     <string name="temple_explore_1_blue_door">&font_blue;Porta azul&font_end;</string>
-    <string name="temple_explore_2_a">Você segue pelo longo corredor e, no final, encontra uma alavanca. Parece que dá para virá-la para a &font_cyan;direita&font_end; ou para a &font_cyan;esquerda&font_end;. Para que direção você irá virá-la?</string>
+    <string name="temple_explore_2_a">Você segue pelo longo corredor e, no final, encontra uma alavanca. Parece que dá para virá-la para a &font_cyan;direita&font_end;
+        ou para a &font_cyan;esquerda&font_end;. Para que direção você irá virá-la?</string>
     <string name="temple_explore_2_a_switch_left">&font_cyan;Esquerda&font_end;</string>
     <string name="temple_explore_2_a_switch_right">&font_cyan;Direita&font_end;</string>
     <string name="temple_explore_2_b">Você encontrou um quarto grande com móveis antigos e empoeirados. Ao olhar ao redor, você vê dois botões na parede à frente. Qual você vai apertar?</string>
@@ -1944,14 +1992,16 @@
     <string name="temple_explore_2_b_first_button_2">Finalmente, você chega a um quarto pequeno, sem nada além de um pequeno &font_wood;baú de madeira&font_end;. Abri-lo?</string>
     <string name="temple_explore_2_b_first_button_open_yes">Sim</string>
     <string name="temple_explore_2_b_first_button_open_no">Não</string>
-    <string name="temple_explore_2_b_first_button_open_decide_to_open_1" tools:ignore="PluralsCandidate">Você abriu o &font_wood;baú de madeira&font_end; e encontrou &font_gold;%1$d Ouro&font_end;!</string>
+    <string name="temple_explore_2_b_first_button_open_decide_to_open_1" tools:ignore="PluralsCandidate">Você abriu o &font_wood;baú de madeira&font_end;
+        e encontrou &font_gold;%1$d Ouro&font_end;!</string>
     <string name="temple_explore_2_b_first_button_open_decide_to_open_2">Após celebrar o achado, você vê uma janela que estranhamente se liga com o lado de fora do templo. (Como isso é possível? Você escorregou tobogã abaixo!)</string>
     <string name="temple_explore_2_b_first_button_open_decide_to_open_3">Você pulou para fora do templo pela janela e percebe que a entrada foi repentinamente bloqueada por rochas. Melhor deixar esse templo para lá.</string>
     <string name="temple_explore_2_b_first_button_open_decide_to_not_open_1">Você decide não abrir o &font_wood;baú de madeira&font_end;. Você encontrou uma janela que estranhamente se liga com lado de fora do templo. (Como isso é possível? Você escorregou tobogã abaixo!)</string>
     <string name="temple_explore_2_b_first_button_open_decide_to_not_open_2">Você pulou para fora do templo pela janela e percebe que a entrada foi repentinamente bloqueada por rochas. Melhor deixar esse templo para lá.</string>
     <string name="temple_explore_2_b_second_button_1">Após apertar o segundo botão, algo atingiu a sua cabeça e você ficou inconsciente.</string>
     <string name="temple_explore_2_b_second_button_2">Você abriu os olhos e estava fora do templo. Você percebe que há rochas bloqueando o local onde havia a entrada.</string>
-    <string name="temple_explore_3_a">Assim que você puxou a alavanca, uma parede secreta se abriu e você entrou nela. Há um &font_gold;baú de Ouro&font_end; adiante! Abri-lo?</string>
+    <string name="temple_explore_3_a">Assim que você puxou a alavanca, uma parede secreta se abriu e você entrou nela. Há um &font_gold;baú de Ouro&font_end;
+        adiante! Abri-lo?</string>
     <string name="temple_explore_3_a_open_yes">Sim</string>
     <string name="temple_explore_3_a_open_no">Não</string>
     <string name="temple_explore_3_a_opening_1">Você tentou abrir o &font_gold;baú de Ouro&font_end;, mas assim que o tocou, sentiu um choque elétrico e ficou inconsciente.</string>
@@ -1964,10 +2014,13 @@
     <string name="temple_explore_4_a_1">Você segue pelo caminho mais escuro e continua andando até que encontra uma parede. Quando se vira para voltar ao local de onde veio, encontra uma nova parede.</string>
     <string name="temple_explore_4_a_2">Você está preso. Após ficar perdido por um bom tempo, fica inconsciente…</string>
     <string name="temple_explore_4_a_3">Você abriu os olhos e estava fora do templo. Você percebe que há rochas bloqueando o local onde havia a entrada.</string>
-    <string name="temple_explore_4_b_1">Você segue pelo caminho normal por um tempo até que encontra uma parede com uma &font_red;tocha&font_end; suspeita. O que você faz? Você &font_cyan;a puxa&font_end; ou &font_cyan;a vira&font_end; para o lado?</string>
+    <string name="temple_explore_4_b_1">Você segue pelo caminho normal por um tempo até que encontra uma parede com uma &font_red;tocha&font_end;
+        suspeita. O que você faz? Você &font_cyan;a puxa&font_end; ou &font_cyan;a vira&font_end;
+        para o lado?</string>
     <string name="temple_explore_4_b_pull_it">&font_cyan;Puxar&font_end;</string>
     <string name="temple_explore_4_b_turn_it">&font_cyan;Virar&font_end;</string>
-    <string name="temple_explore_5_a">De repente, as paredes à sua volta se transformam e surge um grande salão dourado. Há um &font_silver;baú de prata&font_end; no meio do salão. Você vai abri-lo?</string>
+    <string name="temple_explore_5_a">De repente, as paredes à sua volta se transformam e surge um grande salão dourado. Há um &font_silver;baú de prata&font_end;
+        no meio do salão. Você vai abri-lo?</string>
     <string name="temple_explore_5_a_yes">Sim</string>
     <string name="temple_explore_5_a_no">Não</string>
     <string name="temple_explore_5_a_yes_consequence_1" tools:ignore="PluralsCandidate">Você abriu o &font_silver;baú de prata&font_end;! Há &font_gold;%1$d Ouro &font_end;e %2$s! Você os apanha, e então um gás misterioso se espalha, fazendo você perder a consciência.</string>
@@ -1994,7 +2047,8 @@
     <string name="monster_info_action" tools:ignore="UnusedResources"><t>%1$s - &font_attack;Atacar&font_end;: &font_attack;%2$d&font_end;</t></string>
     <string name="monster_info_challenge_rating">&font_white;Classificação do desafio&font_end;: &font_cyan;%1$d&font_end;</string>
 
-    <string name="skill_tree_button_with_sp">Árvore de Habilidades (&font_cyan;%1$d&font_end; SP)</string>
+    <string name="skill_tree_button_with_sp">Árvore de Habilidades (&font_cyan;%1$d&font_end;
+        SP)</string>
     <string name="skill_sacrificer">&font_red;Sacrifício&font_end;</string>
     <string name="skill_sacrificer_description">Você pode \"Sacrificar\" o corpo de um monstro aos deuses. Eles lhe recompensarão com uma pequena quantia de &font_gold;Ouro&font_end;.</string>
     <string name="skill_sacrificed_corpse_to_the_gods">Você sacrificou %1$s… Você misteriosamente recebeu &font_gold;%2$d &font_end;Ouro…</string>
@@ -2012,10 +2066,13 @@
     <string name="skill_hiker">&font_cyan;Caminhada&font_end;</string>
     <string name="skill_hiker_description">Reduz o aumento da fome ao andar.</string>
     <string name="skill_unbreakable">&font_health;Inquebrável&font_end;</string>
-    <string name="skill_unbreakable_description">Ao ser atingido pelo ataque de um &font_red;monstro&font_end; que poderia ser fatal, você sobrevive com &font_health;1&font_end; ponto de vida. Cuidado com danos causados pela fome ou clima…</string>
-    <string name="skill_unbreakable_skill_saves_you">Sua habilidade &font_cyan;Inquebrável&font_end; lhe salvou!</string>
+    <string name="skill_unbreakable_description">Ao ser atingido pelo ataque de um &font_red;monstro&font_end;
+        que poderia ser fatal, você sobrevive com &font_health;1&font_end; ponto de vida. Cuidado com danos causados pela fome ou clima…</string>
+    <string name="skill_unbreakable_skill_saves_you">Sua habilidade &font_cyan;Inquebrável&font_end;
+        lhe salvou!</string>
     <string name="skill_berserk">&font_attack;Berserk&font_end;</string>
-    <string name="skill_berserk_description">Em combate, usar o comando "Ataque" terá o dano aumentado em &font_cyan;10% &font_end;a cada turno. O bônus &font_cyan;Berserk&font_end; será perdido ao usar um comando diferente em combate.</string>
+    <string name="skill_berserk_description">Em combate, usar o comando "Ataque" terá o dano aumentado em &font_cyan;10% &font_end;a cada turno. O bônus &font_cyan;Berserk&font_end;
+        será perdido ao usar um comando diferente em combate.</string>
     <string name="skill_berserk_increased_to">O bônus &font_attack;Berserk &font_end;aumentou para &font_cyan;x%1$s&font_end;!</string>
     <string name="skill_berserk_lost">O bônus &font_attack;Berserk&font_end; foi perdido…</string>
     <string name="skill_chef">&font_food;Chef&font_end;</string>
@@ -2079,7 +2136,8 @@
     <string name="spells_empty_message">Você ainda não conhece nenhum &font_mana;Feitiço&font_end;…</string>
     <string name="spell_fireball_name">&font_attack;Bola de Fogo&font_end;</string>
     <string name="spell_fireball_desc">Lança uma &font_attack;bola de fogo &font_end;no inimigo. Pode &font_attack;queimar&font_end;.</string>
-    <string name="spell_fireball_desc_combat">Você lançou uma &font_attack;bola de fogo&font_end;  contra %1$s! %2$s perdeu &font_red;%3$d &font_end;pontos de vida.</string>
+    <string name="spell_fireball_desc_combat">Você lançou uma &font_attack;bola de fogo&font_end;
+        contra %1$s! %2$s perdeu &font_red;%3$d &font_end;pontos de vida.</string>
     <string name="spell_firebreath_name">&font_attack;Sopro de Fogo&font_end;</string>
     <string name="spell_firebreath_desc">Sopra um grande cone de &font_attack;chamas&font_end;. Pode &font_attack;queimar&font_end;.</string>
     <string name="spell_firebreath_desc_combat">Você soprou um grande cone de &font_attack;chamas &font_end;contra %1$s! %2$s perdeu &font_red;%3$d &font_end;pontos de vida.</string>
@@ -2112,7 +2170,8 @@
     <string name="spell_icebolt_desc_combat">Você lançou um &font_ice;raio de gelo&font_end; contra %1$s! %2$s perdeu &font_red;%3$d &font_end;pontos de vida.</string>
     <string name="spell_icespear_name">&font_ice;Lança de Gelo&font_end;</string>
     <string name="spell_icespear_desc">Arremessa uma &font_ice;lança de gelo&font_end;. Pode &font_ice;congelar&font_end;.</string>
-    <string name="spell_icespear_desc_combat">Você arremessou uma &font_ice;lança de gelo&font_end; contra %1$s! %2$s perdeu &font_red;%3$d &font_end;pontos de vida.</string>
+    <string name="spell_icespear_desc_combat">Você arremessou uma &font_ice;lança de gelo&font_end;
+        contra %1$s! %2$s perdeu &font_red;%3$d &font_end;pontos de vida.</string>
     <string name="spell_icearmor_name">&font_ice;Armadura de Gelo&font_end;</string>
     <string name="spell_icearmor_desc">Cerca você com uma &font_ice;armadura de gelo&font_end;. O inimigo receberá dano de gelo quando atacá-lo.</string>
     <string name="spell_icearmor_desc_combat">Você lançou a &font_ice;armadura de gelo&font_end;!</string>
@@ -2122,7 +2181,8 @@
     <string name="spell_frostfire_desc_combat">Você lançou &font_ice;fogo gelado&font_end; contra %1$s! %2$s perdeu &font_red;%3$d &font_end;pontos de vida.</string>
     <string name="spell_freezingbomb_name">&font_ice;Explosão Gelada&font_end;</string>
     <string name="spell_freezingbomb_desc">Provoca uma &font_ice;explosão gelada&font_end;. Sempre &font_ice;congela&font_end;.</string>
-    <string name="spell_freezingbomb_desc_combat">Você provocou uma &font_ice;explosão gelada&font_end; contra %1$s! %2$s perdeu &font_red;%3$d &font_end;pontos de vida.</string>
+    <string name="spell_freezingbomb_desc_combat">Você provocou uma &font_ice;explosão gelada&font_end;
+        contra %1$s! %2$s perdeu &font_red;%3$d &font_end;pontos de vida.</string>
     <string name="spell_windpush_name">&font_spell_wind;Empurrão de Vento&font_end;</string>
     <string name="spell_windpush_desc">Empurra o inimigo com uma &font_spell_wind;ventania&font_end;. Pode &font_spell_wind;bloquear&font_end;.</string>
     <string name="spell_windpush_desc_combat">Você empurrou %1$s com uma &font_spell_wind;ventania&font_end;! %2$s perdeu &font_red;%3$d &font_end;pontos de vida.</string>
@@ -2133,10 +2193,12 @@
     <string name="spell_airwave_desc">Lança uma grande &font_spell_wind;onda de ar&font_end;. Pode &font_spell_wind;bloquear&font_end;.</string>
     <string name="spell_airwave_desc_combat">Você invocou uma grande &font_spell_wind;onda de ar &font_end;contra %1$s! %2$s perdeu &font_red;%3$d &font_end;pontos de vida.</string>
     <string name="spell_windhole_name">&font_spell_wind;Buraco de Vento&font_end;</string>
-    <string name="spell_windhole_desc">Invoca um &font_spell_wind;buraco de vento&font_end; letal.</string>
+    <string name="spell_windhole_desc">Invoca um &font_spell_wind;buraco de vento&font_end;
+        letal.</string>
     <string name="spell_windhole_desc_combat">Você invocou um &font_spell_wind;buraco de vento &font_end;letal sobre %1$s! %2$s perdeu &font_red;%3$d &font_end;pontos de vida.</string>
     <string name="spell_tornado_name">&font_spell_wind;Tornado&font_end;</string>
-    <string name="spell_tornado_desc">Invoca um &font_spell_wind;tornado&font_end; poderoso.</string>
+    <string name="spell_tornado_desc">Invoca um &font_spell_wind;tornado&font_end;
+        poderoso.</string>
     <string name="spell_tornado_desc_combat">Você invocou um &font_spell_wind;tornado &font_end;poderoso sobre %1$s! %2$s perdeu &font_red;%3$d &font_end;pontos de vida.</string>
     <string name="spell_electricjolt_name">&font_electric;Choque Elétrico&font_end;</string>
     <string name="spell_electricjolt_desc">Atinge com um &font_electric;choque elétrico&font_end;. Pode &font_electric;paralisar&font_end;.</string>
@@ -2145,13 +2207,15 @@
     <string name="spell_electricwhip_desc">Retalha o oponente com um &font_electric;chicote elétrico&font_end;. Pode &font_electric;paralisar&font_end;.</string>
     <string name="spell_electricwhip_desc_combat">Você retalhou %1$s com um &font_electric;chicote elétrico&font_end;! %2$s perdeu &font_red;%3$d &font_end;pontos de vida.</string>
     <string name="spell_lightningshout_name">&font_electric;Grito Relâmpago&font_end;</string>
-    <string name="spell_lightningshout_desc">Lança um &font_electric;grito relâmpago&font_end; poderoso. Pode &font_electric;paralisar&font_end;.</string>
+    <string name="spell_lightningshout_desc">Lança um &font_electric;grito relâmpago&font_end;
+        poderoso. Pode &font_electric;paralisar&font_end;.</string>
     <string name="spell_lightningshout_desc_combat">Você lançou um &font_electric;grito relâmpago &font_end;contra %1$s! %2$s perdeu &font_red;%3$d &font_end;pontos de vida.</string>
     <string name="spell_thunder_name">&font_electric;Trovão&font_end;</string>
     <string name="spell_thunder_desc">Invoca um &font_electric;trovão&font_end;. Pode &font_electric;paralisar&font_end;.</string>
     <string name="spell_thunder_desc_combat">Você invocou um &font_electric;trovão &font_end;sobre %1$s! %2$s perdeu &font_red;%3$d &font_end;pontos de vida.</string>
     <string name="spell_electricstorm_name">&font_electric;Tempestade Elétrica&font_end;</string>
-    <string name="spell_electricstorm_desc">Invoca uma &font_electric;tempestade elétrica&font_end; poderosa. Sempre &font_electric;paralisa&font_end;.</string>
+    <string name="spell_electricstorm_desc">Invoca uma &font_electric;tempestade elétrica&font_end;
+        poderosa. Sempre &font_electric;paralisa&font_end;.</string>
     <string name="spell_electricstorm_desc_combat">Você invocou uma &font_electric;tempestade elétrica &font_end;poderosa sobre %1$s! %2$s perdeu &font_red;%3$d &font_end;pontos de vida.</string>
     <string name="spell_capture_monster_name">&font_pet;Capturar&font_end; &font_red;Monstro&font_end;</string>
     <string name="spell_capture_monster_desc">Tenta &font_pet;capturar &font_end;o &font_red;monstro &font_end;inimigo para transformá-lo em &font_pet;Mascote&font_end;. Quanto maior for o nível, maior será a chance de sucesso na captura.</string>
@@ -2159,7 +2223,8 @@
     <string name="spell_capture_monster_combat_fail">Falhou! Você não conseguiu &font_pet;capturar &font_end;%1$s.</string>
     <string name="spell_calmmonster_name">&font_pet;Acalmar&font_end; &font_red;Monstro&font_end;</string>
     <string name="spell_calmmonster_desc">Tenta &font_pet;acalmar &font_end;um &font_red;monstro &font_end;para aumentar a chance de &font_pet;capturá-lo&font_end;. Também permite &font_cyan;fugir&font_end;.</string>
-    <string name="spell_calmmonster_desc_combat_success">Você &font_pet;acalmou&font_end; %1$s!</string>
+    <string name="spell_calmmonster_desc_combat_success">Você &font_pet;acalmou&font_end;
+        %1$s!</string>
     <string name="spell_calmmonster_desc_combat_fails">Você falhou em &font_pet;acalmar &font_end;%1$s…</string>
     <string name="text_monster_is_already_calmed">%1$s já está calmo!</string>
     <string name="text_cant_calm_this_monster">Você não pode acalmar este monstro…</string>
@@ -2167,7 +2232,8 @@
     <string name="spell_punchofstone_desc">Cria um punho feito de &font_wood;pedra&font_end; e golpeia o inimigo.</string>
     <string name="spell_punchofstone_desc_combat">Você criou um punho feito de &font_wood;pedra &font_end;e golpeou %1$s! %2$s perdeu &font_red;%3$d &font_end;pontos de vida.</string>
     <string name="spell_stalactite_name">&font_wood;Estalactite&font_end;</string>
-    <string name="spell_stalactite_desc">Cria uma &font_wood;estalactite&font_end; sobre o inimigo.</string>
+    <string name="spell_stalactite_desc">Cria uma &font_wood;estalactite&font_end;
+        sobre o inimigo.</string>
     <string name="spell_stalactite_desc_combat">Você criou uma &font_wood;estalactite&font_end; que caiu sobre %1$s! %2$s perdeu &font_red;%3$d &font_end;pontos de vida.</string>
     <string name="spell_stonespikes_name">&font_wood;Espigões de Pedra&font_end;</string>
     <string name="spell_stonespikes_desc">Ergue um conjunto de grandes &font_wood;espigões de pedra &font_end;sob o inimigo.</string>
@@ -2176,17 +2242,24 @@
     <string name="spell_earthquake_desc">Invoca um &font_wood;terremoto&font_end; poderoso.</string>
     <string name="spell_earthquake_desc_combat">Você invocou um &font_wood;terremoto &font_end;poderoso sob %1$s! %2$s perdeu &font_red;%3$d &font_end;pontos de vida.</string>
     <string name="spell_earthcrack_name">&font_wood;Fenda&font_end;</string>
-    <string name="spell_earthcrack_desc">Abre uma &font_wood;fenda&font_end; no chão sob o inimigo.</string>
+    <string name="spell_earthcrack_desc">Abre uma &font_wood;fenda&font_end;
+        no chão sob o inimigo.</string>
     <string name="spell_earthcrack_desc_combat">Você abriu uma &font_wood;fenda &font_end;no chão sob %1$s! %2$s perdeu &font_red;%3$d &font_end;pontos de vida.</string>
     <string name="spell_healingtouch_name">&font_health;Toque Curativo&font_end;</string>
-    <string name="spell_healingtouch_desc">Usa um &font_health;toque curativo &font_end;para curar &font_health;33&font_end;% da sua &font_health;vida&font_end; total.</string>
-    <string name="spell_healingtouch_desc_combat">Você usou o &font_health;toque curativo&font_end; e curou &font_health;%1$d&font_end; pontos de &font_health;vida&font_end;.</string>
+    <string name="spell_healingtouch_desc">Usa um &font_health;toque curativo &font_end;para curar &font_health;33&font_end;% da sua &font_health;vida&font_end;
+        total.</string>
+    <string name="spell_healingtouch_desc_combat">Você usou o &font_health;toque curativo&font_end;
+        e curou &font_health;%1$d&font_end; pontos de &font_health;vida&font_end;.</string>
     <string name="spell_healinglight_name">&font_health;Luz Curativa&font_end;</string>
-    <string name="spell_healinglight_desc">Invoca uma &font_health;luz curativa &font_end;para curar &font_health;66&font_end;% da sua &font_health;vida&font_end; total.</string>
-    <string name="spell_healinglight_desc_combat">Você invocou uma &font_health;luz curativa &font_end;e curou &font_health;%1$d&font_end; pontos de &font_health;vida&font_end;.</string>
+    <string name="spell_healinglight_desc">Invoca uma &font_health;luz curativa &font_end;para curar &font_health;66&font_end;% da sua &font_health;vida&font_end;
+        total.</string>
+    <string name="spell_healinglight_desc_combat">Você invocou uma &font_health;luz curativa &font_end;e curou &font_health;%1$d&font_end;
+        pontos de &font_health;vida&font_end;.</string>
     <string name="spell_purelight_name">&font_health;Luz Pura&font_end;</string>
-    <string name="spell_purelight_desc">Invoca uma &font_health;luz pura&font_end; para &font_health;curar &font_end;completamente.</string>
-    <string name="spell_purelight_desc_combat">Você invocou uma &font_health;luz pura&font_end; e curou &font_health;%1$d&font_end; pontos de &font_health;vida&font_end;.</string>
+    <string name="spell_purelight_desc">Invoca uma &font_health;luz pura&font_end;
+        para &font_health;curar &font_end;completamente.</string>
+    <string name="spell_purelight_desc_combat">Você invocou uma &font_health;luz pura&font_end; e curou &font_health;%1$d&font_end;
+        pontos de &font_health;vida&font_end;.</string>
 
     <string name="spell_effect_combat_burnt">%1$s está &font_attack;queimando&font_end;!</string>
     <string name="spell_effect_combat_frozen">%1$s está &font_tundra;congelado&font_end;!</string>
@@ -2252,7 +2325,8 @@
     <string name="main_story_1_dialog_message">Após o que pareceu ser uma eternidade, você abre os seus olhos e tenta ficar de pé.&br;&br;Olhando ao redor, percebe que está em uma &font_sand;Praia&font_end;. Há um &font_wood;Barco Naufragado&font_end;.&br;&br;Após alguns momentos, percebe que um &font_cyan;Menino &font_end;olha fixamente para você.</string>
     <string name="main_story_shipwreck_info">Parece impossível fazer esse &font_wood;Barco Naufragado &font_end;navegar novamente.&br;&br;Ao examiná-lo de perto, ele lhe parece familiar…</string>
     <string name="main_story_young_boy_message_1">O... Olá? Você está bem? Eu estava brincando por aqui e te encontrei inconsciente…</string>
-    <string name="main_story_young_boy_message_2">Achei que tivesse morrido. Ainda bem que me enganei! Esse &font_wood;Barco&font_end; é seu?</string>
+    <string name="main_story_young_boy_message_2">Achei que tivesse morrido. Ainda bem que me enganei! Esse &font_wood;Barco&font_end;
+        é seu?</string>
     <string name="main_story_young_boy_message_3">Ah… bem, acho que você precisa descansar. O meu pai é o dono da &font_inn;Estalagem &font_end;em &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end;. Vá até lá para descansar, e fale com ele se precisar de alguma coisa. Foi um prazer conhecê-lo!</string>
     <string name="main_story_young_boy_runs_away">O &font_cyan;Menino &font_end;sai correndo.</string>
     <string name="main_story_1_giving_description">Após ter acordado na &font_sand;Praia&font_end;, um &font_cyan;Menino &font_end;lhe disse para ir até a Estalagem em &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end;. Lá você poderá descansar e conversar com o pai dele.</string>
@@ -2269,12 +2343,14 @@
     <string name="main_story_the_carpenter_4">Ninguém sabe onde ele está, mas a tradição diz que uma verdadeira lenda surgirá, que será capaz de derrotá-lo de uma vez por todas…</string>
     <string name="main_story_the_carpenter_5">Esse &font_red;monstro&font_end; que você acabou de matar era o motivo de não termos nenhum &font_wood;Barco &font_end;nesta ilha. Ele destruiu todos!</string>
     <string name="main_story_the_carpenter_5b">Se tivéssemos um, eu teria ido pessoalmente procurar pistas sobre &font_red;O Tirano &font_end;para poder derrotá-lo! (se ao menos eu não fosse tão velho…)</string>
-    <string name="main_story_the_carpenter_6">Quer dizer que encontrou um &font_wood;Barco Naufragado &font_end;em &font_cyan;%1$d&font_end;, &font_cyan;%2$d &font_end;? Acho que poderei consertá-lo se você me trouxer &font_wood;Madeira&font_end; suficiente!</string>
+    <string name="main_story_the_carpenter_6">Quer dizer que encontrou um &font_wood;Barco Naufragado &font_end;em &font_cyan;%1$d&font_end;, &font_cyan;%2$d &font_end;? Acho que poderei consertá-lo se você me trouxer &font_wood;Madeira&font_end;
+        suficiente!</string>
     <string name="main_story_the_carpenter_7">Tome. Use o meu machado de cortar &font_wood;lenha&font_end;! Você poderá cortar &font_wood;Árvores &font_end;com ele para obter &font_wood;Madeira&font_end;.</string>
     <string name="main_story_the_carpenter_8">Certo. Irei esperá-lo próximo ao &font_wood;Barco Naufragado &font_end;enquanto você procura &font_wood;Madeira&font_end;! Acho que &font_cyan;5 &font_end;pedaços serão suficientes. Te vejo mais tarde!</string>
     <string name="main_story_the_carpenter_left">&font_wood;O Velho Carpinteiro &font_end;se foi…</string>
     <string name="main_story_the_carpenter_shipwreck_button">Falar sobre o &font_wood;Barco Naufragado&font_end;</string>
-    <string name="main_story_3">Encontre &font_cyan;5&font_end; x &font_wood;pedaços de Madeira&font_end; e leve-os para &font_wood;O Velho Carpinteiro &font_end;em &font_cyan;%1$d&font_end;, &font_cyan;%2$d &font_end;para que ele possa consertar o &font_wood;Barco Naufragado&font_end;!.</string>
+    <string name="main_story_3">Encontre &font_cyan;5&font_end; x &font_wood;pedaços de Madeira&font_end;
+        e leve-os para &font_wood;O Velho Carpinteiro &font_end;em &font_cyan;%1$d&font_end;, &font_cyan;%2$d &font_end;para que ele possa consertar o &font_wood;Barco Naufragado&font_end;!.</string>
     <string name="main_story_the_carpenter_second_dialog_1">Oi! Você encontrou &font_cyan;5 &font_end;pedaços de &font_wood;Madeira&font_end;?</string>
     <string name="main_story_the_carpenter_second_dialog_1_not_enough">Ah, você ainda não tem o suficiente… volte quando tiver pelo menos &font_cyan;5 &font_end;pedaços de &font_wood;Madeira&font_end;!</string>
     <string name="main_story_the_carpenter_second_dialog_2">Ah, que ótimo!! Começarei a trabalhar imediatamente!</string>
@@ -2290,12 +2366,15 @@
     <string name="main_story_cartographer_dialog_2">Minha nossa! Isso é o que penso que é? Não posso acreditar!</string>
     <string name="main_story_cartographer_dialog_3">Este é um dos lendários &font_cyan;Pedaços de Mapa &font_end;! Eles existem!</string>
     <string name="main_story_cartographer_dialog_4">Perdoe a minha empolgação… Eu nunca pensei que veria algo assim…</string>
-    <string name="main_story_cartographer_dialog_5" tools:ignore="PluralsCandidate">Bem, a tradição diz que, se você encontar os %1$d pedaços, poderá encontrar a &font_cyan;ilha&font_end; onde vive &font_red;O Tirano&font_end;… Eu achava que isso era apenas uma lenda, mas agora vejo que é real…</string>
+    <string name="main_story_cartographer_dialog_5" tools:ignore="PluralsCandidate">Bem, a tradição diz que, se você encontar os %1$d pedaços, poderá encontrar a &font_cyan;ilha&font_end;
+        onde vive &font_red;O Tirano&font_end;… Eu achava que isso era apenas uma lenda, mas agora vejo que é real…</string>
     <string name="main_story_cartographer_dialog_6">Tenha cuidado durante a sua jornada em busca dos &font_cyan;Pedaços de Mapa&font_end;. Os monstros que os vigiam são muito perigosos…</string>
     <string name="main_story_6">Encontre &font_cyan;%1$d &font_end; x &font_cyan;Pedaço de Mapa&font_end;. &font_cyan;O Cartógrafo &font_end;lhe disse que, quando você o fizer, poderá juntar os pedaços para formar uma &font_cyan;Carta Náutica&font_end;, e finalmente poderá encontrar o local onde &font_red;O Tirano &font_end;se encontra.</string>
     <string name="main_story_6_got_a_piece_total_amount" tools:ignore="PluralsCandidate">Você obteve um &font_cyan;Pedaço de Mapa&font_end;! Você possui %1$d deles! Falta encontrar %2$d…</string>
     <string name="main_story_6_got_the_pieces" tools:ignore="PluralsCandidate">Você obteve todos os pedaços! Combine-os como &font_cyan;O Cartógrafo &font_end;mandou…</string>
-    <string name="main_story_7">Siga a &font_cyan;Carta Náutica&font_end; até a &font_cyan;ilha &font_end;onde está &font_red;O Tirano&font_end; para matá-lo!</string>
+    <string name="main_story_7">Siga a &font_cyan;Carta Náutica&font_end;
+        até a &font_cyan;ilha &font_end;onde está &font_red;O Tirano&font_end;
+        para matá-lo!</string>
     <string name="main_story_7_advice_before_sail_title">Viajar até a &font_cyan;ilha&font_end; onde está &font_red;O Tirano&font_end;?</string>
     <string name="main_story_7_advice_before_sail_message">Você está pronto? Você pode não conseguir voltar de lá…</string>
     <string name="monster_thetyrant">O Tirano</string>
@@ -2309,7 +2388,8 @@
     <string name="main_story_7_the_tyrant_message_7">Eu te aconselho a se preparar antes de ir. A &font_red;Lava &font_end;e o próprio &font_red;Inferno &font_end;irão feri-lo, e os monstros de lá são muito mais ferozes do que os meus…</string>
     <string name="main_story_7_the_tyrant_message_8">Boa sorte! Se perguntarem algo, eu não te falei nada!</string>
     <string name="tyrant_disappears">&font_red;O Tirano&font_end; desaparece…</string>
-    <string name="main_story_7_ship_is_back">O seu &font_wood;Barco&font_end; está de volta…</string>
+    <string name="main_story_7_ship_is_back">O seu &font_wood;Barco&font_end;
+        está de volta…</string>
     <string name="main_story_7_the_tyrant_pre_combat_message_1">Hein? O que pensa que está fazendo aqui?</string>
     <string name="main_story_7_the_tyrant_pre_combat_message_2">Hahaha! Vejamos quanto tempo você consegue sobreviver até EU TE MATAR!</string>
     <string name="main_story_7_the_tyrant_pre_combat_message_button">Matar você</string>
@@ -2616,8 +2696,10 @@
     <string name="quest_bring_animal_text_negative">Sinto muito, mas você não trouxe um espécime de &font_animal;%1$s &font_end;com você… Volte quando encontrar um. Isso vai me deixar tão feliz!</string>
     <string name="quest_bring_animal_text_bring">Você encontrou um espécime de &font_animal;%1$s&font_end;? Vamos, me mostre logo!</string>
 
-    <string name="tile_content_type_island_map">&font_gold;Mapa&font_end; da &font_cyan;Ilha&font_end;</string>
-    <string name="item_info_island_map">Use este &font_gold;Mapa&font_end; da &font_cyan;Ilha &font_end;para ver o mapa completo sem precisar explorar a ilha completamente.&br;&br;(Você precisará explorar a ilha completamente se quiser completá-la 100%.)</string>
+    <string name="tile_content_type_island_map">&font_gold;Mapa&font_end;
+        da &font_cyan;Ilha&font_end;</string>
+    <string name="item_info_island_map">Use este &font_gold;Mapa&font_end;
+        da &font_cyan;Ilha &font_end;para ver o mapa completo sem precisar explorar a ilha completamente.&br;&br;(Você precisará explorar a ilha completamente se quiser completá-la 100%.)</string>
     <string name="island_map_island_name">(&font_cyan;%1$s&font_end;)</string>
 
     <string name="settings_change_language_title">Mudar Idioma</string>
@@ -2667,14 +2749,23 @@
     <string name="material_emerald">&font_emerald;Esmeralda&font_end;</string>
     <string name="material_void_dust">&font_void;Poeira do Vazio&font_end;</string>
 
-    <string name="skill_fire_mastery_description">Aumenta o seu domínio sobre o &font_red;Fogo&font_end; ao lançar feitiços de &font_red;Fogo&font_end;.&br;&br;Aumentar o nível deste domínio permitirá o aprendizado de novos feitiços deste tipo de magia ao ler o Livro de &font_mana;Feitiços&font_end; correspondente.&br;&br;Cada nível adicional diminui o custo de &font_mana;mana &font_end;em uma pequena porcentagem.</string>
-    <string name="skill_water_mastery_description">Aumenta o seu domínio sobre a &font_water;Água &font_end;ao lançar feitiços de &font_water;Água&font_end;.&br;&br;Aumentar o nível deste domínio permitirá o aprendizado de novos feitiços deste tipo de magia ao ler o Livro de &font_mana;Feitiços&font_end; correspondente.&br;&br;Cada nível adicional diminui o custo de &font_mana;mana &font_end;em uma pequena porcentagem.</string>
-    <string name="skill_ice_mastery_description">Aumenta o seu domínio sobre o &font_ice;Gelo &font_end;ao lançar feitiços de &font_ice;Gelo&font_end;.&br;&br;Aumentar o nível deste domínio permitirá o aprendizado de novos feitiços deste tipo de magia ao ler o Livro de &font_mana;Feitiços&font_end; correspondente.&br;&br;Cada nível adicional diminui o custo de &font_mana;mana &font_end;em uma pequena porcentagem.</string>
-    <string name="skill_air_mastery_description">Aumenta o seu domínio sobre o &font_spell_wind;Ar &font_end;ao lançar feitiços de &font_spell_wind;Ar&font_end;.&br;&br;Aumentar o nível deste domínio permitirá o aprendizado de novos feitiços deste tipo de magia ao ler o Livro de &font_mana;Feitiços&font_end; correspondente.&br;&br;Cada nível adicional diminui o custo de &font_mana;mana &font_end;em uma pequena porcentagem.</string>
-    <string name="skill_electric_mastery_description">Aumenta o seu domínio sobre a &font_electric;Eletricidade &font_end;ao lançar feitiços de &font_electric;Eletricidade&font_end;.&br;&br;Aumentar o nível deste domínio permitirá o aprendizado de novos feitiços deste tipo de magia ao ler o Livro de &font_mana;Feitiços&font_end; correspondente.&br;&br;Cada nível adicional diminui o custo de &font_mana;mana &font_end;em uma pequena porcentagem.</string>
-    <string name="skill_earth_mastery_description">Aumenta o seu domínio sobre a &font_wood;Terra &font_end;ao lançar feitiços de &font_wood;Terra&font_end;.&br;&br;Aumentar o nível deste domínio permitirá o aprendizado de novos feitiços deste tipo de magia ao ler o Livro de &font_mana;Feitiços&font_end; correspondente.&br;&br;Cada nível adicional diminui o custo de &font_mana;mana &font_end;em uma pequena porcentagem.</string>
-    <string name="skill_life_mastery_description">Aumenta o seu domínio sobre a &font_health;Vida&font_end;ao lançar feitiços de &font_health;Vida&font_end;.&br;&br;Aumentar o nível deste domínio permitirá o aprendizado de novos feitiços deste tipo de magia ao ler o Livro de &font_mana;Feitiços&font_end; correspondente.&br;&br;Cada nível adicional diminui o custo de &font_mana;mana &font_end;em uma pequena porcentagem.</string>
-    <string name="skill_monster_mastery_description">Aumenta o seu domínio sobre os &font_pet;monstros &font_end;ao lançar feitiços de &font_pet;monstros&font_end;.&br;&br;Aumentar o nível deste domínio permitirá o aprendizado de novos feitiços deste tipo de magia ao ler o Livro de &font_mana;Feitiços&font_end; correspondente.&br;&br;Cada nível adicional diminui o custo de &font_mana;mana &font_end;em uma pequena porcentagem.</string>
+    <string name="skill_fire_mastery_description">Aumenta o seu domínio sobre o &font_red;Fogo&font_end;
+        ao lançar feitiços de &font_red;Fogo&font_end;.&br;&br;Aumentar o nível deste domínio permitirá o aprendizado de novos feitiços deste tipo de magia ao ler o Livro de &font_mana;Feitiços&font_end;
+        correspondente.&br;&br;Cada nível adicional diminui o custo de &font_mana;mana &font_end;em uma pequena porcentagem.</string>
+    <string name="skill_water_mastery_description">Aumenta o seu domínio sobre a &font_water;Água &font_end;ao lançar feitiços de &font_water;Água&font_end;.&br;&br;Aumentar o nível deste domínio permitirá o aprendizado de novos feitiços deste tipo de magia ao ler o Livro de &font_mana;Feitiços&font_end;
+        correspondente.&br;&br;Cada nível adicional diminui o custo de &font_mana;mana &font_end;em uma pequena porcentagem.</string>
+    <string name="skill_ice_mastery_description">Aumenta o seu domínio sobre o &font_ice;Gelo &font_end;ao lançar feitiços de &font_ice;Gelo&font_end;.&br;&br;Aumentar o nível deste domínio permitirá o aprendizado de novos feitiços deste tipo de magia ao ler o Livro de &font_mana;Feitiços&font_end;
+        correspondente.&br;&br;Cada nível adicional diminui o custo de &font_mana;mana &font_end;em uma pequena porcentagem.</string>
+    <string name="skill_air_mastery_description">Aumenta o seu domínio sobre o &font_spell_wind;Ar &font_end;ao lançar feitiços de &font_spell_wind;Ar&font_end;.&br;&br;Aumentar o nível deste domínio permitirá o aprendizado de novos feitiços deste tipo de magia ao ler o Livro de &font_mana;Feitiços&font_end;
+        correspondente.&br;&br;Cada nível adicional diminui o custo de &font_mana;mana &font_end;em uma pequena porcentagem.</string>
+    <string name="skill_electric_mastery_description">Aumenta o seu domínio sobre a &font_electric;Eletricidade &font_end;ao lançar feitiços de &font_electric;Eletricidade&font_end;.&br;&br;Aumentar o nível deste domínio permitirá o aprendizado de novos feitiços deste tipo de magia ao ler o Livro de &font_mana;Feitiços&font_end;
+        correspondente.&br;&br;Cada nível adicional diminui o custo de &font_mana;mana &font_end;em uma pequena porcentagem.</string>
+    <string name="skill_earth_mastery_description">Aumenta o seu domínio sobre a &font_wood;Terra &font_end;ao lançar feitiços de &font_wood;Terra&font_end;.&br;&br;Aumentar o nível deste domínio permitirá o aprendizado de novos feitiços deste tipo de magia ao ler o Livro de &font_mana;Feitiços&font_end;
+        correspondente.&br;&br;Cada nível adicional diminui o custo de &font_mana;mana &font_end;em uma pequena porcentagem.</string>
+    <string name="skill_life_mastery_description">Aumenta o seu domínio sobre a &font_health;Vida&font_end;ao lançar feitiços de &font_health;Vida&font_end;.&br;&br;Aumentar o nível deste domínio permitirá o aprendizado de novos feitiços deste tipo de magia ao ler o Livro de &font_mana;Feitiços&font_end;
+        correspondente.&br;&br;Cada nível adicional diminui o custo de &font_mana;mana &font_end;em uma pequena porcentagem.</string>
+    <string name="skill_monster_mastery_description">Aumenta o seu domínio sobre os &font_pet;monstros &font_end;ao lançar feitiços de &font_pet;monstros&font_end;.&br;&br;Aumentar o nível deste domínio permitirá o aprendizado de novos feitiços deste tipo de magia ao ler o Livro de &font_mana;Feitiços&font_end;
+        correspondente.&br;&br;Cada nível adicional diminui o custo de &font_mana;mana &font_end;em uma pequena porcentagem.</string>
 
     <string name="skill_fire_mastery">Domar &font_red;Fogo&font_end;</string>
     <string name="skill_water_mastery">Domar &font_water;Água&font_end;</string>
@@ -2687,10 +2778,13 @@
 
     <string name="spell_book_need_skill_level">&italic;O seu nível de %1$s não está alto o suficiente para aprender esse &font_mana;feitiço&font_end;&italic_end;</string>
 
-    <string name="stats_extra_max_mana">&font_mana;Mana&font_end; Máx.: &font_mana;%d&font_end;</string>
-    <string name="stats_extra_max_health">&font_health;Vida&font_end; Máx.: &font_health;%d&font_end;</string>
-    <string name="stats_extra_max_hunger">&font_hunger;Fome&font_end; Máx.: &font_hunger;%d&font_end;</string>
-        
+    <string name="stats_extra_max_mana">&font_mana;Mana&font_end;
+        Máx.: &font_mana;%d&font_end;</string>
+    <string name="stats_extra_max_health">&font_health;Vida&font_end;
+        Máx.: &font_health;%d&font_end;</string>
+    <string name="stats_extra_max_hunger">&font_hunger;Fome&font_end;
+        Máx.: &font_hunger;%d&font_end;</string>
+
 
     <string name="item_crocodile_tear_ring">Anel de &font_glass;Lágrimas de Crocodilo&font_end;</string>
     <string name="item_snake_scale_boots">Botas de &font_scale;Escamas de Cobra&font_end;</string>
@@ -2742,11 +2836,16 @@
     <string name="tile_content_type_infinity_door">&font_gold;Porta&font_end; do &font_infinity;Infinito&font_end;</string>
     <string name="infinity_door_open">&font_gold;Porta &font_end;do &font_infinity;Infinito &font_end;(&font_green;Aberta&font_end;)</string>
     <string name="infinity_door_closed">&font_gold;Porta &font_end;do &font_infinity;Infinito &font_end;(&font_red;Fechada&font_end;)</string>
-    <string name="item_infinity_key">&font_gold;Chave&font_end; do &font_infinity;Infinito&font_end;</string>
-    <string name="button_open_with_infinity_key">Abrir com a &font_gold;Chave&font_end; do &font_infinity;Infinito&font_end;</string>
-    <string name="item_info_infinity_key">Uma &font_gold;Chave&font_end; misteriosa e brilhante…</string>
-    <string name="infinity_door_enter_title">&font_gold;Porta&font_end; do &font_infinity;Infinito&font_end;</string>
-    <string name="infinity_door_enter_message">Entrar na &font_gold;Porta&font_end; do &font_infinity;Infinito&font_end;?</string>
+    <string name="item_infinity_key">&font_gold;Chave&font_end;
+        do &font_infinity;Infinito&font_end;</string>
+    <string name="button_open_with_infinity_key">Abrir com a &font_gold;Chave&font_end;
+        do &font_infinity;Infinito&font_end;</string>
+    <string name="item_info_infinity_key">Uma &font_gold;Chave&font_end;
+        misteriosa e brilhante…</string>
+    <string name="infinity_door_enter_title">&font_gold;Porta&font_end;
+        do &font_infinity;Infinito&font_end;</string>
+    <string name="infinity_door_enter_message">Entrar na &font_gold;Porta&font_end;
+        do &font_infinity;Infinito&font_end;?</string>
     <string name="entering_infinity_door">Entrando na &font_gold;Porta&font_end; do &font_infinity;Infinito&font_end;</string>
     <string name="infinity_door_opened">Você abre a &font_gold;Porta&font_end; do &font_infinity;Infinito&font_end;!</string>
 
@@ -2773,10 +2872,12 @@
     <string name="skill_zoologist">&font_pet;Zoologia&font_end;</string>
     <string name="skill_pet_hoarder">&font_pet;Acumular Mascotes&font_end;</string>
 
-    <string name="skill_pet_collector_description">Aumenta em &bold;&font_cyan;5&font_end;&bold_end; o número máximo de &font_red;monstros&font_end; &font_pet;mascotes &font_end;que você pode possuir.</string>
+    <string name="skill_pet_collector_description">Aumenta em &bold;&font_cyan;5&font_end;&bold_end;
+        o número máximo de &font_red;monstros&font_end; &font_pet;mascotes &font_end;que você pode possuir.</string>
     <string name="skill_zoologist_description">Aumenta em &bold;&font_cyan;5&font_end;&bold_end; o número máximo de &font_red;monstros&font_end; &font_pet;mascotes &font_end;que você pode possuir.</string>
-    <string name="skill_pet_hoarder_description">Aumenta em &bold;&font_cyan;10&font_end;&bold_end; o número máximo de &font_red;monstros&font_end; &font_pet;mascotes &font_end;que você pode possuir.</string>
-        
+    <string name="skill_pet_hoarder_description">Aumenta em &bold;&font_cyan;10&font_end;&bold_end;
+        o número máximo de &font_red;monstros&font_end; &font_pet;mascotes &font_end;que você pode possuir.</string>
+
 
     <string name="ee_your_tongue_hurts">A sua língua está doendo… o que está acontecendo?</string>
     <string name="ee_kirito">Oh, você conseguiu um desconto misterioso em %1$s!</string>
@@ -3015,20 +3116,21 @@
     <string name="skill_natural_explorer_description">Permite enxergar os espaços vizinhos ao andar, tornando a exploração mais fácil.</string>
 
     <string name="human_traits">&font_cyan;* &font_end;Comece sabendo receitas básicas de criação.&br;&br;&font_cyan;* &font_end;Comece com um pouco de &font_food;comida&font_end;.&br;&br;&font_cyan;Exploração Natural&font_end;: Permite enxergar os espaços vizinhos ao andar, tornando a exploração mais fácil.</string>
-    <string name="dwarf_traits">&font_cyan;* &font_end;Comece com uma &font_silver;Picareta&font_end;.&br;&br;&font_cyan;Forja&font_end;: Aumenta as chances de criar armas, escudos e armaduras melhores. (Nível &font_cyan;%1$d&font_end;).&br;&br;&font_gold;&font_end;&font_cyan;Fabricante de &font_end;Cerveja: Pode criar &font_gold;Cerveja &font_end;e &font_gold;Cerveja &font_end;&font_epic;Épica&font_end; (comece também com os materiais necessários para criar uma &font_gold;Cerveja&font_end;).</string>
+    <string name="dwarf_traits">&font_cyan;* &font_end;Comece com uma &font_silver;Picareta&font_end;.&br;&br;&font_cyan;Forja&font_end;: Aumenta as chances de criar armas, escudos e armaduras melhores. (Nível &font_cyan;%1$d&font_end;).&br;&br;&font_gold;&font_end;&font_cyan;Fabricante de &font_end;Cerveja: Pode criar &font_gold;Cerveja &font_end;e &font_gold;Cerveja &font_end;&font_epic;Épica&font_end;
+        (comece também com os materiais necessários para criar uma &font_gold;Cerveja&font_end;).</string>
     <string name="halfling_traits">&font_food;Foodie&font_end;: Barra de fome aumentada, permitindo resistir mais tempo sem comer.&br;&br;&font_food;Gourmet&font_end;: Aumenta a fome restaurada ao comer.&br;&br;&font_cyan;Discrição&font_end;: Reduz a probabilidade de ser “atacado" por um &font_red;monstro &font_end;em &font_cyan;33&font_end;%.</string>
-    <string name="gnome_traits">&font_wood;Espaço Gnômico&font_end;: Aumenta em &font_cyan;10&font_end; o tamanho do inventário.&br;&br;&font_bomb;Bombardeiro&font_end;: Comece com um pouco de &font_gunpowder;Pólvora&font_end;, várias &font_bomb;Bombas &font_end;e sabendo como criá-las.&br;&br;&font_cyan;Perceptividade&font_end;: Detecta quando há algo escondido e permite &font_cyan;Procurar &font_end;por coisas.</string>
-    <string name="elf_traits">&font_cyan;* &font_end;Comece com &font_cyan;5 &font_end;x &font_plant;Planta &font_end;e &font_cyan;5 &font_end;x &font_mushroom;Cogumelo&font_end;.&br;&br;&font_mana;Fluxo de Mana&font_end;: Regenera &font_cyan;1% &font_end;&font_mana;do mana &font_end;a cada turno, se estiver com mais do que &font_cyan;50%&font_end; da &font_health;vida&font_end;.&br;&br;&font_mana;Magia Élfica&font_end;: Tenha (&font_cyan;+25&font_end;) de &font_mana;mana &font_end;extra.</string>
-    <string name="drow_traits">&font_portal;Teletransporte&font_end;: Permite se &font_portal;teletransportar &font_end;para um local aleatório na ilha.&br;&br;&font_mana;Fluxo de Mana&font_end;: Regenera &font_cyan;1% &font_end;&font_mana;do mana &font_end;a cada turno, se estiver com mais do que &font_cyan;50%&font_end; da &font_health;vida&font_end;.&br;&br;&font_mana;Magia Élfica&font_end;: Tenha (&font_cyan;+25&font_end;) de &font_mana;mana &font_end;extra.</string>
-    <string name="undead_traits">&font_green;Imunidade ao Clima&font_end;: Confere imunidade aos danos causados por &font_red;Calor &font_end;ou &font_tundra;Frio &font_end;.&br;&br;&font_health;Inquebrável&font_end;: Se um ataque de um &font_red;monstro &font_end;puder te matar, você resistirá e sobreviverá com &font_health;1 &font_end;ponto de vida.&br;&br;&font_hunger;Fome do Morto-Vivo&font_end;: A &font_hunger;Fome &font_end;aumenta mais rápido, mas você poderá se alimentar de cadáveres para restaurar pontos de &font_hunger;Fome&font_end;, &font_health;Vida&font_end; e &font_mana;Mana&font_end;.</string>
+    <string name="gnome_traits">&font_wood;Espaço Gnômico&font_end;: Aumenta em &font_cyan;10&font_end;
+        o tamanho do inventário.&br;&br;&font_bomb;Bombardeiro&font_end;: Comece com um pouco de &font_gunpowder;Pólvora&font_end;, várias &font_bomb;Bombas &font_end;e sabendo como criá-las.&br;&br;&font_cyan;Perceptividade&font_end;: Detecta quando há algo escondido e permite &font_cyan;Procurar &font_end;por coisas.</string>
+    <string name="elf_traits">&font_cyan;* &font_end;Comece com &font_cyan;5 &font_end;x &font_plant;Planta &font_end;e &font_cyan;5 &font_end;x &font_mushroom;Cogumelo&font_end;.&br;&br;&font_mana;Fluxo de Mana&font_end;: Regenera &font_cyan;1% &font_end;&font_mana;do mana &font_end;a cada turno, se estiver com mais do que &font_cyan;50%&font_end;
+        da &font_health;vida&font_end;.&br;&br;&font_mana;Magia Élfica&font_end;: Tenha (&font_cyan;+25&font_end;) de &font_mana;mana &font_end;extra.</string>
+    <string name="drow_traits">&font_portal;Teletransporte&font_end;: Permite se &font_portal;teletransportar &font_end;para um local aleatório na ilha.&br;&br;&font_mana;Fluxo de Mana&font_end;: Regenera &font_cyan;1% &font_end;&font_mana;do mana &font_end;a cada turno, se estiver com mais do que &font_cyan;50%&font_end;
+        da &font_health;vida&font_end;.&br;&br;&font_mana;Magia Élfica&font_end;: Tenha (&font_cyan;+25&font_end;) de &font_mana;mana &font_end;extra.</string>
+    <string name="undead_traits">&font_green;Imunidade ao Clima&font_end;: Confere imunidade aos danos causados por &font_red;Calor &font_end;ou &font_tundra;Frio &font_end;.&br;&br;&font_health;Inquebrável&font_end;: Se um ataque de um &font_red;monstro &font_end;puder te matar, você resistirá e sobreviverá com &font_health;1 &font_end;ponto de vida.&br;&br;&font_hunger;Fome do Morto-Vivo&font_end;: A &font_hunger;Fome &font_end;aumenta mais rápido, mas você poderá se alimentar de cadáveres para restaurar pontos de &font_hunger;Fome&font_end;, &font_health;Vida&font_end;
+        e &font_mana;Mana&font_end;.</string>
     <string name="orc_traits">&font_dark_green;Casca Grossa&font_end;: Reduz o dano sofrido em combate em &font_cyan;5%&font_end;.&br;&br;&font_attack;Berserk&font_end;: Utilizar o comando "Atacar" em combate aumenta o dano em &font_cyan;10% &font_end;a cada turno. O bônus&font_attack;Berserk &font_end;será perdido ao utilizar uma ação diferente em combate.&br;&br;&font_dark_green;Golpe Inicial&font_end;: Desfira o primeiro golpe ao atacar um monstro. &br;&br;</string>
     <string name="lizard_traits">&font_health;Regeneração&font_end;: Regenera &font_cyan;2% &font_end;da &font_health;vida &font_end;a cada turno quando o clima estiver &font_yellow;Ensolarado&font_end;.&br;&br;&font_cyan;Evasão&font_end;: Permite que sempre tenha sucesso em fugir (caso seja permitido fazer isso).&br;&br;&font_insect;Consumir Insetos&font_end;: Permite &font_hunger;comer &font_end;&font_insect;insetos &font_end;sem precisar capturá-los.</string>
-    <string name="unknown_traits">&font_cyan;* &font_end;Comece com &font_cyan;15 &font_end;Pontos de Habilidade.&br;&br;&font_cyan;* &font_end;Comece com uma &font_cyan;Carta Naútica&font_end; aleatória &br;&br;&font_cyan;* &font_end;Comece com um livro de &font_mana;Feitiços &font_end;aleatório.</string>
-
-
-
-
-
+    <string name="unknown_traits">&font_cyan;* &font_end;Comece com &font_cyan;15 &font_end;Pontos de Habilidade.&br;&br;&font_cyan;* &font_end;Comece com uma &font_cyan;Carta Naútica&font_end;
+        aleatória &br;&br;&font_cyan;* &font_end;Comece com um livro de &font_mana;Feitiços &font_end;aleatório.</string>
 
 
     <string name="item_beer">&font_gold;Cerveja&font_end;</string>
@@ -3048,7 +3150,8 @@
     <string name="skill_gnomic_space_description">Aumenta em &font_cyan;10&font_end; o tamanho do inventário.</string>
 
     <string name="skill_mana_flow">&font_mana;Fluxo de Mana&font_end;</string>
-    <string name="skill_mana_flow_description">Regenera &font_cyan;1%&font_end; &font_mana;do mana &font_end;a cada turno se estiver com mais do que &font_cyan;50%&font_end; da &font_mana;vida&font_end;.</string>
+    <string name="skill_mana_flow_description">Regenera &font_cyan;1%&font_end; &font_mana;do mana &font_end;a cada turno se estiver com mais do que &font_cyan;50%&font_end;
+        da &font_mana;vida&font_end;.</string>
 
     <string name="skill_reckoner">&font_cyan;Reconhecimento&font_end;</string>
     <string name="skill_reckoner_description">Permite ver a dificuldade em matar um &font_red;monstro&font_end;.</string>
@@ -3119,7 +3222,8 @@
     <string name="island_type_treasure">TesOuro</string>
     <string name="material_old_paper_piece">Pedaço de Papel Velho</string>
     <string name="item_info_old_paper_piece">Tem uns desenhos esquisitos nele…</string>
-    <string name="tile_content_type_nautical_chart_treasure_island">Carta Náutica (&font_cyan;Ilha&font_end do ;&font_gold;TesOuro &font_end;)</string>
+    <string name="tile_content_type_nautical_chart_treasure_island">Carta Náutica (&font_cyan;Ilha&font_end;
+        do ;&font_gold;TesOuro &font_end;)</string>
     <string name="craft_various_title">Criar Vários</string>
     <string name="craft_various_message_not_stackable">Quantos você quer criar?&br;&br;(Você tem materiais suficientes para criar &font_cyan;%1$d&font_end;, a quantidade máxima para se criar é &font_cyan;%2$d&font_end;, e você tem espaço suficiente no inventário para criar &font_cyan;%3$d&font_end;, então, o máximo que pode criar é: &font_cyan;%4$d&font_end;)</string>
     <string name="crafted_amount">Você criou &font_cyan;%1$d&font_end;!</string>
@@ -3150,20 +3254,22 @@
     <string name="weapon_skill_unarmed_fastfist_attack">Você acertou o inimigo com força!</string>
 
     <string name="material_type_cartographer_stone">&font_stone;Pedra&font_end; do &font_cyan;Cartógrafo &font_end;</string>
-    <string name="world_info_empty">(Sem informações adicionadas, use uma &font_stone;Pedra&font_end; do &font_cyan;Cartógrafo &font_end;para adicionar um texto à uma ilha)</string>
+    <string name="world_info_empty">(Sem informações adicionadas, use uma &font_stone;Pedra&font_end;
+        do &font_cyan;Cartógrafo &font_end;para adicionar um texto à uma ilha)</string>
     <string name="button_plus">+</string>
     <string name="button_mark">Marca</string>
     <string name="button_add_info">Inserir Info</string>
-    <string name="world_mark_island_message">Para ajudar em suas aventuras, você pode &font_cyan;marcar &font_end;uma ilha com um caractere que aparecerá na lista de ilhas, e/ou escrever alguma &font_cyan;informação &font_end;sobre ela. Você precisará de uma &font_stone;Pedra&font_end; do &font_cyan;Cartógrafo &font_end;para realizar essa ação.&br;&br; &font_stone;Pedra(s)&font_end; do &font_cyan;Cartógrafo &font_end; em seu poder: &font_cyan;%1$d &font_end;</string>
-
-
+    <string name="world_mark_island_message">Para ajudar em suas aventuras, você pode &font_cyan;marcar &font_end;uma ilha com um caractere que aparecerá na lista de ilhas, e/ou escrever alguma &font_cyan;informação &font_end;sobre ela. Você precisará de uma &font_stone;Pedra&font_end;
+        do &font_cyan;Cartógrafo &font_end;para realizar essa ação.&br;&br; &font_stone;Pedra(s)&font_end;
+        do &font_cyan;Cartógrafo &font_end; em seu poder: &font_cyan;%1$d &font_end;</string>
 
 
     <string name="world_add_info_message">Adicione informações sobre a ilha (Você pode quebrar linhas com \'br\' entre &lt; e &gt;. Máx. de palavras permitido: &font_cyan;%1$d&font_end;):</string>
     <string name="world_add_info_message_replacing">Você já adicionou informações sobre esta ilha, se continuar, irá sobrescrever informação!&br;&br;Adicione informações à ilha (Você pode quebrar linhas com \'br\' entre &lt; e &gt;. Máx. de palavras permitido: &font_cyan;%1$d&font_end;):</string>
     <string name="world_add_info_length_error" tools:ignore="PluralsCandidate">Escreva entre 1 e %d caracteres…</string>
     <string name="world_add_mark_length_error">Escreva 1 caractere…</string>
-    <string name="world_mark_island_no_cartographer_stone">Você precisa de uma &font_stone;Pedra&font_end; do &font_cyan;Cartógrafo &font_end;para fazer isso…</string>
+    <string name="world_mark_island_no_cartographer_stone">Você precisa de uma &font_stone;Pedra&font_end;
+        do &font_cyan;Cartógrafo &font_end;para fazer isso…</string>
     <string name="button_add_mark">Adicionar Marca</string>
     <string name="world_add_mark_message">Adicione uma marca para ser exibida na lista de ilhas (escreva somente &font_cyan;1 &font_end;caractere.):</string>
     <string name="world_add_mark_message_replacing">Você já adicionou uma marca a esta ilha, se adicionar outra, a primeira ser sobrescrita.&br;&br;Adicione uma marca para ser exibida na lista de ilhas (escreva somente &font_cyan;1 &font_end;caractere.):</string>
@@ -3317,7 +3423,7 @@
     <string name="dungeon_exit">Saída</string>
     <string name="dungeon_question_mark">\?</string>
     <string name="dungeon_exit_dungeon">Você saiu de %1$s.</string>
-    <string name="dungeon_accessibility">Você está em &font_cyan;%1$d&font_end;, &font_cyan;%2$d &font_end;no %3$s, &font_cyan;%4$dº&font_end Andar;.&br;&br;Você pode andar para as seguintes direções: %5$s.</string>
+    <string name="dungeon_accessibility">Você está em &font_cyan;%1$d&font_end;, &font_cyan;%2$d &font_end;no %3$s, &font_cyan;%4$d &font_end;Andar;.&br;&br;Você pode andar para as seguintes direções: %5$s.</string>
     <string name="dungeon_can_go_up">Você pode &font_cyan;subir &font_end;aqui.</string>
     <string name="dungeon_can_go_down">Você pode &font_cyan;descer &font_end;aqui.</string>
     <string name="dungeon_can_exit">Você pode &font_cyan;sair &font_end;aqui.</string>
@@ -3343,7 +3449,7 @@
     <string name="dungeon_tutorial_title">Masmorras</string>
     <string name="dungeon_tutorial_message_1">Boas-vindas à sua primeira masmorra, Lenda!</string>
     <string name="dungeon_tutorial_message_2">Nas masmorras, cada item encontrado será entregue ao sair.</string>
-    <string name="dungeon_tutorial_message_3">Você não poderá mudar seu equipamento, criar, usar itens etc... a menos que esteja em combate!</string>
+    <string name="dungeon_tutorial_message_3">Você não poderá mudar seu equipamento, criar, usar itens etc… a menos que esteja em combate!</string>
     <string name="dungeon_tutorial_message_4">Um Chefe te aguarda no último andar da masmorra. Tenha cuidado, quanto mais distante for o andar, maior será o perigo!</string>
     <string name="dungeon_tutorial_message_5">Boa sorte e tenha cuidado!</string>
     <string name="button_next">Próximo</string>
@@ -3393,7 +3499,7 @@
 
     <string name="item_info_creator_medal">É uma medalha brilhante, uma lembrança de quando você matou &font_asterisk_creator;O Criador&font_end;.</string>
 
-    <string name="wise_main_story_island_first_message">Olá, Lenda! Eu estarei aqui se precisar de ajuda!&br;&br;Fale comigo se precisar descansar ou se quiser sair daqui...</string>
+    <string name="wise_main_story_island_first_message">Olá, Lenda! Eu estarei aqui se precisar de ajuda!&br;&br;Fale comigo se precisar descansar ou se quiser sair daqui…</string>
     <string name="wise_main_story_island_second_message">Deseja restaurar a &font_health;vida&font_end;, o &font_mana;mana &font_end;e a sua &font_hunger;fome &font_end;por &font_gold;%1$d &font_end;&font_gold;Ouro&font_end;? (Um &font_primary_light;&italic;[CHECKPOINT] &italic_end;&font_end;será salvo)&br;&br;… ou… &br;&br;Deseja sair daqui? Você desaparecerá para sempre, e perderá metade do &font_gold;Ouro &font_end;que está carregando, metade do que está no &font_gold;BANCO&font_end;, e ainda terá que começar a procurar pelos &font_cyan;Pedaços do Mapa &font_end;novamente.</string>
     <string name="wise_leave_island_confirmation_message">Tem certeza que deseja sair?&br;&br;Este lugar desaparecerá para sempre, e você perderá metade do &font_gold;Ouro &font_end;que está carregando, metade do que está no &font_gold;BANCO&font_end;, e ainda terá que começar a procurar pelos &font_cyan;Pedaços do Mapa &font_end;novamente.</string>
 
@@ -3403,13 +3509,14 @@
     <string name="wise_completely_rested">Você sente que descansou completamente!</string>
     <string name="wise_main_story_island_lost_gold_and_memory">Você perdeu uma parte do seu &font_gold;Ouro &font_end;e uma parte da sua memória…</string>
 
-    <string name="creator_pre_combat_message_1">Sabe... Não é fácil ser &font_asterisk_creator;O Criador&font_end;… Sempre codificando, acrescentando desafios maiores, consertando bugs, respondendo e-mails, conversando no Discord, no Reddit, na rede etc...</string>
-    <string name="creator_pre_combat_message_2">E tudo isso para quê? Diga-me! Por que eu deveria fazer isso? Eu não aguento mais tanta pressão...!</string>
+    <string name="creator_pre_combat_message_1">Sabe… Não é fácil ser &font_asterisk_creator;O Criador&font_end;… Sempre codificando, acrescentando desafios maiores, consertando bugs, respondendo e-mails, conversando no Discord, no Reddit, na rede etc…</string>
+    <string name="creator_pre_combat_message_2">E tudo isso para quê? Diga-me! Por que eu deveria fazer isso? Eu não aguento mais tanta pressão…!</string>
     <string name="creator_pre_combat_message_3">PREPARE-SE PARA MORRER! Mmmmmwwwwahahahahahahaha!</string>
 
-    <string name="void_master_after_killing_text_4">Vejam só… Você está usando um conjunto completo do &font_void;Vazio&font_end;… Aqui está. Você saberá o que fazer com isto...</string>
+    <string name="void_master_after_killing_text_4">Vejam só… Você está usando um conjunto completo do &font_void;Vazio&font_end;… Aqui está. Você saberá o que fazer com isto…</string>
 
-    <string name="dungeon_infinite_vortex">&font_void;Vórtice&font_end; do &font_infinity;Infinito&font_end;</string>
+    <string name="dungeon_infinite_vortex">&font_void;Vórtice&font_end;
+        do &font_infinity;Infinito&font_end;</string>
     <string name="collection_tiles">Blocos</string>
     <string name="collection_cassettes">Fitas Cassetes</string>
     <string name="cassette_menu">Menu</string>
@@ -3430,7 +3537,8 @@
     <string name="cassette_name">&font_alchemist;Fita Cassete &font_end;(%s)</string>
     <string name="item_info_cassette">Isto parece ser algum tipo de relíquia antiga. Para que será que serve...?</string>
 
-    <string name="wise_ascend_message_confirmation">Se você &asterisk_ascend_color;Ascender&font_end;, começará do nível 1. Você se esquecerá de todas as ilhas, missões, etc..., e perderá todos os seus itens, o seu Ouro... MAS, você terá estatísticas iniciais melhores e obterá uma &font_red;Chama&font_end; da &asterisk_ascend_color;Ascenção&font_end;…!</string>
+    <string name="wise_ascend_message_confirmation">Se você &asterisk_ascend_color;Ascender&font_end;, começará do nível 1. Você se esquecerá de todas as ilhas, missões, etc..., e perderá todos os seus itens, o seu Ouro... MAS, você terá estatísticas iniciais melhores e obterá uma &font_red;Chama&font_end;
+        da &asterisk_ascend_color;Ascenção&font_end;…!</string>
     <string name="wise_ascend_message_confirmation_2">Tem certeza de que deseja &asterisk_ascend_color;Ascender&font_end;?</string>
 
     <string name="ascend_toast">Tudo fica escuro…</string>
@@ -3440,7 +3548,8 @@
     <string name="title_the_ascended_female">%1$s, a &asterisk_ascend_color;Ascendida&font_end;</string>
     <string name="title_the_ascended_no_gender">%1$s, &asterisk_ascend_color;Ascendidx&font_end;</string>
 
-    <string name="material_type_ascension_flame">&font_red;Chama&font_end; da &asterisk_ascend_color;Ascenção&font_end;</string>
+    <string name="material_type_ascension_flame">&font_red;Chama&font_end;
+        da &asterisk_ascend_color;Ascenção&font_end;</string>
 
     <string name="tile_content_stairway_to_hell">&font_wood;Escadaria &font_end;para o &font_red;Inferno&font_end;</string>
     <string name="tile_content_highway_to_heaven">&font_corrupted_god;Escadaria &font_end;para o &font_heaven;Paraíso&font_end;</string>
@@ -3452,10 +3561,14 @@
 
     <string name="text_cant_move_here">Não é possível se mover aqui…</string>
 
-    <string name="tile_content_type_cassette_collector">&font_gold;Colecionador&font_end; de &font_alchemist;Fitas Cassete&font_end;</string>
-    <string name="tile_content_type_cassette_collector_with_gem">&font_gold;Colecionador&font_end; de &font_alchemist;Fitas Cassete&font_end;(%s)</string>
-        
-    <string name="cassette_collector_message">Olá! Eu sou um &font_gold;Colecionador&font_end; de &font_alchemist;Fitas Cassete&font_end;!&br;&br;Por acaso você tem alguma &font_alchemist;Fita Cassete&font_end; que possa me dar? Eu lhe darei %1$s em troca…</string>
+    <string name="tile_content_type_cassette_collector">&font_gold;Colecionador&font_end;
+        de &font_alchemist;Fitas Cassete&font_end;</string>
+    <string name="tile_content_type_cassette_collector_with_gem">&font_gold;Colecionador&font_end;
+        de &font_alchemist;Fitas Cassete&font_end;(%s)</string>
+
+    <string name="cassette_collector_message">Olá! Eu sou um &font_gold;Colecionador&font_end;
+        de &font_alchemist;Fitas Cassete&font_end;!&br;&br;Por acaso você tem alguma &font_alchemist;Fita Cassete&font_end;
+        que possa me dar? Eu lhe darei %1$s em troca…</string>
     <string name="cassette_collector_you_dont_have_any_cassette">Você não possui nenhuma &font_alchemist;Fita Cassete&font_end;…</string>
 
     <string name="collection_material">Material</string>
@@ -3529,7 +3642,8 @@
     <string name="material_seaweed">&font_red;Alga Marinha&font_end;</string>
     <string name="material_pearl">&font_pearl;Pérola&font_end;</string>
 
-    <string name="dungeon_coral_cave">&font_cave;Caverna&font_end; de &font_coral;Corais&font_end;</string>
+    <string name="dungeon_coral_cave">&font_cave;Caverna&font_end;
+        de &font_coral;Corais&font_end;</string>
     <string name="tile_content_type_torch">&font_red;Tocha&font_end;</string>
     <string name="item_info_torch">Use isto para enxergar mais longe dentro de masmorras!</string>
     <string name="torch_use_question">Você deseja usar uma &font_red;Tocha&font_end; para enxergar melhor?&br;&br;Ela irá durar até que você saia de %1$s.</string>
@@ -3609,11 +3723,15 @@
     <string name="tile_content_type_mana_pet_potion">Poção de &font_mana;Mana &font_end;para &font_pet;Mascotes&font_end;</string>
     <string name="tile_content_type_revive_pet_potion">Poção para &font_health;Reanimar &font_end;&font_pet;Mascotes&font_end;</string>
 
-    <string name="item_name_heal_pet_potion">Poção de &font_health;Cura &font_end;para &font_pet;Mascotes&font_end; (&font_health;%1$d&font_end;%%)</string>
-    <string name="item_name_mana_pet_potion">Poção de &font_mana;Mana &font_end;para &font_pet;Mascotes&font_end; (&font_health;%1$d&font_end;%%)</string>
-    <string name="item_name_revive_pet_potion">Poção para&font_health;Reanimar &font_end;&font_pet;Mascotes&font_end; (&font_health;%1$d&font_end;%%)</string>
+    <string name="item_name_heal_pet_potion">Poção de &font_health;Cura &font_end;para &font_pet;Mascotes&font_end;
+        (&font_health;%1$d&font_end;%%)</string>
+    <string name="item_name_mana_pet_potion">Poção de &font_mana;Mana &font_end;para &font_pet;Mascotes&font_end;
+        (&font_health;%1$d&font_end;%%)</string>
+    <string name="item_name_revive_pet_potion">Poção para&font_health;Reanimar &font_end;&font_pet;Mascotes&font_end;
+        (&font_health;%1$d&font_end;%%)</string>
     <string name="item_experience_pet_potion">Poção de &font_cyan;Experiência &font_end;para &font_pet;Mascotes&font_end;</string>
-    <string name="item_experience_pet_potion_amount">Poção de &font_cyan;Experiência &font_end;para &font_pet;Mascotes&font_end; (&font_cyan;%1$d&font_end;)</string>
+    <string name="item_experience_pet_potion_amount">Poção de &font_cyan;Experiência &font_end;para &font_pet;Mascotes&font_end;
+        (&font_cyan;%1$d&font_end;)</string>
 
     <string name="tile_content_type_pet_shop">&font_gold;Loja &font_end;de &font_pet;Mascotes&font_end;</string>
     <string name="pet_item_name">&font_pet;Mascote&font_end; (%1$s)</string>
@@ -3645,7 +3763,8 @@
     <string name="settings_music_volume">Volume da Música</string>
     <string name="settings_sound_volume">Volume do Som</string>
 
-    <string name="tile_content_type_purifying_seed_planted">&font_plant;Semente&font_end; &font_purifying;Purificadora&font_end; (&font_green;Plantada&font_end;)</string>
+    <string name="tile_content_type_purifying_seed_planted">&font_plant;Semente&font_end; &font_purifying;Purificadora&font_end;
+        (&font_green;Plantada&font_end;)</string>
 
     <string name="dropped_ammo_toast">É possível recuperar uma parte da &font_wood;munição&font_end;!</string>
 
@@ -3669,7 +3788,8 @@
     <string name="cartographer_stone_info">Permite marcar ou acrescentar informações às suas ilhas na lista de ilhas.</string>
     <string name="wooden_sign_info">Use isto para criar uma &font_wood;Placa de Madeira &font_end;em qualquer lugar, com um texto escrito. Ela irá aparecer no mapa como um &font_wood;X&font_end;.</string>
 
-    <string name="button_blacksmith_ask_about_material_tiers">Perguntar sobre o &font_cyan;ranqueamento&font_end; dos &font_wood;materiais&font_end;</string>
+    <string name="button_blacksmith_ask_about_material_tiers">Perguntar sobre o &font_cyan;ranqueamento&font_end;
+        dos &font_wood;materiais&font_end;</string>
     <string name="blacksmith_material_tiers_message">Ah, você quer saber sobre o ranqueamento dos materiais? Esta é a ordem:&br;&br;&font_wood;Madeira &font_end;-> &font_leather;COuro &font_end;-> &font_copper;Cobre &font_end;-> &font_tin;Latão &font_end;-> &font_iron;Ferro &font_end;-> &font_bronze;Bronze &font_end;-> &font_silver;Prata &font_end;-> &font_gold;Ouro &font_end;-> &font_diamond;Diamante &font_end;-> &font_obsidian;Obsidiana &font_end;&br;&br;Existem ainda alguns materiais muito raros, mas eu não acho que você poderá encontrá-los algum dia...</string>
     <string name="button_sort_by_can_craft">Organizar (Pode criar)</string>
     <string name="crafting_filter_can_craft">Pode criar</string>
@@ -3680,20 +3800,12 @@
     <string name="ascended">Ascendeu!</string>
 
     <string name="ascended_text">
-        Você se esquece de tudo, mas começa a sentir que possui mais poder…
-        &br;&br;* Você obtém &font_cyan;%1$d &font_end;x &font_red;Chama&font_end; da &asterisk_ascend_color;Ascenção&font_end;;
-        &br;* A sua &font_health;vida &font_end;máxima agora é &font_health;%2$d&font_end;
-        &br;* O seu &font_mana;mana &font_end;máximo agora é &font_mana;%3$d&font_end;
-        &br;* A sua &font_hunger;fome &font_end;máxima agora é &font_hunger;%4$d&font_end;
+        Você se esquece de tudo, mas começa a sentir que possui mais poder… &br;&br;* Você obtém &font_cyan;%1$d &font_end;x &font_red;Chama&font_end;
+        da &asterisk_ascend_color;Ascenção&font_end;; &br;* A sua &font_health;vida &font_end;máxima agora é &font_health;%2$d&font_end; &br;* O seu &font_mana;mana &font_end;máximo agora é &font_mana;%3$d&font_end; &br;* A sua &font_hunger;fome &font_end;máxima agora é &font_hunger;%4$d&font_end;
 
-        &br;* O seu &font_attack;ataque &font_end;básico agora é &font_attack;%5$d&font_end;
-        &br;* A sua &font_defense;defesa &font_end;básica agora é &font_defense;%6$d&font_end;
-        &br;* A sua &font_mana;inteligência &font_end;básica agora é &font_mana;%7$d&font_end;
-        &br;* A sua &font_speed;velocidade &font_end;básica agora é &font_speed;%8$d&font_end;
+        &br;* O seu &font_attack;ataque &font_end;básico agora é &font_attack;%5$d&font_end; &br;* A sua &font_defense;defesa &font_end;básica agora é &font_defense;%6$d&font_end; &br;* A sua &font_mana;inteligência &font_end;básica agora é &font_mana;%7$d&font_end; &br;* A sua &font_speed;velocidade &font_end;básica agora é &font_speed;%8$d&font_end;
 
-        &br;* Você começa com &font_gold;%9$d &font_end;&font_gold;Ouro&font_end;
-        &br;* Você começa com &font_cyan;%10$d &font_end;&font_cyan;Pontos de Habilidade&font_end;
-        &br;&br;Boa sorte nas suas novas aventuras,&br;%11$s!
+        &br;* Você começa com &font_gold;%9$d &font_end;&font_gold;Ouro&font_end; &br;* Você começa com &font_cyan;%10$d &font_end;&font_cyan;Pontos de Habilidade&font_end; &br;&br;Boa sorte nas suas novas aventuras,&br;%11$s!
     </string>
 
     <string name="monster_action_break_reality">Quebrar Realidade</string>
@@ -3724,7 +3836,7 @@
 
     <string name="tool_chopping_axe_infinite">Machado de &font_wood;cortar lenha &font_end;do &font_infinity;Infinito&font_end;</string>
     <string name="tool_pickaxe_infinite">&font_silver;Picareta &font_end;do &font_infinity;Infinito&font_end;</string>
-    <string name="tool_fishing_rod_infinite">Vara de &font_cyan;Pescar &font_enddo ;&font_infinity;Infinito&font_end;</string>
+    <string name="tool_fishing_rod_infinite">Vara de &font_cyan;Pescar &font_end;do &font_infinity;Infinito&font_end;</string>
     <string name="tool_net_infinite">&font_insect;Rede &font_end;do &font_infinity;Infinito&font_end;</string>
     <string name="tool_skinning_knife_infinite">Faca de &font_skin;Esfolar &font_end;do &font_infinity;Infinito&font_end;</string>
     <string name="tool_meat_cleaver_infinite">Cutelo de &font_blood;Carne &font_end;do &font_infinity;Infinito&font_end;</string>
@@ -3761,9 +3873,11 @@
     <string name="stats_extra_inc_speed">&font_speed;Vel&font_end;. Aumentada: &font_speed;%d&font_end;</string>
     <string name="stats_extra_inc_intelligence">&font_mana;Int&font_end;. Aumentada: &font_mana;%d&font_end;</string>
 
-    <string name="increases_max_health">&br;&br;Aumenta a &font_health;Vida&font_end; Máxima.</string>
+    <string name="increases_max_health">&br;&br;Aumenta a &font_health;Vida&font_end;
+        Máxima.</string>
     <string name="increases_max_mana">&br;&br;Aumenta o &font_mana;Mana&font_end; Máximo.</string>
-    <string name="increases_max_hunger">&br;&br;Aumenta a &font_hunger;Fome&font_end; Máxima.</string>
+    <string name="increases_max_hunger">&br;&br;Aumenta a &font_hunger;Fome&font_end;
+        Máxima.</string>
     <string name="increases_base_attack">&br;&br;Aumenta o &font_attack;ataque &font_end;&font_cyan;básico&font_end;.</string>
     <string name="increases_base_defense">&br;&br;Aumenta a &font_defense;defesa &font_end;&font_cyan;básica&font_end;.</string>
     <string name="increases_base_speed">&br;&br;Aumenta a &font_speed;velocidade &font_end;&font_cyan;básica&font_end;.</string>
@@ -3772,12 +3886,14 @@
     <string name="summoning_monster">&font_void;Invocando &font_end;&font_red;monstro&font_end;…</string>
     <string name="summoned_monster">…&font_void;você invocou &font_end;%1$s!</string>
     <string name="cant_summon_if_theres_a_monster_nearby">Não é possível &font_void;invocar &font_end;um &font_red;monstro &font_end;se já houver um &font_red;monstro &font_end;por perto…</string>
-    <string name="scrap_from_inventory_message">Você possui uma &font_red;Chama&font_end; da &asterisk_ascend_color;Ascenção&font_end;, por isso pode &font_iron;desmanchar &font_end;o seu equipamento.&br;&br;Deseja &font_iron;desmanchar &font_end;%1$s?</string>
+    <string name="scrap_from_inventory_message">Você possui uma &font_red;Chama&font_end;
+        da &asterisk_ascend_color;Ascenção&font_end;, por isso pode &font_iron;desmanchar &font_end;o seu equipamento.&br;&br;Deseja &font_iron;desmanchar &font_end;%1$s?</string>
 
     <string name="button_scrap_inventory">Des</string>
     <string name="button_drop_reduced">Lar</string>
 
-    <string name="tile_content_type_monster_trophy">&font_gold;Troféu&font_end; de &font_red;Monstro&font_end;</string>
+    <string name="tile_content_type_monster_trophy">&font_gold;Troféu&font_end;
+        de &font_red;Monstro&font_end;</string>
     <string name="monster_trophy_name">&font_gold;Troféu&font_end; de %1$s [&font_cyan;%2$d&font_end;]</string>
     <string name="item_info_monster_trohpy_info">É um &font_gold;Troféu&font_end; de %1$s, obtido ao matar %1$s de nível &font_cyan;%2$d &font_end;!</string>
 
@@ -3815,7 +3931,7 @@
     <string name="settings_show_pet_in_combat">Mostrar Mascote em Combate</string>
     <string name="settings_show_progress_bars">Mostrar Barras de Progresso</string>
 
-    <string name="wise_have_in_void_island">Que ótimo! Você chegou! Você deve ser cuidadoso... As criaturas daqui são mais perigosas... E há um ser poderoso esperando por você...</string>
+    <string name="wise_have_in_void_island">Que ótimo! Você chegou! Você deve ser cuidadoso… As criaturas daqui são mais perigosas… E há um ser poderoso esperando por você…</string>
 
     <string name="void_master_after_killing_text_3_new">Vejam só… Você está usando um conjunto completo do &font_void;Vazio&font_end;… Aqui está. Você saberá o que fazer com isto… Até logo…</string>
     <string name="settings_show_double_space_map">Espaço Duplo no Mapa</string>
@@ -3827,7 +3943,8 @@
     <string name="pyramid_was_cursed_and_closed">A &font_pyramid;Pirâmide &font_end;estava amaldiçoada e fechada!</string>
     <string name="pyramid_is_now_open">A &font_pyramid;Pirâmide &font_end;está aberta agora!</string>
     <string name="pyramid_didnt_open">A &font_pyramid;Pirâmide &font_end;não abriu…</string>
-    <string name="new_game_chicken_mode_selected">No &font_animal;Modo Franguinho &font_end;você terá as seguintes vantagens:&br;&br;* Os &font_red;monstros &font_end;não irão impedi-lo de interagir com &font_cyan;NPCs&font_end;.&br;&br;* Você começará com um pouco de &font_gold;Ouro&font_end; extra.&br;&br;* A suas estatísticas básicas serão um pouco melhores.&br;&br;* Você terá &font_speed;Velocidade &font_end;extra quando estiver &font_cyan;fugindo &font_end;de &font_red;monstros&font_end;.&br;&br;* O \"&font_animal;Modo Franguinho&font_end;\" será exibido na tela de estatísticas da &font_cyan;Lenda&font_end;!</string>
+    <string name="new_game_chicken_mode_selected">No &font_animal;Modo Franguinho &font_end;você terá as seguintes vantagens:&br;&br;* Os &font_red;monstros &font_end;não irão impedi-lo de interagir com &font_cyan;NPCs&font_end;.&br;&br;* Você começará com um pouco de &font_gold;Ouro&font_end;
+        extra.&br;&br;* A suas estatísticas básicas serão um pouco melhores.&br;&br;* Você terá &font_speed;Velocidade &font_end;extra quando estiver &font_cyan;fugindo &font_end;de &font_red;monstros&font_end;.&br;&br;* O \"&font_animal;Modo Franguinho&font_end;\" será exibido na tela de estatísticas da &font_cyan;Lenda&font_end;!</string>
     <string name="chicken_mode_checkbox">&font_animal;Modo Franguinho&font_end;</string>
     <string name="new_game_chicken_mode_not_selected">Divirta-se com a experiência RAR II normal.</string>
     <string name="chicken_mode_in_stats">&font_animal;Modo Franguinho&font_end;</string>
@@ -3842,8 +3959,9 @@
 
     <string name="void_master_after_killing_text_3_new_chicken_mode">Vejam só… Você está usando um conjunto completo do &font_void;Vazio&font_end;… Aqui está…</string>
 
-    <string name="tile_content_type_rubber_chicken">&font_animal;Frango&font_end; de &font_legendary;Borracha&font_end;</string>
-        
+    <string name="tile_content_type_rubber_chicken">&font_animal;Frango&font_end;
+        de &font_legendary;Borracha&font_end;</string>
+
 
     <string name="achievement_name_rubber_chicken">Frango de Borracha</string>
     <string name="achievement_desc_rubber_chicken">Mate o Mestre do Vazio usando o conjunto completo da Armadura do Vazio no Modo Franguinho.</string>
@@ -3857,7 +3975,8 @@
     <string name="action_contractor_action_description">&font_cyan;Sentindo&font_end; &font_cyan;Missões&font_end;</string>
     <string name="settings_show_coordinates_below">Mostrar Coordenadas Abaixo</string>
 
-    <string name="skill_mana_eyes_description">Permite ver o &font_mana;mana &font_end;do &font_red;monstro&font_end; em combate.</string>
+    <string name="skill_mana_eyes_description">Permite ver o &font_mana;mana &font_end;do &font_red;monstro&font_end;
+        em combate.</string>
     <string name="skill_mana_eyes">&font_mushroom;Olhos &font_end;de &font_mana;Mana&font_end;</string>
 
     <string name="saving_checkpoint">&font_primary_light;&italic;[SALVANDO CHECKPOINT…]&italic_end;&font_end;</string>

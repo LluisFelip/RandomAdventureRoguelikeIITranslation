@@ -248,11 +248,11 @@
     <string name="collection_insects">Böcekler</string>
     <string name="collection_animals">Hayvanlar</string>
 
-    <string name="about_reddit">Reddit'te RAR II</string>
+    <string name="about_reddit">Reddit\'te RAR II</string>
     <string name="about_title">&line_break;RAR II Hakkında</string>
     <string name="about_text">Bu oyun tek kişilik bir geliştirici takımı tarafından sevgi ve sabırla oluşturulmuştur :)&br;&br;Görüşlerini duymak isterim! Lütfen benimle iletişime geçmekten çekinme ve fikir ve önerilerini paylaş.&br;&br;Umarım macerandan zevk alırsın!</string>
-    <string name="about_twitter">Twitter'da Archison</string>
-    <string name="about_discord">Discord'da RAR II</string>
+    <string name="about_twitter">Twitter\'da Archison</string>
+    <string name="about_discord">Discord\'da RAR II</string>
 
     <string name="new_game_welcome_hero_whats_your_name">Hoşgeldin, kahraman! Adın ne?</string>
     <string name="new_game_hero_name">Kahraman</string>
@@ -578,7 +578,7 @@
     <string name="item_info_weapon">Canavarlara karşı daha güçlü olmak için bunu kuşan!&br;%1$s&br;%2$s</string>
     <string name="item_info_shield">Canavarlardan kendini korumak için bunu kuşan.&br;%1$s&br;%2$s</string>
     <string name="item_info_recipe">%1$s &font_cyan;üretmeyi &font_end;öğrenmek için bunu oku.</string>
-    <string name="item_info_firecamp">&font_green;Pişirebilmek için&font_end; bu %1$s'i başlat.</string>
+    <string name="item_info_firecamp">&font_green;Pişirebilmek için&font_end; bu %1$s\'i başlat.</string>
     <string name="item_info_food">&font_green;%1$d&font_end; açlık yenilemek için bunu ye.</string>
     <string name="item_info_potion">%1$s &font_health;sağlık&font_end; yenilemek için bunu iç.</string>
     <string name="item_info_mana_potion">%1$s &font_mana;mana&font_end; yenilemek için bunu iç.</string>
@@ -939,11 +939,11 @@
     <string name="combat_fight">Savaş</string>
     <string name="combat_player_flee_fails">Kaçmayı denedin ve başarısız oldun…</string>
     <string name="combat_player_flee_succeeds">Başarıyla kaçtın!</string>
-    <string name="combat_killed_monster">%1$s'i öldürdün!</string>
+    <string name="combat_killed_monster">%1$s\'i öldürdün!</string>
     <string name="combat_player_is_dead">%1$s&br;seviye &font_cyan;%2$d&font_end;\'de öldü!</string>
     <string name="combat_corpse_name">%1$s\'in Cesedi</string>
     <string name="combat_monster_attacking_symbol">-&font_dark_red;S&font_end;-</string>
-    <string name="combat_cant_flee_from_monster">%1$\s'den kaçamazsın…</string>
+    <string name="combat_cant_flee_from_monster">%1$s\'den kaçamazsın…</string>
     <string name="combat_monster_obtained_gold">&font_gold;%1$d&font_end; altın elde ettin.</string>
     <string name="combat_monster_obtained_item">%1$s elde ettin.</string>
     <string name="combat_you_throw_the_bucket_to">%1$s\'i %2$s\'e fırlattın! %3$s &font_red;%4$d &font_end;hasar aldı!</string>
@@ -1151,13 +1151,13 @@
     <string name="quest_bring_crafted_food_text_giving">Çok açım! Keşke %1$s olsa da yesem… &font_gold;Satın al &font_end;ya da &font_cyan;üret &font_end; ve bana getir?</string>
     <string name="quest_bring_crafted_food_text_desc">%1$s &font_gold;satın al &font_end;ya da &font_cyan;üret &font_end; ve %3$s,%4$s\'deki %2$s\'e getir.</string>
     <string name="quest_bring_crafted_food_text_complete_desc">Teşekkürler! Bunu sevdim!</string>
-    <string name="quest_bring_crafted_food_text_negative">Korkarım ki %1$s'e sahip değilsin… &font_gold;Satın alınca &font_end;ya da &font_cyan;üretince &font_end; tekrar gel!</string>
+    <string name="quest_bring_crafted_food_text_negative">Korkarım ki %1$s\'e sahip değilsin… &font_gold;Satın alınca &font_end;ya da &font_cyan;üretince &font_end; tekrar gel!</string>
     <string name="quest_bring_crafted_food_text_bring">Sende %1$s var mı? Onu bana ver, lütfen!</string>
     <string name="quest_bring_crafted_food_thanks">Teşekkürler! Bunu sevdim!</string>
     <string name="quest_added_quest">Görev Eklendi (%1$s)</string>
     <string name="quest_complete">Görev Tamamlandı!</string>
-    <string name="quest_kill_single_monster_text_giving">&font_cyan;%2$d&font_end;,&font_cyan;%3$d&font_end;\'deki %1$s'i öldür</string>
-    <string name="quest_find_lost_item_text_giving">%1$s'i kaybettim… Onu son gördüğüm zaman, Sanırım %2$s, %3$s'deydi… Lütfen, onu &font_cyan;Ara &font_end;ve bana getir! Teşekkürler!</string>
+    <string name="quest_kill_single_monster_text_giving">&font_cyan;%2$d&font_end;,&font_cyan;%3$d&font_end;\'deki %1$s\'i öldür</string>
+    <string name="quest_find_lost_item_text_giving">%1$s\'i kaybettim… Onu son gördüğüm zaman, Sanırım %2$s, %3$s\'deydi… Lütfen, onu &font_cyan;Ara &font_end;ve bana getir! Teşekkürler!</string>
     <string name="quest_find_lost_item_text_reward">Ödülün burada: %1$s!</string>
     <string name="quest_find_lost_item_text_quest_screen_find">%1$s\'i bulmalısın. Onu %2$s, %3$s civarında &font_cyan;Araman &font_end;söylendi.</string>
     <string name="quest_find_lost_item_text_quest_screen_return">%3$s, %4$s\'deki %2$s\'e %1$s iade et.</string>
@@ -3031,13 +3031,13 @@
     <string name="race_human_desc">En esnek ve her şeye yatkın olan ırk. Onlar iyilik ve kötülüğün arasındaki ince çizgide yürür. Dövüş ve büyü açısından dengelidirler ve doğuştan gelen bir işçilik bilgisine sahiptirler. Ve tabii ki de doğal bir kaşiftirler!</string>
     <string name="race_dwarf_desc">Dağların altında sadece mayınlarını ve biralarını önemseyerek yaşarlardı, ancak son zamanlarda dünyadaki kötülüğün yayılması nedeniyle, birçoğu atalarının geçmişte yaptığı gibi kendi efsanelerini yaşamak için dünyayı keşfetmeye başladı. Büyük madencilik becerilerine sahip en güçlü ırklardan biridir ve Bira üretebilen tek ırktır.</string>
     <string name="race_halfling_desc">Kitaplarda ve öykülerde görünseler bile, buçukluklar kendi gizli köylerinde yaşayan, yemek, yiyen, ilk çağdan hikayeleri okuyan ve akıllarındaki her türlü fanteziyi yaşayan huzurlu insanlar olduğu için, neredeyse hiç kimse hayatında birini görmedi. Kötülük dünyaya yayılmaya başladığından beri, en cesur buçuklukların bazıları kitaplarında okudukları gibi kendi maceralarını başlattı.</string>
-    <string name="race_gnome_desc">Hayattan zevk alırlar, buluşun her anından zevk alırlar, keşif ve araştırma yaparlar. Eskiden sadece icatlarına ve keşiflerine odaklanmışlardı, ancak son zamanlarda birçok cesur Gnom'un dünya çapında maceraperest olduğu görülüyor.</string>
+    <string name="race_gnome_desc">Hayattan zevk alırlar, buluşun her anından zevk alırlar, keşif ve araştırma yaparlar. Eskiden sadece icatlarına ve keşiflerine odaklanmışlardı, ancak son zamanlarda birçok cesur Gnom\'un dünya çapında maceraperest olduğu görülüyor.</string>
     <string name="race_elf_desc">Elfler, dünyada yaşayan ama tamamen bir parçası olmayan, dünyasal zarafetin büyülü insanlarıdır. Bencil ve benmerkezci, kötülüğün artan varlığı nedeniyle gelecekleri için endişeleniyorlar, bu yüzden kurtuluşlarını aramak için dünyada daha fazla mevcut olmaya başladılar.</string>
     <string name="race_drow_desc">Genellikle elflerin kötü versiyonu olarak bilinir. Onlar son derece akıllı, karizmatik ve hünerlidir, ancak elflerin kırılganlığı ve hafif iskeletlerini paylaşırlar. Beyaz veya gümüş saçlar ve obsidyen siyahı tenleri ile karakterizedirler.</string>
     <string name="race_undead_desc">Bir zamanlar yaşayan insanlar ölü diriltme büyüleriyle korkunç bir aşağılık duruma hayat verdiler. Büyük bir güç ve zekaya sahipler, ancak hız eksikliği var. Açlıkları diğer ırklardan daha hızlı artar, ancak Mana, Açlık ve Sağlığı yenilemek için cesetler yiyebilirler.</string>
     <string name="race_orc_desc">Hayvani ve vahşi olan orklar, avcılık ve baskınlarla yaşayan kabileler olarak bir araya gelirler. Savaş severler olarak, son zamanlarda dünyaya yayılan kötülükte büyük bir düşman buldular. Önceleri sadece silah ve büyü dilinde konuştukları diğer ırklarla ilişki kurmaya başladılar.</string>
     <string name="race_lizard_desc">Bunlar yarı suda yaşayan sürüngen insansıdır. Derileri pullarla kaplanmış ve koyu yeşilden kahverengi ve gri tonlarına kadar renklendirilmiştir. En cesurları dünyayı dolaşıyor, hayatlarını geliştirmek ve kötülüğün yok edilmesine yardımcı olmak için başka yerler buluyorlar.</string>
-    <string name="race_unknown_desc">Daha önce kimsenin görmediği garip bir varlık. Dengeli, akıllı ve her duruma uyum sağlayabilen... Hayattaki amaçları bir gizemdir.</string>
+    <string name="race_unknown_desc">Daha önce kimsenin görmediği garip bir varlık. Dengeli, akıllı ve her duruma uyum sağlayabilen… Hayattaki amaçları bir gizemdir.</string>
     <string name="race_attributes">Nitelikler</string>
     <string name="race_traits">Yetenekler</string>
 
@@ -3428,7 +3428,7 @@
     <string name="wise_completely_rested">Tamamen dinlenmiş hissediyorsun!</string>
     <string name="wise_main_story_island_lost_gold_and_memory">Biraz &font_gold;altın &font_end;kaybettin ve biraz da hafızanı…</string>
 
-    <string name="creator_pre_combat_message_1">Bilirsin… &font_asterisk_creator;Yaratıcı&font_end; olmak kolay değil… Her zaman kodluyorum, daha büyük zorluklar ekliyorum, hataları çözüyorum, e-postalara cevap veriyorum, Discord'da sohbet ediyorum, reddit, internet, vb. çok meşgulüm…</string>
+    <string name="creator_pre_combat_message_1">Bilirsin… &font_asterisk_creator;Yaratıcı&font_end; olmak kolay değil… Her zaman kodluyorum, daha büyük zorluklar ekliyorum, hataları çözüyorum, e-postalara cevap veriyorum, Discord\'da sohbet ediyorum, reddit, internet, vb. çok meşgulüm…</string>
     <string name="creator_pre_combat_message_2">Ve bunun hepsi ne için? Söyle bana, neden bunu yapmalıyım? Baskıya artık dayanamıyorum…!</string>
     <string name="creator_pre_combat_message_3">ÖLMEYE HAZIR OL! Mmmmmwwwwahahahahahahaha!</string>
 
