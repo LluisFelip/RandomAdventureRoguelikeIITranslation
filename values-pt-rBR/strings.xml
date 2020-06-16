@@ -1658,7 +1658,7 @@
     <string name="pets_abandon_pet_message">Você tem certeza que quer abandonar %1$s e permitir que desapareça para &italic;sempre&italic_end;…?</string>
     <string name="pets_abandon_pet_abandoned_message">Você abandonou %1$s… Adeus…</string>
 
-    <string name="text_player_experience_given">Você ganhou&font_cyan;%1$d &font_end;pontos de experiência!</string>
+    <string name="text_player_experience_given">Você ganhou &font_cyan;%1$d &font_end;pontos de experiência!</string>
     <string name="text_pet_experience_given">%1$s ganhou &font_cyan;%2$d &font_end;pontos de experiência!</string>
 
     <string name="animal_fed_flesh">Você alimentou %1$s com %2$s.</string>
