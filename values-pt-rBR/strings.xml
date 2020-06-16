@@ -1737,7 +1737,7 @@
     <string name="tile_content_type_wizard_tower">Torre dos Feiticeiros</string>
     <string name="tile_content_type_ruins">Ruínas</string>
     <string name="tile_content_type_temple">Templo</string>
-    <string name="tile_content_type_shipwreck">Navio Naufragado</string>
+    <string name="tile_content_type_shipwreck">Barco Naufragado</string>
     <string name="tile_content_type_young_boy">Menino</string>
     <string name="tile_content_type_well">Poço</string>
     <string name="tile_content_type_portal">&font_portal;Portal&font_end;</string>
@@ -2322,10 +2322,10 @@
 
     <string name="main_story_new_game_first_output">Você acordou em uma &font_sand;Praia &font_end;em &font_cyan;%1$s&font_end;.</string>
     <string name="main_story_1_dialog_title">Abra os olhos</string>
-    <string name="main_story_1_dialog_message">Após o que pareceu ser uma eternidade, você abre os seus olhos e tenta ficar de pé.&br;&br;Olhando ao redor, percebe que está em uma &font_sand;Praia&font_end;. Há um &font_wood;Navio Naufragado&font_end;.&br;&br;Após alguns momentos, percebe que um &font_cyan;Menino &font_end;olha fixamente para você.</string>
+    <string name="main_story_1_dialog_message">Após o que pareceu ser uma eternidade, você abre os seus olhos e tenta ficar de pé.&br;&br;Olhando ao redor, percebe que está em uma &font_sand;Praia&font_end;. Há um &font_wood;Barco Naufragado&font_end;.&br;&br;Após alguns momentos, percebe que um &font_cyan;Menino &font_end;olha fixamente para você.</string>
     <string name="main_story_shipwreck_info">Parece impossível fazer esse &font_wood;Barco Naufragado &font_end;navegar novamente.&br;&br;Ao examiná-lo de perto, ele lhe parece familiar…</string>
     <string name="main_story_young_boy_message_1">O... Olá? Você está bem? Eu estava brincando por aqui e te encontrei inconsciente…</string>
-    <string name="main_story_young_boy_message_2">Achei que tivesse morrido. Ainda bem que me enganei! Esse &font_wood;Navio&font_end;
+    <string name="main_story_young_boy_message_2">Achei que tivesse morrido. Ainda bem que me enganei! Esse &font_wood;Barco&font_end;
         é seu?</string>
     <string name="main_story_young_boy_message_3">Ah… bem, acho que você precisa descansar. O meu pai é o dono da &font_inn;Estalagem &font_end;em &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end;. Vá até lá para descansar, e fale com ele se precisar de alguma coisa. Foi um prazer conhecê-lo!</string>
     <string name="main_story_young_boy_runs_away">O &font_cyan;Menino &font_end;sai correndo.</string>
