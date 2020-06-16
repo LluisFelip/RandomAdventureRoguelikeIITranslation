@@ -3938,7 +3938,7 @@
 
     <string name="young_child_extra_advice_1">Ah, certo… Bem, já que você parece estar meio desorientado, permita-me dar-lhe um conselho…&br;&br;Eu não entraria em combate contra monstros mais fortes do que eu, pelo menos não até me sentir preparado para isso.</string>
     <string name="young_child_extra_advice_2">Se eu fosse você, compraria alguns &font_cyan;Equipamentos &font_end;em uma &font_bronze;Loja de Armas &font_end;ou um &font_mana;Feitiço &font_end;poderoso em uma &font_gold;Loja &font_end;de &font_mana;Magia &font_end;caso queira se proteger melhor…&br;&br;E não, eu não ganho comissão por isso! Muito embora meu &italic;Tio &italic_end;trabalhe na &font_bronze;Loja de Armas &font_end;e minha &italic;Vó &italic_end;gerencie a &font_gold;Loja &font_end;de &font_mana;Magia&font_end;…</string>
-    <string name="young_child_extra_advice_3">Ah! E você deveria comer quando estiver com &font_hunger;fome&font_end;,senão morrerá mais rápido do que imagina!&br;&br;Você pode &font_cyan;comer &font_end;a &font_plant;comida &font_end;do seu &font_wood;Inventário &font_end;ou comer em um &font_bar;Bar &font_end;ou &font_bar;Taverna&font_end;…</string>
+    <string name="young_child_extra_advice_3">Ah! E você deveria comer quando estiver com &font_hunger;fome&font_end;, senão morrerá mais rápido do que imagina!&br;&br;Você pode &font_cyan;comer &font_end;a &font_plant;comida &font_end;do seu &font_wood;Inventário &font_end;ou comer em um &font_bar;Bar &font_end;ou &font_bar;Taverna&font_end;…</string>
 
     <string name="pyramid_was_cursed_and_closed">A &font_pyramid;Pirâmide &font_end;estava amaldiçoada e fechada!</string>
     <string name="pyramid_is_now_open">A &font_pyramid;Pirâmide &font_end;está aberta agora!</string>
