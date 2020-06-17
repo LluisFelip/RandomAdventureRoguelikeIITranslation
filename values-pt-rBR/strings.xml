@@ -2045,7 +2045,7 @@
     <string name="monster_info_speed">&font_speed;Velocidade&font_end;: &font_speed;%1$d&font_end;</string>
     <string name="monster_info_actions" tools:ignore="UnusedResources">Ações:</string>
     <string name="monster_info_action" tools:ignore="UnusedResources"><t>%1$s - &font_attack;Atacar&font_end;: &font_attack;%2$d&font_end;</t></string>
-    <string name="monster_info_challenge_rating">&font_white;Classificação do desafio&font_end;: &font_cyan;%1$d&font_end;</string>
+    <string name="monster_info_challenge_rating">&font_white;Nível de dificuldade&font_end;: &font_cyan;%1$d&font_end;</string>
 
     <string name="skill_tree_button_with_sp">Árvore de Habilidades (&font_cyan;%1$d&font_end;
         SP)</string>
