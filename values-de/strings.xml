@@ -861,9 +861,9 @@
     <string name="villager_text_hello_1" tools:ignore="UnusedResources">Hi!</string>
     <string name="villager_text_hello_2" tools:ignore="UnusedResources">Hi, Held!</string>
     <string name="villager_text_hello_3" tools:ignore="UnusedResources">Hi, Abenteurer!</string>
-    <string name="villager_text_hello_4" tools:ignore="UnusedResources">Hello!</string>
-    <string name="villager_text_hello_5" tools:ignore="UnusedResources">Hello, Abenteurer!</string>
-    <string name="villager_text_hello_6" tools:ignore="UnusedResources">Hello, Held!</string>
+    <string name="villager_text_hello_4" tools:ignore="UnusedResources">Hallo!</string>
+    <string name="villager_text_hello_5" tools:ignore="UnusedResources">Hallo, Abenteurer!</string>
+    <string name="villager_text_hello_6" tools:ignore="UnusedResources">Hallo, Held!</string>
     <string name="villager_text_hello_7" tools:ignore="UnusedResources">Hey…</string>
     <string name="villager_text_hello_8" tools:ignore="UnusedResources">Hey, Abenteurer…</string>
     <string name="villager_text_hello_9" tools:ignore="UnusedResources">Hey, Held…</string>
@@ -910,36 +910,36 @@
     Wenn ihr nichts zu tun habt… Ich könnte da mit etwas Hilfe brauchen\n
     Könnt ihr Helfen?\n
     Könnt ihr mir bitte Helfen?\n
-    My family and I would be grateful if you could help us…\n
-    My family and I need something…\n
-    There\'s something I need…\n
-    Would you be so kind to help me?\n
-    Could you help me out?\n
-    I\'m afraid I must ask you for a favor…\n
-    If it isn\'t much to ask, I need you to do something…\n
-    Could you please help me with something?\n
-    Could you give me a hand?\n
-    We need help with something…\n
-    We need to ask you for a favor…\n
-    I know we haven\'t met before, but I must ask you for a favor…\n
-    I\'ve had this problem for a long time and I could use your help with it…\n
-    We aren\'t used to having strangers around here… Can I ask you for a favor?\n
-    We aren\'t used to having strangers around here… Can you do me a favor?\n
-    You are not from around here, are you? Can you do something for me?\n
-    You are not from around here, are you? May I ask you for a favor?\n
-    Where do you come from? Is it too much if I ask you for this…\n
-    Ah, if it isn\'t much trouble, could you help me with something?\n
-    I am in trouble and would really appreciate some help. Would you be willing to help?\n
-    Before you leave, could you help with something? It\'s a matter of vital importance…\n
-    Before you leave, could you help me?\n
-    Before you leave, would you help me?\n
-    Before you go, could you help me?\n
-    Before you go, would you help me?\n
-    Before you go, please can you do me a favor?\n
-    Can you help with something?\n
-    Can you help me out with something, please?\n
-    Can you help me with something, please?\n
-    I heard you are a good hero. Would you help me please?
+    Meine Familie wäre dankbar wenn ihr uns helfen könntet…\n
+    Meine Familie und ich bräuchten etwas…\n
+    Es gibt etwas was ich bräuchte…\n
+    Währt ich so gnädig mir zu Helfen?\n
+    Könnt ihr mir Helfen?\n
+    Ich fürchte ich muss euch um einen Gefallen bitten…\n
+    Wenn es nicht zu viel ist würde ich euch gerne um einen Gefallen bitten…\n
+    Könntet ihr mir bitte mit etwas helfen?\n
+    Könntet ihr mir die Hand reichen?\n
+    Wir bräuchten da mit etwas hilfe…\n
+    Wir müssten euch um einen Gefallen bitten…\n
+    Ich weiß wir haben uns noch nie Getroffen aber ich möchte euch um einen Gefallen bitten…\n
+    Ich habe seit langer Zeit ein Problem mit dem ihr mir helfen könntet…\n
+    Wir sind Fremde nicht gewöhnt… Kann ich euch um einen Gefallen bitten?\n
+    Wir sind Fremde, in dieser Gegend, nicht gewöhnt… Könnt ihr mir einen Gefallen tun?\n
+    Ihr seit nicht von hier oder? Könnt ihr etwas für mich tun?\n
+    Ihr seit nicht von hier oder? Kann ich euch um einen Gefallen bitten?\n
+    Von wo kommt ihr? Wäre es zu viel zu Fragen mir hiermit zu Helfen…\n
+    Ah, wenn es keine Probleme bereitet, könntet ihr mir mit Etwas helfen?\n
+    Ich stecke in Problemen und könnte hilfe wirklich brauchen. Währt ihr Gewillt zu helfen?\n
+    Könnt ihr mir mit einer Angelegenheit helfen bevor ihr geht? Es geht um Leben und Tod…\n
+    Könnt ihr mir Helfen bevor ihr uns Verlasst?\n 
+    Würdet ihr mir Helfen bevor ihr uns Verlasst?\n
+    Könnt ihr mir Helfen bevor ihr geht?\n
+    Würdet ihr mir Helfen bevor ihr geht?\n
+    Könntet ihr mir einen Gefallen tun bevor ihr geht?\n
+    Könnt ihr hiermit Helfen?\n
+    Könnt ihr mit etwas Aushelfen? Bitte?\n
+    Könnt ihr mit etwas Helfen? Bitte?\n
+    Ich hörte ich währet ein Held. Könnt ihr mir bitte Helfen?
         ]]>
     </string>
 
@@ -1043,19 +1043,19 @@
     ]]>
     </string>
 
-    <string name="merchants_title">&font_gold;Merchants &font_end;(&font_gold;%1$d&font_end;)</string>
-    <string name="merchant_text_you_have_no_merchants_right_now">You haven\'t found any merchants yet…</string>
-    <string name="merchant_quest_description">&font_gold;%1$s&font_end; at &font_cyan;%2$d&font_end;, &font_cyan;%3$d &font_end;has asked you to bring &font_cyan;%4$d &font_end;%5$s. You currently have %6$s. [&font_cyan;%7$s&font_end;]</string>
+    <string name="merchants_title">&font_gold;Händler &font_end;(&font_gold;%1$d&font_end;)</string>
+    <string name="merchant_text_you_have_no_merchants_right_now">Ihr habt bisher noch keine Händler getroffen…</string>
+    <string name="merchant_quest_description">&font_gold;%1$s&font_end; bei &font_cyan;%2$d&font_end;, &font_cyan;%3$d &font_end;hat euch gebeten &font_cyan;%4$d &font_end;%5$s zu besorgen. Aktuell habt ihr %6$s. [&font_cyan;%7$s&font_end;]</string>
 
     <string name="quest_quests_title">&font_cyan;Quests &font_end;(&font_cyan;%1$d&font_end;)</string>
-    <string name="quest_text_for_gold">for %1$s Gold</string>
-    <string name="quest_text_reward">Reward: %1$s Gold</string>
+    <string name="quest_text_for_gold">für %1$s Gold</string>
+    <string name="quest_text_reward">Belohnung: %1$s Gold</string>
     <string name="quest_island_name_parenthesis">[&font_cyan;%1$s&font_end;]</string>
-    <string name="quest_snackbar_action_go">Go</string>
-    <string name="quest_text_you_have_no_quests_right_now">You have no quests right now…</string>
-    <string name="quest_completed_quest">Completed %1$s</string>
-    <string name="quest_item_found">Found %1$s!</string>
-    <string name="quest_bring_crafted_food_text_giving">I\'m hungry! I\'d love to eat %1$s… Could you &font_gold;buy &font_end;or &font_cyan;craft &font_end;one and bring it to me?</string>
+    <string name="quest_snackbar_action_go">Los</string>
+    <string name="quest_text_you_have_no_quests_right_now">Momentan habt ihr keine Quests…</string>
+    <string name="quest_completed_quest">Beendet %1$s</string>
+    <string name="quest_item_found">%1$s wurde gefunden!</string>
+    <string name="quest_bring_crafted_food_text_giving">Ich hab Hunger! Ich will %1$s essen… Könntet ihr es &font_gold;kaufen &font_end;oder &font_cyan;zubereiten &font_end;und mir dann bringen?</string>
     <string name="quest_bring_crafted_food_text_desc">You have to &font_gold;buy &font_end;or &font_cyan;craft &font_end;a %1$s and bring it to %2$s at %3$s,%4$s</string>
     <string name="quest_bring_crafted_food_text_complete_desc">Thanks! I love it!</string>
     <string name="quest_bring_crafted_food_text_negative">I\'m afraid you don\'t have %1$s… Come back when you &font_gold;Buy &font_end;or &font_cyan;craft &font_end;one!</string>
