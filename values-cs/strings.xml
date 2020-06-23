@@ -964,7 +964,7 @@
     <string name="villager_text_hello_29" tools:ignore="UnusedResources">Ahůj…</string>
     <string name="villager_text_hello_30" tools:ignore="UnusedResources">Čauko!</string>
     <string name="villager_text_hello_31" tools:ignore="UnusedResources">…</string>
-    <string name="villager_text_hello_32" tools:ignore="UnusedResources">Well…</string>
+    <string name="villager_text_hello_32" tools:ignore="UnusedResources">No…</string>
     <string name="villager_text_hello_33" tools:ignore="UnusedResources">Tákže…</string>
     <string name="villager_text_hello_34" tools:ignore="UnusedResources">Co je nového?</string>
     <string name="villager_text_hello_35" tools:ignore="UnusedResources">Čůs!</string>
@@ -1111,34 +1111,34 @@
     ]]>
     </string>
 
-    <string name="merchants_title">&font_gold;Merchants &font_end;(&font_gold;%1$d&font_end;)</string>
-    <string name="merchant_text_you_have_no_merchants_right_now">You haven\'t found any merchants yet…</string>
-    <string name="merchant_quest_description">&font_gold;%1$s&font_end; at &font_cyan;%2$d&font_end;, &font_cyan;%3$d &font_end;has asked you to bring &font_cyan;%4$d &font_end;%5$s. You currently have %6$s. [&font_cyan;%7$s&font_end;]</string>
+    <string name="merchants_title">&font_gold;Kupci &font_end;(&font_gold;%1$d&font_end;)</string>
+    <string name="merchant_text_you_have_no_merchants_right_now">Dosud jsi nenašel žádné kupce…</string>
+    <string name="merchant_quest_description">&font_gold;%1$s&font_end; na souřadnicích &font_cyan;%2$d&font_end;, &font_cyan;%3$d &font_end;tě požádal abys přinesl &font_cyan;%4$d &font_end;%5$s. Zatím máš %6$s. [&font_cyan;%7$s&font_end;]</string>
 
-    <string name="quest_quests_title">&font_cyan;Quests &font_end;(&font_cyan;%1$d&font_end;)</string>
-    <string name="quest_text_for_gold">for %1$s Gold</string>
-    <string name="quest_text_reward">Reward: %1$s Gold</string>
+    <string name="quest_quests_title">&font_cyan;Úkoly &font_end;(&font_cyan;%1$d&font_end;)</string>
+    <string name="quest_text_for_gold">za %1$s Zlata</string>
+    <string name="quest_text_reward">Odměna: %1$s Zlata</string>
     <string name="quest_island_name_parenthesis">[&font_cyan;%1$s&font_end;]</string>
-    <string name="quest_snackbar_action_go">Go</string>
-    <string name="quest_text_you_have_no_quests_right_now">You have no quests right now…</string>
-    <string name="quest_completed_quest">Completed %1$s</string>
-    <string name="quest_item_found">Found %1$s!</string>
-    <string name="quest_bring_crafted_food_text_giving">I\'m hungry! I\'d love to eat %1$s… Could you &font_gold;buy &font_end;or &font_cyan;craft &font_end;one and bring it to me?</string>
-    <string name="quest_bring_crafted_food_text_desc">You have to &font_gold;buy &font_end;or &font_cyan;craft &font_end;a %1$s and bring it to %2$s at %3$s,%4$s</string>
-    <string name="quest_bring_crafted_food_text_complete_desc">Thanks! I love it!</string>
-    <string name="quest_bring_crafted_food_text_negative">I\'m afraid you don\'t have %1$s… Come back when you &font_gold;Buy &font_end;or &font_cyan;craft &font_end;one!</string>
-    <string name="quest_bring_crafted_food_text_bring">Do you have the %1$s? Give it to me, please!</string>
-    <string name="quest_bring_crafted_food_thanks">Thanks! I love it!</string>
-    <string name="quest_added_quest">Added Quest (%1$s)</string>
-    <string name="quest_complete">Quest complete!</string>
-    <string name="quest_kill_single_monster_text_giving">Kill the %1$s at &font_cyan;%2$d&font_end;, &font_cyan;%3$d&font_end; </string>
-    <string name="quest_find_lost_item_text_giving">I\'ve lost %1$s… The last time I saw it, I think it was around %2$s, %3$s… Please, &font_cyan;Search &font_end;for it and return it to me! Thank you!</string>
-    <string name="quest_find_lost_item_text_reward">Here\'s your reward: %1$s!</string>
-    <string name="quest_find_lost_item_text_quest_screen_find">You must find %1$s. You\'ve been told to &font_cyan;Search &font_end;for it around %2$s, %3$s.</string>
-    <string name="quest_find_lost_item_text_quest_screen_return">Return %1$s to %2$s at %3$s, %4$s.</string>
-    <string name="quest_find_lost_item_text_villager_complete">Thanks for returning me %1$s!</string>
-    <string name="quest_find_item_now_return_to">You found %1$s! Now return it to &font_cyan;%2$s &font_end;at &font_cyan;%3$d&font_end;, &font_cyan;%4$d&font_end;.</string>
-    <string name="quest_find_lost_item_tile_content_name">This is a quest item. You have to return it to its owner.</string>
+    <string name="quest_snackbar_action_go">Vejít</string>
+    <string name="quest_text_you_have_no_quests_right_now">V současnosti nemáš žádné úkoly…</string>
+    <string name="quest_completed_quest">Úkol %1$s splněn</string>
+    <string name="quest_item_found">Nalezl jsi %1$s!</string>
+    <string name="quest_bring_crafted_food_text_giving">Mám hlad! Rád bych si dal %1$s… Mohl bys to pro mě &font_gold;koupit&font_end; nebo &font_cyan;připravit&font_end; a donést mi to?</string>
+    <string name="quest_bring_crafted_food_text_desc">Musíš &font_gold;koupit&font_end; nebo &font_cyan;připravit&font_end; %1$s a přinést to %2$s na souřadnicích %3$s,%4$s</string>
+    <string name="quest_bring_crafted_food_text_complete_desc">Díky, je to super!</string>
+    <string name="quest_bring_crafted_food_text_negative">Obávám se že ještě nemáš %1$s… Přijď zpátky až jeden &font_gold;koupíš&font_end; nebo &font_cyan;vyrobíš&font_end;!</string>
+    <string name="quest_bring_crafted_food_text_bring">Máš %1$s? Prosím, dej mi to!</string>
+    <string name="quest_bring_crafted_food_thanks">Super, díky moc!</string>
+    <string name="quest_added_quest">Úkol přidán (%1$s)</string>
+    <string name="quest_complete">Úkol dokončen!</string>
+    <string name="quest_kill_single_monster_text_giving">Zabij %1$s na souřadnicích &font_cyan;%2$d&font_end;, &font_cyan;%3$d&font_end; </string>
+    <string name="quest_find_lost_item_text_giving">Ztratil jsem %1$s někde okolo %2$s, %3$s… Prosím, &font_cyan;hledej&font_end; to a dones mi to zpátky! Děkuji!</string>
+    <string name="quest_find_lost_item_text_reward">Zde je tvá odměna: %1$s!</string>
+    <string name="quest_find_lost_item_text_quest_screen_find">Máš najít %1$s. Musíš &font_cyan;hledat&font_end; okolo %2$s, %3$s.</string>
+    <string name="quest_find_lost_item_text_quest_screen_return">%2$s na souřadnicích %3$s, %4$s tě požádal, abys přinesl %1$s</string>
+    <string name="quest_find_lost_item_text_villager_complete">Děkuji za navrácení %1$s!</string>
+    <string name="quest_find_item_now_return_to">Našel jsi %1$s! Teď to vrať &font_cyan;%2$s&font_end; na souřadnicích &font_cyan;%3$d&font_end;, &font_cyan;%4$d&font_end;.</string>
+    <string name="quest_find_lost_item_tile_content_name">Tohle je úkolový předmět. Musíš jej navrátit jeho majiteli.</string>
 
 
     <string name="quest_find_lost_item_item_name_001" tools:ignore="UnusedResources">a magic box</string>
