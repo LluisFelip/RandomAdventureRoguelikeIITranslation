@@ -1141,291 +1141,291 @@
     <string name="quest_find_lost_item_tile_content_name">Tohle je úkolový předmět. Musíš jej navrátit jeho majiteli.</string>
 
 
-    <string name="quest_find_lost_item_item_name_001" tools:ignore="UnusedResources">a magic box</string>
-    <string name="quest_find_lost_item_item_name_002" tools:ignore="UnusedResources">a mysterious bag</string>
-    <string name="quest_find_lost_item_item_name_003" tools:ignore="UnusedResources">a secret document</string>
-    <string name="quest_find_lost_item_item_name_004" tools:ignore="UnusedResources">a stinky thing</string>
-    <string name="quest_find_lost_item_item_name_005" tools:ignore="UnusedResources">a map with an X</string>
-    <string name="quest_find_lost_item_item_name_006" tools:ignore="UnusedResources">a family picture</string>
-    <string name="quest_find_lost_item_item_name_007" tools:ignore="UnusedResources">a bucket of flowers</string>
-    <string name="quest_find_lost_item_item_name_008" tools:ignore="UnusedResources">a can of dog food</string>
-    <string name="quest_find_lost_item_item_name_009" tools:ignore="UnusedResources">a key</string>
-    <string name="quest_find_lost_item_item_name_010" tools:ignore="UnusedResources">a valuable disk</string>
-    <string name="quest_find_lost_item_item_name_011" tools:ignore="UnusedResources">a nice hat</string>
-    <string name="quest_find_lost_item_item_name_012" tools:ignore="UnusedResources">a potato</string>
-    <string name="quest_find_lost_item_item_name_013" tools:ignore="UnusedResources">a raincoat</string>
-    <string name="quest_find_lost_item_item_name_014" tools:ignore="UnusedResources">a magic mirror</string>
-    <string name="quest_find_lost_item_item_name_015" tools:ignore="UnusedResources">a guitar without strings</string>
-    <string name="quest_find_lost_item_item_name_016" tools:ignore="UnusedResources">a gift box</string>
-    <string name="quest_find_lost_item_item_name_017" tools:ignore="UnusedResources">a king\'s diary</string>
-    <string name="quest_find_lost_item_item_name_018" tools:ignore="UnusedResources">a golden tooth</string>
-    <string name="quest_find_lost_item_item_name_019" tools:ignore="UnusedResources">a toy</string>
-    <string name="quest_find_lost_item_item_name_020" tools:ignore="UnusedResources">a glove</string>
-    <string name="quest_find_lost_item_item_name_021" tools:ignore="UnusedResources">a smashed pumpkin</string>
-    <string name="quest_find_lost_item_item_name_022" tools:ignore="UnusedResources">a piece of paper</string>
-    <string name="quest_find_lost_item_item_name_023" tools:ignore="UnusedResources">a love letter</string>
-    <string name="quest_find_lost_item_item_name_024" tools:ignore="UnusedResources">a beer can</string>
-    <string name="quest_find_lost_item_item_name_025" tools:ignore="UnusedResources">a wine bottle</string>
-    <string name="quest_find_lost_item_item_name_026" tools:ignore="UnusedResources">a newspaper</string>
-    <string name="quest_find_lost_item_item_name_027" tools:ignore="UnusedResources">a golf stick</string>
-    <string name="quest_find_lost_item_item_name_028" tools:ignore="UnusedResources">a screwdriver</string>
-    <string name="quest_find_lost_item_item_name_029" tools:ignore="UnusedResources">a screw</string>
-    <string name="quest_find_lost_item_item_name_030" tools:ignore="UnusedResources">a rare book</string>
-    <string name="quest_find_lost_item_item_name_031" tools:ignore="UnusedResources">a mask</string>
-    <string name="quest_find_lost_item_item_name_032" tools:ignore="UnusedResources">a cauliflower</string>
-    <string name="quest_find_lost_item_item_name_033" tools:ignore="UnusedResources">an antique coin</string>
-    <string name="quest_find_lost_item_item_name_034" tools:ignore="UnusedResources">an antique picture</string>
-    <string name="quest_find_lost_item_item_name_035" tools:ignore="UnusedResources">a memory</string>
-    <string name="quest_find_lost_item_item_name_036" tools:ignore="UnusedResources">a book without pages</string>
-    <string name="quest_find_lost_item_item_name_037" tools:ignore="UnusedResources">an elf\'s ear</string>
-    <string name="quest_find_lost_item_item_name_038" tools:ignore="UnusedResources">a cucumber</string>
-    <string name="quest_find_lost_item_item_name_039" tools:ignore="UnusedResources">a pickle</string>
-    <string name="quest_find_lost_item_item_name_040" tools:ignore="UnusedResources">a princes shoe</string>
-    <string name="quest_find_lost_item_item_name_041" tools:ignore="UnusedResources">a fancy dress</string>
-    <string name="quest_find_lost_item_item_name_042" tools:ignore="UnusedResources">a bag of snacks</string>
-    <string name="quest_find_lost_item_item_name_043" tools:ignore="UnusedResources">a bag of laughs</string>
-    <string name="quest_find_lost_item_item_name_044" tools:ignore="UnusedResources">a delicate vase</string>
-    <string name="quest_find_lost_item_item_name_045" tools:ignore="UnusedResources">a nail file</string>
-    <string name="quest_find_lost_item_item_name_046" tools:ignore="UnusedResources">a chalk</string>
-    <string name="quest_find_lost_item_item_name_047" tools:ignore="UnusedResources">a needle</string>
-    <string name="quest_find_lost_item_item_name_048" tools:ignore="UnusedResources">a cork</string>
-    <string name="quest_find_lost_item_item_name_049" tools:ignore="UnusedResources">a magnet</string>
-    <string name="quest_find_lost_item_item_name_050" tools:ignore="UnusedResources">a button</string>
-    <string name="quest_find_lost_item_item_name_051" tools:ignore="UnusedResources">a bookmark</string>
-    <string name="quest_find_lost_item_item_name_052" tools:ignore="UnusedResources">a red jumper</string>
-    <string name="quest_find_lost_item_item_name_053" tools:ignore="UnusedResources">a blue t-shirt</string>
-    <string name="quest_find_lost_item_item_name_054" tools:ignore="UnusedResources">a green shirt</string>
-    <string name="quest_find_lost_item_item_name_055" tools:ignore="UnusedResources">a hand mirror</string>
-    <string name="quest_find_lost_item_item_name_056" tools:ignore="UnusedResources">a used sock</string>
-    <string name="quest_find_lost_item_item_name_057" tools:ignore="UnusedResources">an old figurine</string>
-    <string name="quest_find_lost_item_item_name_058" tools:ignore="UnusedResources">a familiar face</string>
-    <string name="quest_find_lost_item_item_name_059" tools:ignore="UnusedResources">a weird stone</string>
-    <string name="quest_find_lost_item_item_name_060" tools:ignore="UnusedResources">an amazing spider</string>
-    <string name="quest_find_lost_item_item_name_061" tools:ignore="UnusedResources">a picture of a dog</string>
-    <string name="quest_find_lost_item_item_name_062" tools:ignore="UnusedResources">a picture of a cat</string>
-    <string name="quest_find_lost_item_item_name_063" tools:ignore="UnusedResources">a very valuable painting</string>
-    <string name="quest_find_lost_item_item_name_064" tools:ignore="UnusedResources">a useless tool</string>
-    <string name="quest_find_lost_item_item_name_065" tools:ignore="UnusedResources">a weird device</string>
-    <string name="quest_find_lost_item_item_name_066" tools:ignore="UnusedResources">a hate letter</string>
+    <string name="quest_find_lost_item_item_name_001" tools:ignore="UnusedResources">kouzelná bedna</string>
+    <string name="quest_find_lost_item_item_name_002" tools:ignore="UnusedResources">záhadný pytel</string>
+    <string name="quest_find_lost_item_item_name_003" tools:ignore="UnusedResources">tajný dokument</string>
+    <string name="quest_find_lost_item_item_name_004" tools:ignore="UnusedResources">zapáchající hromádka</string>
+    <string name="quest_find_lost_item_item_name_005" tools:ignore="UnusedResources">mapa k pokladu</string>
+    <string name="quest_find_lost_item_item_name_006" tools:ignore="UnusedResources">vlajka</string>
+    <string name="quest_find_lost_item_item_name_007" tools:ignore="UnusedResources">kytice květin</string>
+    <string name="quest_find_lost_item_item_name_008" tools:ignore="UnusedResources">plechovka psího žřádla</string>
+    <string name="quest_find_lost_item_item_name_009" tools:ignore="UnusedResources">klíč</string>
+    <string name="quest_find_lost_item_item_name_010" tools:ignore="UnusedResources">májský kalendář</string>
+    <string name="quest_find_lost_item_item_name_011" tools:ignore="UnusedResources">krásný klobouk</string>
+    <string name="quest_find_lost_item_item_name_012" tools:ignore="UnusedResources">brambora</string>
+    <string name="quest_find_lost_item_item_name_013" tools:ignore="UnusedResources">pršiplášť</string>
+    <string name="quest_find_lost_item_item_name_014" tools:ignore="UnusedResources">zářivé zrcadlo</string>
+    <string name="quest_find_lost_item_item_name_015" tools:ignore="UnusedResources">kytara bez strun</string>
+    <string name="quest_find_lost_item_item_name_016" tools:ignore="UnusedResources">dárek</string>
+    <string name="quest_find_lost_item_item_name_017" tools:ignore="UnusedResources">králův deník</string>
+    <string name="quest_find_lost_item_item_name_018" tools:ignore="UnusedResources">zlatý zub</string>
+    <string name="quest_find_lost_item_item_name_019" tools:ignore="UnusedResources">hračka</string>
+    <string name="quest_find_lost_item_item_name_020" tools:ignore="UnusedResources">rukavice</string>
+    <string name="quest_find_lost_item_item_name_021" tools:ignore="UnusedResources">děravá dýně</string>
+    <string name="quest_find_lost_item_item_name_022" tools:ignore="UnusedResources">cár papíru</string>
+    <string name="quest_find_lost_item_item_name_023" tools:ignore="UnusedResources">milostný dopis</string>
+    <string name="quest_find_lost_item_item_name_024" tools:ignore="UnusedResources">plechovka Plzně</string>
+    <string name="quest_find_lost_item_item_name_025" tools:ignore="UnusedResources">moravské vínko</string>
+    <string name="quest_find_lost_item_item_name_026" tools:ignore="UnusedResources">Lidové noviny</string>
+    <string name="quest_find_lost_item_item_name_027" tools:ignore="UnusedResources">hokejka</string>
+    <string name="quest_find_lost_item_item_name_028" tools:ignore="UnusedResources">šroubovák</string>
+    <string name="quest_find_lost_item_item_name_029" tools:ignore="UnusedResources">vrtačka</string>
+    <string name="quest_find_lost_item_item_name_030" tools:ignore="UnusedResources">Kosmasova kronika</string>
+    <string name="quest_find_lost_item_item_name_031" tools:ignore="UnusedResources">škraboška</string>
+    <string name="quest_find_lost_item_item_name_032" tools:ignore="UnusedResources">pampeliška</string>
+    <string name="quest_find_lost_item_item_name_033" tools:ignore="UnusedResources">stará koruna</string>
+    <string name="quest_find_lost_item_item_name_034" tools:ignore="UnusedResources">portrét</string>
+    <string name="quest_find_lost_item_item_name_035" tools:ignore="UnusedResources">suvenýr</string>
+    <string name="quest_find_lost_item_item_name_036" tools:ignore="UnusedResources">pohlednice</string>
+    <string name="quest_find_lost_item_item_name_037" tools:ignore="UnusedResources">elfí ucho</string>
+    <string name="quest_find_lost_item_item_name_038" tools:ignore="UnusedResources">okurka</string>
+    <string name="quest_find_lost_item_item_name_039" tools:ignore="UnusedResources">zavařenina</string>
+    <string name="quest_find_lost_item_item_name_040" tools:ignore="UnusedResources">střevíc</string>
+    <string name="quest_find_lost_item_item_name_041" tools:ignore="UnusedResources">šaty</string>
+    <string name="quest_find_lost_item_item_name_042" tools:ignore="UnusedResources">brambůrky</string>
+    <string name="quest_find_lost_item_item_name_043" tools:ignore="UnusedResources">klaunův nos</string>
+    <string name="quest_find_lost_item_item_name_044" tools:ignore="UnusedResources">ozdobná váza</string>
+    <string name="quest_find_lost_item_item_name_045" tools:ignore="UnusedResources">pilník</string>
+    <string name="quest_find_lost_item_item_name_046" tools:ignore="UnusedResources">brýle</string>
+    <string name="quest_find_lost_item_item_name_047" tools:ignore="UnusedResources">jehla</string>
+    <string name="quest_find_lost_item_item_name_048" tools:ignore="UnusedResources">špunt</string>
+    <string name="quest_find_lost_item_item_name_049" tools:ignore="UnusedResources">magnet</string>
+    <string name="quest_find_lost_item_item_name_050" tools:ignore="UnusedResources">knoflík</string>
+    <string name="quest_find_lost_item_item_name_051" tools:ignore="UnusedResources">záložka</string>
+    <string name="quest_find_lost_item_item_name_052" tools:ignore="UnusedResources">svetr od babičky</string>
+    <string name="quest_find_lost_item_item_name_053" tools:ignore="UnusedResources">tričko Kabátů</string>
+    <string name="quest_find_lost_item_item_name_054" tools:ignore="UnusedResources">vstupenka na koncert</string>
+    <string name="quest_find_lost_item_item_name_055" tools:ignore="UnusedResources">zrcátko</string>
+    <string name="quest_find_lost_item_item_name_056" tools:ignore="UnusedResources">použitá ponožka</string>
+    <string name="quest_find_lost_item_item_name_057" tools:ignore="UnusedResources">Věstonická Venuše</string>
+    <string name="quest_find_lost_item_item_name_058" tools:ignore="UnusedResources">koťátko</string>
+    <string name="quest_find_lost_item_item_name_059" tools:ignore="UnusedResources">zajímavý kámen</string>
+    <string name="quest_find_lost_item_item_name_060" tools:ignore="UnusedResources">radioaktivní pavouk</string>
+    <string name="quest_find_lost_item_item_name_061" tools:ignore="UnusedResources">štěkuláš</string>
+    <string name="quest_find_lost_item_item_name_062" tools:ignore="UnusedResources">čičiburger</string>
+    <string name="quest_find_lost_item_item_name_063" tools:ignore="UnusedResources">freska</string>
+    <string name="quest_find_lost_item_item_name_064" tools:ignore="UnusedResources">WOM paměť</string>
+    <string name="quest_find_lost_item_item_name_065" tools:ignore="UnusedResources">ovladač</string>
+    <string name="quest_find_lost_item_item_name_066" tools:ignore="UnusedResources">stižnost</string>
     <string name="quest_find_lost_item_item_name_067" tools:ignore="UnusedResources">a bird statue</string>
-    <string name="quest_find_lost_item_item_name_068" tools:ignore="UnusedResources">a cake</string>
-    <string name="quest_find_lost_item_item_name_069" tools:ignore="UnusedResources">a zipper</string>
-    <string name="quest_find_lost_item_item_name_070" tools:ignore="UnusedResources">an elegant blouse</string>
-    <string name="quest_find_lost_item_item_name_071" tools:ignore="UnusedResources">a solar watch</string>
+    <string name="quest_find_lost_item_item_name_068" tools:ignore="UnusedResources">frgál</string>
+    <string name="quest_find_lost_item_item_name_069" tools:ignore="UnusedResources">rolexky</string>
+    <string name="quest_find_lost_item_item_name_070" tools:ignore="UnusedResources">zásnubní prsten</string>
+    <string name="quest_find_lost_item_item_name_071" tools:ignore="UnusedResources">slivovice</string>
 
-    <string name="quest_bring_items_text_giving">I need %1$s %2$s…</string>
-    <string name="quest_bring_items_text_quest_screen">Bring %1$s %2$s to %3$s at %4$s, %5$s</string>
-    <string name="quest_bring_items_text_villager_not_enough">Oh, I need %1$s %2$s, you still need %3$s more…</string>
-    <string name="quest_bring_items_text_villager_give_items">Give %1$s %2$s to %3$s?</string>
-    <string name="quest_bring_items_text_you_have_the_items">You have the items!</string>
+    <string name="quest_bring_items_text_giving">Potřebuji %1$s %2$s…</string>
+    <string name="quest_bring_items_text_quest_screen">Přines %1$s %2$s k %3$s at %4$s, %5$s</string>
+    <string name="quest_bring_items_text_villager_not_enough">Ach, potřebuji %1$s %2$s, ještě ti chybí %3$s more…</string>
+    <string name="quest_bring_items_text_villager_give_items">Dones %1$s %2$s k %3$s?</string>
+    <string name="quest_bring_items_text_you_have_the_items">Úžasné, už máš ty předměty!</string>
 
-    <string name="quest_rescue_someone_text_giving">You must rescue %1$s! You should search at %2$s, %3$s, please, hurry up!</string>
-    <string name="quest_rescue_someone_text_quest_screen_rescue">Rescue %1$s! Search at %2$s, %3$s.</string>
-    <string name="quest_rescue_someone_text_quest_screen_return">Return with %1$s to %2$s at %3$s, %4$s.</string>
-    <string name="quest_rescue_someone_text_villager_complete">Thanks for finding %1$s!</string>
-    <string name="quest_rescue_someone_text_reward">Here\'s your reward: %1$s Gold!</string>
-    <string name="quest_rescue_someone">Rescue Someone</string>
-    <string name="quest_rescue_someone_text_output_rescued">Rescued \"%1$s\"!</string>
-    <string name="quest_rescue_someone_following_you">&font_quest;%1$s &font_end;is here, following you…</string>
+    <string name="quest_rescue_someone_text_giving">Musíš osvobodit %1$s! Podívej se okolo %2$s, %3$s. Spěchej prosím!</string>
+    <string name="quest_rescue_someone_text_quest_screen_rescue">Osvoboď %1$s! Hledej okolo %2$s, %3$s.</string>
+    <string name="quest_rescue_someone_text_quest_screen_return">Přiveď %1$s zpátky k %2$s na souřadnicích %3$s, %4$s.</string>
+    <string name="quest_rescue_someone_text_villager_complete">Děkuji žes našel %1$s!</string>
+    <string name="quest_rescue_someone_text_reward">Zde je tvá odměna: %1$s Zlata!</string>
+    <string name="quest_rescue_someone">Osvoboď pohřešovanou osobu</string>
+    <string name="quest_rescue_someone_text_output_rescued">Osvobodil jsi \"%1$s\"!</string>
+    <string name="quest_rescue_someone_following_you">&font_quest;%1$s&font_end; tě následuje…</string>
 
 
-    <string name="quest_rescue_someone_name_1" tools:ignore="UnusedResources">The Princess</string>
-    <string name="quest_rescue_someone_name_2" tools:ignore="UnusedResources">The Prince</string>
-    <string name="quest_rescue_someone_name_3" tools:ignore="UnusedResources">The Queen</string>
-    <string name="quest_rescue_someone_name_4" tools:ignore="UnusedResources">The King</string>
-    <string name="quest_rescue_someone_name_5" tools:ignore="UnusedResources">The Soldier</string>
-    <string name="quest_rescue_someone_name_6" tools:ignore="UnusedResources">The Wounded Soldier</string>
-    <string name="quest_rescue_someone_name_7" tools:ignore="UnusedResources">The Scared Magician</string>
-    <string name="quest_rescue_someone_name_8" tools:ignore="UnusedResources">The Peasant</string>
-    <string name="quest_rescue_someone_name_9" tools:ignore="UnusedResources">The Farmer</string>
-    <string name="quest_rescue_someone_name_10" tools:ignore="UnusedResources">The Wife</string>
-    <string name="quest_rescue_someone_name_11" tools:ignore="UnusedResources">The Husband</string>
-    <string name="quest_rescue_someone_name_12" tools:ignore="UnusedResources">The Child</string>
-    <string name="quest_rescue_someone_name_13" tools:ignore="UnusedResources">The Son</string>
-    <string name="quest_rescue_someone_name_14" tools:ignore="UnusedResources">The Daughter</string>
-    <string name="quest_rescue_someone_name_15" tools:ignore="UnusedResources">The Friend</string>
-    <string name="quest_rescue_someone_name_16" tools:ignore="UnusedResources">The Baker</string>
-    <string name="quest_rescue_someone_name_17" tools:ignore="UnusedResources">The Banker</string>
-    <string name="quest_rescue_someone_name_18" tools:ignore="UnusedResources">The Neighbour</string>
-    <string name="quest_rescue_someone_name_19" tools:ignore="UnusedResources">The Dog</string>
-    <string name="quest_rescue_someone_name_20" tools:ignore="UnusedResources">The Cat</string>
-    <string name="quest_rescue_someone_name_21" tools:ignore="UnusedResources">The Parrot</string>
-    <string name="quest_rescue_someone_name_22" tools:ignore="UnusedResources">The Clown</string>
-    <string name="quest_rescue_someone_name_23" tools:ignore="UnusedResources">The Jester</string>
-    <string name="quest_rescue_someone_name_24" tools:ignore="UnusedResources">The Maths Teacher</string>
-    <string name="quest_rescue_someone_name_25" tools:ignore="UnusedResources">The Scientist</string>
-    <string name="quest_rescue_someone_name_26" tools:ignore="UnusedResources">The Actress</string>
-    <string name="quest_rescue_someone_name_27" tools:ignore="UnusedResources">The Actor</string>
-    <string name="quest_rescue_someone_name_28" tools:ignore="UnusedResources">The Doctor</string>
-    <string name="quest_rescue_someone_name_29" tools:ignore="UnusedResources">The Good Witch</string>
-    <string name="quest_rescue_someone_name_30" tools:ignore="UnusedResources">The Boy</string>
-    <string name="quest_rescue_someone_name_31" tools:ignore="UnusedResources">The Girl</string>
-    <string name="quest_rescue_someone_name_32" tools:ignore="UnusedResources">The Slave</string>
-    <string name="quest_rescue_someone_name_33" tools:ignore="UnusedResources">The Master</string>
-    <string name="quest_rescue_someone_name_34" tools:ignore="UnusedResources">The Lover</string>
+    <string name="quest_rescue_someone_name_1" tools:ignore="UnusedResources">Princezna</string>
+    <string name="quest_rescue_someone_name_2" tools:ignore="UnusedResources">Princ</string>
+    <string name="quest_rescue_someone_name_3" tools:ignore="UnusedResources">Královna</string>
+    <string name="quest_rescue_someone_name_4" tools:ignore="UnusedResources">Král</string>
+    <string name="quest_rescue_someone_name_5" tools:ignore="UnusedResources">Voják</string>
+    <string name="quest_rescue_someone_name_6" tools:ignore="UnusedResources">Zraněný voják</string>
+    <string name="quest_rescue_someone_name_7" tools:ignore="UnusedResources">Vystrašený kouzelník</string>
+    <string name="quest_rescue_someone_name_8" tools:ignore="UnusedResources">Rolník</string>
+    <string name="quest_rescue_someone_name_9" tools:ignore="UnusedResources">Farmář</string>
+    <string name="quest_rescue_someone_name_10" tools:ignore="UnusedResources">Manželka</string>
+    <string name="quest_rescue_someone_name_11" tools:ignore="UnusedResources">Manžel</string>
+    <string name="quest_rescue_someone_name_12" tools:ignore="UnusedResources">Dítě</string>
+    <string name="quest_rescue_someone_name_13" tools:ignore="UnusedResources">Syn</string>
+    <string name="quest_rescue_someone_name_14" tools:ignore="UnusedResources">Dcera</string>
+    <string name="quest_rescue_someone_name_15" tools:ignore="UnusedResources">Přítel</string>
+    <string name="quest_rescue_someone_name_16" tools:ignore="UnusedResources">Pekař</string>
+    <string name="quest_rescue_someone_name_17" tools:ignore="UnusedResources">Bankéř</string>
+    <string name="quest_rescue_someone_name_18" tools:ignore="UnusedResources">Soused</string>
+    <string name="quest_rescue_someone_name_19" tools:ignore="UnusedResources">Pes</string>
+    <string name="quest_rescue_someone_name_20" tools:ignore="UnusedResources">Kočka</string>
+    <string name="quest_rescue_someone_name_21" tools:ignore="UnusedResources">Papoušek</string>
+    <string name="quest_rescue_someone_name_22" tools:ignore="UnusedResources">Klaun</string>
+    <string name="quest_rescue_someone_name_23" tools:ignore="UnusedResources">Šašek</string>
+    <string name="quest_rescue_someone_name_24" tools:ignore="UnusedResources">Učitel matematiky</string>
+    <string name="quest_rescue_someone_name_25" tools:ignore="UnusedResources">Vědec</string>
+    <string name="quest_rescue_someone_name_26" tools:ignore="UnusedResources">Herečka</string>
+    <string name="quest_rescue_someone_name_27" tools:ignore="UnusedResources">Herec</string>
+    <string name="quest_rescue_someone_name_28" tools:ignore="UnusedResources">Doktor</string>
+    <string name="quest_rescue_someone_name_29" tools:ignore="UnusedResources">Dobrá čarodějnice</string>
+    <string name="quest_rescue_someone_name_30" tools:ignore="UnusedResources">Chlapec</string>
+    <string name="quest_rescue_someone_name_31" tools:ignore="UnusedResources">Dívka</string>
+    <string name="quest_rescue_someone_name_32" tools:ignore="UnusedResources">Otrok</string>
+    <string name="quest_rescue_someone_name_33" tools:ignore="UnusedResources">Otrokář</string>
+    <string name="quest_rescue_someone_name_34" tools:ignore="UnusedResources">Milenec</string>
     <string name="quest_rescue_someone_name_35" tools:ignore="UnusedResources">The Priest</string>
-    <string name="quest_rescue_someone_name_36" tools:ignore="UnusedResources">The Monk</string>
-    <string name="quest_rescue_someone_name_37" tools:ignore="UnusedResources">The Warrior</string>
-    <string name="quest_rescue_someone_name_38" tools:ignore="UnusedResources">The Lost Villager</string>
-    <string name="quest_rescue_someone_name_39" tools:ignore="UnusedResources">The Lost Viking</string>
-    <string name="quest_rescue_someone_name_40" tools:ignore="UnusedResources">The Not So Brave Hero</string>
-    <string name="quest_rescue_someone_name_41" tools:ignore="UnusedResources">The Gamer</string>
-    <string name="quest_rescue_someone_name_42" tools:ignore="UnusedResources">The Gambler</string>
-    <string name="quest_rescue_someone_name_43" tools:ignore="UnusedResources">The Chef</string>
-    <string name="quest_rescue_someone_name_44" tools:ignore="UnusedResources">The Cheater</string>
-    <string name="quest_rescue_someone_name_45" tools:ignore="UnusedResources">The Liar</string>
-    <string name="quest_rescue_someone_name_46" tools:ignore="UnusedResources">The Mysterious Man</string>
-    <string name="quest_rescue_someone_name_47" tools:ignore="UnusedResources">The Mysterious Woman</string>
-    <string name="quest_rescue_someone_name_48" tools:ignore="UnusedResources">The Craftsman</string>
-    <string name="quest_rescue_someone_name_49" tools:ignore="UnusedResources">The Council Member</string>
-    <string name="quest_rescue_someone_name_50" tools:ignore="UnusedResources">The Storyteller</string>
-    <string name="quest_rescue_someone_name_51" tools:ignore="UnusedResources">The Torturer</string>
-    <string name="quest_rescue_someone_name_52" tools:ignore="UnusedResources">The Masochist</string>
-    <string name="quest_rescue_someone_name_53" tools:ignore="UnusedResources">The Tortured</string>
-    <string name="quest_rescue_someone_name_54" tools:ignore="UnusedResources">The Funny Guy</string>
-    <string name="quest_rescue_someone_name_55" tools:ignore="UnusedResources">The Boring Guy</string>
-    <string name="quest_rescue_someone_name_56" tools:ignore="UnusedResources">The Funny Girl</string>
-    <string name="quest_rescue_someone_name_57" tools:ignore="UnusedResources">The Boring Girl</string>
-    <string name="quest_rescue_someone_name_58" tools:ignore="UnusedResources">The Woman</string>
-    <string name="quest_rescue_someone_name_59" tools:ignore="UnusedResources">The Man</string>
-    <string name="quest_rescue_someone_name_60" tools:ignore="UnusedResources">The Ugly Woman</string>
-    <string name="quest_rescue_someone_name_61" tools:ignore="UnusedResources">The Ugly Man</string>
-    <string name="quest_rescue_someone_name_62" tools:ignore="UnusedResources">The Beautiful Woman</string>
-    <string name="quest_rescue_someone_name_63" tools:ignore="UnusedResources">The Handsome Man</string>
-    <string name="quest_rescue_someone_name_64" tools:ignore="UnusedResources">The Poor Woman</string>
-    <string name="quest_rescue_someone_name_65" tools:ignore="UnusedResources">The Poor Man</string>
-    <string name="quest_rescue_someone_name_66" tools:ignore="UnusedResources">The Poor Boy</string>
-    <string name="quest_rescue_someone_name_67" tools:ignore="UnusedResources">The Poor Girl</string>
-    <string name="quest_rescue_someone_name_68" tools:ignore="UnusedResources">The Poor Lady</string>
-    <string name="quest_rescue_someone_name_69" tools:ignore="UnusedResources">The Gentleman</string>
-    <string name="quest_rescue_someone_name_70" tools:ignore="UnusedResources">The Gentlewoman</string>
-    <string name="quest_rescue_someone_name_71" tools:ignore="UnusedResources">The Hero</string>
-    <string name="quest_rescue_someone_name_72" tools:ignore="UnusedResources">The Foreigner</string>
-    <string name="quest_rescue_someone_name_73" tools:ignore="UnusedResources">The Traveller</string>
-    <string name="quest_rescue_someone_name_74" tools:ignore="UnusedResources">The Troublemaker</string>
-    <string name="quest_rescue_someone_name_75" tools:ignore="UnusedResources">The Lazy Woman</string>
-    <string name="quest_rescue_someone_name_76" tools:ignore="UnusedResources">The Lazy Man</string>
-    <string name="quest_rescue_someone_name_77" tools:ignore="UnusedResources">The Lazy Kid</string>
-    <string name="quest_rescue_someone_name_78" tools:ignore="UnusedResources">The Lazy Girl</string>
+    <string name="quest_rescue_someone_name_36" tools:ignore="UnusedResources">Mnich</string>
+    <string name="quest_rescue_someone_name_37" tools:ignore="UnusedResources">Válečník</string>
+    <string name="quest_rescue_someone_name_38" tools:ignore="UnusedResources">Ztracený vesničan</string>
+    <string name="quest_rescue_someone_name_39" tools:ignore="UnusedResources">Ztracený viking</string>
+    <string name="quest_rescue_someone_name_40" tools:ignore="UnusedResources">Hrdina strašpytel</string>
+    <string name="quest_rescue_someone_name_41" tools:ignore="UnusedResources">Pařmen</string>
+    <string name="quest_rescue_someone_name_42" tools:ignore="UnusedResources">Pařmenka</string>
+    <string name="quest_rescue_someone_name_43" tools:ignore="UnusedResources">Kuchař</string>
+    <string name="quest_rescue_someone_name_44" tools:ignore="UnusedResources">Podvodník</string>
+    <string name="quest_rescue_someone_name_45" tools:ignore="UnusedResources">Lhář</string>
+    <string name="quest_rescue_someone_name_46" tools:ignore="UnusedResources">Záhadný muž</string>
+    <string name="quest_rescue_someone_name_47" tools:ignore="UnusedResources">Záhadná žena</string>
+    <string name="quest_rescue_someone_name_48" tools:ignore="UnusedResources">Řemeslník</string>
+    <string name="quest_rescue_someone_name_49" tools:ignore="UnusedResources">Člen Rady</string>
+    <string name="quest_rescue_someone_name_50" tools:ignore="UnusedResources">Vypravěč</string>
+    <string name="quest_rescue_someone_name_51" tools:ignore="UnusedResources">Mučitel</string>
+    <string name="quest_rescue_someone_name_52" tools:ignore="UnusedResources">Masochista</string>
+    <string name="quest_rescue_someone_name_53" tools:ignore="UnusedResources">Mučený</string>
+    <string name="quest_rescue_someone_name_54" tools:ignore="UnusedResources">Srandista</string>
+    <string name="quest_rescue_someone_name_55" tools:ignore="UnusedResources">Borec</string>
+    <string name="quest_rescue_someone_name_56" tools:ignore="UnusedResources">Roztleskávačka</string>
+    <string name="quest_rescue_someone_name_57" tools:ignore="UnusedResources">Borka</string>
+    <string name="quest_rescue_someone_name_58" tools:ignore="UnusedResources">Žena</string>
+    <string name="quest_rescue_someone_name_59" tools:ignore="UnusedResources">Muž</string>
+    <string name="quest_rescue_someone_name_60" tools:ignore="UnusedResources">Ošklivé káčátko</string>
+    <string name="quest_rescue_someone_name_61" tools:ignore="UnusedResources">Ošklivé koťátko</string>
+    <string name="quest_rescue_someone_name_62" tools:ignore="UnusedResources">Kráska</string>
+    <string name="quest_rescue_someone_name_63" tools:ignore="UnusedResources">Krasoň</string>
+    <string name="quest_rescue_someone_name_64" tools:ignore="UnusedResources">Žebračka</string>
+    <string name="quest_rescue_someone_name_65" tools:ignore="UnusedResources">Žebračka</string>
+    <string name="quest_rescue_someone_name_66" tools:ignore="UnusedResources">Chudý chlapec</string>
+    <string name="quest_rescue_someone_name_67" tools:ignore="UnusedResources">Chudá dívka</string>
+    <string name="quest_rescue_someone_name_68" tools:ignore="UnusedResources">Urozená panna</string>
+    <string name="quest_rescue_someone_name_69" tools:ignore="UnusedResources">Džentlmen</string>
+    <string name="quest_rescue_someone_name_70" tools:ignore="UnusedResources">Džentlmenka</string>
+    <string name="quest_rescue_someone_name_71" tools:ignore="UnusedResources">Hrdina</string>
+    <string name="quest_rescue_someone_name_72" tools:ignore="UnusedResources">Cizinec</string>
+    <string name="quest_rescue_someone_name_73" tools:ignore="UnusedResources">Cestovatel</string>
+    <string name="quest_rescue_someone_name_74" tools:ignore="UnusedResources">Výtržník</string>
+    <string name="quest_rescue_someone_name_75" tools:ignore="UnusedResources">Lenoška</string>
+    <string name="quest_rescue_someone_name_76" tools:ignore="UnusedResources">Lenoch</string>
+    <string name="quest_rescue_someone_name_77" tools:ignore="UnusedResources">Prcek</string>
+    <string name="quest_rescue_someone_name_78" tools:ignore="UnusedResources">Piškot</string>
     <string name="quest_rescue_someone_name_79" tools:ignore="UnusedResources">The Lazy Boy</string>
-    <string name="quest_rescue_someone_name_80" tools:ignore="UnusedResources">The Mayor</string>
-    <string name="quest_rescue_someone_name_81" tools:ignore="UnusedResources">The Thief</string>
-    <string name="quest_rescue_someone_name_82" tools:ignore="UnusedResources">The Painter</string>
-    <string name="quest_rescue_someone_name_83" tools:ignore="UnusedResources">The Musician</string>
-    <string name="quest_rescue_someone_name_84" tools:ignore="UnusedResources">The Singer</string>
-    <string name="quest_rescue_someone_name_85" tools:ignore="UnusedResources">The Bard</string>
-    <string name="quest_rescue_someone_name_86" tools:ignore="UnusedResources">The Guard</string>
-    <string name="quest_rescue_someone_name_87" tools:ignore="UnusedResources">The Big Woman</string>
-    <string name="quest_rescue_someone_name_88" tools:ignore="UnusedResources">The Big Man</string>
-    <string name="quest_rescue_someone_name_89" tools:ignore="UnusedResources">The Small Woman</string>
-    <string name="quest_rescue_someone_name_90" tools:ignore="UnusedResources">The Small Man</string>
-    <string name="quest_rescue_someone_name_91" tools:ignore="UnusedResources">The Small Boy</string>
-    <string name="quest_rescue_someone_name_92" tools:ignore="UnusedResources">The Small Girl</string>
-    <string name="quest_rescue_someone_name_93" tools:ignore="UnusedResources">The Small Kid</string>
-    <string name="quest_rescue_someone_name_94" tools:ignore="UnusedResources">The Strong Woman</string>
-    <string name="quest_rescue_someone_name_95" tools:ignore="UnusedResources">The Strong Man</string>
-    <string name="quest_rescue_someone_name_96" tools:ignore="UnusedResources">The Guitarist</string>
-    <string name="quest_rescue_someone_name_97" tools:ignore="UnusedResources">The Artisan</string>
-    <string name="quest_rescue_someone_name_98" tools:ignore="UnusedResources">The Free Woman</string>
-    <string name="quest_rescue_someone_name_99" tools:ignore="UnusedResources">The Free Man</string>
-    <string name="quest_rescue_someone_name_100" tools:ignore="UnusedResources">The Prisoner</string>
+    <string name="quest_rescue_someone_name_80" tools:ignore="UnusedResources">Starosta</string>
+    <string name="quest_rescue_someone_name_81" tools:ignore="UnusedResources">Zloděj</string>
+    <string name="quest_rescue_someone_name_82" tools:ignore="UnusedResources">Malíř</string>
+    <string name="quest_rescue_someone_name_83" tools:ignore="UnusedResources">Hudebník</string>
+    <string name="quest_rescue_someone_name_84" tools:ignore="UnusedResources">Zpěvák</string>
+    <string name="quest_rescue_someone_name_85" tools:ignore="UnusedResources">Trubadůr</string>
+    <string name="quest_rescue_someone_name_86" tools:ignore="UnusedResources">Strážce</string>
+    <string name="quest_rescue_someone_name_87" tools:ignore="UnusedResources">Obryně</string>
+    <string name="quest_rescue_someone_name_88" tools:ignore="UnusedResources">Obr</string>
+    <string name="quest_rescue_someone_name_89" tools:ignore="UnusedResources">Trpaslice</string>
+    <string name="quest_rescue_someone_name_90" tools:ignore="UnusedResources">Trpaslík</string>
+    <string name="quest_rescue_someone_name_91" tools:ignore="UnusedResources">Malý chlapec</string>
+    <string name="quest_rescue_someone_name_92" tools:ignore="UnusedResources">Malá dívka</string>
+    <string name="quest_rescue_someone_name_93" tools:ignore="UnusedResources">Malé ditě</string>
+    <string name="quest_rescue_someone_name_94" tools:ignore="UnusedResources">Silák</string>
+    <string name="quest_rescue_someone_name_95" tools:ignore="UnusedResources">Tulák</string>
+    <string name="quest_rescue_someone_name_96" tools:ignore="UnusedResources">Kytarista</string>
+    <string name="quest_rescue_someone_name_97" tools:ignore="UnusedResources">Tulačka</string>
+    <string name="quest_rescue_someone_name_98" tools:ignore="UnusedResources">Nevolnice</string>
+    <string name="quest_rescue_someone_name_99" tools:ignore="UnusedResources">Nevolník</string>
+    <string name="quest_rescue_someone_name_100" tools:ignore="UnusedResources">Vězeň</string>
 
-    <string name="quest_rescue_someone_text_villager_give_rescue_someone">Leave %1$s with %2$s.</string>
+    <string name="quest_rescue_someone_text_villager_give_rescue_someone">Zanech %1$s s %2$s.</string>
 
-    <string name="item_temporary_potion_mule">&font_wood;Mule&font_end; Potion</string>
-    <string name="item_temporary_potion_mule_info">Drink this to temporarily increase your capacity of carrying items.</string>
-    <string name="item_temporary_potion_mule_quaff">Temporarily increased inventory capacity to &font_wood;%1$d&font_end;</string>
-    <string name="item_temporary_potion_mule_remove">The effects of the &font_wood;Mule &font_end;Potion wear off…</string>
-    <string name="item_temporary_potion_coward">&font_glass;Coward &font_end;Potion</string>
-    <string name="item_temporary_potion_coward_info">Drink this to temporarily guarantee fleeing with success from a combat.</string>
-    <string name="item_temporary_potion_coward_quaff">Temporarily able to flee with success from a combat</string>
-    <string name="item_temporary_potion_coward_remove">The effects of the &font_glass;Coward &font_end;Potion wear off…</string>
-    <string name="item_temporary_potion_big_stomach">&font_bar;Big Stomach &font_end;Potion</string>
-    <string name="item_temporary_potion_big_stomach_info">Drink this to temporarily become more resistant to hunger.</string>
-    <string name="item_temporary_potion_big_stomach_quaff">Temporarily more resistant to hunger (&font_bar;%1$d&font_end;)</string>
-    <string name="item_temporary_potion_big_stomach_remove">The effects of the &font_bar;Big Stomach &font_end;Potion wear off…</string>
-    <string name="item_temporary_potion_attack">&font_attack;Attack&font_end; Potion</string>
-    <string name="item_temporary_potion_attack_info">Drink this to temporarily increase the &font_attack;Attack&font_end;.</string>
-    <string name="item_temporary_potion_attack_quaff">Temporarily increased the &font_attack;Attack &font_end;to &font_attack;%1$d&font_end;</string>
-    <string name="item_temporary_potion_attack_remove">The effects of the &font_attack;Attack &font_end;Potion wear off…</string>
-    <string name="item_temporary_potion_defense">&font_defense;Defense&font_end; Potion</string>
-    <string name="item_temporary_potion_defense_info">Drink this to temporarily increase the &font_defense;Defense&font_end;.</string>
-    <string name="item_temporary_potion_defense_quaff">Temporarily increased the &font_defense;Defense &font_end;to &font_defense;%1$d&font_end;</string>
-    <string name="item_temporary_potion_defense_remove">The effects of the &font_defense;Defense &font_end;Potion wear off…</string>
-    <string name="item_temporary_potion_speed">&font_speed;Speed&font_end; Potion</string>
-    <string name="item_temporary_potion_speed_info">Drink this to temporarily increase the &font_speed;Speed&font_end;.</string>
-    <string name="item_temporary_potion_speed_quaff">Temporarily increased the &font_speed;Speed &font_end;to &font_speed;%1$d&font_end;</string>
-    <string name="item_temporary_potion_speed_remove">The effects of the &font_speed;Speed &font_end;Potion wear off…</string>
-    <string name="item_temporary_potion_intelligence">&font_mana;Intelligence &font_end;Potion</string>
-    <string name="item_temporary_potion_intelligence_info">Drink this to temporarily increase the &font_mana;Intelligence&font_end;.</string>
-    <string name="item_temporary_potion_intelligence_quaff">Temporarily increased the &font_mana;Intelligence &font_end;to &font_mana;%1$d&font_end;</string>
-    <string name="item_temporary_potion_intelligence_remove">The effects of the &font_mana;Intelligence &font_end;Potion wear off…</string>
-    <string name="item_temporary_potion_hot_protection">&font_red;Hot&font_end; &font_green;Protection &font_end;Potion [Temporary]</string>
-    <string name="item_temporary_potion_hot_protection_info">Drink this to temporarily have protection against &font_red;Hot &font_end;damage.</string>
-    <string name="item_temporary_potion_hot_protection_quaff">Temporary &font_red;Hot&font_end; &font_green;Protection&font_end;</string>
-    <string name="item_temporary_potion_hot_protection_remove">The effects of the &font_red;Hot&font_end; &font_green;Protection &font_end;Potion wear off…</string>
-    <string name="item_temporary_potion_cold_protection">&font_tundra;Cold&font_end; &font_green;Protection &font_end;Potion [Temporary]</string>
-    <string name="item_temporary_potion_cold_protection_info">Drink this to temporarily have protection against &font_tundra;Cold &font_end;damage.</string>
-    <string name="item_temporary_potion_cold_protection_quaff">Temporary &font_tundra;Cold&font_end; &font_green;Protection&font_end;</string>
-    <string name="item_temporary_potion_cold_protection_remove">The effects of the &font_tundra;Cold&font_end; &font_green;Protection &font_end;Potion wear off…</string>
+    <string name="item_temporary_potion_mule">Lektvar &font_wood;Muly&font_end;</string>
+    <string name="item_temporary_potion_mule_info">Vypij k dočasnému navýšení nosné kapacity postavy.</string>
+    <string name="item_temporary_potion_mule_quaff">Kapacita inventáře dočasně navýšena na &font_wood;%1$d&font_end;</string>
+    <string name="item_temporary_potion_mule_remove">Účinky lektvaru &font_wood;Muly&font_end; vypršely…</string>
+    <string name="item_temporary_potion_coward">Lektvar &font_glass;Zbabělce&font_end;</string>
+    <string name="item_temporary_potion_coward_info">Vypitím dočasně zajistíš úspěch při pokusu utéci z boje.</string>
+    <string name="item_temporary_potion_coward_quaff">Dočasně máš zajištěn úspěch při útěku z boje</string>
+    <string name="item_temporary_potion_coward_remove">Účinky lektvaru &font_glass;Zbabělce&font_end; vypršely…</string>
+    <string name="item_temporary_potion_big_stomach">Lektvar &font_bar;Velkého žaludku&font_end;</string>
+    <string name="item_temporary_potion_big_stomach_info">Vypitím dočasně získáš vyšší odolnost vůči hladu.</string>
+    <string name="item_temporary_potion_big_stomach_quaff">Dočasně více odoláváš hladu (&font_bar;%1$d&font_end;)</string>
+    <string name="item_temporary_potion_big_stomach_remove">Účinky lektvaru &font_bar;Velkého žaludku &font_end; vypršely…</string>
+    <string name="item_temporary_potion_attack">Lektvar &font_attack;Síly&font_end;</string>
+    <string name="item_temporary_potion_attack_info">Vypij k dočasnému navýšení své &font_attack;Útočné síly&font_end;.</string>
+    <string name="item_temporary_potion_attack_quaff">Dočasně navýšena &font_attack;Útočná síla&font_end; na &font_attack;%1$d&font_end;</string>
+    <string name="item_temporary_potion_attack_remove">Účinky lektvaru &font_attack;Síly&font_end; vypršely…</string>
+    <string name="item_temporary_potion_defense">Lektvar &font_defense;Obrany&font_end;</string>
+    <string name="item_temporary_potion_defense_info">Vypij k dočasnému navýšení &font_defense;Obrany&font_end;.</string>
+    <string name="item_temporary_potion_defense_quaff">Dočasně navýšena &font_defense;Obrana&font_end; na &font_defense;%1$d&font_end;</string>
+    <string name="item_temporary_potion_defense_remove">Účinky lektvaru &font_defense;Obrany&font_end; vypršely…</string>
+    <string name="item_temporary_potion_speed">Lektvar &font_speed;Rychlosti&font_end;</string>
+    <string name="item_temporary_potion_speed_info">Vypij k dočasnému navýšení &font_speed;Rychlosti&font_end;.</string>
+    <string name="item_temporary_potion_speed_quaff">Dočasně navýšena &font_speed;Rychlost&font_end; na &font_speed;%1$d&font_end;</string>
+    <string name="item_temporary_potion_speed_remove">Účinky lektvaru &font_speed;Rychlosti&font_end; vypršely…</string>
+    <string name="item_temporary_potion_intelligence">Lektvar &font_mana;Inteligence&font_end;</string>
+    <string name="item_temporary_potion_intelligence_info">Vypij k dočasnému navýšení &font_mana;Inteligence&font_end;.</string>
+    <string name="item_temporary_potion_intelligence_quaff">Dočasně navýšena &font_mana;Inteligence&font_end; na &font_mana;%1$d&font_end;</string>
+    <string name="item_temporary_potion_intelligence_remove">Účinky lektvaru &font_mana;Inteligence &font_end; vypršely…</string>
+    <string name="item_temporary_potion_hot_protection">Lektvar &font_green;Ochrany&font_end; před &font_red;Horkem&font_end; [Dočasný]</string>
+    <string name="item_temporary_potion_hot_protection_info">Vypij k získání dočasné ochrany před &font_red;Horkem&font_end;.</string>
+    <string name="item_temporary_potion_hot_protection_quaff">Dočasná &font_green;Ochrana&font_end; před &font_red;Horkem&font_end;</string>
+    <string name="item_temporary_potion_hot_protection_remove">Účinky lektvaru &font_green;Ochrany&font_end; před &font_red;Horkem&font_end; vypršely…</string>
+    <string name="item_temporary_potion_cold_protection">Lektvar &font_green;Ochrany&font_end; před &font_tundra;Chladem&font_end; [Dočasný]</string>
+    <string name="item_temporary_potion_cold_protection_info">Vypij k získání dočasné ochrany před &font_tundra;Chladem&font_end;.</string>
+    <string name="item_temporary_potion_cold_protection_quaff">Dočasná &font_green;Ochrana&font_end; před &font_tundra;Chladem&font_end;</string>
+    <string name="item_temporary_potion_cold_protection_remove">Účinky lektvaru &font_green;Ochrany&font_end; před &font_tundra;Chladem&font_end; vypršely…</string>
 
-    <string name="rarity_common">Common</string>
-    <string name="rarity_uncommon">Uncommon</string>
-    <string name="rarity_rare">Rare</string>
-    <string name="rarity_epic">Epic</string>
-    <string name="rarity_legendary">Legendary</string>
+    <string name="rarity_common">Běžný</string>
+    <string name="rarity_uncommon">Neobvyklý</string>
+    <string name="rarity_rare">Vzácný</string>
+    <string name="rarity_epic">Epický</string>
+    <string name="rarity_legendary">Legendární</string>
 
-    <string name="weapon_type_sword">Sword</string>
-    <string name="weapon_type_spear">Spear</string>
-    <string name="weapon_type_mace">Mace</string>
-    <string name="weapon_type_axe">Axe</string>
-    <string name="weapon_type_dagger">Dagger</string>
+    <string name="weapon_type_sword">Meč</string>
+    <string name="weapon_type_spear">Kopí</string>
+    <string name="weapon_type_mace">Palcát</string>
+    <string name="weapon_type_axe">Sekera</string>
+    <string name="weapon_type_dagger">Dýka</string>
 
-    <string name="hot_damage">It\'s too &font_red;hot &font_end;here! Received &font_red;%1$d &font_end;damage!</string>
-    <string name="cold_damage">It\'s too &font_tundra;cold &font_end;here! Received &font_red;%1$d &font_end;damage!</string>
-    <string name="protection_type_hot">&font_hell;Hot&font_end;</string>
-    <string name="protection_type_cold">&font_tundra;Cold&font_end;</string>
-    <string name="equipment_protection">&lt;font color=\"%1$s\"&gt;%2$s &font_end;protection</string>
+    <string name="hot_damage">Je příliš &font_red;horko&font_end;! Obdržel jsi &font_red;%1$d&font_end; poškození!</string>
+    <string name="cold_damage">Je příliš &font_tundra;chladno&font_end;! Obdržel jsi &font_red;%1$d&font_end; poškození!</string>
+    <string name="protection_type_hot">&font_hell;Horká&font_end;</string>
+    <string name="protection_type_cold">&font_tundra;Chladná&font_end;</string>
+    <string name="equipment_protection">&lt;font color=\"%1$s\"&gt;%2$s &font_end;ochrana</string>
 
-    <string name="crafting_title">&font_cyan;Crafting&font_end;</string>
-    <string name="crafting_title_with_recipe">&font_cyan;Crafting &font_end;[%1$s]</string>
-    <string name="craft_text_you_know_no_crafting_recipes">You don\'t know any &font_cyan;Crafting &font_end;Recipes yet.</string>
-    <string name="crafting_recipe_learnt">Learned how to craft %1$s!</string>
-    <string name="crafting_recipe_already_known">&italic;&font_cyan;Crafting&font_end; recipe already known&italic_end;</string>
-    <string name="crafting_recipe_name">[&font_cyan;Crafting&font_end; Recipe] %1$s</string>
-    <string name="crafting_you_crafted_item">You crafted %1$s!</string>
-    <string name="crafting_you_crafted_item_but_dropped_it">You crafted %1$s but had to drop it, not enough space in the inventory!</string>
-    <string name="crafting_not_enough_ingredients">Not enough ingredients…</string>
+    <string name="crafting_title">&font_cyan;Výroba&font_end;</string>
+    <string name="crafting_title_with_recipe">&font_cyan;Výrobit &font_end;[%1$s]</string>
+    <string name="craft_text_you_know_no_crafting_recipes">Zatím neznáš žádné &font_cyan;Výrobní&font_end; recepty.</string>
+    <string name="crafting_recipe_learnt">Naučil ses jak vyrobit %1$s!</string>
+    <string name="crafting_recipe_already_known">&italic;&font_cyan;Výrobní&font_end; recept již znáš&italic_end;</string>
+    <string name="crafting_recipe_name">[&font_cyan;Výrobní&font_end; recept] %1$s</string>
+    <string name="crafting_you_crafted_item">Vyrobils %1$s!</string>
+    <string name="crafting_you_crafted_item_but_dropped_it">Vyrobils %1$s ale musel jsi to zahodit, nemáš dost místa v inventáři!</string>
+    <string name="crafting_not_enough_ingredients">Nedostatek ingrediencí…</string>
 
-    <string name="skills_title">&font_cyan;Skills&font_end;</string>
-    <string name="skills_skill_learnt">Learned %1$s skill!</string>
-    <string name="skills_tree_title">&font_cyan;Skills Tree&font_end; (&font_cyan;%1$d&font_end;
-        Skill Points)</string>
-    <string name="skills_empty_message">You don\'t have any &font_cyan;Skills &font_end;yet…</string>
-    <string name="skills_empty_tree_message">You don\'t have any &font_cyan;Skills&font_end; to learn…</string>
-    <string name="skills_necessary_skill_text">Necessary Skill: &font_cyan;%1$s&font_end;</string>
+    <string name="skills_title">&font_cyan;Schopnosti&font_end;</string>
+    <string name="skills_skill_learnt">Naučil ses %1$s!</string>
+    <string name="skills_tree_title">&font_cyan;Strom schopností&font_end; (&font_cyan;%1$d&font_end;
+        bodů schopností)</string>
+    <string name="skills_empty_message">Zatím nemáš žádné &font_cyan;Schopnosti&font_end;…</string>
+    <string name="skills_empty_tree_message">Nemáš žádné &font_cyan;Schopnosti&font_end; které se můžeš naučit…</string>
+    <string name="skills_necessary_skill_text">Vyžaduje schopnost: &font_cyan;%1$s&font_end;</string>
 
-    <string name="action_search">&font_cyan;Search&font_end;</string>
-    <string name="action_searching">Searching</string>
-    <string name="action_explorer">&font_cyan;Find Inn&font_end;</string>
-    <string name="action_explorer_action_description">&font_cyan;Find Inn&font_end;</string>
-    <string name="action_explorer_action_description_positive">You sense an &font_inn;Inn &font_end;at &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end;.</string>
-    <string name="action_explorer_action_description_negative">There is no &font_inn;Inn &font_end;in this island…</string>
-    <string name="action_contractor">&font_cyan;Sense&font_end; &font_cyan;Quests&font_end;</string>
-    <string name="action_contractor_desc">Senses how many &font_cyan;quests&font_end; are still pending to be found in the island.</string>
-    <string name="action_trader">&font_cyan;Sense&font_end; &font_gold;Merchants&font_end;</string>
-    <string name="action_trader_desc">Senses how many &font_gold;merchants&font_end; are still pending to find in the island.</string>
-    <string name="action_hunter">&font_cyan;Sense&font_end; &font_red;Bosses&font_end;&font_end;</string>
-    <string name="action_hunter_description">Sense how many &font_red;bosses&font_end; are in the island…</string>
-    <string name="action_hunter_action_description">Sensing &font_red;bosses&font_end;</string>
-    <string name="action_hunter_action_description_positive_singular">You sense &font_cyan;%1$d&font_end; &font_red;boss &font_end;in the island.</string>
-    <string name="action_hunter_action_description_positive_plural">You sense &font_cyan;%1$d&font_end; &font_red;bosses &font_end;in the island.</string>
-    <string name="action_hunter_action_description_negative">There are no &font_red;bosses &font_end;in the island…</string>
-    <string name="action_treasure_hunter">&font_cyan;Hunt&font_end; &font_chest;Treasures&font_end;</string>
-    <string name="action_treasure_hunter_treasure_hunter">Sense how many &font_chest;hidden items &font_end;are in the island.</string>
-    <string name="action_treasure_hunter_action_description_positive_singular">You sense &font_cyan;%1$d &font_end;&font_chest;hidden items&font_end;.</string>
-    <string name="action_treasure_hunter_action_description_positive_plural">You sense &font_cyan;%1$d &font_end;&font_chest;hidden items&font_end;.</string>
-    <string name="action_treasure_hunter_action_description_negative">There are no &font_chest;hidden items&font_end;…</string>
+    <string name="action_search">&font_cyan;Hledat&font_end;</string>
+    <string name="action_searching">Hledání</string>
+    <string name="action_explorer">&font_cyan;Najít Hostinec&font_end;</string>
+    <string name="action_explorer_action_description">&font_cyan;Najít Hostinec&font_end;</string>
+    <string name="action_explorer_action_description_positive">Vycítil jsi &font_inn;Hostinec&font_end; na souřadnicích &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end;.</string>
+    <string name="action_explorer_action_description_negative">Na tomto ostrově není žádný &font_inn;Hostinec&font_end;…</string>
+    <string name="action_contractor">&font_cyan;Vycítit&font_end; &font_cyan;Úkoly&font_end;</string>
+    <string name="action_contractor_desc">Vycítí, kolik &font_cyan;úkolů&font_end; lze stále najít na současném ostrově.</string>
+    <string name="action_trader">&font_cyan;Vycítit&font_end; &font_gold;Kupce&font_end;</string>
+    <string name="action_trader_desc">Vycítí, kolik &font_gold;kupců&font_end; lze stále najít na současném ostrově.</string>
+    <string name="action_hunter">&font_cyan;Vycítit&font_end; &font_red;Bossy&font_end;&font_end;</string>
+    <string name="action_hunter_description">Vycítí, kolik &font_red;bossů&font_end; se nachází na současném ostrově…</string>
+    <string name="action_hunter_action_description">Hledání &font_red;bossů&font_end;</string>
+    <string name="action_hunter_action_description_positive_singular">Vycítil jsi &font_cyan;%1$d&font_end; &font_red;bosse&font_end; na současném ostrově.</string>
+    <string name="action_hunter_action_description_positive_plural">Vycítil jsi &font_cyan;%1$d&font_end; &font_red;bossů&font_end; na současném ostrově.</string>
+    <string name="action_hunter_action_description_negative">Na tomto ostrově nejsou žádní &font_red;bossové&font_end;…</string>
+    <string name="action_treasure_hunter">&font_cyan;Hledat&font_end; &font_chest;Poklady&font_end;</string>
+    <string name="action_treasure_hunter_treasure_hunter">Vycítí, kolik &font_chest;schovaných předmětů&font_end; se na současném ostrově nachází.</string>
+    <string name="action_treasure_hunter_action_description_positive_singular">Vycítil jsi &font_cyan;%1$d&font_end; &font_chest;schovaných předmětů&font_end;.</string>
+    <string name="action_treasure_hunter_action_description_positive_plural">Vycítil jsi &font_cyan;%1$d&font_end; &font_chest;schovaných předmětů&font_end;.</string>
+    <string name="action_treasure_hunter_action_description_negative">Nejsou zde žádné &font_chest;schované předměty&font_end;…</string>
 
     <string name="skill_fisherman">&font_cyan;Fisherman&font_end;</string>
     <string name="skill_woodcutter">&font_wood;Woodcutter&font_end;</string>
