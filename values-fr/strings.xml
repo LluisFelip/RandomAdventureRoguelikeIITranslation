@@ -3433,11 +3433,11 @@
     <string name="button_leave_island">Partir</string>
 
     <string name="wise_completely_rested">Vous vous sentez en pleine forme !</string>
-    <string name="wise_main_story_island_lost_gold_and_memory">You lost some &font_gold;gold &font_end;and some of your memories…</string>
+    <string name="wise_main_story_island_lost_gold_and_memory">Tu as perdu un peu d\' &font_gold;Or &font_end;et quelques-uns de tes souvenirs</string>
 
-    <string name="creator_pre_combat_message_1">You know… It\’s not easy to be &font_asterisk_creator;The Creator&font_end;… Always coding, adding greater challenges, fixing bugs, answering emails, chatting in discord, reddit, the web, etc…</string>
-    <string name="creator_pre_combat_message_2">And all of it for what? Tell me, why am I supposed to do this? I can\'t stand the pressure anymore…!</string>
-    <string name="creator_pre_combat_message_3">GET READY TO DIE! Mmmmmwwwwahahahahahahaha!</string>
+    <string name="creator_pre_combat_message_1">Vous savez... Ce n\'est pas facile d\'être &font_asterisk_creator;le créateur&font_end;… Toujours là à coder, à ajouter de plus grands défis, à corriger les bugs, à répondre aux emails, à discuter sur discord, reddit, sur le web, etc…</string>
+    <string name="creator_pre_combat_message_2">Et tout ça pour quoi? Dites-moi, pourquoi devrais-je faire tout cela? Je ne peux plus supporter la pression…!</string>
+    <string name="creator_pre_combat_message_3">PRÉPAREZ-VOUS À MOURIR! Mmmmmwwwwahahahahahahaha!</string>
 
     <string name="void_master_after_killing_text_4">Well well… You are wearing a complete set of the &font_void;Void&font_end;… Here you are, you will know what to do with it…</string>
 
