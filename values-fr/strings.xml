@@ -3433,13 +3433,13 @@
     <string name="button_leave_island">Partir</string>
 
     <string name="wise_completely_rested">Vous vous sentez en pleine forme !</string>
-    <string name="wise_main_story_island_lost_gold_and_memory">Tu as perdu un peu d\' &font_gold;Or &font_end;et quelques-uns de tes souvenirs</string>
+    <string name="wise_main_story_island_lost_gold_and_memory">Tu as perdu un peu d\' &font_gold;or &font_end;et une partie de ta mémoire…</string>
 
-    <string name="creator_pre_combat_message_1">Vous savez... Ce n\'est pas facile d\'être &font_asterisk_creator;le créateur&font_end;… Toujours là à coder, à ajouter de plus grands défis, à corriger les bugs, à répondre aux emails, à discuter sur discord, reddit, sur le web, etc…</string>
-    <string name="creator_pre_combat_message_2">Et tout ça pour quoi? Dites-moi, pourquoi devrais-je faire tout cela? Je ne peux plus supporter la pression…!</string>
-    <string name="creator_pre_combat_message_3">PRÉPAREZ-VOUS À MOURIR! Mmmmmwwwwahahahahahahaha!</string>
+    <string name="creator_pre_combat_message_1">Vous savez… Ce n\'est pas facile d\'être &font_asterisk_creator;le créateur&font_end;… Toujours là à coder, à ajouter de plus grands défis, à corriger les bugs, à répondre aux emails, à discuter sur discord, reddit, sur le web, etc…</string>
+    <string name="creator_pre_combat_message_2">Et tout ça pour quoi ? Dites-moi, pourquoi devrais-je faire tout cela ? Je ne peux plus supporter la pression… !</string>
+    <string name="creator_pre_combat_message_3">PRÉPAREZ-VOUS À MOURIR ! Mmmmmwwwwahahahahahahaha !</string>
 
-    <string name="void_master_after_killing_text_4">Well well… You are wearing a complete set of the &font_void;Void&font_end;… Here you are, you will know what to do with it…</string>
+    <string name="void_master_after_killing_text_4">Eh bien… Vous portez un set complet du &font_void;Néant&font_end;… Voilà pour vous. Vous saurez quoi en faire en temps voulu…</string>
 
     <string name="dungeon_infinite_vortex">&font_void;Vortex &font_end;&font_infinity;infini&font_end;</string>
     <string name="collection_tiles">Cases</string>
