@@ -1707,109 +1707,109 @@
     <string name="tile_content_type_thief">Bandita</string>
     <string name="tile_content_type_troll">Trol</string>
     <string name="tile_content_type_witch">Čarodějnice</string>
-    <string name="tile_content_type_pier">Pier</string>
-    <string name="tile_content_type_sphinx">Sphinx</string>
-    <string name="tile_content_type_oasis">Oasis</string>
-    <string name="tile_content_type_farm">Farm</string>
-    <string name="tile_content_type_windmill">Windmill</string>
-    <string name="tile_content_type_house">House</string>
-    <string name="tile_content_type_destroyed_house">Destroyed House</string>
-    <string name="tile_content_type_abandoned_house">Abandoned House</string>
-    <string name="tile_content_type_stone_bridge">Stone Bridge</string>
-    <string name="tile_content_type_gate">Dark Gate</string>
-    <string name="tile_content_type_open_gate">Open Dark Gate</string>
-    <string name="tile_content_type_quest_item">Quest Item</string>
-    <string name="tile_content_type_mine">Mine</string>
-    <string name="tile_content_type_waterfall">Waterfall</string>
-    <string name="tile_content_type_wizard_tower">Wizard Tower</string>
-    <string name="tile_content_type_ruins">Ruins</string>
-    <string name="tile_content_type_temple">Temple</string>
-    <string name="tile_content_type_shipwreck">Shipwreck</string>
-    <string name="tile_content_type_young_boy">Young Boy</string>
-    <string name="tile_content_type_well">Well</string>
-    <string name="tile_content_type_portal">&font_portal;Portal&font_end;</string>
-    <string name="tile_content_type_crafting_recipe">&font_cyan;Crafting&font_end; Recipe</string>
-    <string name="tile_content_type_island_soul">&font_cyan;Island Soul&font_end;</string>
-    <string name="tile_content_type_food">Food</string>
-    <string name="tile_content_type_the_carpenter">The Old Carpenter</string>
-    <string name="tile_content_type_piece_of_map">Piece Of Map</string>
-    <string name="tile_content_type_gate_to_heaven">Gate To Heaven</string>
-    <string name="tile_content_type_chest">Chest</string>
-    <string name="tile_content_type_professional">Professional</string>
-    <string name="tile_content_type_pet_collar">&font_pet;Pet&font_end; &font_cyan;Collar&font_end;</string>
-    <string name="tile_content_type_merchant_master">Merchant Master</string>
-    <string name="tile_content_type_magic_stone">&font_mana;Magic&font_end; &font_bronze;Stone&font_end;</string>
-    <string name="tile_content_type_bomb">Bomb</string>
-    <string name="tile_content_type_a_letter_for_the_king">A &font_cyan;Letter &font_end;For The &font_gold;King&font_end;</string>
-    <string name="tile_content_type_blacksmith">&font_iron;Blacksmith&font_end;</string>
-    <string name="tile_content_type_wise">&font_wise;Wise&font_end;</string>
-    <string name="tile_content_type_teleport_stone">&font_mana;Teleport&font_end; &font_bronze;Stone&font_end;</string>
-    <string name="tile_content_type_wooden_sign">&font_wooden_sign;Wooden Sign&font_end;</string>
-    <string name="tile_content_type_iron_bucket">&font_iron;Iron Bucket&font_end;</string>
-    <string name="tile_content_type_purifying_seed">&font_purifying;Purifying&font_end; &font_plant;Seed&font_end;</string>
-    <string name="tile_content_type_purifying_tree">&font_purifying;Purifying&font_end; &font_wood;Tree&font_end;</string>
-    <string name="tile_content_type_yin_yang_amulet">&font_black_low;Yin&font_end; &font_white;Yang &font_end;Amulet</string>
-    <string name="tile_content_type_royal_seal">&font_gold;Royal Seal&font_end;</string>
-    <string name="tile_content_type_iron_bucket_water">&font_water;Water&font_end; &font_iron;Bucket&font_end;</string>
-    <string name="tile_content_type_iron_bucket_lava">&font_attack;Lava&font_end; &font_iron;Bucket&font_end;</string>
-    <string name="tile_content_type_iron_bucket_mana">&font_mana;Mana&font_end; &font_iron;Bucket&font_end;</string>
+    <string name="tile_content_type_pier">Molo</string>
+    <string name="tile_content_type_sphinx">Sfinga</string>
+    <string name="tile_content_type_oasis">Oáza</string>
+    <string name="tile_content_type_farm">Farma</string>
+    <string name="tile_content_type_windmill">Větrný mlýn</string>
+    <string name="tile_content_type_house">Dům</string>
+    <string name="tile_content_type_destroyed_house">Zničený dům</string>
+    <string name="tile_content_type_abandoned_house">Opuštěný dům</string>
+    <string name="tile_content_type_stone_bridge">Kamenný most</string>
+    <string name="tile_content_type_gate">Temná brána</string>
+    <string name="tile_content_type_open_gate">Otevřená temná brána</string>
+    <string name="tile_content_type_quest_item">Úkolový předmět</string>
+    <string name="tile_content_type_mine">Důl</string>
+    <string name="tile_content_type_waterfall">Vodopád</string>
+    <string name="tile_content_type_wizard_tower">Čarodějova věž</string>
+    <string name="tile_content_type_ruins">Ruiny</string>
+    <string name="tile_content_type_temple">Chrám</string>
+    <string name="tile_content_type_shipwreck">Trosky lodi</string>
+    <string name="tile_content_type_young_boy">Mladý chlapec</string>
+    <string name="tile_content_type_well">Studna</string>
+    <string name="tile_content_type_portal">&font_portal;Portál&font_end;</string>
+    <string name="tile_content_type_crafting_recipe">&font_cyan;Výrobní&font_end; recept</string>
+    <string name="tile_content_type_island_soul">&font_cyan;Duše ostrova&font_end;</string>
+    <string name="tile_content_type_food">Jídlo</string>
+    <string name="tile_content_type_the_carpenter">Starý tesař</string>
+    <string name="tile_content_type_piece_of_map">Část mapy</string>
+    <string name="tile_content_type_gate_to_heaven">Brána do Nebe</string>
+    <string name="tile_content_type_chest">Truhla</string>
+    <string name="tile_content_type_professional">Profesionál</string>
+    <string name="tile_content_type_pet_collar">&font_pet;Mazlíčkův&font_end; &font_cyan;Obojek&font_end;</string>
+    <string name="tile_content_type_merchant_master">Cechmistr kupců</string>
+    <string name="tile_content_type_magic_stone">&font_mana;Kouzelný&font_end; &font_bronze;Kámen&font_end;</string>
+    <string name="tile_content_type_bomb">Bomba</string>
+    <string name="tile_content_type_a_letter_for_the_king">&font_cyan;Dopis&font_end; pro &font_gold;Krále&font_end;</string>
+    <string name="tile_content_type_blacksmith">&font_iron;Kovář&font_end;</string>
+    <string name="tile_content_type_wise">&font_wise;Mudrc&font_end;</string>
+    <string name="tile_content_type_teleport_stone">&font_bronze;Kámen*&font_end; &font_mana;Teleportace&font_end; </string>
+    <string name="tile_content_type_wooden_sign">&font_wooden_sign;Dřevěná cedule&font_end;</string>
+    <string name="tile_content_type_iron_bucket">&font_iron;Železný kbelík&font_end;</string>
+    <string name="tile_content_type_purifying_seed">&font_plant;Semínko&font_end; &font_purifying;Očištění&font_end; </string>
+    <string name="tile_content_type_purifying_tree">&font_wood;Strom&font_end; &font_purifying;Očištění&font_end; </string>
+    <string name="tile_content_type_yin_yang_amulet">Amulet &font_black_low;Yin&font_end; &font_white;Yang&font_end;</string>
+    <string name="tile_content_type_royal_seal">&font_gold;Královská pečeť&font_end;</string>
+    <string name="tile_content_type_iron_bucket_water">&font_iron;Kbelík&font_end; &font_water;Vody&font_end;</string>
+    <string name="tile_content_type_iron_bucket_lava">&font_water;Vody&font_end; &font_attack;Lávy&font_end;</string>
+    <string name="tile_content_type_iron_bucket_mana">&font_water;Vody&font_end; &font_mana;Many&font_end;</string>
 
-    <string name="wooden_sign_write">Write in &font_wooden_sign;Wooden Sign&font_end;</string>
-    <string name="wooden_sign_text_chopped_the">Chopped the %1$s.</string>
-    <string name="wooden_sign_wrote_message">Wrote message in the %1$s.</string>
+    <string name="wooden_sign_write">Napsat na &font_wooden_sign;Dřevěnou ceduli&font_end;</string>
+    <string name="wooden_sign_text_chopped_the">Pokácen %1$s.</string>
+    <string name="wooden_sign_wrote_message">Zpráva zapsána do %1$s.</string>
 
-    <string name="iron_bucket_pickup_water">You picked up &font_water;Water &font_end;with the &font_iron;Iron Bucket&font_end;.</string>
-    <string name="iron_bucket_pickup_lava">You picked up &font_attack;Lava &font_end;with the &font_iron;Iron Bucket&font_end;.</string>
-    <string name="iron_bucket_pickup_mana">You picked up &font_mana;mana &font_end;with the &font_iron;Iron Bucket&font_end;.</string>
-    <string name="iron_bucket_put_out_firecamp_ash">You put out the &font_attack;Firecamp &font_end;with the &font_water;Water&font_end; &font_iron;Bucket&font_end;.</string>
-    <string name="iron_bucket_drank_mana">You drank from the &font_mana;Mana&font_end; &font_iron;Bucket &font_end;and restored all your &font_mana;mana&font_end;.</string>
+    <string name="iron_bucket_pickup_water">Nabral jsi &font_water;Vodu&font_end; svým &font_iron;Železným kbelíkem&font_end;.</string>
+    <string name="iron_bucket_pickup_lava">Nabral jsi &font_attack;Lávu&font_end; svým &font_iron;Železným kbelíkem&font_end;.</string>
+    <string name="iron_bucket_pickup_mana">Nabral jsi &font_mana;Manu&font_end; svým &font_iron;Železným kbelíkem&font_end;.</string>
+    <string name="iron_bucket_put_out_firecamp_ash">Uhasil jsi &font_attack;Táborák&font_end; svým &font_iron;Kbelíkem&font_end; &font_water;Vody&font_end;.</string>
+    <string name="iron_bucket_drank_mana">Vypil jsi &font_mana;Manu&font_end; ze svého &font_iron;Kbelíku&font_end;.</string>
 
-    <string name="bank_welcome_message" tools:ignore="PluralsCandidate">Welcome to the %1$s!&br;&br;We keep your &font_gold;Gold &font_end;safe here.&br;&br;You currently have &font_gold;%2$d Gold &font_end;in the %3$s.&br;</string>
-    <string name="bank_deposit_message" tools:ignore="PluralsCandidate">How much do you want to &font_gold;deposit&font_end;?&br;&br;You currently have &font_gold;%1$d gold&font_end;.</string>
-    <string name="bank_withdraw_message" tools:ignore="PluralsCandidate">How much do you want to &font_gold;withdraw&font_end;?&br;&br;You currently have &font_gold;%1$d gold &font_end;in the %2$s.</string>
-    <string name="bank_deposit">(Deposit)</string>
-    <string name="bank_withdraw">(Withdraw)</string>
-    <string name="bank_introduce_a_valid_amount">Introduce a valid amount!</string>
-    <string name="bank_withdrawn_amount" tools:ignore="PluralsCandidate">You have withdrawn &font_gold;%1$d gold &font_end;from the %2$s!</string>
-    <string name="bank_deposit_amount" tools:ignore="PluralsCandidate">You deposit &font_gold;%1$d gold &font_end;in the %2$s!</string>
+    <string name="bank_welcome_message" tools:ignore="PluralsCandidate">Vítej v %1$s!&br;&br;Uchováme zde tvé &font_gold;Zlato&font_end; v bezpečí.&br;&br;V současnosti máš &font_gold;%2$d Zlata&font_end; v %3$s.&br;</string>
+    <string name="bank_deposit_message" tools:ignore="PluralsCandidate">Kolik zlata chceš &font_gold;vložit&font_end;?&br;&br;V současnosti máš &font_gold;%1$d zlata&font_end;.</string>
+    <string name="bank_withdraw_message" tools:ignore="PluralsCandidate">Kolik chceš &font_gold;vybrat&font_end;?&br;&br;V současnosti máš &font_gold;%1$d zlata&font_end; v %2$s.</string>
+    <string name="bank_deposit">(Vložit)</string>
+    <string name="bank_withdraw">(Vybrat)</string>
+    <string name="bank_introduce_a_valid_amount">Zadej platnou hodnotu!</string>
+    <string name="bank_withdrawn_amount" tools:ignore="PluralsCandidate">Vybráno &font_gold;%1$d zlata&font_end; z %2$s!</string>
+    <string name="bank_deposit_amount" tools:ignore="PluralsCandidate">Vloženo &font_gold;%1$d zlata&font_end; do %2$s!</string>
 
-    <string name="item_island_soul">&font_cyan;Island Soul&font_end; (%1$s)</string>
-    <string name="text_island_soul_title">Island &font_cyan;100%&font_end; Explored</string>
-    <string name="text_island_soul_message">You mysteriously obtain an %1$s!</string>
+    <string name="item_island_soul">&font_cyan;Duše ostrova&font_end; (%1$s)</string>
+    <string name="text_island_soul_title">Ostrov prozkoumán na &font_cyan;100%&font_end;</string>
+    <string name="text_island_soul_message">Záhadně obdržíš %1$s!</string>
 
-    <string name="weather_sunny">Sunny</string>
-    <string name="weather_cloudy">Cloudy</string>
-    <string name="weather_rainy">Rainy</string>
-    <string name="weather_overcasty">Overcast</string>
-    <string name="weather_partly_sunny">Partly Sunny</string>
-    <string name="weather_partly_cloudy">Partly Cloudy</string>
-    <string name="weather_stormy">Stormy</string>
-    <string name="weather_windy">Windy</string>
-    <string name="weather_foggy">Foggy</string>
-    <string name="weather_snowy">Snowy</string>
-    <string name="weather_icy">Icy</string>
+    <string name="weather_sunny">Slunečno</string>
+    <string name="weather_cloudy">Oblačno</string>
+    <string name="weather_rainy">Pršivo</string>
+    <string name="weather_overcasty">Zataženo</string>
+    <string name="weather_partly_sunny">Poloslunečno</string>
+    <string name="weather_partly_cloudy">Polooblačno</string>
+    <string name="weather_stormy">Bouřlivo</string>
+    <string name="weather_windy">Větrno</string>
+    <string name="weather_foggy">Zamlženo</string>
+    <string name="weather_snowy">Sněživo</string>
+    <string name="weather_icy">Ledovo</string>
 
-    <string name="stash_empty_message">There are no items…</string>
-    <string name="stash_title">&font_wood;Stash&font_end; (&font_cyan;%1$d&font_end;/&font_cyan;%2$d&font_end;)</string>
-    <string name="stash_inventory_title_stash">&font_wood;Inventory&font_end; (&font_cyan;%1$d&font_end;/&font_cyan;%2$d&font_end;)</string>
-    <string name="stash_store_couldnt">Couldn\'t store %1$s, &font_wood;Stash &font_end;is full!</string>
-    <string name="stash_increase_title">Increase &font_wood;Stash&font_end; size?</string>
-    <string name="stash_increase_message" tools:ignore="PluralsCandidate">Do you want to increase the &font_wood;stash &font_end;size from &font_cyan;%1$d &font_end;to &font_cyan;%2$d&font_end;? It will cost &font_gold;%3$d gold&font_end;.</string>
+    <string name="stash_empty_message">Nejsou zde žádné předměty…</string>
+    <string name="stash_title">&font_wood;Sklad&font_end; (&font_cyan;%1$d&font_end;/&font_cyan;%2$d&font_end;)</string>
+    <string name="stash_inventory_title_stash">&font_wood;Inventář&font_end; (&font_cyan;%1$d&font_end;/&font_cyan;%2$d&font_end;)</string>
+    <string name="stash_store_couldnt">Nelze uskladnit %1$s, &font_wood;Sklad&font_end; je plný!</string>
+    <string name="stash_increase_title">Zvýšit velikost &font_wood;Skladu&font_end;?</string>
+    <string name="stash_increase_message" tools:ignore="PluralsCandidate">Chceš zvýšit velikost &font_wood;skladu&font_end; z &font_cyan;%1$d&font_end; na &font_cyan;%2$d&font_end;? Bude to stát &font_gold;%3$d zlata&font_end;.</string>
 
-    <string name="merchants_mark">Merchant\'s Mark &font_cyan;#%1$d&font_end;</string>
-    <string name="merchant">Merchant</string>
+    <string name="merchants_mark">Znak kupců &font_cyan;#%1$d&font_end;</string>
+    <string name="merchant">Kupec</string>
     <string name="merchant_name">(&font_gold;%1$s&font_end;)</string>
-    <string name="merchant_dialog_text">Have you brought &font_cyan;%1$d&font_end; &lt;font color=\"%2$s\"&gt;%3$s &font_end;to me?</string>
-    <string name="merchant_giving_merchant_quest_message">Hello! I\'m looking for &font_cyan;%1$d &font_end;&lt;font color=\"%2$s\"&gt;%3$s&font_end;. Could you bring them to me? I\'ll give you something very special in exchange.</string>
-    <string name="merchant_not_enough_materials">You don\'t have enough materials…</string>
-    <string name="merchant_you_receive_the_merchants_mark">You received the Merchant\'s Mark &font_cyan;#%1$d&font_end;!</string>
-    <string name="merchant_dialog_text_mark_given">You already gave me what I needed, thanks!</string>
+    <string name="merchant_dialog_text">Přinesls mi &font_cyan;%1$d&font_end; &lt;font color=\"%2$s\"&gt;%3$s &font_end;?</string>
+    <string name="merchant_giving_merchant_quest_message">Zdravím! Poohlížím se po &font_cyan;%1$d &font_end;&lt;font color=\"%2$s\"&gt;%3$s&font_end;. Mohl bys mi to přinést? Na oplátku ti dám něco velice speciálního.</string>
+    <string name="merchant_not_enough_materials">Nemáš dostatek materiálu…</string>
+    <string name="merchant_you_receive_the_merchants_mark">Obdržel jsi Znak kupců &font_cyan;#%1$d&font_end;!</string>
+    <string name="merchant_dialog_text_mark_given">Už mám co potřebuji, děkuji!</string>
 
-    <string name="witch_dialog_text">Hello… I will give you my &font_witch;Witch Hat &font_end;if you give me &font_cyan;%1$d&font_end; &font_mushroom;Mushrooms&font_end;… and behave yourself or I will transform you into a rat!</string>
-    <string name="witch_dialog_text_mark_given">I don\'t need more &font_mushroom;Mushrooms&font_end;. Thanks…</string>
-    <string name="witch_received">The &font_witch;Witch&font_end; gives you the %1$s!</string>
-    <string name="witch_hat">&font_witch;Witch Hat&font_end;</string>
-    <string name="witch_not_enough_mushrooms">You don\'t have enough &font_mushroom;Mushrooms&font_end;…</string>
+    <string name="witch_dialog_text">Zdravíčko… Dám ti svůj &font_witch;Klobouk Čarodějnice&font_end; pokud mi doneseš &font_cyan;%1$d&font_end; &font_mushroom;Houbiček&font_end;… a chovej se slušně nebo tě proměním v mloka!</string>
+    <string name="witch_dialog_text_mark_given">Už nepotřebuji další &font_mushroom;Houbičky&font_end;. Díky…</string>
+    <string name="witch_received">&font_witch;Čarodějnice&font_end; ti dává %1$s!</string>
+    <string name="witch_hat">&font_witch;Klobouk Čarodějnice&font_end;</string>
+    <string name="witch_not_enough_mushrooms">Nemáš dostatek &font_mushroom;Houbiček&font_end;…</string>
 
     <string name="wizard_tower_dialog_message_1">You enter the %1$s and find an old &font_mana;Wizard&font_end;…</string>
     <string name="wizard_tower_dialog_message_2">Welcome to our %1$s… Do you want to become a &font_mana;Wizard &font_end;like me?</string>
