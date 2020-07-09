@@ -3223,146 +3223,146 @@
     <string name="island_arrival_type_volcano">Вы обнаружили остров. Высокая температура и дым говорят об опасности.</string>
     <string name="island_arrival_type_high_mountains">Вы обнаружили горный остров. На нем расположены самые высокие горы, которые вам только доводилось видеть.</string>
 
-    <string name="island_arrival_type_giants">You discover an island where everything seems to be bigger than the regular islands you\'ve been before.</string>
-    <string name="island_arrival_type_dragons">You discover an island where you smell sulfur and feel the presence of dangerous creatures.</string>
-    <string name="island_arrival_type_undead">You discover an island where there seems to be almost no life left.</string>
-    <string name="island_arrival_type_plant">You discover an island where everything is mainly green. It seems to be full of dangerous plants.</string>
-    <string name="island_arrival_type_fey">You discover a mysterious island. The trees and dense vegetation are hiding exotic and dangerous creatures.</string>
-    <string name="island_arrival_type_beast">You discover an island. The screams of the beasts living here make you stand still for a moment. What kind of place is this?</string>
-    <string name="island_arrival_type_humanoid">You discover an island. You notice nothing special about this place, but you think it\'ll be hard to tell friend from foe.</string>
-    <string name="island_arrival_type_construct">You discover an island. Every monster you sense around seem to be somehow artificial or not organic.</string>
-    <string name="island_arrival_type_elemental">You discover an island. You sense a lot of energy in this island, it seems a dangerous place to explore.</string>
-    <string name="island_arrival_type_swarm">You discover an island. It seems to be some sort of swamp, and you can\'t stop hearing a constant buzz all the time.</string>
-    <string name="island_arrival_type_ooze">You discover an island. It seems there\'s nothing around you but something tells you there\'s something else here.</string>
-    <string name="island_arrival_type_aberration">You discover an island. This is not a normal island. You can feel huge and ugly monsters live here.</string>
+    <string name="island_arrival_type_giants">Вы обнаружили остров, где все кажется больших размеров, чем на других островах.</string>
+    <string name="island_arrival_type_dragons">Вы обнаружили остров, где вы чувствуете запах серы и присутствие опасных существ.</string>
+    <string name="island_arrival_type_undead">Вы обнаружили остров. Кажется, здесь почти нет жизни.</string>
+    <string name="island_arrival_type_plant">Вы обнаружили почти полностью зелёный остров. Он полон опасных растений.</string>
+    <string name="island_arrival_type_fey">Вы обнаружили загадочный остров. Деревья и густая растительность скрывают опасных созданий.</string>
+    <string name="island_arrival_type_beast">Вы обнаружили остров. Крики местных зверей пригвоздили вас к месту. Что это за место?</string>
+    <string name="island_arrival_type_humanoid">Вы обнаружили остров. Вы не замечаете ничего особенного, но думаете, что здесь будет трудно отличить друга от неприятеля.</string>
+    <string name="island_arrival_type_construct">Вы обнаружили остров. Все монстры кажутся будто искусственными или неорганического происхождения.</string>
+    <string name="island_arrival_type_elemental">Вы обнаружили остров. Вы чувствуете здесь большое количество энергии, его опасно исследовать.</string>
+    <string name="island_arrival_type_swarm">Вы обнаружили остров. Он похож на какое-то болото, и вы постоянно слышите жужжание.</string>
+    <string name="island_arrival_type_ooze">Вы обнаружили остров. Вы ничего не видите рядом с собой, но что-то указывает на чье-то присутствие.</string>
+    <string name="island_arrival_type_aberration">Вы обнаружили остров. Это не обычный остров. Вы чувствуете огромных и уродливых монстров, населяющих его.</string>
 
-    <string name="island_arrival_type_tyrant">As soon as you step in this island, you feel the chills and realise this island is going to be tough.</string>
-    <string name="island_arrival_type_hell">Lava and fire. This is Hell. You smell the sulfur and see the place is full of demons and evil beings.</string>
-    <string name="island_arrival_type_heaven">The clouds, the cold air and the beings in this place… You have the feeling this is the most dangerous place you\'ve ever been.</string>
+    <string name="island_arrival_type_tyrant">Стоило вам ступить на этот остров, как у вас волосы встали дыбом. Вы понимаете, что на этом острове будет трудно.</string>
+    <string name="island_arrival_type_hell">Лава и огонь. Это Ад. Вы чувствуете запах серы и видите, что это место кишит демонами и созданиями зла.</string>
+    <string name="island_arrival_type_heaven">Облака, холодный воздух и местные создания… Вы уверены, что это самое опасное место из всех, что вы когда-либо видели.</string>
 
-    <string name="island_arrival_type_black_island">As soon as you arrive to this island, the emptiness and the strange beings inhabiting this place make you feel uncomfortable.</string>
-    <string name="island_arrival_type_white_island">As soon as you arrive to this island, the emptiness and the strange beings inhabiting this place make you feel uncomfortable.</string>
+    <string name="island_arrival_type_black_island">Стоило вам прибыть на этот остров, как вам стало не по себе из-за пустоты и странных созданий.</string>
+    <string name="island_arrival_type_white_island">Стоило вам прибыть на этот остров, как вам стало не по себе из-за пустоты и странных созданий.</string>
 
-    <string name="island_arrival_type_void_island">This is different than any other place you\'ve been so far. You feel nothing. You are surrounded by &font_void;void &font_end;and have no idea of what you\'ll find here.</string>
+    <string name="island_arrival_type_void_island">Вы никогда не были в подобном месте. Вы ничего не чувствуете. Вы окружены &font_void;пустотой &font_end;и даже не представляете, что найдёте здесь.</string>
 
-    <string name="island_arrival_type_infinity_island">You are in an infinity island. Reality seems to bend here.</string>
-    <string name="island_arrival_type_treasure_island">You discover a small island. There seems to be nothing else but sand and soon realise something great awaits.</string>
+    <string name="island_arrival_type_infinity_island">Вы оказались на острове бесконечности. Здесь искривляется сама реальность.</string>
+    <string name="island_arrival_type_treasure_island">Вы обнаружили небольшой остров. Кругом только песок, и вы вскоре понимаете, что вас ожидает что-то невероятное.</string>
 
-    <string name="material_type_bolt">&font_wood;Bolt&font_end;</string>
+    <string name="material_type_bolt">&font_wood;Болт&font_end;</string>
 
-    <string name="tile_content_type_dungeon">Dungeon</string>
-    <string name="dungeon_title">%1$s - Floor &font_cyan;%2$d &font_end;(&font_cyan;%3$d&font_end;, &font_cyan;%4$d&font_end;)</string>
-    <string name="dungeon_go_up">Go Up</string>
-    <string name="dungeon_go_down">Go Down</string>
+    <string name="tile_content_type_dungeon">Подземелье</string>
+    <string name="dungeon_title">%1$s - Ярус &font_cyan;%2$d &font_end;(&font_cyan;%3$d&font_end;, &font_cyan;%4$d&font_end;)</string>
+    <string name="dungeon_go_up">Подняться</string>
+    <string name="dungeon_go_down">Спуститься</string>
 
-    <string name="dungeon_abandoned_mine">&font_wood;Abandoned &font_end;&font_stone;Mine&font_end;</string>
-    <string name="dungeon_dungeon">&font_stone;Dungeon&font_end;</string>
-    <string name="dungeon_grotto">&font_iron;Grotto&font_end;</string>
-    <string name="dungeon_deep_forest">&font_dark_green;Deep &font_end;&font_green;Forest&font_end;</string>
-    <string name="dungeon_old_tomb">&font_silver;Old &font_end;&font_stone;Tomb&font_end;</string>
-    <string name="dungeon_ancient_ruins">&font_gold;Ancient &font_end;&font_ruins;Ruins&font_end;</string>
-    <string name="dungeon_pyramid">&font_beetle_talisman;Pyramid&font_end;</string>
-    <string name="dungeon_big_cave">&font_stone;Big &font_end;&font_end;&font_cave;Cave&font_end;</string>
-    <string name="dungeon_icy_cave">&font_ice;Icy &font_end;&font_cave;Cave&font_end;</string>
-    <string name="dungeon_lava_cave">&font_red;Lava &font_end;&font_cave;Cave&font_end;</string>
+    <string name="dungeon_abandoned_mine">&font_wood;Заброшенная &font_end;&font_stone;шахта&font_end;</string>
+    <string name="dungeon_dungeon">&font_stone;Подземелье&font_end;</string>
+    <string name="dungeon_grotto">&font_iron;Грот&font_end;</string>
+    <string name="dungeon_deep_forest">&font_dark_green;Дремучий &font_end;&font_green;лес&font_end;</string>
+    <string name="dungeon_old_tomb">&font_silver;Старая &font_end;&font_stone;могила&font_end;</string>
+    <string name="dungeon_ancient_ruins">&font_gold;Древние &font_end;&font_ruins;руины&font_end;</string>
+    <string name="dungeon_pyramid">&font_beetle_talisman;Пирамида&font_end;</string>
+    <string name="dungeon_big_cave">&font_stone;Большая &font_end;&font_end;&font_cave;пещера&font_end;</string>
+    <string name="dungeon_icy_cave">&font_ice;Ледяная &font_end;&font_cave;пещера&font_end;</string>
+    <string name="dungeon_lava_cave">&font_cave;Пещера &font_end;&font_red;лавы&font_end;</string>
 
-    <string name="dungeon_exit">Exit</string>
+    <string name="dungeon_exit">Выход</string>
     <string name="dungeon_question_mark">\?</string>
-    <string name="dungeon_exit_dungeon">You exit %1$s.</string>
-    <string name="dungeon_accessibility">You are at &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end;
-        in %3$s, Floor &font_cyan;%4$d&font_end;.&br;&br;You can move to the following directions: %5$s.</string>
-    <string name="dungeon_can_go_up">You can go &font_cyan;up &font_end;from here.</string>
-    <string name="dungeon_can_go_down">You can go &font_cyan;down &font_end;from here.</string>
-    <string name="dungeon_can_exit">You can &font_cyan;exit &font_end;from here.</string>
-    <string name="dungeon_enter">You enter %s…</string>
-    <string name="tile_type_dungeon">Dungeon</string>
-    <string name="dungeon_loot">&font_cyan;Loot&font_end;</string>
-    <string name="dungeon_loot_message">You obtained: %s</string>
-    <string name="found_item">Found: %s</string>
+    <string name="dungeon_exit_dungeon">Вы покидаете %1$s.</string>
+    <string name="dungeon_accessibility">Вы на &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end;
+        на %3$s, Ярус &font_cyan;%4$d&font_end;.&br;&br;Отсюда есть несколько путей: %5$s.</string>
+    <string name="dungeon_can_go_up">Вы можете пойти &font_cyan;наверх&font_end;.</string>
+    <string name="dungeon_can_go_down">Вы можете пойти &font_cyan;вниз&font_end;.</string>
+    <string name="dungeon_can_exit">Вы можете здесь &font_cyan;выйти&font_end;.</string>
+    <string name="dungeon_enter">Вы вошли в %s…</string>
+    <string name="tile_type_dungeon">Подземелье</string>
+    <string name="dungeon_loot">&font_cyan;Добыча&font_end;</string>
+    <string name="dungeon_loot_message">Вы получили: %s</string>
+    <string name="found_item">Найдено: %s</string>
     <string name="dungeon_entrance_name">&font_stone;%1$s &font_end;(%2$s)</string>
-    <string name="tile_content_type_dungeon_portal">&font_stone;Dungeon &font_end;&font_portal;Portal&font_end;</string>
+    <string name="tile_content_type_dungeon_portal">&font_portal;Портал &font_end;в &font_stone;подземелье&font_end;</string>
 
-    <string name="dungeon_north_content">&font_cyan;North&font_end;: %1$s</string>
-    <string name="dungeon_south_content">&font_cyan;South&font_end;: %1$s</string>
-    <string name="dungeon_east_content">&font_cyan;East&font_end;: %1$s</string>
-    <string name="dungeon_west_content">&font_cyan;West&font_end;: %1$s</string>
+    <string name="dungeon_north_content">&font_cyan;Север&font_end;: %1$s</string>
+    <string name="dungeon_south_content">&font_cyan;Юг&font_end;: %1$s</string>
+    <string name="dungeon_east_content">&font_cyan;Восток&font_end;: %1$s</string>
+    <string name="dungeon_west_content">&font_cyan;Запад&font_end;: %1$s</string>
 
-    <string name="dungeon_boss">&font_dungeon_boss;Boss&font_end;</string>
-    <string name="settings_show_combat_shortcuts">Enable Combat Shortcuts</string>
+    <string name="dungeon_boss">&font_dungeon_boss;Босс&font_end;</string>
+    <string name="settings_show_combat_shortcuts">Включить кнопки быстрого действия для боя</string>
 
-    <string name="dungeon_enter_portal">Enter Portal</string>
-    <string name="dungeon_entered_portal">You entered the portal and appeared at the entrance of the dungeon!</string>
+    <string name="dungeon_enter_portal">Войти в портал</string>
+    <string name="dungeon_entered_portal">Вы вошли в портал и оказались перед входом в подземелье!</string>
 
-    <string name="advantage_librarian">&font_wood;Librarian&font_end;</string>
-    <string name="advantage_librarian_desc">(You will start with a random crafting recipe, an &font_cyan;experience &font_end;potion and 5 &font_cyan;skill &font_end;points)</string>
+    <string name="advantage_librarian">&font_wood;Библиотекарь&font_end;</string>
+    <string name="advantage_librarian_desc">(Вы начнёте со знанием случайного рецепта, зельем &font_cyan;опыта &font_end;и 5 очками &font_cyan;навыков&font_end;)</string>
 
-    <string name="dungeon_tutorial_title">Dungeons</string>
-    <string name="dungeon_tutorial_message_1">Welcome to your first dungeon, hero!</string>
-    <string name="dungeon_tutorial_message_2">In the dungeons, every item you find will be given to you when you leave the dungeon.</string>
-    <string name="dungeon_tutorial_message_3">You won\'t be able to change your equipment, craft, use items, etc… except while in combat!</string>
-    <string name="dungeon_tutorial_message_4">A Boss monster awaits in the last floor of the dungeons. Be careful though, the deeper the floor, the more dangerous the monsters can be!</string>
-    <string name="dungeon_tutorial_message_5">Good luck, and be careful!</string>
-    <string name="button_next">Next</string>
+    <string name="dungeon_tutorial_title">Подземелья</string>
+    <string name="dungeon_tutorial_message_1">Добро пожаловать в своё первое подземелье, герой!</string>
+    <string name="dungeon_tutorial_message_2">Ты получишь все найденные тобой в подземельях предметы при выходе из подземелья.</string>
+    <string name="dungeon_tutorial_message_3">Ты не сможешь сменить снаряжение, изготавливать и использовать предметы и пр… но во время боя сможешь!</string>
+    <string name="dungeon_tutorial_message_4">На последнем ярусе подземелий тебя поджидает Босс. Однако будь осторожен, чем ниже ярус, тем опаснее монстры!</string>
+    <string name="dungeon_tutorial_message_5">Удачи! Береги себя!</string>
+    <string name="button_next">Дальше</string>
 
-    <string name="dead_reason_unknown">¡Died!</string>
+    <string name="dead_reason_unknown">Вы погибли!</string>
 
-    <string name="food_cooked_fish">&font_white;Cooked &font_end;&font_blue;Fish&font_end;</string>
-    <string name="share_dialog_title">Share</string>
-    <string name="share_dialog_message">Share your hero\'s status as an image or as text!</string>
-    <string name="button_share_image">As Image</string>
-    <string name="button_share_text">As Text</string>
+    <string name="food_cooked_fish">&font_white;Приготовленная &font_end;&font_blue;рыба&font_end;</string>
+    <string name="share_dialog_title">Поделиться</string>
+    <string name="share_dialog_message">Поделитесь статусом своего героя в виде изображения или текста!</string>
+    <string name="button_share_image">Изображение</string>
+    <string name="button_share_text">Текст</string>
 
-    <string name="material_type_beetle_talisman">&font_beetle_talisman;Beetle Talisman&font_end;</string>
+    <string name="material_type_beetle_talisman">&font_beetle_talisman;Талисман жука&font_end;</string>
 
-    <string name="pyramid_its_closed">It\'s closed…</string>
-    <string name="pyramid_its_closed_can_open">It\'s closed but it seems to be reacting with your &font_beetle_talisman;Beetle Talisman&font_end;…</string>
-    <string name="pyramid_interact">Interact</string>
-    <string name="pyramid_opened">The pyramid absorbs the &font_beetle_talisman;Beetle Talisman &font_end;and opens!</string>
+    <string name="pyramid_its_closed">Закрыто…</string>
+    <string name="pyramid_its_closed_can_open">Закрыто, но она реагирует на ваш &font_beetle_talisman;Талисман жука&font_end;…</string>
+    <string name="pyramid_interact">Взаимодействовать</string>
+    <string name="pyramid_opened">Пирамида поглощает &font_beetle_talisman;Талисман жука &font_end;и открывается!</string>
 
-    <string name="material_type_jade">&font_jade;Jade&font_end;</string>
-    <string name="material_type_quartz">&font_quartz;Quartz&font_end;</string>
-    <string name="material_type_jasper">&font_jasper;Jasper&font_end;</string>
-    <string name="material_type_sodalite">&font_sodalite;Sodalite&font_end;</string>
-    <string name="material_type_onyx">&font_onyx;Onyx&font_end;</string>
-    <string name="material_type_serpentine">&font_serpentine;Serpentine&font_end;</string>
-    <string name="material_type_aragonite">&font_aragonite;Aragonite&font_end;</string>
+    <string name="material_type_jade">&font_jade;Нефрит&font_end;</string>
+    <string name="material_type_quartz">&font_quartz;Кварц&font_end;</string>
+    <string name="material_type_jasper">&font_jasper;Яшма&font_end;</string>
+    <string name="material_type_sodalite">&font_sodalite;Содалит&font_end;</string>
+    <string name="material_type_onyx">&font_onyx;Оникс&font_end;</string>
+    <string name="material_type_serpentine">&font_serpentine;Серпентин&font_end;</string>
+    <string name="material_type_aragonite">&font_aragonite;Арагонит&font_end;</string>
 
-    <string name="material_type_saphir">&font_saphir;Saphir&font_end;</string>
-    <string name="material_type_ruby">&font_ruby;Ruby&font_end;</string>
+    <string name="material_type_saphir">&font_saphir;Сапфир&font_end;</string>
+    <string name="material_type_ruby">&font_ruby;Рубин&font_end;</string>
 
-    <string name="material_type_ankh">&font_gold;Ankh&font_end;</string>
+    <string name="material_type_ankh">&font_gold;Анкх&font_end;</string>
 
-    <string name="material_type_infinity_energy">&font_infinity;Infinity &font_end;&font_cyan;Energy&font_end;</string>
-    <string name="material_type_creator_medal">&font_asterisk_creator;Creator &font_end;&font_white;Medal&font_end;</string>
-    <string name="achievement_name_capture_creator">How could you?!</string>
-    <string name="achievement_name_desc_capture_creator">Capture the Creator!</string>
+    <string name="material_type_infinity_energy">&font_cyan;Энергия &font_end;&font_infinity;бесконечности&font_end;</string>
+    <string name="material_type_creator_medal">&font_white;Медаль &font_end;&font_asterisk_creator;создателя&font_end;</string>
+    <string name="achievement_name_capture_creator">Как ты мог?!</string>
+    <string name="achievement_name_desc_capture_creator">Схватить создателя!</string>
 
-    <string name="title_the_creator_male">%1$s, the &font_asterisk_creator;Creator&font_end;</string>
-    <string name="title_the_creator_female">%1$s, the &font_asterisk_creator;Creator&font_end;</string>
-    <string name="title_the_creator_no_gender">%1$s, the &font_asterisk_creator;Creator&font_end;</string>
+    <string name="title_the_creator_male">%1$s, &font_asterisk_creator;Создатель&font_end;</string>
+    <string name="title_the_creator_female">%1$s, &font_asterisk_creator;Создательница&font_end;</string>
+    <string name="title_the_creator_no_gender">%1$s, &font_asterisk_creator;Создатель&font_end;</string>
 
-    <string name="wise_have_creator_medal">You… you are unbelievable! You killed the &font_asterisk_creator;Creator &font_end;and obtained a %s? I\'m afraid the only thing left to do for you is to &font_asterisk_creator;Ascend&font_end;…</string>
+    <string name="wise_have_creator_medal">Ты… невероятно! Ты убил &font_asterisk_creator;Создателя &font_end;и получил %s? Боюсь, теперь тебе остаётся только &font_asterisk_creator;Возвыситься&font_end;…</string>
 
-    <string name="wise_ascend_message_1">You want to &font_alchemist;Ascend&font_end;?</string>
-    <string name="creator_appeared_title">&font_asterisk_creator;The Creator &font_end;Appeared</string>
-    <string name="creator_appeared_message">Suddenly, a supreme being, nothing like you\'ve seen before, appears in front of you… And, you know, deep inside, this is nothing else than… &font_asterisk_creator;Archison&font_end;, &font_asterisk_creator;The Creator&font_end;.</string>
-    <string name="combat_monster_healed_completely">%s healed completely!</string>
+    <string name="wise_ascend_message_1">Вы хотите &font_alchemist;Возвыситься&font_end;?</string>
+    <string name="creator_appeared_title">Появился &font_asterisk_creator;Создатель&font_end;</string>
+    <string name="creator_appeared_message">Неожиданно перед вами возникает высшее существо, вы никогда его не видели… Глубоко внутри вы уверены, что это не кто иной, как… &font_asterisk_creator;Archison&font_end;, &font_asterisk_creator;Создатель&font_end;.</string>
+    <string name="combat_monster_healed_completely">%s полностью восстановился!</string>
 
-    <string name="item_info_creator_medal">It is a bright medal, a memory of the time you killed &font_asterisk_creator;The Creator&font_end;.</string>
+    <string name="item_info_creator_medal">Это яркая медаль, в память о вашей победе над &font_asterisk_creator;Создателем&font_end;.</string>
 
-    <string name="wise_main_story_island_first_message">Hello, hero! I\'ll be here if you need help!&br;&br;Talk to me if you need to rest or if you want to leave this place…</string>
-    <string name="wise_main_story_island_second_message">Do you want to restore your &font_health;health &font_end;, &font_mana;mana &font_end;and &font_hunger;hunger &font_end;for &font_gold;%1$d gold&font_end;? (A &font_primary_light;&italic;[CHECKPOINT] &italic_end;&font_end;will be saved)&br;&br;…or…&br;&br;Do you want to leave this place? It will disappear forever, you\'ll lose half of the &font_gold;gold &font_end;you are carrying, half from the &font_gold;BANK&font_end;, and you\'ll have to start looking for the &font_cyan;Pieces Of Map &font_end;again.</string>
-    <string name="wise_leave_island_confirmation_message">Are you sure you want to leave?&br;&br;This place will disappear forever, you\'ll lose half of the &font_gold;gold &font_end;you are carrying, half from the &font_gold;BANK&font_end;, and you\'ll have to start looking for the &font_cyan;Pieces Of Map &font_end;again.</string>
+    <string name="wise_main_story_island_first_message">Приветствую, герой! Если я тебе понадоблюсь, то буду здесь!&br;&br;Если тебе нужно отдохнуть или покинуть это место, просто поговори со мной…</string>
+    <string name="wise_main_story_island_second_message">Хотите восстановить &font_health;здоровье &font_end;, &font_mana;ману &font_end;и &font_hunger;голод &font_end;за &font_gold;%1$d золота&font_end;? (A &font_primary_light;&italic;[CHECKPOINT] &italic_end;&font_end;will be saved)&br;&br;…or…&br;&br;Do you want to leave this place? It will disappear forever, you\'ll lose half of the &font_gold;gold &font_end;you are carrying, half from the &font_gold;BANK&font_end;, and you\'ll have to start looking for the &font_cyan;Pieces Of Map &font_end;again.</string>
+    <string name="wise_leave_island_confirmation_message">Вы уверены, что хотите уйти?&br;&br;Это место навсегда пропадёт, вы потеряете половину своего &font_gold;золота&font_end;, половину содержимого &font_gold;БАНКА&font_end;, и вам придётся заново искать &font_cyan;Части карты&font_end;.</string>
 
-    <string name="button_rest">Rest</string>
-    <string name="button_leave_island">Leave</string>
+    <string name="button_rest">Отдохнуть</string>
+    <string name="button_leave_island">Уйти</string>
 
-    <string name="wise_completely_rested">You feel completely rested!</string>
-    <string name="wise_main_story_island_lost_gold_and_memory">You lost some &font_gold;gold &font_end;and some of your memories…</string>
+    <string name="wise_completely_rested">Вы полностью отдохнули!</string>
+    <string name="wise_main_story_island_lost_gold_and_memory">Вы потеряли немного &font_gold;золота &font_end; и некоторые воспоминания…</string>
 
-    <string name="creator_pre_combat_message_1">You know… It\’s not easy to be &font_asterisk_creator;The Creator&font_end;… Always coding, adding greater challenges, fixing bugs, answering emails, chatting in discord, reddit, the web, etc…</string>
-    <string name="creator_pre_combat_message_2">And all of it for what? Tell me, why am I supposed to do this? I can\'t stand the pressure anymore…!</string>
-    <string name="creator_pre_combat_message_3">GET READY TO DIE! Mmmmmwwwwahahahahahahaha!</string>
+    <string name="creator_pre_combat_message_1">Знаешь… Не так-то просто быть &font_asterisk_creator;Создателем&font_end;… Постоянно пишешь коды, добавляешь более сложные испытания, исправляешь баги, отвечаешь на почту, общаешься в discord, reddit, в сети и т.д.…</string>
+    <string name="creator_pre_combat_message_2">И всё это для чего? Скажи, почему я должен этим заниматься? Я больше не выдержу…!</string>
+    <string name="creator_pre_combat_message_3">ГОТОВЬСЯ УМЕРЕТЬ! Мва-ха-ха-ха-ха!</string>
 
     <string name="void_master_after_killing_text_4">Well well… You are wearing a complete set of the &font_void;Void&font_end;… Here you are, you will know what to do with it…</string>
 
