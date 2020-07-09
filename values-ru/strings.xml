@@ -3460,154 +3460,154 @@
     <string name="skill_whip_mastery_desc">Атака &font_void;Хлыстом &font_end;откроет навыки боя для &font_void;Хлыста&font_end;.</string>
     <string name="weapon_type_whip">&font_void;Хлыст&font_end;</string>
 
-    <string name="weapon_skill_whip_fast_lash">&font_speed;Fast &font_end;&font_void;Lash&font_end;</string>
-    <string name="weapon_skill_whip_fast_lash_desc">Lashes the enemy quickly. Always attacks first.</string>
-    <string name="weapon_skill_whip_fast_lash_attack">You lash the enemy!</string>
+    <string name="weapon_skill_whip_fast_lash">&font_speed;Быстрый &font_end;&font_void;удар&font_end;</string>
+    <string name="weapon_skill_whip_fast_lash_desc">Быстрый удар хлыстом по врагу. Всегда идёт первой атакой.</string>
+    <string name="weapon_skill_whip_fast_lash_attack">Вы наносите быстрый удар по врагу!</string>
 
-    <string name="weapon_skill_whip_healing_lash">&font_health;Healing &font_end;&font_void;Lash&font_end;</string>
-    <string name="weapon_skill_whip_healing_lash_desc">Lashes the enemy and absorbs its health.</string>
-    <string name="weapon_skill_whip_healing_lash_attack">You lash the enemy and absorb its health!</string>
+    <string name="weapon_skill_whip_healing_lash">&font_health;Исцеляющий &font_end;&font_void;удар&font_end;</string>
+    <string name="weapon_skill_whip_healing_lash_desc">Удар по врагу, поглощающий его здоровье.</string>
+    <string name="weapon_skill_whip_healing_lash_attack">Вы ударяете врага и поглощаете его здоровье!</string>
 
-    <string name="weapon_skill_whip_double_whip">&font_void;Double Whip&font_end;</string>
-    <string name="weapon_skill_whip_double_whip_desc">Attacks twice with the whip.</string>
-    <string name="weapon_skill_whip_double_whip_attack">You attack twice with the whip!</string>
+    <string name="weapon_skill_whip_double_whip">&font_void;Двойной хлыст&font_end;</string>
+    <string name="weapon_skill_whip_double_whip_desc">Двойная атака хлыстом.</string>
+    <string name="weapon_skill_whip_double_whip_attack">Вы дважды атакуете хлыстом!</string>
 
-    <string name="weapon_skill_whip_absorbing_lash">&font_health;Absorbing &font_end;&font_void;Whip&font_end;</string>
-    <string name="weapon_skill_whip_absorbing_lash_desc">Attacks and absorbs both mana and health from the enemy.</string>
-    <string name="weapon_skill_whip_absorbing_lash_attack">You attack and absorb mana and health from the enemy!</string>
+    <string name="weapon_skill_whip_absorbing_lash">&font_health;Поглощающий &font_end;&font_void;хлыст&font_end;</string>
+    <string name="weapon_skill_whip_absorbing_lash_desc">Атака с поглощением маны и здоровья врага.</string>
+    <string name="weapon_skill_whip_absorbing_lash_attack">Вы атакуете врага и поглощаете его ману и здоровье!</string>
 
-    <string name="weapon_skill_whip_ultimate_lash">&font_void;Ultimate Lash&font_end;</string>
-    <string name="weapon_skill_whip_ultimate_lash_desc">Lashes strongly the enemy.</string>
-    <string name="weapon_skill_whip_ultimate_lash_attack">You lash strongly the enemy!</string>
+    <string name="weapon_skill_whip_ultimate_lash">&font_void;Абсолютный удар&font_end;</string>
+    <string name="weapon_skill_whip_ultimate_lash_desc">Сильный удар по врагу.</string>
+    <string name="weapon_skill_whip_ultimate_lash_attack">Вы наносите сильный удар по врагу!</string>
 
-    <string name="autolevelup_levelled_up">%1$s auto-levelled up to level &font_cyan;%2$d&font_end;</string>
-    <string name="received_void_weapon">You received %1$s!</string>
+    <string name="autolevelup_levelled_up">%1$s автоматическое повышение уровня до &font_cyan;%2$d&font_end;</string>
+    <string name="received_void_weapon">Вы получили %1$s!</string>
 
-    <string name="settings_auto_pick_up_enabled">Combat auto pick-up enabled</string>
-    <string name="material_seaweed">&font_red;Seaweed&font_end;</string>
-    <string name="material_pearl">&font_pearl;Pearl&font_end;</string>
+    <string name="settings_auto_pick_up_enabled">Автоматический подбор после боя</string>
+    <string name="material_seaweed">&font_red;Водоросли&font_end;</string>
+    <string name="material_pearl">&font_pearl;Жемчужина&font_end;</string>
 
-    <string name="dungeon_coral_cave">&font_coral;Coral &font_end;&font_cave;Cave&font_end;</string>
-    <string name="tile_content_type_torch">&font_red;Torch&font_end;</string>
-    <string name="item_info_torch">Use this to see further in dungeons!</string>
-    <string name="torch_use_question">Do you want to use a &font_red;Torch&font_end; to see better?&br;&br;It will last until you exit %1$s.</string>
-    <string name="ascension_flame_lights_up_the_place">The &asterisk_ascend_color;Ascension &font_end;&font_red;Flame &font_end;lights up the place!</string>
+    <string name="dungeon_coral_cave">&font_coral;Коралловая &font_end;&font_cave;пещера&font_end;</string>
+    <string name="tile_content_type_torch">&font_red;Факел&font_end;</string>
+    <string name="item_info_torch">Используйте его, чтобы дальше видеть в подземельях!</string>
+    <string name="torch_use_question">Использовать &font_red;Факел&font_end;, чтобы лучше видеть?&br;&br;Он продержится до вашего выхода из %1$s.</string>
+    <string name="ascension_flame_lights_up_the_place">&font_red;Пламя &font_end;&asterisk_ascend_color;Вознесения &font_end;осветило это место!</string>
 
-    <string name="skill_points_to_base_stats">Use your &font_cyan;Skill Points &font_end;to increase your base stats.&br;&br;You currently have &font_cyan;%d &font_end;SP.</string>
-    <string name="skill_points_to_base_stats_attack">Increase &font_attack;Attack &font_end;(&font_cyan;%1$d &font_end;SP) [&font_attack;%2$d&font_end;]</string>
-    <string name="skill_points_to_base_stats_defense">Increase &font_defense;Defense &font_end;(&font_cyan;%1$d &font_end;SP) [&font_defense;%2$d&font_end;]</string>
-    <string name="skill_points_to_base_stats_speed">Increase &font_speed;Speed &font_end;(&font_cyan;%1$d &font_end;SP) [&font_speed;%2$d&font_end;]</string>
-    <string name="skill_points_to_base_stats_intelligence">Increase &font_mana;Intelligence &font_end;(&font_cyan;%1$d &font_end;SP) [&font_mana;%2$d&font_end;]</string>
+    <string name="skill_points_to_base_stats">Используйте &font_cyan;Очки опыта (SP)&font_end;, чтобы улучшить базовые характеристики.&br;&br;Сейчас у вас &font_cyan;%d &font_end;SP.</string>
+    <string name="skill_points_to_base_stats_attack">Улучшить &font_attack;Атаку &font_end;(&font_cyan;%1$d &font_end;SP) [&font_attack;%2$d&font_end;]</string>
+    <string name="skill_points_to_base_stats_defense">Улучшить &font_defense;Защиту &font_end;(&font_cyan;%1$d &font_end;SP) [&font_defense;%2$d&font_end;]</string>
+    <string name="skill_points_to_base_stats_speed">Улучшить &font_speed;Скорость &font_end;(&font_cyan;%1$d &font_end;SP) [&font_speed;%2$d&font_end;]</string>
+    <string name="skill_points_to_base_stats_intelligence">Улучшить &font_mana;Интеллект &font_end;(&font_cyan;%1$d &font_end;SP) [&font_mana;%2$d&font_end;]</string>
 
-    <string name="increased_base_attack_to">Increased base &font_attack;Attack &font_end;to &font_attack;%1$d&font_end;.</string>
-    <string name="increased_base_defense_to">Increased base &font_defense;Defense &font_end;to &font_defense;%1$d&font_end;.</string>
-    <string name="increased_base_speed_to">Increased base &font_speed;Speed &font_end;to &font_speed;%1$d&font_end;.</string>
-    <string name="increased_base_intelligence_to">Increased base &font_mana;Intelligence &font_end;to &font_mana;%1$d&font_end;.</string>
+    <string name="increased_base_attack_to">Базовая &font_attack;Атака &font_end;улучшена до &font_attack;%1$d&font_end;.</string>
+    <string name="increased_base_defense_to">Базовая &font_defense;Защита &font_end;улучшена до &font_defense;%1$d&font_end;.</string>
+    <string name="increased_base_speed_to">Базовая &font_speed;Скорость &font_end;улучшена до &font_speed;%1$d&font_end;.</string>
+    <string name="increased_base_intelligence_to">Базовый &font_mana;Интеллект &font_end;улучшен до &font_mana;%1$d&font_end;.</string>
 
-    <string name="skill_dungeoneer">&font_stone;Dungeoneer&font_end;</string>
-    <string name="skill_dungeoneer_description">Discovers the type of &font_stone;Dungeon &font_end;in an island if there is one.</string>
-    <string name="skill_dungeoneer_action">Sense &font_stone;Dungeon&font_end;</string>
-    <string name="skill_dungeoneer_action_title">Sensing &font_stone;Dungeons&font_end;</string>
-    <string name="skill_dungeoneer_success">You sense there\'s a %s!</string>
-    <string name="skill_dungeoneer_no_dungeon_detected">You don\'t detect any &font_stone;Dungeon&font_end;…</string>
-    <string name="material_pure_essence">&font_purifying;Pure Essence&font_end;</string>
-    <string name="completely_purified_island">The island is now completely &font_purifying;* Purified * &font_end;and you obtained &font_purifying;Pure Essence&font_end;!</string>
-    <string name="purifying_tree_text_completely_purified_label">{ &font_purifying;* Purified *&font_end;}</string>
-    <string name="tile_type_water">Water</string>
-    <string name="settings_show_squares_map">Show squares in map</string>
+    <string name="skill_dungeoneer">&font_stone;Подземельник&font_end;</string>
+    <string name="skill_dungeoneer_description">Узнать типы &font_stone;Подземелий &font_end;на острове, если они здесь есть.</string>
+    <string name="skill_dungeoneer_action">Почувствовать &font_stone;Подземелье&font_end;</string>
+    <string name="skill_dungeoneer_action_title">Почувствовать &font_stone;Подземелья&font_end;</string>
+    <string name="skill_dungeoneer_success">Я чувствую здесь %s!</string>
+    <string name="skill_dungeoneer_no_dungeon_detected">Вы не обнаружили ни одного &font_stone;Подземелья&font_end;…</string>
+    <string name="material_pure_essence">&font_purifying;Чистая эссенция&font_end;</string>
+    <string name="completely_purified_island">Остров полностью &font_purifying;* Очищен * &font_end;, и вы получили &font_purifying;Чистую эссенцию&font_end;!</string>
+    <string name="purifying_tree_text_completely_purified_label">{ &font_purifying;* Очищено *&font_end;}</string>
+    <string name="tile_type_water">Вода</string>
+    <string name="settings_show_squares_map">Показывать квадраты на карте</string>
 
-    <string name="island_remove_mark">Remove Mark</string>
-    <string name="island_remove_text">Remove Info</string>
+    <string name="island_remove_mark">Снять отметку</string>
+    <string name="island_remove_text">Убрать информацию</string>
 
-    <string name="advantage_cartographer">&font_cyan;Cartographer&font_end;</string>
-    <string name="advantage_cartographer_desc">(You will start with an &font_cyan;Island &font_end;&font_gold;Map &font_end;and a random &font_cyan;Nautical Chart&font_end;)</string>
+    <string name="advantage_cartographer">&font_cyan;Картограф&font_end;</string>
+    <string name="advantage_cartographer_desc">(Вы начнёте с &font_gold;Картой &font_end;&font_cyan;Острова &font_end;и случайной &font_cyan;Навигационной картой&font_end;)</string>
 
-    <string name="title_the_cartographer_male">%1$s, the &font_cyan;Cartographer&font_end;</string>
-    <string name="title_the_cartographer_female">%1$s, the &font_cyan;Cartographer&font_end;</string>
-    <string name="title_the_cartographer_no_gender">%1$s, the &font_cyan;Cartographer&font_end;</string>
-    <string name="blacksmith_repair_tool_button">Repair (&font_gold;%d&font_end;)</string>
+    <string name="title_the_cartographer_male">%1$s, &font_cyan;Картограф&font_end;</string>
+    <string name="title_the_cartographer_female">%1$s, &font_cyan;Картограф&font_end;</string>
+    <string name="title_the_cartographer_no_gender">%1$s, &font_cyan;Картограф&font_end;</string>
+    <string name="blacksmith_repair_tool_button">Починить (&font_gold;%d&font_end;)</string>
 
-    <string name="button_blacksmith_repair_tools">Repair &font_cyan;Tools&font_end;</string>
+    <string name="button_blacksmith_repair_tools">&font_cyan;Инструменты&font_end; для ремонта</string>
 
-    <string name="settings_leaderboards_wip">Leaderboards (Beta)</string>
-    <string name="button_quit">Quit</string>
-    <string name="quit_quest_title">Quit Quest</string>
-    <string name="quit_quest_message">Do you want to quit \'%s\'?</string>
-    <string name="quit_quest_confirmation_message">Are you sure you want to quit \'%s\'?&br;&br;You won\'t be able to undo this action…</string>
-    <string name="quit_merchant_quest_message">Do you want to quit \'%s\'?</string>
-    <string name="quit_merchant_quest_confirmation_message">Are you sure you want to quit \'%s\'?&br;&br;The &font_gold;Merchant &font_end;will disappear and you won\'t be able to undo this action…</string>
-    <string name="quest_quit">You quit \'%s\'…</string>
-    <string name="tool_doesnt_need_to_be_repaired">This tool doesn\'t need to be repaired!</string>
+    <string name="settings_leaderboards_wip">Таблица лидеров (Бета)</string>
+    <string name="button_quit">Отказаться</string>
+    <string name="quit_quest_title">Отказаться от задания</string>
+    <string name="quit_quest_message">Отказаться от задания \'%s\'?</string>
+    <string name="quit_quest_confirmation_message">Вы уверены, что хотите отказаться от задания \'%s\'?&br;&br;Вы не сможете отменить это действие…</string>
+    <string name="quit_merchant_quest_message">Отказаться от \'%s\'?</string>
+    <string name="quit_merchant_quest_confirmation_message">Вы уверены, что хотите отказаться от \'%s\'?&br;&br;&font_gold;Торговец &font_end;исчезнет, и вы не сможете отменить это действие…</string>
+    <string name="quest_quit">Вы отказались от \'%s\'…</string>
+    <string name="tool_doesnt_need_to_be_repaired">Этот инструмент не нужно ремонтировать!</string>
 
-    <string name="merchant_quest_quit_description">&font_gold;%1$s&font_end; at &font_cyan;%2$d&font_end;, &font_cyan;%3$d &font_end;has asked you to bring &font_cyan;%4$d &font_end;%5$s.</string>
+    <string name="merchant_quest_quit_description">&font_gold;%1$s&font_end; на &font_cyan;%2$d&font_end;, &font_cyan;%3$d &font_end;попросил принести &font_cyan;%4$d &font_end;%5$s.</string>
 
-    <string name="content_description_arrow_to_unfold">Arrow to unfold this</string>
-    <string name="settings_show_hero_icon">Show Hero Icon</string>
-    <string name="pets_combat_is_dead">%s can\'t attack because it\'s dead!</string>
-    <string name="pets_combat_died">%s died!</string>
-    <string name="pets_combat_received_damage">Your %1$s received &font_red;%2$d &font_end;damage!</string>
-    <string name="combat_heal_message">Cast to yourself or to %s?</string>
-    <string name="button_you">Me</string>
+    <string name="content_description_arrow_to_unfold">Нажмите на стрелку, чтобы раскрыть</string>
+    <string name="settings_show_hero_icon">Показать иконку героя</string>
+    <string name="pets_combat_is_dead">Питомец %s не может атаковать, потому что он погиб!</string>
+    <string name="pets_combat_died">Питомец %s погиб!</string>
+    <string name="pets_combat_received_damage">Ваш питомец %1$s получил &font_red;%2$d &font_end;урона!</string>
+    <string name="combat_heal_message">Использовать заклинание на себя или на %s?</string>
+    <string name="button_you">На себя</string>
 
-    <string name="pets_combat_health_restored">%1$s restored &font_health;%2$d &font_end;health!</string>
+    <string name="pets_combat_health_restored">Питомец %1$s восстановил &font_health;%2$d &font_end;здоровья!</string>
 
-    <string name="spell_revive_pet_name">&font_health;Revive &font_end;&font_pet;Pet&font_end;</string>
-    <string name="spell_revive_pet_desc">Cast this to &font_health;revive &font_end;your &font_pet;pet&font_end;.</string>
-    <string name="spell_revive_pet_desc_combat_success">You &font_health;revive &font_end;your &font_pet;pet&font_end;!</string>
+    <string name="spell_revive_pet_name">&font_health;Воскресить &font_end;&font_pet;питомца&font_end;</string>
+    <string name="spell_revive_pet_desc">Заклинание для &font_health;воскрешения &font_end;вашего &font_pet;питомца&font_end;.</string>
+    <string name="spell_revive_pet_desc_combat_success">Вы &font_health;воскресили &font_end;своего &font_pet;питомца&font_end;!</string>
 
-    <string name="pets_combat_revived">You revived %s!</string>
-    <string name="item_info_potion_pet_heal">Give this to your &font_pet;pet &font_end;to heal it &font_health;%1$s&font_end;%%.</string>
-    <string name="item_info_potion_pet_revive">Give this to your &font_pet;pet &font_end;to &font_health;revive &font_end;and &font_health;heal &font_end;it a &font_health;%1$s&font_end;%%.</string>
-    <string name="your_pet_quaffs_potion">%1$s quaffs %2$s!</string>
-    <string name="your_pet_quaffs_potion_revived">%1$s revived with &font_health;%2$d &font_end;health points!</string>
-    <string name="your_pet_quaffs_potion_healed">%1$s healed &font_health;%2$d &font_end;health points!</string>
-    <string name="your_pet_quaffs_potion_restored">%1$s restored &font_mana;%2$d &font_end;mana points!</string>
+    <string name="pets_combat_revived">Вы воскресили %s!</string>
+    <string name="item_info_potion_pet_heal">Дайте это своему &font_pet;питомцу&font_end;, чтобы вылечить его &font_health;%1$s&font_end;%%.</string>
+    <string name="item_info_potion_pet_revive">Дайте это своему &font_pet;питомцу&font_end;, чтобы &font_health;воскресить &font_end;и &font_health;исцелить &font_end;его  &font_health;%1$s&font_end;%%.</string>
+    <string name="your_pet_quaffs_potion">Питомец %1$s пьёт %2$s!</string>
+    <string name="your_pet_quaffs_potion_revived">Питомец %1$s воскрешён с &font_health;%2$d &font_end;очками здоровья!</string>
+    <string name="your_pet_quaffs_potion_healed">Питомец %1$s вылечен &font_health;%2$d &font_end;очков здоровья!</string>
+    <string name="your_pet_quaffs_potion_restored">Питомец %1$s восстановил &font_mana;%2$d &font_end;очков маны!</string>
 
-    <string name="tile_content_type_heal_pet_potion">&font_health;Heal &font_end;&font_pet;Pet &font_end;Potion</string>
-    <string name="tile_content_type_mana_pet_potion">&font_mana;Mana &font_end;&font_pet;Pet &font_end;Potion</string>
-    <string name="tile_content_type_revive_pet_potion">&font_health;Revive &font_end;&font_pet;Pet &font_end;Potion</string>
+    <string name="tile_content_type_heal_pet_potion">Зелье &font_health;Исцеления &font_end;&font_pet;питомца &font_end;</string>
+    <string name="tile_content_type_mana_pet_potion">Зелье &font_mana;Маны &font_end;&font_pet;питомца &font_end;</string>
+    <string name="tile_content_type_revive_pet_potion">Зелье &font_health;Воскрешения &font_end;&font_pet;питомца&font_end;</string>
 
-    <string name="item_name_heal_pet_potion">&font_health;Heal &font_end;&font_pet;Pet &font_end;Potion (&font_health;%1$d&font_end;%%)</string>
-    <string name="item_name_mana_pet_potion">&font_mana;Mana &font_end;&font_pet;Pet &font_end;Potion (&font_health;%1$d&font_end;%%)</string>
-    <string name="item_name_revive_pet_potion">&font_health;Revive &font_end;&font_pet;Pet &font_end;Potion (&font_health;%1$d&font_end;%%)</string>
-    <string name="item_experience_pet_potion">&font_cyan;Experience &font_end;&font_pet;Pet &font_end;Potion</string>
-    <string name="item_experience_pet_potion_amount">&font_cyan;Experience &font_end;&font_pet;Pet &font_end;Potion (&font_cyan;%1$d&font_end;)</string>
+    <string name="item_name_heal_pet_potion">Зелье &font_health;Исцеления &font_end;&font_pet;питомца&font_end; (&font_health;%1$d&font_end;%%)</string>
+    <string name="item_name_mana_pet_potion">Залье &font_mana;Маны &font_end;&font_pet;питомца&font_end; (&font_health;%1$d&font_end;%%)</string>
+    <string name="item_name_revive_pet_potion">Зелье &font_health;Воскрешения &font_end;&font_pet;питомца&font_end; (&font_health;%1$d&font_end;%%)</string>
+    <string name="item_experience_pet_potion">Зелье &font_cyan;Опыта &font_end;&font_pet;питомца&font_end;</string>
+    <string name="item_experience_pet_potion_amount">Зелье &font_cyan;Опыта &font_end;&font_pet;питомца &font_end; (&font_cyan;%1$d&font_end;)</string>
 
-    <string name="tile_content_type_pet_shop">&font_pet;Pet &font_end;&font_gold;Shop&font_end;</string>
-    <string name="pet_item_name">&font_pet;Pet &font_end; (%1$s)</string>
-    <string name="item_info_pet_item">Buy this to add this &font_pet;Pet &font_end;as a companion in your adventures!</string>
+    <string name="tile_content_type_pet_shop">&font_gold;Магазин &font_end;&font_pet;Питомцев&font_end;</string>
+    <string name="pet_item_name">&font_pet;Питомец &font_end; (%1$s)</string>
+    <string name="item_info_pet_item">Купите его, чтобы сделать этого &font_pet;Питомца &font_end;своим товарищем в путешествиях!</string>
 
-    <string name="pets_couldn_pick_up">You can\'t take %s with you, not enough space for &font_pet;pets&font_end;!</string>
-    <string name="pets_already_healthy">Your %1$s is already &font_health;healthy&font_end;!</string>
-    <string name="pets_already_healthy_mana">The &font_mana;mana &font_end;of your %1$s is already full!</string>
-    <string name="pets_already_alive">Your %1$s is already alive!</string>
+    <string name="pets_couldn_pick_up">Вы не можете взять %s с собой, у вас недостаточно места для &font_pet;питомцев&font_end;!</string>
+    <string name="pets_already_healthy">Ваш питомец %1$s уже &font_health;здоров&font_end;!</string>
+    <string name="pets_already_healthy_mana">&font_mana;Мана &font_end;вашего питомца %1$s полна!</string>
+    <string name="pets_already_alive">Ваш питомец %1$s уже жив!</string>
 
-    <string name="tile_content_type_dark_stone">&font_void;Dark &font_end;&font_stone;Stone&font_end;</string>
-    <string name="tile_content_type_broken_dark_gate">Broken &font_void;Dark &font_end;&font_stone;Gate&font_end;</string>
-    <string name="repairing">Repairing %s</string>
-    <string name="repaired">Repaired %s!</string>
+    <string name="tile_content_type_dark_stone">&font_void;Тёмный &font_end;&font_stone;камень&font_end;</string>
+    <string name="tile_content_type_broken_dark_gate">Сломанные &font_void;Тёмные &font_end;&font_stone;ворота&font_end;</string>
+    <string name="repairing">Ремонт - %s</string>
+    <string name="repaired">Отремонтировано - %s!</string>
 
-    <string name="broken_dark_gate_message_not_repairable">The &font_void;Dark &font_end;&font_stone;Gate &font_end;is broken… maybe it could be repaired if having enough &font_void;Dark &font_end;&font_stone;Stone&font_end;…</string>
-    <string name="broken_dark_gate_message_repairable">The &font_void;Dark &font_end;&font_stone;Gate &font_end;is broken… it seems you have enough &font_void;Dark &font_end;&font_stone;Stone &font_end;to repair it!&br;&br;Repair &font_void;Dark &font_end;&font_stone;Gate &font_end;with %d &font_void;Dark &font_end;&font_stone;Stones&font_end;?</string>
-    <string name="purifying_tree_message_with_monsters">A pure and shiny %1$s is here.&br;&br;You look at its bright purple leaves, but can count &font_cyan;%2$d &font_end;&font_red;red &font_end;leaves…</string>
-    <string name="purifying_tree_message_with_one_monster">A pure and shiny %1$s is here.&br;&br;You look at its bright purple leaves, but can count &font_cyan;%2$d &font_end;&font_red;red &font_end;leave…</string>
-    <string name="purifying_tree_message_no_monsters_no_completely_purified">A pure and shiny %1$s is here.&br;&br;You look at its bright purple leaves, and there are no more &font_red;red &font_end;leaves…&br;&br;There is something here for you…</string>
-    <string name="purifying_tree_message_no_monsters_completely_purified">A pure and shiny %1$s is here.&br;&br;You look at its bright purple leaves and feel how your &font_health;health &font_end;and &font_mana;mana &font_end;are completely restored…</string>
+    <string name="broken_dark_gate_message_not_repairable">&font_void;Тёмные &font_end;&font_stone;ворота &font_end;сломаны… для их ремонта нужны &font_void;Тёмные &font_end;&font_stone;камни&font_end;…</string>
+    <string name="broken_dark_gate_message_repairable">&font_void;Тёмные &font_end;&font_stone;ворота &font_end;сломаны… кажется, у вас достаточно &font_void;Тёмных &font_end;&font_stone;камней &font_end;для ремонта!&br;&br;Починить &font_void;Тёмные &font_end;&font_stone;ворота&font_end;, использовав %d &font_void;Тёмных &font_end;&font_stone;камней&font_end;?</string>
+    <string name="purifying_tree_message_with_monsters">Чистое и сверкающее %1$s здесь.&br;&br;Вы смотрите на его яркие фиолетовые листья, но замечаете &font_cyan;%2$d &font_end;&font_red;красных &font_end;листьев…</string>
+    <string name="purifying_tree_message_with_one_monster">Чистое и сверкающее %1$s здесь.&br;&br;Вы смотрите на его яркие фиолетовые листья, но замечаете &font_cyan;%2$d &font_end;&font_red;красный &font_end;лист…</string>
+    <string name="purifying_tree_message_no_monsters_no_completely_purified">Чистое и сверкающее %1$s здесь.&br;&br;Вы смотрите на его яркие фиолетовые листья и не видите никаких &font_red;красных &font_end;листьев…&br;&br;А вот и для вас кое-что есть…</string>
+    <string name="purifying_tree_message_no_monsters_completely_purified">Чистое и сверкающее %1$s здесь.&br;&br;Вы смотрите на его яркие фиолетовые листья и чувствуете, как полностью восстанавливаются ваши &font_health;здоровье &font_end;и &font_mana;мана&font_end;…</string>
 
-    <string name="item_info_experience_pet_potion">Give this to your &font_pet;pet &font_end;to make it gain %1$s &font_cyan;experience &font_end;instantly.</string>
-    <string name="button_oh_no">Oh no…</string>
+    <string name="item_info_experience_pet_potion">Дайте это своему &font_pet;питомцу&font_end;, чтобы он сразу получил %1$s &font_cyan;опыта&font_end;.</string>
+    <string name="button_oh_no">О нет…</string>
 
-    <string name="status_sound_and_vibration">&font_cyan;Sound / Vibration&font_end;</string>
-    <string name="status_game_ui_title">&font_cyan;Game UI&font_end;</string>
-    <string name="status_various_title">&font_cyan;Various&font_end;</string>
-    <string name="settings_music_volume">Music Volume</string>
-    <string name="settings_sound_volume">Sound Volume</string>
+    <string name="status_sound_and_vibration">&font_cyan;Звук / Вибрация&font_end;</string>
+    <string name="status_game_ui_title">&font_cyan;Интерфейс&font_end;</string>
+    <string name="status_various_title">&font_cyan;Разное&font_end;</string>
+    <string name="settings_music_volume">Громкость музыки</string>
+    <string name="settings_sound_volume">Громкость звуков</string>
 
-    <string name="tile_content_type_purifying_seed_planted">&font_purifying;Purifying&font_end; &font_plant;Seed &font_end;(&font_green;Planted&font_end;)</string>
+    <string name="tile_content_type_purifying_seed_planted">&font_purifying;Очищающее&font_end; &font_plant;семя &font_end;(&font_green;посажено&font_end;)</string>
 
-    <string name="dropped_ammo_toast">Some of the &font_wood;ammo &font_end;is able to be retrieved!</string>
+    <string name="dropped_ammo_toast">Часть &font_wood;припасов &font_end;можно забрать!</string>
 
-    <string name="craft_not_enough_inventory_space">You don\'t have enough space in your inventory…</string>
+    <string name="craft_not_enough_inventory_space">В вашем инвентаре недостаточно места…</string>
 
     <string name="craft_various_message_stackable">What amount do you want to craft?&br;&br;(You have enough materials to craft &font_cyan;%1$d&font_end;)</string>
     <string name="craft_various_message_stackable_higher_than_the_max">What amount do you want to craft?&br;&br;(You have enough materials to craft &font_cyan;%1$d&font_end;, but the maximum amount allowed to craft is &font_cyan;%2$d&font_end;)</string>
