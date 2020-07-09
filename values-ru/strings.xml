@@ -3341,9 +3341,9 @@
     <string name="title_the_creator_female">%1$s, &font_asterisk_creator;Создательница&font_end;</string>
     <string name="title_the_creator_no_gender">%1$s, &font_asterisk_creator;Создатель&font_end;</string>
 
-    <string name="wise_have_creator_medal">Ты… невероятно! Ты убил &font_asterisk_creator;Создателя &font_end;и получил %s? Боюсь, теперь тебе остаётся только &font_asterisk_creator;Возвыситься&font_end;…</string>
+    <string name="wise_have_creator_medal">Ты… невероятно! Ты убил &font_asterisk_creator;Создателя &font_end;и получил %s? Боюсь, теперь тебе остаётся только &font_asterisk_creator;Вознестись&font_end;…</string>
 
-    <string name="wise_ascend_message_1">Вы хотите &font_alchemist;Возвыситься&font_end;?</string>
+    <string name="wise_ascend_message_1">Вы хотите &font_alchemist;Вознестись&font_end;?</string>
     <string name="creator_appeared_title">Появился &font_asterisk_creator;Создатель&font_end;</string>
     <string name="creator_appeared_message">Неожиданно перед вами возникает высшее существо, вы никогда его не видели… Глубоко внутри вы уверены, что это не кто иной, как… &font_asterisk_creator;Archison&font_end;, &font_asterisk_creator;Создатель&font_end;.</string>
     <string name="combat_monster_healed_completely">%s полностью восстановился!</string>
@@ -3364,101 +3364,101 @@
     <string name="creator_pre_combat_message_2">И всё это для чего? Скажи, почему я должен этим заниматься? Я больше не выдержу…!</string>
     <string name="creator_pre_combat_message_3">ГОТОВЬСЯ УМЕРЕТЬ! Мва-ха-ха-ха-ха!</string>
 
-    <string name="void_master_after_killing_text_4">Well well… You are wearing a complete set of the &font_void;Void&font_end;… Here you are, you will know what to do with it…</string>
+    <string name="void_master_after_killing_text_4">Ну что ж… На тебе полный комплект &font_void;Бездны&font_end;… Держи, ты поймёшь, что с этим делать…</string>
 
-    <string name="dungeon_infinite_vortex">&font_infinity;Infinite &font_end;&font_void;Vortex&font_end;</string>
-    <string name="collection_tiles">Tiles</string>
-    <string name="collection_cassettes">Cassettes</string>
-    <string name="cassette_menu">Menu</string>
-    <string name="cassette_new_game">New Game</string>
-    <string name="cassette_journey">Journey</string>
-    <string name="cassette_game_over">Game Over</string>
-    <string name="cassette_collections">Collections</string>
-    <string name="collection_dungeons">Dungeons</string>
+    <string name="dungeon_infinite_vortex">&font_infinity;Бесконечный &font_end;&font_void;вихрь&font_end;</string>
+    <string name="collection_tiles">Плитки</string>
+    <string name="collection_cassettes">Кассеты</string>
+    <string name="cassette_menu">Меню</string>
+    <string name="cassette_new_game">Новая игра</string>
+    <string name="cassette_journey">Путешествие</string>
+    <string name="cassette_game_over">Игра окончена</string>
+    <string name="cassette_collections">Коллекции</string>
+    <string name="collection_dungeons">Подземелья</string>
 
-    <string name="button_play">Play</string>
+    <string name="button_play">Играть</string>
 
-    <string name="cassette_rar1_menu">RAR I - Menu</string>
-    <string name="cassette_rar1_journey">RAR I - Journey</string>
-    <string name="cassette_rar1_game_over">RAR I - Game Over</string>
-    <string name="cassette_rar1_collections">RAR I - Collections</string>
+    <string name="cassette_rar1_menu">RAR I - Меню</string>
+    <string name="cassette_rar1_journey">RAR I - Путешествие</string>
+    <string name="cassette_rar1_game_over">RAR I - Игра окончена</string>
+    <string name="cassette_rar1_collections">RAR I - Коллекции</string>
 
-    <string name="tile_content_type_cassette">&font_alchemist;Cassette&font_end;</string>
-    <string name="cassette_name">&font_alchemist;Cassette &font_end;(%s)</string>
-    <string name="item_info_cassette">This seems to be an ancient relic of sorts. Who knows what is this used for…</string>
+    <string name="tile_content_type_cassette">&font_alchemist;Кассета&font_end;</string>
+    <string name="cassette_name">&font_alchemist;Кассета &font_end;(%s)</string>
+    <string name="item_info_cassette">Это похоже на какую-то древнюю реликвию. Интересно, для чего она использовалась…</string>
 
-    <string name="wise_ascend_message_confirmation">If you &asterisk_ascend_color;Ascend&font_end;, you\'ll start over from level 1. You\'ll forget every island, quest, etc…, and you\'ll lose all your items, your gold… BUT, you\'ll have improved starting stats, you\'ll obtain an &asterisk_ascend_color;Ascension &font_end;&font_red;Flame&font_end;…!</string>
-    <string name="wise_ascend_message_confirmation_2">Are you sure you want to &asterisk_ascend_color;Ascend&font_end;?</string>
+    <string name="wise_ascend_message_confirmation">Если вы &asterisk_ascend_color;Вознесётесь&font_end;, то начнёте с уровня 1. Вы забудете все острова, задания и пр., потеряете все свои предметы, золото… НО у вас будут улучшенные стартовые характеристики, вы получите &font_red;Пламя &font_end;&asterisk_ascend_color;Вознесения&font_end;…!</string>
+    <string name="wise_ascend_message_confirmation_2">Вы уверены, что хотите &asterisk_ascend_color;Вознестись&font_end;?</string>
 
-    <string name="ascend_toast">Everything becomes dark…</string>
-    <string name="ascend_end_toast">…you feel alive again…</string>
+    <string name="ascend_toast">Кругом стало темно…</string>
+    <string name="ascend_end_toast">…вы снова чувствуете жизнь…</string>
 
-    <string name="title_the_ascended_male">%1$s, the &asterisk_ascend_color;Ascended&font_end;</string>
-    <string name="title_the_ascended_female">%1$s, the &asterisk_ascend_color;Ascended&font_end;</string>
-    <string name="title_the_ascended_no_gender">%1$s, the &asterisk_ascend_color;Ascended&font_end;</string>
+    <string name="title_the_ascended_male">%1$s, &asterisk_ascend_color;Вознесённый&font_end;</string>
+    <string name="title_the_ascended_female">%1$s, &asterisk_ascend_color;Вознесённая&font_end;</string>
+    <string name="title_the_ascended_no_gender">%1$s, &asterisk_ascend_color;Вознесённый&font_end;</string>
 
-    <string name="material_type_ascension_flame">&asterisk_ascend_color;Ascension &font_end;&font_red;Flame&font_end;</string>
-    <string name="tile_content_stairway_to_hell">&font_wood;Stairway &font_end;To &font_red;Hell&font_end;</string>
-    <string name="tile_content_highway_to_heaven">&font_corrupted_god;Highway &font_end;To &font_heaven;Heaven&font_end;</string>
+    <string name="material_type_ascension_flame">&font_red;Пламя &font_end;&asterisk_ascend_color;Вознесения&font_end;</string>
+    <string name="tile_content_stairway_to_hell">&font_wood;Лестница &font_end;в &font_red;Ад&font_end;</string>
+    <string name="tile_content_highway_to_heaven">&font_corrupted_god;Дорога &font_end;в &font_heaven;Рай&font_end;</string>
 
-    <string name="main_story_stairway_to_hell_advice_wont_be_able_to_come_back_to_island">If you enter the %1$s you won\'t be able to come back to %2$s!&br;&br;Enter anyway?</string>
-    <string name="main_story_7_stairway_to_hell_appears">A &font_wood;Stairway &font_end;To &font_red;Hell &font_end;appears!</string>
+    <string name="main_story_stairway_to_hell_advice_wont_be_able_to_come_back_to_island">Если вы войдете в %1$s, вы не сможете вернуться в %2$s!&br;&br;Всё равно войти?</string>
+    <string name="main_story_7_stairway_to_hell_appears">Возникает &font_wood;Лестница &font_end;в &font_red;Ад&font_end;!</string>
 
-    <string name="main_story_7_the_tyrant_message_6_new">Use this &font_wood;Stairway &font_end;To &font_red;Hell &font_end;to find him…</string>
+    <string name="main_story_7_the_tyrant_message_6_new">Используйте эту &font_wood;Лестницу &font_end;в &font_red;Ад&font_end;, чтобы найти его…</string>
 
-    <string name="text_cant_move_here">Can\'t move here…</string>
+    <string name="text_cant_move_here">Не могу здесь двигаться…</string>
 
-    <string name="tile_content_type_cassette_collector">&font_alchemist;Cassette &font_end;&font_gold;Collector&font_end;</string>
-    <string name="tile_content_type_cassette_collector_with_gem">&font_alchemist;Cassette &font_end;&font_gold;Collector &font_end;(%s)</string>
+    <string name="tile_content_type_cassette_collector">&font_gold;Собиратель&font_end; &font_alchemist;кассет&font_end;</string>
+    <string name="tile_content_type_cassette_collector_with_gem">&font_gold;Собиратель&font_end; &font_alchemist;кассет&font_end;(%s)</string>
 
-    <string name="cassette_collector_message">Hello! I\'m a &font_alchemist;Cassette &font_end;&font_gold;Collector&font_end;!&br;&br;If you happen to have any &font_alchemist;Cassette&font_end;, would you give it to me? I would give you a %1$s in exchange…</string>
-    <string name="cassette_collector_you_dont_have_any_cassette">You don\'t have any &font_alchemist;Cassette&font_end;…</string>
+    <string name="cassette_collector_message">Привет! Я &font_gold;Собиратель&font_end; &font_alchemist;кассет&font_end;!&br;&br;Если ты найдёшь &font_alchemist;Кассету&font_end;, не мог бы ты отдать её мне? Я дам за неё %1$s…</string>
+    <string name="cassette_collector_you_dont_have_any_cassette">У вас нет &font_alchemist;Кассет&font_end;…</string>
 
-    <string name="collection_material">Material</string>
+    <string name="collection_material">Материал</string>
 
-    <string name="material_type_red_opal">&font_red;Red &font_end;&font_onyx;Opal&font_end;</string>
-    <string name="material_type_green_opal">&font_green;Green &font_end;&font_onyx;Opal&font_end;</string>
-    <string name="material_type_blue_opal">&font_blue;Blue &font_end;&font_onyx;Opal&font_end;</string>
+    <string name="material_type_red_opal">&font_red;Красный &font_end;&font_onyx;опал&font_end;</string>
+    <string name="material_type_green_opal">&font_green;Зелёный &font_end;&font_onyx;опал&font_end;</string>
+    <string name="material_type_blue_opal">&font_blue;Синий &font_end;&font_onyx;опал&font_end;</string>
 
-    <string name="sphinx_info_with_ankh">You look at the giant &font_pyramid;Sphinx &font_end;and are amazed about its size and beauty. It seems pretty old.&br;&br;The &font_gold;Ankh &font_end;in your pocket starts to vibrate. Do you want to use it?</string>
-    <string name="monster_appears">%s appears!</string>
+    <string name="sphinx_info_with_ankh">Вы смотрите на гигантского &font_pyramid;Сфинкса &font_end;и поражаетесь его размеру и красоте. Он довольно старый.&br;&br;&font_gold;Анкх &font_end;в вашем кармане начинает дрожать. Использовать его?</string>
+    <string name="monster_appears">Появляется %s!</string>
 
-    <string name="monster_action_shadow_ray">Shadow Ray</string>
-    <string name="monster_action_infinity_punch">Infinity Punch</string>
-    <string name="monster_action_everything">Everything</string>
-    <string name="monster_action_annoying_bug">Annoying Bug</string>
-    <string name="monster_action_game_glitch">Game Glitch</string>
-    <string name="monster_action_reality_crash">Reality Crash</string>
+    <string name="monster_action_shadow_ray">Теневой луч</string>
+    <string name="monster_action_infinity_punch">Удар бесконечности</string>
+    <string name="monster_action_everything">Всё</string>
+    <string name="monster_action_annoying_bug">Назойливая муха</string>
+    <string name="monster_action_game_glitch">Глитч игры</string>
+    <string name="monster_action_reality_crash">Обвал реальности</string>
 
-    <string name="item_info_ankh">It seems to have a small drawing of a &font_pyramid;Sphinx&font_end;…</string>
+    <string name="item_info_ankh">Здесь небольшое изображение &font_pyramid;Сфинкса&font_end;…</string>
 
-    <string name="inventory_use_red_opal">Use &font_red;Red &font_end;&font_onyx;Opal &font_end;to increase your max. hunger by &font_hunger;%1$d&font_end;.</string>
-    <string name="inventory_use_green_opal">Use &font_green;Green &font_end;&font_onyx;Opal &font_end;to increase your max. health by &font_health;%1$d&font_end;.</string>
-    <string name="inventory_use_blue_opal">Use &font_blue;Blue &font_end;&font_onyx;Opal &font_end;to increase your max. mana by &font_mana;%1$d&font_end;.</string>
-    <string name="inventory_use_infinity_energy">Use &font_infinity;Infinity &font_end;&font_cyan;Energy &font_end;to completely restore your &font_health;health &font_end;, &font_mana;mana &font_end;and &font_hunger;hunger&font_end;.</string>
+    <string name="inventory_use_red_opal">Используйте &font_red;Красный &font_end;&font_onyx;опал&font_end;, чтобы увеличить макс. голод на &font_hunger;%1$d&font_end;.</string>
+    <string name="inventory_use_green_opal">Используйте &font_green;Зелёный &font_end;&font_onyx;опал&font_end;, чтобы увеличить макс. здоровье на &font_health;%1$d&font_end;.</string>
+    <string name="inventory_use_blue_opal">Используйте &font_blue;Синий &font_end;&font_onyx;опал&font_end;, чтобы увеличить макс. ману на &font_mana;%1$d&font_end;.</string>
+    <string name="inventory_use_infinity_energy">Используйте &font_cyan;Энергию &font_end;&font_infinity;Бесконечности&font_end;, чтобы полностью восстановить &font_health;здоровье&font_end;, &font_mana;ману &font_end;и &font_hunger;голод&font_end;.</string>
 
-    <string name="inventory_used_infinity_energy">Used &font_infinity;Infinity &font_end;&font_cyan;Energy&font_end;!</string>
+    <string name="inventory_used_infinity_energy">Вы использовали &font_cyan;Энергию &font_end;&font_infinity;Бесконечности&font_end;!</string>
 
-    <string name="item_info_ascension_flame">You feel this &asterisk_ascend_color;Ascension &font_end;&font_red;Flame &font_end;is the most powerful thing you\'ve ever touched… You wonder what may this be used for…</string>
-    <string name="settings_leaderboards">Leaderboards</string>
+    <string name="item_info_ascension_flame">Вы чувствуете, что &font_red;Пламя &font_end;&asterisk_ascend_color;Вознесения &font_end;- сильнейший предмет, к которому вы прикасались… Интересно, для чего он нужен…</string>
+    <string name="settings_leaderboards">Таблица лидеров</string>
 
 
 
-    <string name="tool_wasted">%1$s is wasted! Use a %2$s to repair it.</string>
-    <string name="tile_content_type_repair_kit">Repair Kit</string>
-    <string name="dark_orb_vibrates">The %1$s vibrates…</string>
-    <string name="tile_content_type_void_merchant">&font_void;Void &font_end;&font_gold;Merchant&font_end;</string>
+    <string name="tool_wasted">Инструмент %1$s сломался! Используйте %2$s для починки.</string>
+    <string name="tile_content_type_repair_kit">Ремонтный набор</string>
+    <string name="dark_orb_vibrates">%1$s дрожит…</string>
+    <string name="tile_content_type_void_merchant">&font_gold;Торговец &font_end;&font_void;Бездны&font_end;</string>
 
-    <string name="void_merchant_message_1">Hello…&br;&br;</string>
-    <string name="void_merchant_message_2">Do you… do you have a &font_dark_orb;Dark Orb&font_end;?&br;&br;Would you give it to me? I would give you a special &font_void;weapon &font_end;in exchange…</string>
-    <string name="void_merchant_message_dont_have">You don\'t have a &font_dark_orb;Dark Orb&font_end;… don\'t waste my time… Go waste yours…</string>
-    <string name="void_merchant_message_have">Oh my &font_void;void&font_end;…! Thanks… As I promised, this is for you…</string>
-    <string name="void_merchant_message_have_2">Come back if you have more…</string>
+    <string name="void_merchant_message_1">Привет…&br;&br;</string>
+    <string name="void_merchant_message_2">У тебя… у тебя есть &font_dark_orb;Тёмная сфера&font_end;?&br;&br;Отдай её мне? Я дам тебе особое &font_void;оружие&font_end;…</string>
+    <string name="void_merchant_message_dont_have">У тебя нет &font_dark_orb;Тёмной сферы&font_end;… Со своим временем делай, что хочешь, но моё не трать…</string>
+    <string name="void_merchant_message_have">О, милостивая &font_void;бездна&font_end;…! Спасибо… Как и обещал, это тебе…</string>
+    <string name="void_merchant_message_have_2">Если найдёшь ещё, возвращайся…</string>
 
-    <string name="settings_show_gold_on_top">Show Gold on top</string>
-    <string name="skill_whip_mastery">&font_void;Whip &font_end;Mastery</string>
-    <string name="skill_whip_mastery_desc">Attacking with a &font_void;Whip &font_end;in combat unlocks &font_void;Whip &font_end;Combat Skills.</string>
-    <string name="weapon_type_whip">&font_void;Whip&font_end;</string>
+    <string name="settings_show_gold_on_top">Показывать Золото наверху</string>
+    <string name="skill_whip_mastery">Владение &font_void;Хлыстом&font_end;</string>
+    <string name="skill_whip_mastery_desc">Атака &font_void;Хлыстом &font_end;откроет навыки боя для &font_void;Хлыста&font_end;.</string>
+    <string name="weapon_type_whip">&font_void;Хлыст&font_end;</string>
 
     <string name="weapon_skill_whip_fast_lash">&font_speed;Fast &font_end;&font_void;Lash&font_end;</string>
     <string name="weapon_skill_whip_fast_lash_desc">Lashes the enemy quickly. Always attacks first.</string>
