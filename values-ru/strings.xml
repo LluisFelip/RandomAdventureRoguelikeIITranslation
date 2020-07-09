@@ -3627,194 +3627,194 @@
     <string name="cartographer_stone_info">Позволяет отмечать или добавлять информацию к островам из вашего списка.</string>
     <string name="wooden_sign_info">Используйте, чтобы создать &font_wood;Деревянный знак &font_end;в любом месте и сделать на нём запись. Он отобразится на карте в виде &font_wood;X&font_end;.</string>
 
-    <string name="button_blacksmith_ask_about_material_tiers">Ask about &font_wood;material &font_end;&font_cyan;tiers&font_end;</string>
-    <string name="blacksmith_material_tiers_message">Oh, you want to know about the material tiers? This is the order:&br;&br;&font_wood;Wood &font_end;-> &font_leather;Leather &font_end;-> &font_copper;Copper &font_end;-> &font_tin;Tin &font_end;-> &font_iron;Iron &font_end;-> &font_bronze;Bronze &font_end;-> &font_silver;Silver &font_end;-> &font_gold;Gold &font_end;-> &font_diamond;Diamond &font_end;-> &font_obsidian;Obsidian &font_end;&br;&br;There are a some other very rare materials but I don\'t think you will ever be able to find them…</string>
-    <string name="button_sort_by_can_craft">Sort (can craft)</string>
-    <string name="crafting_filter_can_craft">Can Craft</string>
+    <string name="button_blacksmith_ask_about_material_tiers">Узнать о &font_cyan;классах &font_end;&font_wood;материалов&font_end;</string>
+    <string name="blacksmith_material_tiers_message">Ах, ты хочешь узнать о классах материалов? Вот их порядок:&br;&br;&font_wood;Дерево &font_end;-> &font_leather;Кожа &font_end;-> &font_copper;Медь &font_end;-> &font_tin;Олово &font_end;-> &font_iron;Железо &font_end;-> &font_bronze;Бронза &font_end;-> &font_silver;Серебро &font_end;-> &font_gold;Золото &font_end;-> &font_diamond;Алмаз &font_end;-> &font_obsidian;Обсидиан &font_end;&br;&br;Есть еще несколько очень редких материалов, но я сомневаюсь, что ты их когда-нибудь найдёшь…</string>
+    <string name="button_sort_by_can_craft">Сортировать (можно изготовить)</string>
+    <string name="crafting_filter_can_craft">Можно изготовить</string>
 
-    <string name="ascending">Ascending</string>
-    <string name="button_continue">Continue</string>
-    <string name="button_wake_up">Wake Up</string>
-    <string name="ascended">Ascended!</string>
+    <string name="ascending">Вознесение</string>
+    <string name="button_continue">Продолжить</string>
+    <string name="button_wake_up">Пробудиться</string>
+    <string name="ascended">Вы вознеслись!</string>
 
     <string name="ascended_text">
-        You forget everything but start to feel more powerful…
-        &br;&br;* You obtain &font_cyan;%1$d &font_end;x &asterisk_ascend_color;Ascension &font_end;&font_red;Flame&font_end;
-        &br;* Your max. &font_health;health &font_end;is now &font_health;%2$d&font_end;
-        &br;* Your max. &font_mana;mana &font_end;is now &font_mana;%3$d&font_end;
-        &br;* Your max. &font_hunger;hunger &font_end;is now &font_hunger;%4$d&font_end;
+        Вы забываете всё, но чувствуете, что стали сильнее…
+        &br;&br;* Вы получили &font_cyan;%1$d &font_end;x &font_red;Пламя &font_end;&asterisk_ascend_color;Вознесения&font_end;
+        &br;* Ваше макс. &font_health;здоровье &font_end;теперь &font_health;%2$d&font_end;
+        &br;* Ваша макс. &font_mana;мана &font_end;теперь &font_mana;%3$d&font_end;
+        &br;* Ваш макс. &font_hunger;голод &font_end;теперь &font_hunger;%4$d&font_end;
 
-        &br;* Your base &font_attack;attack &font_end;is now &font_attack;%5$d&font_end;
-        &br;* Your base &font_defense;defense &font_end;is now &font_defense;%6$d&font_end;
-        &br;* Your base &font_mana;intelligence &font_end;is now &font_mana;%7$d&font_end;
-        &br;* Your base &font_speed;speed &font_end;is now &font_speed;%8$d&font_end;
+        &br;* Ваша исходная &font_attack;атака &font_end;теперь &font_attack;%5$d&font_end;
+        &br;* Ваша исходная &font_defense;защита &font_end;теперь &font_defense;%6$d&font_end;
+        &br;* Ваш исходный &font_mana;интеллект &font_end;теперь &font_mana;%7$d&font_end;
+        &br;* Ваша исходная &font_speed;скорость &font_end;теперь &font_speed;%8$d&font_end;
 
-        &br;* You start with &font_gold;%9$d gold &font_end;coins
-        &br;* You start with &font_cyan;%10$d &font_end;&font_cyan;Skill Points&font_end;
-        &br;&br;Good luck with your new adventures,&br;%11$s!
+        &br;* Вы начинаете с &font_gold;%9$d золотыми &font_end;монетами
+        &br;* Вы начинаете с &font_cyan;%10$d &font_end;&font_cyan;Очками опыта&font_end;
+        &br;&br;Удачи в новых приключениях,&br;%11$s!
     </string>
 
-    <string name="monster_action_break_reality">Break Reality</string>
-    <string name="monster_action_discord_spam">Discord Spam</string>
+    <string name="monster_action_break_reality">Разлом реальности</string>
+    <string name="monster_action_discord_spam">Спам Discord</string>
 
-    <string name="monster_action_translate_reality">Translate Reality</string>
-    <string name="monster_action_anime_transformation">Anime Transformation</string>
+    <string name="monster_action_translate_reality">Перевод реальности</string>
+    <string name="monster_action_anime_transformation">Аниме превращение</string>
 
-    <string name="monster_action_sleep_deprivation">Sleep Deprivation</string>
-    <string name="monster_action_infinity_test">Infinity Test</string>
+    <string name="monster_action_sleep_deprivation">Недосып</string>
+    <string name="monster_action_infinity_test">Тест бесконечности</string>
 
-    <string name="monster_action_infinity_donation">Infinity Donation</string>
-    <string name="monster_action_infinity_patreon">Infinity Patreon</string>
+    <string name="monster_action_infinity_donation">Пожертвование бесконечности</string>
+    <string name="monster_action_infinity_patreon">Покровитель бесконечности</string>
 
-    <string name="monster_action_island_spam">Island Spam</string>
-    <string name="monster_action_infinite_islands">Infinite Islands</string>
+    <string name="monster_action_island_spam">Спам острова</string>
+    <string name="monster_action_infinite_islands">Острова бесконечности</string>
 
-    <string name="monster_action_infinity_email">Infinity Email</string>
+    <string name="monster_action_infinity_email">Рассылка бесконечности</string>
 
-    <string name="monster_action_infinity_love">Infinity Love</string>
-    <string name="monster_action_infinity_patience">Infinity Patience</string>
-    <string name="monster_action_infinity_work">Infinity Work</string>
+    <string name="monster_action_infinity_love">Любовь бесконечности</string>
+    <string name="monster_action_infinity_patience">Терпение бесконечности</string>
+    <string name="monster_action_infinity_work">Работа бесконечности</string>
 
-    <string name="monster_action_discord_message">Discord Message</string>
-    <string name="monster_action_reddit_post">Reddit Post</string>
-    <string name="monster_action_song_composition">Song Composition</string>
-    <string name="monster_action_game_update">Game Update</string>
+    <string name="monster_action_discord_message">Сообщение Discord</string>
+    <string name="monster_action_reddit_post">Пост Reddit</string>
+    <string name="monster_action_song_composition">Новая песня</string>
+    <string name="monster_action_game_update">Обновление игры</string>
 
-    <string name="tool_chopping_axe_infinite">&font_infinity;Infinite &font_end;&font_wood;Chopping &font_end;Axe</string>
-    <string name="tool_pickaxe_infinite">&font_infinity;Infinite &font_end;&font_silver;Pickaxe&font_end;</string>
-    <string name="tool_fishing_rod_infinite">&font_infinity;Infinite &font_end;&font_cyan;Fishing &font_end;Rod</string>
-    <string name="tool_net_infinite">&font_infinity;Infinite &font_end;&font_insect;Net&font_end;</string>
-    <string name="tool_skinning_knife_infinite">&font_infinity;Infinite &font_end;&font_skin;Skinning &font_end;Knife</string>
-    <string name="tool_meat_cleaver_infinite">&font_infinity;Infinite &font_end;&font_blood;Meat &font_end;Cleaver</string>
+    <string name="tool_chopping_axe_infinite">Топор &font_infinity;Бесконечной &font_end;&font_wood;рубки&font_end;</string>
+    <string name="tool_pickaxe_infinite">&font_infinity;Бесконечная &font_end;&font_silver;кирка&font_end;</string>
+    <string name="tool_fishing_rod_infinite">&font_infinity;Бесконечная &font_end;&font_cyan;удочка&font_end;</string>
+    <string name="tool_net_infinite">&font_infinity;Бесконечная &font_end;&font_insect;сеть&font_end;</string>
+    <string name="tool_skinning_knife_infinite">&font_infinity;Бесконечный &font_end;нож для &font_skin;свежевания&font_end;</string>
+    <string name="tool_meat_cleaver_infinite">&font_infinity;Бесконечный &font_end;&font_blood;Мясницкий &font_end;топор</string>
 
-    <string name="tile_content_type_summoning_stone">&font_void;Summoning &font_end;&font_stone;Stone&font_end;</string>
+    <string name="tile_content_type_summoning_stone">&font_stone;Камень &font_end;&font_void;призыва&font_end;</string>
 
-    <string name="item_jade_amulet">&font_jade;Jade &font_end;Amulet</string>
-    <string name="item_serpentine_amulet">&font_serpentine;Serpentine &font_end;Amulet</string>
-    <string name="item_sodalite_amulet">&font_sodalite;Sodalite &font_end;Amulet</string>
-    <string name="item_saphir_amulet">&font_saphir;Sapphire &font_end;Amulet</string>
-    <string name="item_aragonite_amulet">&font_aragonite;Aragonite &font_end;Amulet</string>
-    <string name="item_jasper_amulet">&font_jasper;Jasper &font_end;Amulet</string>
-    <string name="item_ruby_amulet">&font_ruby;Ruby &font_end;Amulet</string>
-    <string name="item_onyx_amulet">&font_onyx;Onyx &font_end;Amulet</string>
-    <string name="item_quartz_amulet">&font_quartz;Quartz &font_end;Amulet</string>
-    <string name="item_pearl_amulet">&font_pearl;Pearl &font_end;Amulet</string>
+    <string name="item_jade_amulet">&font_jade;Нефритовый &font_end;амулет</string>
+    <string name="item_serpentine_amulet">&font_serpentine;Серпентиновый &font_end;амулет</string>
+    <string name="item_sodalite_amulet">&font_sodalite;Содалитовый &font_end;амулет</string>
+    <string name="item_saphir_amulet">&font_saphir;Сапфировый &font_end;амулет</string>
+    <string name="item_aragonite_amulet">&font_aragonite;Арагонитовый &font_end;амулет</string>
+    <string name="item_jasper_amulet">&font_jasper;Яшмовый &font_end;амулет</string>
+    <string name="item_ruby_amulet">&font_ruby;Рубиновый &font_end;амулет</string>
+    <string name="item_onyx_amulet">&font_onyx;Ониксовый &font_end;амулет</string>
+    <string name="item_quartz_amulet">&font_quartz;Кварцевый &font_end;амулет</string>
+    <string name="item_pearl_amulet">&font_pearl;Жемчужный &font_end;амулет</string>
 
-    <string name="item_emerald_ring">&font_emerald;Emerald &font_end;Ring</string>
-    <string name="item_jade_ring">&font_jade;Jade &font_end;Ring</string>
-    <string name="item_serpentine_ring">&font_serpentine;Serpentine &font_end;Ring</string>
-    <string name="item_sodalite_ring">&font_sodalite;Sodalite &font_end;Ring</string>
-    <string name="item_saphir_ring">&font_saphir;Sapphire &font_end;Ring</string>
-    <string name="item_aragonite_ring">&font_aragonite;Aragonite &font_end;Ring</string>
-    <string name="item_jasper_ring">&font_jasper;Jasper &font_end;Ring</string>
-    <string name="item_ruby_ring">&font_ruby;Ruby &font_end;Ring</string>
-    <string name="item_onyx_ring">&font_onyx;Onyx &font_end;Ring</string>
-    <string name="item_quartz_ring">&font_quartz;Quartz &font_end;Ring</string>
-    <string name="item_pearl_ring">&font_pearl;Pearl &font_end;Ring</string>
+    <string name="item_emerald_ring">&font_emerald;Изумрудное &font_end;кольцо</string>
+    <string name="item_jade_ring">&font_jade;Нефритовое &font_end;кольцо</string>
+    <string name="item_serpentine_ring">&font_serpentine;Серпентиновое &font_end;кольцо</string>
+    <string name="item_sodalite_ring">&font_sodalite;Содалитовое &font_end;кольцо</string>
+    <string name="item_saphir_ring">&font_saphir;Сапфировое &font_end;кольцо</string>
+    <string name="item_aragonite_ring">&font_aragonite;Арагонитовое &font_end;кольцо</string>
+    <string name="item_jasper_ring">&font_jasper;Яшмовое &font_end;кольцо</string>
+    <string name="item_ruby_ring">&font_ruby;Рубиновое &font_end;кольцо</string>
+    <string name="item_onyx_ring">&font_onyx;Ониксовое &font_end;кольцо</string>
+    <string name="item_quartz_ring">&font_quartz;Кварцевое &font_end;кольцо</string>
+    <string name="item_pearl_ring">&font_pearl;Жемчужное &font_end;кольцо</string>
 
-    <string name="item_info_summoning_stone">Use this &font_void;Summoning &font_end;&font_stone;Stone &font_end;to summon a random &font_void;monster&font_end;!</string>
+    <string name="item_info_summoning_stone">Используйте этот &font_stone;Камень &font_end;&font_void;призыва&font_end;, чтобы вызвать случайного &font_void;монстра&font_end;!</string>
 
-    <string name="stats_extra_inc_attack">Increased &font_attack;Att&font_end;.: &font_attack;%d&font_end;</string>
-    <string name="stats_extra_inc_defense">Increased &font_defense;Def&font_end;.: &font_defense;%d&font_end;</string>
-    <string name="stats_extra_inc_speed">Increased &font_speed;Spd&font_end;.: &font_speed;%d&font_end;</string>
-    <string name="stats_extra_inc_intelligence">Increased &font_mana;Int&font_end;.: &font_mana;%d&font_end;</string>
+    <string name="stats_extra_inc_attack">Повышенная &font_attack;Ат&font_end;.: &font_attack;%d&font_end;</string>
+    <string name="stats_extra_inc_defense">Повышенная &font_defense;Защ&font_end;.: &font_defense;%d&font_end;</string>
+    <string name="stats_extra_inc_speed">Повышенная &font_speed;Ск&font_end;.: &font_speed;%d&font_end;</string>
+    <string name="stats_extra_inc_intelligence">Повышенный &font_mana;Инт&font_end;.: &font_mana;%d&font_end;</string>
 
-    <string name="increases_max_health">&br;&br;Increases the Maximum &font_health;Health&font_end;.</string>
-    <string name="increases_max_mana">&br;&br;Increases the Maximum &font_mana;Mana&font_end;.</string>
-    <string name="increases_max_hunger">&br;&br;Increases the Maximum &font_hunger;Hunger&font_end;.</string>
-    <string name="increases_base_attack">&br;&br;Increases the &font_cyan;base &font_end;&font_attack;attack&font_end;.</string>
-    <string name="increases_base_defense">&br;&br;Increases the &font_cyan;base &font_end;&font_defense;defense&font_end;.</string>
-    <string name="increases_base_speed">&br;&br;Increases the &font_cyan;base &font_end;&font_speed;speed&font_end;.</string>
-    <string name="increases_base_intelligence">&br;&br;Increases the &font_cyan;base &font_end;&font_mana;intelligence&font_end;.</string>
+    <string name="increases_max_health">&br;&br;Повышает максимальный уровень &font_health;Здоровья&font_end;.</string>
+    <string name="increases_max_mana">&br;&br;Повышает максимальный уровень &font_mana;Маны&font_end;.</string>
+    <string name="increases_max_hunger">&br;&br;Повышает максимальный уровень &font_hunger;Голода&font_end;.</string>
+    <string name="increases_base_attack">&br;&br;Повышает уровень &font_cyan;исходной &font_end;&font_attack;атаки&font_end;.</string>
+    <string name="increases_base_defense">&br;&br;Повышает уровень &font_cyan;исходной &font_end;&font_defense;защиты&font_end;.</string>
+    <string name="increases_base_speed">&br;&br;Повышает уровень &font_cyan;исходной &font_end;&font_speed;скорости&font_end;.</string>
+    <string name="increases_base_intelligence">&br;&br;Повышает уровень &font_cyan;исходного &font_end;&font_mana;интеллекта&font_end;.</string>
 
-    <string name="summoning_monster">&font_void;Summoning &font_end;&font_red;monster&font_end;…</string>
-    <string name="summoned_monster">…&font_void;summoned &font_end;%1$s!</string>
-    <string name="cant_summon_if_theres_a_monster_nearby">Can\'t &font_void;summon &font_end;a &font_red;monster &font_end;if there\'s already a &font_red;monster &font_end;nearby…</string>
-    <string name="scrap_from_inventory_message">You have an &asterisk_ascend_color;Ascension &font_end;&font_red;Flame&font_end;, so you can &font_iron;scrap &font_end;your equipment pieces.&br;&br;Do you want to &font_iron;scrap &font_end;%1$s?</string>
+    <string name="summoning_monster">&font_void;Призыв &font_end;&font_red;монстра&font_end;…</string>
+    <string name="summoned_monster">…&font_void;призван &font_end;%1$s!</string>
+    <string name="cant_summon_if_theres_a_monster_nearby">Невозможно &font_void;призвать &font_end;&font_red;монстра&font_end;, если рядом уже есть &font_red;монстр&font_end;…</string>
+    <string name="scrap_from_inventory_message">У вас есть &font_red;Пламя &font_end;&asterisk_ascend_color;Вознесения&font_end;, поэтому вы можете &font_iron;разобрать &font_end;своё снаряжение.&br;&br; &font_iron;Разобрать &font_end;%1$s?</string>
 
     <string name="button_scrap_inventory">S</string>
     <string name="button_drop_reduced">D</string>
 
-    <string name="tile_content_type_monster_trophy">&font_red;Monster &font_end;&font_gold;Trophy&font_end;</string>
-    <string name="monster_trophy_name">%1$s\'s &font_gold;Trophy&font_end; [&font_cyan;%2$d&font_end;]</string>
-    <string name="item_info_monster_trohpy_info">It\'s a %1$s\'s &font_gold;Trophy&font_end;, obtained for killing a level &font_cyan;%2$d &font_end;%1$s!</string>
+    <string name="tile_content_type_monster_trophy">&font_gold;Трофей &font_end;&font_red;Монстра&font_end;</string>
+    <string name="monster_trophy_name">&font_gold;Трофей&font_end; %1$s [&font_cyan;%2$d&font_end;]</string>
+    <string name="item_info_monster_trohpy_info">Это &font_gold;Трофей&font_end; %1$s, полученный за убийство %1$s с уровнем &font_cyan;%2$d&font_end;!</string>
 
-    <string name="tile_content_type_infinity_portal">&font_infinity;Infinity &font_end;&font_portal;Portal&font_end;</string>
-    <string name="infinity_portal_info">Use this to create a &font_portal;Portal &font_end;to the beginning of this &font_infinity;Infinity &font_end;(if this even makes sense).</string>
-    <string name="infinity_portal_enter">Cross this &font_portal;Portal &font_end;to go to the beginning of this &font_infinity;Infinity &font_end;(if this even makes sense).</string>
-    <string name="cant_cross_this_portal">You can\'t enter this &font_infinity;Infinity &font_end;&font_portal;Portal&font_end;…</string>
+    <string name="tile_content_type_infinity_portal">&font_portal;Портал &font_end;&font_infinity;Бесконечности&font_end;</string>
+    <string name="infinity_portal_info">Используйте это, чтобы создать &font_portal;Портал &font_end;к началу этой &font_infinity;Бесконечности &font_end;(в этой фразе вообще есть смысл?).</string>
+    <string name="infinity_portal_enter">Пройти сквозь &font_portal;Портал &font_end;к началу этой &font_infinity;Бесконечности &font_end;(в этой фразе вообще есть смысл?).</string>
+    <string name="cant_cross_this_portal">Вы не можете войти в этот &font_portal;Портал &font_end;&font_infinity;Бесконечности&font_end;…</string>
 
-    <string name="achievement_name_summoner">Summoner</string>
-    <string name="achievement_desc_summoner">Summon a Monster using a Summoning Stone</string>
+    <string name="achievement_name_summoner">Заклинатель</string>
+    <string name="achievement_desc_summoner">Призвать Монстра с помощью Камня призыва</string>
 
-    <string name="achievement_name_infinity">Infinity</string>
-    <string name="achievement_desc_infinity">Enter the Infinity for the first time.</string>
+    <string name="achievement_name_infinity">Бесконечность</string>
+    <string name="achievement_desc_infinity">Впервые войти в Бесконечность.</string>
 
-    <string name="achievement_name_ascend">Ascend</string>
-    <string name="achievement_desc_ascend">Ascend for the first time.</string>
+    <string name="achievement_name_ascend">Вознесение</string>
+    <string name="achievement_desc_ascend">Впервые вознестись.</string>
 
-    <string name="achievement_name_the_end">Last Boss</string>
-    <string name="achievement_name_game_breaker">Game Breaker</string>
-    <string name="achievement_name_desc_game_breaker">Kill all the Infinity special Bosses</string>
-    <string name="achievement_name_desc_the_end">Kill the last Boss!</string>
+    <string name="achievement_name_the_end">Последний Босс</string>
+    <string name="achievement_name_game_breaker">Ломатель игры</string>
+    <string name="achievement_name_desc_game_breaker">Убить всех особых Боссов Бесконечности</string>
+    <string name="achievement_name_desc_the_end">Убить последнего Босса!</string>
 
-    <string name="title_the_summoner_male">%1$s, the &font_void;Summoner&font_end;</string>
-    <string name="title_the_summoner_female">%1$s, the &font_void;Summoner&font_end;</string>
-    <string name="title_the_summoner_no_gender">%1$s, the &font_void;Summoner&font_end;</string>
+    <string name="title_the_summoner_male">%1$s, &font_void;Заклинатель&font_end;</string>
+    <string name="title_the_summoner_female">%1$s, &font_void;Заклинательница&font_end;</string>
+    <string name="title_the_summoner_no_gender">%1$s, &font_void;Заклинатель&font_end;</string>
 
-    <string name="title_the_game_breaker_male">%1$s, the &font_pink;Game Breaker&font_end;</string>
-    <string name="title_the_game_breaker_female">%1$s, the &font_pink;Game Breaker&font_end;</string>
-    <string name="title_the_game_breaker_no_gender">%1$s, the &font_pink;Game Breaker&font_end;</string>
+    <string name="title_the_game_breaker_male">%1$s, &font_pink;Ломатель игры&font_end;</string>
+    <string name="title_the_game_breaker_female">%1$s, &font_pink;Ломательница игры&font_end;</string>
+    <string name="title_the_game_breaker_no_gender">%1$s, &font_pink;Ломатель игры&font_end;</string>
 
-    <string name="title_the_ender_male">%1$s, the &font_legendary;Ender&font_end;</string>
-    <string name="title_the_ender_female">%1$s, the &font_legendary;Ender&font_end;</string>
-    <string name="title_the_ender_no_gender">%1$s, the &font_legendary;Ender&font_end;</string>
+    <string name="title_the_ender_male">%1$s, &font_legendary;Вершитель&font_end;</string>
+    <string name="title_the_ender_female">%1$s, &font_legendary;Вершительница&font_end;</string>
+    <string name="title_the_ender_no_gender">%1$s, &font_legendary;Вершитель&font_end;</string>
 
-    <string name="settings_show_pet_in_combat">Show Pet in Combat</string>
-    <string name="settings_show_progress_bars">Show Progress Bars</string>
+    <string name="settings_show_pet_in_combat">Показывать Питомца в сражении</string>
+    <string name="settings_show_progress_bars">Показывать шкалу прогресса</string>
 
-    <string name="wise_have_in_void_island">Great, you are here! You should be careful… Creatures here are more dangerous… And there\'s a powerful being waiting for you…</string>
+    <string name="wise_have_in_void_island">Отлично, ты добрался! Будь осторожен… Местные создания более опасны… Тебя также поджидает могущественное существо…</string>
 
-    <string name="void_master_after_killing_text_3_new">Well well… You are wearing a complete set of the &font_void;Void&font_end;… Here, take this… You will know what to do with it… See you soon…</string>
+    <string name="void_master_after_killing_text_3_new">Ну что же… На тебе полный комплект &font_void;Бездны&font_end;… Вот, возьми… Ты поймёшь, что с этим делать… Увидимся…</string>
     <string name="settings_show_double_space_map">Double Space In Map</string>
 
-    <string name="young_child_extra_advice_1">Oh, ok… Well, since you seem kind of disoriented, let me give you my advice…&br;&br;I wouldn\'t engage into combat against stronger monsters than you, at least not until you feel you are ready.</string>
-    <string name="young_child_extra_advice_2">If I were you, I\'d buy some &font_cyan;Equipment &font_end;at an &font_bronze;Armory &font_end;or a powerful &font_mana;Spell &font_end;at a &font_mana;Magic &font_end;&font_gold;Shop &font_end;if you want to protect yourself better…&br;&br;And no, I don\'t collect commission for this! Even though my &italic;Uncle &italic_end;works at the &font_bronze;Armory &font_end;and my &italic;Grandma &italic_end;runs the &font_mana;Magic &font_end;&font_gold;Shop&font_end;…</string>
-    <string name="young_child_extra_advice_3">Ah! And you should eat when you are &font_hunger;hungry &font_end;or you will die faster than you think!&br;&br;You can &font_cyan;eat &font_end;&font_plant;food &font_end;from your &font_wood;Inventory &font_end;or eat at a &font_bar;Bar &font_end;or a &font_bar;Tavern&font_end;…</string>
+    <string name="young_child_extra_advice_1">Ладно… ну, ты кажешься потерянным, позволь дать тебе совет…&br;&br;Я бы не вступал в бой с более сильными монстрами. По крайней мере до тех пор, пока ты не будешь готов.</string>
+    <string name="young_child_extra_advice_2">На твоём месте я бы купил &font_cyan;Снаряжение &font_end;в &font_bronze;Оружейной &font_end;или могущественное &font_mana;Заклинание &font_end;в &font_mana;Магическом &font_end;&font_gold;магазине&font_end;, чтобы защитить себя…&br;&br;И нет, я за это комиссию не беру! Хотя мой &italic;Дядя &italic_end;работает в &font_bronze;Оружейной&font_end;, а моя &italic;Бабушка &italic_end;заведует &font_mana;Волшебным &font_end;&font_gold;магазином&font_end;…</string>
+    <string name="young_child_extra_advice_3">Ах! И ты должен есть, когда ты &font_hunger;голоден&font_end;, иначе ты очень быстро погибнешь!&br;&br;Ты можешь &font_cyan;есть &font_end;&font_plant;еду &font_end;из своего &font_wood;Инвентаря &font_end;или есть в &font_bar;Баре &font_end;или &font_bar;Таверне&font_end;…</string>
 
-    <string name="pyramid_was_cursed_and_closed">The &font_pyramid;Pyramid &font_end;was cursed and closed!</string>
-    <string name="pyramid_is_now_open">The &font_pyramid;Pyramid &font_end;is now open!</string>
-    <string name="pyramid_didnt_open">The &font_pyramid;Pyramid &font_end;didn\'t open…</string>
-    <string name="new_game_chicken_mode_selected">In &font_animal;Chicken Mode &font_end;you will have the following advantages:&br;&br;* &font_red;Monsters &font_end;won\'t block you from interacting with &font_cyan;NPCs&font_end;.&br;&br;* You will start with some extra &font_gold;Gold&font_end;.&br;&br;* Your starting base stats will be slightly better.&br;&br;* You will have extra &font_speed;Speed &font_end;when &font_cyan;fleeing &font_end;from &font_red;Monsters&font_end;.&br;&br;* \"&font_animal;Chicken Mode&font_end;\" will be shown in your &font_cyan;hero &font_end;stats screen!</string>
-    <string name="chicken_mode_checkbox">&font_animal;Chicken Mode&font_end;</string>
-    <string name="new_game_chicken_mode_not_selected">Enjoy the regular RAR II experience.</string>
-    <string name="chicken_mode_in_stats">&font_animal;Chicken Mode&font_end;</string>
-    <string name="the_chicken_smiles_at_you">The &font_animal;Chicken &font_end;smiles at you…</string>
-    <string name="achievement_name_chicken_feed_chicken">Chicken Feeds Chicken</string>
-    <string name="achievement_desc_chicken_feed_chicken">Feed a Chicken in Chicken Mode.</string>
+    <string name="pyramid_was_cursed_and_closed">&font_pyramid;Пирамиду &font_end;прокляли и закрыли!</string>
+    <string name="pyramid_is_now_open">&font_pyramid;Пирамида &font_end;теперь открыта!</string>
+    <string name="pyramid_didnt_open">&font_pyramid;Пирамида &font_end;не открылась…</string>
+    <string name="new_game_chicken_mode_selected">В режиме &font_animal;Курочки &font_end;у вас будут следующие преимущества:&br;&br;* &font_red;Монстры &font_end;не помешают вам взаимодействовать с &font_cyan;NPC&font_end;.&br;&br;* Вы начнёте с дополнительным &font_gold;Золотом&font_end;.&br;&br;* Ваши исходные характеристики будут выше.&br;&br;* У вас будет дополнительная &font_speed;Скорость &font_end;при &font_cyan;побеге &font_end;от &font_red;монстров&font_end;.&br;&br;* \"&font_animal;Режим курочка&font_end;\" будет отображаться на экране характеристик вашего &font_cyan;героя&font_end;!</string>
+    <string name="chicken_mode_checkbox">&font_animal;Режим Курочки&font_end;</string>
+    <string name="new_game_chicken_mode_not_selected">Наслаждайтесь обычным режимом RAR II.</string>
+    <string name="chicken_mode_in_stats">&font_animal;Режим Курочки&font_end;</string>
+    <string name="the_chicken_smiles_at_you">&font_animal;Курочка &font_end;улыбается тебе…</string>
+    <string name="achievement_name_chicken_feed_chicken">Курочка кормит курицу</string>
+    <string name="achievement_desc_chicken_feed_chicken">Покормить курицу в режиме Курочки.</string>
 
 
-    <string name="no_permadeath_gold_penalty">&br;&br;&font_cyan;* &font_end;If you die, you will lose &font_cyan;50% &font_end;of the &font_gold;gold &font_end;you are carrying.</string>
-    <string name="pet_dead">(&font_red;&italic;Dead&italic_end;&font_end;)</string>
-    <string name="your_active_pet_is_not_dead">Your active &font_pet;Pet &font_end;is not dead…</string>
+    <string name="no_permadeath_gold_penalty">&br;&br;&font_cyan;* &font_end;Если вы умрёте, то потеряете &font_cyan;50% &font_end;&font_gold;золота&font_end;, что вы носите с собой.</string>
+    <string name="pet_dead">(&font_red;&italic;Смерть&italic_end;&font_end;)</string>
+    <string name="your_active_pet_is_not_dead">Ваш активный &font_pet;Питомец &font_end;жив…</string>
 
-    <string name="void_master_after_killing_text_3_new_chicken_mode">Well well… You are wearing a complete set of the &font_void;Void&font_end;… Here, take this…</string>
+    <string name="void_master_after_killing_text_3_new_chicken_mode">Что же… На тебе полный комплект &font_void;Бездны&font_end;… Вот, возьми…</string>
 
-    <string name="tile_content_type_rubber_chicken">&font_legendary;Rubber &font_end;&font_animal;Chicken&font_end;</string>
+    <string name="tile_content_type_rubber_chicken">&font_legendary;Резиновая &font_end;&font_animal;курица&font_end;</string>
 
-    <string name="achievement_name_rubber_chicken">Rubber Chicken</string>
-    <string name="achievement_desc_rubber_chicken">Kill the Void Master while wearing a full Void Armor set in Chicken Mode.</string>
+    <string name="achievement_name_rubber_chicken">Резиновая курица</string>
+    <string name="achievement_desc_rubber_chicken">Убить Владыку Бездны в полном комплекте Бездны в режиме Курочки.</string>
 
-    <string name="dead_reason_by_cactus">You died picking up a &font_cactus;Cactus&font_end;!</string>
+    <string name="dead_reason_by_cactus">Вы погибли, подбирая &font_cactus;Кактус&font_end;!</string>
 
-    <string name="action_trader_action_description">&font_cyan;Sensing&font_end; &font_gold;Merchants&font_end;</string>
-    <string name="action_treasure_hunter_action_description">&font_cyan;Hunting&font_end; &font_chest;Treasures&font_end;</string>
+    <string name="action_trader_action_description">&font_cyan;Поиск&font_end; &font_gold;Торговцев&font_end;</string>
+    <string name="action_treasure_hunter_action_description">&font_cyan;Охота&font_end; за &font_chest;Сокровищами&font_end;</string>
 
-    <string name="action_contractor_action_description">&font_cyan;Sensing&font_end; &font_cyan;Quests&font_end;</string>
-    <string name="settings_show_coordinates_below">Show Coordinates Below</string>
+    <string name="action_contractor_action_description">&font_cyan;Поиск&font_end; &font_cyan;Заданий&font_end;</string>
+    <string name="settings_show_coordinates_below">Показать внизу координаты</string>
 
-    <string name="skill_mana_eyes_description">Allows seeing the &font_red;Monster&font_end;\'s &font_mana;mana &font_end;in combat.</string>
-    <string name="skill_mana_eyes">&font_mana;Mana &font_end;&font_mushroom;Eyes&font_end;</string>
+    <string name="skill_mana_eyes_description">Позволяет видеть &font_mana;ману &font_end;&font_red;монстра&font_end; во время сражения.</string>
+    <string name="skill_mana_eyes">&font_mushroom;Глаза &font_end;&font_mana;маны&font_end;</string>
 
-    <string name="saving_checkpoint">&font_primary_light;&italic;[SAVING CHECKPOINT…]&italic_end;&font_end;</string>
+    <string name="saving_checkpoint">&font_primary_light;&italic;[СОХРАНЕНИЕ ЧЕКПОИНТА…]&italic_end;&font_end;</string>
 </resources>
