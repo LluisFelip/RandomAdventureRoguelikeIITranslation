@@ -156,7 +156,7 @@
     <string name="text_update_available_cancel">Отмена</string>
 
     <string name="game_over_rank_top">Вы добрались до &font_cyan;#%d&font_end;места в Чистилище!</string>
-    <string name="game_over_rank_rest">Вы заняли &font_cyan;#%d &font_end;место в Чистилище!.</string>
+    <string name="game_over_rank_rest">Вы заняли &font_cyan;#%d &font_end;место в Чистилище!</string>
 
     <string name="welcome_message_title">Добро пожаловать!</string>
 
@@ -167,22 +167,22 @@
     <string name="collection_cactus">Кактусы</string>
     <string name="collection_monsters">Монстры</string>
     <string name="collection_island">Острова</string>
-    <string name="collection_icon">Иконка Коллекций</string>
-    <string name="collection_merchants_mark">Пометка Торговца</string>
+    <string name="collection_icon">Иконки</string>
+    <string name="collection_merchants_mark">Отметка торговца</string>
     <string name="collection_insects">Насекомые</string>
     <string name="collection_animals">Животные</string>
 
     <string name="about_reddit">RAR II на Reddit</string>
     <string name="about_title">&line_break;О RAR II</string>
-    <string name="about_text">Игра была создана одним человеком с любовью и терпением :)&br;&br;Я бы хотел услышать ваше мнение! Если у вас есть предложения и идеи - обязательно свяжитесь со мной! .&br;&br;Надеюсь, вам понравится приключение!</string>
+    <string name="about_text">Игра была создана одним человеком с любовью и терпением :)&br;&br;Я бы хотел услышать ваше мнение! Если у вас есть предложения и идеи - обязательно свяжитесь со мной!&br;&br;Надеюсь, вам понравится приключение!</string>
     <string name="about_twitter">Archison в Twitter</string>
     <string name="about_discord">RAR II в Discord</string>
 
     <string name="new_game_welcome_hero_whats_your_name">Здравствуй, герой! Как тебя зовут?</string>
     <string name="new_game_hero_name">Герой</string>
-    <string name="new_game_whats_your_starting_advantage">… и каков твой навык??</string>
+    <string name="new_game_whats_your_starting_advantage">… и каков твой навык?</string>
 
-    <string name="advantage_random">Случайно</string>
+    <string name="advantage_random">Случайный</string>
     <string name="advantage_ranger">&font_wood;Лучник&font_end;</string>
     <string name="advantage_warrior">&font_attack;Воин&font_end;</string>
     <string name="advantage_wizard">&font_mana;Маг&font_end;</string>
@@ -193,24 +193,24 @@
     <string name="advantage_blacksmith">&font_silver;Кузнец&font_end;</string>
     <string name="advantage_noble">&font_gold;Аристократ&font_end;</string>
     <string name="advantage_random_desc">(Вы начнёте со случайным навыком)</string>
-    <string name="advantage_warrior_desc">(Вы начнёте с &font_attack;Оружием&font_end;, &font_defense;Щитом&font_end;, и &font_defense;Бронёй&font_end;)</string>
-    <string name="advantage_ranger_desc">(Вы начнёте с &font_wood;Луком &font_end;и немного&font_wood;Стрел&font_end;)</string>
+    <string name="advantage_warrior_desc">(Вы начнёте с &font_attack;оружием&font_end;, &font_defense;щитом&font_end;, и &font_defense;бронёй&font_end;)</string>
+    <string name="advantage_ranger_desc">(Вы начнёте с &font_wood;луком &font_end;и небольшим количеством &font_wood;стрел&font_end;)</string>
 
     <!-- NOTE FOR LANGUAGES ALREADY TRANSLATED: Translate these three  - - - - - - - - - - - - - -->
-    <string name="advantage_wizard_desc">(Вы начнёте со знанием случайного &font_mana;Заклинания &font_end;и &font_mana;Посохом&font_end;)</string>
-    <string name="advantage_cleric_desc">(Вы начнёте со знанием &font_health;исцеляющего&font_end; &font_mana;Заклинания &font_end;и &font_mana;Посохом&font_end;)</string>
-    <string name="advantage_petmaster_desc">(Вы начнёте со знанием &font_pet;Поимки&font_end; &font_red;Монстра&font_end; &font_mana;&font_end;, CR &font_cyan;0&font_end; &font_red;Монстром&font_end; &font_pet;Питомцем &font_end;и &font_cyan;Ошейником&font_end;&font_pet;Питомца &font_end;)</string>
+    <string name="advantage_wizard_desc">(Вы начнёте со знанием случайного &font_mana;заклинания &font_end;и &font_mana;посохом&font_end;)</string>
+    <string name="advantage_cleric_desc">(Вы начнёте со знанием &font_health;исцеляющего&font_end; &font_mana;заклинания &font_end;и &font_mana;посохом&font_end;)</string>
+    <string name="advantage_petmaster_desc">(Вы начнёте с умением &font_pet;ловить&font_end; &font_red;монстров&font_end; &font_mana;&font_end;, CR &font_cyan;0&font_end; &font_red;Монстром&font_end; &font_pet;Питомцем &font_end;и &font_cyan;Ошейником&font_end;&font_pet;Питомца &font_end;)</string>
     <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
 
     <string name="advantage_worker_desc">(Вы начнёте со случайным &font_cyan;Инструментом&font_end;)</string>
     <string name="advantage_alchemist_desc">(Вы начнёте со знанием варки &font_cyan;1 &font_end;типа зелий и &font_cyan;3 &font_end;случайными материалами)</string>
-    <string name="advantage_blacksmith_desc">(Вы начнёте со знанием создания &font_attack;Оружия&font_end;,&font_defense;Щита&font_end;, &font_defense;Брони &font_end;и &font_cyan;3 &font_end;случайными материалами)</string>
-    <string name="advantage_noble_desc">(Вы начнёте с большим кол-вом &font_gold;золота&font_end;)</string>
-    <string name="advantage_random_selected">Начинаем как: %1$s!</string>
+    <string name="advantage_blacksmith_desc">(Вы начнёте с умением изготовить &font_attack;Оружие&font_end;,&font_defense;Щит&font_end;, &font_defense;Броню &font_end;и &font_cyan;3 &font_end;случайными материалами)</string>
+    <string name="advantage_noble_desc">(Вы начнёте с большим количеством &font_gold;золота&font_end;)</string>
+    <string name="advantage_random_selected">Начать как: %1$s!</string>
 
     <string name="new_game_permadeath_question">Выбрать режим Хардкор…</string>
-    <string name="new_game_permadeath_selected">&font_red;&bold;Хардкор&bold_end;&font_end; выбран.&br;&br;Если вы &font_red;умрёте&font_end;, вы &font_cyan;потеряете всё &font_end;и придётся &font_cyan;начинать сначала&font_end;!</string>
-    <string name="new_game_no_permadeath_selected">&font_red;&bold;Обычный &bold_end;&font_end;режим выбран.&br;&br;Если вы умрёте, то сможете начать игру с &font_primary_light;&italic;[ЧЕКПОИНТА] &italic_end;&font_end;(когда вы отдыхаете в &font_inn;Гостинице &font_end;, или когда &font_cyan;повышаете уровень&font_end;, &font_primary_light;&italic;[ЧЕКПОИНТ] &italic_end;&font_end;будет создан).</string>
+    <string name="new_game_permadeath_selected">&font_red;&bold;Хардкор&bold_end;&font_end; выбран.&br;&br;Если вы &font_red;умрёте&font_end;, вы &font_cyan;потеряете всё&font_end;, и вам придётся &font_cyan;начинать с начала&font_end;!</string>
+    <string name="new_game_no_permadeath_selected">&font_red;&bold;Обычный &bold_end;&font_end;режим выбран.&br;&br;Если вы умрёте, то сможете начать игру с &font_primary_light;&italic;[ЧЕКПОИНТА] &italic_end;&font_end;(когда вы отдыхаете в &font_inn;Гостинице &font_end;или когда &font_cyan;повышаете уровень&font_end;, &font_primary_light;&italic;создаётся [ЧЕКПОИНТ]&italic_end;&font_end;).</string>
     <string name="saved_checkpoint">&font_primary_light;&italic;[ЧЕКПОИНТ]&italic_end;&font_end;</string>
 
     <string name="cemetery_clear">Очистить</string>
@@ -232,11 +232,11 @@
     <string name="button_actions">Действия</string>
     <string name="button_buy_mode">Купить</string>
     <string name="button_sell_mode">Продать</string>
-    <string name="button_clear">Очистить данные</string>
+    <string name="button_clear">Очистить</string>
     <string name="button_craft">Создать</string>
     <string name="button_drop">Выкинуть</string>
     <string name="button_use">Использовать</string>
-    <string name="button_water_seed">Полить Семя</string>
+    <string name="button_water_seed">Полить семя</string>
     <string name="button_cook">Приготовить</string>
     <string name="button_eat">Есть</string>
     <string name="button_drink">Пить</string>
@@ -257,7 +257,7 @@
     <string name="button_give">Дать</string>
     <string name="button_bye">Пока</string>
     <string name="button_quaff">Выпить</string>
-    <string name="button_shake">Трясти</string>
+    <string name="button_shake">Потрясти</string>
     <string name="button_equip">Надеть</string>
     <string name="button_cast">Сотворить</string>
     <string name="button_remove">Убрать</string>
@@ -269,7 +269,7 @@
     <string name="button_sort_by_type">Сортировать (тип)</string>
     <string name="button_sort_by_az">Сортировать (А-Я)</string>
     <string name="button_mine">Добывать</string>
-    <string name="button_chop_tree">Рубить Дерево</string>
+    <string name="button_chop_tree">Рубить дерево</string>
     <string name="button_fish">Рыбачить</string>
     <string name="button_sail">Плыть</string>
     <string name="button_flee">Убежать</string>
@@ -293,7 +293,7 @@
     <string name="button_set_active">Сделать активным</string>
     <string name="button_withdraw">Снять</string>
     <string name="button_withdraw_bank">&font_gold;Снять&font_end;</string>
-    <string name="button_deposit_bank">&font_gold;Положить&font_end;</string>
+    <string name="button_deposit_bank">&font_gold;Внести&font_end;</string>
     <string name="button_exit">Выход</string>
     <string name="button_cancel">Отмена</string>
     <string name="button_free">Освободить</string>
@@ -320,27 +320,27 @@
     <string name="button_inventory_mode">Инвентарь</string>
     <string name="button_stash_mode">Хранилище</string>
     <string name="button_stash_increase_stash">Увеличить &font_wood;Хранилище&font_end;</string>
-    <string name="button_scrap_per_gold">Фрагменты: &font_gold;%1$d&font_end; Золота</string>
+    <string name="button_scrap_per_gold">Разобрать за: &font_gold;%1$d&font_end; золота</string>
     <string name="button_feedback">&font_cyan;Отзыв&font_end;</string>
-    <string name="button_blacksmith_upgrade_equipment">Улучшить &font_green;\*&font_end;Снаряжение</string>
+    <string name="button_blacksmith_upgrade_equipment">Улучшить снаряжение &font_green;\*&font_end;</string>
     <string name="button_blacksmith_scrap_equipment">&font_copper;Разобрать&font_end;
-        Снаряжениеt</string>
-    <string name="button_blacksmith_craft_bars">Создать &font_gold;Слитки&font_end;</string>
+        Снаряжение</string>
+    <string name="button_blacksmith_craft_bars">Создать &font_gold;слитки&font_end;</string>
     <string name="button_scrap">Разобрать</string>
 
     <string name="inventory_title">&font_wood;Инвентарь&font_end;</string>
-    <string name="inventory_removed_equipment">Убрал %1$s.</string>
-    <string name="inventory_equipped_equipment">Надел %1$s.</string>
-    <string name="inventory_wielded_item">Взял в руки %1$s.</string>
-    <string name="inventory_unwielded_item">Убрал из рук %1$s.</string>
+    <string name="inventory_removed_equipment">Вы убрали %1$s.</string>
+    <string name="inventory_equipped_equipment">Вы надели %1$s.</string>
+    <string name="inventory_wielded_item">Вы взяли в руки %1$s.</string>
+    <string name="inventory_unwielded_item">Вы убрали из рук %1$s.</string>
     <string name="inventory_you_have_no_items_right_now">У вас нет предметов…</string>
     <string name="inventory_text_you_quaff_the">Вы выпиваете %1$s!</string>
     <string name="inventory_amount_parenthesis">(&font_cyan;%1$d&font_end;)</string>
-    <string name="inventory_pickup_couldnt">Не удалось поднять %1$s, инвентарь полон!</string>
-    <string name="inventory_ate_thing">Съел %1$s!</string>
-    <string name="inventory_ate_thing_and_restored">Съел %1$s и восстановил &font_cyan;%2$d &font_end;голода.</string>
-    <string name="inventory_cooked_thing">Приготовил %1$s!</string>
-    <string name="inventory_pickup">Подобрал %1$s!</string>
+    <string name="inventory_pickup_couldnt">Не удалось взять %1$s, инвентарь полон!</string>
+    <string name="inventory_ate_thing">Вы съели %1$s!</string>
+    <string name="inventory_ate_thing_and_restored">Вы съели %1$s и восстановили &font_cyan;%2$d &font_end;голода.</string>
+    <string name="inventory_cooked_thing">Вы приготовили %1$s!</string>
+    <string name="inventory_pickup">Вы подобрали предмет %1$s!</string>
     <string name="inventory_damaged_by">Получил %1$s урона!</string>
     <string name="inventory_pickup_gold">Подобрал &font_gold;%1$d&font_end; золота!</string>
     <string name="inventory_required_level_x">&italic;Необходимый уровень: &font_cyan;%1$d&font_end;&italic_end;</string>
