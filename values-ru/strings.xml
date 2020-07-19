@@ -919,18 +919,18 @@
 
     <string name="villager_i_need_help">
         <![CDATA[
-    Мне нужна помощь кое в чём…\n
+    Мне нужна кое-какая помощь…\n
     Можно попросить тебя об услуге?\n
     Я был бы признателен за твою помощь…\n
     Ты можешь мне помочь?\n
-    Ты похож на того, кто сможет помочь!\n
+    Ты похож на того, кто сможет мне помочь!\n
     Если ты не занят, мне нужно кое-что…\n
     Не мог бы ты помочь?\n
     Не мог бы ты помочь мне?\n
     Моя семья и я будем очень признательны, если ты нам поможешь…\n
-    Мне и моей семье нужно кое-что…\n
+    Мне и моей семье кое-что нужно…\n
     Мне кое-что нужно…\n
-    Будь добр, помоги, пожалуйста?\n
+    Будь добр, помоги, пожалуйста!\n
     Ты можешь меня выручить?\n
     Боюсь, мне придётся попросить твоей помощи…\n
     Если тебя не затруднит, мне нужна помощь…\n
@@ -938,13 +938,13 @@
     Не мог бы ты подсобить мне?\n
     Нам нужна кое-какая помощь…\n
     Мы хотим попросить тебя об одолжении…\n
-    Я понимаю, что мы встретились впервые, но я хочу попросить тебя об услуге…\n
-    Я уже долго сталкиваюсь с этой проблемой, и мне не помешала бы твоя помощь…\n
+    Я понимаю, что мы только что встретились, но я хочу попросить тебя об услуге…\n
+    Я уже долго борюсь с этой проблемой, и мне не помешала бы твоя помощь…\n
     Так непривычно видеть здесь чужака… Можно попросить тебя об услуге?\n
     Так непривычно видеть здесь чужака… Ты можешь сделать одолжение?\n
     Ты не из местных, так ведь? Ты можешь сделать кое-что для меня?\n
     Ты не из местных, так ведь? Можно попросить тебя об услуге?\n
-    Откуда ты? Не будет ли это наглостью, если я попрошу тебя об этом…\n
+    Откуда ты? Не будет ли это наглостью, если я попрошу тебя кое о чём…\n
     Ах, если это не составит большого труда, не мог бы ты помочь мне кое с чем?\n
     Я в беде и действительно не откажусь от помощи. Ты не хочешь помочь?\n
     Перед тем, как ты уйдешь, можешь помочь кое с чем? Это жизненно важно…\n
@@ -952,7 +952,7 @@
     Ты поможешь мне перед уходом?\n
     Ты можешь помочь мне перед своим уходом?\n
     Ты поможешь мне перед своим уходом?\n
-    Не мог бы ты оказать мне услуга перед своим уходом?\n
+    Не мог бы ты оказать мне услугу перед своим уходом?\n
     Ты можешь помочь?\n
     Пожалуйста, выручи меня!\n
     Пожалуйста, помоги мне кое с чем!\n
@@ -964,26 +964,26 @@
     <!-- Do not translate this, instead, each language should have its own quotes, pop culture references, some kind of jokes, etc… -->
     <string name="villager_quotes">
         <![CDATA[
-    Покупайте и еще покупайте. Покупайте и будьте счастливы.\n
+    Покупайте и снова покупайте. Покупайте и будьте счастливы.\n
     Наше время в вашем распоряжении.\n
-    Сделай это для толстой тёти.\n
-    Теперь мы вместе отправляемся на восток. Всегда на восток.\n
+    Сделай это для толстой тётушки.\n
+    Теперь мы вместе отправимся на восток. И никуда больше.\n
     Держись подальше от нормальных людей. Они глупые.\n
     Чем же мы так чрезвычайно обязаны этому столь удивительному визиту?\n
     Klaatu barada nikto.\n
     Проснись, мы здесь. Почему ты дрожишь? Ты в порядке?\n
     Ты должен был привести доктора Эцилопа из Кин-дза-дза!\n
-    Здесь на краю никаких звезд не видать.\n
-    Я вижу только черное и белое…\n
+    Здесь, на краю, никаких звезд не видать.\n
+    Я вижу только чёрное и белое…\n
     Не понимаю, как можно быть таким неприхотливым.\n
-    Нужно носить в себе ещё хаос, чтобы быть в состоянии родить танцующую звезду.\n
-    Увлечение креативностью на основе статуса ква идет вразрез с революцией!\n
+    Нужно носить в себе хаос, чтобы быть в состоянии родить танцующую звезду.\n
+    Увлечение креативностью на основе статуса кво идет вразрез с революцией!\n
     Мы возвели пирамиды в честь нашего побега.\n
-    Никакие награды не искупят пропущенный нами рассвет.\n
+    Никакие дары не искупят пропущенный нами рассвет.\n
     Без хребта жить нельзя, сынок.\n
     Каин отказался от принесения жертвы.\n
     Как насчет "хорош трепаться"?\n
-    Может, есть и другие вселенные, но наша, кажется, опирается на войну и игры.\n
+    Может, есть и другие вселенные, но нашу, кажется, держат войны и игры.\n
     Как показывает опыт, тишина пугает людей больше всего.\n
     Если кто-то сказал тебе взглянуть на себя… никогда этого не делай.\n
     Никогда ничего не создавай. Твое создание неправильно истолкуют. Оно свяжет тебя и будет преследовать всю оставшуюся жизнь. Это никогда не изменится.\n
@@ -998,30 +998,30 @@
     Как-то раз я видел ребенка, игравшего с рубином размером с мандарин.\n
     Ты ключник?\n
     Если бы ты жил здесь, то ты был бы уже дома.\n
-    Хватит ухмыльться! К делу.\n
+    Хватит ухмыляться! К делу.\n
     Небольшое напоминание: этот селянин не одобряет самосуд. Если он не приносит результатов. А он принесёт!\n
-    Похоже, ты выбрал не подходящую неделю, чтобы бросить курить.\n
-    Было бы здорово знать, что ты проживаешь старые-добрые времена, до того, как они позади.\n
+    Похоже, ты выбрал не самую удачную неделю, чтобы бросить курить.\n
+    Было бы здорово знать, что ты проживаешь старые-добрые времена, до того, как они уже пройдут.\n
     Ты ужасно выглядишь.\n
     А где уважение?\n
     С…с…сэнпай?\n
     Это сделал яяяяяяяя?\n
     Ну дык.\n
-    Обязательно поставьте лайк, подписывайтес, жмите на колокольчик, делитесь с друзьями! Стой… О чём это я?\n
+    Обязательно поставьте лайк, подписывайтесь, жмите на колокольчик, делитесь с друзьями! Стой… О чём это я?\n
     Два пива или не два пива - вот в чём вопрос…\n
     Что ж поделать, бывает…\n
     Боишься замараться?\n
-    Что значит сломать 4ю стену?\n
+    Что значит сломать 4-ю стену?\n
     АВАДА КЕДАВРА! …ой, не то заклинание!\n
     Уважай меня!\n
     Могло быть гораздо хуже, я мог бы быть в больнице!\n
     Из картошки можно сделать фри, чипсы и водку. Такое ощущение, будто другие овощи даже не стараются…\n
-    Я вчера нашел свиток глупости, он должен быть у тебя…\n
+    Я вчера нашел свиток глупости, он по праву принадлежит тебе…\n
     В тот день человечество вспомнило ужас…\n
     Я их всех уничтожу… всех до единого.\n
     Всё кажется невозможным, пока кто-то в итоге это не сделает.\n
     У меня обалденный синяк на ноге. Хочешь посмотреть?\n
-    Всё что угодно считается приключением, если ты всегда потерян.\n
+    Всё что угодно считается приключением, если ты никогда не знаешь, где ты.\n
     Все эти мгновения исчезнут во времени, как слёзы под дождём.\n
     Ешь сыр или помри.\n
     Я здесь, чтобы надрать жвачку и жевать задницу… погоди-ка, что-то здесь не так…\n
@@ -1039,13 +1039,13 @@
     Мы все лишь звёздная пыль.\n
     Я знаю картошку.\n
     Помоги! Я застрял в игре!\n
-    Как хорошо, что я NPC, а то это фигово.\n
-    В прошлом я был таким же искателем приключений, но потом мне в колено прилетела стрела.\n
+    Как хорошо, что я NPC, а то было бы стрёмно.\n
+    В прошлом я был таким же искателем приключений, но потом мне прострелили стрелой колено.\n
     Иногда я вижу сны о сыре.\n
     Не удалось услышать цитату.\n
     Интересно, что это за зелёный свет на том берегу.\n
     Хмммммммммммм.\n
-    Ведьмак заплатите чеканной монетой.\n
+    Ведьмаку-у-у заплатите чеканной монетой.\n
     Я надеру тебе зад ради Всевышнего!\n
     Ты не видел Archison? Мне нужно поговорить с ним о том, как выбраться с этого тупого острова.\n
     Что есть человек, как не несчастная кучка секретов?\n
@@ -1058,28 +1058,28 @@
     <string name="merchant_quest_description">&font_gold;%1$s&font_end; на &font_cyan;%2$d&font_end;, &font_cyan;%3$d &font_end;попросил вас принести &font_cyan;%4$d &font_end;%5$s. Сейчас у вас %6$s. [&font_cyan;%7$s&font_end;]</string>
 
     <string name="quest_quests_title">&font_cyan;Квесты &font_end;(&font_cyan;%1$d&font_end;)</string>
-    <string name="quest_text_for_gold">за %1$s Золота</string>
-    <string name="quest_text_reward">Награда: %1$s Золота</string>
+    <string name="quest_text_for_gold">за %1$s золота</string>
+    <string name="quest_text_reward">Награда: %1$s золота</string>
     <string name="quest_island_name_parenthesis">[&font_cyan;%1$s&font_end;]</string>
     <string name="quest_snackbar_action_go">Иди</string>
     <string name="quest_text_you_have_no_quests_right_now">Сейчас у вас нет заданий…</string>
     <string name="quest_completed_quest">Завершено %1$s</string>
     <string name="quest_item_found">Найдено %1$s!</string>
-    <string name="quest_bring_crafted_food_text_giving">Я голоден! Я бы съел %1$s… Не мог бы ты &font_gold;купить &font_end;или &font_cyan;сделать &font_end;один и принести мне?</string>
+    <string name="quest_bring_crafted_food_text_giving">Я голоден! Я бы съел %1$s… Не мог бы ты &font_gold;купить &font_end;или &font_cyan;сделать &font_end;его и принести мне?</string>
     <string name="quest_bring_crafted_food_text_desc">Вам нужно &font_gold;купить &font_end;или &font_cyan;сделать &font_end;%1$s и принести его %2$s на %3$s,%4$s</string>
     <string name="quest_bring_crafted_food_text_complete_desc">Спасибо! Мне нравится!</string>
-    <string name="quest_bring_crafted_food_text_negative">Боюсь, у тебя нет %1$s… Возвращайся, когда ты &font_gold;Купишь &font_end;или &font_cyan;сделаешь &font_end;его!</string>
+    <string name="quest_bring_crafted_food_text_negative">Боюсь, у тебя нет %1$s… Возвращайся, когда ты &font_gold;купишь &font_end;или &font_cyan;сделаешь &font_end;его!</string>
     <string name="quest_bring_crafted_food_text_bring">У тебя есть %1$s? Дай мне, пожалуйста!</string>
     <string name="quest_bring_crafted_food_thanks">Спасибо! Мне нравится!</string>
     <string name="quest_added_quest">Добавлено задание (%1$s)</string>
     <string name="quest_complete">Задание выполнено!</string>
-    <string name="quest_kill_single_monster_text_giving">Убейте %1$s на &font_cyan;%2$d&font_end;, &font_cyan;%3$d&font_end; </string>
-    <string name="quest_find_lost_item_text_giving">Я потерял %1$s… Последний раз я его видел где-то возле %2$s, %3$s… Пожалуйста, &font_cyan;Найди &font_end;его и верни мне! Спасибо!</string>
+    <string name="quest_kill_single_monster_text_giving">Убейте монстра %1$s на &font_cyan;%2$d&font_end;, &font_cyan;%3$d&font_end; </string>
+    <string name="quest_find_lost_item_text_giving">Я потерял предмет %1$s… Последний раз я его видел где-то возле %2$s, %3$s… Пожалуйста, &font_cyan;найди &font_end;его и верни мне! Спасибо!</string>
     <string name="quest_find_lost_item_text_reward">Вот твоя награда: %1$s!</string>
-    <string name="quest_find_lost_item_text_quest_screen_find">Ты должен найти %1$s. Тебе сказали &font_cyan;Найти &font_end;его около %2$s, %3$s.</string>
+    <string name="quest_find_lost_item_text_quest_screen_find">Вы должны найти %1$s. Вам нужно &font_cyan;найти &font_end;его около %2$s, %3$s.</string>
     <string name="quest_find_lost_item_text_quest_screen_return">Вернуть %1$s %2$s на %3$s, %4$s.</string>
     <string name="quest_find_lost_item_text_villager_complete">Спасибо, что вернул %1$s!</string>
-    <string name="quest_find_item_now_return_to">Вы нашли %1$s! Теперь верните его &font_cyan;%2$s &font_end;на &font_cyan;%3$d&font_end;, &font_cyan;%4$d&font_end;.</string>
+    <string name="quest_find_item_now_return_to">Вы нашли предмет %1$s! Теперь верните его &font_cyan;%2$s &font_end;на &font_cyan;%3$d&font_end;, &font_cyan;%4$d&font_end;.</string>
     <string name="quest_find_lost_item_tile_content_name">Это предмет для задания. Верните его владельцу.</string>
 
 
@@ -1122,9 +1122,9 @@
     <string name="quest_find_lost_item_item_name_037" tools:ignore="UnusedResources">эльфийское ухо</string>
     <string name="quest_find_lost_item_item_name_038" tools:ignore="UnusedResources">огурец</string>
     <string name="quest_find_lost_item_item_name_039" tools:ignore="UnusedResources">рассол</string>
-    <string name="quest_find_lost_item_item_name_040" tools:ignore="UnusedResources">обувь принцев</string>
+    <string name="quest_find_lost_item_item_name_040" tools:ignore="UnusedResources">обувь принца</string>
     <string name="quest_find_lost_item_item_name_041" tools:ignore="UnusedResources">необычное платье</string>
-    <string name="quest_find_lost_item_item_name_042" tools:ignore="UnusedResources">мешок закусок</string>
+    <string name="quest_find_lost_item_item_name_042" tools:ignore="UnusedResources">мешок с закусками</string>
     <string name="quest_find_lost_item_item_name_043" tools:ignore="UnusedResources">сумка со смехом</string>
     <string name="quest_find_lost_item_item_name_044" tools:ignore="UnusedResources">хрупкая ваза</string>
     <string name="quest_find_lost_item_item_name_045" tools:ignore="UnusedResources">пилочка для ногтей</string>
@@ -1136,7 +1136,7 @@
     <string name="quest_find_lost_item_item_name_051" tools:ignore="UnusedResources">закладка</string>
     <string name="quest_find_lost_item_item_name_052" tools:ignore="UnusedResources">красный джемпер</string>
     <string name="quest_find_lost_item_item_name_053" tools:ignore="UnusedResources">синяя футболка</string>
-    <string name="quest_find_lost_item_item_name_054" tools:ignore="UnusedResources">зеленая рубашка</string>
+    <string name="quest_find_lost_item_item_name_054" tools:ignore="UnusedResources">зелёная рубашка</string>
     <string name="quest_find_lost_item_item_name_055" tools:ignore="UnusedResources">ручное зеркало</string>
     <string name="quest_find_lost_item_item_name_056" tools:ignore="UnusedResources">использованный носок</string>
     <string name="quest_find_lost_item_item_name_057" tools:ignore="UnusedResources">старая статуэтка</string>
@@ -1148,25 +1148,25 @@
     <string name="quest_find_lost_item_item_name_063" tools:ignore="UnusedResources">очень ценная картина</string>
     <string name="quest_find_lost_item_item_name_064" tools:ignore="UnusedResources">бесполезный инструмент</string>
     <string name="quest_find_lost_item_item_name_065" tools:ignore="UnusedResources">странное устройство</string>
-    <string name="quest_find_lost_item_item_name_066" tools:ignore="UnusedResources">ненавистное письмо</string>
+    <string name="quest_find_lost_item_item_name_066" tools:ignore="UnusedResources">письмо с угрозами</string>
     <string name="quest_find_lost_item_item_name_067" tools:ignore="UnusedResources">статуя птицы</string>
     <string name="quest_find_lost_item_item_name_068" tools:ignore="UnusedResources">торт</string>
     <string name="quest_find_lost_item_item_name_069" tools:ignore="UnusedResources">молния</string>
     <string name="quest_find_lost_item_item_name_070" tools:ignore="UnusedResources">элегантная блузка</string>
     <string name="quest_find_lost_item_item_name_071" tools:ignore="UnusedResources">солнечные часы</string>
 
-    <string name="quest_bring_items_text_giving">Мне нужен %1$s %2$s…</string>
+    <string name="quest_bring_items_text_giving">Мне нужны %1$s %2$s…</string>
     <string name="quest_bring_items_text_quest_screen">Принеси %1$s %2$s этому %3$s на %4$s, %5$s</string>
-    <string name="quest_bring_items_text_villager_not_enough">Ой, мне нужен %1$s %2$s, тебе нужно ещё %3$s…</string>
-    <string name="quest_bring_items_text_villager_give_items">Отдать %1$s %2$s этому %3$s?</string>
-    <string name="quest_bring_items_text_you_have_the_items">У тебя есть предметы!</string>
+    <string name="quest_bring_items_text_villager_not_enough">Ой, да, мне нужны %1$s %2$s, а ещё %3$s…</string>
+    <string name="quest_bring_items_text_villager_give_items">Отдать предметы %1$s %2$s этому %3$s?</string>
+    <string name="quest_bring_items_text_you_have_the_items">У вас есть то, что нужно!</string>
 
     <string name="quest_rescue_someone_text_giving">Ты должен спасти %1$s! Поищи на %2$s, %3$s, пожалуйста, поторопись!</string>
-    <string name="quest_rescue_someone_text_quest_screen_rescue">Спасти %1$s! Ищи на %2$s, %3$s.</string>
+    <string name="quest_rescue_someone_text_quest_screen_rescue">Спасти %1$s! Искать на %2$s, %3$s.</string>
     <string name="quest_rescue_someone_text_quest_screen_return">Вернуть %1$s %2$sу на %3$s, %4$s.</string>
     <string name="quest_rescue_someone_text_villager_complete">Спасибо, что нашёл %1$s!</string>
     <string name="quest_rescue_someone_text_reward">Вот твоя награда: %1$s Золота!</string>
-    <string name="quest_rescue_someone">Спасти Кого-то</string>
+    <string name="quest_rescue_someone">Спасти кого-то</string>
     <string name="quest_rescue_someone_text_output_rescued">Вы спасли \"%1$s\"!</string>
     <string name="quest_rescue_someone_following_you">&font_quest;%1$s &font_end;здесь, следует за вами…</string>
 
@@ -1210,7 +1210,7 @@
     <string name="quest_rescue_someone_name_37" tools:ignore="UnusedResources">Воин</string>
     <string name="quest_rescue_someone_name_38" tools:ignore="UnusedResources">Потерянный селянин</string>
     <string name="quest_rescue_someone_name_39" tools:ignore="UnusedResources">Потерянный викинг</string>
-    <string name="quest_rescue_someone_name_40" tools:ignore="UnusedResources">Не Такой Уж и Храбрый Герой</string>
+    <string name="quest_rescue_someone_name_40" tools:ignore="UnusedResources">Не такой уж и храбрый герой</string>
     <string name="quest_rescue_someone_name_41" tools:ignore="UnusedResources">Геймер</string>
     <string name="quest_rescue_someone_name_42" tools:ignore="UnusedResources">Картёжник</string>
     <string name="quest_rescue_someone_name_43" tools:ignore="UnusedResources">Шеф</string>
@@ -1282,34 +1282,34 @@
     <string name="item_temporary_potion_coward_info">Выпейте его, чтобы временно успешно сбегать с поля боя.</string>
     <string name="item_temporary_potion_coward_quaff">Вы можете временно успешно избегать боя</string>
     <string name="item_temporary_potion_coward_remove">Эффект зелья &font_glass;Трус &font_end;проходит…</string>
-    <string name="item_temporary_potion_big_stomach">Зелье &font_bar;Большой Живот &font_end;</string>
+    <string name="item_temporary_potion_big_stomach">Зелье &font_bar;Большой живот &font_end;</string>
     <string name="item_temporary_potion_big_stomach_info">Выпейте его, чтобы стать временно неуязвимым к голоду.</string>
     <string name="item_temporary_potion_big_stomach_quaff">Временная неуязвимость голоду (&font_bar;%1$d&font_end;)</string>
-    <string name="item_temporary_potion_big_stomach_remove">Эффект зелья &font_bar;Большой Живот &font_end;проходит…</string>
+    <string name="item_temporary_potion_big_stomach_remove">Эффект зелья &font_bar;Большой живот &font_end;проходит…</string>
     <string name="item_temporary_potion_attack">Зелье &font_attack;Атака&font_end;</string>
-    <string name="item_temporary_potion_attack_info">Выпейте его, чтобы временно повысить силу &font_attack;Атаки&font_end;.</string>
-    <string name="item_temporary_potion_attack_quaff">Сила &font_attack;Атаки &font_end;временно повышена до &font_attack;%1$d&font_end;</string>
+    <string name="item_temporary_potion_attack_info">Выпейте его, чтобы временно повысить силу &font_attack;атаки&font_end;.</string>
+    <string name="item_temporary_potion_attack_quaff">Сила &font_attack;атаки &font_end;временно повышена до &font_attack;%1$d&font_end;</string>
     <string name="item_temporary_potion_attack_remove">Эффект зелья &font_attack;Атака &font_end;проходит…</string>
     <string name="item_temporary_potion_defense">Зелье &font_defense;Защита&font_end;</string>
-    <string name="item_temporary_potion_defense_info">Выпейте его, чтобы временно повысить &font_defense;Защиту&font_end;.</string>
+    <string name="item_temporary_potion_defense_info">Выпейте его, чтобы временно повысить уровень &font_defense;защиты&font_end;.</string>
     <string name="item_temporary_potion_defense_quaff">&font_defense;Защита &font_end;временно усилена до &font_defense;%1$d&font_end;</string>
     <string name="item_temporary_potion_defense_remove">Эффект зелья &font_defense;Защита &font_end;проходит…</string>
     <string name="item_temporary_potion_speed">Зелье &font_speed;Скорость&font_end;</string>
-    <string name="item_temporary_potion_speed_info">Выпейте его, чтобы временно повысить &font_speed;Скорость&font_end;.</string>
+    <string name="item_temporary_potion_speed_info">Выпейте его, чтобы временно повысить &font_speed;скорость&font_end;.</string>
     <string name="item_temporary_potion_speed_quaff">&font_speed;Скорость &font_end;временно повышена до &font_speed;%1$d&font_end;</string>
     <string name="item_temporary_potion_speed_remove">Эффект зелья &font_speed;Скорость &font_end;проходит…</string>
     <string name="item_temporary_potion_intelligence">Зелье &font_mana;Интеллект &font_end;</string>
-    <string name="item_temporary_potion_intelligence_info">Выпейте его, чтобы временно повысить &font_mana;Интеллект&font_end;.</string>
+    <string name="item_temporary_potion_intelligence_info">Выпейте его, чтобы временно повысить &font_mana;интеллект&font_end;.</string>
     <string name="item_temporary_potion_intelligence_quaff">&font_mana;Интеллект &font_end;временно повышен до &font_mana;%1$d&font_end;</string>
     <string name="item_temporary_potion_intelligence_remove">Эффект зелья &font_mana;Интеллект &font_end;проходит…</string>
-    <string name="item_temporary_potion_hot_protection">Зелье [временное] &font_green;Защита&font_end; &font_red;от Жара&font_end;</string>
-    <string name="item_temporary_potion_hot_protection_info">Выпейте его, чтобы временно защититься от урона &font_red;Жаром&font_end;.</string>
-    <string name="item_temporary_potion_hot_protection_quaff">Временная &font_green;Защита&font_end; &font_red;от Жара&font_end;</string>
-    <string name="item_temporary_potion_hot_protection_remove">Эффект зелья &font_green;Защита&font_end; &font_red;от Жара&font_end;проходит…</string>
-    <string name="item_temporary_potion_cold_protection">Зелье [временное] &font_green;Защита&font_end; &font_tundra;от Холода&font_end;</string>
-    <string name="item_temporary_potion_cold_protection_info">Выпейте его, чтобы временно защититься от урона &font_tundra;Холодом&font_end;.</string>
-    <string name="item_temporary_potion_cold_protection_quaff">Временная &font_green;Защита&font_end; &font_tundra;от Холода&font_end;</string>
-    <string name="item_temporary_potion_cold_protection_remove">Эффект зелья &font_green;Защита&font_end; &font_tundra;от Холода&font_end;проходит…</string>
+    <string name="item_temporary_potion_hot_protection">Зелье [временное] &font_green;Защита&font_end; &font_red;от жара&font_end;</string>
+    <string name="item_temporary_potion_hot_protection_info">Выпейте его, чтобы временно защититься от урона &font_red;жаром&font_end;.</string>
+    <string name="item_temporary_potion_hot_protection_quaff">Временная &font_green;защита&font_end; &font_red;от жара&font_end;</string>
+    <string name="item_temporary_potion_hot_protection_remove">Эффект зелья &font_green;Защита&font_end; &font_red;от жара&font_end;проходит…</string>
+    <string name="item_temporary_potion_cold_protection">Зелье [временное] &font_green;Защита&font_end; &font_tundra;от холода&font_end;</string>
+    <string name="item_temporary_potion_cold_protection_info">Выпейте его, чтобы временно защититься от урона &font_tundra;холодом&font_end;.</string>
+    <string name="item_temporary_potion_cold_protection_quaff">Временная &font_green;защита&font_end; &font_tundra;от холода&font_end;</string>
+    <string name="item_temporary_potion_cold_protection_remove">Эффект зелья &font_green;Защита&font_end; &font_tundra;от холода&font_end;проходит…</string>
 
     <string name="rarity_common">Обычный</string>
     <string name="rarity_uncommon">Необычный</string>
@@ -1344,42 +1344,42 @@
 
     <string name="crafting_title">&font_cyan;Изготовление&font_end;</string>
     <string name="crafting_title_with_recipe">Изготовление [%1$s]</string>
-    <string name="craft_text_you_know_no_crafting_recipes">Вы ещё не знаете никаких рецептов &font_cyan;Изготовления&font_end;.</string>
+    <string name="craft_text_you_know_no_crafting_recipes">Вы ещё не знаете никаких рецептов &font_cyan;изготовления&font_end;.</string>
     <string name="crafting_recipe_learnt">Вы научились изготавливать %1$s!</string>
-    <string name="crafting_recipe_already_known">&italic;Рецепт &font_cyan;Изготовления &font_end;уже изучен&italic_end;</string>
-    <string name="crafting_recipe_name">[Рецепт &font_cyan;Изготовления&font_end;] %1$s</string>
-    <string name="crafting_you_crafted_item">Вы изготовили %1$s!</string>
-    <string name="crafting_you_crafted_item_but_dropped_it">Вы изготовили %1$s, но вам пришлось его бросить, в инвентаре недостаточно места!</string>
+    <string name="crafting_recipe_already_known">&italic;Рецепт &font_cyan;изготовления &font_end;уже изучен&italic_end;</string>
+    <string name="crafting_recipe_name">[Рецепт &font_cyan;изготовления&font_end;] %1$s</string>
+    <string name="crafting_you_crafted_item">Вы изготовили предмет %1$s!</string>
+    <string name="crafting_you_crafted_item_but_dropped_it">Вы изготовили предмет %1$s, но вам пришлось его оставить. В инвентаре недостаточно места!</string>
     <string name="crafting_not_enough_ingredients">Недостаточно ингредиентов…</string>
 
     <string name="skills_title">&font_cyan;Навыки&font_end;</string>
     <string name="skills_skill_learnt">Изучен навык %1$s!</string>
     <string name="skills_tree_title">&font_cyan;Дерево Навыков&font_end; (&font_cyan;%1$d&font_end;
         очков опыта)</string>
-    <string name="skills_empty_message">У вас ещё нет никаких &font_cyan;Навыков&font_end;…</string>
-    <string name="skills_empty_tree_message">У вас нет никаких &font_cyan;Навыков&font_end; для изучения…</string>
+    <string name="skills_empty_message">У вас ещё нет никаких &font_cyan;навыков&font_end;…</string>
+    <string name="skills_empty_tree_message">У вас нет никаких &font_cyan;навыков&font_end; для изучения…</string>
     <string name="skills_necessary_skill_text">Необходимый навык: &font_cyan;%1$s&font_end;</string>
 
     <string name="action_search">&font_cyan;Искать&font_end;</string>
     <string name="action_searching">Поиск</string>
-    <string name="action_explorer">&font_cyan;Найти Трактир&font_end;</string>
-    <string name="action_explorer_action_description">&font_cyan;Найти Трактир&font_end;</string>
-    <string name="action_explorer_action_description_positive">Вы чувствуете &font_inn;Трактир &font_end;на &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end;.</string>
-    <string name="action_explorer_action_description_negative">На этом острове нет никакого &font_inn;Трактира&font_end;…</string>
-    <string name="action_contractor">&font_cyan;Найти&font_end; &font_cyan;Задание&font_end;</string>
-    <string name="action_contractor_desc">Вы чувствуете, сколько &font_cyan;заданий&font_end; ещё вас ждёт на этом острове.</string>
-    <string name="action_trader">&font_cyan;Найти&font_end; &font_gold;Торговцев&font_end;</string>
+    <string name="action_explorer">&font_cyan;Найти трактир&font_end;</string>
+    <string name="action_explorer_action_description">&font_cyan;Найти трактир&font_end;</string>
+    <string name="action_explorer_action_description_positive">Вы чувствуете &font_inn;трактир &font_end;на &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end;.</string>
+    <string name="action_explorer_action_description_negative">На этом острове нет никакого &font_inn;трактира&font_end;…</string>
+    <string name="action_contractor">&font_cyan;Найти&font_end; &font_cyan;задание&font_end;</string>
+    <string name="action_contractor_desc">Вы чувствуете, сколько &font_cyan;заданий&font_end; ещё ждёт вас на этом острове.</string>
+    <string name="action_trader">&font_cyan;Найти&font_end; &font_gold;торговцев&font_end;</string>
     <string name="action_trader_desc">Вы чувствуете, сколько &font_gold;торговцев&font_end; вам ещё предстоит найти на этом острове.</string>
-    <string name="action_hunter">&font_cyan;Найти&font_end; &font_red;Боссов&font_end;&font_end;</string>
+    <string name="action_hunter">&font_cyan;Найти&font_end; &font_red;боссов&font_end;&font_end;</string>
     <string name="action_hunter_description">Вы чувствуете, сколько &font_red;боссов&font_end; на этом острове…</string>
     <string name="action_hunter_action_description">Поиск &font_red;боссов&font_end;</string>
     <string name="action_hunter_action_description_positive_singular">Вы чувствуете &font_cyan;%1$d&font_end; &font_red;босса &font_end;на острове.</string>
     <string name="action_hunter_action_description_positive_plural">Вы чувствуете &font_cyan;%1$d&font_end; &font_red;боссов &font_end;на острове.</string>
     <string name="action_hunter_action_description_negative">На этом острове нет &font_red;боссов&font_end;…</string>
-    <string name="action_treasure_hunter">&font_cyan;Охота&font_end; &font_chest;за Сокровищами&font_end;</string>
+    <string name="action_treasure_hunter">&font_cyan;Охота&font_end; &font_chest;за сокровищами&font_end;</string>
     <string name="action_treasure_hunter_treasure_hunter">Вы чувствуете, сколько на этом острове &font_chest;спрятанных предметов&font_end;.</string>
     <string name="action_treasure_hunter_action_description_positive_singular">Вы чувствуете &font_cyan;%1$d &font_end;&font_chest;спрятанный предмет&font_end;.</string>
-    <string name="action_treasure_hunter_action_description_positive_plural">Вы чувствуете &font_cyan;%1$d &font_end;&font_chest;спрятанных предмета&font_end;.</string>
+    <string name="action_treasure_hunter_action_description_positive_plural">Вы чувствуете &font_cyan;%1$d &font_end;&font_chest;спрятанных предметов&font_end;.</string>
     <string name="action_treasure_hunter_action_description_negative">Здесь нет &font_chest;спрятанных предметов&font_end;…</string>
 
     <string name="skill_fisherman">&font_cyan;Рыбак&font_end;</string>
@@ -1388,33 +1388,33 @@
     <string name="skill_bughunter">&font_insect;Охотник на насекомых&font_end;</string>
     <string name="skill_furrier">&font_skin;Скорняк&font_end;</string>
     <string name="skill_butcher">&font_blood;Мясник&font_end;</string>
-    <string name="skill_sword_mastery">Владение &font_skill_attack;Мечом&font_end;</string>
-    <string name="skill_dagger_mastery">Владение &font_skill_attack;Кинжалом&font_end;</string>
-    <string name="skill_spear_mastery">Владение &font_skill_attack;Копьём&font_end;</string>
-    <string name="skill_axe_mastery">Владение &font_skill_attack;Топором&font_end;</string>
-    <string name="skill_mace_mastery">Владение &font_skill_attack;Булавой&font_end;</string>
+    <string name="skill_sword_mastery">Владение &font_skill_attack;мечом&font_end;</string>
+    <string name="skill_dagger_mastery">Владение &font_skill_attack;кинжалом&font_end;</string>
+    <string name="skill_spear_mastery">Владение &font_skill_attack;копьём&font_end;</string>
+    <string name="skill_axe_mastery">Владение &font_skill_attack;топором&font_end;</string>
+    <string name="skill_mace_mastery">Владение &font_skill_attack;булавой&font_end;</string>
     <string name="skill_fisherman_description">Чем больше развит этот навык, тем выше шанс успешно поймать рыбу.</string>
     <string name="skill_woodcutter_description">Чем больше развит этот навык, тем выше шанс успешно нарубить дрова.</string>
     <string name="skill_miner_description">Чем больше развит этот навык, тем выше шанс успешно добыть камень.</string>
     <string name="skill_bughunter_description">Чем больше развит этот навык, тем выше шанс успешно поймать жука.</string>
     <string name="skill_furrier_description">Чем больше развит этот навык, тем выше шанс успешно снять кожу с трупа монстра.</string>
     <string name="skill_butcher_description">Чем больше развит этот навык, тем выше шанс успешно освежевать труп монстра.</string>
-    <string name="skill_sword_mastery_description">В бою атака &font_skill_attack;Мечом &font_end;разблокирует Навыки Боя &font_skill_attack;Мечом&font_end;.</string>
-    <string name="skill_dagger_mastery_description">В бою атака &font_skill_attack;Кинжалом &font_end;разблокирует Навыки Боя &font_skill_attack;Кинжалом&font_end;.</string>
-    <string name="skill_spear_mastery_description">В бою атака &font_skill_attack;Копьём &font_end;разблокирует Навыки Боя &font_skill_attack;Копьём&font_end;.</string>
-    <string name="skill_axe_mastery_description">В бою атака &font_skill_attack;Топором &font_end;разблокирует Навыки Боя &font_skill_attack;Топором&font_end;.</string>
-    <string name="skill_mace_mastery_description">В бою атака &font_skill_attack;Булавой &font_end;разблокирует Навыки Боя &font_skill_attack;Булавой&font_end;.</string>
-    <string name="skill_level_up">%1$s &font_cyan;навык&font_end;
-        уровень повышен до &font_cyan;%2$d&font_end;</string>
-    <string name="spell_level_up">%1$s &font_mana;заклинание&font_end;
-        уровень повышен до &font_cyan;%2$d&font_end;</string>
+    <string name="skill_sword_mastery_description">В бою атака &font_skill_attack;мечом &font_end;разблокирует Навыки боя &font_skill_attack;мечом&font_end;.</string>
+    <string name="skill_dagger_mastery_description">В бою атака &font_skill_attack;кинжалом &font_end;разблокирует Навыки боя &font_skill_attack;кинжалом&font_end;.</string>
+    <string name="skill_spear_mastery_description">В бою атака &font_skill_attack;копьём &font_end;разблокирует Навыки боя &font_skill_attack;копьём&font_end;.</string>
+    <string name="skill_axe_mastery_description">В бою атака &font_skill_attack;топором &font_end;разблокирует Навыки боя &font_skill_attack;топором&font_end;.</string>
+    <string name="skill_mace_mastery_description">В бою атака &font_skill_attack;булавой &font_end;разблокирует Навыки боя &font_skill_attack;булавой&font_end;.</string>
+    <string name="skill_level_up">Уровень %1$s &font_cyan;навыка&font_end;
+        повышен до &font_cyan;%2$d&font_end;</string>
+    <string name="spell_level_up">Уровень %1$s &font_mana;заклинания&font_end;
+        повышен до &font_cyan;%2$d&font_end;</string>
     <string name="skill_failed">Не удалось %1$s.</string>
     <string name="skill_damage_multiplier">Урон: &font_red;%1$d&font_end;%% &font_attack;Атака&font_end;</string>
     <string name="skill_number_of_attacks">Атакует &font_cyan;%1$d&font_end; раз</string>
     <string name="skill_attacks_first">Атакует &bold;первым&bold_end;</string>
     <string name="skill_attacks_second">Атакует &bold;вторым&bold_end;</string>
-    <string name="skill_absorbs_health">Поглощает &font_health;Здоровье &font_end;врага </string>
-    <string name="skill_absorbs_mana">Поглощает &font_mana;Ману &font_end;врага </string>
+    <string name="skill_absorbs_health">Поглощает &font_health;здоровье &font_end;врага </string>
+    <string name="skill_absorbs_mana">Поглощает &font_mana;ману &font_end;врага </string>
     <string name="skill_hunger_cost">Голод: &font_hunger;%1$s&font_end;</string>
     <string name="skill_mana_cost">Мана: &font_mana;%1$s&font_end;</string>
 
@@ -1476,7 +1476,7 @@
     <string name="weapon_skill_dagger_fast_slice_name">&font_skill_attack;Быстрый удар&font_end;</string>
     <string name="weapon_skill_dagger_fast_slice_desc">Режущий удар по врагу. Всегда идёт первой атакой.</string>
     <string name="weapon_skill_dagger_fast_slice_attack">Вы наносите режущий удар по врагу!</string>
-    <string name="weapon_skill_dagger_mana_release_name">&font_skill_attack;Выплеск маны&font_end;</string>
+    <string name="weapon_skill_dagger_mana_release_name">&font_skill_attack;Всплеск маны&font_end;</string>
     <string name="weapon_skill_dagger_mana_release_desc">Направляет ману в кинжал и наносит удар по врагу.</string>
     <string name="weapon_skill_dagger_mana_release_attack">Вы направляете ману в кинжал и наносите удар по врагу!</string>
     <string name="weapon_skill_dagger_assassination_name">&font_skill_attack;Убийство&font_end;</string>
@@ -1489,37 +1489,37 @@
     <string name="weapon_skill_dagger_ultimate_cut_desc">Сильный удар по врагу.</string>
     <string name="weapon_skill_dagger_ultimate_cut_attack">Вы наносите сильный удар по врагу!</string>
     <string name="weapon_skill_spear_thrust_name">&font_skill_attack;Пронзание&font_end;</string>
-    <string name="weapon_skill_spear_thrust_desc">Пронзает врага.</string>
+    <string name="weapon_skill_spear_thrust_desc">Пронзить врага.</string>
     <string name="weapon_skill_spear_thrust_attack">Вы пронзаете врага!</string>
     <string name="weapon_skill_spear_leg_sweep_name">&font_skill_attack;Подсечка&font_end;</string>
-    <string name="weapon_skill_spear_leg_sweep_desc">Подсекает врага.</string>
+    <string name="weapon_skill_spear_leg_sweep_desc">Сделать врагу подсечку.</string>
     <string name="weapon_skill_spear_leg_sweep_attack">Вы делаете врагу подсечку!</string>
     <string name="weapon_skill_spear_double_thrust_name">&font_skill_attack;Двойное пронзание&font_end;</string>
     <string name="weapon_skill_spear_double_thrust_desc">Два пронзающих удара по врагу.</string>
     <string name="weapon_skill_spear_double_thrust_attack">Вы дважды пронзаете врага!</string>
     <string name="weapon_skill_spear_quick_sting_name">&font_skill_attack;Быстрый укол&font_end;</string>
-    <string name="weapon_skill_spear_quick_sting_desc">Укалывает врага. Всегда идёт первой атакой.</string>
+    <string name="weapon_skill_spear_quick_sting_desc">Уколоть врага. Всегда идёт первой атакой.</string>
     <string name="weapon_skill_spear_quick_sting_attack">Вы укалываете врага!</string>
     <string name="weapon_skill_spear_impulsive_thrust_name">&font_skill_attack;Внезапное пронзание&font_end;</string>
-    <string name="weapon_skill_spear_impulsive_thrust_desc">Внезапно пронзает врага.</string>
+    <string name="weapon_skill_spear_impulsive_thrust_desc">Внезапно пронзить врага.</string>
     <string name="weapon_skill_spear_impulsive_thrust_attack">Вы внезапно пронзаете врага!</string>
     <string name="weapon_skill_spear_fast_sweep_name">&font_skill_attack;Быстрая подсечка&font_end;</string>
-    <string name="weapon_skill_spear_fast_sweep_desc">Быстро подсекает врага. Всегда идёт первой атакой.</string>
+    <string name="weapon_skill_spear_fast_sweep_desc">Быстро подсечь врага. Всегда идёт первой атакой.</string>
     <string name="weapon_skill_spear_fast_sweep_attack">Вы очень быстро подсекаете врага!</string>
     <string name="weapon_skill_spear_slow_swipe_name">&font_skill_attack;Медленная подсечка&font_end;</string>
-    <string name="weapon_skill_spear_slow_swipe_desc">Медленно подсекает врага. Всегда идёт второй атакой.</string>
+    <string name="weapon_skill_spear_slow_swipe_desc">Медленно подсечь врага. Всегда идёт второй атакой.</string>
     <string name="weapon_skill_spear_slow_swipe_attack">Вы медленно подсекаете врага!</string>
     <string name="weapon_skill_spear_sonic_thrust_name">&font_skill_attack;Звуковое пронзание&font_end;</string>
-    <string name="weapon_skill_spear_sonic_thrust_desc">Пронзает врага со скоростью звука. Всегда идёт первой атакой.</string>
+    <string name="weapon_skill_spear_sonic_thrust_desc">Пронзить врага со скоростью звука. Всегда идёт первой атакой.</string>
     <string name="weapon_skill_spear_sonic_thrust_attack">Вы пронзаете врага со скоростью звука!</string>
     <string name="weapon_skill_spear_eagle_bite_name">&font_skill_attack;Укус орла&font_end;</string>
-    <string name="weapon_skill_spear_eagle_bite_desc">Кусает врага копьём, словно орёл.</string>
+    <string name="weapon_skill_spear_eagle_bite_desc">Укусить врага копьём, словно орёл.</string>
     <string name="weapon_skill_spear_eagle_bite_attack">Вы кусаете врага, словно орёл!</string>
     <string name="weapon_skill_spear_ultimate_thrust_name">&font_skill_attack;Абсолютное пронзание&font_end;</string>
-    <string name="weapon_skill_spear_ultimate_thrust_desc">Сильно пронзает врага.</string>
+    <string name="weapon_skill_spear_ultimate_thrust_desc">Сильно пронзить врага.</string>
     <string name="weapon_skill_spear_ultimate_thrust_attack">Вы сильно пронзаете врага!</string>
     <string name="weapon_skill_axe_smash_name">&font_skill_attack;Удар&font_end;</string>
-    <string name="weapon_skill_axe_smash_desc">Ударяет по врагу.</string>
+    <string name="weapon_skill_axe_smash_desc">Удар по врагу.</string>
     <string name="weapon_skill_axe_smash_attack">Вы наносите удар по врагу!</string>
     <string name="weapon_skill_axe_horizontal_swipe_name">&font_skill_attack;Горизонтальный удар&font_end;</string>
     <string name="weapon_skill_axe_horizontal_swipe_desc">Горизонтальный удар по врагу.</string>
@@ -1534,7 +1534,7 @@
     <string name="weapon_skill_axe_berserk_desc">Берсерк-атака по врагу.</string>
     <string name="weapon_skill_axe_berserk_attack">Вы атакуете врага, словно берсерк!</string>
     <string name="weapon_skill_axe_axe_stomp_name">&font_skill_attack;Быстрая подсечка&font_end;</string>
-    <string name="weapon_skill_axe_axe_stomp_desc">Сбивает врага с ног. Всегда идёт первой атакой.</string>
+    <string name="weapon_skill_axe_axe_stomp_desc">Сбить врага с ног. Всегда идёт первой атакой.</string>
     <string name="weapon_skill_axe_axe_stomp_attack">Вы проводите очень быструю подсечку!</string>
     <string name="weapon_skill_axe_life_hit_name">&font_skill_attack;Удар жизни&font_end;</string>
     <string name="weapon_skill_axe_life_hit_desc">Удар по врагу. Вытягивает здоровье врага!</string>
@@ -1543,7 +1543,7 @@
     <string name="weapon_skill_axe_counter_smash_desc">Удар по врагу. Всегда идёт второй атакой.</string>
     <string name="weapon_skill_axe_counter_smash_attack">Вы наносите удар по врагу!</string>
     <string name="weapon_skill_axe_magical_sweep_name">&font_skill_attack;Магическая подсечка&font_end;</string>
-    <string name="weapon_skill_axe_magical_sweep_desc">Направляет ману в топор и подсекает врага.</string>
+    <string name="weapon_skill_axe_magical_sweep_desc">Направить ману в топор и подсечь врага.</string>
     <string name="weapon_skill_axe_magical_sweep_attack">Вы наполняете топор маной и делаете подсечку врагу!</string>
     <string name="weapon_skill_axe_ultimate_smash_name">&font_skill_attack;Абсолютный удар&font_end;</string>
     <string name="weapon_skill_axe_ultimate_smash_desc">Сильный удар по врагу.</string>
@@ -1555,19 +1555,19 @@
     <string name="weapon_skill_mace_great_hit_desc">Удар по врагу.</string>
     <string name="weapon_skill_mace_great_hit_attack">Вы ударяете врага!</string>
     <string name="weapon_skill_mace_quick_strike_name">&font_skill_attack;Быстрая атака&font_end;</string>
-    <string name="weapon_skill_mace_quick_strike_desc">БЫстрый удар по врагу. Всегда идёт первой атакой.</string>
+    <string name="weapon_skill_mace_quick_strike_desc">Быстрый удар по врагу. Всегда идёт первой атакой.</string>
     <string name="weapon_skill_mace_quick_strike_attack">Вы наносите очень быстрый удар по врагу!</string>
     <string name="weapon_skill_mace_double_smash_name">&font_skill_attack;Двойное крушение&font_end;</string>
     <string name="weapon_skill_mace_double_smash_desc">Два удара по врагу.</string>
     <string name="weapon_skill_mace_double_smash_attack">Вы дважды ударяете врага!</string>
     <string name="weapon_skill_mace_magic_strike_name">&font_skill_attack;Магический удар&font_end;</string>
-    <string name="weapon_skill_mace_magic_strike_desc">Направляет ману в булаву и ударяет врага.</string>
+    <string name="weapon_skill_mace_magic_strike_desc">Направить ману в булаву и ударить врага.</string>
     <string name="weapon_skill_mace_magic_strike_attack">Вы наполняете булаву маной и ударяете врага!</string>
     <string name="weapon_skill_mace_healing_stroke_name">&font_skill_attack;Исцеляющее касание&font_end;</string>
-    <string name="weapon_skill_mace_healing_stroke_desc">Вытягивает здоровье врага.</string>
+    <string name="weapon_skill_mace_healing_stroke_desc">Вытянуть здоровье врага.</string>
     <string name="weapon_skill_mace_healing_stroke_attack">Вы вытягиваете здоровье из врага!</string>
     <string name="weapon_skill_mace_steal_magic_name">&font_skill_attack;Кража магии&font_end;</string>
-    <string name="weapon_skill_mace_steal_magic_desc">Вытягивает ману врага.</string>
+    <string name="weapon_skill_mace_steal_magic_desc">Вытянуть ману врага.</string>
     <string name="weapon_skill_mace_steal_magic_attack">Вы вытягиваете ману из врага!</string>
     <string name="weapon_skill_mace_contussion_name">&font_skill_attack;Контузия&font_end;</string>
     <string name="weapon_skill_mace_contussion_desc">Сильный удар по врагу.</string>
@@ -1580,36 +1580,36 @@
     <string name="weapon_skill_mace_ultimate_strike_attack">Вы наносите сильный удар по врагу!</string>
 
     <string name="pets_title">&font_pet;Питомцы&font_end; (&lt;font color=\"%1$s\"&gt;%2$d&font_end;/&font_cyan;%3$d&font_end;)</string>
-    <string name="pets_monster_joined">%1$s присоединился к вам!</string>
+    <string name="pets_monster_joined">Питомец %1$s присоединился к вам!</string>
     <string name="pets_active_pet">Активный питомец</string>
-    <string name="pets_set_active">Сделайте %1$s &font_pet;Активным питомцем&font_end;</string>
-    <string name="pets_withdraw">Вы вернули %1$s.</string>
-    <string name="pets_x_following_you">Ваш %1$s здесь, следует за вами</string>
+    <string name="pets_set_active">Сделайте питомца %1$s &font_pet;Активным питомцем&font_end;</string>
+    <string name="pets_withdraw">Вы забрали питомца %1$s.</string>
+    <string name="pets_x_following_you">Ваш питомец %1$s здесь, следует за вами</string>
     <string name="pets_normal_attack">Атака</string>
-    <string name="pets_cant_cast_action">%1$s не может наложить %2$s (недостаточно &font_mana;маны&font_end;)</string>
-    <string name="pets_attacked">%1$s напал!</string>
-    <string name="pets_pet_action">%1$s использовал свой &font_red;%2$s&font_end;</string>
-    <string name="pets_text_pet_dealt_damage_to_monster">%1$s нанёс %2$s &font_red;%3$d &font_end;урона!</string>
+    <string name="pets_cant_cast_action">Питомец %1$s не может наложить %2$s (недостаточно &font_mana;маны&font_end;)</string>
+    <string name="pets_attacked">Питомец %1$s напал!</string>
+    <string name="pets_pet_action">Питомец %1$s использовал свой &font_red;%2$s&font_end;</string>
+    <string name="pets_text_pet_dealt_damage_to_monster">Питомец %1$s нанёс монстру &font_red;%3$d &font_end;%2$s урона!</string>
     <string name="pets_combat_dont_have_an_active_pet">У вас нет &font_pet;Активного питомца&font_end;</string>
-    <string name="pets_text_pet_level_up_to_level">Уровень %1$s повышен до %2$d</string>
+    <string name="pets_text_pet_level_up_to_level">Уровень питомйа %1$s повышен до %2$d</string>
     <string name="pets_empty_message">У вас сейчас нет &font_pet;Питомца&font_end;…</string>
     <string name="pets_rename_pet">Переименовать Питомца</string>
-    <string name="pets_rename_pet_message">Выберите новое имя для вашего %1$s!</string>
-    <string name="pets_rename_pet_success">Вы переименовали %1$s! Здорово!</string>
-    <string name="pets_list">Список Питомцев</string>
-    <string name="pets_abandon_pet_message">Вы уверены, что хотите оставить %1$s? Он исчезнет &italic;навсегда&italic_end;…</string>
-    <string name="pets_abandon_pet_abandoned_message">Вы оставили %1$s… Прощай…</string>
+    <string name="pets_rename_pet_message">Выберите новое имя для вашего питомца %1$s!</string>
+    <string name="pets_rename_pet_success">Вы переименовали питомца %1$s! Здорово!</string>
+    <string name="pets_list">Список питомцев</string>
+    <string name="pets_abandon_pet_message">Вы уверены, что хотите расстаться с питомцем %1$s? Он исчезнет &italic;навсегда&italic_end;…</string>
+    <string name="pets_abandon_pet_abandoned_message">Вы оставили питомца %1$s… Прощай…</string>
 
     <string name="text_player_experience_given">Вы получили &font_cyan;%1$d &font_end;опыта!</string>
-    <string name="text_pet_experience_given">%1$s получил &font_cyan;%2$d &font_end;опыта!</string>
+    <string name="text_pet_experience_given">Питомец %1$s получил &font_cyan;%2$d &font_end;опыта!</string>
 
-    <string name="animal_fed_flesh">Вы накормили %1$s, использовав %2$s.</string>
-    <string name="animal_is_here_following_you">Ваш %1$s здесь, следует за вами</string>
-    <string name="animal_is_here">%1$s здесь</string>
-    <string name="animal_leave_here_message">Оставить %1$s здесь? Если вы хотите, чтобы он снова за вами последовал, вам нужно будет снова его покормить…</string>
-    <string name="animal_left">Вы оставили %1$s…</string>
-    <string name="animal_start_following_you">%1$s теперь следует за вами!</string>
-    <string name="animal_follow_substitute_animal">%1$s хочет следовать за вами, позволить  и оставить %2$s здесь?</string>
+    <string name="animal_fed_flesh">Вы накормили животное %1$s, использовав %2$s.</string>
+    <string name="animal_is_here_following_you">Ваше животное %1$s здесь, следует за вами</string>
+    <string name="animal_is_here">Животное %1$s здесь</string>
+    <string name="animal_leave_here_message">Оставить животное %1$s здесь? Если вы хотите, чтобы оно снова за вами последовало, вам нужно будет снова его покормить…</string>
+    <string name="animal_left">Вы оставили животное %1$s…</string>
+    <string name="animal_start_following_you">Животное %1$s теперь следует за вами!</string>
+    <string name="animal_follow_substitute_animal">Животное %1$s хочет следовать за вами, позволить и оставить животное %2$s здесь?</string>
     <string name="animal_dog_name">Пёс</string>
     <string name="animal_chicken_name">Петух</string>
     <string name="animal_cow_name">Бык</string>
@@ -1654,8 +1654,8 @@
     <string name="tile_content_type_slave">Раб</string>
     <string name="tile_content_type_guard">Страж</string>
     <string name="tile_content_type_pet">&font_pet;Питомец&font_end;</string>
-    <string name="tile_content_type_nautical_chart_black_island">Навигационная карта (&font_black_low;Чёрный &font_end;&font_cyan;Остров&font_end;)</string>
-    <string name="tile_content_type_nautical_chart_white_island">Навигационная карта (&font_white;Белый &font_end;&font_cyan;Остров&font_end;)</string>
+    <string name="tile_content_type_nautical_chart_black_island">Навигационная карта (&font_black_low;Чёрный &font_end;&font_cyan;остров&font_end;)</string>
+    <string name="tile_content_type_nautical_chart_white_island">Навигационная карта (&font_white;Белый &font_end;&font_cyan;остров&font_end;)</string>
     <string name="tile_content_type_spell_book">Книга &font_mana;Заклинаний&font_end;</string>
     <string name="tile_content_type_explorer">Исследователь</string>
     <string name="tile_content_type_meditator">Мыслитель</string>
@@ -1691,35 +1691,35 @@
     <string name="tile_content_type_gate_to_heaven">Врата в Рай</string>
     <string name="tile_content_type_chest">Сундук</string>
     <string name="tile_content_type_professional">Профессионал</string>
-    <string name="tile_content_type_pet_collar">&font_cyan;Ошейник &font_end;для &font_pet;Питомца&font_end;</string>
+    <string name="tile_content_type_pet_collar">&font_cyan;Ошейник &font_end;для &font_pet;питомца&font_end;</string>
     <string name="tile_content_type_merchant_master">Главный торговец</string>
-    <string name="tile_content_type_magic_stone">&font_mana;Волшебный&font_end; &font_bronze;Камень&font_end;</string>
-    <string name="tile_content_type_bomb">Бомб</string>
-    <string name="tile_content_type_a_letter_for_the_king">A &font_cyan;Письмо &font_end;для &font_gold;Короля&font_end;</string>
+    <string name="tile_content_type_magic_stone">&font_mana;Волшебный&font_end; &font_bronze;камень&font_end;</string>
+    <string name="tile_content_type_bomb">Бомба</string>
+    <string name="tile_content_type_a_letter_for_the_king">&font_cyan;Письмо &font_end;для &font_gold;короля&font_end;</string>
     <string name="tile_content_type_blacksmith">&font_iron;Кузнец&font_end;</string>
     <string name="tile_content_type_wise">&font_wise;Мудрец&font_end;</string>
-    <string name="tile_content_type_teleport_stone">&font_bronze;Камень&font_end; &font_mana;Телепортации&font_end;</string>
+    <string name="tile_content_type_teleport_stone">&font_bronze;Камень&font_end; &font_mana;телепортации&font_end;</string>
     <string name="tile_content_type_wooden_sign">&font_wooden_sign;Деревянная табличка&font_end;</string>
     <string name="tile_content_type_iron_bucket">&font_iron;Железное ведро&font_end;</string>
-    <string name="tile_content_type_purifying_seed">&font_purifying;Очищающее&font_end; &font_plant;Семя&font_end;</string>
-    <string name="tile_content_type_purifying_tree">&font_purifying;Очищающее&font_end; &font_wood;Дерево&font_end;</string>
+    <string name="tile_content_type_purifying_seed">&font_purifying;Очищающее&font_end; &font_plant;семя&font_end;</string>
+    <string name="tile_content_type_purifying_tree">&font_purifying;Очищающее&font_end; &font_wood;дерево&font_end;</string>
     <string name="tile_content_type_yin_yang_amulet">Амулет &font_black_low;Инь&font_end; &font_white;Ян &font_end;</string>
     <string name="tile_content_type_royal_seal">&font_gold;Королевская печать&font_end;</string>
-    <string name="tile_content_type_iron_bucket_water">&font_iron;Ведро &font_end;&font_water;Воды&font_end;</string>
-    <string name="tile_content_type_iron_bucket_lava">&font_iron;Ведро &font_end;&font_attack;Лавы&font_end;</string>
-    <string name="tile_content_type_iron_bucket_mana">&font_iron;Ведро &font_end;&font_mana;Маны&font_end;</string>
+    <string name="tile_content_type_iron_bucket_water">&font_iron;Ведро &font_end;&font_water;воды&font_end;</string>
+    <string name="tile_content_type_iron_bucket_lava">&font_iron;Ведро &font_end;&font_attack;лавы&font_end;</string>
+    <string name="tile_content_type_iron_bucket_mana">&font_iron;Ведро &font_end;&font_mana;маны&font_end;</string>
 
     <string name="wooden_sign_write">Написать на &font_wooden_sign;Деревянной табличке&font_end;</string>
     <string name="wooden_sign_text_chopped_the">Вы срубили %1$s.</string>
     <string name="wooden_sign_wrote_message">Вы оставили послание на %1$s.</string>
 
-    <string name="iron_bucket_pickup_water">Вы набрали &font_water;Воду &font_end;&font_iron;Железным ведром&font_end;.</string>
-    <string name="iron_bucket_pickup_lava">Вы набрали &font_attack;Лаву &font_end;&font_iron;Железным ведром&font_end;.</string>
-    <string name="iron_bucket_pickup_mana">Вы набрали &font_mana;Ману &font_end;&font_iron;Железным ведром&font_end;.</string>
-    <string name="iron_bucket_put_out_firecamp_ash">Вы потушили &font_attack;Костёр &font_end;с помощью &font_iron;Ведра&font_end; &font_water;Воды&font_end;.</string>
-    <string name="iron_bucket_drank_mana">Вы выпили &font_iron;Ведро &font_end;&font_mana;Маны&font_end;и восстановили всю свою &font_mana;ману&font_end;.</string>
+    <string name="iron_bucket_pickup_water">Вы набрали &font_water;воду &font_end;&font_iron;железным ведром&font_end;.</string>
+    <string name="iron_bucket_pickup_lava">Вы набрали &font_attack;лаву &font_end;&font_iron;железным ведром&font_end;.</string>
+    <string name="iron_bucket_pickup_mana">Вы набрали &font_mana;ману &font_end;&font_iron;железным ведром&font_end;.</string>
+    <string name="iron_bucket_put_out_firecamp_ash">Вы потушили &font_attack;костёр &font_end;с помощью &font_iron;ведра&font_end; &font_water;воды&font_end;.</string>
+    <string name="iron_bucket_drank_mana">Вы выпили &font_iron;ведро &font_end;&font_mana;маны&font_end;и восстановили всю свою &font_mana;ману&font_end;.</string>
 
-    <string name="bank_welcome_message" tools:ignore="PluralsCandidate">Добро пожаловать в %1$s!&br;&br;Ваше &font_gold;Золото &font_end;будет здесь в безопасности.&br;&br;У вас сейчас &font_gold;%2$d Золота &font_end;в %3$s.&br;</string>
+    <string name="bank_welcome_message" tools:ignore="PluralsCandidate">Добро пожаловать в %1$s!&br;&br;Ваше &font_gold;золото &font_end;будет здесь в безопасности.&br;&br;У вас сейчас &font_gold;%2$d золота &font_end;в %3$s.&br;</string>
     <string name="bank_deposit_message" tools:ignore="PluralsCandidate">Сколько вы хотите &font_gold;положить&font_end;?&br;&br;У вас сейчас &font_gold;%1$d золота&font_end;.</string>
     <string name="bank_withdraw_message" tools:ignore="PluralsCandidate">Сколько вы хотите &font_gold;взять&font_end;?&br;&br;У вас сейчас &font_gold;%1$d золота &font_end;в %2$s.</string>
     <string name="bank_deposit">(Положить)</string>
@@ -1747,36 +1747,36 @@
     <string name="stash_empty_message">Здесь нет предметов…</string>
     <string name="stash_title">&font_wood;Тайник&font_end; (&font_cyan;%1$d&font_end;/&font_cyan;%2$d&font_end;)</string>
     <string name="stash_inventory_title_stash">&font_wood;Инвентарь&font_end; (&font_cyan;%1$d&font_end;/&font_cyan;%2$d&font_end;)</string>
-    <string name="stash_store_couldnt">Не удалось положить %1$s, &font_wood;Тайник &font_end;полон!</string>
-    <string name="stash_increase_title">Увеличить размер &font_wood;Тайника&font_end;?</string>
+    <string name="stash_store_couldnt">Не удалось положить предмет %1$s, &font_wood;тайник &font_end;полон!</string>
+    <string name="stash_increase_title">Увеличить размер &font_wood;тайника&font_end;?</string>
     <string name="stash_increase_message" tools:ignore="PluralsCandidate">Вы хотите увеличить размер &font_wood;тайника &font_end;с &font_cyan;%1$d &font_end;до &font_cyan;%2$d&font_end;? Это обойдётся в &font_gold;%3$d золота&font_end;.</string>
 
     <string name="merchants_mark">Отметка торговца &font_cyan;#%1$d&font_end;</string>
     <string name="merchant">Торговец</string>
     <string name="merchant_name">(&font_gold;%1$s&font_end;)</string>
     <string name="merchant_dialog_text">Ты принёс мне &font_cyan;%1$d&font_end; &lt;font color=\"%2$s\"&gt;%3$s &font_end;?</string>
-    <string name="merchant_giving_merchant_quest_message">Привет! Я ищу &font_cyan;%1$d &font_end;&lt;font color=\"%2$s\"&gt;%3$s&font_end;. Не мог бы ты принести их мне? За это я дам тебе кое-что очень особенное.</string>
+    <string name="merchant_giving_merchant_quest_message">Привет! Я ищу &font_cyan;%1$d &font_end;&lt;font color=\"%2$s\"&gt;%3$s&font_end;. Не мог бы ты принести мне? За это я дам тебе кое-что очень особенное.</string>
     <string name="merchant_not_enough_materials">У вас недостаточно материалов…</string>
     <string name="merchant_you_receive_the_merchants_mark">Вы получили Отметку торговца &font_cyan;#%1$d&font_end;!</string>
     <string name="merchant_dialog_text_mark_given">Ты уже дал мне то, что нужно, спасибо!</string>
 
-    <string name="witch_dialog_text">Здравствуй… Я отдам тебе свою &font_witch;Ведьминскую шляпу&font_end;, если ты дашь мне &font_cyan;%1$d&font_end; &font_mushroom;Грибов&font_end;… будь паинькой, иначе превращу тебя в крысу!</string>
-    <string name="witch_dialog_text_mark_given">Мне не нужно больше &font_mushroom;Грибов&font_end;. Спасибо…</string>
+    <string name="witch_dialog_text">Здравствуй… Я отдам тебе свою &font_witch;Ведьминскую шляпу&font_end;, если ты дашь мне &font_cyan;%1$d&font_end; &font_mushroom;грибов&font_end;… будь паинькой, иначе превращу тебя в крысу!</string>
+    <string name="witch_dialog_text_mark_given">Мне не нужно больше &font_mushroom;грибов&font_end;. Спасибо…</string>
     <string name="witch_received">&font_witch;Ведьма&font_end; дала вам предмет %1$s!</string>
     <string name="witch_hat">&font_witch;Ведьминская шляпа&font_end;</string>
-    <string name="witch_not_enough_mushrooms">У вас недостаточно &font_mushroom;Грибов&font_end;…</string>
+    <string name="witch_not_enough_mushrooms">У вас недостаточно &font_mushroom;грибов&font_end;…</string>
 
-    <string name="wizard_tower_dialog_message_1">Вы зашли в %1$s и нашли &font_mana;Волшебника&font_end;…</string>
-    <string name="wizard_tower_dialog_message_2">Добро пожаловать в нашу %1$s… Ты хочешь стать &font_mana;Волшебником &font_end;, как я?</string>
-    <string name="wizard_tower_dialog_message_2_already_given">С возвращением в %1$s… Ах… это ты… Я уже дал тебе свою книгу &font_mana;Заклинаний&font_end;… Тебе нужно больше самостоятельно заниматься магией…</string>
+    <string name="wizard_tower_dialog_message_1">Вы зашли в %1$s и нашли &font_mana;волшебника&font_end;…</string>
+    <string name="wizard_tower_dialog_message_2">Добро пожаловать в нашу %1$s… Ты хочешь стать &font_mana;волшебником &font_end;, как я?</string>
+    <string name="wizard_tower_dialog_message_2_already_given">С возвращением в %1$s… Ах… это ты… Я уже дал тебе свою книгу &font_mana;заклинаний&font_end;… Тебе нужно больше самостоятельно заниматься магией…</string>
     <string name="wizard_tower_dialog_message_3_no">Что ж, уходи и не трать моё время!</string>
     <string name="wizard_tower_dialog_message_3_yes">А-ха-ха! И ты думаешь, что у тебя есть способности?</string>
     <string name="wizard_tower_dialog_message_4_no">Что ж, уходи и не трать моё время!</string>
     <string name="wizard_tower_dialog_message_4_yes">Я не уверен, что ты годишься для занятий &font_mana;магией&font_end;… Ты уверен?</string>
     <string name="wizard_tower_dialog_message_5_no">Уходи и перестань тратить моё время!</string>
-    <string name="wizard_tower_dialog_message_5_yes">Готов ли ты сделать всё необходимое, чтобы стать &font_mana;Волшебником&font_end;?</string>
+    <string name="wizard_tower_dialog_message_5_yes">Готов ли ты сделать всё необходимое, чтобы стать &font_mana;волшебником&font_end;?</string>
     <string name="wizard_tower_dialog_message_6_no">Я устал от тебя, у меня сегодня тяжёлый день!</string>
-    <string name="wizard_tower_dialog_message_6_yes">Ладно, тогда скажи мне, сможешь ли ты разобраться с этой книгой &font_mana;Заклинаний&font_end;, которую я тебе дам?</string>
+    <string name="wizard_tower_dialog_message_6_yes">Ладно, тогда скажи мне, сможешь ли ты разобраться с этой книгой &font_mana;заклинаний&font_end;, которую я тебе дам?</string>
     <string name="wizard_tower_dialog_message_7_no">Что ж, тогда я оставлю её себе.</string>
     <string name="wizard_tower_dialog_message_7_yes">Это другой разговор! Запомни, чтобы выучить заклинание, ты должен обладать предыдущим уровнем этого типа магического заклинания…</string>
     <string name="wizard_name">&font_mana;Старый волшебник&font_end;</string>
@@ -1793,12 +1793,12 @@
     <string name="meditated_with_meditator">Вы помедитировали с %1$s и восстановили свою &font_mana;ману&font_end;…</string>
     <string name="meditator_is_mysteriously_gone">%1$s загадочно исчез…</string>
 
-    <string name="mine_copper">&font_copper;Медный&font_end; &font_stone;Рудник&font_end;</string>
-    <string name="mine_tin">&font_tin;Оловянный&font_end; &font_stone;Рудник&font_end;</string>
-    <string name="mine_iron">&font_iron;Железный&font_end; &font_stone;Рудник&font_end;</string>
-    <string name="mine_silver">&font_silver;Серебряный&font_end; &font_stone;Рудник&font_end;</string>
-    <string name="mine_gold">&font_gold;Золотой&font_end; &font_stone;Рудник&font_end;</string>
-    <string name="mine_undiscovered">\? &font_stone;Рудник&font_end;</string>
+    <string name="mine_copper">&font_copper;Медный&font_end; &font_stone;рудник&font_end;</string>
+    <string name="mine_tin">&font_tin;Оловянный&font_end; &font_stone;рудник&font_end;</string>
+    <string name="mine_iron">&font_iron;Железный&font_end; &font_stone;рудник&font_end;</string>
+    <string name="mine_silver">&font_silver;Серебряный&font_end; &font_stone;рудник&font_end;</string>
+    <string name="mine_gold">&font_gold;Золотой&font_end; &font_stone;рудник&font_end;</string>
+    <string name="mine_undiscovered">\? &font_stone;рудник&font_end;</string>
     <string name="mine_discovered_type">Видов исследованных рудников: %1$s</string>
     <string name="mine_found_special_ore">Найдена руда %1$s!</string>
 
@@ -1813,33 +1813,33 @@
     <string name="crafting_filter_weapon">Оружие</string>
     <string name="crafting_filter_shield">Щит</string>
     <string name="crafting_filter_armor">Доспехи</string>
-    <string name="crafting_filter_tool">Инструмент</string>
+    <string name="crafting_filter_tool">Инструменты</string>
     <string name="crafting_filter_food">Еда</string>
     <string name="crafting_filter_potion">Зелье</string>
-    <string name="crafting_filter_material">Материал</string>
+    <string name="crafting_filter_material">Материалы</string>
     <string name="crafting_filter_other">Другое</string>
 
     <string name="dead_reason_monster">Вас убил монстр %s!</string>
-    <string name="dead_reason_hunger">Умер от &font_red;голода&font_end;!</string>
+    <string name="dead_reason_hunger">Вы умерли от &font_red;голода&font_end;!</string>
     <string name="dead_reason_tile_damage_hot">Вас убила &font_red;невыносимая жара&font_end;!</string>
     <string name="dead_reason_tile_damage_cold">Вы &font_tundra;замёрзли&font_end; насмерть!</string>
 
     <string name="blacksmith_message">Привет! Не хочешь улучшить свое "&font_green;\*&font_end;" снаряжение?&br;&br;Или разобрать что-нибудь?&br;&br;Я также могу изготовить слитки из твоей руды, если нужно.&br;&br;Просто скажи мне, и я сделаю всё возможное!&br;&br;Помни, я не могу работать с используемыми или надетыми предметами.</string>
     <string name="blacksmith_no_equipment_message">Мне жаль, кажется, у тебя нет снаряжения, которое я мог бы улучшить…</string>
     <string name="blacksmith_no_equipment_message_scrap">Мне жаль, кажется, у тебя нет снаряжения, которое я мог бы разобрать…</string>
-    <string name="blacksmith_cost" tools:ignore="PluralsCandidate">&font_gold;%1$d Золота&font_end;</string>
+    <string name="blacksmith_cost" tools:ignore="PluralsCandidate">&font_gold;%1$d золота&font_end;</string>
     <string name="blacksmith_improved_equipment_to_level">Предмет %1$s улучшен!</string>
     <string name="blacksmith_title">&font_iron;Кузнец&font_end;</string>
     <string name="blacksmith_scrapped_equipment">Предмет %1$s разобран на %2$s!</string>
     <string name="blacksmith_failed_scrapping">Не удалось разобрать предмет %s…</string>
-    <string name="blacksmith_craft_cost">Изготовить: &font_gold;%1$d&font_end; Золота</string>
+    <string name="blacksmith_craft_cost">Изготовить: &font_gold;%1$d&font_end; золота</string>
     <string name="blacksmith_crafted">Предмет %s изготовлен!</string>
     <string name="blacksmith_not_enough_material">У вас недостаточно материалов…</string>
     <string name="needs_two_dots">Необходимо:</string>
     <string name="well_drink_message">Отпить из %1$s?</string>
     <string name="well_message_empty">%1$s пуст…</string>
-    <string name="castle_message_cant_pass">Остановись! Ты не можешь войти!&br;&br;Войти могут только те, кто может что-то предложить &font_gold;Королю&font_end;!</string>
-    <string name="castle_message_have_letter">Привет! У тебя есть &font_cyan;Письмо &font_end;для &font_gold;Короля&font_end;, говоришь?&br;&br;Что же, входи в &font_stone;Замок &font_end;и отдай его…</string>
+    <string name="castle_message_cant_pass">Остановись! Ты не пройдёшь дальше!&br;&br;Войти могут только те, кто может что-то предложить &font_gold;Королю&font_end;!</string>
+    <string name="castle_message_have_letter">Привет! У тебя есть &font_cyan;письмо &font_end;для &font_gold;Короля&font_end;, говоришь?&br;&br;Что же, входи в &font_stone;Замок &font_end;и отдай его…</string>
     <string name="castle_king_title">&font_gold;Король&font_end;</string>
     <string name="castle_king_message_1">Ты что-то мне принёс?&br;&br;Дай взглянуть…</string>
     <string name="castle_king_message_2">Спасибо… Ох, как любопытно… Я прочту его сам.</string>
@@ -1849,10 +1849,10 @@
     <string name="castle_king_message_6">Ты, наверное, ждёшь что-то взамен…</string>
     <string name="castle_king_message_7">Ладно… Держи! А теперь покинь мой &font_stone;Замок&font_end;!</string>
     <string name="castle_king_gives_you_this">&font_gold;Король&font_end; даёт вам предмет %1$s!</string>
-    <string name="castle_message_royal_seal_message">Как я погляжу, у тебя есть &font_gold;Королевские печати &font_end;от &font_gold;Короля&font_end;. Если ты дашь мне &font_cyan;%1$d &font_end;из них, я дам тебе взамен &font_gold;Королевский&font_end; &font_iron;Щит&font_end;.&br;&br;Ты хочешь его?</string>
-    <string name="castle_message_royal_seal_not_enough">У тебя недостаточно &font_gold;Королевский печатей&font_end;… Возвращайся, когда у тебя будет минимум &font_cyan;%1$d&font_end;!</string>
+    <string name="castle_message_royal_seal_message">Как я погляжу, у тебя есть &font_gold;Королевские печати &font_end;от &font_gold;Короля&font_end;. Если ты дашь мне &font_cyan;%1$d &font_end;из них, я дам тебе взамен &font_gold;Королевский&font_end; &font_iron;щит&font_end;.&br;&br;Ты хочешь его?</string>
+    <string name="castle_message_royal_seal_not_enough">У тебя недостаточно &font_gold;Королевских печатей&font_end;… Возвращайся, когда у тебя будет минимум &font_cyan;%1$d&font_end;!</string>
     <string name="bar_caps">Бар</string>
-    <string name="bar_text_question_eat_at_the" tools:ignore="PluralsCandidate">Вы хотите пообедать за &font_gold;%1$d Золота&font_end;?</string>
+    <string name="bar_text_question_eat_at_the" tools:ignore="PluralsCandidate">Вы хотите пообедать за &font_gold;%1$d золота&font_end;?</string>
     <string name="bar_not_hungry">Я не голоден…</string>
     <string name="bar_ate_at_the">Вы пообедали в %1$s.</string>
     <string name="bar_not_enough_gold">У вас недостаточно золота, чтобы пообедать в %1$s.</string>
@@ -1862,21 +1862,21 @@
     <string name="portal_enter_mysterious_portal">Это загадочный &font_portal;Портал&font_end;… войти?</string>
     <string name="portal_teleported_to_x_y">Вы телепортировались на &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end;!</string>
     <string name="slave">Раб</string>
-    <string name="slave_runs_away">The %1$s сбегает, оставив что-то…</string>
+    <string name="slave_runs_away">%1$s сбегает, оставив что-то…</string>
     <string name="slave_thanks_for_freeing_me">Спасибо, что освободил меня!</string>
     <string name="guard">Страж</string>
-    <string name="guard_start_dialog">Я веду этого &font_cyan;Раба&font_end; на казнь, в сторону или ты отведаешь моего меча!</string>
-    <string name="troll_pay_or_fight" tools:ignore="PluralsCandidate">Я %1$s! Это мой мост! Если ты хотеть пройти, мне ты платить &font_gold;%2$d Золота&font_end;, или ты умирать от меня!</string>
+    <string name="guard_start_dialog">Я веду этого &font_cyan;раба&font_end; на казнь. В сторону, или ты отведаешь моего меча!</string>
+    <string name="troll_pay_or_fight" tools:ignore="PluralsCandidate">Я %1$s! Это мой мост! Если ты хотеть пройти, то ты платить &font_gold;%2$d золота&font_end;, или умирать от меня!</string>
     <string name="troll_not_enough_gold">У вас недостаточно &font_gold;золота&font_end;! %1$s атакует вас!</string>
     <string name="troll_leaves_happily_with_your_money">Довольный %1$s уходит с вашими деньгами…</string>
-    <string name="explorer_you_dont_have_the_necessary_island_soul" tools:ignore="UnusedResources">У вас нет необходимой &font_cyan;Души Острова&font_end;…</string>
+    <string name="explorer_you_dont_have_the_necessary_island_soul" tools:ignore="UnusedResources">У вас нет необходимой &font_cyan;Души острова&font_end;…</string>
     <string name="explorer_im_looking_for_an_island_soul">Привет! Я страстный исследователь и ищу предмет %1$s! Если он у тебя есть, не мог бы ты дать его мне?&br;&br;Я дам тебе взамен &font_cyan;особый &font_end;предмет!</string>
     <string name="explorer_already_given">Привет! Спасибо за предмет %1$s! Я все ещё пытаюсь придумать, что с ним делать… Вперёд, друг мой!</string>
     <string name="explorer_gaven_you">%1$s дал вам %2$s!</string>
-    <string name="waterfall_info">Здесь прекрасный &font_water;Водопад&font_end;. Вы немного созерцаете его, а затем продолжаете своё приключение.</string>
-    <string name="sphinx_info">Вы смотрите на гигантского &font_pyramid;Сфинкса &font_end;и удивляетесь его размерам и красоте. Он кажется довольно старым.</string>
-    <string name="text_ruins_info_not_explored">Вы бродите среди &font_ruins;Руин &font_end;и перед самым уходом находите что-то!</string>
-    <string name="text_ruins_info_explored">Вы снова ходите среди &font_ruins;Рун&font_end;, но вокруг лишь развалины и пыль…</string>
+    <string name="waterfall_info">Здесь прекрасный &font_water;водопад&font_end;. Вы немного созерцаете его, а затем продолжаете своё приключение.</string>
+    <string name="sphinx_info">Вы смотрите на гигантского &font_pyramid;сфинкса &font_end;и удивляетесь его размерам и красоте. Он кажется довольно старым.</string>
+    <string name="text_ruins_info_not_explored">Вы бродите среди &font_ruins;руин &font_end;и перед самым уходом находите что-то!</string>
+    <string name="text_ruins_info_explored">Вы снова ходите среди &font_ruins;руин&font_end;, но вокруг лишь развалины и пыль…</string>
     <string name="cabin_rest_in_the_question">Отдохнуть в %1$s?</string>
     <string name="cabin_rest_in_the">Вы отдохнули в %1$s.</string>
     <string name="oasis_question_drink_from_the">Отпить из %1$s?</string>
@@ -1891,14 +1891,14 @@
 
     <string name="tile_content_stone_bridge_desc">Старый-добрый &font_stone;каменный мост&font_end;.</string>
     <string name="tile_content_type_pyramid_desc">Большая и внушительная &font_pyramid;пирамида&font_end;.</string>
-    <string name="tile_content_type_windmill_desc_first">Это большая &font_wood;Мельница&font_end;. Кажется, внутри есть &font_food;еда&font_end;!</string>
-    <string name="tile_content_type_windmill_desc_second">Это большая &font_wood;Мельница&font_end;. В ней ничего нет.</string>
+    <string name="tile_content_type_windmill_desc_first">Это большая &font_wood;мельница&font_end;. Кажется, внутри есть &font_food;еда&font_end;!</string>
+    <string name="tile_content_type_windmill_desc_second">Это большая &font_wood;мельница&font_end;. В ней ничего нет.</string>
 
     <string name="teleport_stone_teleported_to_x_y">Вы телепортировались на &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end;!</string>
 
     <string name="merchant_master_marks_exchanged_message">Ах, это снова ты… Спасибо за твой вклад в &font_gold;Гильдию торговцев&font_end;.</string>
     <string name="merchant_master_no_business_with_you">Мне нечего с тобой обсуждать…</string>
-    <string name="merchant_master_marks_exchange_message">Ах, здравствуй! Как я погляжу, к тебя есть &font_cyan;Отметка торговца&font_end;…&br;&br;Ты не хочешь помочь &font_gold;Гильдии торговцев&font_end;? &font_cyan;%1$d&font_end; &font_cyan;Отметок &font_end;будет достаточно.&br;&br;Взамен я дам тебе это:&br;%2$s.</string>
+    <string name="merchant_master_marks_exchange_message">Ах, здравствуй! Как я погляжу, у тебя есть &font_cyan;Отметка торговца&font_end;…&br;&br;Ты не хочешь помочь &font_gold;Гильдии торговцев&font_end;? &font_cyan;%1$d&font_end; &font_cyan;Отметок &font_end;будет достаточно.&br;&br;Взамен я дам тебе это:&br;%2$s.</string>
     <string name="merchant_master_marks_exchange_success_message">Вот и они! Спасибо!&br;&br;Как я и обещал, этот предмет %1$s для тебя!&br;Ах, и добро пожаловать в &font_gold;Гильдию торговцев&font_end;…</string>
     <string name="merchant_master_not_enough">Боюсь, у тебя недостаточно &font_cyan;Отметок торговца &font_end;с собой…&br;&br;Возвращайся, когда у тебя будет &font_cyan;%1$d&font_end;.</string>
 
@@ -1918,9 +1918,9 @@
     <string name="temple_explore_2_b_first_button_open_no">Нет</string>
     <string name="temple_explore_2_b_first_button_open_decide_to_open_1" tools:ignore="PluralsCandidate">Вы открываете &font_wood;деревянный сундук &font_end;и находите &font_gold;%1$d золота&font_end;!</string>
     <string name="temple_explore_2_b_first_button_open_decide_to_open_2">Порадовавшись находке, вы видите окно, странным образом выходящее на территорию вне храма. (Как это вообще возможно? Вы же падали вниз по спиральной горке!)</string>
-    <string name="temple_explore_2_b_first_button_open_decide_to_open_3">Вы попадаете на территорию вне храма через окно и понимаете, что вход в храм удивительно завален камнями. Лучше оставить этот храм в покое.</string>
+    <string name="temple_explore_2_b_first_button_open_decide_to_open_3">Вы попадаете на территорию вне храма через окно и понимаете, что вход в храм удивительным образом завален камнями. Лучше оставить этот храм в покое.</string>
     <string name="temple_explore_2_b_first_button_open_decide_to_not_open_1">Вы решаете не открывать &font_wood;деревянный сундук&font_end;. Вы видите окно, странным образом выходящее на территорию вне храма. (Как это вообще возможно? Вы же падали вниз по спиральной горке!)</string>
-    <string name="temple_explore_2_b_first_button_open_decide_to_not_open_2">Вы попадаете на территорию вне храма через окно и понимаете, что вход в храм удивительно завален камнями. Лучше оставить этот храм в покое..</string>
+    <string name="temple_explore_2_b_first_button_open_decide_to_not_open_2">Вы попадаете на территорию вне храма через окно и понимаете, что вход в храм удивительным образом завален камнями. Лучше оставить этот храм в покое..</string>
     <string name="temple_explore_2_b_second_button_1">После того как вы нажали на вторую кнопку, что-то ударяет вас по голове, и вы теряете сознание.</string>
     <string name="temple_explore_2_b_second_button_2">Вы очнулись на территории вне храма. Вы понимаете, что то, что раньше было входом, завалено камнями.</string>
     <string name="temple_explore_3_a">Стоило вам перевести рычаг, как открылась секретная стена, и вы проходите внутрь. За стеной стоит &font_gold;золотой сундук&font_end;! Открыть его?</string>
@@ -1931,10 +1931,10 @@
     <string name="temple_explore_3_a_not_opening_1">Вы решили не открывать сундук. Вы замечаете, что рядом со стеной есть дверь. Вы открываете её и видите свет в конце пути.</string>
     <string name="temple_explore_3_a_not_opening_2">Как только вы вышли наружу, сверху посыпались камни и завалили вход.</string>
     <string name="temple_explore_3_b">Стоило вам перевести рычаг, как открылась дверь. Вы проходите через неё. Вы оказываетесь в коротком коридоре, в конце которого два пути: один из них кажется темнее. По какому вы пойдёте?</string>
-    <string name="temple_explore_3_b_darker">&font_cyan;Тёмный путь&font_end;</string>
-    <string name="temple_explore_3_b_normal">&font_cyan;Обычный путь&font_end;</string>
-    <string name="temple_explore_4_a_1">Вы идёте по более тёмному пути, какое-то время вы идёте и в итоге упираетесь в стену. Вы поворачиваетесь, чтобы вернуться, но и с этой стороны натыкаетесь на стену.</string>
-    <string name="temple_explore_4_a_2">Вы в ловушке. Спустя много времени вы теряете сознание…</string>
+    <string name="temple_explore_3_b_darker">&font_cyan;По тёмному пути&font_end;</string>
+    <string name="temple_explore_3_b_normal">&font_cyan;По обычному пути&font_end;</string>
+    <string name="temple_explore_4_a_1">Вы идёте по более тёмному пути, какое-то время вы идёте и в итоге упираетесь в стену. Вы разворачиваетесь, чтобы вернуться, но и с этой стороны натыкаетесь на стену.</string>
+    <string name="temple_explore_4_a_2">Вы в ловушке. Проходит много времени, и в итоге вы теряете сознание…</string>
     <string name="temple_explore_4_a_3">Вы очнулись на территории вне храма. Вы понимаете, что то, что раньше было входом, завалено камнями.</string>
     <string name="temple_explore_4_b_1">Вы идёте по обычному пути и через какое-то время находите стену со странным &font_red;факелом&font_end;. Что вы сделаете, &font_cyan;потянете его &font_end;или &font_cyan;повернёте &font_end;в сторону?</string>
     <string name="temple_explore_4_b_pull_it">&font_cyan;Потянуть&font_end;</string>
@@ -1950,9 +1950,9 @@
     <string name="temple_already_explored">Невозможно зайти внутрь… Вход заблокирован камнями.</string>
 
     <string name="inn_title">Таверна</string>
-    <string name="inn_question_rest_in_the" tools:ignore="PluralsCandidate">Вы хотите отдохнуть за &font_gold;%1$d Золота&font_end;?</string>
-    <string name="inn_rest_inn">Вы отдохнули в Таверне.</string>
-    <string name="inn_not_enough_gold">У вас недостаточно золота, чтобы отдохнуть в &font_inn;Таверне&font_end;.</string>
+    <string name="inn_question_rest_in_the" tools:ignore="PluralsCandidate">Вы хотите отдохнуть за &font_gold;%1$d золота&font_end;?</string>
+    <string name="inn_rest_inn">Вы отдохнули в таверне.</string>
+    <string name="inn_not_enough_gold">У вас недостаточно золота, чтобы отдохнуть в &font_inn;таверне&font_end;.</string>
     <string name="inn_already_rested">Вам не нужно сейчас отдыхать.</string>
 
     <string name="monster_info_stats_at_level_1">(Параметры на уровне &font_cyan;%1$d&font_end;)</string>
@@ -1964,13 +1964,13 @@
     <string name="monster_info_speed">&font_speed;Скорость&font_end;: &font_speed;%1$d&font_end;</string>
     <string name="monster_info_actions" tools:ignore="UnusedResources">Действия:</string>
     <string name="monster_info_action" tools:ignore="UnusedResources"><t>%1$s - &font_attack;Атака&font_end;: &font_attack;%2$d&font_end;</t></string>
-    <string name="monster_info_challenge_rating">&font_white;Рейтинг испытания&font_end;: &font_cyan;%1$d&font_end;</string>
+    <string name="monster_info_challenge_rating">&font_white;Рейтинг испытаний&font_end;: &font_cyan;%1$d&font_end;</string>
 
     <string name="skill_tree_button_with_sp">Дерево навыков (&font_cyan;%1$d&font_end; очков опыта (SP))</string>
     <string name="skill_sacrificer">&font_red;Жертвующий&font_end;</string>
-    <string name="skill_sacrificer_description">\"Принести в жертву\" труп монстра богам. Они наградят вас небольшим количеством &font_gold;Золота&font_end;.</string>
+    <string name="skill_sacrificer_description">\"Принести в жертву\" труп монстра богам. Они наградят вас небольшим количеством &font_gold;золота&font_end;.</string>
     <string name="skill_sacrificed_corpse_to_the_gods">Вы принесли в жертву %1$s… Вы загадочным образом получаете &font_gold;%2$d &font_end;золота…</string>
-    <string name="skill_points_needed_short">Необходимо: &font_cyan;%1$d&font_end; SP</string>
+    <string name="skill_points_needed_short">Необходимо: &font_cyan;%1$d&font_end; очков</string>
     <string name="skill_points_needed">Необходимо &font_cyan;%1$d &font_end;очков опыта.</string>
     <string name="skill_mule">&font_wood;Мул&font_end;</string>
     <string name="skill_mule_description">Увеличивает количество предметов, которое вы можете нести, на &bold;&font_cyan;5&font_end;&bold_end;</string>
@@ -1984,7 +1984,7 @@
     <string name="skill_hiker">&font_cyan;Турист&font_end;</string>
     <string name="skill_hiker_description">Снижает темп роста голода при ходьбе.</string>
     <string name="skill_unbreakable">&font_health;Несломленный&font_end;</string>
-    <string name="skill_unbreakable_description">Если атака &font_red;Монстра &font_end;убила бы вас, вы выдерживаете и выживаете с &font_health;1 &font_end;очком здоровья. Остерегайтесь голода и погодных условий…</string>
+    <string name="skill_unbreakable_description">Если атака &font_red;монстра &font_end;должна убить вас, вы выдерживаете и выживаете с &font_health;1 &font_end;очком здоровья. Остерегайтесь голода и погодных условий…</string>
     <string name="skill_unbreakable_skill_saves_you">Ваш навык &font_cyan;Несломленного&font_end; спасает вас!</string>
     <string name="skill_berserk">&font_attack;Берсерк&font_end;</string>
     <string name="skill_berserk_description">Использование команды "Атака" в бою увеличивает урон на каждом ходу на &font_cyan;10%&font_end;. При использовании разных действий в бою бонус от &font_cyan;Берсерка &font_end;исчезает.</string>
@@ -1997,21 +1997,21 @@
     <string name="skill_blacksmith">&font_stone;Кузнец&font_end;</string>
     <string name="skill_blacksmith_description">Повышает шанс изготовить лучшее оружие, щиты и доспехи. Чем больше развит навык &font_cyan;Кузнец&font_end;, тем лучше результат.</string>
     <string name="skill_photosynthetic">&font_plant;Фотосинтез&font_end;</string>
-    <string name="skill_photosynthetic_description">При &font_yellow;Солнечной &font_end;погоде голод не повышается.</string>
+    <string name="skill_photosynthetic_description">При &font_yellow;солнечной &font_end;погоде голод не повышается.</string>
     <string name="skill_photosynthetic_absorbed_from_sun">Вы поглотили энергию &font_yellow;солнца &font_end;благодаря своему навыку &font_cyan;Фотосинтез&font_end;.</string>
     <string name="skill_analyst">&font_cyan;Аналитик&font_end;</string>
-    <string name="skill_analyst_description">Анализировать &font_red;Монстра&font_end;, чтобы узнать его основные характеристики.</string>
+    <string name="skill_analyst_description">Анализировать &font_red;монстра&font_end;, чтобы узнать его основные характеристики.</string>
     <string name="skill_analysed_monster">Проанализирован монстр %1$s!.</string>
     <string name="skill_failed_analyse_monster">Не удалось проанализировать монстра %1$s…</string>
     <string name="skill_efficient">&font_cyan;Эффективность&font_end;</string>
     <string name="skill_efficient_description">Снижает износ инструмента на &font_cyan;25&font_end;% при его использовании.</string>
     <string name="skill_professional">&font_cyan;Профессионал&font_end;</string>
     <string name="skill_professional_description">Снижает износ инструмента на &font_cyan;50&font_end;% при его использовании.</string>
-    <string name="skill_efficient_professional_saved_tool_usage">Сэкономлено %1$s использования инструмента благодаря вашему навыку %2$s.</string>
+    <string name="skill_efficient_professional_saved_tool_usage">Сэкономлено %1$s жизни инструмента благодаря вашему навыку %2$s.</string>
     <string name="skill_discrete">&font_cyan;Незаметность&font_end;</string>
-    <string name="skill_discrete_description">Снижает риск быть "атакованным" &font_red;Монстром &font_end;на &font_cyan;33&font_end;%.</string>
+    <string name="skill_discrete_description">Снижает риск быть "атакованным" &font_red;монстром &font_end;на &font_cyan;33&font_end;%.</string>
     <string name="skill_invisible">&font_cyan;Невидимость&font_end;</string>
-    <string name="skill_invisible_description">Снижает риск быть "атакованным" &font_red;Монстром &font_end;на &font_cyan;66&font_end;%.</string>
+    <string name="skill_invisible_description">Снижает риск быть "атакованным" &font_red;монстром &font_end;на &font_cyan;66&font_end;%.</string>
     <string name="skill_invisible_discrete_avoided_monster_sensing_you">Вы избежали монстра %1$s благодаря своему навыку %2$s.</string>
     <string name="skill_carnivore">&font_red;Хищник&font_end;</string>
     <string name="skill_carnivore_description">Поедание сырого мяса восстанавливает &font_cyan;10 &font_end;очков голода.</string>
@@ -2019,12 +2019,12 @@
     <string name="skill_cannibal_description">Поедание трупов восстанавливает очки &font_hunger;голода&font_end;.</string>
     <string name="skill_cannibal_ate_humanoid_corpse">Вы съели %1$s и восстановили &font_cyan;%2$d &font_end;голода.</string>
     <string name="skill_meditator">&font_mana;Мыслитель&font_end;</string>
-    <string name="skill_meditator_description">&font_gold;Медитация &font_end;восстанавливает &font_mana;Ману&font_end;.</string>
+    <string name="skill_meditator_description">&font_gold;Медитация &font_end;восстанавливает &font_mana;ману&font_end;.</string>
     <string name="skill_meditator_action_name">&font_mana;Медитировать&font_end;</string>
     <string name="skill_meditator_action_description">Вы &font_mana;помедитировали&font_end; и восстановили &font_mana;10 &font_end;очков маны.</string>
     <string name="skill_meditator_action_failed_description">Вы слишком голодны для этого.</string>
     <string name="skill_mana_eater">&font_mana;Пожиратель маны&font_end;</string>
-    <string name="skill_mana_eater_description">Немного восстановить голод, используя &font_mana;Ману&font_end;.</string>
+    <string name="skill_mana_eater_description">Немного восстановить голод, используя &font_mana;ману&font_end;.</string>
     <string name="skill_mana_eater_action_name">&font_mana;Съесть ману&font_end;</string>
     <string name="skill_mana_eater_action_description">Вы съели &font_mana;ману&font_end; и восстановили &font_cyan;10 &font_end;очков голода.</string>
     <string name="skill_mana_eater_action_failed_description">У вас недостаточно &font_mana;маны &font_end;для этого.</string>
@@ -2035,7 +2035,7 @@
     <string name="skill_treasure_hunter">&font_gold;Охотник за сокровищами&font_end;</string>
     <string name="skill_treasure_hunter_description">Узнать, сколько спрятанных предметов осталось на острове.</string>
     <string name="skill_explorer">&font_cyan;Исследователь&font_end;</string>
-    <string name="skill_explorer_description">Открыть &font_cyan;координаты&font_end; случайного &font_cyan;Города&font_end;, &font_cyan;Поселения &font_end;или &font_cyan;Деревни &font_end;на острове (если такие есть).</string>
+    <string name="skill_explorer_description">Открыть &font_cyan;координаты&font_end; случайного &font_cyan;города&font_end;, &font_cyan;поселения &font_end;или &font_cyan;деревни &font_end;на острове (если такие есть).</string>
     <string name="skill_contractor">&font_quest;Подрядчик&font_end;</string>
     <string name="skill_contractor_description">Узнать, сколько &font_cyan;заданий&font_end; ещё осталось на острове.</string>
     <string name="skill_trader">&font_gold;Торговец&font_end;</string>
