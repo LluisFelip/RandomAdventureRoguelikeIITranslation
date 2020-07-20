@@ -3465,7 +3465,7 @@
     <string name="wise_ascend_message_confirmation">Si vous démarrez l' &asterisk_ascend_color;Ascension&font_end;, vous vous retrouverez au niveau 1. Vous oublierez touts les îles, quêtes, etc…, et vous perdrez tous vos objets, votre argent… MAIS, vos stats seront améliorées et vous obtiendrez une &font_red;Flamme &font_end;de l'&asterisk_ascend_color;Ascension&font_end;… !</string>
     <string name="wise_ascend_message_confirmation_2">Êtes-vous sûr de vouloir démarrer l'&asterisk_ascend_color;Ascension&font_end; ?</string>
 
-    <string name="ascend_toast">Tout s'assombri…</string>
+    <string name="ascend_toast">Tout s'assombrit…</string>
     <string name="ascend_end_toast">… vous vous sentez à nouveau vivant…</string>
 
     <string name="title_the_ascended_male">%1$s, l'&asterisk_ascend_color;Ascensionné&font_end;</string>
@@ -3477,15 +3477,15 @@
     <string name="tile_content_stairway_to_hell">&font_wood;Marches &font_end;vers l'&font_red;Enfer&font_end;</string>
     <string name="tile_content_highway_to_heaven">&font_corrupted_god;Autoroute &font_end;vers le &font_heaven;Paradis&font_end;</string>
 
-    <string name="main_story_stairway_to_hell_advice_wont_be_able_to_come_back_to_island">If you enter the %1$s you won\'t be able to come back to %2$s!&br;&br;Enter anyway?</string>
-    <string name="main_story_7_stairway_to_hell_appears">A &font_wood;Stairway &font_end;To &font_red;Hell &font_end;appears!</string>
+    <string name="main_story_stairway_to_hell_advice_wont_be_able_to_come_back_to_island">Si vous empruntez les %1$s vous ne pourrez plus retourner à %2$s !&br;&br;Y aller tout de même ?</string>
+    <string name="main_story_7_stairway_to_hell_appears">Des &font_wood;Marches &font_end;menant en &font_red;Enfer &font_end;apparaissent !</string>
 
-    <string name="main_story_7_the_tyrant_message_6_new">Use this &font_wood;Stairway &font_end;To &font_red;Hell &font_end;to find him…</string>
+    <string name="main_story_7_the_tyrant_message_6_new">Empruntez les &font_wood;Marches &font_end;menant en &font_red;Enfer &font_end;pour le retrouver…</string>
 
-    <string name="text_cant_move_here">Can\'t move here…</string>
+    <string name="text_cant_move_here">Impossible d'aller ici…</string>
 
-    <string name="tile_content_type_cassette_collector">&font_alchemist;Cassette &font_end;&font_gold;Collector&font_end;</string>
-    <string name="tile_content_type_cassette_collector_with_gem">&font_alchemist;Cassette &font_end;&font_gold;Collector &font_end;(%s)</string>
+    <string name="tile_content_type_cassette_collector">&font_gold;Collectionneur &font_end;de &font_alchemist;Cassettes&font_end;</string>
+    <string name="tile_content_type_cassette_collector_with_gem">&font_gold;Collectionneur &font_end;de (&font_alchemist;Cassettes&font_end;%s)</string>
 
     <string name="cassette_collector_message">Hello! I\'m a &font_alchemist;Cassette &font_end;&font_gold;Collector&font_end;!&br;&br;If you happen to have any &font_alchemist;Cassette&font_end;, would you give it to me? I would give you a %1$s in exchange…</string>
     <string name="cassette_collector_you_dont_have_any_cassette">You don\'t have any &font_alchemist;Cassette&font_end;…</string>
