@@ -3477,24 +3477,24 @@
     <string name="tile_content_stairway_to_hell">&font_wood;Marches &font_end;vers l'&font_red;Enfer&font_end;</string>
     <string name="tile_content_highway_to_heaven">&font_corrupted_god;Autoroute &font_end;vers le &font_heaven;Paradis&font_end;</string>
 
-    <string name="main_story_stairway_to_hell_advice_wont_be_able_to_come_back_to_island">Si vous empruntez les %1$s vous ne pourrez plus retourner à %2$s !&br;&br;Y aller tout de même ?</string>
+    <string name="main_story_stairway_to_hell_advice_wont_be_able_to_come_back_to_island">Si vous empruntez les %1$s vous ne pourrez plus retourner à %2$s !&br;&br;Le faire tout de même ?</string>
     <string name="main_story_7_stairway_to_hell_appears">Des &font_wood;Marches &font_end;menant en &font_red;Enfer &font_end;apparaissent !</string>
 
     <string name="main_story_7_the_tyrant_message_6_new">Empruntez les &font_wood;Marches &font_end;menant en &font_red;Enfer &font_end;pour le retrouver…</string>
 
     <string name="text_cant_move_here">Impossible d'aller ici…</string>
 
-    <string name="tile_content_type_cassette_collector">&font_gold;Collectionneur &font_end;de &font_alchemist;Cassettes&font_end;</string>
-    <string name="tile_content_type_cassette_collector_with_gem">&font_gold;Collectionneur &font_end;de (&font_alchemist;Cassettes&font_end;%s)</string>
+    <string name="tile_content_type_cassette_collector">&font_gold;Collectionneur &font_end;de &font_alchemist;cassettes&font_end;</string>
+    <string name="tile_content_type_cassette_collector_with_gem">&font_gold;Collectionneur &font_end;de (&font_alchemist;cassettes&font_end;%s)</string>
 
-    <string name="cassette_collector_message">Hello! I\'m a &font_alchemist;Cassette &font_end;&font_gold;Collector&font_end;!&br;&br;If you happen to have any &font_alchemist;Cassette&font_end;, would you give it to me? I would give you a %1$s in exchange…</string>
-    <string name="cassette_collector_you_dont_have_any_cassette">You don\'t have any &font_alchemist;Cassette&font_end;…</string>
+    <string name="cassette_collector_message">Salut toi ! Je suis un &font_gold;Collectionneur &font_end;de &font_alchemist;cassettes&font_end; !&br;&br;Si jamais vous trouviez des &font_alchemist;cassettes&font_end;, seriez vous assez aimable pour me les donner ? Je vous donnerais un %1$s en échange…</string>
+    <string name="cassette_collector_you_dont_have_any_cassette">Vous ne possédez aucune &font_alchemist;cassette&font_end;…</string>
 
-    <string name="collection_material">Material</string>
+    <string name="collection_material">Matériaux</string>
 
-    <string name="material_type_red_opal">&font_red;Red &font_end;&font_onyx;Opal&font_end;</string>
-    <string name="material_type_green_opal">&font_green;Green &font_end;&font_onyx;Opal&font_end;</string>
-    <string name="material_type_blue_opal">&font_blue;Blue &font_end;&font_onyx;Opal&font_end;</string>
+    <string name="material_type_red_opal">&font_onyx;Opale &font_end;&font_red;rouge&font_end;</string>
+    <string name="material_type_green_opal">&font_onyx;Opale &font_end;&font_green;verte&font_end;</string>
+    <string name="material_type_blue_opal">&font_onyx;Opale &font_end;&font_blue;bleue&font_end;</string>
 
     <string name="sphinx_info_with_ankh">You look at the giant &font_pyramid;Sphinx &font_end;and are amazed about its size and beauty. It seems pretty old.&br;&br;The &font_gold;Ankh &font_end;in your pocket starts to vibrate. Do you want to use it?</string>
     <string name="monster_appears">%s appears!</string>
