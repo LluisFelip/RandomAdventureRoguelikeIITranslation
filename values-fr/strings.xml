@@ -3496,42 +3496,42 @@
     <string name="material_type_green_opal">&font_onyx;Opale &font_end;&font_green;verte&font_end;</string>
     <string name="material_type_blue_opal">&font_onyx;Opale &font_end;&font_blue;bleue&font_end;</string>
 
-    <string name="sphinx_info_with_ankh">You look at the giant &font_pyramid;Sphinx &font_end;and are amazed about its size and beauty. It seems pretty old.&br;&br;The &font_gold;Ankh &font_end;in your pocket starts to vibrate. Do you want to use it?</string>
-    <string name="monster_appears">%s appears!</string>
+    <string name="sphinx_info_with_ankh">Vous observez le &font_pyramid;Sphinx &font_end;immense et vous êtes impressionné(e) par sa taille et sa beauté. Il a l'air assez ancien.&br;&br;L'&font_gold;Ânkh &font_end;dans votre poche se met à vibrer. Voulez-vous l'utiliser ?</string>
+    <string name="monster_appears">%s apparaît !</string>
 
-    <string name="monster_action_shadow_ray">Shadow Ray</string>
-    <string name="monster_action_infinity_punch">Infinity Punch</string>
-    <string name="monster_action_everything">Everything</string>
-    <string name="monster_action_annoying_bug">Annoying Bug</string>
-    <string name="monster_action_game_glitch">Game Glitch</string>
-    <string name="monster_action_reality_crash">Reality Crash</string>
+    <string name="monster_action_shadow_ray">Rayon sombre</string>
+    <string name="monster_action_infinity_punch">Poing infini</string>
+    <string name="monster_action_everything">Tout</string>
+    <string name="monster_action_annoying_bug">Bug énervant</string>
+    <string name="monster_action_game_glitch">Glitch du jeu</string>
+    <string name="monster_action_reality_crash">Distortion du réel</string>
 
-    <string name="item_info_ankh">It seems to have a small drawing of a &font_pyramid;Sphinx&font_end;…</string>
+    <string name="item_info_ankh">On dirait qu'il y a un symbole de &font_pyramid;Sphinx &font_end;dessus…</string>
 
-    <string name="inventory_use_red_opal">Use &font_red;Red &font_end;&font_onyx;Opal &font_end;to increase your max. hunger by &font_hunger;%1$d&font_end;.</string>
-    <string name="inventory_use_green_opal">Use &font_green;Green &font_end;&font_onyx;Opal &font_end;to increase your max. health by &font_health;%1$d&font_end;.</string>
-    <string name="inventory_use_blue_opal">Use &font_blue;Blue &font_end;&font_onyx;Opal &font_end;to increase your max. mana by &font_mana;%1$d&font_end;.</string>
-    <string name="inventory_use_infinity_energy">Use &font_infinity;Infinity &font_end;&font_cyan;Energy &font_end;to completely restore your &font_health;health &font_end;, &font_mana;mana &font_end;and &font_hunger;hunger&font_end;.</string>
+    <string name="inventory_use_red_opal">Utilisez une &font_onyx;opale &font_end;&font_red;rouge &font_end;pour augmenter votre faim max. de &font_hunger;%1$d&font_end;.</string>
+    <string name="inventory_use_green_opal">Utilisez une &font_onyx;opale &font_end;&font_green;verte &font_end;pour aumenter votre vie max. de &font_health;%1$d&font_end;.</string>
+    <string name="inventory_use_blue_opal">Utilisez une &font_onyx;opale &font_end;&font_blue;bleue &font_end;pour augmenter votre mana max. de &font_mana;%1$d&font_end;.</string>
+    <string name="inventory_use_infinity_energy">Utilisez &font_cyan;énergie &font_end;&font_infinity;infinie &font_end;pour récupérer de la &font_health;vie &font_end;, du &font_mana;mana &font_end;et de la &font_hunger;faim&font_end;.</string>
 
-    <string name="inventory_used_infinity_energy">Used &font_infinity;Infinity &font_end;&font_cyan;Energy&font_end;!</string>
+        <string name="inventory_used_infinity_energy">Vous avez utilisé &font_cyan;énergie &font_end;&font_infinity;infinie &font_end; !</string>
 
-    <string name="item_info_ascension_flame">You feel this &asterisk_ascend_color;Ascension &font_end;&font_red;Flame &font_end;is the most powerful thing you\'ve ever touched… You wonder what may this be used for…</string>
+    <string name="item_info_ascension_flame">Vous sentez que cette &font_red;flamme &font_end;de l'&asterisk_ascend_color;ascension&font_end;est la chose la plus puissante que vous ayez jamais touchée… Vous vous demandez à quoi elle peut bien servir…</string>
     <string name="settings_leaderboards">Classements</string>
 
 
-    <string name="tool_wasted">%1$s is wasted! Use a %2$s to repair it.</string>
-    <string name="tile_content_type_repair_kit">Repair Kit</string>
-    <string name="dark_orb_vibrates">The %1$s vibrates…</string>
-    <string name="tile_content_type_void_merchant">&font_void;Void &font_end;&font_gold;Merchant&font_end;</string>
+    <string name="tool_wasted">%1$s est inutilisable ! Utilisez un %2$s pour le réparer.</string>
+    <string name="tile_content_type_repair_kit">Kit de réparation</string>
+    <string name="dark_orb_vibrates">Le %1$s vibre…</string>
+    <string name="tile_content_type_void_merchant">&font_gold;Marchand &font_end;du &font_void;Néant&font_end;</string>
 
-    <string name="void_merchant_message_1">Hello…&br;&br;</string>
-    <string name="void_merchant_message_2">Do you… do you have a &font_dark_orb;Dark Orb&font_end;?&br;&br;Would you give it to me? I would give you a special &font_void;weapon &font_end;in exchange…</string>
-    <string name="void_merchant_message_dont_have">You don\'t have a &font_dark_orb;Dark Orb&font_end;… don\'t waste my time… Go waste yours…</string>
-    <string name="void_merchant_message_have">Oh my &font_void;void&font_end;…! Thanks… As I promised, this is for you…</string>
-    <string name="void_merchant_message_have_2">Come back if you have more…</string>
+    <string name="void_merchant_message_1">Bonjour…&br;&br;</string>
+    <string name="void_merchant_message_2">Est-ce que… tu aurais une &font_dark_orb;orbe obscure&font_end; ?&br;&br;Pourrais-tu me la donner ? Je te donnerais une &font_void;arme &font_end;spéciale en échange…</string>
+    <string name="void_merchant_message_dont_have">Tu n'as pas d'&font_dark_orb;orbe obscure&font_end;… ne me fait pas perdre mon temps… retourne gâcher le tien…</string>
+    <string name="void_merchant_message_have">Oh mon &font_void;néant&font_end;… ! Merci… Comme promis, voici pour toi…</string>
+    <string name="void_merchant_message_have_2">Reviens me voir si tu en trouve à nouveau…</string>
 
-    <string name="settings_show_gold_on_top">Show Gold on top</string>
-    <string name="skill_whip_mastery">&font_void;Whip &font_end;Mastery</string>
+    <string name="settings_show_gold_on_top">Afficher or en haut</string>
+    <string name="skill_whip_mastery">Maîtrise de &font_void;fouet&font_end;</string>
     <string name="skill_whip_mastery_desc">Attacking with a &font_void;Whip &font_end;in combat unlocks &font_void;Whip &font_end;Combat Skills.</string>
     <string name="weapon_type_whip">&font_void;Whip&font_end;</string>
 
