@@ -124,7 +124,7 @@
     </plurals>
     <plurals name="quest_kill_monsters_text_quest_screen" tools:ignore="MissingQuantity">
         <item quantity="one">Убей %1$s %2$s монстра</item>
-        <item quantity="other">Убей %1$s %2$s монстра</item>
+        <item quantity="other">Убей %1$s %2$s монстров</item>
     </plurals>
 
     <string name="menu_new_game">Новая игра</string>
@@ -2309,18 +2309,18 @@
     <string name="main_story_heaven_gate_advice_wont_be_able_to_come_back_to_island">Если вы войдёте в %1$s, то не сможете вернуться на %2$s!&br;&br;Войти?</string>
 
     <string name="professional_quest_giving_quest_0">Привет, герой! Хочешь изучить основы профессии %1$s?</string>
-    <string name="professional_quest_giving_quest_1_dialog">Принеси мне %1$s и я объясню остальное! Можешь &font_cyan;изготовить &font_end;это, если ты знаешь рецепт, или просто купить в &font_gold;магазине&font_end;.</string>
+    <string name="professional_quest_giving_quest_1_dialog">Принеси мне %1$s, и я объясню остальное! Можешь &font_cyan;изготовить &font_end;это, если ты знаешь рецепт, или просто купить в &font_gold;магазине&font_end;.</string>
     <string name="professional_quest_giving_quest_1_description">%1$s на &font_cyan;%2$d&font_end;, &font_cyan;%3$d &font_end;просит принести %4$s. Вы можете &font_cyan;изготовить &font_end;это, если знаете рецепт, или просто купить в &font_gold;магазине&font_end;.</string>
     <string name="professional_quest_giving_quest_1_check_if_have_tool_dialog">Ты принёс %1$s?</string>
     <string name="professional_quest_giving_quest_1_positive_have">Отлично! Дай взглянуть… Хорошо, всё сработает!</string>
     <string name="professional_quest_giving_quest_1_positive_dont_have">Мне жаль, но у тебя нет того, что мне нужно…</string>
     <string name="professional_quest_giving_quest_1_negative">Не переживай! Возвращайся, когда найдёшь!</string>
     <string name="professional_quest_giving_quest_2_dialog">Научиться профессии %1$s, используя %2$s.</string>
-    <string name="professional_quest_giving_quest_3_dialog_miner">Используй %1$s, чтобы &font_silver;добыть &font_end;из &font_silver;Скалы &font_end;&font_silver;камень &font_end;и руду.&br;&br;Принеси мне &font_cyan;%2$d &font_end;%3$s, чтобы завершить обучение.</string>
+    <string name="professional_quest_giving_quest_3_dialog_miner">Используй %1$s, чтобы &font_silver;добыть &font_end;из &font_silver;скалы &font_end;&font_silver;камень &font_end;и руду.&br;&br;Принеси мне &font_cyan;%2$d &font_end;%3$s, чтобы завершить обучение.</string>
     <string name="professional_quest_giving_quest_3_dialog_woodcutter">Используй %1$s, чтобы &font_wood;срубить &font_end;&font_wood;дерево &font_end;и получить &font_wood;древесину&font_end;.&br;&br;Принеси мне &font_cyan;%2$d &font_end;%3$s, чтобы завершить обучение.</string>
-    <string name="professional_quest_giving_quest_3_dialog_butcher">Используй %1$s, чтобы &font_red;разделать &font_end;&font_red;труп монстра &font_end;и получить &font_red;плоть монстра&font_end;.&br;&br;Принеси мне &font_cyan;%2$d &font_end;%3$s, чтобы завершить обучение.</string>
-    <string name="professional_quest_giving_quest_3_dialog_bughunter">Используй %1$s, чтобы &font_insect;поймать &font_end;&font_insect;Жука&font_end;.&br;&br;Принеси мне &font_cyan;%2$d &font_end;%3$s, чтобы завершить обучение.</string>
-    <string name="professional_quest_giving_quest_3_dialog_fisherman">Используй %1$s, чтобы &font_cyan;рыбачить &font_end;на &font_cyan;Рыбном месте&font_end;.&br;&br;Принеси мне &font_cyan;%2$d &font_end;%3$s, чтобы завершить обучение.</string>
+    <string name="professional_quest_giving_quest_3_dialog_butcher">Используй %1$s, чтобы &font_red;разделать &font_end;&font_red;труп монстра &font_end;и получить &font_red;мясо монстра&font_end;.&br;&br;Принеси мне &font_cyan;%2$d &font_end;%3$s, чтобы завершить обучение.</string>
+    <string name="professional_quest_giving_quest_3_dialog_bughunter">Используй %1$s, чтобы &font_insect;поймать &font_end;&font_insect;жука&font_end;.&br;&br;Принеси мне &font_cyan;%2$d &font_end;%3$s, чтобы завершить обучение.</string>
+    <string name="professional_quest_giving_quest_3_dialog_fisherman">Используй %1$s, чтобы &font_cyan;рыбачить &font_end;на &font_cyan;рыбном месте&font_end;.&br;&br;Принеси мне &font_cyan;%2$d &font_end;%3$s, чтобы завершить обучение.</string>
     <string name="professional_quest_giving_quest_3_dialog_furrier">Используй %1$s, чтобы &font_skin;освежевать &font_end;&font_red;труп монстра &font_end;и получить &font_skin;кожу&font_end;.&br;&br;Принеси мне &font_cyan;%2$d &font_end;%3$s, чтобы завершить обучение.</string>
     <string name="professional_quest_giving_quest_3_desc_miner">%1$s на &font_cyan;%2$d&font_end;, &font_cyan;%3$d &font_end;просит принести &font_cyan;%4$d &font_end;%5$s.</string>
     <string name="professional_quest_giving_quest_3_desc_woodcutter">%1$s на &font_cyan;%2$d&font_end;, &font_cyan;%3$d &font_end;просит принести &font_cyan;%4$d &font_end;%5$s.</string>
@@ -2332,11 +2332,11 @@
     <string name="professional_quest_giving_quest_4_negative">Возвращайся, когда соберёшь всё нужное…</string>
     <string name="professional_quest_giving_quest_4_positive_dont_have">Мне жаль, но, похоже, ты принёс не все необходимые материалы…</string>
     <string name="professional_quest_giving_quest_4_positive_have">Здорово! Ты их принёс! А знаешь что? Оставь себе.</string>
-    <string name="professional_step_5">Итак, это основы професии… &font_gold;Купи &font_end;или &font_cyan;изготовь &font_end;&font_cyan;инструмент &font_end;и используй его для извлечения материалов… Из материалов ты можешь &font_cyan;изготовить&font_end; &font_cyan;оружие&font_end;, &font_cyan;доспехи&font_end;, &font_cyan;зелья &font_end;и многое другое…</string>
-    <string name="professional_step_6">Вот, возьми этот %1$s! Удачи в твоих приключениях, герой!</string>
+    <string name="professional_step_5">Итак, это основы профессии… &font_gold;Купи &font_end;или &font_cyan;изготовь &font_end;&font_cyan;инструмент &font_end;и используй его для получения материалов… Из материалов ты можешь &font_cyan;изготовить&font_end; &font_cyan;оружие&font_end;, &font_cyan;доспехи&font_end;, &font_cyan;зелья &font_end;и многое другое…</string>
+    <string name="professional_step_6">Вот, возьми %1$s! Удачи в твоих приключениях, герой!</string>
     <string name="professional_no_quest_message">Теперь ты готов к успеху! Удачи, герой!</string>
 
-    <string name="merchant_abandon_quest_title">Оставить задание &font_gold;Торговца&font_end;</string>
+    <string name="merchant_abandon_quest_title">Оставить задание &font_gold;торговца&font_end;</string>
     <string name="merchant_abandon_quest_message">Вы уверены, что хотите отказаться от выполнения &italic;\"%1$s\"&italic_end;?</string>
 
     <string name="settings_language">&font_cyan;Язык&font_end;</string>
@@ -2348,7 +2348,7 @@
     <string name="monster_action_attack">атака</string>
     <string name="monster_action_tentacle">щупальце</string>
     <string name="monster_action_tentacles">щупальца</string>
-    <string name="monster_action_tendril">щупальце</string>
+    <string name="monster_action_tendril">побеги</string>
     <string name="monster_action_bite">укус</string>
     <string name="monster_action_claw">коготь</string>
     <string name="monster_action_claws">когти</string>
@@ -2419,7 +2419,7 @@
     <string name="monster_action_crush">разрушающий удар</string>
     <string name="monster_action_pincer">клешни</string>
     <string name="monster_action_stomp">раздавливающий удар</string>
-    <string name="monster_action_draining_kiss">забирающий силы поцелуй</string>
+    <string name="monster_action_draining_kiss">ослабляющий поцелуй</string>
     <string name="monster_action_chain">цепь</string>
     <string name="monster_action_pseudopod">ложноножки</string>
     <string name="monster_action_fork">вилка</string>
@@ -2493,12 +2493,12 @@
     <string name="achievement_name_romantic">Романтик</string>
     <string name="achievement_name_merchant">Торговец</string>
     <string name="achievement_name_merchant_master">Мастер-торговец</string>
-    <string name="achievement_name_well_done">Колодезная работа</string>
+    <string name="achievement_name_well_done">Молодца</string>
     <string name="achievement_name_bomberman">Сапёр</string>
     <string name="achievement_name_dont_touch_this">Не трогай это</string>
     <string name="achievement_name_my_treasure">Мое сокровище</string>
     <string name="achievement_name_mimic">Имитатор</string>
-    <string name="achievement_name_curiousity_killed_the_cat">Любопытной Варваре</string>
+    <string name="achievement_name_curiousity_killed_the_cat">Любопытной Варваре...</string>
     <string name="achievement_name_dissimulate">Маскировщик</string>
     <string name="achievement_name_mainstory_no_permadeath">Новые победы</string>
     <string name="achievement_name_mainstory_permadeath">Удалось!</string>
@@ -2531,17 +2531,17 @@
     <string name="achievement_desc_pet_master">Поймать 100 питомцев за одну игру</string>
     <string name="achievement_desc_skilled">Впервые выучить новый навык</string>
     <string name="achievement_desc_skill_master">Изучить 10 навыков за одну игру</string>
-    <string name="achievement_desc_wizard_apprentice">Изучить 3 Магических заклинания</string>
-    <string name="achievement_desc_wizard_master">Изучить 10 Магических заклинаний</string>
+    <string name="achievement_desc_wizard_apprentice">Изучить 3 магических заклинания</string>
+    <string name="achievement_desc_wizard_master">Изучить 10 магических заклинаний</string>
     <string name="achievement_desc_crafter">Вперваые изготовить предмет</string>
     <string name="achievement_desc_craft_artist">Изготовить 10 предметов за одну игру</string>
     <string name="achievement_desc_craft_master">Изготовить 100 предметов за одну игру</string>
     <string name="achievement_desc_good_things_come_in_trees">Впервые срубить дерево</string>
     <string name="achievement_desc_woodcutter">Срубить 10 деревьев за одну игру</string>
     <string name="achievement_desc_lumberjack">Срубить 100 деревьев за одну игру</string>
-    <string name="achievement_desc_is_this_mine">Впервые заняться добычей</string>
-    <string name="achievement_desc_haulier">Заниматься добычей 10 раз за одну игру</string>
-    <string name="achievement_desc_miner">Заниматься добычей 100 раз за одну игру</string>
+    <string name="achievement_desc_is_this_mine">Впервые заняться добычей руды</string>
+    <string name="achievement_desc_haulier">Добыть руду 10 раз за одну игру</string>
+    <string name="achievement_desc_miner">Добыть руду 100 раз за одну игру</string>
     <string name="achievement_desc_its_mine">Впервые открыть новый тип рудника</string>
     <string name="achievement_desc_better_fish_to_fry">Впервые порыбачить</string>
     <string name="achievement_desc_seems_a_bit_fishy_to_me">Порыбачить 10 раз за одну игру</string>
@@ -2555,24 +2555,24 @@
     <string name="achievement_desc_the_fast_and_the_furrious">Впервые освежевать монстра</string>
     <string name="achievement_desc_skinner">Освежевать 10 монстров за одну игру</string>
     <string name="achievement_desc_furrier">Освежевать 100 монстров за одну игру</string>
-    <string name="achievement_desc_blacksmith">Впервые улучшить Оборудование у Кузнеца</string>
-    <string name="achievement_desc_romantic">Купить растение у \'Флориста\'</string>
-    <string name="achievement_desc_merchant">Впервые получить Отметку Торговца</string>
+    <string name="achievement_desc_blacksmith">Впервые улучшить Оборудование у кузнеца</string>
+    <string name="achievement_desc_romantic">Купить растение у \'флориста\'</string>
+    <string name="achievement_desc_merchant">Впервые получить отметку торговца</string>
     <string name="achievement_desc_merchant_master">Собрать все 28 Отметок Торговца</string>
-    <string name="achievement_desc_well_done">Собрать ману из Колодца с помощью Железного ведра</string>
+    <string name="achievement_desc_well_done">Собрать ману из колодца железным ведром</string>
     <string name="achievement_desc_bomberman">Бросить бомбу в монстра</string>
-    <string name="achievement_desc_dont_touch_this">Не открывать Серебряный сундук в Храме</string>
-    <string name="achievement_desc_my_treasure">Открыть Серебряный сундук в Храме</string>
+    <string name="achievement_desc_dont_touch_this">Не открывать серебряный сундук в Храме</string>
+    <string name="achievement_desc_my_treasure">Открыть серебряный сундук в Храме</string>
     <string name="achievement_desc_mimic">Открыть Сундук Имитатора</string>
     <string name="achievement_desc_curiousity_killed_the_cat">Зайти в раздел меню "Подробнее"</string>
     <string name="achievement_desc_dissimulate">Очистить записи в Чистилище</string>
-    <string name="achievement_desc_mainstory_no_permadeath">Впервые пройти Основную историю в Обычном режиме</string>
-    <string name="achievement_desc_mainstory_permadeath">Впервые пройти Основную историю в режиме Хардкор</string>
+    <string name="achievement_desc_mainstory_no_permadeath">Полностью пройти основную историю в Обычном режиме</string>
+    <string name="achievement_desc_mainstory_permadeath">Полностью пройти основную историю в режиме Хардкор</string>
     <string name="achievement_desc_encyclokiller">Убить все типы монстров</string>
-    <string name="achievement_desc_capture_tyrant">Схватить Тирана</string>
-    <string name="achievement_desc_capture_devil">Схватить Дьявола</string>
-    <string name="achievement_desc_capture_corrupted_god">Схватить Извращённого Бога</string>
-    <string name="achievement_desc_gotta_catch_em_all">Схватить всех монстров в игре</string>
+    <string name="achievement_desc_capture_tyrant">Поймать Тирана</string>
+    <string name="achievement_desc_capture_devil">Поймать Дьявола</string>
+    <string name="achievement_desc_capture_corrupted_god">Поймать Извращённого Бога</string>
+    <string name="achievement_desc_gotta_catch_em_all">Поймать всех монстров в игре</string>
     <string name="achievement_desc_animal_lover">Подружиться со всеми животными в игре</string>
 
     <string name="quest_bring_animal_text_giving">Ох… была у меня мечта… Я хотел бы увидеть животное &font_animal;%1$s &font_end;хотя бы раз в жизни… Не мог бы ты его мне привести?</string>
@@ -2581,8 +2581,8 @@
     <string name="quest_bring_animal_text_negative">Боюсь ты не привёл &font_animal;%1$s &font_end;с собой… Возвращайся, когда найдёшь его, ты меня очень порадуешь!</string>
     <string name="quest_bring_animal_text_bring">Ты нашёл животное &font_animal;%1$s&font_end;? Покажи!</string>
 
-    <string name="tile_content_type_island_map">&font_gold;Карта &font_end;&font_cyan;Острова&font_end;</string>
-    <string name="item_info_island_map">Используйте эту &font_gold;Карту &font_end;&font_cyan;Острова&font_end;, чтобы увидеть карту острова без необходимости его исследовать.&br;&br;(Если вы хотите завершить остров на 100%, вам придётся его исследовать.)</string>
+    <string name="tile_content_type_island_map">&font_gold;Карта &font_end;&font_cyan;острова&font_end;</string>
+    <string name="item_info_island_map">Используйте эту &font_gold;карту &font_end;&font_cyan;острова&font_end;, чтобы увидеть карту острова без необходимости его исследовать.&br;&br;(Если вы хотите завершить остров на 100%, вам придётся его исследовать.)</string>
     <string name="island_map_island_name">(&font_cyan;%1$s&font_end;)</string>
 
     <string name="settings_change_language_title">Сменить язык</string>
@@ -2590,37 +2590,37 @@
 
     <string name="weapon_type_staff">&font_mana;Посох&font_end;</string>
 
-    <string name="item_wood_staff">&font_wood;Деревянный&font_end; Посох</string>
-    <string name="item_bone_staff">&font_bone;Костяной&font_end; Посох</string>
-    <string name="item_copper_staff">&font_copper;Медный&font_end; Посох</string>
-    <string name="item_tin_staff">&font_tin;Оловянный&font_end; Посох</string>
-    <string name="item_iron_staff">&font_iron;Железный&font_end; Посох</string>
-    <string name="item_bronze_staff">&font_bronze;Бронзовый&font_end; Посох</string>
-    <string name="item_silver_staff">&font_silver;Серебряный&font_end; Посох</string>
-    <string name="item_gold_staff">&font_gold;Золотой&font_end; Посох</string>
-    <string name="item_diamond_staff">&font_diamond;Алмазный&font_end; Посох</string>
-    <string name="item_obsidian_staff">&font_obsidian;Обсидиановый&font_end; Посох</string>
+    <string name="item_wood_staff">&font_wood;Деревянный&font_end; посох</string>
+    <string name="item_bone_staff">&font_bone;Костяной&font_end; посох</string>
+    <string name="item_copper_staff">&font_copper;Медный&font_end; посох</string>
+    <string name="item_tin_staff">&font_tin;Оловянный&font_end; посох</string>
+    <string name="item_iron_staff">&font_iron;Железный&font_end; посох</string>
+    <string name="item_bronze_staff">&font_bronze;Бронзовый&font_end; посох</string>
+    <string name="item_silver_staff">&font_silver;Серебряный&font_end; посох</string>
+    <string name="item_gold_staff">&font_gold;Золотой&font_end; посох</string>
+    <string name="item_diamond_staff">&font_diamond;Алмазный&font_end; посох</string>
+    <string name="item_obsidian_staff">&font_obsidian;Обсидиановый&font_end; посох</string>
 
-    <string name="skill_staff_mastery">Владение &font_mana;Посохом&font_end;</string>
-    <string name="skill_staff_mastery_description">Атака &font_mana;Посохом &font_end;в бою разблокирует Боевые навыки &font_mana;Посоха&font_end;.</string>
+    <string name="skill_staff_mastery">Владение &font_mana;посохом&font_end;</string>
+    <string name="skill_staff_mastery_description">Атака &font_mana;посохом &font_end;в бою разблокирует боевые навыки для &font_mana;посоха&font_end;.</string>
     <string name="weapon_skill_staff_hit">&font_skill_attack;Удар&font_end;</string>
     <string name="weapon_skill_staff_hit_desc">Нанести удар по врагу.</string>
     <string name="weapon_skill_staff_hit_attack">Вы наносите сильный удар по врагу!</string>
-    <string name="weapon_skill_staff_absorption">&font_skill_attack;Поглощение Маны&font_end;</string>
+    <string name="weapon_skill_staff_absorption">&font_skill_attack;Поглощение маны&font_end;</string>
     <string name="weapon_skill_staff_absorption_desc">Поглотить ману врага.</string>
     <string name="weapon_skill_staff_absorption_attack">Вы поглощаете ману врага!</string>
     <string name="weapon_skill_staff_great_hit">&font_skill_attack;Сильный удар&font_end;</string>
     <string name="weapon_skill_staff_great_hit_desc">Сильный удар по врагу.</string>
     <string name="weapon_skill_staff_great_hit_attack">Вы наносите сильный удар по врагу!</string>
-    <string name="weapon_skill_staff_mana_thief">&font_skill_attack;Похититель Маны&font_end;</string>
+    <string name="weapon_skill_staff_mana_thief">&font_skill_attack;Похититель маны&font_end;</string>
     <string name="weapon_skill_staff_mana_thief_desc">Украсть ману врага.</string>
     <string name="weapon_skill_staff_mana_thief_attack">Вы наносите удар и крадёте ману врага!</string>
     <string name="weapon_skill_staff_ultimate_strike">&font_skill_attack;Абсолютный удар&font_end;</string>
     <string name="weapon_skill_staff_ultimate_strike_desc">Сильный удар посохом по врагу.</string>
     <string name="weapon_skill_staff_ultimate_strike_attack">Вы со всей силы наносите удар по врагу!</string>
 
-    <string name="material_unicorn_horn">Рог &font_unicorn;Единорога&font_end;</string>
-    <string name="item_unicorn_horn_spear">Копьё из рога &font_unicorn;Единорога&font_end;</string>
+    <string name="material_unicorn_horn">Рог &font_unicorn;единорога&font_end;</string>
+    <string name="item_unicorn_horn_spear">Копьё из рога &font_unicorn;единорога&font_end;</string>
 
     <string name="material_goat_wool">&font_white;Кашемир&font_end;</string>
     <string name="material_tentacle">&font_pet;Щупальца&font_end;</string>
@@ -2631,36 +2631,36 @@
     <string name="material_emerald">&font_emerald;Изумруд&font_end;</string>
     <string name="material_void_dust">&font_void;Пыль бездны&font_end;</string>
 
-    <string name="skill_fire_mastery_description">Повысить навык управления &font_red;Огнём&font_end;, используя заклинания &font_red;Огня&font_end;.&br;&br;Повышение этого навыка позволит изучить новые заклинания этого типа магии, прочитав соответствующую книгу &font_mana;Заклинаний&font_end;.&br;&br;Каждый уровень немного снижает расход &font_mana;маны&font_end;.</string>
-    <string name="skill_water_mastery_description">Повысить навык управления &font_water;Водой&font_end;, используя заклинания &font_water;Воды&font_end;.&br;&br;Повышение этого навыка позволит изучить новые заклинания этого типа магии, прочитав соответствующую книгу &font_mana;Заклинаний&font_end;.&br;&br;Каждый уровень немного снижает расход &font_mana;маны&font_end;.</string>
-    <string name="skill_ice_mastery_description">Повысить навык управления &font_ice;Льдом&font_end;, используя заклинания &font_ice;Льда&font_end;.&br;&br;Повышение этого навыка позволит изучить новые заклинания этого типа магии, прочитав соответствующую книгу &font_mana;Заклинаний&font_end;.&br;&br;Каждый уровень немного снижает расход &font_mana;маны&font_end;.</string>
-    <string name="skill_air_mastery_description">Повысить навык управления &font_spell_wind;Воздухом&font_end;, используя заклинания &font_spell_wind;Воздуха&font_end;.&br;&br;Повышение этого навыка позволит изучить новые заклинания этого типа магии, прочитав соответствующую книгу &font_mana;Заклинаний&font_end;.&br;&br;Каждый уровень немного снижает расход &font_mana;маны&font_end;.</string>
-    <string name="skill_electric_mastery_description">Повысить навык управления &font_electric;Электричеством&font_end;, используя заклинания &font_electric;Электричества&font_end;.&br;&br;Повышение этого навыка позволит изучить новые заклинания этого типа магии, прочитав соответствующую книгу &font_mana;Заклинаний&font_end;.&br;&br;Каждый уровень немного снижает расход &font_mana;маны&font_end;.</string>
-    <string name="skill_earth_mastery_description">Повысить навык управления &font_wood;Землёй &font_end;, используя заклинания &font_wood;Замли&font_end;.&br;&br;Повышение этого навыка позволит изучить новые заклинания этого типа магии, прочитав соответствующую книгу &font_mana;Заклинаний&font_end;.&br;&br;Каждый уровень немного снижает расход &font_mana;маны&font_end;.</string>
-    <string name="skill_life_mastery_description">Повысить навык управления &font_health;Жизнью&font_end;, используя заклинания &font_health;Жизни &font_end;.&br;&br;Повышение этого навыка позволит изучить новые заклинания этого типа магии, прочитав соответствующую книгу &font_mana;Заклинаний&font_end;.&br;&br;Каждый уровень немного снижает расход &font_mana;маны&font_end;.</string>
-    <string name="skill_monster_mastery_description">Повысить навык управления &font_pet;Монстрами&font_end;, используя заклинания &font_pet;Монстров &font_end;.&br;&br;Повышение этого навыка позволит изучить новые заклинания этого типа магии, прочитав соответствующую книгу &font_mana;Заклинаний&font_end;.&br;&br;Каждый уровень немного снижает расход &font_mana;маны&font_end;.</string>
+    <string name="skill_fire_mastery_description">Повысить навык управления &font_red;огнём&font_end;, используя заклинания &font_red;огня&font_end;.&br;&br;Повышение этого навыка позволит изучить новые заклинания этого типа магии, прочитав соответствующую книгу &font_mana;заклинаний&font_end;.&br;&br;Каждый уровень немного снижает расход &font_mana;маны&font_end;.</string>
+    <string name="skill_water_mastery_description">Повысить навык управления &font_water;водой&font_end;, используя заклинания &font_water;воды&font_end;.&br;&br;Повышение этого навыка позволит изучить новые заклинания этого типа магии, прочитав соответствующую книгу &font_mana;заклинаний&font_end;.&br;&br;Каждый уровень немного снижает расход &font_mana;маны&font_end;.</string>
+    <string name="skill_ice_mastery_description">Повысить навык управления &font_ice;льдом&font_end;, используя заклинания &font_ice;льда&font_end;.&br;&br;Повышение этого навыка позволит изучить новые заклинания этого типа магии, прочитав соответствующую книгу &font_mana;заклинаний&font_end;.&br;&br;Каждый уровень немного снижает расход &font_mana;маны&font_end;.</string>
+    <string name="skill_air_mastery_description">Повысить навык управления &font_spell_wind;воздухом&font_end;, используя заклинания &font_spell_wind;воздуха&font_end;.&br;&br;Повышение этого навыка позволит изучить новые заклинания этого типа магии, прочитав соответствующую книгу &font_mana;заклинаний&font_end;.&br;&br;Каждый уровень немного снижает расход &font_mana;маны&font_end;.</string>
+    <string name="skill_electric_mastery_description">Повысить навык управления &font_electric;электричеством&font_end;, используя заклинания &font_electric;электричества&font_end;.&br;&br;Повышение этого навыка позволит изучить новые заклинания этого типа магии, прочитав соответствующую книгу &font_mana;заклинаний&font_end;.&br;&br;Каждый уровень немного снижает расход &font_mana;маны&font_end;.</string>
+    <string name="skill_earth_mastery_description">Повысить навык управления &font_wood;землёй &font_end;, используя заклинания &font_wood;земли&font_end;.&br;&br;Повышение этого навыка позволит изучить новые заклинания этого типа магии, прочитав соответствующую книгу &font_mana;заклинаний&font_end;.&br;&br;Каждый уровень немного снижает расход &font_mana;маны&font_end;.</string>
+    <string name="skill_life_mastery_description">Повысить навык управления &font_health;жизнью&font_end;, используя заклинания &font_health;жизни &font_end;.&br;&br;Повышение этого навыка позволит изучить новые заклинания этого типа магии, прочитав соответствующую книгу &font_mana;заклинаний&font_end;.&br;&br;Каждый уровень немного снижает расход &font_mana;маны&font_end;.</string>
+    <string name="skill_monster_mastery_description">Повысить навык управления &font_pet;монстрами&font_end;, используя заклинания &font_pet;монстров &font_end;.&br;&br;Повышение этого навыка позволит изучить новые заклинания этого типа магии, прочитав соответствующую книгу &font_mana;заклинаний&font_end;.&br;&br;Каждый уровень немного снижает расход &font_mana;маны&font_end;.</string>
 
-    <string name="skill_fire_mastery">Управление &font_red;Огнём&font_end;</string>
-    <string name="skill_water_mastery">Управление &font_water;Водой&font_end;</string>
-    <string name="skill_ice_mastery">Управление &font_ice;Льдом&font_end;</string>
-    <string name="skill_air_mastery">Управление &font_spell_wind;Воздухом&font_end;</string>
-    <string name="skill_electric_mastery">Управление &font_electric;Электричеством&font_end;</string>
-    <string name="skill_earth_mastery">Управление &font_wood;Землёй&font_end;</string>
-    <string name="skill_life_mastery">Управление &font_health;Жизнью&font_end;</string>
-    <string name="skill_monster_mastery">Управление &font_pet;Монстрами&font_end;</string>
+    <string name="skill_fire_mastery">Управление &font_red;огнём&font_end;</string>
+    <string name="skill_water_mastery">Управление &font_water;водой&font_end;</string>
+    <string name="skill_ice_mastery">Управление &font_ice;льдом&font_end;</string>
+    <string name="skill_air_mastery">Управление &font_spell_wind;воздухом&font_end;</string>
+    <string name="skill_electric_mastery">Управление &font_electric;электричеством&font_end;</string>
+    <string name="skill_earth_mastery">Управление &font_wood;землёй&font_end;</string>
+    <string name="skill_life_mastery">Управление &font_health;жизнью&font_end;</string>
+    <string name="skill_monster_mastery">Управление &font_pet;монстрами&font_end;</string>
 
     <string name="spell_book_need_skill_level">&italic;Ваш навык %1$s недостаточно высок, чтобы изучить это &font_mana;заклинание&font_end;&italic_end;</string>
 
-    <string name="stats_extra_max_mana">Макс. &font_mana;Мана&font_end;: &font_mana;%d&font_end;</string>
-    <string name="stats_extra_max_health">Макс. &font_health;Здоровье&font_end;: &font_health;%d&font_end;</string>
-    <string name="stats_extra_max_hunger">Макс. &font_hunger;Голод&font_end;: &font_hunger;%d&font_end;</string>
+    <string name="stats_extra_max_mana">Макс. &font_mana;мана&font_end;: &font_mana;%d&font_end;</string>
+    <string name="stats_extra_max_health">Макс. &font_health;здоровье&font_end;: &font_health;%d&font_end;</string>
+    <string name="stats_extra_max_hunger">Макс. &font_hunger;голод&font_end;: &font_hunger;%d&font_end;</string>
 
-    <string name="item_crocodile_tear_ring">Кольцо &font_glass;Крокодильих слёз&font_end;</string>
-    <string name="item_snake_scale_boots">Ботинки из &font_scale;Змеиной чешуи&font_end;</string>
-    <string name="item_spider_silk_pants">Штаны из &font_tundra;Паутинного шёлка&font_end;</string>
-    <string name="item_owl_feather_gloves">Перчатки из &font_wood;Совиных перьев&font_end;</string>
-    <string name="item_goat_wool_robes">Одеяние из &font_wood;Кашемира&font_end;</string>
-    <string name="item_emerald_amulet">Амулет из &font_emerald;Изумруда&font_end;</string>
+    <string name="item_crocodile_tear_ring">Кольцо из &font_glass;крокодильих слёз&font_end;</string>
+    <string name="item_snake_scale_boots">Ботинки из &font_scale;змеиной чешуи&font_end;</string>
+    <string name="item_spider_silk_pants">Штаны из &font_tundra;паутинного шёлка&font_end;</string>
+    <string name="item_owl_feather_gloves">Перчатки из &font_wood;совиных перьев&font_end;</string>
+    <string name="item_goat_wool_robes">Одеяние из &font_wood;кашемира&font_end;</string>
+    <string name="item_emerald_amulet">Амулет из &font_emerald;изумруда&font_end;</string>
 
     <string name="settings_vibration">Вибрация</string>
 
@@ -2686,11 +2686,11 @@
 
     <string name="dark_orb_gate_open">Перед вами неожиданно распахиваются &font_gate;Тёмные врата&font_end;, от них исходит много &italic;тёмной энергии&italic_end;…</string>
 
-    <string name="void_master_after_killing_text">Убив меня, ты устроил начало конца для себя и остальных смертных… готовься к появлению Монстров &font_void;Бездны &font_end;в своём мире…</string>
-    <string name="void_master_after_killing_text_2">Снова ты…? Что ж… Я удивлён, что ты смог забраться так далеко, учитывая Монстров &font_void;Бездны,&font_end; что ходят по всему миру… Мы ещё увидимся…</string>
-    <string name="void_master_after_killing_text_3">Что тут у нас… Ты носишь полный комплект &font_void;Бездны&font_end;… Прямо сейчас мне нечего предложить… Однако возвращайся, и я дам тебето, что тебе нужно…</string>
+    <string name="void_master_after_killing_text">Убив меня, ты устроил начало конца для себя и остальных смертных… готовься к появлению монстров &font_void;Бездны &font_end;в своём мире…</string>
+    <string name="void_master_after_killing_text_2">Снова ты…? Что ж… Я удивлён, что ты смог забраться так далеко, учитывая монстров &font_void;Бездны,&font_end; что ходят по всему миру… Мы ещё увидимся…</string>
+    <string name="void_master_after_killing_text_3">Что тут у нас… Ты носишь полный комплект &font_void;Бездны&font_end;… Прямо сейчас мне нечего тебе предложить… Однако возвращайся, и я дам тебе то, что тебе нужно…</string>
 
-    <string name="your_ship_appears_magically">Появляется ваш &font_wood;Корабль&font_end;…</string>
+    <string name="your_ship_appears_magically">Появляется ваш &font_wood;корабль&font_end;…</string>
 
     <string name="void_monster_prefix">&font_void;Бездны&font_end;</string>
 
@@ -2706,29 +2706,29 @@
     <string name="infinity_door_open">&font_gold;Дверь &font_end;&font_infinity;Бесконечности &font_end;(&font_green;Открытая&font_end;)</string>
     <string name="infinity_door_closed">&font_gold;Дверь &font_end;&font_infinity;Бесконечности &font_end;(&font_red;Закрытая&font_end;)</string>
     <string name="item_infinity_key">&font_gold;Ключ &font_end;&font_infinity;Бесконечности&font_end;</string>
-    <string name="button_open_with_infinity_key">Открыть с помощью &font_gold;Ключа &font_end;&font_infinity;Бесконечности&font_end;</string>
-    <string name="item_info_infinity_key">Загадочный сияющий &font_gold;Ключ&font_end;…</string>
+    <string name="button_open_with_infinity_key">Открыть с помощью &font_gold;ключа &font_end;&font_infinity;Бесконечности&font_end;</string>
+    <string name="item_info_infinity_key">Загадочный сияющий &font_gold;ключ&font_end;…</string>
     <string name="infinity_door_enter_title">&font_gold;Дверь &font_end;&font_infinity;Бесконечности&font_end;</string>
-    <string name="infinity_door_enter_message">Войти в &font_gold;Дверь &font_end;&font_infinity;Бесконечности&font_end;?</string>
-    <string name="entering_infinity_door">Вы входите в &font_gold;Дверь &font_end;&font_infinity;Бесконечности&font_end;</string>
-    <string name="infinity_door_opened">Вы открываете &font_gold;Дверь &font_end;&font_infinity;Бесконечности&font_end;!</string>
+    <string name="infinity_door_enter_message">Войти в &font_gold;дверь &font_end;&font_infinity;Бесконечности&font_end;?</string>
+    <string name="entering_infinity_door">Вы входите в &font_gold;дверь &font_end;&font_infinity;Бесконечности&font_end;</string>
+    <string name="infinity_door_opened">Вы открываете &font_gold;дверь &font_end;&font_infinity;Бесконечности&font_end;!</string>
 
-    <string name="infinity_door_closed_message">Эта дверь заперта, рядом с ней ничего нет… похоже, чтобы открыть ее нужен какой-то &font_gold;Ключ&font_end;…</string>
+    <string name="infinity_door_closed_message">Эта дверь заперта, рядом с ней ничего нет… похоже, чтобы открыть её нужен какой-то &font_gold;ключ&font_end;…</string>
 
     <string name="achievements_clear_title">Вы уверены?</string>
     <string name="collections_clear_title">Вы уверены?</string>
     <string name="collections_cleared">Коллекции очищены!</string>
-    <string name="cemetery_cleared">Кладбище очищено!</string>
+    <string name="cemetery_cleared">Чистилище очищено!</string>
     <string name="achievements_cleared">Достижения очищены!</string>
 
     <string name="button_unfold_output_text">Кнопка показа выводимого текста</string>
     <string name="settings_map_controls">Кнопки показа миникарты</string>
     <string name="settings_output_controls">Кнопка показа вывода</string>
-    <string name="forget_crafting_recipe_title">Забыть Рецепт изготовления?</string>
+    <string name="forget_crafting_recipe_title">Забыть рецепт изготовления?</string>
     <string name="forget_crafting_recipe_message">Вы хотите забыть, как изготавливать %1$s?</string>
 
     <string name="crafting_recipe_migration_alert_title">Рецепты изготовления</string>
-    <string name="crafting_recipe_migration_alert_message">&font_red;Злые Силы &font_end;украли ваши знания рецептов, однако &font_wise;Мудрец &font_end;научил вас всем рецептам, которые вы могли знать…&br;&br;&font_asterisk_creator;Создатель &font_end;надеется, что вы воспользуетесь ими с умом!</string>
+    <string name="crafting_recipe_migration_alert_message">&font_red;Злые Силы &font_end;украли ваши знания рецептов, однако &font_wise;мудрец &font_end;научил вас всем рецептам, которые вы могли знать…&br;&br;&font_asterisk_creator;Создатель &font_end;надеется, что вы воспользуетесь ими с умом!</string>
     <string name="crafting_recipe_legacy">[Наследие]</string>
     <string name="crafting_recipe_legacy_cant_learn">&italic;Вы не можете изучить рецепт Наследия&italic_end;</string>
 
@@ -2741,7 +2741,7 @@
     <string name="skill_pet_hoarder_description">Увеличить максимальное количество ваших &font_pet;питомцев-&font_end;&font_red;монстров&font_end; на &bold;&font_cyan;10&font_end;&bold_end;</string>
 
     <string name="ee_your_tongue_hurts">У вас болит язык… Что с ним не так?</string>
-    <string name="ee_kirito">Ой, вы полнучили загадочную скидку у %1$s!</string>
+    <string name="ee_kirito">Ой, вы получили загадочную скидку у %1$s!</string>
 
     <string name="only_placeholder">%1$s</string>
 
@@ -2762,11 +2762,11 @@
     <string name="title_noble_female">%1$s, &font_gold;Аристократка&font_end;</string>
     <string name="male">Мужчина</string>
     <string name="female">Женщина</string>
-    <string name="new_game_whats_your_sex">… какой у вас пол?</string>
+    <string name="new_game_whats_your_sex">… каков ваш пол?</string>
     <string name="title_unlocked">[Разблокировано звание: %1$s]</string>
     <string name="settings_show_player_title">Показать звание</string>
     <string name="settings_player_title">&font_cyan;Звание игрока&font_end;</string>
-    <string name="settings_select_title">Выбрать изваниемя</string>
+    <string name="settings_select_title">Выбрать звание</string>
 
     <string name="title_the_strongest_male">%1$s, &font_attack;Сильнейший&font_end;</string>
     <string name="title_the_broke_male">%1$s, &font_gold;Бедняк&font_end;</string>
@@ -2810,7 +2810,7 @@
     <string name="title_the_encyclokiller_male">%1$s, &font_attack;Энциклобийца&font_end;</string>
     <string name="title_the_tyrant_male">%1$s, &font_tyrant;Тиран&font_end;</string>
     <string name="title_the_devil_male">%1$s, &font_red;Дьявол&font_end;</string>
-    <string name="title_the_corrupted_god_male">%1$s, &font_corrupted_god;Извращённый бог&font_end;</string>
+    <string name="title_the_corrupted_god_male">%1$s, &font_corrupted_god;Извращённый Бог&font_end;</string>
     <string name="title_the_obsessed_male">%1$s, &font_wise;Одержимый&font_end;</string>
     <string name="title_the_animal_lover_male">%1$s, &font_animal;Любитель животных&font_end;</string>
     <string name="title_the_purifier_male">%1$s, &font_purifying;Очиститель&font_end;</string>
@@ -2859,7 +2859,7 @@
     <string name="title_the_encyclokiller_female">%1$s, &font_attack;Энциклобийца&font_end;</string>
     <string name="title_the_tyrant_female">%1$s, &font_tyrant;Тиран&font_end;</string>
     <string name="title_the_devil_female">%1$s, &font_red;Дьявол&font_end;</string>
-    <string name="title_the_corrupted_god_female">%1$s, &font_corrupted_god;Извращённая богиня&font_end;</string>
+    <string name="title_the_corrupted_god_female">%1$s, &font_corrupted_god;Извращённая Богиня&font_end;</string>
     <string name="title_the_obsessed_female">%1$s, &font_wise;Одержимая&font_end;</string>
     <string name="title_the_animal_lover_female">%1$s, &font_animal;Любительница животных&font_end;</string>
     <string name="title_the_purifier_female">%1$s, &font_purifying;Очиститель&font_end;</string>
@@ -2923,14 +2923,14 @@
     <string name="title_the_librarian_no_gender">%1$s, &font_wood;Библиотекарь&font_end;</string>
 
     <string name="skill_crafter">&font_cyan;Изготовитель&font_end;</string>
-    <string name="skill_crafter_description">Возможно &font_cyan;Изготовить&font_end; предмет, используя оба предмета из &font_wood;Инвентаря &font_end;и из &font_wood;Запасов&font_end;</string>
-    <string name="bug_was_a">&font_insect;Жук &font_end;был &font_insect;%1$s&font_end;!</string>
+    <string name="skill_crafter_description">Возможно &font_cyan;изготовить&font_end; предмет, используя оба предмета из &font_wood;инвентаря &font_end;и из &font_wood;запасов&font_end;</string>
+    <string name="bug_was_a">&font_insect;Жук &font_end;оказался &font_insect;%1$s&font_end;!</string>
 
     <string name="button_sort_by_quantity">Сортировать (по количеству)</string>
 
     <string name="no_gender">Нет</string>
 
-    <string name="shop_magic">&font_mana;Волшебный &font_end;&font_gold;Магазин&font_end;</string>
+    <string name="shop_magic">&font_mana;Волшебный &font_end;&font_gold;магазин&font_end;</string>
 
     <string name="quest_rescue_someone_following_you_grouped">&font_quest;%1$d &font_end;здесь, следуют за вами…</string>
 
@@ -2938,7 +2938,7 @@
 
     <string name="achievement_name_animal_lover">Заклинатель животных</string>
 
-    <string name="food_fish_stick">&font_cyan;Рыбная &font_end;&font_wood;Палочка&font_end;</string>
+    <string name="food_fish_stick">&font_cyan;Рыбная &font_end;&font_wood;палочка&font_end;</string>
 
     <string name="new_game_whats_your_race">… и какая ваша раса?</string>
 
@@ -2953,13 +2953,13 @@
     <string name="race_lizard">&font_yellow;Ящер&font_end;</string>
     <string name="race_unknown">&font_white;Неизвестный&font_end;</string>
 
-    <string name="race_human_desc">Наиболее адаптирующаяся и гибкая из обычных рас. Они живут на тонкой грани между добром и злом. Хороший баланс боевых навыков и магии, они также обладают врождённым знанием рецептов и являются исследователями по природе.</string>
-    <string name="race_dwarf_desc">Они раньше жили под горами и заботились только о своих рудниках да пиве, но в связи с недавним распространением зла начали исследовать мир, чтобы прожить собственные легенды, как делали в прошлом их предки. Одна из сильнейших рас, отличные навыки добычи, и они единственные еще могут изготовить Пиво.</string>
-    <string name="race_halfling_desc">Хоть они и появлялись в книгах и историях, почти никто их не видел, ведь Полурослики - мирный народ, живущий в скрытых деревнях, который любит готовить, поесть, читать истории о своей первой эпохе и проживают самые разные фантазии в своих головах. С распространением зла некоторые самые смелые Полурослики отправились в путешествия, о которых они читали в своих книгах.</string>
-    <string name="race_gnome_desc">Они любят жизнь, наслаждаются каждым мгновением процесса изобретения и исследования. Раньше они думали только о своих изобретениях и исследованиях, но в последнее время многие смелые Гномы стали выходить в мир.</string>
-    <string name="race_elf_desc">Эльфы - волшебный народ с внеземной грациозностью, живущий в мире, но не являющийся настоящей его частью. Эгоистичные и эгоцентричные, они заботятся только о своём будущем перед лицом зла, поэтому стали чаще появляться в мире в поисках своего спасения.</string>
+    <string name="race_human_desc">Наиболее адаптирующаяся и гибкая из известных рас. Они живут на тонкой грани между добром и злом. Хороший баланс боевых навыков и магии, они также обладают врождённым знанием рецептов и являются исследователями по природе.</string>
+    <string name="race_dwarf_desc">Они раньше жили под горами и заботились только о своих рудниках да пиве, но в связи с недавним распространением зла начали исследовать мир, чтобы прожить собственные легенды, как делали их предки. Одна из сильнейших рас, обладает отличными навыками добычи руд, и они единственные ещё могут изготовить пиво.</string>
+    <string name="race_halfling_desc">Хоть они и появлялись в книгах и историях, почти никто их не видел, ведь Полурослики - мирный народ, живущий в скрытых деревнях, который любит готовить, поесть, читать истории о своей первой эпохе и проживают самые разные фантазии в своих головах. С распространением зла некоторые самые смелые полурослики отправились в путешествия, о которых они читали в своих книгах.</string>
+    <string name="race_gnome_desc">Они любят жизнь, наслаждаются каждым мгновением процесса изобретения и исследования. Раньше они думали только о своих изобретениях и исследованиях, но в последнее время многие смелые гномы стали выходить в мир.</string>
+    <string name="race_elf_desc">Эльфы - волшебный народ с внеземной грациозностью, живущий в мире, но не являющийся настоящей его частью. Эгоистичные и эгоцентричные, эльфы заботятся только о своём будущем перед лицом зла, поэтому стали чаще появляться в мире в поисках своего спасения.</string>
     <string name="race_drow_desc">Считаются злой версией обычных эльфов. Они чрезвычайно умны, харизматичны и ловки, но обладают хрупкостью эльфов. Их отличают белые или серебряные волосы и обсидианово-чёрная кожа.</string>
-    <string name="race_undead_desc">Живших когда-то людей вернули к жизни в ужасающем состоянии нежити посредством некромантии. Обладают большой силой и высоким интеллектом, но им не хватает скорости. Их голод увеличивается быстрее, но они могут есть трупы, чтобы восстановить Ману, Голод и Здоровье.</string>
+    <string name="race_undead_desc">Живших когда-то людей вернули к жизни в ужасающем состоянии нежити посредством некромантии. Обладают большой силой и высоким интеллектом, но им не хватает скорости. Их голод увеличивается быстрее, но они могут есть трупы, чтобы восстановить ману, голод и здоровье.</string>
     <string name="race_orc_desc">Грубые и дикие, орки объединяются в племена и живут охотой да разбоем. Любители войны, они нашли прекрасного врага в том зле, что недавно начало распространяться в мире. Они стали общаться с другими расами, с которыми до этого говорили лишь на языке оружия и магии.</string>
     <string name="race_lizard_desc">Полу-амфибии, человекоподобные рептилии. Их кожа покрыта чешуёй и может быть разного цвета, начиная с тёмно-зелёного и заканчивая оттенками коричневого и серого. Самые смелые из них путешествовали по миру, чтобы найти новые места для жизни, а также помочь в борьбе со злом.</string>
     <string name="race_unknown_desc">Странное создание, которого никто до сих пор никогда не видел. Уравновешенно, умно, может приспособиться к любой ситуации, но цель его существования остаётся загадкой.</string>
@@ -2968,30 +2968,30 @@
 
     <string name="race_attributes_with_numbers">Атака: &font_attack;%1$s &font_end;Защ.: &font_defense;%2$s&font_end;&br;Интел.: &font_mana;%3$s &font_end;Скорость: &font_speed;%4$s&font_end;</string>
 
-    <string name="status_attack_new">Атака:&font_attack;\t%1$d &font_end;&br;(Base (%2$d%%): &font_attack;%3$d&font_end;, Eq (%4$d%%): &font_attack;%5$d&font_end;, +Temp: &font_attack;%6$d&font_end;)</string>
-    <string name="status_defense_new">Defense:&font_defense;\t%1$d &font_end;&br;(Base (%2$d%%): &font_defense;%3$d&font_end;, Eq (%4$d%%): &font_defense;%5$d&font_end;, +Temp: &font_defense;%6$d&font_end;)</string>
-    <string name="status_speed_new">Speed:\t&font_speed;%1$d &font_end;&br;(Base (%2$d%%): &font_speed;%3$d&font_end;, Eq (%4$d%%): &font_speed;%5$d&font_end;, +Temp: &font_speed;%6$d&font_end;)</string>
-    <string name="status_intelligence_new">Intelligence:\t&font_mana;%1$d &font_end;&br;(Base (%2$d%%): &font_mana;%3$d&font_end;, Eq (%4$d%%): &font_mana;%5$d&font_end;, +Temp: &font_mana;%6$d&font_end;)</string>
+    <string name="status_attack_new">Атака:&font_attack;\t%1$d &font_end;&br;(Исходная (%2$d%%): &font_attack;%3$d&font_end;, Рав (%4$d%%): &font_attack;%5$d&font_end;, +Темп: &font_attack;%6$d&font_end;)</string>
+    <string name="status_defense_new">Защита:&font_defense;\t%1$d &font_end;&br;(Исходная (%2$d%%): &font_defense;%3$d&font_end;, Рав (%4$d%%): &font_defense;%5$d&font_end;, +Темп: &font_defense;%6$d&font_end;)</string>
+    <string name="status_speed_new">Скорость:\t&font_speed;%1$d &font_end;&br;(Исходная (%2$d%%): &font_speed;%3$d&font_end;, Рав (%4$d%%): &font_speed;%5$d&font_end;, +Темп: &font_speed;%6$d&font_end;)</string>
+    <string name="status_intelligence_new">Интеллект:\t&font_mana;%1$d &font_end;&br;(Исходный (%2$d%%): &font_mana;%3$d&font_end;, Рав (%4$d%%): &font_mana;%5$d&font_end;, +Темп: &font_mana;%6$d&font_end;)</string>
 
     <string name="skill_natural_explorer">&font_cyan;Естествоиспытатель&font_end;</string>
     <string name="skill_natural_explorer_description">Может видеть названия находящихся рядом предметов при передвижении, что значительно упрощает процесс исследования.</string>
 
     <string name="human_traits">&font_cyan;* &font_end;Начинает со знанием базовых рецептов.&br;&br;&font_cyan;* &font_end;Начинает с некоторым количеством &font_food;еды&font_end;.&br;&br;&font_cyan;Естествоиспытатель&font_end;: Может видеть названия находящихся рядом предметов при передвижении, что значительно упрощает процесс исследования.</string>
-    <string name="dwarf_traits">&font_cyan;* &font_end;Начинает с &font_silver;Киркой&font_end;.&br;&br;&font_cyan;Кузнец&font_end;: Выше шанс изготовить лучшее оружие, щиты и доспехи. (Уровень &font_cyan;%1$d&font_end;).&br;&br;&font_cyan;Изготовитель &font_end;&font_gold;Пива&font_end;: Может изготовить &font_gold;Пиво &font_end;и &font_epic;Легендарное&font_end; &font_gold;Пиво &font_end;(и начинает с необходимыми для изготовления &font_gold;Пива &font_end;материалами).</string>
-    <string name="halfling_traits">&font_food;Едок&font_end;: Повышенный уровень макс. голода, что позволяет дольше обходиться без еды.&br;&br;&font_food;Гурман&font_end;: Повышенное восстановление голода при поглощении пищи.&br;&br;&font_cyan;Незаметный&font_end;: Ниже шанс быть атакованным &font_red;Монстром &font_end;на &font_cyan;33&font_end;%.</string>
-    <string name="gnome_traits">&font_wood;Гномическое пространство&font_end;: Увеличенный размер инвентаря на &font_cyan;10&font_end;.&br;&br;&font_bomb;Сапёр&font_end;: Начинает с некоторым количеством &font_gunpowder;Пороха&font_end;, разных &font_bomb;Бомб &font_end;и знанием рецептом их изготовления.&br;&br;&font_cyan;Чуткий&font_end;: Обнаруживает скрытые предметы, так что вы можеть начать &font_cyan;Поиск &font_end;и найти их.</string>
-    <string name="elf_traits">&font_cyan;* &font_end;Начинает с &font_cyan;5 &font_end;x &font_plant;Растениями &font_end;и &font_cyan;5 &font_end;x &font_mushroom;Грибами&font_end;.&br;&br;&font_mana;Поток маны&font_end;: Восстанавливает &font_cyan;1% &font_end;&font_mana;маны &font_end;при каждом ходе, если &font_health;здоровья &font_end;больше &font_cyan;50%&font_end;.&br;&br;&font_mana;Эльфийская магия&font_end;: Дополнительная &font_mana;мана &font_end;(&font_cyan;+25&font_end;).</string>
+    <string name="dwarf_traits">&font_cyan;* &font_end;Начинает с &font_silver;киркой&font_end;.&br;&br;&font_cyan;Кузнец&font_end;: Выше шанс изготовить лучшее оружие, щиты и доспехи. (Уровень &font_cyan;%1$d&font_end;).&br;&br;&font_cyan;Изготовитель &font_end;&font_gold;пива&font_end;: Может изготовить &font_gold;пиво &font_end;и &font_epic;Легендарное&font_end; &font_gold;пиво &font_end;(и начинает с необходимыми для изготовления &font_gold;пива &font_end;материалами).</string>
+    <string name="halfling_traits">&font_food;Едок&font_end;: Повышенный уровень макс. голода, что позволяет дольше обходиться без еды.&br;&br;&font_food;Гурман&font_end;: Повышенное восстановление голода при поглощении пищи.&br;&br;&font_cyan;Незаметный&font_end;: Ниже шанс быть атакованным &font_red;монстром &font_end;на &font_cyan;33&font_end;%.</string>
+    <string name="gnome_traits">&font_wood;Гномическое пространство&font_end;: Увеличенный размер инвентаря на &font_cyan;10&font_end;.&br;&br;&font_bomb;Сапёр&font_end;: Начинает с некоторым количеством &font_gunpowder;пороха&font_end;, разных &font_bomb;бомб &font_end;и знанием рецептом их изготовления.&br;&br;&font_cyan;Чуткий&font_end;: Обнаруживает скрытые предметы, так что вы можете начать &font_cyan;поиск &font_end;и найти их.</string>
+    <string name="elf_traits">&font_cyan;* &font_end;Начинает с &font_cyan;5 &font_end;x &font_plant;растениями &font_end;и &font_cyan;5 &font_end;x &font_mushroom;грибами&font_end;.&br;&br;&font_mana;Поток маны&font_end;: Восстанавливает &font_cyan;1% &font_end;&font_mana;маны &font_end;при каждом ходе, если &font_health;здоровья &font_end;больше &font_cyan;50%&font_end;.&br;&br;&font_mana;Эльфийская магия&font_end;: Дополнительная &font_mana;мана &font_end;(&font_cyan;+25&font_end;).</string>
     <string name="drow_traits">&font_portal;Телепортация&font_end;: Может &font_portal;телепортироваться &font_end;в случайную точку острова.&br;&br;&font_mana;Поток маны&font_end;: Восстанавливает &font_cyan;1% &font_end;&font_mana;маны &font_end;при каждом ходе, если &font_health;здоровья &font_end;больше &font_cyan;50%&font_end;.&br;&br;&font_mana;Эльфийская магия&font_end;: Дополнительная &font_mana;мана &font_end;(&font_cyan;+25&font_end;).</string>
-    <string name="undead_traits">&font_green;Иммунитет к погоде&font_end;: Имеет иммунитет к урону &font_red;Жарой &font_end;или &font_tundra;Холодом&font_end;.&br;&br;&font_health;Неразрушимый&font_end;: Если атака &font_red;Монстра &font_end;убивает вас, вы сможете выстоять и остаться в живых с &font_health;1 &font_end;очком здоровья.&br;&br;&font_hunger;Жажда мертвячины&font_end;: &font_hunger;Голод &font_end;увеличивается быстрее, но можно есть трупы, чтобы восстановить &font_hunger;Голод&font_end;, &font_health;Здоровье &font_end;и &font_mana;Ману&font_end;.</string>
+    <string name="undead_traits">&font_green;Иммунитет к погоде&font_end;: Имеет иммунитет к урону &font_red;жарой &font_end;или &font_tundra;холодом&font_end;.&br;&br;&font_health;Неразрушимый&font_end;: Если атака &font_red;монстра &font_end;убивает вас, вы сможете выстоять и остаться в живых с &font_health;1 &font_end;очком здоровья.&br;&br;&font_hunger;Жажда мертвячины&font_end;: &font_hunger;Голод &font_end;увеличивается быстрее, но можно есть трупы, чтобы восстановить &font_hunger;Голод&font_end;, &font_health;Здоровье &font_end;и &font_mana;Ману&font_end;.</string>
     <string name="orc_traits">&font_dark_green;Толстая кожа&font_end;: &font_cyan;5%% &font_end;снижение урона в бою.&br;&br;&font_attack;Берсерк&font_end;: В бою использование команды "Атака" увеличивает урон на каждом ходе на &font_cyan;10%% &font_end;. При использовании разных атак бонус от &font_attack;Берсерка &font_end;пропадает.&br;&br;&font_dark_green;Первый удар&font_end;: При нападении на монстра наносит первый удар.&br;&br;</string>
-    <string name="lizard_traits">&font_health;Регенерация&font_end;: Восстанавливает &font_cyan;2%% &font_end;&font_health;здоровья &font_end;при каждом ходе, если погода &font_yellow;Солнечная&font_end;.&br;&br;&font_cyan;Изворотливый&font_end;: Всегда успешно сбегает (если возможно сбежать).&br;&br;&font_insect;Пожиратель насекомых&font_end;: Можно &font_hunger;есть &font_end;&font_insect;насекомых&font_end;, не ловя их.</string>
-    <string name="unknown_traits">&font_cyan;* &font_end;Начинает с &font_cyan;15 &font_end;Очками Навыков.&br;&br;&font_cyan;* &font_end;Начинает со случайной &font_cyan;Навигационной картой&font_end;&br;&br;&font_cyan;* &font_end;Начинает со случайной Книгой &font_mana;Заклинаний&font_end;.</string>
+    <string name="lizard_traits">&font_health;Регенерация&font_end;: Восстанавливает &font_cyan;2%% &font_end;&font_health;здоровья &font_end;при каждом ходе, если погода &font_yellow;солнечная&font_end;.&br;&br;&font_cyan;Изворотливый&font_end;: Всегда успешно сбегает (если возможно сбежать).&br;&br;&font_insect;Пожиратель насекомых&font_end;: Можно &font_hunger;есть &font_end;&font_insect;насекомых&font_end;, не ловя их.</string>
+    <string name="unknown_traits">&font_cyan;* &font_end;Начинает с &font_cyan;15 &font_end;очками навыков.&br;&br;&font_cyan;* &font_end;Начинает со случайной &font_cyan;навигационной картой&font_end;&br;&br;&font_cyan;* &font_end;Начинает со случайной книгой &font_mana;заклинаний&font_end;.</string>
 
     <string name="item_beer">&font_gold;Пиво&font_end;</string>
-    <string name="item_epic_beer">&font_epic;Легендарное&font_end; &font_gold;Пиво&font_end;</string>
+    <string name="item_epic_beer">&font_epic;Легендарное&font_end; &font_gold;пиво&font_end;</string>
     <string name="item_info_beer">Выпейте, чтобы восстановить &font_cyan;%1$d%% &font_end;вашего &font_health;здоровья&font_end;, &font_mana;маны &font_end;и &font_hunger;голода&font_end;!</string>
 
-    <string name="drink_beer_restored">Вы выпили &font_gold;Пиво &font_end;и восстановили &font_health;%1$d &font_end;здоровья, &font_mana;%2$d &font_end;маны и &font_hunger;%3$d &font_end;голода!</string>
+    <string name="drink_beer_restored">Вы выпили &font_gold;пиво &font_end;и восстановили &font_health;%1$d &font_end;здоровья, &font_mana;%2$d &font_end;маны и &font_hunger;%3$d &font_end;голода!</string>
 
     <string name="skill_foodie">&font_food;Едок&font_end;</string>
     <string name="skill_gourmet">&font_food;Гурман&font_end;</string>
@@ -3013,10 +3013,10 @@
     <string name="reckon_hard">[&font_red;Тяжело&font_end;]</string>
 
     <string name="skill_weather_immunity">&font_green;Иммунитет к погоде&font_end;</string>
-    <string name="skill_weather_immunity_description">Имеет иммунитет к урону &font_red;Жарой &font_end;или &font_tundra;Холодом&font_end;.</string>
+    <string name="skill_weather_immunity_description">Иммунитет к урону &font_red;жарой &font_end;или &font_tundra;холодом&font_end;.</string>
 
     <string name="skill_undead_hunger">&font_hunger;Жажда мертвячины&font_end;</string>
-    <string name="skill_undead_hunger_description">&font_hunger;Голод &font_end;увеличивается быстрее, но можно есть трупы, чтобы восстановить &font_hunger;Голод&font_end;, &font_health;Здоровье &font_end;и &font_mana;Ману&font_end;.</string>
+    <string name="skill_undead_hunger_description">&font_hunger;Голод &font_end;увеличивается быстрее, но можно есть трупы, чтобы восстановить &font_hunger;голод&font_end;, &font_health;здоровье &font_end;и &font_mana;ману&font_end;.</string>
 
     <string name="skill_undead_hunger_ate_corpse">Вы съели %1$s и восстановили &font_health;%2$d &font_end;здоровья, &font_mana;%3$d &font_end;маны и &font_hunger;%4$d &font_end;голода!</string>
 
@@ -3024,33 +3024,33 @@
     <string name="skill_tough_skin_description">&font_cyan;5% &font_end;снижение урона в бою.</string>
 
     <string name="skill_first_strike">&font_dark_green;Первый удар&font_end;</string>
-    <string name="skill_first_strike_description">При нападении на монстра наносит первый удар.</string>
+    <string name="skill_first_strike_description">При нападении на монстра нанести первый удар.</string>
 
     <string name="skill_regeneration">&font_health;Регенерация&font_end;</string>
-    <string name="skill_regeneration_description">Восстанавливает &font_cyan;2% &font_end;&font_health;здоровья &font_end;при каждом ходе, если погода &font_yellow;Солнечная&font_end;</string>
+    <string name="skill_regeneration_description">Восстановить &font_cyan;2% &font_end;&font_health;здоровья &font_end;при каждом ходе, если погода &font_yellow;солнечная&font_end;</string>
 
     <string name="skill_slippery">&font_cyan;Изворотливый&font_end;</string>
-    <string name="skill_slippery_description">Всегда успешно сбегает (если возможно сбежать).</string>
+    <string name="skill_slippery_description">Всегда успешно сбежать (если возможно сбежать).</string>
 
     <string name="skill_insect_eater">&font_insect;Пожиратель насекомых&font_end;</string>
-    <string name="skill_insect_eater_description">Можно &font_hunger;есть &font_end;&font_insect;насекомых&font_end;, не ловя их.</string>
+    <string name="skill_insect_eater_description">Возможность &font_hunger;есть &font_end;&font_insect;насекомых&font_end;, не ловя их.</string>
 
     <string name="skill_insect_eater_ate_insect">Вы съели &font_insect;%1$s &font_end;и восстановили &font_cyan;%2$d &font_end;&font_hunger;голода&font_end;.</string>
 
     <string name="easter_egg_dwarf_mine">Я Дварф. Я копаю яму…</string>
 
     <string name="skill_weapon_learner">&font_iron;Изучающий оружие&font_end;</string>
-    <string name="skill_weapon_learner_description">Быстрее осваивать навыки владения Оружием.</string>
-    <string name="settings_craft_toast_enabled">Включить всплывающие уведомления об Изготовлении</string>
+    <string name="skill_weapon_learner_description">Быстрее осваивать навыки владения оружием.</string>
+    <string name="settings_craft_toast_enabled">Включить всплывающие уведомления об изготовлении</string>
     <string name="button_all">Все</string>
     <string name="cemetery_clear_message">Вы хотите удалить данные о всех павших героях?</string>
 
-    <string name="menu_cemetery_all">Кладбище (&font_cyan;Все&font_end;)</string>
-    <string name="menu_cemetery_permadeath">Кладбище (&font_red;Хардкор&font_end;)</string>
-    <string name="menu_cemetery_no_permadeath">Кладбище (&font_green;Обычный&font_end;)</string>
+    <string name="menu_cemetery_all">ЧИстилище (&font_cyan;Все&font_end;)</string>
+    <string name="menu_cemetery_permadeath">Чистилище (&font_red;Хардкор&font_end;)</string>
+    <string name="menu_cemetery_no_permadeath">Чистилище (&font_green;Обычный&font_end;)</string>
 
-    <string name="game_over_rank_permadeath">Вы заняли &font_cyan;#%d &font_end;место в режиме &font_red;Хардкор &font_end;на Кладбище.</string>
-    <string name="game_over_rank_no_permadeath">Вы заняли &font_cyan;#%d &font_end;место в &font_green;Обычном &font_end;режиме на Кладбище.</string>
+    <string name="game_over_rank_permadeath">Вы заняли &font_cyan;#%d &font_end;место в режиме &font_red;Хардкор &font_end;в Чистилище.</string>
+    <string name="game_over_rank_no_permadeath">Вы заняли &font_cyan;#%d &font_end;место в &font_green;Обычном &font_end;режиме в Чистилище.</string>
 
     <string name="blacksmith_level_up_button">Повысить уровень &font_iron;Кузнец&font_end;: &font_gold;%1$d&font_end;</string>
     <string name="blacksmith_level">Уровень &font_iron;Кузнец&font_end;: &font_cyan;%1$d&font_end;</string>
@@ -3073,15 +3073,15 @@
     <string name="island_type_treasure">Сокровище</string>
     <string name="material_old_paper_piece">Кусок старой бумаги</string>
     <string name="item_info_old_paper_piece">На нём какие-то странные рисунки…</string>
-    <string name="tile_content_type_nautical_chart_treasure_island">Навигационная карта (&font_cyan;Остров &font_end;&font_gold;Сокровищ&font_end;)</string>
+    <string name="tile_content_type_nautical_chart_treasure_island">Навигационная карта (&font_cyan;остров &font_end;&font_gold;Сокровищ&font_end;)</string>
     <string name="craft_various_title">Изготовить разное</string>
     <string name="craft_various_message_not_stackable">Сколько вы хотите изготовить?&br;&br;(У вас достаточно материалов, чтобы изготовить &font_cyan;%1$d&font_end;, максимум можно изготовить &font_cyan;%2$d&font_end;, и у вас достаточно места в инвентаре, чтобы изготовить &font_cyan;%3$d&font_end;, так что, максимум вы можете сделать: &font_cyan;%4$d&font_end;)</string>
     <string name="crafted_amount">Вы изготовили &font_cyan;%1$d&font_end;!</string>
 
     <string name="settings_navigation_buttons_position">Положение кнопок для навигации</string>
 
-    <string name="skill_unarmed_mastery">Знание &font_skill_attack;Рукопашного боя&font_end;</string>
-    <string name="skill_unarmed_mastery_description">Атака без &font_skill_attack;оружия &font_end;в бою разблокирует Навыки &font_skill_attack;Рукопашного боя&font_end;.</string>
+    <string name="skill_unarmed_mastery">Знание &font_skill_attack;рукопашного боя&font_end;</string>
+    <string name="skill_unarmed_mastery_description">Атака без &font_skill_attack;оружия &font_end;в бою разблокирует навыки ведения &font_skill_attack;рукопашного боя&font_end;.</string>
 
     <string name="weapon_skill_unarmed_punch">Удар</string>
     <string name="weapon_skill_unarmed_punch_desc">Ударить врага.</string>
@@ -3103,21 +3103,21 @@
     <string name="weapon_skill_unarmed_fastfist_desc">Сильно ударить врага. Всегда идёт первой атакой.</string>
     <string name="weapon_skill_unarmed_fastfist_attack">Вы наносите сильный удар по врагу!</string>
 
-    <string name="material_type_cartographer_stone">&font_stone;Камень &font_end;&font_cyan;Картографа&font_end;</string>
-    <string name="world_info_empty">(Нет дополнительной информации, используйте &font_stone;Камень &font_end;&font_cyan;Картографа&font_end;, чтобы добавить текст к острову)</string>
+    <string name="material_type_cartographer_stone">&font_stone;Камень &font_end;&font_cyan;картографа&font_end;</string>
+    <string name="world_info_empty">(Нет дополнительной информации, используйте &font_stone;камень &font_end;&font_cyan;картографа&font_end;, чтобы добавить текст к острову)</string>
     <string name="button_plus">+</string>
     <string name="button_mark">Отметить</string>
     <string name="button_add_info">Добавить информацию</string>
-    <string name="world_mark_island_message">Чтобы облегчить себе приключения, вы можете &font_cyan;отметить &font_end;остров одним символом, который будет виден в списке островов, и/или написать &font_cyan;информацию &font_end;о нём. Для каждого из этих действий вам необходимо использовать &font_stone;Камень &font_end;&font_cyan;Картографа&font_end;.&br;&br;Сейчас у вас &font_cyan;%1$d &font_end;&font_stone;Камней &font_end;&font_cyan;Картографа&font_end;</string>
+    <string name="world_mark_island_message">Чтобы облегчить себе приключения, вы можете &font_cyan;отметить &font_end;остров одним символом, который будет виден в списке островов, и/или написать &font_cyan;информацию &font_end;о нём. Для каждого из этих действий вам необходимо использовать &font_stone;камень &font_end;&font_cyan;картографа&font_end;.&br;&br;Сейчас у вас &font_cyan;%1$d &font_end;&font_stone;камней &font_end;&font_cyan;картографа&font_end;</string>
 
-    <string name="world_add_info_message">Добавить информацию об острове (Вы можете добавить разрыв написав \'br\' между &lt; и &gt;. Максимальное количество разрешенных персонажей: &font_cyan;%1$d&font_end;):</string>
-    <string name="world_add_info_message_replacing">Информация об острове уже добавлена, новая информация упразднит текущую!&br;&br;Добавить информацию об острове (Вы можете добавить разрыв написав \'br\' между &lt; и &gt;. Максимальное количество разрешенных персонажей: &font_cyan;%1$d&font_end;):</string>
-    <string name="world_add_info_length_error">Напишите между 1 и %d персонажами…</string>
-    <string name="world_add_mark_length_error">Напишите 1 персонажа…</string>
-    <string name="world_mark_island_no_cartographer_stone">Вам нужен &font_cyan;Картогаф &font_end;&font_stone;Камень &font_end;чтобы иметь возможность сделать это…</string>
+    <string name="world_add_info_message">Добавить информацию об острове (Вы можете добавить разрыв написав \'br\' между &lt; и &gt;. Максимальное количество символов: &font_cyan;%1$d&font_end;):</string>
+    <string name="world_add_info_message_replacing">Информация об острове уже добавлена, новая информация заменит текущую!&br;&br;Добавить информацию об острове (Вы можете добавить разрыв написав \'br\' между &lt; и &gt;. Максимальное количество символов: &font_cyan;%1$d&font_end;):</string>
+    <string name="world_add_info_length_error">Напишите от 1 до %d символов…</string>
+    <string name="world_add_mark_length_error">Добавьте 1 символ…</string>
+    <string name="world_mark_island_no_cartographer_stone">Вам нужен &font_stone;камень &font_end;&font_cyan;картогафа &font_end;чтобы иметь возможность сделать это…</string>
     <string name="button_add_mark">Добавить отметку</string>
-    <string name="world_add_mark_message">Добавить отметку, которая отобразится в списке островов (напишите только &font_cyan;1 &font_end;персонаж.):</string>
-    <string name="world_add_mark_message_replacing">К этому острову уже добавлена одна отметка, добавление новой отметки упразднит текущую.&br;&br;Добавить отметку, которая отобразиться в списке островов (напищите только &font_cyan;1 &font_end;персонаж):</string>
+    <string name="world_add_mark_message">Добавить отметку, которая отобразится в списке островов (напишите только &font_cyan;1 &font_end;символ.):</string>
+    <string name="world_add_mark_message_replacing">К этому острову уже добавлена одна отметка, новая отметка заменит текущую.&br;&br;Добавить отметку, которая отобразится в списке островов (напищите только &font_cyan;1 &font_end;символ):</string>
     <string name="mark_color_title">Выберите цвет метки:</string>
 
     <string name="craft_would_die_crafting">Вы умерли от &font_hunger;голода&font_end;!</string>
@@ -3131,60 +3131,60 @@
 
     <string name="ranged_weapon_type_bow">&font_wood;Лук&font_end;</string>
     <string name="ranged_weapon_type_crossbow">&font_speed;Арбалет&font_end;</string>
-    <string name="ranged_weapon_type_slingshot">&font_speed;Рогатка&font_end;</string>
+    <string name="ranged_weapon_type_slingshot">&font_speed;Праща&font_end;</string>
 
     <string name="tile_content_type_ranged_weapon">Оружие дальнего боя</string>
 
     <string name="content_description_ranged_weapon_image">Оружие дальнего боя</string>
     <string name="item_info_ranged_weapon">Получите его, чтобы иметь возможность стрелять в монстров до вступления в бой.&br;%1$s&br;%2$s</string>
 
-    <string name="item_wood_bow">&font_wood;Деревянный&font_end; Лук</string>
-    <string name="item_bone_bow">&font_bone;Костяной&font_end; Лук</string>
-    <string name="item_copper_bow">&font_copper;Медный&font_end; Лук</string>
-    <string name="item_tin_bow">&font_tin;Оловянный&font_end; Лук</string>
-    <string name="item_iron_bow">&font_iron;Железный&font_end; Лук</string>
-    <string name="item_bronze_bow">&font_bronze;Бронзовый&font_end; Лук</string>
-    <string name="item_silver_bow">&font_silver;Серебряный&font_end; Лук</string>
-    <string name="item_gold_bow">&font_gold;Золотой&font_end; Лук</string>
-    <string name="item_diamond_bow">&font_diamond;Алмазный&font_end; Лук</string>
-    <string name="item_obsidian_bow">&font_obsidian;Обсидиановый&font_end; Лук</string>
+    <string name="item_wood_bow">&font_wood;Деревянный&font_end; лук</string>
+    <string name="item_bone_bow">&font_bone;Костяной&font_end; лук</string>
+    <string name="item_copper_bow">&font_copper;Медный&font_end; лук</string>
+    <string name="item_tin_bow">&font_tin;Оловянный&font_end; лук</string>
+    <string name="item_iron_bow">&font_iron;Железный&font_end; лук</string>
+    <string name="item_bronze_bow">&font_bronze;Бронзовый&font_end; лук</string>
+    <string name="item_silver_bow">&font_silver;Серебряный&font_end; лук</string>
+    <string name="item_gold_bow">&font_gold;Золотой&font_end; лук</string>
+    <string name="item_diamond_bow">&font_diamond;Алмазный&font_end; лук</string>
+    <string name="item_obsidian_bow">&font_obsidian;Обсидиановый&font_end; лук</string>
     <string name="button_shoot">Выстрел</string>
     <string name="ranged_weapon_shoot_monster">Вы выстрелили %1$s с %2$s и нанесли &font_speed;%3$d &font_end;урона!</string>
     <string name="material_type_arrow">&font_wood;Стрела&font_end;</string>
     <string name="ranged_weapon_need_ammunition">Вам нужна %1$s, чтобы сделать это!</string>
 
-    <string name="item_wood_crossbow">&font_wood;Деревянный&font_end; Арбалет</string>
-    <string name="item_bone_crossbow">&font_bone;Костяной&font_end; Арбалет</string>
-    <string name="item_copper_crossbow">&font_copper;Медный&font_end; Арбалет</string>
-    <string name="item_tin_crossbow">&font_tin;Оловянный&font_end; Арбалет</string>
-    <string name="item_iron_crossbow">&font_iron;Железный&font_end; Арбалет</string>
-    <string name="item_bronze_crossbow">&font_bronze;Бронзовый&font_end; Арбалет</string>
-    <string name="item_silver_crossbow">&font_silver;Серебряный&font_end; Арбалет</string>
-    <string name="item_gold_crossbow">&font_gold;Золотой&font_end; Арбалет</string>
-    <string name="item_diamond_crossbow">&font_diamond;Алмазный&font_end; Арбалет</string>
-    <string name="item_obsidian_crossbow">&font_obsidian;Обсидиановый&font_end; Арбалет</string>
+    <string name="item_wood_crossbow">&font_wood;Деревянный&font_end; арбалет</string>
+    <string name="item_bone_crossbow">&font_bone;Костяной&font_end; арбалет</string>
+    <string name="item_copper_crossbow">&font_copper;Медный&font_end; арбалет</string>
+    <string name="item_tin_crossbow">&font_tin;Оловянный&font_end; арбалет</string>
+    <string name="item_iron_crossbow">&font_iron;Железный&font_end; арбалет</string>
+    <string name="item_bronze_crossbow">&font_bronze;Бронзовый&font_end; арбалет</string>
+    <string name="item_silver_crossbow">&font_silver;Серебряный&font_end; арбалет</string>
+    <string name="item_gold_crossbow">&font_gold;Золотой&font_end; арбалет</string>
+    <string name="item_diamond_crossbow">&font_diamond;Алмазный&font_end; арбалет</string>
+    <string name="item_obsidian_crossbow">&font_obsidian;Обсидиановый&font_end; арбалет</string>
 
-    <string name="item_wood_slingshot">&font_wood;Деревянная&font_end; Праща</string>
-    <string name="item_bone_slingshot">&font_bone;Костяная&font_end; Праща</string>
-    <string name="item_copper_slingshot">&font_copper;Медная&font_end; Праща</string>
-    <string name="item_tin_slingshot">&font_tin;Оловянная&font_end; Праща</string>
-    <string name="item_iron_slingshot">&font_iron;Железная&font_end; Праща</string>
-    <string name="item_bronze_slingshot">&font_bronze;Бронзовая&font_end; Праща</string>
-    <string name="item_silver_slingshot">&font_silver;Серебряная&font_end; Праща</string>
-    <string name="item_gold_slingshot">&font_gold;Золотая&font_end; Праща</string>
-    <string name="item_diamond_slingshot">&font_diamond;Алмазная&font_end; Праща</string>
-    <string name="item_obsidian_slingshot">&font_obsidian;Обсидиановая&font_end; Праща</string>
+    <string name="item_wood_slingshot">&font_wood;Деревянная&font_end; праща</string>
+    <string name="item_bone_slingshot">&font_bone;Костяная&font_end; праща</string>
+    <string name="item_copper_slingshot">&font_copper;Медная&font_end; праща</string>
+    <string name="item_tin_slingshot">&font_tin;Оловянная&font_end; праща</string>
+    <string name="item_iron_slingshot">&font_iron;Железная&font_end; праща</string>
+    <string name="item_bronze_slingshot">&font_bronze;Бронзовая&font_end; праща</string>
+    <string name="item_silver_slingshot">&font_silver;Серебряная&font_end; праща</string>
+    <string name="item_gold_slingshot">&font_gold;Золотая&font_end; праща</string>
+    <string name="item_diamond_slingshot">&font_diamond;Алмазная&font_end; праща</string>
+    <string name="item_obsidian_slingshot">&font_obsidian;Обсидиановая&font_end; праща</string>
 
-    <string name="skill_bow_mastery">Владение &font_wood;Луком&font_end;</string>
-    <string name="skill_crossbow_mastery">Владение &font_speed;Арбалетом&font_end;</string>
-    <string name="skill_slingshot_mastery">Владение &font_speed;Пращой&font_end;</string>
+    <string name="skill_bow_mastery">Владение &font_wood;луком&font_end;</string>
+    <string name="skill_crossbow_mastery">Владение &font_speed;арбалетом&font_end;</string>
+    <string name="skill_slingshot_mastery">Владение &font_speed;пращой&font_end;</string>
 
-    <string name="skill_bow_mastery_desc">При повышении уровня немного увеличивается урон от выстрела из &font_wood;Лука&font_end;.</string>
-    <string name="skill_crossbow_mastery_desc">При повышении уровня немного увеличивается урон от выстрела из &font_speed;Арбалета&font_end;.</string>
-    <string name="skill_slingshot_mastery_desc">При повышении уровня немного увеличивается урон от выстрела из &font_speed;Пращи&font_end;.</string>
+    <string name="skill_bow_mastery_desc">При повышении уровня немного увеличивается урон от выстрела из &font_wood;лука&font_end;.</string>
+    <string name="skill_crossbow_mastery_desc">При повышении уровня немного увеличивается урон от выстрела из &font_speed;арбалета&font_end;.</string>
+    <string name="skill_slingshot_mastery_desc">При повышении уровня немного увеличивается урон от выстрела из &font_speed;пращи&font_end;.</string>
 
-    <string name="content_description_decrease_minimap_size">Уменьшить размер Миникарты</string>
-    <string name="content_description_increase_minimap_size">Увеличить размер Миникарты</string>
+    <string name="content_description_decrease_minimap_size">Уменьшить размер миникарты</string>
+    <string name="content_description_increase_minimap_size">Увеличить размер миникарты</string>
     <string name="combat_shortcut_empty">(пусто)</string>
     <string name="combat_shortcut_skill">Навык</string>
     <string name="combat_shortcut_spell">Заклинание</string>
