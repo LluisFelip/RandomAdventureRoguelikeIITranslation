@@ -3531,13 +3531,13 @@
     <string name="void_merchant_message_have_2">Reviens me voir si tu en trouve à nouveau…</string>
 
     <string name="settings_show_gold_on_top">Afficher or en haut</string>
-    <string name="skill_whip_mastery">Maîtrise de &font_void;fouet&font_end;</string>
-    <string name="skill_whip_mastery_desc">Attacking with a &font_void;Whip &font_end;in combat unlocks &font_void;Whip &font_end;Combat Skills.</string>
-    <string name="weapon_type_whip">&font_void;Whip&font_end;</string>
+    <string name="skill_whip_mastery">Maîtrise du &font_void;fouet&font_end;</string>
+    <string name="skill_whip_mastery_desc">Attaquer avec un &font_void;fouet &font_end;en combat débloque les compétences de combat du &font_void;fouet&font_end;.</string>
+    <string name="weapon_type_whip">&font_void;Fouet&font_end;</string>
 
-    <string name="weapon_skill_whip_fast_lash">&font_speed;Fast &font_end;&font_void;Lash&font_end;</string>
-    <string name="weapon_skill_whip_fast_lash_desc">Lashes the enemy quickly. Always attacks first.</string>
-    <string name="weapon_skill_whip_fast_lash_attack">You lash the enemy!</string>
+    <string name="weapon_skill_whip_fast_lash">&font_void;Fouet &font_end;&font_speed;rapide&font_end;</string>
+    <string name="weapon_skill_whip_fast_lash_desc">Lacère l'ennemi à une vitesse folle. Vous attaquez toujours en premier.</string>
+    <string name="weapon_skill_whip_fast_lash_attack">Vous lacèrez l'ennemi !</string>
 
     <string name="weapon_skill_whip_healing_lash">&font_health;Healing &font_end;&font_void;Lash&font_end;</string>
     <string name="weapon_skill_whip_healing_lash_desc">Lashes the enemy and absorbs its health.</string>
