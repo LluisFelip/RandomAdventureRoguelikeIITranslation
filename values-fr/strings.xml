@@ -3515,7 +3515,7 @@
 
         <string name="inventory_used_infinity_energy">Vous avez utilisé &font_cyan;énergie &font_end;&font_infinity;infinie &font_end; !</string>
 
-    <string name="item_info_ascension_flame">Vous sentez que cette &font_red;flamme &font_end;de l\'&asterisk_ascend_color;ascension&font_end;est la chose la plus puissante que vous ayez jamais touchée… Vous vous demandez à quoi elle peut bien servir…</string>
+    <string name="item_info_ascension_flame">Vous sentez que cette &font_red;Flamme &font_end;de l\'&asterisk_ascend_color;Ascension&font_end;est la chose la plus puissante que vous ayez jamais touchée… Vous vous demandez à quoi elle peut bien servir…</string>
     <string name="settings_leaderboards">Classements</string>
 
 
@@ -3539,34 +3539,34 @@
     <string name="weapon_skill_whip_fast_lash_desc">Lacère l\'ennemi à une vitesse folle. Vous attaquez toujours en premier.</string>
     <string name="weapon_skill_whip_fast_lash_attack">Vous lacèrez l\'ennemi !</string>
 
-    <string name="weapon_skill_whip_healing_lash">&font_health;Healing &font_end;&font_void;Lash&font_end;</string>
-    <string name="weapon_skill_whip_healing_lash_desc">Lashes the enemy and absorbs its health.</string>
-    <string name="weapon_skill_whip_healing_lash_attack">You lash the enemy and absorb its health!</string>
+    <string name="weapon_skill_whip_healing_lash">&font_void;Fouet &font_end;&font_health;régénérant&font_end;</string>
+    <string name="weapon_skill_whip_healing_lash_desc">Lacère l'ennemi et absorbe sa vie.</string>
+    <string name="weapon_skill_whip_healing_lash_attack">Vous lacèrez l'ennemi et absorbez sa vie !</string>
 
-    <string name="weapon_skill_whip_double_whip">&font_void;Double Whip&font_end;</string>
-    <string name="weapon_skill_whip_double_whip_desc">Attacks twice with the whip.</string>
-    <string name="weapon_skill_whip_double_whip_attack">You attack twice with the whip!</string>
+    <string name="weapon_skill_whip_double_whip">&font_void;Fouet doublep&font_end;</string>
+    <string name="weapon_skill_whip_double_whip_desc">Attaque deux fois d'affilé avec le fouet.</string>
+    <string name="weapon_skill_whip_double_whip_attack">Vous attaquez deux fois avec le fouet !</string>
 
-    <string name="weapon_skill_whip_absorbing_lash">&font_health;Absorbing &font_end;&font_void;Whip&font_end;</string>
-    <string name="weapon_skill_whip_absorbing_lash_desc">Attacks and absorbs both mana and health from the enemy.</string>
-    <string name="weapon_skill_whip_absorbing_lash_attack">You attack and absorb mana and health from the enemy!</string>
+    <string name="weapon_skill_whip_absorbing_lash">&font_void;Fouet &font_end;&font_health;absorbant&font_end;</string>
+    <string name="weapon_skill_whip_absorbing_lash_desc">Attaque et absorbe le mana ainsi que la vie de l'ennemi.</string>
+    <string name="weapon_skill_whip_absorbing_lash_attack">Vous attaquez et absorbez la vie et le mana de l'ennemi !</string>
 
-    <string name="weapon_skill_whip_ultimate_lash">&font_void;Ultimate Lash&font_end;</string>
-    <string name="weapon_skill_whip_ultimate_lash_desc">Lashes strongly the enemy.</string>
-    <string name="weapon_skill_whip_ultimate_lash_attack">You lash strongly the enemy!</string>
+    <string name="weapon_skill_whip_ultimate_lash">&font_void;Fouet ultime&font_end;</string>
+    <string name="weapon_skill_whip_ultimate_lash_desc">Lacère violemment l'ennemi.</string>
+    <string name="weapon_skill_whip_ultimate_lash_attack">Vous lacèrez l'ennemi violemment !</string>
 
-    <string name="autolevelup_levelled_up">%1$s auto-levelled up to level &font_cyan;%2$d&font_end;</string>
-    <string name="received_void_weapon">You received %1$s!</string>
+    <string name="autolevelup_levelled_up">%1$s est monté de niveau-auto jusqu'au niveau &font_cyan;%2$d&font_end;</string>
+    <string name="received_void_weapon">Vous avez reçu %1$s !</string>
 
     <string name="settings_auto_pick_up_enabled">Ramasse-objets combat auto</string>
     <string name="material_seaweed">&font_red;Algue&font_end;</string>
     <string name="material_pearl">&font_pearl;Perle&font_end;</string>
 
-    <string name="dungeon_coral_cave">&font_coral;Coral &font_end;&font_cave;Cave&font_end;</string>
-    <string name="tile_content_type_torch">&font_red;Torch&font_end;</string>
-    <string name="item_info_torch">Use this to see further in dungeons!</string>
-    <string name="torch_use_question">Do you want to use a &font_red;Torch&font_end; to see better?&br;&br;It will last until you exit %1$s.</string>
-    <string name="ascension_flame_lights_up_the_place">The &asterisk_ascend_color;Ascension &font_end;&font_red;Flame &font_end;lights up the place!</string>
+    <string name="dungeon_coral_cave">&font_cave;Caverne &font_end;de &font_coral;corail&font_end;</string>
+    <string name="tile_content_type_torch">&font_red;Torche&font_end;</string>
+    <string name="item_info_torch">Utilisez cela pour voir plus loin dans les dongeons !</string>
+    <string name="torch_use_question">Voulez-vous utiliser une &font_red;torche&font_end; pour y voir plus clair ?&br;&br;Elle durera jusqu'à ce que vous quittiez %1$s.</string>
+    <string name="ascension_flame_lights_up_the_place">La &font_red;Flamme &font_end;de l'&asterisk_ascend_color;Ascension &font_end;éclaire le lieu !</string>
 
     <string name="skill_points_to_base_stats">Use your &font_cyan;Skill Points &font_end;to increase your base stats.&br;&br;You currently have &font_cyan;%d &font_end;SP.</string>
     <string name="skill_points_to_base_stats_attack">Increase &font_attack;Attack &font_end;(&font_cyan;%1$d &font_end;SP) [&font_attack;%2$d&font_end;]</string>
