@@ -3210,30 +3210,30 @@
     <string name="island_arrival_type_valley">Вы обнаружили остров. Кажется, он покрыт травой, разными растениями и небольшими горами.</string>
     <string name="island_arrival_type_forest">Вы обнаружили остров, который наполнен деревьями и экзотическими монстрами.</string>
     <string name="island_arrival_type_mountain">Вы обнаружили горный остров. Здесь много скал, и вы чувствуете, что вам придётся много карабкаться.</string>
-    <string name="island_arrival_type_swamp">Вы обнаружили остров. Запах и мухи в воздухе говорят об опасности.</string>
-    <string name="island_arrival_type_savanna">Вы обнаружили остров. Здесь есть отдельные кусты и деревья, а температура вполне комфортная.</string>
-    <string name="island_arrival_type_jungle">Вы обнаружили остров с густыми деревьями, растениями и большим количеством зелени. Кто знает, какие опасности подстерегают впереди…</string>
+    <string name="island_arrival_type_swamp">Вы обнаружили остров. Запах и мухи кругом говорят об опасности.</string>
+    <string name="island_arrival_type_savanna">Вы обнаружили остров. Здесь есть отдельные кусты и деревья, и температура вполне комфортная.</string>
+    <string name="island_arrival_type_jungle">Вы обнаружили остров с раскидистыми деревьями, растениями и большим количеством зелени. Кто знает, какие опасности подстерегают впереди…</string>
     <string name="island_arrival_type_desert">Вы обнаружили остров. Кругом вы видите только песок и солнце.</string>
     <string name="island_arrival_type_tundra">Вы обнаружили остров. Кругом лед и очень низкая температура. Вы задумались, а стоит ли вообще исследовать это место.</string>
     <string name="island_arrival_type_taiga">Вы обнаружили остров. Кругом лед и очень низкая температура. Вы задумались, а стоит ли вообще исследовать это место.</string>
-    <string name="island_arrival_type_mesa">Вы обнаружили остров, кажущийся холмом с плоской вершиной, окруженным со всех сторон крутыми утёсами.</string>
-    <string name="island_arrival_type_beach">Вы оказываетесь, кажется, на архипелаге. Вам придётся много плавать, если вы хотите раскрыть все секреты этого места.</string>
+    <string name="island_arrival_type_mesa">Вы обнаружили остров, похожий на приплюснутый холм, окруженный со всех сторон крутыми утёсами.</string>
+    <string name="island_arrival_type_beach">Вы оказываетесь, как вам кажется, на архипелаге. Вам придётся много плавать, если вы хотите раскрыть все секреты этого места.</string>
     <string name="island_arrival_type_lake">Вы обнаружили остров с каким-то озером и обилием растительности.</string>
     <string name="island_arrival_type_barrens">Вы обнаружили остров с разными биомами.</string>
     <string name="island_arrival_type_volcano">Вы обнаружили остров. Высокая температура и дым говорят об опасности.</string>
-    <string name="island_arrival_type_high_mountains">Вы обнаружили горный остров. На нем расположены самые высокие горы, которые вам только доводилось видеть.</string>
+    <string name="island_arrival_type_high_mountains">Вы обнаружили горный остров. На нём расположены самые высокие горы, которые вам только доводилось видеть.</string>
 
-    <string name="island_arrival_type_giants">Вы обнаружили остров, где все кажется больших размеров, чем на других островах.</string>
+    <string name="island_arrival_type_giants">Вы обнаружили остров, где всё кажется больше, чем на других островах.</string>
     <string name="island_arrival_type_dragons">Вы обнаружили остров, где вы чувствуете запах серы и присутствие опасных существ.</string>
     <string name="island_arrival_type_undead">Вы обнаружили остров. Кажется, здесь почти нет жизни.</string>
     <string name="island_arrival_type_plant">Вы обнаружили почти полностью зелёный остров. Он полон опасных растений.</string>
-    <string name="island_arrival_type_fey">Вы обнаружили загадочный остров. Деревья и густая растительность скрывают опасных созданий.</string>
+    <string name="island_arrival_type_fey">Вы обнаружили загадочный остров. В деревьях и густой растительности скрываются опасные создания.</string>
     <string name="island_arrival_type_beast">Вы обнаружили остров. Крики местных зверей пригвоздили вас к месту. Что это за место?</string>
     <string name="island_arrival_type_humanoid">Вы обнаружили остров. Вы не замечаете ничего особенного, но думаете, что здесь будет трудно отличить друга от неприятеля.</string>
-    <string name="island_arrival_type_construct">Вы обнаружили остров. Все монстры кажутся будто искусственными или неорганического происхождения.</string>
-    <string name="island_arrival_type_elemental">Вы обнаружили остров. Вы чувствуете здесь большое количество энергии, его опасно исследовать.</string>
+    <string name="island_arrival_type_construct">Вы обнаружили остров. Все монстры кажутся искусственными или ненастоящими.</string>
+    <string name="island_arrival_type_elemental">Вы обнаружили остров. Вы чувствуете здесь большое количество энергии, этот остров опасно исследовать.</string>
     <string name="island_arrival_type_swarm">Вы обнаружили остров. Он похож на какое-то болото, и вы постоянно слышите жужжание.</string>
-    <string name="island_arrival_type_ooze">Вы обнаружили остров. Вы ничего не видите рядом с собой, но что-то указывает на чье-то присутствие.</string>
+    <string name="island_arrival_type_ooze">Вы обнаружили остров. Вы ничего не видите рядом с собой, но что-то указывает на чьё-то присутствие.</string>
     <string name="island_arrival_type_aberration">Вы обнаружили остров. Это не обычный остров. Вы чувствуете огромных и уродливых монстров, населяющих его.</string>
 
     <string name="island_arrival_type_tyrant">Стоило вам ступить на этот остров, как у вас волосы встали дыбом. Вы понимаете, что на этом острове будет трудно.</string>
@@ -3243,7 +3243,7 @@
     <string name="island_arrival_type_black_island">Стоило вам прибыть на этот остров, как вам стало не по себе из-за пустоты и странных созданий.</string>
     <string name="island_arrival_type_white_island">Стоило вам прибыть на этот остров, как вам стало не по себе из-за пустоты и странных созданий.</string>
 
-    <string name="island_arrival_type_void_island">Вы никогда не были в подобном месте. Вы ничего не чувствуете. Вы окружены &font_void;пустотой &font_end;и даже не представляете, что найдёте здесь.</string>
+    <string name="island_arrival_type_void_island">Вы никогда не были в подобном месте. Вы ничего не чувствуете. Вы окружены &font_void;бездной &font_end;и даже не представляете, что найдёте здесь.</string>
 
     <string name="island_arrival_type_infinity_island">Вы оказались на острове бесконечности. Здесь искривляется сама реальность.</string>
     <string name="island_arrival_type_treasure_island">Вы обнаружили небольшой остров. Кругом только песок, и вы вскоре понимаете, что вас ожидает что-то невероятное.</string>
@@ -3297,7 +3297,7 @@
     <string name="advantage_librarian_desc">(Вы начнёте со знанием случайного рецепта, зельем &font_cyan;опыта &font_end;и 5 очками &font_cyan;навыков&font_end;)</string>
 
     <string name="dungeon_tutorial_title">Подземелья</string>
-    <string name="dungeon_tutorial_message_1">Добро пожаловать в своё первое подземелье, герой!</string>
+    <string name="dungeon_tutorial_message_1">Добро пожаловать в твоё первое подземелье, герой!</string>
     <string name="dungeon_tutorial_message_2">Ты получишь все найденные тобой в подземельях предметы при выходе из подземелья.</string>
     <string name="dungeon_tutorial_message_3">Ты не сможешь сменить снаряжение, изготавливать и использовать предметы и пр… но во время боя сможешь!</string>
     <string name="dungeon_tutorial_message_4">На последнем ярусе подземелий тебя поджидает Босс. Однако будь осторожен, чем ниже ярус, тем опаснее монстры!</string>
@@ -3315,9 +3315,9 @@
     <string name="material_type_beetle_talisman">&font_beetle_talisman;Талисман жука&font_end;</string>
 
     <string name="pyramid_its_closed">Закрыто…</string>
-    <string name="pyramid_its_closed_can_open">Закрыто, но она реагирует на ваш &font_beetle_talisman;Талисман жука&font_end;…</string>
+    <string name="pyramid_its_closed_can_open">Закрыто, но она реагирует на ваш &font_beetle_talisman;талисман жука&font_end;…</string>
     <string name="pyramid_interact">Взаимодействовать</string>
-    <string name="pyramid_opened">Пирамида поглощает &font_beetle_talisman;Талисман жука &font_end;и открывается!</string>
+    <string name="pyramid_opened">Пирамида поглощает &font_beetle_talisman;талисман жука &font_end;и открывается!</string>
 
     <string name="material_type_jade">&font_jade;Нефрит&font_end;</string>
     <string name="material_type_quartz">&font_quartz;Кварц&font_end;</string>
@@ -3351,8 +3351,8 @@
     <string name="item_info_creator_medal">Это яркая медаль, в память о вашей победе над &font_asterisk_creator;Создателем&font_end;.</string>
 
     <string name="wise_main_story_island_first_message">Приветствую, герой! Если я тебе понадоблюсь, то буду здесь!&br;&br;Если тебе нужно отдохнуть или покинуть это место, просто поговори со мной…</string>
-    <string name="wise_main_story_island_second_message">Хотите восстановить &font_health;здоровье &font_end;, &font_mana;ману &font_end;и &font_hunger;голод &font_end;за &font_gold;%1$d золота&font_end;? (A &font_primary_light;&italic;[CHECKPOINT] &italic_end;&font_end;will be saved)&br;&br;…or…&br;&br;Do you want to leave this place? It will disappear forever, you\'ll lose half of the &font_gold;gold &font_end;you are carrying, half from the &font_gold;BANK&font_end;, and you\'ll have to start looking for the &font_cyan;Pieces Of Map &font_end;again.</string>
-    <string name="wise_leave_island_confirmation_message">Вы уверены, что хотите уйти?&br;&br;Это место навсегда пропадёт, вы потеряете половину своего &font_gold;золота&font_end;, половину содержимого &font_gold;БАНКА&font_end;, и вам придётся заново искать &font_cyan;Части карты&font_end;.</string>
+    <string name="wise_main_story_island_second_message">Хочешь восстановить &font_health;здоровье &font_end;, &font_mana;ману &font_end;и &font_hunger;голод &font_end;за &font_gold;%1$d золота&font_end;? (Будет сохранён &font_primary_light;&italic;[ЧЕКПОИНТ] &italic_end;&font_end;)&br;&br;…или…&br;&br;Ты хочешь покинуть это место? Оно исчезнет навсегда, вы потеряете половину своего &font_gold;золота&font_end;, половину средств из &font_gold;БАНКА&font_end;, и вам придётся заново искать &font_cyan;части карты&font_end;.</string>
+    <string name="wise_leave_island_confirmation_message">Вы уверены, что хотите уйти?&br;&br;Это место навсегда пропадёт, вы потеряете половину своего &font_gold;золота&font_end;, половину средств из &font_gold;БАНКА&font_end;, и вам придётся заново искать &font_cyan;части карты&font_end;.</string>
 
     <string name="button_rest">Отдохнуть</string>
     <string name="button_leave_island">Уйти</string>
@@ -3401,7 +3401,7 @@
     <string name="tile_content_stairway_to_hell">&font_wood;Лестница &font_end;в &font_red;Ад&font_end;</string>
     <string name="tile_content_highway_to_heaven">&font_corrupted_god;Дорога &font_end;в &font_heaven;Рай&font_end;</string>
 
-    <string name="main_story_stairway_to_hell_advice_wont_be_able_to_come_back_to_island">Если вы войдете в %1$s, вы не сможете вернуться в %2$s!&br;&br;Всё равно войти?</string>
+    <string name="main_story_stairway_to_hell_advice_wont_be_able_to_come_back_to_island">Если вы войдёте в %1$s, вы не сможете вернуться в %2$s!&br;&br;Всё равно войти?</string>
     <string name="main_story_7_stairway_to_hell_appears">Возникает &font_wood;Лестница &font_end;в &font_red;Ад&font_end;!</string>
 
     <string name="main_story_7_the_tyrant_message_6_new">Используйте эту &font_wood;Лестницу &font_end;в &font_red;Ад&font_end;, чтобы найти его…</string>
@@ -3411,8 +3411,8 @@
     <string name="tile_content_type_cassette_collector">&font_gold;Собиратель&font_end; &font_alchemist;кассет&font_end;</string>
     <string name="tile_content_type_cassette_collector_with_gem">&font_gold;Собиратель&font_end; &font_alchemist;кассет&font_end;(%s)</string>
 
-    <string name="cassette_collector_message">Привет! Я &font_gold;Собиратель&font_end; &font_alchemist;кассет&font_end;!&br;&br;Если ты найдёшь &font_alchemist;Кассету&font_end;, не мог бы ты отдать её мне? Я дам за неё %1$s…</string>
-    <string name="cassette_collector_you_dont_have_any_cassette">У вас нет &font_alchemist;Кассет&font_end;…</string>
+    <string name="cassette_collector_message">Привет! Я &font_gold;собиратель&font_end; &font_alchemist;кассет&font_end;!&br;&br;Если ты найдёшь &font_alchemist;кассету&font_end;, не мог бы ты отдать её мне? Я дам за неё %1$s…</string>
+    <string name="cassette_collector_you_dont_have_any_cassette">У вас нет &font_alchemist;кассет&font_end;…</string>
 
     <string name="collection_material">Материал</string>
 
@@ -3430,16 +3430,16 @@
     <string name="monster_action_game_glitch">Глитч игры</string>
     <string name="monster_action_reality_crash">Обвал реальности</string>
 
-    <string name="item_info_ankh">Здесь небольшое изображение &font_pyramid;Сфинкса&font_end;…</string>
+    <string name="item_info_ankh">Здесь небольшое изображение &font_pyramid;сфинкса&font_end;…</string>
 
-    <string name="inventory_use_red_opal">Используйте &font_red;Красный &font_end;&font_onyx;опал&font_end;, чтобы увеличить макс. голод на &font_hunger;%1$d&font_end;.</string>
-    <string name="inventory_use_green_opal">Используйте &font_green;Зелёный &font_end;&font_onyx;опал&font_end;, чтобы увеличить макс. здоровье на &font_health;%1$d&font_end;.</string>
-    <string name="inventory_use_blue_opal">Используйте &font_blue;Синий &font_end;&font_onyx;опал&font_end;, чтобы увеличить макс. ману на &font_mana;%1$d&font_end;.</string>
+    <string name="inventory_use_red_opal">Используйте &font_red;красный &font_end;&font_onyx;опал&font_end;, чтобы увеличить макс. голод на &font_hunger;%1$d&font_end;.</string>
+    <string name="inventory_use_green_opal">Используйте &font_green;зелёный &font_end;&font_onyx;опал&font_end;, чтобы увеличить макс. здоровье на &font_health;%1$d&font_end;.</string>
+    <string name="inventory_use_blue_opal">Используйте &font_blue;синий &font_end;&font_onyx;опал&font_end;, чтобы увеличить макс. ману на &font_mana;%1$d&font_end;.</string>
     <string name="inventory_use_infinity_energy">Используйте &font_cyan;Энергию &font_end;&font_infinity;Бесконечности&font_end;, чтобы полностью восстановить &font_health;здоровье&font_end;, &font_mana;ману &font_end;и &font_hunger;голод&font_end;.</string>
 
     <string name="inventory_used_infinity_energy">Вы использовали &font_cyan;Энергию &font_end;&font_infinity;Бесконечности&font_end;!</string>
 
-    <string name="item_info_ascension_flame">Вы чувствуете, что &font_red;Пламя &font_end;&asterisk_ascend_color;Вознесения &font_end;- сильнейший предмет, к которому вы прикасались… Интересно, для чего он нужен…</string>
+    <string name="item_info_ascension_flame">Вы чувствуете, что &font_red;Пламя &font_end;&asterisk_ascend_color;Вознесения &font_end;- сильнейший предмет, к которому вы когда-либо прикасались… Интересно, для чего он нужен…</string>
     <string name="settings_leaderboards">Таблица лидеров</string>
 
 
@@ -3450,14 +3450,14 @@
     <string name="tile_content_type_void_merchant">&font_gold;Торговец &font_end;&font_void;Бездны&font_end;</string>
 
     <string name="void_merchant_message_1">Привет…&br;&br;</string>
-    <string name="void_merchant_message_2">У тебя… у тебя есть &font_dark_orb;Тёмная сфера&font_end;?&br;&br;Отдай её мне? Я дам тебе особое &font_void;оружие&font_end;…</string>
+    <string name="void_merchant_message_2">У тебя… у тебя есть &font_dark_orb;Тёмная сфера&font_end;?&br;&br;Отдай её мне. Я дам тебе особое &font_void;оружие&font_end;…</string>
     <string name="void_merchant_message_dont_have">У тебя нет &font_dark_orb;Тёмной сферы&font_end;… Со своим временем делай, что хочешь, но моё не трать…</string>
-    <string name="void_merchant_message_have">О, милостивая &font_void;бездна&font_end;…! Спасибо… Как и обещал, это тебе…</string>
+    <string name="void_merchant_message_have">О, милостивая &font_void;Бездна&font_end;…! Спасибо… Как я и обещал, это тебе…</string>
     <string name="void_merchant_message_have_2">Если найдёшь ещё, возвращайся…</string>
 
-    <string name="settings_show_gold_on_top">Показывать Золото наверху</string>
-    <string name="skill_whip_mastery">Владение &font_void;Хлыстом&font_end;</string>
-    <string name="skill_whip_mastery_desc">Атака &font_void;Хлыстом &font_end;откроет навыки боя для &font_void;Хлыста&font_end;.</string>
+    <string name="settings_show_gold_on_top">Показывать золото сверху</string>
+    <string name="skill_whip_mastery">Владение &font_void;хлыстом&font_end;</string>
+    <string name="skill_whip_mastery_desc">Атака &font_void;хлыстом &font_end;откроет навыки боя для &font_void;хлыста&font_end;.</string>
     <string name="weapon_type_whip">&font_void;Хлыст&font_end;</string>
 
     <string name="weapon_skill_whip_fast_lash">&font_speed;Быстрый &font_end;&font_void;удар&font_end;</string>
@@ -3490,29 +3490,29 @@
     <string name="dungeon_coral_cave">&font_coral;Коралловая &font_end;&font_cave;пещера&font_end;</string>
     <string name="tile_content_type_torch">&font_red;Факел&font_end;</string>
     <string name="item_info_torch">Используйте его, чтобы дальше видеть в подземельях!</string>
-    <string name="torch_use_question">Использовать &font_red;Факел&font_end;, чтобы лучше видеть?&br;&br;Он продержится до вашего выхода из %1$s.</string>
+    <string name="torch_use_question">Использовать &font_red;факел&font_end;, чтобы лучше видеть?&br;&br;Он продержится до вашего выхода из %1$s.</string>
     <string name="ascension_flame_lights_up_the_place">&font_red;Пламя &font_end;&asterisk_ascend_color;Вознесения &font_end;осветило это место!</string>
 
-    <string name="skill_points_to_base_stats">Используйте &font_cyan;Очки опыта (SP)&font_end;, чтобы улучшить базовые характеристики.&br;&br;Сейчас у вас &font_cyan;%d &font_end;SP.</string>
-    <string name="skill_points_to_base_stats_attack">Улучшить &font_attack;Атаку &font_end;(&font_cyan;%1$d &font_end;SP) [&font_attack;%2$d&font_end;]</string>
-    <string name="skill_points_to_base_stats_defense">Улучшить &font_defense;Защиту &font_end;(&font_cyan;%1$d &font_end;SP) [&font_defense;%2$d&font_end;]</string>
-    <string name="skill_points_to_base_stats_speed">Улучшить &font_speed;Скорость &font_end;(&font_cyan;%1$d &font_end;SP) [&font_speed;%2$d&font_end;]</string>
-    <string name="skill_points_to_base_stats_intelligence">Улучшить &font_mana;Интеллект &font_end;(&font_cyan;%1$d &font_end;SP) [&font_mana;%2$d&font_end;]</string>
+    <string name="skill_points_to_base_stats">Используйте &font_cyan;очки опыта (SP)&font_end;, чтобы улучшить базовые характеристики.&br;&br;Сейчас у вас &font_cyan;%d &font_end;SP.</string>
+    <string name="skill_points_to_base_stats_attack">Улучшить &font_attack;атаку &font_end;(&font_cyan;%1$d &font_end;SP) [&font_attack;%2$d&font_end;]</string>
+    <string name="skill_points_to_base_stats_defense">Улучшить &font_defense;защиту &font_end;(&font_cyan;%1$d &font_end;SP) [&font_defense;%2$d&font_end;]</string>
+    <string name="skill_points_to_base_stats_speed">Улучшить &font_speed;скорость &font_end;(&font_cyan;%1$d &font_end;SP) [&font_speed;%2$d&font_end;]</string>
+    <string name="skill_points_to_base_stats_intelligence">Улучшить &font_mana;интеллект &font_end;(&font_cyan;%1$d &font_end;SP) [&font_mana;%2$d&font_end;]</string>
 
-    <string name="increased_base_attack_to">Базовая &font_attack;Атака &font_end;улучшена до &font_attack;%1$d&font_end;.</string>
-    <string name="increased_base_defense_to">Базовая &font_defense;Защита &font_end;улучшена до &font_defense;%1$d&font_end;.</string>
-    <string name="increased_base_speed_to">Базовая &font_speed;Скорость &font_end;улучшена до &font_speed;%1$d&font_end;.</string>
-    <string name="increased_base_intelligence_to">Базовый &font_mana;Интеллект &font_end;улучшен до &font_mana;%1$d&font_end;.</string>
+    <string name="increased_base_attack_to">Базовая &font_attack;атака &font_end;улучшена до &font_attack;%1$d&font_end;.</string>
+    <string name="increased_base_defense_to">Базовая &font_defense;защита &font_end;улучшена до &font_defense;%1$d&font_end;.</string>
+    <string name="increased_base_speed_to">Базовая &font_speed;скорость &font_end;улучшена до &font_speed;%1$d&font_end;.</string>
+    <string name="increased_base_intelligence_to">Базовый &font_mana;интеллект &font_end;улучшен до &font_mana;%1$d&font_end;.</string>
 
     <string name="skill_dungeoneer">&font_stone;Подземельник&font_end;</string>
-    <string name="skill_dungeoneer_description">Узнать типы &font_stone;Подземелий &font_end;на острове, если они здесь есть.</string>
-    <string name="skill_dungeoneer_action">Почувствовать &font_stone;Подземелье&font_end;</string>
-    <string name="skill_dungeoneer_action_title">Почувствовать &font_stone;Подземелья&font_end;</string>
+    <string name="skill_dungeoneer_description">Узнать типы &font_stone;подземелий &font_end;на острове, если они здесь есть.</string>
+    <string name="skill_dungeoneer_action">Почувствовать &font_stone;подземелья&font_end;</string>
+    <string name="skill_dungeoneer_action_title">Почувствовать &font_stone;подземелья&font_end;</string>
     <string name="skill_dungeoneer_success">Я чувствую здесь %s!</string>
-    <string name="skill_dungeoneer_no_dungeon_detected">Вы не обнаружили ни одного &font_stone;Подземелья&font_end;…</string>
+    <string name="skill_dungeoneer_no_dungeon_detected">Вы не обнаружили ни одного &font_stone;подземелья&font_end;…</string>
     <string name="material_pure_essence">&font_purifying;Чистая эссенция&font_end;</string>
-    <string name="completely_purified_island">Остров полностью &font_purifying;* Очищен * &font_end;, и вы получили &font_purifying;Чистую эссенцию&font_end;!</string>
-    <string name="purifying_tree_text_completely_purified_label">{ &font_purifying;* Очищено *&font_end;}</string>
+    <string name="completely_purified_island">Остров полностью &font_purifying;* очищен * &font_end;, и вы получили &font_purifying;Чистую эссенцию&font_end;!</string>
+    <string name="purifying_tree_text_completely_purified_label">{ &font_purifying;* очищено *&font_end;}</string>
     <string name="tile_type_water">Вода</string>
     <string name="settings_show_squares_map">Показывать квадраты на карте</string>
 
@@ -3520,7 +3520,7 @@
     <string name="island_remove_text">Убрать информацию</string>
 
     <string name="advantage_cartographer">&font_cyan;Картограф&font_end;</string>
-    <string name="advantage_cartographer_desc">(Вы начнёте с &font_gold;Картой &font_end;&font_cyan;Острова &font_end;и случайной &font_cyan;Навигационной картой&font_end;)</string>
+    <string name="advantage_cartographer_desc">(Вы начнёте с &font_gold;картой &font_end;&font_cyan;острова &font_end;и случайной &font_cyan;навигационной картой&font_end;)</string>
 
     <string name="title_the_cartographer_male">%1$s, &font_cyan;Картограф&font_end;</string>
     <string name="title_the_cartographer_female">%1$s, &font_cyan;Картограф&font_end;</string>
@@ -3563,19 +3563,19 @@
     <string name="your_pet_quaffs_potion_healed">Питомец %1$s вылечен &font_health;%2$d &font_end;очков здоровья!</string>
     <string name="your_pet_quaffs_potion_restored">Питомец %1$s восстановил &font_mana;%2$d &font_end;очков маны!</string>
 
-    <string name="tile_content_type_heal_pet_potion">Зелье &font_health;Исцеления &font_end;&font_pet;питомца &font_end;</string>
-    <string name="tile_content_type_mana_pet_potion">Зелье &font_mana;Маны &font_end;&font_pet;питомца &font_end;</string>
-    <string name="tile_content_type_revive_pet_potion">Зелье &font_health;Воскрешения &font_end;&font_pet;питомца&font_end;</string>
+    <string name="tile_content_type_heal_pet_potion">Зелье &font_health;исцеления &font_end;&font_pet;питомца &font_end;</string>
+    <string name="tile_content_type_mana_pet_potion">Зелье &font_mana;маны &font_end;&font_pet;питомца &font_end;</string>
+    <string name="tile_content_type_revive_pet_potion">Зелье &font_health;воскрешения &font_end;&font_pet;питомца&font_end;</string>
 
-    <string name="item_name_heal_pet_potion">Зелье &font_health;Исцеления &font_end;&font_pet;питомца&font_end; (&font_health;%1$d&font_end;%%)</string>
-    <string name="item_name_mana_pet_potion">Залье &font_mana;Маны &font_end;&font_pet;питомца&font_end; (&font_health;%1$d&font_end;%%)</string>
-    <string name="item_name_revive_pet_potion">Зелье &font_health;Воскрешения &font_end;&font_pet;питомца&font_end; (&font_health;%1$d&font_end;%%)</string>
-    <string name="item_experience_pet_potion">Зелье &font_cyan;Опыта &font_end;&font_pet;питомца&font_end;</string>
-    <string name="item_experience_pet_potion_amount">Зелье &font_cyan;Опыта &font_end;&font_pet;питомца &font_end; (&font_cyan;%1$d&font_end;)</string>
+    <string name="item_name_heal_pet_potion">Зелье &font_health;исцеления &font_end;&font_pet;питомца&font_end; (&font_health;%1$d&font_end;%%)</string>
+    <string name="item_name_mana_pet_potion">Залье &font_mana;маны &font_end;&font_pet;питомца&font_end; (&font_health;%1$d&font_end;%%)</string>
+    <string name="item_name_revive_pet_potion">Зелье &font_health;воскрешения &font_end;&font_pet;питомца&font_end; (&font_health;%1$d&font_end;%%)</string>
+    <string name="item_experience_pet_potion">Зелье &font_cyan;опыта &font_end;&font_pet;питомца&font_end;</string>
+    <string name="item_experience_pet_potion_amount">Зелье &font_cyan;опыта &font_end;&font_pet;питомца &font_end; (&font_cyan;%1$d&font_end;)</string>
 
-    <string name="tile_content_type_pet_shop">&font_gold;Магазин &font_end;&font_pet;Питомцев&font_end;</string>
+    <string name="tile_content_type_pet_shop">&font_gold;Магазин &font_end;&font_pet;питомцев&font_end;</string>
     <string name="pet_item_name">&font_pet;Питомец &font_end; (%1$s)</string>
-    <string name="item_info_pet_item">Купите его, чтобы сделать этого &font_pet;Питомца &font_end;своим товарищем в путешествиях!</string>
+    <string name="item_info_pet_item">Купите его, чтобы сделать этого &font_pet;питомца &font_end;своим товарищем в путешествиях!</string>
 
     <string name="pets_couldn_pick_up">Вы не можете взять %s с собой, у вас недостаточно места для &font_pet;питомцев&font_end;!</string>
     <string name="pets_already_healthy">Ваш питомец %1$s уже &font_health;здоров&font_end;!</string>
@@ -3588,7 +3588,7 @@
     <string name="repaired">Отремонтировано - %s!</string>
 
     <string name="broken_dark_gate_message_not_repairable">&font_void;Тёмные &font_end;&font_stone;ворота &font_end;сломаны… для их ремонта нужны &font_void;Тёмные &font_end;&font_stone;камни&font_end;…</string>
-    <string name="broken_dark_gate_message_repairable">&font_void;Тёмные &font_end;&font_stone;ворота &font_end;сломаны… кажется, у вас достаточно &font_void;Тёмных &font_end;&font_stone;камней &font_end;для ремонта!&br;&br;Починить &font_void;Тёмные &font_end;&font_stone;ворота&font_end;, использовав %d &font_void;Тёмных &font_end;&font_stone;камней&font_end;?</string>
+    <string name="broken_dark_gate_message_repairable">&font_void;Тёмные &font_end;&font_stone;ворота &font_end;сломаны… похоже, у вас достаточно &font_void;Тёмных &font_end;&font_stone;камней &font_end;для ремонта!&br;&br;Починить &font_void;Тёмные &font_end;&font_stone;ворота&font_end;, использовав %d &font_void;Тёмных &font_end;&font_stone;камней&font_end;?</string>
     <string name="purifying_tree_message_with_monsters">Чистое и сверкающее %1$s здесь.&br;&br;Вы смотрите на его яркие фиолетовые листья, но замечаете &font_cyan;%2$d &font_end;&font_red;красных &font_end;листьев…</string>
     <string name="purifying_tree_message_with_one_monster">Чистое и сверкающее %1$s здесь.&br;&br;Вы смотрите на его яркие фиолетовые листья, но замечаете &font_cyan;%2$d &font_end;&font_red;красный &font_end;лист…</string>
     <string name="purifying_tree_message_no_monsters_no_completely_purified">Чистое и сверкающее %1$s здесь.&br;&br;Вы смотрите на его яркие фиолетовые листья и не видите никаких &font_red;красных &font_end;листьев…&br;&br;А вот и для вас кое-что есть…</string>
@@ -3621,11 +3621,11 @@
     <string name="item_info_experience_potion_recipe_info">Выпейте, чтобы сразу получить &font_cyan;опыт&font_end;.</string>
     <string name="item_info_potion_pet_revive_recipe_info_recipe_info">Дайте это своему &font_pet;питомцу&font_end;, чтобы &font_health;воскресить &font_end;и &font_health;исцелить &font_end;его.</string>
 
-    <string name="arrow_item_info">&font_wood;Припасы &font_end;для стрельбы из &font_wood;Лука&font_end;.</string>
-    <string name="bolt_item_info">&font_wood;Припасы &font_end;для стрельбы из &font_wood;Арбалета&font_end;.</string>
-    <string name="stone_item_info">Материал для &font_cyan;Изготовления &font_end;других предметов. Также является &font_wood;припасами &font_end;для стрельбы из &font_wood;Пращи&font_end;.</string>
+    <string name="arrow_item_info">&font_wood;Припасы &font_end;для стрельбы из &font_wood;лука&font_end;.</string>
+    <string name="bolt_item_info">&font_wood;Припасы &font_end;для стрельбы из &font_wood;арбалета&font_end;.</string>
+    <string name="stone_item_info">Материал для &font_cyan;изготовления &font_end;других предметов. Также является &font_wood;припасами &font_end;для стрельбы из &font_wood;пращи&font_end;.</string>
     <string name="cartographer_stone_info">Позволяет отмечать или добавлять информацию к островам из вашего списка.</string>
-    <string name="wooden_sign_info">Используйте, чтобы создать &font_wood;Деревянный знак &font_end;в любом месте и сделать на нём запись. Он отобразится на карте в виде &font_wood;X&font_end;.</string>
+    <string name="wooden_sign_info">Используйте, чтобы создать &font_wood;деревянный знак &font_end;в любом месте и сделать на нём запись. Он отобразится на карте в виде &font_wood;X&font_end;.</string>
 
     <string name="button_blacksmith_ask_about_material_tiers">Узнать о &font_cyan;классах &font_end;&font_wood;материалов&font_end;</string>
     <string name="blacksmith_material_tiers_message">Ах, ты хочешь узнать о классах материалов? Вот их порядок:&br;&br;&font_wood;Дерево &font_end;-> &font_leather;Кожа &font_end;-> &font_copper;Медь &font_end;-> &font_tin;Олово &font_end;-> &font_iron;Железо &font_end;-> &font_bronze;Бронза &font_end;-> &font_silver;Серебро &font_end;-> &font_gold;Золото &font_end;-> &font_diamond;Алмаз &font_end;-> &font_obsidian;Обсидиан &font_end;&br;&br;Есть еще несколько очень редких материалов, но я сомневаюсь, что ты их когда-нибудь найдёшь…</string>
@@ -3650,7 +3650,7 @@
         &br;* Ваша исходная &font_speed;скорость &font_end;теперь &font_speed;%8$d&font_end;
 
         &br;* Вы начинаете с &font_gold;%9$d золотыми &font_end;монетами
-        &br;* Вы начинаете с &font_cyan;%10$d &font_end;&font_cyan;Очками опыта&font_end;
+        &br;* Вы начинаете с &font_cyan;%10$d &font_end;&font_cyan;очками опыта&font_end;
         &br;&br;Удачи в новых приключениях,&br;%11$s!
     </string>
 
@@ -3719,9 +3719,9 @@
     <string name="stats_extra_inc_speed">Повышенная &font_speed;Ск&font_end;.: &font_speed;%d&font_end;</string>
     <string name="stats_extra_inc_intelligence">Повышенный &font_mana;Инт&font_end;.: &font_mana;%d&font_end;</string>
 
-    <string name="increases_max_health">&br;&br;Повышает максимальный уровень &font_health;Здоровья&font_end;.</string>
-    <string name="increases_max_mana">&br;&br;Повышает максимальный уровень &font_mana;Маны&font_end;.</string>
-    <string name="increases_max_hunger">&br;&br;Повышает максимальный уровень &font_hunger;Голода&font_end;.</string>
+    <string name="increases_max_health">&br;&br;Повышает максимальный уровень &font_health;здоровья&font_end;.</string>
+    <string name="increases_max_mana">&br;&br;Повышает максимальный уровень &font_mana;маны&font_end;.</string>
+    <string name="increases_max_hunger">&br;&br;Повышает максимальный уровень &font_hunger;голода&font_end;.</string>
     <string name="increases_base_attack">&br;&br;Повышает уровень &font_cyan;исходной &font_end;&font_attack;атаки&font_end;.</string>
     <string name="increases_base_defense">&br;&br;Повышает уровень &font_cyan;исходной &font_end;&font_defense;защиты&font_end;.</string>
     <string name="increases_base_speed">&br;&br;Повышает уровень &font_cyan;исходной &font_end;&font_speed;скорости&font_end;.</string>
@@ -3732,17 +3732,17 @@
     <string name="cant_summon_if_theres_a_monster_nearby">Невозможно &font_void;призвать &font_end;&font_red;монстра&font_end;, если рядом уже есть &font_red;монстр&font_end;…</string>
     <string name="scrap_from_inventory_message">У вас есть &font_red;Пламя &font_end;&asterisk_ascend_color;Вознесения&font_end;, поэтому вы можете &font_iron;разобрать &font_end;своё снаряжение.&br;&br; &font_iron;Разобрать &font_end;%1$s?</string>
 
-    <string name="button_scrap_inventory">S</string>
-    <string name="button_drop_reduced">D</string>
+    <string name="button_scrap_inventory">Р</string>
+    <string name="button_drop_reduced">Б</string>
 
-    <string name="tile_content_type_monster_trophy">&font_gold;Трофей &font_end;&font_red;Монстра&font_end;</string>
+    <string name="tile_content_type_monster_trophy">&font_gold;Трофей &font_end;&font_red;монстра&font_end;</string>
     <string name="monster_trophy_name">&font_gold;Трофей&font_end; %1$s [&font_cyan;%2$d&font_end;]</string>
-    <string name="item_info_monster_trohpy_info">Это &font_gold;Трофей&font_end; %1$s, полученный за убийство %1$s с уровнем &font_cyan;%2$d&font_end;!</string>
+    <string name="item_info_monster_trohpy_info">Это &font_gold;трофей&font_end; %1$s, полученный за убийство %1$s с уровнем &font_cyan;%2$d&font_end;!</string>
 
     <string name="tile_content_type_infinity_portal">&font_portal;Портал &font_end;&font_infinity;Бесконечности&font_end;</string>
-    <string name="infinity_portal_info">Используйте это, чтобы создать &font_portal;Портал &font_end;к началу этой &font_infinity;Бесконечности &font_end;(в этой фразе вообще есть смысл?).</string>
-    <string name="infinity_portal_enter">Пройти сквозь &font_portal;Портал &font_end;к началу этой &font_infinity;Бесконечности &font_end;(в этой фразе вообще есть смысл?).</string>
-    <string name="cant_cross_this_portal">Вы не можете войти в этот &font_portal;Портал &font_end;&font_infinity;Бесконечности&font_end;…</string>
+    <string name="infinity_portal_info">Используйте это, чтобы создать &font_portal;портал &font_end;к началу этой &font_infinity;Бесконечности &font_end;(в этой фразе вообще есть смысл?).</string>
+    <string name="infinity_portal_enter">Пройти сквозь &font_portal;портал &font_end;к началу этой &font_infinity;Бесконечности &font_end;(в этой фразе вообще есть смысл?).</string>
+    <string name="cant_cross_this_portal">Вы не можете войти в этот &font_portal;портал &font_end;&font_infinity;Бесконечности&font_end;…</string>
 
     <string name="achievement_name_summoner">Заклинатель</string>
     <string name="achievement_desc_summoner">Призвать Монстра с помощью Камня призыва</string>
@@ -3776,16 +3776,16 @@
     <string name="wise_have_in_void_island">Отлично, ты добрался! Будь осторожен… Местные создания более опасны… Тебя также поджидает могущественное существо…</string>
 
     <string name="void_master_after_killing_text_3_new">Ну что же… На тебе полный комплект &font_void;Бездны&font_end;… Вот, возьми… Ты поймёшь, что с этим делать… Увидимся…</string>
-    <string name="settings_show_double_space_map">Double Space In Map</string>
+    <string name="settings_show_double_space_map">Двойной пробел на карте</string>
 
     <string name="young_child_extra_advice_1">Ладно… ну, ты кажешься потерянным, позволь дать тебе совет…&br;&br;Я бы не вступал в бой с более сильными монстрами. По крайней мере до тех пор, пока ты не будешь готов.</string>
-    <string name="young_child_extra_advice_2">На твоём месте я бы купил &font_cyan;Снаряжение &font_end;в &font_bronze;Оружейной &font_end;или могущественное &font_mana;Заклинание &font_end;в &font_mana;Магическом &font_end;&font_gold;магазине&font_end;, чтобы защитить себя…&br;&br;И нет, я за это комиссию не беру! Хотя мой &italic;Дядя &italic_end;работает в &font_bronze;Оружейной&font_end;, а моя &italic;Бабушка &italic_end;заведует &font_mana;Волшебным &font_end;&font_gold;магазином&font_end;…</string>
-    <string name="young_child_extra_advice_3">Ах! И ты должен есть, когда ты &font_hunger;голоден&font_end;, иначе ты очень быстро погибнешь!&br;&br;Ты можешь &font_cyan;есть &font_end;&font_plant;еду &font_end;из своего &font_wood;Инвентаря &font_end;или есть в &font_bar;Баре &font_end;или &font_bar;Таверне&font_end;…</string>
+    <string name="young_child_extra_advice_2">На твоём месте я бы купил &font_cyan;снаряжение &font_end;в &font_bronze;Оружейной &font_end;или могущественное &font_mana;заклинание &font_end;в &font_mana;Магическом &font_end;&font_gold;магазине&font_end;, чтобы защитить себя…&br;&br;И нет, я с этого ничего не имею! Ну и что, что мой &italic;дядя &italic_end;работает в &font_bronze;Оружейной&font_end;, а &italic;бабушка &italic_end;заведует &font_mana;Волшебным &font_end;&font_gold;магазином&font_end;…</string>
+    <string name="young_child_extra_advice_3">Ах! И ты должен есть, когда ты &font_hunger;голоден&font_end;, иначе ты очень быстро погибнешь!&br;&br;Ты можешь &font_cyan;есть &font_end;&font_plant;еду &font_end;из своего &font_wood;инвентаря &font_end;или зайти в &font_bar;Бар &font_end;или &font_bar;Таверну&font_end;…</string>
 
     <string name="pyramid_was_cursed_and_closed">&font_pyramid;Пирамиду &font_end;прокляли и закрыли!</string>
     <string name="pyramid_is_now_open">&font_pyramid;Пирамида &font_end;теперь открыта!</string>
     <string name="pyramid_didnt_open">&font_pyramid;Пирамида &font_end;не открылась…</string>
-    <string name="new_game_chicken_mode_selected">В режиме &font_animal;Курочки &font_end;у вас будут следующие преимущества:&br;&br;* &font_red;Монстры &font_end;не помешают вам взаимодействовать с &font_cyan;NPC&font_end;.&br;&br;* Вы начнёте с дополнительным &font_gold;Золотом&font_end;.&br;&br;* Ваши исходные характеристики будут выше.&br;&br;* У вас будет дополнительная &font_speed;Скорость &font_end;при &font_cyan;побеге &font_end;от &font_red;монстров&font_end;.&br;&br;* \"&font_animal;Режим курочка&font_end;\" будет отображаться на экране характеристик вашего &font_cyan;героя&font_end;!</string>
+    <string name="new_game_chicken_mode_selected">В режиме &font_animal;Курочки &font_end;у вас будут следующие преимущества:&br;&br;* &font_red;Монстры &font_end;не помешают вам взаимодействовать с &font_cyan;NPC&font_end;.&br;&br;* Вы начнёте с дополнительным &font_gold;золотом&font_end;.&br;&br;* Ваши исходные характеристики будут выше.&br;&br;* У вас будет дополнительная &font_speed;скорость &font_end;при &font_cyan;побеге &font_end;от &font_red;монстров&font_end;.&br;&br;* \"&font_animal;Режим Курочки&font_end;\" будет отображаться на экране характеристик вашего &font_cyan;героя&font_end;!</string>
     <string name="chicken_mode_checkbox">&font_animal;Режим Курочки&font_end;</string>
     <string name="new_game_chicken_mode_not_selected">Наслаждайтесь обычным режимом RAR II.</string>
     <string name="chicken_mode_in_stats">&font_animal;Режим Курочки&font_end;</string>
@@ -3796,21 +3796,21 @@
 
     <string name="no_permadeath_gold_penalty">&br;&br;&font_cyan;* &font_end;Если вы умрёте, то потеряете &font_cyan;50% &font_end;&font_gold;золота&font_end;, что вы носите с собой.</string>
     <string name="pet_dead">(&font_red;&italic;Смерть&italic_end;&font_end;)</string>
-    <string name="your_active_pet_is_not_dead">Ваш активный &font_pet;Питомец &font_end;жив…</string>
+    <string name="your_active_pet_is_not_dead">Ваш активный &font_pet;питомец &font_end;жив…</string>
 
-    <string name="void_master_after_killing_text_3_new_chicken_mode">Что же… На тебе полный комплект &font_void;Бездны&font_end;… Вот, возьми…</string>
+    <string name="void_master_after_killing_text_3_new_chicken_mode">Что ж… На тебе полный комплект &font_void;Бездны&font_end;… Вот, возьми…</string>
 
     <string name="tile_content_type_rubber_chicken">&font_legendary;Резиновая &font_end;&font_animal;курица&font_end;</string>
 
     <string name="achievement_name_rubber_chicken">Резиновая курица</string>
     <string name="achievement_desc_rubber_chicken">Убить Владыку Бездны в полном комплекте Бездны в режиме Курочки.</string>
 
-    <string name="dead_reason_by_cactus">Вы погибли, подбирая &font_cactus;Кактус&font_end;!</string>
+    <string name="dead_reason_by_cactus">Вы погибли, подбирая &font_cactus;кактус&font_end;!</string>
 
-    <string name="action_trader_action_description">&font_cyan;Поиск&font_end; &font_gold;Торговцев&font_end;</string>
-    <string name="action_treasure_hunter_action_description">&font_cyan;Охота&font_end; за &font_chest;Сокровищами&font_end;</string>
+    <string name="action_trader_action_description">&font_cyan;Поиск&font_end; &font_gold;торговцев&font_end;</string>
+    <string name="action_treasure_hunter_action_description">&font_cyan;Охота&font_end; за &font_chest;сокровищами&font_end;</string>
 
-    <string name="action_contractor_action_description">&font_cyan;Поиск&font_end; &font_cyan;Заданий&font_end;</string>
+    <string name="action_contractor_action_description">&font_cyan;Поиск&font_end; &font_cyan;заданий&font_end;</string>
     <string name="settings_show_coordinates_below">Показать внизу координаты</string>
 
     <string name="skill_mana_eyes_description">Позволяет видеть &font_mana;ману &font_end;&font_red;монстра&font_end; во время сражения.</string>
