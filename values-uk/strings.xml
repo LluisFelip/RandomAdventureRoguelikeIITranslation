@@ -96,19 +96,19 @@
     <string name="menu_share">Поділитися</string>
     <string name="menu_exit">Вийти</string>
     <string name="menu_play">Грати</string>
-    <string name="menu_new_game_slot_1">Нова Гра (Slot 1)</string>
-    <string name="menu_new_game_slot_2">Нова Гра (Slot 2)</string>
-    <string name="menu_new_game_slot_3">Нова Гра (Slot 3)</string>
+    <string name="menu_new_game_slot_1">Нова Гра (Слот 1)</string>
+    <string name="menu_new_game_slot_2">Нова Гра (Слот 2)</string>
+    <string name="menu_new_game_slot_3">Нова Гра (Слот 3)</string>
 
-    <string name="text_achievement_unlocked_">Achievement \'&bold;%1$s&bold_end;\' unlocked!</string>
+    <string name="text_achievement_unlocked_">Досягнення \'&bold;%1$s&bold_end;\' розблоковано!</string>
 
-    <string name="select_game_slot_title">Select Game Slot</string>
+    <string name="select_game_slot_title">Вибрати Игровий Слот</string>
     <string name="select_game_slot_asterisc_level">&font_asterisk_level;&bold;\*&bold_end;&font_end;</string>
     <string name="select_game_slot_asterisc_main_story_completed">&font_asterisk_main_story;&bold;\*&bold_end;&font_end;</string>
     <string name="select_game_slot_asterisc_void_master_killed">&font_asterisk_void_master;&bold;\*&bold_end;&font_end;</string>
     <string name="select_game_slot_asterisc_ascended">&asterisk_ascend_color;&bold;\*&bold_end;&font_end;</string>
     <string name="select_game_slot_asterisc_met_the_creator">&font_asterisk_creator;&bold;\*&bold_end;&font_end;</string>
-    <string name="select_game_slot_erase_game_title">Delete game?</string>
+    <string name="select_game_slot_erase_game_title">Видалити гру?</string>
 
     <string name="text_update_available_title">Update Available</string>
     <string name="text_update_available_message">There\'s a new version available!</string>
