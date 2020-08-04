@@ -3651,17 +3651,17 @@
 
     <string name="tile_content_type_pet_shop">&font_gold;Boutique &font_end;pour &font_pet;compagnons&font_end;</string>
     <string name="pet_item_name">&font_pet;Compagnon &font_end;(%1$s)</string>
-    <string name="item_info_pet_item">Achetez cela pour faire de cet &font_pet;animal &font_end;un compagnon qui vous suivra dans toutes vos aventures !</string>
+    <string name="item_info_pet_item">Achetez cela pour faire de cet &font_pet;animal &font_end;un fidèle compagnon qui vous suivra dans toutes vos aventures !</string>
 
-    <string name="pets_couldn_pick_up">You can\'t take %s with you, not enough space for &font_pet;pets&font_end;!</string>
-    <string name="pets_already_healthy">Your %1$s is already &font_health;healthy&font_end;!</string>
-    <string name="pets_already_healthy_mana">The &font_mana;mana &font_end;of your %1$s is already full!</string>
-    <string name="pets_already_alive">Your %1$s is already alive!</string>
+    <string name="pets_couldn_pick_up">Vous ne pouvez pas prendre %s avec vous, place insuffisante pour les &font_pet;compagnons&font_end; !</string>
+    <string name="pets_already_healthy">Votre %1$s est déjà &font_health;en forme&font_end; !</string>
+    <string name="pets_already_healthy_mana">Le &font_mana;mana &font_end;de votre %1$s est déjà plein !</string>
+    <string name="pets_already_alive">Votre %1$s est déjà vivant !</string>
 
-    <string name="tile_content_type_dark_stone">&font_void;Dark &font_end;&font_stone;Stone&font_end;</string>
-    <string name="tile_content_type_broken_dark_gate">Broken &font_void;Dark &font_end;&font_stone;Gate&font_end;</string>
-    <string name="repairing">Repairing %s</string>
-    <string name="repaired">Repaired %s!</string>
+    <string name="tile_content_type_dark_stone">&font_stone;Pierre &font_end;&font_void;obscure&font_end;</string>
+    <string name="tile_content_type_broken_dark_gate">&font_stone;Portail &font_end;&font_void;obscur &font_end;cassé</string>
+    <string name="repairing">Réparation de %s</string>
+    <string name="repaired">%s réparé !</string>
 
     <string name="broken_dark_gate_message_not_repairable">The &font_void;Dark &font_end;&font_stone;Gate &font_end;is broken… maybe it could be repaired if having enough &font_void;Dark &font_end;&font_stone;Stone&font_end;…</string>
     <string name="broken_dark_gate_message_repairable">The &font_void;Dark &font_end;&font_stone;Gate &font_end;is broken… it seems you have enough &font_void;Dark &font_end;&font_stone;Stone &font_end;to repair it!&br;&br;Repair &font_void;Dark &font_end;&font_stone;Gate &font_end;with %d &font_void;Dark &font_end;&font_stone;Stones&font_end;?</string>
@@ -3670,8 +3670,8 @@
     <string name="purifying_tree_message_no_monsters_no_completely_purified">A pure and shiny %1$s is here.&br;&br;You look at its bright purple leaves, and there are no more &font_red;red &font_end;leaves…&br;&br;There is something here for you…</string>
     <string name="purifying_tree_message_no_monsters_completely_purified">A pure and shiny %1$s is here.&br;&br;You look at its bright purple leaves and feel how your &font_health;health &font_end;and &font_mana;mana &font_end;are completely restored…</string>
 
-    <string name="item_info_experience_pet_potion">Give this to your &font_pet;pet &font_end;to make it gain %1$s &font_cyan;experience &font_end;instantly.</string>
-    <string name="button_oh_no">Oh no…</string>
+    <string name="item_info_experience_pet_potion">Donnez ça à votre &font_pet;compagnon &font_end;pour lui faire gagner %1$s d'&font_cyan;expérience &font_end;instantanément.</string>
+    <string name="button_oh_no">Oh non…</string>
 
     <string name="status_sound_and_vibration">&font_cyan;Son / Vibrations&font_end;</string>
     <string name="status_game_ui_title">&font_cyan;Interface du jeu&font_end;</string>
@@ -3679,7 +3679,7 @@
     <string name="settings_music_volume">Volume musique</string>
     <string name="settings_sound_volume">Volume son</string>
 
-    <string name="tile_content_type_purifying_seed_planted">&font_purifying;Purifying&font_end; &font_plant;Seed &font_end;(&font_green;Planted&font_end;)</string>
+    <string name="tile_content_type_purifying_seed_planted">&font_plant;Graine &font_end;&font_purifying;purifiante&font_end;(&font_green;Plantée&font_end;)</string>
 
     <string name="dropped_ammo_toast">Some of the &font_wood;ammo &font_end;is able to be retrieved!</string>
 
