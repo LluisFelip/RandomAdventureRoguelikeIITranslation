@@ -110,15 +110,15 @@
     <string name="select_game_slot_asterisc_met_the_creator">&font_asterisk_creator;&bold;\*&bold_end;&font_end;</string>
     <string name="select_game_slot_erase_game_title">Видалити гру?</string>
 
-    <string name="text_update_available_title">Update Available</string>
-    <string name="text_update_available_message">There\'s a new version available!</string>
-    <string name="text_update_available_positive">Update</string>
-    <string name="text_update_available_cancel">Cancel</string>
+    <string name="text_update_available_title">Доступно Оновлення</string>
+    <string name="text_update_available_message">Доступна нова версія!</string>
+    <string name="text_update_available_positive">Оновити</string>
+    <string name="text_update_available_cancel">Скасування поновлення</string>
 
     <string name="game_over_rank_top">You made it to the top &font_cyan;#%d&font_end; in the Cemetery!</string>
     <string name="game_over_rank_rest">You were ranked &font_cyan;#%d &font_end;in the Cemetery.</string>
 
-    <string name="welcome_message_title">Welcome</string>
+    <string name="welcome_message_title">Ласкаво Просимо</string>
 
     <string name="collection_question_marks">\?????</string>
     <string name="collections_title">Collections</string>
