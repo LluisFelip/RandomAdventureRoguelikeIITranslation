@@ -87,18 +87,18 @@
     <string name="content_description_dungeon_current_position_info">Current dungeon position button</string>
 
 
-    <string name="menu_new_game">New Game</string>
+    <string name="menu_new_game">Нова Гра</string>
     <string name="menu_continue_button">&font_cyan;Continue&font_end;&br;%1$s [&font_cyan;%2$d&font_end;]</string>
-    <string name="menu_cemetery">Cemetery</string>
-    <string name="menu_collection">Collection</string>
-    <string name="menu_achievements">Achievements</string>
-    <string name="menu_rate">Rate</string>
-    <string name="menu_share">Share</string>
-    <string name="menu_exit">Exit</string>
-    <string name="menu_play">Play</string>
-    <string name="menu_new_game_slot_1">New Game (Slot 1)</string>
-    <string name="menu_new_game_slot_2">New Game (Slot 2)</string>
-    <string name="menu_new_game_slot_3">New Game (Slot 3)</string>
+    <string name="menu_cemetery">Цвинтар</string>
+    <string name="menu_collection">Колекція</string>
+    <string name="menu_achievements">Досягнення</string>
+    <string name="menu_rate">Оцінити</string>
+    <string name="menu_share">Поділитися</string>
+    <string name="menu_exit">Вийти</string>
+    <string name="menu_play">Грати</string>
+    <string name="menu_new_game_slot_1">Нова Гра (Slot 1)</string>
+    <string name="menu_new_game_slot_2">Нова Гра (Slot 2)</string>
+    <string name="menu_new_game_slot_3">Нова Гра (Slot 3)</string>
 
     <string name="text_achievement_unlocked_">Achievement \'&bold;%1$s&bold_end;\' unlocked!</string>
 
