@@ -3528,7 +3528,7 @@
     <string name="void_merchant_message_2">Est-ce que… tu aurais une &font_dark_orb;orbe obscure&font_end; ?&br;&br;Pourrais-tu me la donner ? Je te donnerais une &font_void;arme &font_end;spéciale en échange…</string>
     <string name="void_merchant_message_dont_have">Tu n\'as pas d\'&font_dark_orb;orbe obscure&font_end;… ne me fait pas perdre mon temps… retourne gâcher le tien…</string>
     <string name="void_merchant_message_have">Oh mon &font_void;néant&font_end;… ! Merci… Comme promis, voici pour toi…</string>
-    <string name="void_merchant_message_have_2">Reviens me voir si tu en trouve à nouveau…</string>
+    <string name="void_merchant_message_have_2">Reviens me voir si tu en trouves à nouveau…</string>
 
     <string name="settings_show_gold_on_top">Afficher or en haut</string>
     <string name="skill_whip_mastery">Maîtrise du &font_void;fouet&font_end;</string>
@@ -3568,54 +3568,54 @@
     <string name="torch_use_question">Voulez-vous utiliser une &font_red;torche&font_end; pour y voir plus clair ?&br;&br;Elle durera jusqu\'à ce que vous quittiez %1$s.</string>
     <string name="ascension_flame_lights_up_the_place">La &font_red;Flamme &font_end;de l\'&asterisk_ascend_color;Ascension &font_end;éclaire le lieu !</string>
 
-    <string name="skill_points_to_base_stats">Use your &font_cyan;Skill Points &font_end;to increase your base stats.&br;&br;You currently have &font_cyan;%d &font_end;SP.</string>
-    <string name="skill_points_to_base_stats_attack">Increase &font_attack;Attack &font_end;(&font_cyan;%1$d &font_end;SP) [&font_attack;%2$d&font_end;]</string>
-    <string name="skill_points_to_base_stats_defense">Increase &font_defense;Defense &font_end;(&font_cyan;%1$d &font_end;SP) [&font_defense;%2$d&font_end;]</string>
-    <string name="skill_points_to_base_stats_speed">Increase &font_speed;Speed &font_end;(&font_cyan;%1$d &font_end;SP) [&font_speed;%2$d&font_end;]</string>
-    <string name="skill_points_to_base_stats_intelligence">Increase &font_mana;Intelligence &font_end;(&font_cyan;%1$d &font_end;SP) [&font_mana;%2$d&font_end;]</string>
+    <string name="skill_points_to_base_stats">Utilisez vos &font_cyan;Points de Compétence &font_end;pour augmenter vos stats de base.&br;&br;Vous avez actuellement &font_cyan;%d &font_end;PC.</string>
+    <string name="skill_points_to_base_stats_attack">Augmenter l'&font_attack;Attaque &font_end;(&font_cyan;%1$d &font_end;PC) [&font_attack;%2$d&font_end;]</string>
+    <string name="skill_points_to_base_stats_defense">Augmenter la &font_defense;Défense &font_end;(&font_cyan;%1$d &font_end;PC) [&font_defense;%2$d&font_end;]</string>
+    <string name="skill_points_to_base_stats_speed">Augmenter la &font_speed;Vitesse &font_end;(&font_cyan;%1$d &font_end;PC) [&font_speed;%2$d&font_end;]</string>
+    <string name="skill_points_to_base_stats_intelligence">Augmenter l'&font_mana;Intelligence &font_end;(&font_cyan;%1$d &font_end;PC) [&font_mana;%2$d&font_end;]</string>
 
-    <string name="increased_base_attack_to">Increased base &font_attack;Attack &font_end;to &font_attack;%1$d&font_end;.</string>
-    <string name="increased_base_defense_to">Increased base &font_defense;Defense &font_end;to &font_defense;%1$d&font_end;.</string>
-    <string name="increased_base_speed_to">Increased base &font_speed;Speed &font_end;to &font_speed;%1$d&font_end;.</string>
-    <string name="increased_base_intelligence_to">Increased base &font_mana;Intelligence &font_end;to &font_mana;%1$d&font_end;.</string>
+    <string name="increased_base_attack_to">&font_attack;Attaque &font_end;de base montée à &font_attack;%1$d&font_end;.</string>
+    <string name="increased_base_defense_to">&font_defense;Défense &font_end;de base montée à &font_defense;%1$d&font_end;.</string>
+        <string name="increased_base_speed_to">&font_speed;Vitesse &font_end;de base montée à &font_speed;%1$d&font_end;.</string>
+    <string name="increased_base_intelligence_to">&font_mana;Intelligence &font_end;de base montée à &font_mana;%1$d&font_end;.</string>
 
 
-    <string name="skill_dungeoneer">&font_stone;Dungeoneer&font_end;</string>
-    <string name="skill_dungeoneer_description">Discovers the type of &font_stone;Dungeon &font_end;in an island if there is one.</string>
-    <string name="skill_dungeoneer_action">Sense &font_stone;Dungeon&font_end;</string>
-    <string name="skill_dungeoneer_action_title">Sensing &font_stone;Dungeons&font_end;</string>
-    <string name="skill_dungeoneer_success">You sense there\'s a %s!</string>
-    <string name="skill_dungeoneer_no_dungeon_detected">You don\'t detect any &font_stone;Dungeon&font_end;…</string>
-    <string name="material_pure_essence">&font_purifying;Pure Essence&font_end;</string>
-    <string name="completely_purified_island">The island is now completely &font_purifying;* Purified * &font_end;and you obtained &font_purifying;Pure Essence&font_end;!</string>
-    <string name="purifying_tree_text_completely_purified_label">{ &font_purifying;* Purified *&font_end;}</string>
-    <string name="tile_type_water">Water</string>
-    <string name="settings_show_squares_map">Show squares in map</string>
+    <string name="skill_dungeoneer">&font_stone;Donjonnier&font_end;</string>
+    <string name="skill_dungeoneer_description">Découvre le type de &font_stone;donjon &font_end;d'une île s'il y en a un.</string>
+    <string name="skill_dungeoneer_action">Détecter un &font_stone;donjon&font_end;</string>
+    <string name="skill_dungeoneer_action_title">Détection des &font_stone;donjons&font_end;</string>
+    <string name="skill_dungeoneer_success">Vous sentez qu'il y a un %s !</string>
+    <string name="skill_dungeoneer_no_dungeon_detected">Vous ne dédectez aucun &font_stone;donjon&font_end;…</string>
+    <string name="material_pure_essence">&font_purifying;Essence pure&font_end;</string>
+    <string name="completely_purified_island">Cette île est désormais totalement &font_purifying;* Purifiée * &font_end;et vous obtenez de l'&font_purifying;essence pure&font_end; !</string>
+        <string name="purifying_tree_text_completely_purified_label">{ &font_purifying;* Purifiée *&font_end;}</string>
+    <string name="tile_type_water">Eau</string>
+    <string name="settings_show_squares_map">Montre les tuiles sur la carte</string>
 
-    <string name="island_remove_mark">Remove Mark</string>
-    <string name="island_remove_text">Remove Info</string>
+    <string name="island_remove_mark">Enlever Marque</string>
+    <string name="island_remove_text">Enlever Info</string>
 
-    <string name="advantage_cartographer">&font_cyan;Cartographer&font_end;</string>
-    <string name="advantage_cartographer_desc">(You will start with an &font_cyan;Island &font_end;&font_gold;Map &font_end;and a random &font_cyan;Nautical Chart&font_end;)</string>
+    <string name="advantage_cartographer">&font_cyan;Cartographe&font_end;</string>
+    <string name="advantage_cartographer_desc">(Vous démarrez avec une &font_gold;carte &font_end;d'&font_cyan;île &font_end;et une &font_cyan;charte nautique &font_end;aléatoire)</string>
 
-    <string name="title_the_cartographer_male">%1$s, the &font_cyan;Cartographer&font_end;</string>
-    <string name="title_the_cartographer_female">%1$s, the &font_cyan;Cartographer&font_end;</string>
-    <string name="title_the_cartographer_no_gender">%1$s, the &font_cyan;Cartographer&font_end;</string>
-    <string name="blacksmith_repair_tool_button">Repair (&font_gold;%d&font_end;)</string>
+    <string name="title_the_cartographer_male">%1$s, le &font_cyan;Cartographe&font_end;</string>
+    <string name="title_the_cartographer_female">%1$s, la &font_cyan;Cartographe&font_end;</string>
+    <string name="title_the_cartographer_no_gender">%1$s, le/la &font_cyan;Cartographe&font_end;</string>
+    <string name="blacksmith_repair_tool_button">Réparer (&font_gold;%d&font_end;)</string>
 
-    <string name="button_blacksmith_repair_tools">Repair &font_cyan;Tools&font_end;</string>
+    <string name="button_blacksmith_repair_tools">Réparer &font_cyan;outils&font_end;</string>
 
     <string name="settings_leaderboards_wip">Classements (Bêta)</string>
-    <string name="button_quit">Quit</string>
-    <string name="quit_quest_title">Quit Quest</string>
-    <string name="quit_quest_message">Do you want to quit \'%s\'?</string>
-    <string name="quit_quest_confirmation_message">Are you sure you want to quit \'%s\'?&br;&br;You won\'t be able to undo this action…</string>
-    <string name="quit_merchant_quest_message">Do you want to quit \'%s\'?</string>
-    <string name="quit_merchant_quest_confirmation_message">Are you sure you want to quit \'%s\'?&br;&br;The &font_gold;Merchant &font_end;will disappear and you won\'t be able to undo this action…</string>
-    <string name="quest_quit">You quit \'%s\'…</string>
-    <string name="tool_doesnt_need_to_be_repaired">This tool doesn\'t need to be repaired!</string>
+    <string name="button_quit">A</string>
+    <string name="quit_quest_title">Abandonner Quête</string>
+    <string name="quit_quest_message">Voulez-vous abandonner \'%s\' ?</string>
+    <string name="quit_quest_confirmation_message">Êtes-vous sûr de vouloir abandonner \'%s\' ?&br;&br;Il vous sera impossible d'annuler cette action…</string>
+    <string name="quit_merchant_quest_message">Voulez-vous abandonner \'%s\' ?</string>
+    <string name="quit_merchant_quest_confirmation_message">Êtes-vous sûr de vouloir abandonner \'%s\' ?&br;&br;Le &font_gold;Marchand &font_end;disparaîtra et il vous sera impossible d'annuler cette action…</string>
+    <string name="quest_quit">Vous abandonnez \'%s\'…</string>
+    <string name="tool_doesnt_need_to_be_repaired">Cet outil n'a pas besoin de réparations !</string>
 
-    <string name="merchant_quest_quit_description">&font_gold;%1$s&font_end; at &font_cyan;%2$d&font_end;, &font_cyan;%3$d &font_end;has asked you to bring &font_cyan;%4$d &font_end;%5$s.</string>
+    <string name="merchant_quest_quit_description">&font_gold;%1$s&font_end; à &font_cyan;%2$d&font_end;, &font_cyan;%3$d &font_end;vous a demandé de ramener &font_cyan;%4$d &font_end;%5$s.</string>
 
     <string name="content_description_arrow_to_unfold">Flèche pour dérouler</string>
     <string name="settings_show_hero_icon">Montrer icône héros</string>
@@ -3625,33 +3625,33 @@
     <string name="combat_heal_message">Lancer sur soi-même ou sur %s ?</string>
     <string name="button_you">Moi</string>
 
-    <string name="pets_combat_health_restored">%1$s restored &font_health;%2$d &font_end;health!</string>
+    <string name="pets_combat_health_restored">%1$s à redonné &font_health;%2$d &font_end;de vie !</string>
 
-    <string name="spell_revive_pet_name">&font_health;Revive &font_end;&font_pet;Pet&font_end;</string>
-    <string name="spell_revive_pet_desc">Cast this to &font_health;revive &font_end;your &font_pet;pet&font_end;.</string>
-    <string name="spell_revive_pet_desc_combat_success">You &font_health;revive &font_end;your &font_pet;pet&font_end;!</string>
+    <string name="spell_revive_pet_name">&font_health;Ressusciter &font_end;&font_pet;Compagnon&font_end;</string>
+    <string name="spell_revive_pet_desc">Lancez ce sort pour &font_health;ressusciter &font_end;votre &font_pet;compagnon&font_end;.</string>
+    <string name="spell_revive_pet_desc_combat_success">Vous &font_health;ressuscitez &font_end;votre &font_pet;compagnon&font_end;!</string>
 
-    <string name="pets_combat_revived">You revived %s!</string>
-    <string name="item_info_potion_pet_heal">Give this to your &font_pet;pet &font_end;to heal it &font_health;%1$s&font_end;%%.</string>
-    <string name="item_info_potion_pet_revive">Give this to your &font_pet;pet &font_end;to &font_health;revive &font_end;and &font_health;heal &font_end;it a &font_health;%1$s&font_end;%%.</string>
-    <string name="your_pet_quaffs_potion">%1$s quaffs %2$s!</string>
-    <string name="your_pet_quaffs_potion_revived">%1$s revived with &font_health;%2$d &font_end;health points!</string>
-    <string name="your_pet_quaffs_potion_healed">%1$s healed &font_health;%2$d &font_end;health points!</string>
-    <string name="your_pet_quaffs_potion_restored">%1$s restored &font_mana;%2$d &font_end;mana points!</string>
+    <string name="pets_combat_revived">Vous avez ressuscité %s !</string>
+    <string name="item_info_potion_pet_heal">Donez cela à votre &font_pet;compagnon &font_end;pour lui soigner &font_health;%1$s&font_end;%%.</string>
+    <string name="item_info_potion_pet_revive">Donnez cela à votre &font_pet;compagnon &font_end;pour le &font_health;ressusciter &font_end;et lui &font_health;soigner &font_end;&font_health;%1$s&font_end;%%.</string>
+    <string name="your_pet_quaffs_potion">%1$s avale %2$s !</string>
+    <string name="your_pet_quaffs_potion_revived">%1$s ressuscité avec &font_health;%2$d &font_end;points de vie !</string>
+    <string name="your_pet_quaffs_potion_healed">%1$s soigné de &font_health;%2$d &font_end;points de vie !</string>
+    <string name="your_pet_quaffs_potion_restored">%1$s récupère &font_mana;%2$d &font_end;points de mana !</string>
 
-    <string name="tile_content_type_heal_pet_potion">&font_health;Heal &font_end;&font_pet;Pet &font_end;Potion</string>
-    <string name="tile_content_type_mana_pet_potion">&font_mana;Mana &font_end;&font_pet;Pet &font_end;Potion</string>
-    <string name="tile_content_type_revive_pet_potion">&font_health;Revive &font_end;&font_pet;Pet &font_end;Potion</string>
+    <string name="tile_content_type_heal_pet_potion">Potion de &font_health;soin &font_end;pour &font_pet;compagnon&font_end;</string>
+    <string name="tile_content_type_mana_pet_potion">Potion de &font_mana;mana &font_end;pour &font_pet;compagnon&font_end;</string>
+    <string name="tile_content_type_revive_pet_potion">Potion de &font_health;résurrection &font_end;pour &font_pet;compagnon&font_end;</string>
 
-    <string name="item_name_heal_pet_potion">&font_health;Heal &font_end;&font_pet;Pet &font_end;Potion (&font_health;%1$d&font_end;%%)</string>
-    <string name="item_name_mana_pet_potion">&font_mana;Mana &font_end;&font_pet;Pet &font_end;Potion (&font_health;%1$d&font_end;%%)</string>
-    <string name="item_name_revive_pet_potion">&font_health;Revive &font_end;&font_pet;Pet &font_end;Potion (&font_health;%1$d&font_end;%%)</string>
-    <string name="item_experience_pet_potion">&font_cyan;Experience &font_end;&font_pet;Pet &font_end;Potion</string>
-    <string name="item_experience_pet_potion_amount">&font_cyan;Experience &font_end;&font_pet;Pet &font_end;Potion (&font_cyan;%1$d&font_end;)</string>
+    <string name="item_name_heal_pet_potion">Potion de &font_health;soin &font_end;pour &font_pet;compagnon &font_end;(&font_health;%1$d&font_end;%%)</string>
+    <string name="item_name_mana_pet_potion">Potion de &font_mana;mana &font_end;pour &font_pet;compagnon &font_end;(&font_health;%1$d&font_end;%%)</string>
+    <string name="item_name_revive_pet_potion">Potion de &font_health;résurrection &font_end;pour &font_pet;compagnon &font_end;(&font_health;%1$d&font_end;%%)</string>
+    <string name="item_experience_pet_potion">Potion d'&font_cyan;expérience &font_end;pour &font_pet;compagnon&font_end;</string>
+    <string name="item_experience_pet_potion_amount">Potion d'&font_cyan;expérience &font_end;pour &font_pet;compagnon &font_end;(&font_cyan;%1$d&font_end;)</string>
 
-    <string name="tile_content_type_pet_shop">&font_pet;Pet &font_end;&font_gold;Shop&font_end;</string>
-    <string name="pet_item_name">&font_pet;Pet &font_end; (%1$s)</string>
-    <string name="item_info_pet_item">Buy this to add this &font_pet;Pet &font_end;as a companion in your adventures!</string>
+    <string name="tile_content_type_pet_shop">&font_gold;Boutique &font_end;pour &font_pet;compagnons&font_end;</string>
+    <string name="pet_item_name">&font_pet;Compagnon &font_end;(%1$s)</string>
+    <string name="item_info_pet_item">Achetez cela pour faire de cet &font_pet;animal &font_end;un compagnon qui vous suivra dans toutes vos aventures !</string>
 
     <string name="pets_couldn_pick_up">You can\'t take %s with you, not enough space for &font_pet;pets&font_end;!</string>
     <string name="pets_already_healthy">Your %1$s is already &font_health;healthy&font_end;!</string>
