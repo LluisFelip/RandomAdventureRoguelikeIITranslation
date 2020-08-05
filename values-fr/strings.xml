@@ -3663,12 +3663,12 @@
     <string name="repairing">Réparation de %s</string>
     <string name="repaired">%s réparé !</string>
 
-    <string name="broken_dark_gate_message_not_repairable">The &font_void;Dark &font_end;&font_stone;Gate &font_end;is broken… maybe it could be repaired if having enough &font_void;Dark &font_end;&font_stone;Stone&font_end;…</string>
-    <string name="broken_dark_gate_message_repairable">The &font_void;Dark &font_end;&font_stone;Gate &font_end;is broken… it seems you have enough &font_void;Dark &font_end;&font_stone;Stone &font_end;to repair it!&br;&br;Repair &font_void;Dark &font_end;&font_stone;Gate &font_end;with %d &font_void;Dark &font_end;&font_stone;Stones&font_end;?</string>
-    <string name="purifying_tree_message_with_monsters">A pure and shiny %1$s is here.&br;&br;You look at its bright purple leaves, but can count &font_cyan;%2$d &font_end;&font_red;red &font_end;leaves…</string>
-    <string name="purifying_tree_message_with_one_monster">A pure and shiny %1$s is here.&br;&br;You look at its bright purple leaves, but can count &font_cyan;%2$d &font_end;&font_red;red &font_end;leave…</string>
-    <string name="purifying_tree_message_no_monsters_no_completely_purified">A pure and shiny %1$s is here.&br;&br;You look at its bright purple leaves, and there are no more &font_red;red &font_end;leaves…&br;&br;There is something here for you…</string>
-    <string name="purifying_tree_message_no_monsters_completely_purified">A pure and shiny %1$s is here.&br;&br;You look at its bright purple leaves and feel how your &font_health;health &font_end;and &font_mana;mana &font_end;are completely restored…</string>
+    <string name="broken_dark_gate_message_not_repairable">Le &font_stone;portail &font_end;&font_void;obscur &font_end;est cassé… Vous pourriez peut-être le réparer si vous possèdiez suffisament de &font_stone;pierres &font_end;&font_void;obscures&font_end;…</string>
+    <string name="broken_dark_gate_message_repairable">Le &font_stone;portail &font_end;&font_void;obscur &font_end;est cassé… Il semblerait que vous ayez suffisament de &font_stone;pierres &font_end;&font_void;obscures &font_end;pour le réparer !&br;&br;Réparer le &font_stone;portail &font_end;&font_void;obscur &font_end;avec %d &font_stone;pierres &font_end;&font_void;obscures&font_end; ?</string>
+    <string name="purifying_tree_message_with_monsters">Un %1$s pur et brillant se trouve ici.&br;&br;Vous observez ses lumineuses feuilles violettes, mais vous dénombrez &font_cyan;%2$d &font_end;feuilles &font_red;rouges&font_end;…</string>
+    <string name="purifying_tree_message_with_one_monster">Un %1$s pur et brillant se trouve ici.&br;&br;Vous observez ses lumineuses feuilles violettes, mais vous dénombrez &font_cyan;%2$d &font_end;feuille&font_red;rouge&font_end;…</string>
+    <string name="purifying_tree_message_no_monsters_no_completely_purified">Un %1$s pur et brillant se trouve ici.&br;&br;Vous observez ses lumineuses feuilles violettes et ne remarquez plus une seule feuille &font_red;rouge&font_end;…&br;&br;Quelque-chose se trouve ici pour vous…</string>
+    <string name="purifying_tree_message_no_monsters_completely_purified">Un %1$s pur et brillant se trouve ici.&br;&br;Vous observez ses lumineuses feuilles violettes et sentez que votre &font_health;vie &font_end;et votre &font_mana;mana &font_end;sont désormais complètement restaurés…</string>
 
     <string name="item_info_experience_pet_potion">Donnez ça à votre &font_pet;compagnon &font_end;pour lui faire gagner %1$s d'&font_cyan;expérience &font_end;instantanément.</string>
     <string name="button_oh_no">Oh non…</string>
@@ -3681,40 +3681,40 @@
 
     <string name="tile_content_type_purifying_seed_planted">&font_plant;Graine &font_end;&font_purifying;purifiante&font_end;(&font_green;Plantée&font_end;)</string>
 
-    <string name="dropped_ammo_toast">Some of the &font_wood;ammo &font_end;is able to be retrieved!</string>
+    <string name="dropped_ammo_toast">Vous pouvez récupérer des &font_wood;munitions&font_end; !</string>
 
-    <string name="craft_not_enough_inventory_space">You don\'t have enough space in your inventory…</string>
+    <string name="craft_not_enough_inventory_space">Vous n'avez pas assez d'espace dans votre inventaire…</string>
 
-    <string name="craft_various_message_stackable">What amount do you want to craft?&br;&br;(You have enough materials to craft &font_cyan;%1$d&font_end;)</string>
-    <string name="craft_various_message_stackable_higher_than_the_max">What amount do you want to craft?&br;&br;(You have enough materials to craft &font_cyan;%1$d&font_end;, but the maximum amount allowed to craft is &font_cyan;%2$d&font_end;)</string>
+    <string name="craft_various_message_stackable">Combien voulez-vous en fabriquer ?&br;&br;(Vous avez suffisament de matériaux pour en fabriquer &font_cyan;%1$d&font_end;)</string>
+    <string name="craft_various_message_stackable_higher_than_the_max">Combien voulez-vous en fabriquer ?&br;&br;(Vous avez suffisament de matériaux pour en fabriquer &font_cyan;%1$d&font_end;, mais le maximum autorisé à la fois est &font_cyan;%2$d&font_end;)</string>
 
-    <string name="item_info_potion_pet_heal_recipe_info">Give this to your &font_pet;pet &font_end;to &font_health;heal &font_end;it.</string>
-    <string name="item_info_potion_pet_mana">Give this to your &font_pet;pet &font_end;to restore its &font_mana;mana &font_end;by a &font_mana;%1$s&font_end;%%.</string>
-    <string name="item_info_potion_pet_mana_recipe_info">Give this to your &font_pet;pet &font_end;to restore its &font_mana;mana&font_end;.</string>
-    <string name="item_info_experience_pet_potion_recipe_info">Give this to your &font_pet;pet &font_end;to make it gain &font_cyan;experience &font_end;instantly.</string>
-    <string name="item_info_heal_potion_recipe_info">Quaff this to restore your &font_health;health&font_end;.</string>
-    <string name="item_info_mana_potion_recipe_info">Quaff this to restore your &font_mana;mana&font_end;.</string>
-    <string name="item_info_experience_potion_recipe_info">Quaff this to gain &font_cyan;experience &font_end;instantly.</string>
-    <string name="item_info_potion_pet_revive_recipe_info_recipe_info">Give this to your &font_pet;pet &font_end;to &font_health;revive &font_end;and &font_health;heal &font_end;it.</string>
+    <string name="item_info_potion_pet_heal_recipe_info">Donnez ça à votre &font_pet;compagnon &font_end;pour le &font_health;soigner&font_end;.</string>
+    <string name="item_info_potion_pet_mana">Donnez ça à votre &font_pet;compagnon &font_end;pour lui faire récupérer &font_mana;%1$s&font_end;%% de &font_mana;mana&font_end;.</string>
+    <string name="item_info_potion_pet_mana_recipe_info">Donnez ça à votre &font_pet;compagnon &font_end;pour lui faire récupérer du &font_mana;mana&font_end;.</string>
+    <string name="item_info_experience_pet_potion_recipe_info">Donnez ça à votre &font_pet;compagnon &font_end;pour lui faire gagner de l'&font_cyan;expérience &font_end;instantanément.</string>
+    <string name="item_info_heal_potion_recipe_info">Avalez-ça pour récupérer de la &font_health;vie&font_end;.</string>
+    <string name="item_info_mana_potion_recipe_info">Avalez-ça pour récupérer du &font_mana;mana&font_end;.</string>
+    <string name="item_info_experience_potion_recipe_info">Avalez-ça pour gagner de l'&font_cyan;expérience &font_end;instantanément.</string>
+    <string name="item_info_potion_pet_revive_recipe_info_recipe_info">Donnez ça à votre &font_pet;compagnon &font_end;pour le &font_health;ressusciter &font_end;et le &font_health;soigner&font_end;.</string>
 
-    <string name="arrow_item_info">The &font_wood;ammo &font_end;used to shoot a &font_wood;Bow&font_end;.</string>
-    <string name="bolt_item_info">The &font_wood;ammo &font_end;used to shoot a &font_wood;Crossbow&font_end;.</string>
-    <string name="stone_item_info">A material used to &font_cyan;Craft &font_end;other items. It also is the &font_wood;ammo &font_end;used to shoot with a &font_wood;Slingshot&font_end;.</string>
-    <string name="cartographer_stone_info">Allows to mark or add information to your islands from the island list.</string>
-    <string name="wooden_sign_info">Use this to create a &font_wood;Wooden Sign &font_end;anywhere and write some text on it. It will be shown in the map as an &font_wood;X&font_end;.</string>
+    <string name="arrow_item_info">&font_wood;Munitions &font_end;utilisées pour tirer à l'&font_wood;arc&font_end;.</string>
+    <string name="bolt_item_info">&font_wood;Munitions &font_end;utilisées pour tirer à l'&font_wood;arbalète&font_end;.</string>
+    <string name="stone_item_info">Matériau utilisé pour &font_cyan;fabriquer &font_end;d'autres objets. Il sert aussi de &font_wood;munition &font_end;pour tirer au &font_wood;lance-pierre&font_end;.</string>
+    <string name="cartographer_stone_info">Permet de marquer ou ajouter des informations aux îles se trouvant dans votre liste d'îles.</string>
+    <string name="wooden_sign_info">Utilisez ça pour créer un &font_wood;panneau en bois &font_end;et écrire des notes dessus. Il sera montré sur la map comme un &font_wood;X&font_end;.</string>
 
     <string name="button_blacksmith_ask_about_material_tiers">Ask about &font_wood;material &font_end;&font_cyan;tiers&font_end;</string>
     <string name="blacksmith_material_tiers_message">Oh, you want to know about the material tiers? This is the order:&br;&br;&font_wood;Wood &font_end;-> &font_leather;Leather &font_end;-> &font_copper;Copper &font_end;-> &font_tin;Tin &font_end;-> &font_iron;Iron &font_end;-> &font_bronze;Bronze &font_end;-> &font_silver;Silver &font_end;-> &font_gold;Gold &font_end;-> &font_diamond;Diamond &font_end;-> &font_obsidian;Obsidian &font_end;&br;&br;There are a some other very rare materials but I don\'t think you will ever be able to find them…</string>
     <string name="button_sort_by_can_craft">Sort (can craft)</string>
     <string name="crafting_filter_can_craft">Can Craft</string>
 
-    <string name="ascending">Ascending</string>
-    <string name="button_continue">Continue</string>
-    <string name="button_wake_up">Wake Up</string>
-    <string name="ascended">Ascended!</string>
+    <string name="ascending">Ascension en cours</string>
+    <string name="button_continue">Continuer</string>
+    <string name="button_wake_up">Se réveiller</string>
+    <string name="ascended">Ascension réussie !</string>
 
     <string name="ascended_text">
-        You forget everything but start to feel more powerful…
+        Vous oubliez tout mais vous sentez plus puissant que jamais…
         &br;&br;* You obtain &font_cyan;%1$d &font_end;x &asterisk_ascend_color;Ascension &font_end;&font_red;Flame&font_end;
         &br;* Your max. &font_health;health &font_end;is now &font_health;%2$d&font_end;
         &br;* Your max. &font_mana;mana &font_end;is now &font_mana;%3$d&font_end;
@@ -3846,8 +3846,8 @@
     <string name="title_the_ender_female">%1$s, the &font_legendary;Ender&font_end;</string>
     <string name="title_the_ender_no_gender">%1$s, the &font_legendary;Ender&font_end;</string>
 
-    <string name="settings_show_pet_in_combat">Show Pet in Combat</string>
-    <string name="settings_show_progress_bars">Show Progress Bars</string>
+    <string name="settings_show_pet_in_combat">Monter Compagnon en Combat</string>
+    <string name="settings_show_progress_bars">Montrer Barres Progression</string>
 
     <string name="wise_have_in_void_island">Great, you are here! You should be careful… Creatures here are more dangerous… And there\'s a powerful being waiting for you…</string>
 
@@ -3883,11 +3883,11 @@
 
     <string name="dead_reason_by_cactus">Vous êtes mort en ramassant un &font_cactus;cactus&font_end; !</string>
 
-    <string name="action_trader_action_description">&font_cyan;Sensing&font_end; &font_gold;Merchants&font_end;</string>
-    <string name="action_treasure_hunter_action_description">&font_cyan;Hunting&font_end; &font_chest;Treasures&font_end;</string>
+    <string name="action_trader_action_description">&font_cyan;Détecter&font_end; &font_gold;marchands&font_end;</string>
+    <string name="action_treasure_hunter_action_description">&font_cyan;Chasser&font_end; &font_chest;trésors&font_end;</string>
 
-    <string name="action_contractor_action_description">&font_cyan;Sensing&font_end; &font_cyan;Quests&font_end;</string>
-    <string name="settings_show_coordinates_below">Show Coordinates Below</string>
+    <string name="action_contractor_action_description">&font_cyan;Détecter&font_end; &font_cyan;quêtes&font_end;</string>
+    <string name="settings_show_coordinates_below">Montrer Coordonnées Dessous</string>
 
     <string name="skill_mana_eyes_description">Permet de voir le &font_mana;mana &font_end;du &font_red;monstre &font_end;en combat.</string>
     <string name="skill_mana_eyes">&font_mushroom;Yeux &font_end;de &font_mana;mana&font_end;</string>
