@@ -121,22 +121,22 @@
     <string name="welcome_message_title">Ласкаво Просимо</string>
 
     <string name="collection_question_marks">\?????</string>
-    <string name="collections_title">Collections</string>
-    <string name="collection_plants">Plants</string>
-    <string name="collection_fishes">Fish</string>
-    <string name="collection_cactus">Cactus</string>
-    <string name="collection_monsters">Monsters</string>
-    <string name="collection_island">Islands</string>
-    <string name="collection_icon">Collection Icon</string>
-    <string name="collection_merchants_mark">Merchant\'s Mark</string>
-    <string name="collection_insects">Insects</string>
-    <string name="collection_animals">Animals</string>
+    <string name="collections_title">Колекцїі</string>
+    <string name="collection_plants">Рослини</string>
+    <string name="collection_fishes">Риби</string>
+    <string name="collection_cactus">Кактуси</string>
+    <string name="collection_monsters">Монстри</string>
+    <string name="collection_island">Острови</string>
+    <string name="collection_icon">Іконка Колекцій</string>
+    <string name="collection_merchants_mark">Мітка Купця</string>
+    <string name="collection_insects">Комахи</string>
+    <string name="collection_animals">Тварини</string>
 
-    <string name="about_reddit">RAR II on Reddit</string>
-    <string name="about_title">&line_break;About RAR II</string>
-    <string name="about_text">This game has been created by a one-man developer team with love and patience :)&br;&br;I would love to hear about your opinion! Please feel free to contact me and share your ideas and suggestions.&br;&br;Hope you enjoy your adventure!</string>
-    <string name="about_twitter">Archison on Twitter</string>
-    <string name="about_discord">RAR II on Discord</string>
+    <string name="about_reddit">RAR II на Reddit</string>
+    <string name="about_title">&line_break;Про RAR II</string>
+    <string name="about_text">Ця гра була розроблена однією людиною з любов'ю і терпінням :)&br;&br;Я був би радий почути Вашу думку! Не соромтеся написати мені і поділитися своїми ідеями і пропозиціями.&br;&br;Сподіваюся, вам сподобається Ваше пригода!</string>
+    <string name="about_twitter">Archison на Twitter</string>
+    <string name="about_discord">RAR II на Discord</string>
 
     <string name="new_game_welcome_hero_whats_your_name">Welcome, hero! What\'s your name?</string>
     <string name="new_game_hero_name">Hero</string>
