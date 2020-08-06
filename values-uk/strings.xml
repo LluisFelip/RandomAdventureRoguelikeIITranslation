@@ -138,11 +138,11 @@
     <string name="about_twitter">Archison на Twitter</string>
     <string name="about_discord">RAR II на Discord</string>
 
-    <string name="new_game_welcome_hero_whats_your_name">Welcome, hero! What\'s your name?</string>
+    <string name="new_game_welcome_hero_whats_your_name">Вітаю, герой! Як тебе звати?</string>
     <string name="new_game_hero_name">Hero</string>
-    <string name="new_game_whats_your_starting_advantage">… and what is your starting advantage?</string>
+    <string name="new_game_whats_your_starting_advantage">… і які твої стартові плюси?</string>
 
-    <string name="advantage_random">Random</string>
+    <string name="advantage_random">Випадковий вибір</string>
     <string name="advantage_ranger">&font_wood;Ranger&font_end;</string>
     <string name="advantage_warrior">&font_attack;Warrior&font_end;</string>
     <string name="advantage_wizard">&font_mana;Wizard&font_end;</string>
@@ -153,7 +153,7 @@
     <string name="advantage_blacksmith">&font_silver;Blacksmith&font_end;</string>
     <string name="advantage_noble">&font_gold;Noble&font_end;</string>
     <string name="advantage_librarian">&font_wood;Librarian&font_end;</string>
-    <string name="advantage_librarian_desc">(You will start with a random crafting recipe, an &font_cyan;experience &font_end;potion and 5 &font_cyan;skill &font_end;points)</string>
+    <string name="advantage_librarian_desc">(Ви почнете з випадковим рецептом крафта, &font_cyan;зіллям &font_end;досвіду і з 5 &font_cyan;очками &font_end;навичок)</string>
     <string name="advantage_random_desc">(You will start with a random talent)</string>
     <string name="advantage_warrior_desc">(You will start with a &font_attack;Weapon&font_end;, a &font_defense;Shield&font_end;, and a piece of &font_defense;Armor&font_end;)</string>
     <string name="advantage_ranger_desc">(You will start with a &font_speed;Ranged &font_end;weapon and a few of its ammunition)</string>
