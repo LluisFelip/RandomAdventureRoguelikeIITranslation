@@ -3703,10 +3703,10 @@
     <string name="cartographer_stone_info">Permet de marquer ou ajouter des informations aux îles se trouvant dans votre liste d'îles.</string>
     <string name="wooden_sign_info">Utilisez ça pour créer un &font_wood;panneau en bois &font_end;et écrire des notes dessus. Il sera montré sur la map comme un &font_wood;X&font_end;.</string>
 
-    <string name="button_blacksmith_ask_about_material_tiers">Ask about &font_wood;material &font_end;&font_cyan;tiers&font_end;</string>
-    <string name="blacksmith_material_tiers_message">Oh, you want to know about the material tiers? This is the order:&br;&br;&font_wood;Wood &font_end;-> &font_leather;Leather &font_end;-> &font_copper;Copper &font_end;-> &font_tin;Tin &font_end;-> &font_iron;Iron &font_end;-> &font_bronze;Bronze &font_end;-> &font_silver;Silver &font_end;-> &font_gold;Gold &font_end;-> &font_diamond;Diamond &font_end;-> &font_obsidian;Obsidian &font_end;&br;&br;There are a some other very rare materials but I don\'t think you will ever be able to find them…</string>
-    <string name="button_sort_by_can_craft">Sort (can craft)</string>
-    <string name="crafting_filter_can_craft">Can Craft</string>
+    <string name="button_blacksmith_ask_about_material_tiers">Demander des informations à propos de l'&font_cyan;ordre de rareté&font_end;des &font_wood;matériaux&font_end;</string>
+    <string name="blacksmith_material_tiers_message">Oh, vous voulez connaître l'odre de rareté des matériaux ? Le voici :&br;&br;&font_wood;bois &font_end;-> &font_leather;cuir &font_end;-> &font_copper;cuivre &font_end;-> &font_tin;étain &font_end;-> &font_iron;fer &font_end;-> &font_bronze;bronze &font_end;-> &font_silver;argent &font_end;-> &font_gold;or &font_end;-> &font_diamond;diamant &font_end;-> &font_obsidian;obsidienne &font_end;&br;&br;Il existe d'autres matériaux encore plus rares mais il me paraît presque impossible que tu les découvre…</string>
+    <string name="button_sort_by_can_craft">Trier (peux fabriquer)</string>
+    <string name="crafting_filter_can_craft">Peux fabriquer</string>
 
     <string name="ascending">Ascension en cours</string>
     <string name="button_continue">Continuer</string>
