@@ -1564,7 +1564,7 @@
     <string name="animal_is_here">%1$s is here</string>
     <string name="animal_leave_here_message">Leave %1$s here? If you want it to follow you again, you\'ll have to feed it again…</string>
     <string name="animal_left">You left %1$s…</string>
-    <string name="animal_start_following_you">%1$s starts following you!</string>
+    <string name="animal_start_following_you">%1$s starts following you! It will be able to carry some items for you!</string>
     <string name="animal_follow_substitute_animal">%1$s wants to start following you, let it follow you and leave %2$s here?</string>
     <string name="animal_dog_name">Dog</string>
     <string name="animal_chicken_name">Chicken</string>
