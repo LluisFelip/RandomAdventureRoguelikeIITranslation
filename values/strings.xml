@@ -276,7 +276,7 @@
     <string name="button_equipment">Equipment</string>
     <string name="button_inventory">Inventory</string>
     <string name="button_journey">Journey</string>
-    <string name="button_abandon">Abandon</string>
+    <string name="button_abandon">A</string>
     <string name="button_improve">Improve</string>
     <string name="button_chop">Chop</string>
     <string name="button_sort_by_price">Sort (Price)</string>
