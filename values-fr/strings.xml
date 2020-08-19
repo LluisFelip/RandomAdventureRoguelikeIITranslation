@@ -3577,88 +3577,88 @@
     <string name="ascended">Ascension réussie !</string>
 
     <string name="ascended_text">
-        Vous oubliez tout mais vous sentez plus puissant que jamais… &br;&br;* You obtain &font_cyan;%1$d &font_end;x &asterisk_ascend_color;Ascension &font_end;&font_red;Flame&font_end; &br;* Your max. &font_health;health &font_end;is now &font_health;%2$d&font_end; &br;* Your max. &font_mana;mana &font_end;is now &font_mana;%3$d&font_end; &br;* Your max. &font_hunger;hunger &font_end;is now &font_hunger;%4$d&font_end;
+        Vous oubliez tout mais vous sentez plus puissant que jamais… &br;&br;* Vous obtenez &font_cyan;%1$d &font_end;x &font_red;Flamme(s) &font_end;de l\'&asterisk_ascend_color;Ascension&font_end; &br;* Votre &font_health;vie &font_end;max. est désormais de &font_health;%2$d&font_end; &br;* Votre &font_mana;mana &font_end;max. est désormais de &font_mana;%3$d&font_end; &br;* Votre &font_hunger;faim &font_end;max. est désormais de &font_hunger;%4$d&font_end;
 
-        &br;* Your base &font_attack;attack &font_end;is now &font_attack;%5$d&font_end; &br;* Your base &font_defense;defense &font_end;is now &font_defense;%6$d&font_end; &br;* Your base &font_mana;intelligence &font_end;is now &font_mana;%7$d&font_end; &br;* Your base &font_speed;speed &font_end;is now &font_speed;%8$d&font_end;
+        &br;* Votre &font_attack;attaque &font_end;de base est désormais de &font_attack;%5$d&font_end; &br;* Votre &font_defense;défense &font_end;de base est désormais de &font_defense;%6$d&font_end; &br;* Votre &font_mana;intelligence &font_end;max. est désormais de &font_mana;%7$d&font_end; &br;* Votre &font_speed;vitesse &font_end;max. est désormais de &font_speed;%8$d&font_end;
 
-        &br;* You start with &font_gold;%9$d gold &font_end;coins &br;* You start with &font_cyan;%10$d &font_end;&font_cyan;Skill Points&font_end; &br;&br;Good luck with your new adventures,&br;%11$s!
+        &br;* Vous démarrez avec &font_gold;%9$d pièces d'or&font_end; &br;* Vous démarrez avec &font_cyan;%10$d &font_end;&font_cyan;Points de Compétence&font_end; &br;&br;Bonne chance dans vos nouvelles aventures,&br;%11$s !
     </string>
 
-    <string name="monster_action_break_reality">Break Reality</string>
-    <string name="monster_action_discord_spam">Discord Spam</string>
+    <string name="monster_action_break_reality">Brisage de réalité</string>
+    <string name="monster_action_discord_spam">Spam Discord</string>
 
-    <string name="monster_action_translate_reality">Translate Reality</string>
-    <string name="monster_action_anime_transformation">Anime Transformation</string>
+    <string name="monster_action_translate_reality">Traduction de réalité</string>
+    <string name="monster_action_anime_transformation">Transformation d'anime</string>
 
-    <string name="monster_action_sleep_deprivation">Sleep Deprivation</string>
-    <string name="monster_action_infinity_test">Infinity Test</string>
+    <string name="monster_action_sleep_deprivation">Manque de sommeil</string>
+    <string name="monster_action_infinity_test">Test interminable</string>
 
-    <string name="monster_action_infinity_donation">Infinity Donation</string>
-    <string name="monster_action_infinity_patreon">Infinity Patreon</string>
+    <string name="monster_action_infinity_donation">Donations infinies</string>
+    <string name="monster_action_infinity_patreon">Patreon infini</string>
 
-    <string name="monster_action_island_spam">Island Spam</string>
-    <string name="monster_action_infinite_islands">Infinite Islands</string>
+    <string name="monster_action_island_spam">Spam d'îles</string>
+        <string name="monster_action_infinite_islands">Îles infinies</string>
 
-    <string name="monster_action_infinity_email">Infinity Email</string>
+    <string name="monster_action_infinity_email">Emails infinis</string>
 
-    <string name="monster_action_infinity_love">Infinity Love</string>
-    <string name="monster_action_infinity_patience">Infinity Patience</string>
-    <string name="monster_action_infinity_work">Infinity Work</string>
+    <string name="monster_action_infinity_love">Amour infini</string>
+    <string name="monster_action_infinity_patience">Patience infinie</string>
+    <string name="monster_action_infinity_work">Travail infini</string>
 
-    <string name="monster_action_discord_message">Discord Message</string>
-    <string name="monster_action_reddit_post">Reddit Post</string>
-    <string name="monster_action_song_composition">Song Composition</string>
-    <string name="monster_action_game_update">Game Update</string>
+    <string name="monster_action_discord_message">Message Discord</string>
+    <string name="monster_action_reddit_post">Post Reddit</string>
+    <string name="monster_action_song_composition">Composition musicale</string>
+    <string name="monster_action_game_update">Màj du jeu</string>
 
-    <string name="tool_chopping_axe_infinite">&font_infinity;Infinite &font_end;&font_wood;Chopping &font_end;Axe</string>
-    <string name="tool_pickaxe_infinite">&font_infinity;Infinite &font_end;&font_silver;Pickaxe&font_end;</string>
-    <string name="tool_fishing_rod_infinite">&font_infinity;Infinite &font_end;&font_cyan;Fishing &font_end;Rod</string>
-    <string name="tool_net_infinite">&font_infinity;Infinite &font_end;&font_insect;Net&font_end;</string>
-    <string name="tool_skinning_knife_infinite">&font_infinity;Infinite &font_end;&font_skin;Skinning &font_end;Knife</string>
-    <string name="tool_meat_cleaver_infinite">&font_infinity;Infinite &font_end;&font_blood;Meat &font_end;Cleaver</string>
+    <string name="tool_chopping_axe_infinite">Hache de &font_wood;coupe &font_end;&font_infinity;infinie&font_end;</string>
+    <string name="tool_pickaxe_infinite">&font_silver;Pioche &font_end;&font_infinity;infinie&font_end;</string>
+    <string name="tool_fishing_rod_infinite">&font_cyan;Canne à pêche &font_end;&font_infinity;infinie&font_end;</string>
+    <string name="tool_net_infinite">&font_insect;Filet &font_end;&font_infinity;infini&font_end;</string>
+    <string name="tool_skinning_knife_infinite">Couteau à &font_skin;dépeçer &font_end;&font_infinity;infini&font_end;</string>
+    <string name="tool_meat_cleaver_infinite">Couperet à &font_blood;viande &font_end;&font_infinity;infini&font_end;</string>
 
-    <string name="tile_content_type_summoning_stone">&font_void;Summoning &font_end;&font_stone;Stone&font_end;</string>
+    <string name="tile_content_type_summoning_stone">&font_stone;Pierre &font_end;d'&font_void;invocation&font_end;</string>
 
-    <string name="item_jade_amulet">&font_jade;Jade &font_end;Amulet</string>
-    <string name="item_serpentine_amulet">&font_serpentine;Serpentine &font_end;Amulet</string>
-    <string name="item_sodalite_amulet">&font_sodalite;Sodalite &font_end;Amulet</string>
-    <string name="item_saphir_amulet">&font_saphir;Sapphire &font_end;Amulet</string>
-    <string name="item_aragonite_amulet">&font_aragonite;Aragonite &font_end;Amulet</string>
-    <string name="item_jasper_amulet">&font_jasper;Jasper &font_end;Amulet</string>
-    <string name="item_ruby_amulet">&font_ruby;Ruby &font_end;Amulet</string>
-    <string name="item_onyx_amulet">&font_onyx;Onyx &font_end;Amulet</string>
-    <string name="item_quartz_amulet">&font_quartz;Quartz &font_end;Amulet</string>
-    <string name="item_pearl_amulet">&font_pearl;Pearl &font_end;Amulet</string>
+    <string name="item_jade_amulet">Amulette de &font_jade;jade&font_end;</string>
+    <string name="item_serpentine_amulet">Amulette de &font_serpentine;serpentinite&font_end;</string>
+    <string name="item_sodalite_amulet">Amulette de &font_sodalite;sodalite&font_end;</string>
+    <string name="item_saphir_amulet">Amulette de &font_saphir;saphire&font_end;</string>
+    <string name="item_aragonite_amulet">Amulette d'&font_aragonite;aragonite&font_end;</string>
+    <string name="item_jasper_amulet">Amulette de &font_jasper;jaspe&font_end;</string>
+    <string name="item_ruby_amulet">Amulette de &font_ruby;rubis&font_end;</string>
+    <string name="item_onyx_amulet">Amulette d'&font_onyx;onyx&font_end;</string>
+    <string name="item_quartz_amulet">Amulette de &font_quartz;quartz&font_end;</string>
+    <string name="item_pearl_amulet">Amulette de &font_pearl;perle&font_end;</string>
 
-    <string name="item_emerald_ring">&font_emerald;Emerald &font_end;Ring</string>
-    <string name="item_jade_ring">&font_jade;Jade &font_end;Ring</string>
-    <string name="item_serpentine_ring">&font_serpentine;Serpentine &font_end;Ring</string>
-    <string name="item_sodalite_ring">&font_sodalite;Sodalite &font_end;Ring</string>
-    <string name="item_saphir_ring">&font_saphir;Sapphire &font_end;Ring</string>
-    <string name="item_aragonite_ring">&font_aragonite;Aragonite &font_end;Ring</string>
-    <string name="item_jasper_ring">&font_jasper;Jasper &font_end;Ring</string>
-    <string name="item_ruby_ring">&font_ruby;Ruby &font_end;Ring</string>
-    <string name="item_onyx_ring">&font_onyx;Onyx &font_end;Ring</string>
-    <string name="item_quartz_ring">&font_quartz;Quartz &font_end;Ring</string>
-    <string name="item_pearl_ring">&font_pearl;Pearl &font_end;Ring</string>
+    <string name="item_emerald_ring">Anneau d'&font_emerald;émeraude&font_end;</string>
+    <string name="item_jade_ring">Anneau de &font_jade;jade&font_end;</string>
+    <string name="item_serpentine_ring">Anneau de &font_serpentine;serpentinite&font_end;</string>
+    <string name="item_sodalite_ring">Anneau de &font_sodalite;sodalite&font_end;</string>
+    <string name="item_saphir_ring">Anneau de &font_saphir;saphire&font_end;</string>
+    <string name="item_aragonite_ring">Anneau d'&font_aragonite;aragonite&font_end;</string>
+    <string name="item_jasper_ring">Anneau de &font_jasper;jaspe&font_end;</string>
+    <string name="item_ruby_ring">Anneau de &font_ruby;rubis&font_end;</string>
+    <string name="item_onyx_ring">Anneau d'&font_onyx;onyx&font_end;</string>
+    <string name="item_quartz_ring">Anneau de &font_quartz;quartz&font_end;</string>
+    <string name="item_pearl_ring">Anneau de &font_pearl;perle&font_end;</string>
 
-    <string name="item_info_summoning_stone">Use this &font_void;Summoning &font_end;&font_stone;Stone &font_end;to summon a random &font_void;monster&font_end;!</string>
+    <string name="item_info_summoning_stone">Utilisez cette &font_stone;Pierre &font_end;d'&font_void;invocation&font_end;pour invoquer un &font_void;monstre &font_end;aléatoire !</string>
 
-    <string name="stats_extra_inc_attack">Increased &font_attack;Att&font_end;.: &font_attack;%d&font_end;</string>
-    <string name="stats_extra_inc_defense">Increased &font_defense;Def&font_end;.: &font_defense;%d&font_end;</string>
-    <string name="stats_extra_inc_speed">Increased &font_speed;Spd&font_end;.: &font_speed;%d&font_end;</string>
-    <string name="stats_extra_inc_intelligence">Increased &font_mana;Int&font_end;.: &font_mana;%d&font_end;</string>
+    <string name="stats_extra_inc_attack">&font_attack;Att&font_end;. augmentée : &font_attack;%d&font_end;</string>
+    <string name="stats_extra_inc_defense">&font_defense;Déf&font_end;. augmentée: &font_defense;%d&font_end;</string>
+    <string name="stats_extra_inc_speed">&font_speed;Vit&font_end;. augmentée: &font_speed;%d&font_end;</string>
+    <string name="stats_extra_inc_intelligence">&font_mana;Int&font_end;. augmentée: &font_mana;%d&font_end;</string>
 
-    <string name="increases_max_health">&br;&br;Increases the Maximum &font_health;Health&font_end;.</string>
-    <string name="increases_max_mana">&br;&br;Increases the Maximum &font_mana;Mana&font_end;.</string>
-    <string name="increases_max_hunger">&br;&br;Increases the Maximum &font_hunger;Hunger&font_end;.</string>
-    <string name="increases_base_attack">&br;&br;Increases the &font_cyan;base &font_end;&font_attack;attack&font_end;.</string>
-    <string name="increases_base_defense">&br;&br;Increases the &font_cyan;base &font_end;&font_defense;defense&font_end;.</string>
-    <string name="increases_base_speed">&br;&br;Increases the &font_cyan;base &font_end;&font_speed;speed&font_end;.</string>
-    <string name="increases_base_intelligence">&br;&br;Increases the &font_cyan;base &font_end;&font_mana;intelligence&font_end;.</string>
+    <string name="increases_max_health">&br;&br;Augmente la &font_health;vie &font_end;maximum.</string>
+    <string name="increases_max_mana">&br;&br;Augmente le &font_mana;mana &font_end;maximum.</string>
+    <string name="increases_max_hunger">&br;&br;Augmente la &font_hunger;faim &font_end;maximum.</string>
+    <string name="increases_base_attack">&br;&br;Augmente l'&font_attack;attaque &font_end;de &font_cyan;base&font_end;.</string>
+    <string name="increases_base_defense">&br;&br;Augmente la &font_defense;défense &font_end;de &font_cyan;base&font_end;.</string>
+    <string name="increases_base_speed">&br;&br;Augmente la &font_speed;vitesse &font_end;de &font_cyan;base&font_end;.</string>
+    <string name="increases_base_intelligence">&br;&br;Augmente l'&font_mana;intelligence &font_end;de &font_cyan;base&font_end;.</string>
 
-    <string name="summoning_monster">&font_void;Summoning &font_end;&font_red;monster&font_end;…</string>
-    <string name="summoned_monster">…&font_void;summoned &font_end;%1$s!</string>
+    <string name="summoning_monster">&font_void;Invocation &font_end;du &font_red;monstre&font_end;…</string>
+    <string name="summoned_monster">… %1$s &font_void;invoqué&font_end; !</string>
     <string name="cant_summon_if_theres_a_monster_nearby">Can\'t &font_void;summon &font_end;a &font_red;monster &font_end;if there\'s already a &font_red;monster &font_end;nearby…</string>
     <string name="scrap_from_inventory_message">You have an &asterisk_ascend_color;Ascension &font_end;&font_red;Flame&font_end;, so you can &font_iron;scrap &font_end;your equipment pieces.&br;&br;Do you want to &font_iron;scrap &font_end;%1$s?</string>
 
@@ -3700,7 +3700,7 @@
     <string name="title_the_ender_female">%1$s, the &font_legendary;Ender&font_end;</string>
     <string name="title_the_ender_no_gender">%1$s, the &font_legendary;Ender&font_end;</string>
 
-    <string name="settings_show_pet_in_combat">Monter Compagnon en Combat</string>
+    <string name="settings_show_pet_in_combat">Montrer Compagnon en Combat</string>
     <string name="settings_show_progress_bars">Montrer Barres Progression</string>
 
     <string name="wise_have_in_void_island">Great, you are here! You should be careful… Creatures here are more dangerous… And there\'s a powerful being waiting for you…</string>
@@ -3712,14 +3712,14 @@
     <string name="young_child_extra_advice_2">If I were you, I\'d buy some &font_cyan;Equipment &font_end;at an &font_bronze;Armory &font_end;or a powerful &font_mana;Spell &font_end;at a &font_mana;Magic &font_end;&font_gold;Shop &font_end;if you want to protect yourself better…&br;&br;And no, I don\'t collect commission for this! Even though my &italic;Uncle &italic_end;works at the &font_bronze;Armory &font_end;and my &italic;Grandma &italic_end;runs the &font_mana;Magic &font_end;&font_gold;Shop&font_end;…</string>
     <string name="young_child_extra_advice_3">Ah! And you should eat when you are &font_hunger;hungry &font_end;or you will die faster than you think!&br;&br;You can &font_cyan;eat &font_end;&font_plant;food &font_end;from your &font_wood;Inventory &font_end;or eat at a &font_bar;Bar &font_end;or a &font_bar;Tavern&font_end;…</string>
 
-    <string name="pyramid_was_cursed_and_closed">La &font_pyramid;Pyramide &font_end;a été maudite et fermée !</string>
+    <string name="pyramid_was_cursed_and_closed">La &font_pyramid;Pyramide &font_end;a été maudite et scellée !</string>
     <string name="pyramid_is_now_open">La &font_pyramid;Pyramide &font_end;est maintenant ouverte !</string>
     <string name="pyramid_didnt_open">La &font_pyramid;Pyramide &font_end;ne s\'est pas ouverte…</string>
     <string name="new_game_chicken_mode_selected">En &font_animal;Mode Poule Mouillée &font_end;vous aurez les avantages suivants :&br;&br;* Les &font_red;monstres &font_end;ne vous empêcherons plus d\'interagir avec les &font_cyan;PNJ&font_end;.&br;&br;* Vous démarrerez avec de l\'&font_gold;or &font_end;supplémentaire.&br;&br;* Vos stats de départ seront légèrement meilleures.&br;&br;* Vous aurrez plus de &font_speed;vitesse &font_end;pour &font_cyan;fuir &font_end;les &font_red;monstres&font_end;.&br;&br;* \« &font_animal;Mode Poule Mouillée&font_end; \» sera affiché sur l\'écran de stats de votre &font_cyan;héros&font_end; !</string>
     <string name="chicken_mode_checkbox">&font_animal;Mode Poule Mouillée&font_end;</string>
     <string name="new_game_chicken_mode_not_selected">Profitez de l\'expérience habituelle RAR II.</string>
     <string name="chicken_mode_in_stats">&font_animal;Mode Poule Mouillée&font_end;</string>
-    <string name="the_chicken_smiles_at_you">Le &font_animal;poulet &font_end;te sourit…</string>
+    <string name="the_chicken_smiles_at_you">Le &font_animal;poulet &font_end;vous lâche un sourire…</string>
     <string name="achievement_name_chicken_feed_chicken">Cannibalisme chez KFC</string>
     <string name="achievement_desc_chicken_feed_chicken">Nourris un poulet en Mode Poule Mouillée.</string>
 
