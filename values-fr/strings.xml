@@ -755,8 +755,8 @@
     <string name="combat_monster_dead_vanishes">%1$s est réduit en poussière !</string>
     <string name="combat_monster_attacks">%1$s lance un assaut !</string>
     <string name="combat_fight">Combattre</string>
-    <string name="combat_player_flee_fails">La tentative d\'évasion à échouée…</string>
-    <string name="combat_player_flee_succeeds">La tentative d\'évasion est réussie !</string>
+    <string name="combat_player_flee_fails">La tentative de fuite à échouée…</string>
+    <string name="combat_player_flee_succeeds">La tentative de fuite est réussie !</string>
     <string name="combat_killed_monster">Vous avez vaincu %1$s !</string>
     <string name="combat_player_is_dead"> &font_cyan;%1$s &font_end;est mort &line_break;au niveau &font_cyan;%2$d&font_end;
         !</string>
@@ -765,7 +765,7 @@
     <string name="combat_cant_flee_from_monster">Impossible de fuir contre %1$s…</string>
     <string name="combat_monster_obtained_gold">Vous obtenez &font_gold;%1$d&font_end; d\'or.</string>
     <string name="combat_monster_obtained_item">Vous obtenez un(e) %1$s.</string>
-    <string name="combat_you_throw_the_bucket_to">Tu balance le %1$s sur %2$s ! %3$s reçoit &font_red;%4$d &font_end;de dégâts !</string>
+    <string name="combat_you_throw_the_bucket_to">Vous balancez le %1$s sur %2$s ! %3$s reçoit &font_red;%4$d &font_end;de dégâts !</string>
 
     <string name="villager_text_hello_1" tools:ignore="UnusedResources">Salut !</string>
     <string name="villager_text_hello_2" tools:ignore="UnusedResources">Salut, héros !</string>
@@ -1930,134 +1930,134 @@
     <string name="spells_title">Sorts</string>
     <string name="spells_spell_mana_cost" tools:ignore="PluralsCandidate">Coût : &font_mana;%1$d de mana&font_end;</string>
     <string name="spells_spell_damage">&br;Dégâts : &font_red;%1$d&font_end;%% &font_mana;Intelligence&font_end;</string>
-    <string name="spells_casts_spell">Tu utilises %1$s !</string>
-    <string name="spells_empty_message">Tu ne connais encore aucun &font_mana;sorts &font_end;…</string>
+    <string name="spells_casts_spell">Vous utilisez %1$s !</string>
+    <string name="spells_empty_message">Vous ne connaissez encore aucun &font_mana;sorts&font_end;…</string>
     <string name="spell_fireball_name">&font_attack;Boule de feu&font_end;</string>
     <string name="spell_fireball_desc">Lance une &font_attack;boule de feu &font_end;à l\'ennemi. Peut &font_attack;brûler&font_end;.</string>
-    <string name="spell_fireball_desc_combat">Tu lance une &font_attack;boule de feu&font_end;
+    <string name="spell_fireball_desc_combat">Vous lancez une &font_attack;boule de feu&font_end;
         vers %1$s ! %2$s &font_red;%3$d &font_end;de dégâts.</string>
     <string name="spell_firebreath_name">&font_attack;Souffle enflammé&font_end;</string>
     <string name="spell_firebreath_desc">Souffle un large cône de &font_attack;feu&font_end;. Peut &font_attack;brûler&font_end;.</string>
-    <string name="spell_firebreath_desc_combat">Tu souffle du &font_attack;feu &font_end;, formant un immense cône vers %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
+    <string name="spell_firebreath_desc_combat">Vous soufflez du &font_attack;feu &font_end;, formant un immense cône vers %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
     <string name="spell_flamethrower_name">&font_attack;Lance-flammes&font_end;</string>
     <string name="spell_flamethrower_desc">Envoie une énorme salve de &font_attack;flammes&font_end;. Peut &font_attack;brûler&font_end;.</string>
-    <string name="spell_flamethrower_desc_combat">Tu envoies une énorme salve de &font_attack;flammes &font_end;vers %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
+    <string name="spell_flamethrower_desc_combat">Vous envoyez une énorme salve de &font_attack;flammes &font_end;vers %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
     <string name="spell_meteorite_name">&font_attack;Météorite&font_end;</string>
     <string name="spell_meteorite_desc">Invoque une grosse &font_attack;météorite&font_end;
         vers l\'ennemi. Peut &font_attack;brûler&font_end;.</string>
-    <string name="spell_meteorite_desc_combat">Tu envoies une grosse &font_attack;météorite &font_end;vers %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
+    <string name="spell_meteorite_desc_combat">Vous envoyez une grosse &font_attack;météorite &font_end;vers %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
     <string name="spell_firestorm_name">&font_attack;Tempête de feu&font_end;</string>
     <string name="spell_firestorm_desc">Invoque une &font_attack;tempête de feu&font_end;. &font_attack;Brûle&font_end;
         toujours.</string>
-    <string name="spell_firestorm_desc_combat">Tu envoies une puissante &font_attack;tempête de feu &font_end;vers %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
+    <string name="spell_firestorm_desc_combat">Vous envoyez une puissante &font_attack;tempête de feu &font_end;vers %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
     <string name="spell_splash_name">&font_water;Splash&font_end;</string>
     <string name="spell_splash_desc">&font_water;Arrose &font_end;l\'ennemi.</string>
-    <string name="spell_splash_desc_combat">Tu &font_water;arroses &font_end;%1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
+    <string name="spell_splash_desc_combat">Vous &font_water;arrosez &font_end;%1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
     <string name="spell_waterstrike_name">&font_water;Coup aqueux&font_end;</string>
     <string name="spell_waterstrike_desc">Envoie une énorme sphère &font_water;d\'eau&font_end;.</string>
-    <string name="spell_waterstrike_desc_combat">Tu balance une énorme sphère &font_water;d\'eau &font_end;sur %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
+    <string name="spell_waterstrike_desc_combat">Vous balancez une énorme sphère &font_water;d\'eau &font_end;sur %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
     <string name="spell_wave_name">&font_water;Vague&font_end;</string>
     <string name="spell_wave_desc">Envoie une immense &font_water;vague d\'eau&font_end;.</string>
-    <string name="spell_wave_desc_combat">Tu envoies une immense &font_water;vague&font_end; &font_tundra;d\'eau &font_end;vers %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
+    <string name="spell_wave_desc_combat">Vous envoyez une immense &font_water;vague&font_end; &font_tundra;d\'eau &font_end;vers %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
     <string name="spell_heavyrain_name">&font_water;Lourde pluie&font_end;</string>
     <string name="spell_heavyrain_desc">Invoque une &font_water;lourde pluie &font_end;pour endommager l\'ennemi…</string>
-    <string name="spell_heavyrain_desc_combat">Tu invoques une &font_water;lourde pluie &font_end;sur %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
+    <string name="spell_heavyrain_desc_combat">Vous invoquez une &font_water;lourde pluie &font_end;sur %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
     <string name="spell_tsunami_name">&font_water;Tsunami&font_end;</string>
     <string name="spell_tsunami_desc">Invoque un puissant &font_water;tsunami&font_end;.</string>
-    <string name="spell_tsunami_desc_combat">Tu envoies un puissant &font_water;tsunami &font_end;vers %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
+    <string name="spell_tsunami_desc_combat">Vous envoyez un puissant &font_water;tsunami &font_end;vers %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
     <string name="spell_icebolt_name">&font_ice;Rayon de givre&font_end;</string>
     <string name="spell_icebolt_desc">Lance un &font_ice;rayon de givre&font_end;. Peut &font_ice;geler&font_end;.</string>
-    <string name="spell_icebolt_desc_combat">Tu lances un &font_ice;rayon de givre&font_end;
+    <string name="spell_icebolt_desc_combat">Vous lancez un &font_ice;rayon de givre&font_end;
         sur %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
     <string name="spell_icespear_name">&font_ice;Lance de glace&font_end;</string>
     <string name="spell_icespear_desc">Lance une &font_ice;lance de glace&font_end;. Peut &font_ice;geler&font_end;.</string>
-    <string name="spell_icespear_desc_combat">Tu lances une &font_ice;lance de glace&font_end;
+    <string name="spell_icespear_desc_combat">Vous lancez une &font_ice;lance de glace&font_end;
         sur %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
     <string name="spell_icearmor_name">&font_ice;Armure de crystal&font_end;</string>
-    <string name="spell_icearmor_desc">Tu t\'encercle d\'une &font_ice;armure de crystal&font_end;. Lorsque l\'ennemi t\'attaque, il recevra des dégâts de glace.</string>
-    <string name="spell_icearmor_desc_combat">Tu te crées une &font_ice;armure de crystal&font_end; !</string>
+    <string name="spell_icearmor_desc">Vous vous encerclez d\'une &font_ice;armure de crystal&font_end;. Lorsque l\'ennemi t\'attaque, il recevra des dégâts de glace.</string>
+    <string name="spell_icearmor_desc_combat">Vous vous créez une &font_ice;armure de crystal&font_end; !</string>
     <string name="spell_icearmor_is_gone">&font_ice;L\'armure de crystal&font_end; a fondu…</string>
     <string name="spell_frostfire_name">&font_ice;Incendie glacial&font_end;</string>
     <string name="spell_frostfire_desc">Lance un &font_ice;incendie glacial&font_end;. Peut &font_ice;geler&font_end;.</string>
-    <string name="spell_frostfire_desc_combat">Tu utilises &font_ice;incendie glacial&font_end;
-        vers %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
+    <string name="spell_frostfire_desc_combat">Vous utilisez &font_ice;incendie glacial&font_end;
+        sur %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
     <string name="spell_freezingbomb_name">&font_ice;Bombe givrante&font_end;</string>
     <string name="spell_freezingbomb_desc">Fais exploser une &font_ice;bombe givrante&font_end;. &font_ice;gèle&font_end;
         toujours.</string>
-    <string name="spell_freezingbomb_desc_combat">Tu fais exploser une &font_ice;bombe givrante&font_end; vers %1$s! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
+    <string name="spell_freezingbomb_desc_combat">Vous faites exploser une &font_ice;bombe givrante&font_end; vers %1$s! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
     <string name="spell_windpush_name">&font_spell_wind;Poussée aérienne&font_end;</string>
     <string name="spell_windpush_desc">Pousse l\'adversaire en utilisant le &font_spell_wind;vent&font_end;. Peut &font_spell_wind;bloquer&font_end;.</string>
-    <string name="spell_windpush_desc_combat">Tu pousses %1$s avec la &font_spell_wind;poussée aérienne&font_end; ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
+    <string name="spell_windpush_desc_combat">Vous poussez %1$s avec la &font_spell_wind;poussée aérienne&font_end; ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
     <string name="spell_windslap_name">&font_spell_wind;Gifle aérienne&font_end;</string>
     <string name="spell_windslap_desc">Gifle l\'ennemi en utilisant du &font_spell_wind;vent&font_end;.</string>
-    <string name="spell_windslap_desc_combat">Tu gigle %1$s avec &font_spell_wind;Gifle Aérienne&font_end;
+    <string name="spell_windslap_desc_combat">Vous giflez %1$s avec &font_spell_wind;Gifle Aérienne&font_end;
         ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
     <string name="spell_airwave_name">&font_spell_wind;Vague d\'air&font_end;</string>
     <string name="spell_airwave_desc">Balance une immense &font_spell_wind;vague d\'air&font_end;. Peut &font_spell_wind;bloquer&font_end;.</string>
-    <string name="spell_airwave_desc_combat">Tu invoques une &font_spell_wind;vague d\'air &font_end;sur %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
+    <string name="spell_airwave_desc_combat">Vous invoquez une &font_spell_wind;vague d\'air &font_end;sur %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
     <string name="spell_windhole_name">&font_spell_wind;Percée aérienne&font_end;</string>
     <string name="spell_windhole_desc">Invoque une &font_spell_wind;percée aérienne&font_end;, attaque léthale.</string>
-    <string name="spell_windhole_desc_combat">Tu lances une &font_spell_wind;percée aérienne &font_end;sur %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
+    <string name="spell_windhole_desc_combat">Vous lancez une &font_spell_wind;percée aérienne &font_end;sur %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
     <string name="spell_tornado_name">&font_spell_wind;Tornade&font_end;</string>
     <string name="spell_tornado_desc">Invoque une puissante &font_spell_wind;tornade&font_end;.</string>
-    <string name="spell_tornado_desc_combat">Tu invoques une puissante &font_spell_wind;tornade &font_end;vers %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
+    <string name="spell_tornado_desc_combat">Vous invoquez une puissante &font_spell_wind;tornade &font_end;vers %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
     <string name="spell_electricjolt_name">&font_electric;Électrochoc&font_end;</string>
     <string name="spell_electricjolt_desc">Frappe avec une secousse &font_electric;électrique&font_end;. Peut &font_electric;paralyser&font_end;.</string>
-    <string name="spell_electricjolt_desc_combat">Tu frappes %1$s avec des &font_electric;électrochocs&font_end; ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
+    <string name="spell_electricjolt_desc_combat">Vous attaquez %1$s avec des &font_electric;électrochocs&font_end; ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
     <string name="spell_electricwhip_name">&font_electric;Fouet électrique&font_end;</string>
     <string name="spell_electricwhip_desc">Tranche avec un &font_electric;fouet électrique&font_end;. Peut &font_electric;paralyser&font_end;.</string>
-    <string name="spell_electricwhip_desc_combat">Tu tranches %1$s avec un &font_electric;fouet électrique&font_end; ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
+    <string name="spell_electricwhip_desc_combat">Vous tranchez %1$s avec un &font_electric;fouet électrique&font_end; ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
     <string name="spell_lightningshout_name">&font_electric;Onde Sonore Électrique&font_end;</string>
     <string name="spell_lightningshout_desc">Produit une &font_electric;onde sonore&font_end; très puissante grâce à ta douce voix. Peut &font_electric;paralyser&font_end;.</string>
-    <string name="spell_lightningshout_desc_combat">Tu envoies une &font_electric;onde sonore électrique&font_end;
+    <string name="spell_lightningshout_desc_combat">Vous envoyez une &font_electric;onde sonore électrique&font_end;
         dévastatrice en direction de %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
     <string name="spell_thunder_name">&font_electric;Orage&font_end;</string>
     <string name="spell_thunder_desc">Invoque un &font_electric;éclair&font_end;. Peut &font_electric;paralyser&font_end;.</string>
-    <string name="spell_thunder_desc_combat">Tu invoques un &font_electric;éclair &font_end;sur %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
+    <string name="spell_thunder_desc_combat">Vous invoquez un &font_electric;éclair &font_end;sur %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
     <string name="spell_electricstorm_name">&font_electric;Orage&font_end;</string>
     <string name="spell_electricstorm_desc">Invoque un &font_electric;orage&font_end; très puissant. &font_electric;Paralyse&font_end;
         à coup sûr.</string>
-    <string name="spell_electricstorm_desc_combat">Tu invoques un &font_electric;orage &font_end;très puissant sur %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
+    <string name="spell_electricstorm_desc_combat">Vous invoquez un &font_electric;orage &font_end;très puissant sur %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
     <string name="spell_capture_monster_name">&font_pet;Capturer&font_end; de &font_red;Monstre&font_end;</string>
-    <string name="spell_capture_monster_desc">Tentative de &font_pet;capturer &font_end;l\'adversaire afin de le ralier à ta cause, il deviendra un &font_pet;familier&font_end;. Plus le niveau de cette compétence est élevé, plus tu as de chance de le capturer.</string>
-    <string name="spell_capture_monster_combat_success">&font_green;Succès&font_end; ! %1$s te rejoindra après que tu l\'aies vaincu.</string>
-    <string name="spell_capture_monster_combat_fail">Raté ! Tu n\'as pas pu &font_pet;capturer &font_end;%1$s.</string>
+    <string name="spell_capture_monster_desc">Tentative de &font_pet;capturer &font_end;l\'adversaire afin de le ralier à votre cause, il deviendra un &font_pet;familier&font_end;. Plus le niveau de cette compétence est élevé, plus vous avez de chance de le capturer.</string>
+    <string name="spell_capture_monster_combat_success">&font_green;Succès&font_end; ! %1$s vous rejoindra après que vous l'ayez vaincu.</string>
+    <string name="spell_capture_monster_combat_fail">Raté ! Vous n'avez pas pu &font_pet;capturer &font_end;%1$s.</string>
     <string name="spell_calmmonster_name">&font_pet;Tranquilisant&font_end;</string>
-    <string name="spell_calmmonster_desc">Essaye de &font_pet;calmer &font_end;un &font_red;monstre &font_end;pour faciliter sa &font_pet;capture &font_end;. Ça permet aussi de &font_cyan;fuir&font_end;
+    <string name="spell_calmmonster_desc">Essayez de &font_pet;calmer &font_end;un &font_red;monstre &font_end;pour faciliter sa &font_pet;capture &font_end;. Ça permet aussi de &font_cyan;fuir&font_end;
         plus facilement.</string>
-    <string name="spell_calmmonster_desc_combat_success">Tu &font_pet;anesthésies &font_end; %1$s !</string>
+    <string name="spell_calmmonster_desc_combat_success">Vous &font_pet;anesthésiez &font_end; %1$s !</string>
     <string name="spell_calmmonster_desc_combat_fails">Le &font_pet;tranquilisant &font_end;n\'a pas fonctionné sur %1$s…</string>
     <string name="text_monster_is_already_calmed">%1$s est déjà calmé !</string>
-    <string name="text_cant_calm_this_monster">Tu ne peux pas calmer ce monstre…</string>
+    <string name="text_cant_calm_this_monster">Vous ne pouvez pas calmer ce monstre…</string>
     <string name="spell_punchofstone_name">&font_wood;Poing en Pierre&font_end;</string>
     <string name="spell_punchofstone_desc">Crée un poing fait de &font_wood;pierre&font_end;
         et frappe l\'adversaire.</string>
-    <string name="spell_punchofstone_desc_combat">Tu crées un poing fait de &font_wood;pierre &font_end;et frappe %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
+    <string name="spell_punchofstone_desc_combat">Vous créez un poing fait de &font_wood;pierre &font_end;et frappe %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
     <string name="spell_stalactite_name">&font_wood;Stalactite&font_end;</string>
     <string name="spell_stalactite_desc">Crée une &font_wood;stalactite&font_end; au dessus de l\'ennemi.</string>
-    <string name="spell_stalactite_desc_combat">Tu crées une &font_wood;stalactite&font_end; qui est tombé sur %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
+    <string name="spell_stalactite_desc_combat">Vous créez une &font_wood;stalactite&font_end; qui est tombé sur %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
     <string name="spell_stonespikes_name">&font_wood;Pointe de Pierre&font_end;</string>
     <string name="spell_stonespikes_desc">Soulève un tas d\'immenses &font_wood;pointes en pierre &font_end;sous l\'adversaire.</string>
-    <string name="spell_stonespikes_desc_combat">Tu soulèves plusieurs &font_wood;pointes en pierre&font_end;sous %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
+    <string name="spell_stonespikes_desc_combat">Vous soulevez plusieurs &font_wood;pointes en pierre&font_end;sous %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
     <string name="spell_earthquake_name">&font_wood;Tremblement de Terre&font_end;</string>
     <string name="spell_earthquake_desc">Invoque un violent &font_wood;tremblement de terre&font_end;.</string>
-    <string name="spell_earthquake_desc_combat">Tu invoques un violent &font_wood;tremblement de terre &font_end;sous %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
+    <string name="spell_earthquake_desc_combat">Vous invoquez un violent &font_wood;tremblement de terre &font_end;sous %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
     <string name="spell_earthcrack_name">&font_wood;Fissure Terrestre&font_end;</string>
     <string name="spell_earthcrack_desc">&font_wood;Fissure le sol &font_end; sous l\'ennemi.</string>
-    <string name="spell_earthcrack_desc_combat">Tu &font_wood;fissure le sol &font_end;sous %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
+    <string name="spell_earthcrack_desc_combat">Vous &font_wood;fissurez le sol &font_end;sous %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
     <string name="spell_healingtouch_name">&font_health;Main Soignante&font_end;</string>
     <string name="spell_healingtouch_desc">Utilise &font_health;main soignante &font_end;pour regagner &font_health;33&font_end;
         % de tous tes points de &font_health;vie&font_end;.</string>
-    <string name="spell_healingtouch_desc_combat">Tu utilises &font_health;main soignante&font_end;
+    <string name="spell_healingtouch_desc_combat">Vous utilisez &font_health;main soignante&font_end;
         et regagne &font_health;%1$d&font_end; points de &font_health;vie &font_end;.</string>
     <string name="spell_healinglight_name">&font_health;Lumière Soignante&font_end;</string>
     <string name="spell_healinglight_desc">Utilise la &font_health;lumière soignante &font_end;pour regagner &font_health;66&font_end;
         % de tous tes points de &font_health;vie&font_end;.</string>
-    <string name="spell_healinglight_desc_combat">Tu utilises la &font_health;lumière soignante &font_end;et regagne &font_health;%1$d&font_end;
+    <string name="spell_healinglight_desc_combat">Vous utilisez la &font_health;lumière soignante &font_end;et regagne &font_health;%1$d&font_end;
         points de &font_health;vie &font_end;.</string>
     <string name="spell_purelight_name">&font_health;Lumière Pure&font_end;</string>
     <string name="spell_purelight_desc">Invoque une &font_health;lumière &font_end;d\'une grande &font_health;pureté &font_end;pour te &font_health;soigner &font_end;complètement.</string>
-    <string name="spell_purelight_desc_combat">Tu invoques une &font_health;lumière pure &font_end;et regagne &font_health;%1$d &font_end;points de &font_health;vie &font_end;.</string>
+    <string name="spell_purelight_desc_combat">Vous invoquez une &font_health;lumière pure &font_end;et regagnez &font_health;%1$d &font_end;points de &font_health;vie &font_end;.</string>
 
     <string name="spell_effect_combat_burnt">%1$s est en train de &font_attack;brûler&font_end; !</string>
     <string name="spell_effect_combat_frozen">%1$s est &font_tundra;congelé&font_end; !</string>
@@ -2098,11 +2098,11 @@
     <string name="text_sailing_title">Embarquement</string>
     <string name="text_sailing_title_to_island_name">Embarquement vers &font_cyan;%1$s&font_end;…</string>
     <string name="moved_direction">Déplacement %1$s.</string>
-    <string name="player_waits">Tu attends…</string>
+    <string name="player_waits">Vous attendez…</string>
     <string name="select_island_discover_new_island">Nouvelle Île découverte !</string>
     <string name="select_island_title">Sélection de l\'île</string>
-    <string name="text_select_island_empty_message">Tu n\'as toujours pas exploré d\'autres îles…</string>
-    <string name="text_arrived_at">Tu débarques à &font_cyan;%1$s&font_end; !</string>
+    <string name="text_select_island_empty_message">Vous n'avez toujours pas exploré d\'autres îles…</string>
+    <string name="text_arrived_at">Vous débarquez à &font_cyan;%1$s&font_end; !</string>
     <string name="tile_unexplored">Inexploré</string>
     <string name="text_cant_swim_in_deep_ocean">Impossible de nager dans &font_blue;l\'Océan Profond&font_end;…</string>
     <string name="text_level_up_to">Niveau supérieur : &font_cyan;%1$d&font_end; !</string>
@@ -2111,24 +2111,24 @@
     <string name="world_current_island">&italic; - Actuel&italic_end;</string>
 
     <string name="sail_cant">Impossible d\'embarquer</string>
-    <string name="sail_rescued_message">Tu dois d\'abord guider les gens que tu as sauvé !</string>
-    <string name="sail_pay_sailing_taxes">Tu dois d\'abord payer la taxe à l\'&font_wood;Appontement &font_end;pour pouvoir débarquer !</string>
+    <string name="sail_rescued_message">Vous devez d\'abord guider les gens que tu as sauvé !</string>
+    <string name="sail_pay_sailing_taxes">Vous devez d\'abord payer la taxe à l\'&font_wood;Appontement &font_end;pour pouvoir débarquer !</string>
     <string name="sail_pier_pay_taxes_to_sail" tools:ignore="PluralsCandidate">Bonjour, désirez-vous payer les taxes pour pouvoir &font_cyan;embarquer &font_end;dans votre &font_wood;navire &font_end;
         ?&br;&br;Ce sera &font_gold;%1$d d\'or&font_end; s\'il vous plaît.</string>
     <string name="sail_pier_already_payed">Merci de votre coopération, vous pouvez désormais &font_cyan;embarquer &font_end;sur votre navire. Amusez-vous bien !</string>
 
-    <string name="corpse_turns_to_dust">%1$s est reduit en poussière…</string>
+    <string name="corpse_turns_to_dust">%1$s est réduit en poussière…</string>
 
-    <string name="main_story_new_game_first_output">Tu te réveilles à la &font_sand;plage &font_end;vers &font_cyan;%1$s&font_end;.</string>
+    <string name="main_story_new_game_first_output">Vous vous réveillez à la &font_sand;plage &font_end;vers &font_cyan;%1$s&font_end;.</string>
     <string name="main_story_1_dialog_title">Ouvre les yeux</string>
-    <string name="main_story_1_dialog_message">Après ce qui a semblé être une éternité, tu ouvres les yeux et essayes de te lever.&br;&br;Tu regardes autour de toi et réalises que tu es sur une &font_sand;plage&font_end;. Il y a une &font_wood;épave&font_end;.&br;&br;Après avoir assimilé les lieux, tu remarques un &font_cyan;Jeune Garçon &font_end;qui t\'observe.</string>
-    <string name="main_story_shipwreck_info">Cette &font_wood;épave &font_end;est en trop mauvais état et semble être impossible à réparer.&br;&br;Après examination tout ça te semble plutôt familier…</string>
+    <string name="main_story_1_dialog_message">Après ce qui a semblé être une éternité, vous ouvrez les yeux et essayez de vous lever.&br;&br;Vous regardez autour de vous et réalisez que vous êtes sur une &font_sand;plage&font_end;. Il y a une &font_wood;épave&font_end;.&br;&br;Après avoir un peu exploré les lieux, vous remarquez un &font_cyan;Jeune Garçon &font_end;qui vous observe.</string>
+    <string name="main_story_shipwreck_info">Cette &font_wood;épave &font_end;est en trop mauvais état et semble être impossible à réparer.&br;&br;Après examination tout ça vous semble plutôt familier…</string>
     <string name="main_story_young_boy_message_1">B… Bonjour ? Tu vas bien ? Je jouais dans le coin et je t\'ai trouvé inconscient…</string>
-    <string name="main_story_young_boy_message_2">J\'était inquiet sur ta santé. Heureux de te savoir toujours parmis nous ! Est ce que c\'est ton &font_wood;bateau&font_end;
+    <string name="main_story_young_boy_message_2">J\'était inquiet pour ta santé. Heureux de te savoir toujours parmis nous ! Est-ce que c\'est ton &font_wood;bateau&font_end;
         ?</string>
     <string name="main_story_young_boy_message_3">Oh… eh bien, je suppose que tu as besoin de repos. Mon père tiens une &font_inn;auberge &font_end;vers &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end;. Viens y faire un tour pour parler de tout ça. C\'était un plaisir de te rencontrer !</string>
     <string name="main_story_young_boy_runs_away">Le &font_cyan;Jeune Garçon &font_end;se volatilise.</string>
-    <string name="main_story_1_giving_description">Après s\'être réveillé sur une &font_sand;plage&font_end;, un &font_cyan;Jeune Garçon &font_end;t\'a proposé d\'aller à la taverne vers &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end;. Tu pourras te reposer et parler à son père.</string>
+    <string name="main_story_1_giving_description">Après s\'être réveillé sur une &font_sand;plage&font_end;, un &font_cyan;Jeune Garçon &font_end;vous a proposé d\'aller à la taverne vers &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end;. Vous pourrez vous reposer et parler à son père.</string>
     <string name="main_story_inn_owner_title">Le &font_inn;Proprio&font_end;</string>
     <string name="main_story_inn_dialog_1">Salut! Oh, tu as croisé mon fils ? Une &font_wood;épave&font_end; ? Mmm… Tu as l\'air épuisé, je te laisse dormir gratuitement dans mon &font_inn;auberge&font_end;
         pour cette nuit.</string>
@@ -2186,7 +2186,7 @@
         du &font_red;Tyran&font_end; et tue-le !</string>
     <string name="main_story_7_advice_before_sail_title">Voyager à &font_cyan;l\'Île &font_end; du &font_red;Tyran&font_end;
         ?</string>
-    <string name="main_story_7_advice_before_sail_message">Tu es préparé ? Il se pourrait que tu n\'y reviennes jamais…</string>
+    <string name="main_story_7_advice_before_sail_message">Vous êtes sûr ? Il se pourrait que vous n'y reveniez jamais…</string>
     <string name="monster_thetyrant">Le Tyran</string>
     <string name="main_story_7_the_tyrant_message_1">S\'il vous plaît, arrêtez ! Je me rends !</string>
     <string name="main_story_7_the_tyrant_message_2">Je ne faisais que suivre des ordres… Il… il m\'a dit qu\'il me tuerait si je ne suivais pas ses ordres…</string>
