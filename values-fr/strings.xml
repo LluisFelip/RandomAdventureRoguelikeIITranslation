@@ -229,9 +229,9 @@
     <string name="inventory_not_enough_space">Votre inventaire est &font_red;plein&font_end; !</string>
     <string name="inventory_equipment_levels_up_string">&font_green;\*&font_end;</string>
 
-    <string name="status_health_two_dots">Barre de vie :</string>
-    <string name="status_mana_two_dots">Barre de mana :</string>
-    <string name="status_hunger_two_dots">Barre de faim :</string>
+    <string name="status_health_two_dots">Barre de vie : </string>
+    <string name="status_mana_two_dots">Barre de mana : </string>
+    <string name="status_hunger_two_dots">Barre de faim : </string>
     <string name="status_exp_two_dots">Exp :</string>
     <string name="status_data">Données</string>
     <string name="status_monsters_killed">Monstres tués : &font_attack;%1$d&font_end;</string>
@@ -737,9 +737,9 @@
         est à &font_gold;%1$d&font_end;</string>
     <string name="level_up_skill_point">&br;Vous recevez &font_cyan;%1$d &font_end;de Point(s) de Compétences.</string>
 
-    <string name="combat_monster_attacked_player">&font_red;%1$s &font_end;t\'attaque !&br;Tu reçois &font_red;%2$d &font_end;de dégâts !</string>
-    <string name="combat_monster_action_attacked_player">&font_red;%1$s &font_end;t\'attaque avec son &font_red;%2$s&font_end;
-        !&br;Tu reçois &font_red;%3$d &font_end;de dégâts !</string>
+    <string name="combat_monster_attacked_player">&font_red;%1$s &font_end;vous attaque !&br;Vous percevez &font_red;%2$d &font_end;de dégâts !</string>
+    <string name="combat_monster_action_attacked_player">&font_red;%1$s &font_end;vous attaque avec son &font_red;%2$s&font_end;
+        !&br;Vous percevez &font_red;%3$d &font_end;de dégâts !</string>
     <string name="combat_player_attacked_monster_damage">Vous attaquez !&br;&font_red;%1$s &font_end;reçoit &font_red;%2$d &font_end;de dégâts !</string>
     <string name="combat_player_skill_dealt_damage">&font_red;%1$s &font_end;reçoit &font_red;%2$d &font_end;de dégâts !</string>
     <string name="combat_player_skill_restored_health">Vous régénérez &font_health;%1$d &font_end;de points de vie !</string>
