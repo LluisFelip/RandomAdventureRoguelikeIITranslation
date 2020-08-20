@@ -526,8 +526,8 @@
     <string name="tile_type_hell">Enfer</string>
 
     <string name="islandtype_valley">Vallée</string>
-    <string name="islandtype_high_mountains">Hautes Montagnes</string>
-    <string name="islandtype_undead">Mort Vivant</string>
+    <string name="islandtype_high_mountains">Hautes montagnes</string>
+    <string name="islandtype_undead">Mort vivant</string>
     <string name="islandtype_plant">Plante</string>
     <string name="islandtype_fey">Fey</string>
     <string name="islandtype_beast">La Bête</string>
@@ -810,15 +810,15 @@
 
     <string name="villager_i_need_help"><![CDATA[
             J\'ai besoin d\'aide pour un truc…\n
-            Est ce que je peux vous demander une faveur ?\n
-            Je serais très reconnaissant si vous pouviez m\'aider…\n
-            J\'ai besoin de vous demander une faveur…\n
+            Est-ce que je peux vous demander une faveur ?\n
+            Je vous serais très reconnaissant si vous pouviez m\'aider…\n
+            Pourrais-je vous demander une faveur ?\n
             Pourriez-vous m\'aider pour quelque chose ?\n
             T\'as l\'air de quelqu\'un qui pourrai m\'aider !\n
             Si tu n\'es pas trop occupé, j\'aurai besoin de tes services…\n
             Pouvez vous m\'aider ?\n\n
             Seriez-vous capable de m\'aider ?\n
-            Ma famille et moi-même serions très reconnaissants si vous pouviez nous aider…\n
+            Ma famille et moi-même vous serions très reconnaissants si vous pouviez nous aider…\n
             Ma famille et moi-même avons besoin de quelque chose…\n
             Il y a quelque chose dont j\'ai besoin…\n
             Auriez-vous la gentillesse de m\'aider?\n
@@ -844,7 +844,7 @@
             Avant que tu t\'en ailles, peux-tu m\'aider ?\n
             Avant que tu t\'en ailles, veux-tu m\'aider ?\n
             Avant que tu t\'en ailles, est ce que je pourrais, s\'il te plaît, te demander une faveur ?\n
-            Tu peux m\'aider pour un truc là ?\n
+            Tu peux m\'aider pour un truc, là ?\n
             Tu peux me donner un coup de main s\'il te plaît ?\n
             Tu peux m\'aider pour quelque chose s\'il te plaît ?\n
             J\'ai entendu dire que tu étais un héros. Pourrais-tu m\'aider pour un truc ?\n
@@ -852,7 +852,7 @@
     </string>
 
     <string name="villager_quotes"><![CDATA[
-            Achète plus, achète beaucoup et maintenant. Achète et sois heureux.\n
+            [Insérer Easter Egg]\n
             Les chaussettes de l\'archiduchesse sont-elles sèches, archisèches ?\n
             Fais-le pour la grosse dame.\n
             À partir de ce moment nous voyageons ensemble à l\'est. Toujours l\'est.\n
@@ -3707,7 +3707,7 @@
     <string name="void_master_after_killing_text_3_new">Eh bien… Vous portez un set complet du &font_void;néant&font_end;… Tenez, prenez ça… Vous saurez quoi en faire… À très bientôt…</string>
     <string name="settings_show_double_space_map">Double Espace sur Carte</string>
 
-    <string name="young_child_extra_advice_1">Oh, ok… Well, since you seem kind of disoriented, let me give you my advice…&br;&br;I wouldn\'t engage into combat against stronger monsters than you, at least not until you feel you are ready.</string>
+    <string name="young_child_extra_advice_1">Oh, OK … Well, since you seem kind of disoriented, let me give you my advice…&br;&br;I wouldn\'t engage into combat against stronger monsters than you, at least not until you feel you are ready.</string>
     <string name="young_child_extra_advice_2">If I were you, I\'d buy some &font_cyan;Equipment &font_end;at an &font_bronze;Armory &font_end;or a powerful &font_mana;Spell &font_end;at a &font_mana;Magic &font_end;&font_gold;Shop &font_end;if you want to protect yourself better…&br;&br;And no, I don\'t collect commission for this! Even though my &italic;Uncle &italic_end;works at the &font_bronze;Armory &font_end;and my &italic;Grandma &italic_end;runs the &font_mana;Magic &font_end;&font_gold;Shop&font_end;…</string>
     <string name="young_child_extra_advice_3">Ah! And you should eat when you are &font_hunger;hungry &font_end;or you will die faster than you think!&br;&br;You can &font_cyan;eat &font_end;&font_plant;food &font_end;from your &font_wood;Inventory &font_end;or eat at a &font_bar;Bar &font_end;or a &font_bar;Tavern&font_end;…</string>
 
