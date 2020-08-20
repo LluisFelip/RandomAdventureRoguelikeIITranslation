@@ -2181,7 +2181,7 @@
     <string name="main_story_6">Trouvez &font_cyan;%1$d &font_end;x &font_cyan;Morceaux de Carte&font_end;. &font_cyan;Le Cartographe &font_end;vous a raconté qu\'en joignant ceux-ci, vous seriez capable de trouver l\'île où réside &font_red;Le Tyran&font_end;.</string>
     <string name="main_story_6_got_a_piece_total_amount" tools:ignore="PluralsCandidate">&font_cyan;Morceau de Carte&font_end;
         obtenu ! Tu as obtenu %1$d pièces! %2$d pièces restants…</string>
-    <string name="main_story_6_got_the_pieces" tools:ignore="PluralsCandidate">Tu as obtenu tous les morceauxs ! Rassembles-les comme &font_cyan;Le Cartographe &font_end;t\'a dit de faire…</string>
+    <string name="main_story_6_got_the_pieces" tools:ignore="PluralsCandidate">Vous avez obtenu tous les morceauxs ! Rassemblez-les comme &font_cyan;Le Cartographe &font_end;vous a dit de faire…</string>
     <string name="main_story_7">Suis la &font_cyan;Carte Nautique&font_end; jusqu\'à &font_cyan;l\'Île &font_end;
         du &font_red;Tyran&font_end; et tue-le !</string>
     <string name="main_story_7_advice_before_sail_title">Voyager à &font_cyan;l\'Île &font_end; du &font_red;Tyran&font_end;
@@ -2201,11 +2201,11 @@
     <string name="main_story_7_ship_is_back">Ton &font_wood;Navire&font_end; est de retour…</string>
     <string name="main_story_7_the_tyrant_pre_combat_message_1">Hein ? Qu\'est-ce que tu fais ici, toi ?</string>
     <string name="main_story_7_the_tyrant_pre_combat_message_2">Ahaha ! Voyons voir combien de temps tu survis jusqu\'à JE TE TUE !</string>
-    <string name="main_story_7_the_tyrant_pre_combat_message_button">Te tuer</string>
+    <string name="main_story_7_the_tyrant_pre_combat_message_button">Vous tuer</string>
     <string name="main_story_8">Va en &font_hell;Enfer&font_end; et tue le &font_hell;Diable&font_end; !</string>
     <string name="main_story_8_advice_before_sail_title">Voyager jusqu\'à &font_cyan;l\'Île&font_end; de &font_red;l\'Enfer&font_end;
         ?</string>
-    <string name="main_story_8_advice_before_sail_message">Tu es sûr ? Il se pourrait que tu n\'y reviennes jamais…</string>
+    <string name="main_story_8_advice_before_sail_message">Vous êtes sûr ? Il se pourrait que vous n\'y revenniez jamais…</string>
     <string name="monster_devil">Diable</string>
     <string name="main_story_8_the_devil_pre_combat_message_1">Bah ! Je savais que je ne pouvais pas compter sur &font_red;le Tyran&font_end;
         !</string>
@@ -2219,18 +2219,18 @@
     <string name="main_story_8_corrupted_god_pre_combat_message_2">Laisse-moi te dire une chose avant que je t\'écrase tel un insecte…</string>
     <string name="main_story_8_corrupted_god_pre_combat_message_3">Il y a un nombre d\' &font_hell;Enfers &font_end;et de &font_heaven;Paradis&font_end;
         infini, et des dimensions infinies…</string>
-    <string name="main_story_8_corrupted_god_pre_combat_message_4">Tout est un jeu d\'échecs &font_corrupted_god;Divin&font_end;… Il n\'y a pas d\'espoir pour des mortels tels que toi.</string>
-    <string name="main_story_8_corrupted_god_pre_combat_message_5">Vous tous, les héros, vous essayez tellement dur de \"sauver le monde\"… C\'est une cause perdue, car il y aura toujours un Dieu avec un pouvoir véritable… TU es une cause perdue…</string>
+    <string name="main_story_8_corrupted_god_pre_combat_message_4">Tout n'est qu'un jeu d\'échecs &font_corrupted_god;Divin&font_end;… Il n\'y a pas d\'espoir pour des mortels tels que toi.</string>
+    <string name="main_story_8_corrupted_god_pre_combat_message_5">Vous tous, les héros, vous essayez tellement dur de \«sauver le monde\»… C\'est une cause perdue, car il y aura toujours un Dieu avec un pouvoir véritable… TU es une cause perdue…</string>
     <string name="main_story_8_corrupted_god_pre_combat_message_6">Alors… Je pense qu\'il est temps… QUE CELA S\'ARRÊTE !</string>
-    <string name="main_story_9_corrupted_god_message_1">Oh non… Je… Je ne comprends pas… Comment est-ce possible ? Est-ce possible que tu sois… Es-tu… ? Non… ce n\'est pas possible…</string>
+    <string name="main_story_9_corrupted_god_message_1">Oh non… Je… Je ne comprends pas… Comment est-ce possible ? Est-ce que… Serais-tu… ? Non… ce n\'est pas possible…</string>
     <string name="main_story_9_advice_before_sail_title">Voyager jusqu\'à &font_cyan;l\'Île&font_end; du &font_heaven;Paradis&font_end;
         ?</string>
-    <string name="main_story_9_advice_before_sail_message">Tu es sûr ? Il se pourrait que tu n\'y reviennes jamais…</string>
-    <string name="main_story_10">Fuis du &font_heaven;Paradis&font_end;</string>
-    <string name="main_story_10_dialog_title">Tu t\'endors</string>
-    <string name="main_story_10_dialog_message">Tu as perdu conscience aussitôt que le &font_wood;Navire &font_end;a pris la mer…</string>
-    <string name="main_story_sail_advice_wont_be_able_to_come_back_to_island">Si tu embarques, tu ne pourras pas revenir à %1$ !&br;&br;Veux-tu embarquer ?</string>
-    <string name="main_story_heaven_gate_advice_wont_be_able_to_come_back_to_island">Si tu entres le %1$s tu ne pourras pas revenir à %2$s !&br;&br;Entrer de toute façon ?</string>
+    <string name="main_story_9_advice_before_sail_message">Vous êtes sûr ? Il se pourrait que vous n\'y reveniez jamais…</string>
+    <string name="main_story_10">Fuis le &font_heaven;Paradis&font_end;</string>
+    <string name="main_story_10_dialog_title">Vous vous endormez</string>
+        <string name="main_story_10_dialog_message">Vous avez perdu conscience aussitôt que le &font_wood;Navire &font_end;a pris la mer…</string>
+    <string name="main_story_sail_advice_wont_be_able_to_come_back_to_island">Si vous embarquez, vous ne pourrez pas revenir à %1$ !&br;&br;Voulez-vous embarquer ?</string>
+    <string name="main_story_heaven_gate_advice_wont_be_able_to_come_back_to_island">Si vous entrez au %1$s vous ne pourrez pas revenir à %2$s !&br;&br;Entrer quand même ?</string>
 
     <string name="professional_quest_giving_quest_0">Bonjour, héros ! Veux-tu apprendre la base de la profession de %1$s ?</string>
     <string name="professional_quest_giving_quest_1_dialog">Rapporte-moi une %1$s et je t\'expliquerai le reste ! Tu peux en &font_cyan;fabriquer &font_end;une et tu peux directement en acheter en &font_gold;boutique&font_end;.</string>
@@ -2530,22 +2530,22 @@
     <string name="item_obsidian_staff">Bâton en &font_obsidian;obsidienne&font_end;</string>
 
     <string name="skill_staff_mastery">Maîtrise du &font_mana;bâton &font_end;</string>
-    <string name="skill_staff_mastery_description">Attaquer avec un &font_mana;bâton &font_end;au combat débloque des compétences de combat de type &font_mana;Bâton &font_end;.</string>
+    <string name="skill_staff_mastery_description">Attaquer avec un &font_mana;bâton &font_end;au combat débloque des compétences de combat de type &font_mana;bâton&font_end;.</string>
     <string name="weapon_skill_staff_hit">&font_skill_attack;Frappe&font_end;</string>
     <string name="weapon_skill_staff_hit_desc">Frappe l\'ennemi.</string>
-    <string name="weapon_skill_staff_hit_attack">Tu frappes l\'ennemi fort !</string>
+    <string name="weapon_skill_staff_hit_attack">Vous frappez l\'ennemi avec force !</string>
     <string name="weapon_skill_staff_absorption">&font_skill_attack;Absorption de mana&font_end;</string>
-    <string name="weapon_skill_staff_absorption_desc">Absorbe du mana de l\'ennemi.</string>
-    <string name="weapon_skill_staff_absorption_attack">Tu absorbes du mana de l\'ennemi !</string>
+    <string name="weapon_skill_staff_absorption_desc">Absorbe le mana de l\'ennemi.</string>
+    <string name="weapon_skill_staff_absorption_attack">Vous absorbez le mana de l\'ennemi !</string>
     <string name="weapon_skill_staff_great_hit">&font_skill_attack;Frappe puissante&font_end;</string>
     <string name="weapon_skill_staff_great_hit_desc">Frappe l\'ennemi avec puissance.</string>
-    <string name="weapon_skill_staff_great_hit_attack">Tu frappes l\'ennemi avec puissance !</string>
+    <string name="weapon_skill_staff_great_hit_attack">Vous frappez l\'ennemi avec puissance !</string>
     <string name="weapon_skill_staff_mana_thief">&font_skill_attack;Vol de mana&font_end;</string>
     <string name="weapon_skill_staff_mana_thief_desc">Vole du mana de l\'ennemi.</string>
-    <string name="weapon_skill_staff_mana_thief_attack">Tu frappes et voles du mana de l\'ennemi !</string>
+    <string name="weapon_skill_staff_mana_thief_attack">Vous frappez et volez du mana de l\'ennemi !</string>
     <string name="weapon_skill_staff_ultimate_strike">&font_skill_attack;Frappe ultime&font_end;</string>
-    <string name="weapon_skill_staff_ultimate_strike_desc">Frappe violemment l\'ennemi avec le Bâton.</string>
-    <string name="weapon_skill_staff_ultimate_strike_attack">Tu frappes l\'ennemi de toutes tes forces !</string>
+    <string name="weapon_skill_staff_ultimate_strike_desc">Frappe violemment l\'ennemi avec le bâton.</string>
+    <string name="weapon_skill_staff_ultimate_strike_attack">Vous frappez l\'ennemi de toutes vos forces !</string>
 
     <string name="material_unicorn_horn">Corne de &font_unicorn;licorne&font_end;</string>
     <string name="item_unicorn_horn_spear">Lance corne de &font_unicorn;licorne&font_end;</string>
@@ -3278,22 +3278,22 @@
 
     <string name="wise_have_creator_medal">Tu… Tu es fantastique ! Tu as tué le &font_asterisk_creator;créateur &font_end;et obtenu %s ? J\'ai bien peur qu\'il ne te reste plus qu\'à utiliser le mode &font_asterisk_creator;Ascension&font_end;…</string>
 
-    <string name="wise_ascend_message_1">Veux-tu démarrer l\'&font_alchemist;Ascension&font_end; ?</string>
+    <string name="wise_ascend_message_1">Voulez-vous démarrer l\'&font_alchemist;Ascension&font_end; ?</string>
     <string name="creator_appeared_title">&font_asterisk_creator;Le Créateur &font_end;est apparu</string>
     <string name="creator_appeared_message">Soudainement, un être suprême, tel que vous n\'en avez jamais vu, apparaît devant vos yeux… Et vous savez, au plus profond de vous, que ce n\'est autre qu\'&font_asterisk_creator;Archison&font_end;, &font_asterisk_creator;le Créateur&font_end;.</string>
     <string name="combat_monster_healed_completely">%s se soigne entièrement !</string>
 
     <string name="item_info_creator_medal">C\'est une médaille éblouisante que vous gardez en mémoire de la fois où vous avez vaincu &font_asterisk_creator;le Créateur&font_end;.</string>
 
-    <string name="wise_main_story_island_first_message">Bonjour, héros ! Je serais ici en cas de besoin !&br;&br;Parle-moi si tu veux te reposer ou quitter cet endroit…</string>
-    <string name="wise_main_story_island_second_message">Veux-tu restaurer ta &font_health;vie&font_end;, ton &font_mana;mana &font_end;et ta &font_hunger;faim &font_end;pour &font_gold;%1$d d\'or&font_end; ? (Un &font_primary_light;&italic;[POINT DE SAUVEGARDE] &italic_end;&font_end;sera enregistré)&br;&br;Ou alors…&br;&br;Veux-tu quitter cet endroit ? l\'île disparaîtra pour toujours et tu perdras la moitié de l\'&font_gold;or &font_end;que tu transportes et qui se trouve dans la &font_gold;BANQUE&font_end;, et tu devras à nouveau chercher les &font_cyan;morceaux de carte&font_end;.</string>
-    <string name="wise_leave_island_confirmation_message">Es-tu sûr de vouloir partir ?&br;&br;l\'île disparaîtra pour toujours et tu perdras la moitié de l\'&font_gold;or &font_end;que tu transportes et qui se trouve dans la &font_gold;BANQUE&font_end;, et tu devras à nouveau chercher les &font_cyan;morceaux de carte&font_end;.</string>
+    <string name="wise_main_story_island_first_message">Bonjour, héros ! Je serais ici en cas de besoin !&br;&br;Parle-moi si vous voulez vous reposer ou quitter cet endroit…</string>
+    <string name="wise_main_story_island_second_message">Voulez-vous restaurer votre &font_health;vie&font_end;, votre &font_mana;mana &font_end;et votre &font_hunger;faim &font_end;pour &font_gold;%1$d d\'or&font_end; ? (Un &font_primary_light;&italic;[POINT DE SAUVEGARDE] &italic_end;&font_end;sera enregistré)&br;&br;Ou alors…&br;&br;Voulez-vous quitter cet endroit ? L\'île disparaîtra pour toujours et vous perdrez la moitié de l\'&font_gold;or &font_end;que vous transportez et qui se trouve dans la &font_gold;BANQUE&font_end;, et vous devrez à nouveau chercher les &font_cyan;morceaux de carte&font_end;.</string>
+    <string name="wise_leave_island_confirmation_message">Êtes-vous sûr de vouloir partir ?&br;&br;l\'île disparaîtra pour toujours et vous perdrez la moitié de l\'&font_gold;or &font_end;que vous transportiez et qui se trouve dans la &font_gold;BANQUE&font_end;, et vous devrez à nouveau chercher les &font_cyan;morceaux de carte&font_end;.</string>
 
     <string name="button_rest">Se reposer</string>
     <string name="button_leave_island">Partir</string>
 
     <string name="wise_completely_rested">Vous vous sentez en pleine forme !</string>
-    <string name="wise_main_story_island_lost_gold_and_memory">Tu as perdu un peu d\' &font_gold;or &font_end;et une partie de ta mémoire…</string>
+    <string name="wise_main_story_island_lost_gold_and_memory">Vous avez perdu un peu d\' &font_gold;or &font_end;et une partie de ta mémoire…</string>
 
     <string name="creator_pre_combat_message_1">Vous savez… Ce n\'est pas facile d\'être &font_asterisk_creator;le créateur&font_end;… Toujours là à coder, à ajouter de plus grands défis, à corriger les bugs, à répondre aux emails, à discuter sur discord, reddit, sur le web, etc…</string>
     <string name="creator_pre_combat_message_2">Et tout ça pour quoi ? Dites-moi, pourquoi devrais-je faire tout cela ? Je ne peux plus supporter la pression… !</string>
@@ -3669,9 +3669,9 @@
     <string name="monster_trophy_name">&font_gold;Trophée &font_end;de %1$s [&font_cyan;%2$d&font_end;]</string>
     <string name="item_info_monster_trohpy_info">C'est un &font_gold;trophée &font_end;de %1$s, obtenu pour avoir tué un %1$s niveau &font_cyan;%2$d&font_end; !</string>
     <string name="tile_content_type_infinity_portal">&font_infinity;Infinity &font_end;&font_portal;Portal&font_end;</string>
-    <string name="infinity_portal_info">Use this to create a &font_portal;Portal &font_end;to the beginning of this &font_infinity;Infinity &font_end;(if this even makes sense).</string>
-    <string name="infinity_portal_enter">Cross this &font_portal;Portal &font_end;to go to the beginning of this &font_infinity;Infinity &font_end;(if this even makes sense).</string>
-    <string name="cant_cross_this_portal">You can\'t enter this &font_infinity;Infinity &font_end;&font_portal;Portal&font_end;…</string>
+    <string name="infinity_portal_info">Utilisez cela pour créer un &font_portal;portail &font_end;menant au début de cet &font_infinity;Infini &font_end;(allez trouver un sens à cette phrase).</string>
+    <string name="infinity_portal_enter">Pénétrez ce &font_portal;portail &font_end;pour retourner au début de cet &font_infinity;Infini &font_end;(allez trouver un sens à cette phrase).</string>
+    <string name="cant_cross_this_portal">Vous ne pouvez pas pénétrer ce &font_portal;portail &font_end;de l'&font_infinity;Infini&font_end;…</string>
 
     <string name="achievement_name_summoner">Invocateur</string>
     <string name="achievement_desc_summoner">Invoquez un monstre à l'aide d'une pierre d'invocation.</string>
