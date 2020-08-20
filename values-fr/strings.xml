@@ -3707,9 +3707,9 @@
     <string name="void_master_after_killing_text_3_new">Eh bien… Vous portez un set complet du &font_void;néant&font_end;… Tenez, prenez ça… Vous saurez quoi en faire… À très bientôt…</string>
     <string name="settings_show_double_space_map">Double Espace sur Carte</string>
 
-    <string name="young_child_extra_advice_1">Oh, OK … Well, since you seem kind of disoriented, let me give you my advice…&br;&br;I wouldn\'t engage into combat against stronger monsters than you, at least not until you feel you are ready.</string>
-    <string name="young_child_extra_advice_2">If I were you, I\'d buy some &font_cyan;Equipment &font_end;at an &font_bronze;Armory &font_end;or a powerful &font_mana;Spell &font_end;at a &font_mana;Magic &font_end;&font_gold;Shop &font_end;if you want to protect yourself better…&br;&br;And no, I don\'t collect commission for this! Even though my &italic;Uncle &italic_end;works at the &font_bronze;Armory &font_end;and my &italic;Grandma &italic_end;runs the &font_mana;Magic &font_end;&font_gold;Shop&font_end;…</string>
-    <string name="young_child_extra_advice_3">Ah! And you should eat when you are &font_hunger;hungry &font_end;or you will die faster than you think!&br;&br;You can &font_cyan;eat &font_end;&font_plant;food &font_end;from your &font_wood;Inventory &font_end;or eat at a &font_bar;Bar &font_end;or a &font_bar;Tavern&font_end;…</string>
+    <string name="young_child_extra_advice_1">Oh, OK… Eh bien, vu comme tu as l'air perdu, laisse moi te donner un conseil…&br;&br;Si j'étais toi, j'éviterais d'engager le combat avec des monstres trop haut niveau pour moi.</string>
+    <string name="young_child_extra_advice_2">Si j'étais toi, je me fournirais en &font_cyan;équipement &font_end;à une &font_bronze;Armurerie &font_end;ou en puissants &font_mana;sorts &font_end;à une &font_gold;Boutique &font_end;de &font_mana;magie &font_end;afin de mieux pouvoir me protéger…&br;&br;Et non, je ne suis pas payé pour te dire ça ! Bien que mon &italic;oncle &italic_end;travaille à l'&font_bronze;Armurerie &font_end;et ma &italic;grand-mère &italic_end;se charge de la &font_gold;Boutique &font_end;de &font_mana;magie&font_end;…</string>
+    <string name="young_child_extra_advice_3">Ah ! Et vous devriez penser à manger quand vous avez &font_hunger;faim&font_end;, sinon vous mourrez plus vite que vous ne pouvez le croire !&br;&br;Vous pouvez &font_cyan;manger &font_end;de la &font_plant;nourriture &font_end;depuis votre &font_wood;Inventaire &font_end;ou vous restaurer à un &font_bar;bar &font_end;ou une &font_bar;taverne&font_end;…</string>
 
     <string name="pyramid_was_cursed_and_closed">La &font_pyramid;Pyramide &font_end;a été maudite et scellée !</string>
     <string name="pyramid_is_now_open">La &font_pyramid;Pyramide &font_end;est maintenant ouverte !</string>
@@ -3745,6 +3745,6 @@
     <string name="skill_mana_eyes_description">Permet de voir le &font_mana;mana &font_end;du &font_red;monstre &font_end;en combat.</string>
     <string name="skill_mana_eyes">&font_mushroom;Yeux &font_end;de &font_mana;mana&font_end;</string>
 
-    <string name="saving_checkpoint">&font_primary_light;&italic;[POINT DE SAUVEGARDE…]&italic_end;&font_end;</string>
+    <string name="saving_checkpoint">&font_primary_light;&italic;[SAUVEGARDE DU CHECKPOINT…]&italic_end;&font_end;</string>
 
 </resources>
