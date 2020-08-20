@@ -1965,9 +1965,9 @@
     <string name="spell_tsunami_name">&font_water;Tsunami&font_end;</string>
     <string name="spell_tsunami_desc">Invoque un puissant &font_water;tsunami&font_end;.</string>
     <string name="spell_tsunami_desc_combat">Tu envoies un puissant &font_water;tsunami &font_end;vers %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
-    <string name="spell_icebolt_name">&font_ice;Éclair de glace&font_end;</string>
-    <string name="spell_icebolt_desc">Lance un &font_ice;éclair givré&font_end;. Peut &font_ice;geler&font_end;.</string>
-    <string name="spell_icebolt_desc_combat">Tu lances un &font_ice;éclair givré&font_end;
+    <string name="spell_icebolt_name">&font_ice;Rayon de givre&font_end;</string>
+    <string name="spell_icebolt_desc">Lance un &font_ice;rayon de givre&font_end;. Peut &font_ice;geler&font_end;.</string>
+    <string name="spell_icebolt_desc_combat">Tu lances un &font_ice;rayon de givre&font_end;
         sur %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
     <string name="spell_icespear_name">&font_ice;Lance de glace&font_end;</string>
     <string name="spell_icespear_desc">Lance une &font_ice;lance de glace&font_end;. Peut &font_ice;geler&font_end;.</string>
@@ -3659,16 +3659,15 @@
 
     <string name="summoning_monster">&font_void;Invocation &font_end;du &font_red;monstre&font_end;…</string>
     <string name="summoned_monster">… %1$s &font_void;invoqué&font_end; !</string>
-    <string name="cant_summon_if_theres_a_monster_nearby">Can\'t &font_void;summon &font_end;a &font_red;monster &font_end;if there\'s already a &font_red;monster &font_end;nearby…</string>
-    <string name="scrap_from_inventory_message">You have an &asterisk_ascend_color;Ascension &font_end;&font_red;Flame&font_end;, so you can &font_iron;scrap &font_end;your equipment pieces.&br;&br;Do you want to &font_iron;scrap &font_end;%1$s?</string>
+    <string name="cant_summon_if_theres_a_monster_nearby">Impossible d'&font_void;invoquer &font_end;un &font_red;monstre &font_end;s'il y a déjà un &font_red;monstre &font_end;dans les parages…</string>
+    <string name="scrap_from_inventory_message">Vous avez une &font_red;Flamme &font_end;de l\'&asterisk_ascend_color;Ascension&font_end;, vous pouvez donc &font_iron;ferailler &font_end;vos pièces d'équipement.&br;&br;Voulez-vous &font_iron;ferailer &font_end;%1$s ?</string>
 
-    <string name="button_scrap_inventory">S</string>
-    <string name="button_drop_reduced">D</string>
+    <string name="button_scrap_inventory">Ferailler</string>
+    <string name="button_drop_reduced">Jeter</string>
 
-    <string name="tile_content_type_monster_trophy">&font_red;Monster &font_end;&font_gold;Trophy&font_end;</string>
-    <string name="monster_trophy_name">%1$s\'s &font_gold;Trophy&font_end; [&font_cyan;%2$d&font_end;]</string>
-    <string name="item_info_monster_trohpy_info">It\'s a %1$s\'s &font_gold;Trophy&font_end;, obtained for killing a level &font_cyan;%2$d &font_end;%1$s!</string>
-
+    <string name="tile_content_type_monster_trophy">&font_gold;Trophée &font_end;de &font_red;monstre&font_end;</string>
+    <string name="monster_trophy_name">&font_gold;Trophée &font_end;de %1$s [&font_cyan;%2$d&font_end;]</string>
+    <string name="item_info_monster_trohpy_info">C'est un &font_gold;trophée &font_end;de %1$s, obtenu pour avoir tué un %1$s niveau &font_cyan;%2$d&font_end; !</string>
     <string name="tile_content_type_infinity_portal">&font_infinity;Infinity &font_end;&font_portal;Portal&font_end;</string>
     <string name="infinity_portal_info">Use this to create a &font_portal;Portal &font_end;to the beginning of this &font_infinity;Infinity &font_end;(if this even makes sense).</string>
     <string name="infinity_portal_enter">Cross this &font_portal;Portal &font_end;to go to the beginning of this &font_infinity;Infinity &font_end;(if this even makes sense).</string>
@@ -3683,22 +3682,22 @@
     <string name="achievement_name_ascend">Ascend</string>
     <string name="achievement_desc_ascend">Ascend for the first time.</string>
 
-    <string name="achievement_name_the_end">Last Boss</string>
+    <string name="achievement_name_the_end">Boss Final</string>
     <string name="achievement_name_game_breaker">Game Breaker</string>
-    <string name="achievement_name_desc_game_breaker">Kill all the Infinity special Bosses</string>
-    <string name="achievement_name_desc_the_end">Kill the last Boss!</string>
+    <string name="achievement_name_desc_game_breaker">Tuez tous les boss spéciaux de l'Infini</string>
+    <string name="achievement_name_desc_the_end">Tuez le boss final !</string>
 
-    <string name="title_the_summoner_male">%1$s, the &font_void;Summoner&font_end;</string>
-    <string name="title_the_summoner_female">%1$s, the &font_void;Summoner&font_end;</string>
-    <string name="title_the_summoner_no_gender">%1$s, the &font_void;Summoner&font_end;</string>
+    <string name="title_the_summoner_male">%1$s, l'&font_void;Invocateur&font_end;</string>
+    <string name="title_the_summoner_female">%1$s, l'&font_void;Invocatrice&font_end;</string>
+    <string name="title_the_summoner_no_gender">%1$s, l'&font_void;Invocateur&font_end;</string>
 
-    <string name="title_the_game_breaker_male">%1$s, the &font_pink;Game Breaker&font_end;</string>
-    <string name="title_the_game_breaker_female">%1$s, the &font_pink;Game Breaker&font_end;</string>
-    <string name="title_the_game_breaker_no_gender">%1$s, the &font_pink;Game Breaker&font_end;</string>
+    <string name="title_the_game_breaker_male">%1$s, le &font_pink;Game Breaker&font_end;</string>
+    <string name="title_the_game_breaker_female">%1$s, la &font_pink;Game Breaker&font_end;</string>
+    <string name="title_the_game_breaker_no_gender">%1$s, le &font_pink;Game Breaker&font_end;</string>
 
-    <string name="title_the_ender_male">%1$s, the &font_legendary;Ender&font_end;</string>
-    <string name="title_the_ender_female">%1$s, the &font_legendary;Ender&font_end;</string>
-    <string name="title_the_ender_no_gender">%1$s, the &font_legendary;Ender&font_end;</string>
+    <string name="title_the_ender_male">%1$s, l'&font_legendary;Ender&font_end;</string>
+    <string name="title_the_ender_female">%1$s, l'&font_legendary;Ender&font_end;</string>
+    <string name="title_the_ender_no_gender">%1$s, l'&font_legendary;Ender&font_end;</string>
 
     <string name="settings_show_pet_in_combat">Montrer Compagnon en Combat</string>
     <string name="settings_show_progress_bars">Montrer Barres Progression</string>
