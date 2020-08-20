@@ -704,7 +704,7 @@
     <string name="bomb_fire">&font_bomb;Bombe&font_end; de &font_attack;feu&font_end;</string>
     <string name="bomb_ice">&font_bomb;Bombe&font_end; de &font_ice;glace&font_end;</string>
     <string name="bomb_electric">&font_bomb;Bombe&font_end; &font_electric;électrique&font_end;</string>
-    <string name="bomb_you_throw_the_bomb_to">Tu as balancé une %1$s sur %2$s ! %3$s reçoit &font_red;%4$d &font_end;de dégâts !</string>
+    <string name="bomb_you_throw_the_bomb_to">Vous balancez une %1$s sur %2$s ! %3$s reçoit &font_red;%4$d &font_end;de dégâts !</string>
 
     <string name="food_green_salad">Salade &font_plant;verte&font_end;</string>
     <string name="food_eye_soup">Soupe d\'&font_swamp;yeux&font_end;</string>
@@ -735,36 +735,36 @@
     <string name="level_up_inventory_increase">&br;Ta &font_gold;Capacité de stockage &font_end;est à &font_gold;%1$d&font_end;</string>
     <string name="level_up_pets_increase">&br;Ta &font_pet;Capacité d\'élevage&font_end;
         est à &font_gold;%1$d&font_end;</string>
-    <string name="level_up_skill_point">&br;Tu as reçu &font_cyan;%1$d &font_end;de Point(s) de Compétences.</string>
+    <string name="level_up_skill_point">&br;Vous recevez &font_cyan;%1$d &font_end;de Point(s) de Compétences.</string>
 
     <string name="combat_monster_attacked_player">&font_red;%1$s &font_end;t\'attaque !&br;Tu reçois &font_red;%2$d &font_end;de dégâts !</string>
     <string name="combat_monster_action_attacked_player">&font_red;%1$s &font_end;t\'attaque avec son &font_red;%2$s&font_end;
         !&br;Tu reçois &font_red;%3$d &font_end;de dégâts !</string>
-    <string name="combat_player_attacked_monster_damage">Tu attaques !&br;&font_red;%1$s &font_end;reçoit &font_red;%2$d &font_end;de dégâts !</string>
+    <string name="combat_player_attacked_monster_damage">Vous attaquez !&br;&font_red;%1$s &font_end;reçoit &font_red;%2$d &font_end;de dégâts !</string>
     <string name="combat_player_skill_dealt_damage">&font_red;%1$s &font_end;reçoit &font_red;%2$d &font_end;de dégâts !</string>
-    <string name="combat_player_skill_restored_health">Tu régénères &font_health;%1$d &font_end;de points de vie !</string>
-    <string name="combat_player_skill_restored_mana">Tu régénères &font_mana;%1$d &font_end;de points de mana !</string>
-    <string name="combat_player_skill_dealt_damage_n_times">Tu as frappé &font_cyan;%1$d &font_end;fois ! &font_red;%2$s &font_end;reçoit &font_red;%3$d &font_end;de dégâts !</string>
-    <string name="combat_player_skill_attacks_first">Tu attaques le premier !</string>
-    <string name="combat_dont_know_any_skill">Tu ne connais aucunes &font_skill_attack;Compétences&font_end; !</string>
+    <string name="combat_player_skill_restored_health">Vous régénérez &font_health;%1$d &font_end;de points de vie !</string>
+    <string name="combat_player_skill_restored_mana">Vous régénérez &font_mana;%1$d &font_end;de points de mana !</string>
+    <string name="combat_player_skill_dealt_damage_n_times">Vous avez frappé &font_cyan;%1$d &font_end;fois ! &font_red;%2$s &font_end;reçoit &font_red;%3$d &font_end;de dégâts !</string>
+    <string name="combat_player_skill_attacks_first">Vous attaquez le premier !</string>
+    <string name="combat_dont_know_any_skill">Vous ne connaissez aucune &font_skill_attack;Compétences&font_end; !</string>
     <string name="combat_dont_know_any_spell">Aucun &font_mana;sort&font_end; n\'est maîtrisé !</string>
-    <string name="combat_cant_cast_skill">Tu n\'as pas assez de ressources pour faire ceci !</string>
-    <string name="combat_cant_cast_spell">Tu n\'as pas assez de ressource pour lancer ce sort !</string>
-    <string name="combat_already_captured">Tu l\'as déjà capturé !</string>
-    <string name="combat_cant_carry_more_pets">Tu ne peux pas avoir plus de familiers !</string>
+    <string name="combat_cant_cast_skill">Vous n\'avez pas assez de ressources pour faire ceci !</string>
+    <string name="combat_cant_cast_spell">Vous n\'avez pas assez de ressource pour lancer ce sort !</string>
+    <string name="combat_already_captured">Vous n\'avez déjà capturé !</string>
+    <string name="combat_cant_carry_more_pets">Vous ne pouvez pas avoir plus de familiers !</string>
     <string name="combat_monster_dead_vanishes">%1$s est réduit en poussière !</string>
     <string name="combat_monster_attacks">%1$s lance un assaut !</string>
     <string name="combat_fight">Combattre</string>
     <string name="combat_player_flee_fails">La tentative d\'évasion à échouée…</string>
     <string name="combat_player_flee_succeeds">La tentative d\'évasion est réussie !</string>
-    <string name="combat_killed_monster">Tu as vaincu %1$s !</string>
+    <string name="combat_killed_monster">Vous avez vaincu %1$s !</string>
     <string name="combat_player_is_dead"> &font_cyan;%1$s &font_end;est mort &line_break;au niveau &font_cyan;%2$d&font_end;
         !</string>
     <string name="combat_corpse_name">Cadavre de %1$s</string>
     <string name="combat_monster_attacking_symbol">-&font_dark_red;A&font_end;-</string>
     <string name="combat_cant_flee_from_monster">Impossible de fuir contre %1$s…</string>
-    <string name="combat_monster_obtained_gold">Tu as obtenu &font_gold;%1$d&font_end; d\'or.</string>
-    <string name="combat_monster_obtained_item">Tu as obtenu un(e) %1$s.</string>
+    <string name="combat_monster_obtained_gold">Vous obtenez &font_gold;%1$d&font_end; d\'or.</string>
+    <string name="combat_monster_obtained_item">Vous obtenez un(e) %1$s.</string>
     <string name="combat_you_throw_the_bucket_to">Tu balance le %1$s sur %2$s ! %3$s reçoit &font_red;%4$d &font_end;de dégâts !</string>
 
     <string name="villager_text_hello_1" tools:ignore="UnusedResources">Salut !</string>
@@ -903,35 +903,35 @@
 
 
     <string name="merchants_title">&font_gold;Marchands &font_end;(&font_gold;%1$d&font_end;)</string>
-    <string name="merchant_text_you_have_no_merchants_right_now">Tu n\'as pour le moment rencontré aucun marchand…</string>
+    <string name="merchant_text_you_have_no_merchants_right_now">Vous n'avez pour le moment rencontré aucun marchand…</string>
     <string name="merchant_quest_description">&font_gold;%1$s&font_end;
-        à &font_cyan;%2$d&font_end;, &font_cyan;%3$d &font_end;t\'a demandé de ramener&font_cyan;%4$d &font_end;%5$s. Tu possèdes en ce moment %6$s. [&font_cyan;%7$s&font_end;]</string>
+        à &font_cyan;%2$d&font_end;, &font_cyan;%3$d &font_end;vous a demandé de ramener&font_cyan;%4$d &font_end;%5$s. Vous possédez en ce moment %6$s. [&font_cyan;%7$s&font_end;]</string>
 
     <string name="quest_quests_title">&font_cyan;Quêtes &font_end;(&font_cyan;%1$d&font_end;)</string>
     <string name="quest_text_for_gold">pour %1$s d\'or</string>
     <string name="quest_text_reward">Récompense : %1$s d\'or</string>
     <string name="quest_island_name_parenthesis">[&font_cyan;%1$s&font_end;]</string>
     <string name="quest_snackbar_action_go">Accepter</string>
-    <string name="quest_text_you_have_no_quests_right_now">Tu n\'as pas de quêtes pour le moment…</string>
+    <string name="quest_text_you_have_no_quests_right_now">Vous n\'avez pas de quêtes pour le moment…</string>
     <string name="quest_completed_quest">%1$s complété</string>
     <string name="quest_item_found">%1$s trouvé !</string>
     <string name="quest_bring_crafted_food_text_giving">J\'ai tellement faim ! Je voudrais bien %1$s… Pourriez vous en &font_gold;acheter &font_end;ou en &font_cyan;fabriquer &font_end;une et me l\'apporter ?</string>
-    <string name="quest_bring_crafted_food_text_desc">Tu dois &font_gold;acheter &font_end;ou &font_cyan;fabriquer &font_end;un(e) %1$s et la rapporter à %2$s en %3$s,%4$s</string>
+    <string name="quest_bring_crafted_food_text_desc">Vous devez &font_gold;acheter &font_end;ou &font_cyan;fabriquer &font_end;un(e) %1$s et la rapporter à %2$s en %3$s,%4$s</string>
     <string name="quest_bring_crafted_food_text_complete_desc">Merci ! J\'apprécie le geste !</string>
     <string name="quest_bring_crafted_food_text_negative">Je suis au regret de vous dire que vous n\'avez pas de %1$s… Revenez quand vous en aurait &font_gold;acheté &font_end;ou &font_cyan;fabriqué &font_end;un(e) !</string>
     <string name="quest_bring_crafted_food_text_bring">Vous avez un(e) %1$s ? Je vous en prie, donnez la moi !</string>
     <string name="quest_bring_crafted_food_thanks">Merci ! J\'apprécie le geste !</string>
     <string name="quest_added_quest">Quête ajoutée (%1$s)</string>
     <string name="quest_complete">Quête accomplie !</string>
-    <string name="quest_kill_single_monster_text_giving">Élimine le %1$s vers &font_cyan;%2$d&font_end;, &font_cyan;%3$d&font_end; </string>
+    <string name="quest_kill_single_monster_text_giving">Éliminez le %1$s vers &font_cyan;%2$d&font_end;, &font_cyan;%3$d&font_end; </string>
     <string name="quest_find_lost_item_text_giving">J\'ai perdu un(e) %1$s… La dernière fois que je l\'ai vu, je crois que c\'était vers %2$s, %3$s… Je vous le demande, &font_cyan;cherchez-le&font_end;
         et ramenez le moi ! Merci !</string>
-    <string name="quest_find_lost_item_text_reward">Voici ta récompense : %1$s !</string>
+    <string name="quest_find_lost_item_text_reward">Voici votre récompense : %1$s !</string>
     <string name="quest_find_lost_item_text_quest_screen_find">Vous devez retrouver %1$s. On t\'a conseillé d\'aller &font_cyan;chercher &font_end;vers %2$s, %3$s.</string>
     <string name="quest_find_lost_item_text_quest_screen_return">Remettre le %1$s à %2$s vers %3$s, %4$s.</string>
     <string name="quest_find_lost_item_text_villager_complete">Un grand merci de me rendre %1$s !</string>
-    <string name="quest_find_item_now_return_to">Tu as trouvé %1$s ! Tu devrais maintenant le remettre à &font_cyan;%2$s &font_end;vers &font_cyan;%3$d&font_end;, &font_cyan;%4$d&font_end;.</string>
-    <string name="quest_find_lost_item_tile_content_name">C\'est un objet de quête. Ta mission est de le rapporter à son propriétaire.</string>
+    <string name="quest_find_item_now_return_to">Vous avez trouvé %1$s ! Vous devriez maintenant le remettre à &font_cyan;%2$s &font_end;vers &font_cyan;%3$d&font_end;, &font_cyan;%4$d&font_end;.</string>
+    <string name="quest_find_lost_item_tile_content_name">C\'est un objet de quête. Votre mission est de le rapporter à son propriétaire.</string>
 
     <string name="quest_find_lost_item_item_name_001" tools:ignore="UnusedResources">une boîte</string>
     <string name="quest_find_lost_item_item_name_002" tools:ignore="UnusedResources">un sac mystérieux</string>
@@ -1007,9 +1007,9 @@
 
     <string name="quest_bring_items_text_giving">J\'ai besoin de %1$s %2$s…</string>
     <string name="quest_bring_items_text_quest_screen">Apporte %1$s %2$s à %3$s vers %4$s, %5$s</string>
-    <string name="quest_bring_items_text_villager_not_enough">Oh, j\'ai besoin de %1$s %2$s, tu as encore besoin de %3$s de plus…</string>
+    <string name="quest_bring_items_text_villager_not_enough">Oh, j\'ai besoin de %1$s %2$s, vous avez encore besoin de %3$s de plus…</string>
     <string name="quest_bring_items_text_villager_give_items">Donner %1$s %2$s à %3$s ?</string>
-    <string name="quest_bring_items_text_you_have_the_items">Tu as les objets !</string>
+    <string name="quest_bring_items_text_you_have_the_items">Vous avez les objets !</string>
 
     <string name="quest_rescue_someone_text_giving">Vous devriez aller secourir %1$s ! La dernière fois que je l\'ai vu, c\'était vers %2$s, %3$s, je vous en prie, faites vite !</string>
     <string name="quest_rescue_someone_text_quest_screen_rescue">Va secourir %1$s ! Cherche vers%2$s, %3$s.</string>
@@ -1178,14 +1178,14 @@
     <string name="weapon_type_axe">Hache</string>
     <string name="weapon_type_dagger">Dague</string>
 
-    <string name="hot_damage">C\'est trop &font_red;chaud &font_end;par ici ! Tu reçois &font_red;%1$d &font_end;de dégâts !</string>
-    <string name="cold_damage">C\'est trop &font_tundra;froid &font_end;par ici ! Tu reçois &font_red;%1$d &font_end;de dégâts !</string>
+    <string name="hot_damage">Il fait trop &font_red;chaud &font_end;par ici ! Vous encaissez &font_red;%1$d &font_end;de dégâts !</string>
+    <string name="cold_damage">Il fait trop &font_tundra;froid &font_end;par ici ! Vous encaissez &font_red;%1$d &font_end;de dégâts !</string>
     <string name="protection_type_hot">&font_hell;Feu&font_end;</string>
     <string name="protection_type_cold">&font_tundra;Froid&font_end;</string>
     <string name="equipment_protection">protection de &lt;font color=\"%1$s\"&gt;%2$s &font_end;</string>
 
-    <string name="content_description_arrow_to_unfold_complete_status_info">Tape la flèche pour dérouler les infos.</string>
-    <string name="content_description_arrow_to_filter_crafting">Tape la flèche pour filtrer les recettes de fabrication.</string>
+    <string name="content_description_arrow_to_unfold_complete_status_info">Tapez la flèche pour dérouler les infos.</string>
+    <string name="content_description_arrow_to_filter_crafting">Tapez la flèche pour filtrer les recettes de fabrication.</string>
     <string name="content_description_coin_image">Image de la monnaie</string>
     <string name="content_description_skill_image">Image des compétences</string>
     <string name="content_description_pet_image">Icône des familiers</string>
@@ -1199,26 +1199,26 @@
 
     <string name="crafting_title">Fabriquer</string>
     <string name="crafting_title_with_recipe">Fabriquer [%1$s]</string>
-    <string name="craft_text_you_know_no_crafting_recipes">Tu ne connais encore aucune recette de &font_cyan;fabrication &font_end;.</string>
-    <string name="crafting_recipe_learnt">Tu as appris à fabriquer %1$s !</string>
+    <string name="craft_text_you_know_no_crafting_recipes">Vous ne connaissez encore aucune recette de &font_cyan;fabrication &font_end;.</string>
+    <string name="crafting_recipe_learnt">Vous avez appris à fabriquer %1$s !</string>
     <string name="crafting_recipe_already_known">&italic;Vous connaissez déjà la recette de &font_cyan;fabrication&font_end;&italic_end;</string>
     <string name="crafting_recipe_name">[&font_cyan;Fabrication&font_end; Recipe] %1$s</string>
-    <string name="crafting_you_crafted_item">Tu as fabriqué %1$s !</string>
-    <string name="crafting_you_crafted_item_but_dropped_it">Tu as fabriqué %1$s mais tu ne peux pas le garder, pas de place dans l\'inventaire !</string>
+    <string name="crafting_you_crafted_item">Vous avez fabriqué %1$s !</string>
+    <string name="crafting_you_crafted_item_but_dropped_it">Vous avez fabriqué %1$s mais ne pouvez pas le garder, pas de place dans l\'inventaire !</string>
     <string name="crafting_not_enough_ingredients">Pas assez d\'ingrédients…</string>
 
     <string name="skills_title">Compétences</string>
-    <string name="skills_skill_learnt">Tu as appris la compétence de %1$s !</string>
+    <string name="skills_skill_learnt">Vous avez appris la compétence de %1$s !</string>
     <string name="skills_tree_title">Arbre de compétences (&font_cyan;%1$d&font_end; Point de Compétence)</string>
-    <string name="skills_empty_message">Tu n\'as encore aucune &font_cyan;Compétence&font_end;…</string>
-    <string name="skills_empty_tree_message">Tu n\'as aucune &font_cyan;Compétence&font_end; à apprendre…</string>
+    <string name="skills_empty_message">Vous n'avez encore aucune &font_cyan;Compétence&font_end;…</string>
+    <string name="skills_empty_tree_message">Vous n'avez aucune &font_cyan;Compétence&font_end; à apprendre…</string>
     <string name="skills_necessary_skill_text">Compétence nécessaire : &font_cyan;%1$s&font_end;</string>
 
     <string name="action_search">&font_cyan;Chercher&font_end;</string>
     <string name="action_searching">Recherche</string>
     <string name="action_explorer">&font_cyan;Détecter des auberges&font_end;</string>
     <string name="action_explorer_action_description">&font_cyan;Détecte une auberge&font_end;</string>
-    <string name="action_explorer_action_description_positive">Tu détectes une &font_inn;Auberge &font_end;à &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end;.</string>
+    <string name="action_explorer_action_description_positive">Vous détectez une &font_inn;Auberge &font_end;à &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end;.</string>
     <string name="action_explorer_action_description_negative">Il n\'y a aucune &font_inn;Auberge &font_end;sur cette île…</string>
     <string name="action_contractor">&font_cyan;Détecter&font_end; des &font_cyan;Quêtes&font_end;</string>
     <string name="action_contractor_desc">Permet de &font_cyan;détecter&font_end; le nombre de &font_cyan;quêtes&font_end;
@@ -1230,13 +1230,13 @@
     <string name="action_hunter_description">Permet de &font_cyan;détecter&font_end; le nombre de &font_red;boss&font_end;
         présents sur l\'île…</string>
     <string name="action_hunter_action_description">Détection de &font_red;boss&font_end;</string>
-    <string name="action_hunter_action_description_positive_singular">Tu détecte &font_cyan;%1$d&font_end; &font_red;boss &font_end;sur l\'île.</string>
-    <string name="action_hunter_action_description_positive_plural">Tu détecte &font_cyan;%1$d&font_end; &font_red;boss &font_end;sur l\'île !</string>
+    <string name="action_hunter_action_description_positive_singular">Vous détectez &font_cyan;%1$d&font_end; &font_red;boss &font_end;sur l\'île.</string>
+    <string name="action_hunter_action_description_positive_plural">Vous détectez &font_cyan;%1$d&font_end; &font_red;boss &font_end;sur l\'île !</string>
     <string name="action_hunter_action_description_negative">Il n\'y a aucun &font_red;boss &font_end;sur l\'île…</string>
     <string name="action_treasure_hunter">&font_cyan;Chasse&font_end; des &font_chest;Trésors&font_end;</string>
     <string name="action_treasure_hunter_treasure_hunter">Permet de &font_cyan;Détecter&font_end; le nombre d\'&font_chest;objets dissimulés &font_end;sur cet île.</string>
-    <string name="action_treasure_hunter_action_description_positive_singular">Tu détectes &font_cyan;%1$d &font_end;d\'&font_chest;objets dissimulés &font_end;.</string>
-    <string name="action_treasure_hunter_action_description_positive_plural">Tu détectes &font_cyan;%1$d &font_end;d\'&font_chest;objets dissimulés &font_end;.</string>
+    <string name="action_treasure_hunter_action_description_positive_singular">Vous détectez &font_cyan;%1$d &font_end;d\'&font_chest;objets dissimulés &font_end;.</string>
+    <string name="action_treasure_hunter_action_description_positive_plural">Vous détectez &font_cyan;%1$d &font_end;d\'&font_chest;objets dissimulés &font_end;.</string>
     <string name="action_treasure_hunter_action_description_negative">Il n\'y a aucun &font_chest;objet dissimulé&font_end;…</string>
 
     <string name="skill_fisherman">&font_cyan;Pêcheur&font_end;</string>
@@ -1250,12 +1250,12 @@
     <string name="skill_spear_mastery">Maîtrise de la &font_skill_attack;lance&font_end;</string>
     <string name="skill_axe_mastery">Maîtrise de la &font_skill_attack;hache&font_end; </string>
     <string name="skill_mace_mastery">Maîtrise de la &font_skill_attack;masse&font_end; </string>
-    <string name="skill_fisherman_description">Plus ta maîtrise est grande, plus tu as de chance d\'attraper un poisson.</string>
-    <string name="skill_woodcutter_description">Plus ta maîtrise est grande, plus tu as de chance de couper correctement un arbre.</string>
-    <string name="skill_miner_description">Plus ta maîtrise est grande, plus tu as de chance de miner correctement une roche.</string>
-    <string name="skill_bughunter_description">Plus ta maîtrise est grande, plus tu as de chance d\'attraper un insecte.</string>
-    <string name="skill_furrier_description">Plus ta maîtrise est grande, plus tu as de chance de dépecer correctement le corps d\'un monstre.</string>
-    <string name="skill_butcher_description">Plus ta maîtrise est grande, plus tu as de chance de découper correctement le corps d\'un monstre.</string>
+    <string name="skill_fisherman_description">Plus votre maîtrise est grande, plus vous avez de chance d\'attraper un poisson.</string>
+    <string name="skill_woodcutter_description">Plus votre maîtrise est grande, plus vous avez de chance de couper correctement un arbre.</string>
+    <string name="skill_miner_description">Plus votre maîtrise est grande, plus vous avez de chance de miner correctement une roche.</string>
+    <string name="skill_bughunter_description">Plus votre maîtrise est grande, plus vous avez de chance d\'attraper un insecte.</string>
+    <string name="skill_furrier_description">Plus votre maîtrise est grande, plus vous avez de chance de dépecer correctement le corps d\'un monstre.</string>
+    <string name="skill_butcher_description">Plus votre maîtrise est grande, plus vous avez de chance de découper correctement le corps d\'un monstre.</string>
     <string name="skill_sword_mastery_description">Attaquer avec une &font_skill_attack;épée &font_end;lors d\'un affrontement permet de débloquer des Compétences de combat à l\'&font_skill_attack;Épée&font_end;.</string>
     <string name="skill_dagger_mastery_description">Attaquer avec une &font_skill_attack;dague &font_end;lors d\'un affrontement permet de débloquer des Compétences de combat à la &font_skill_attack;Dague &font_end;.</string>
     <string name="skill_spear_mastery_description">Attaquer avec une &font_skill_attack;lance &font_end;lors d\'un affrontement permet de débloquer des Compétences de combat à la &font_skill_attack;Lance &font_end;.</string>
@@ -1280,159 +1280,159 @@
     <string name="action_contractor_pending_amount_1">Il y a &font_cyan;1&font_end; &font_cyan;quête &font_end;disponible sur l\'île.</string>
     <string name="action_contractor_pending_amount">Il y a &font_cyan;%d&font_end; &font_cyan;quêtes &font_end;disponibles sur l\'île.</string>
 
-    <string name="skill_sense_theres_something_hidden_here">Tu détecte quelque chose de caché dans le coin…</string>
-    <string name="skill_search_found_nothing">Tu n\'as rien trouvé…</string>
+    <string name="skill_sense_theres_something_hidden_here">Vous détectez quelque chose de caché dans le coin…</string>
+    <string name="skill_search_found_nothing">Vous n'avez rien trouvé…</string>
 
     <string name="weapon_skill_sword_horizontal_name">&font_skill_attack;Slash horizontal&font_end;</string>
     <string name="weapon_skill_sword_horizontal_desc">Découpe l\'ennemi horizontalement.</string>
-    <string name="weapon_skill_sword_horizontal_attack">Tu tranches l\'ennemi horizontalement !</string>
+    <string name="weapon_skill_sword_horizontal_attack">Vous tranchez l\'ennemi horizontalement !</string>
     <string name="weapon_skill_sword_slant_name">&font_skill_attack;Découpe inclinée&font_end;</string>
     <string name="weapon_skill_sword_slant_desc">Découpe l\'ennemi diagonalement.</string>
-    <string name="weapon_skill_sword_slant_attack">Tu tranches l\'ennemi en diagonale !</string>
+    <string name="weapon_skill_sword_slant_attack">Vous tranchez l\'ennemi en diagonale !</string>
     <string name="weapon_skill_sword_vertical_name">&font_skill_attack;Slash vertical&font_end;</string>
     <string name="weapon_skill_sword_vertical_desc">Découpe l\'ennemi verticalement.</string>
-    <string name="weapon_skill_sword_vertical_attack">Tu tranches l\'ennemi verticalement !</string>
+    <string name="weapon_skill_sword_vertical_attack">Vous tranchez l\'ennemi verticalement !</string>
     <string name="weapon_skill_sword_gash_name">&font_skill_attack;Taillade&font_end;</string>
     <string name="weapon_skill_sword_gash_desc">Entaille l\'ennemi.</string>
-    <string name="weapon_skill_sword_gash_attack">Tu Entaille l\'ennemi !</string>
+    <string name="weapon_skill_sword_gash_attack">Vous entaillez l\'ennemi !</string>
     <string name="weapon_skill_sword_absorbing_cut_name">&font_skill_attack;Lame absorbante&font_end;</string>
     <string name="weapon_skill_sword_absorbing_cut_desc">Absorbe la vie de l\'ennemi.</string>
-    <string name="weapon_skill_sword_absorbing_cut_attack">Tu absorbe la vie de l\'ennemi !</string>
+    <string name="weapon_skill_sword_absorbing_cut_attack">Vous absorbez la vie de l\'ennemi !</string>
     <string name="weapon_skill_sword_fast_slash_name">&font_skill_attack;Attaque éclair&font_end;</string>
     <string name="weapon_skill_sword_fast_slash_desc">Découpe l\'ennemi avant qu\'il puisse réagir. Toujours le premier à attaquer.</string>
-    <string name="weapon_skill_sword_fast_slash_attack">Tu tranche très rapidement l\'ennemi !</string>
+    <string name="weapon_skill_sword_fast_slash_attack">Vous tranchez très rapidement l\'ennemi !</string>
     <string name="weapon_skill_sword_counter_strike_name">&font_skill_attack;Contre-attaque&font_end;</string>
     <string name="weapon_skill_sword_counter_strike_desc">Attend la prochaine attaque de l\'ennemi pour lui infliger encore plus de dégâts.</string>
-    <string name="weapon_skill_sword_counter_strike_attack">Tu contre-attaques !</string>
+    <string name="weapon_skill_sword_counter_strike_attack">Vous contre-attaquez !</string>
     <string name="weapon_skill_sword_sharp_cut_name">&font_skill_attack;Lame affutée&font_end;</string>
     <string name="weapon_skill_sword_sharp_cut_desc">Attaque l\'ennemi avec une attaque très coupante.</string>
-    <string name="weapon_skill_sword_sharp_cut_attack">Tu coupe l\'ennemi !</string>
+    <string name="weapon_skill_sword_sharp_cut_attack">Vous coupez l\'ennemi !</string>
     <string name="weapon_skill_sword_double_strike_name">&font_skill_attack;Attaque double&font_end;</string>
     <string name="weapon_skill_sword_double_strike_desc">Charge l\'ennemi deux fois de suite.</string>
-    <string name="weapon_skill_sword_double_strike_attack">Tu attaques deux fois de suite !</string>
+    <string name="weapon_skill_sword_double_strike_attack">Vous attaquez deux fois de suite !</string>
     <string name="weapon_skill_sword_ultimate_slash_name">&font_skill_attack;Slash ultime&font_end;</string>
     <string name="weapon_skill_sword_ultimate_slash_desc">Tranche brutalement l\'ennemi.</string>
-    <string name="weapon_skill_sword_ultimate_slash_attack">Tu tranches brutalement l\'ennemi !</string>
+    <string name="weapon_skill_sword_ultimate_slash_attack">Vous tranchez brutalement l\'ennemi !</string>
     <string name="weapon_skill_dagger_bite_name">&font_skill_attack;Morsure&font_end;</string>
     <string name="weapon_skill_dagger_bite_desc">Fait une morsure à l\'ennemi comme une vipère.</string>
-    <string name="weapon_skill_dagger_bite_attack">Tu fais une morsure à l\'ennemi avec ta dague !</string>
+    <string name="weapon_skill_dagger_bite_attack">Vous faites une morsure à l\'ennemi avec votre dague !</string>
     <string name="weapon_skill_dagger_double_strike_name">&font_skill_attack;Attaque double&font_end;</string>
     <string name="weapon_skill_dagger_double_strike_desc">Charge l\'ennemi deux fois de suite.</string>
-    <string name="weapon_skill_dagger_double_strike_attack">Tu attaques deux fois de suite !</string>
+    <string name="weapon_skill_dagger_double_strike_attack">Vous attaquez deux fois de suite !</string>
     <string name="weapon_skill_dagger_backstab_name">&font_skill_attack;Coup de traître&font_end;</string>
     <string name="weapon_skill_dagger_backstab_desc">Déplacement rapide derrière l\'ennemi et lui inflige de lourd dégâts dans le dos.</string>
-    <string name="weapon_skill_dagger_backstab_attack">Tu poignardes l\'ennemi à l\'arrière !</string>
+    <string name="weapon_skill_dagger_backstab_attack">Vous poignardez l\'ennemi par derrière !</string>
     <string name="weapon_skill_dagger_wolf_fang_name">&font_skill_attack;Crocs du loup&font_end;</string>
     <string name="weapon_skill_dagger_wolf_fang_desc">Charge l\'ennemi avec l\'aggressivité d\'un loup.</string>
-    <string name="weapon_skill_dagger_wolf_fang_attack">Tu frappes l\'ennemi comme un loup !</string>
+    <string name="weapon_skill_dagger_wolf_fang_attack">Vous chargez l\'ennemi tel un loup !</string>
     <string name="weapon_skill_dagger_precision_cut_name">&font_skill_attack;Frappe précise&font_end;</string>
     <string name="weapon_skill_dagger_precision_cut_desc">Coupe l\'ennemi avec une grande précision.</string>
-    <string name="weapon_skill_dagger_precision_cut_attack">Tu coupes efficacement l\'ennemi !</string>
+    <string name="weapon_skill_dagger_precision_cut_attack">Vous coupez l\'ennemi avec précision !</string>
     <string name="weapon_skill_dagger_fast_slice_name">&font_skill_attack;Charge précipitée&font_end;</string>
     <string name="weapon_skill_dagger_fast_slice_desc">Tranche l\'ennemi. Toujours le premier à attaquer.</string>
-    <string name="weapon_skill_dagger_fast_slice_attack">Tu tranches l\'ennemi !</string>
+    <string name="weapon_skill_dagger_fast_slice_attack">Vous tranchez l\'ennemi précipitamment !</string>
     <string name="weapon_skill_dagger_mana_release_name">&font_skill_attack;Expulsion de mana&font_end;</string>
     <string name="weapon_skill_dagger_mana_release_desc">Acheminement de mana vers la dague et frappe magiquement l\'ennemi.</string>
-    <string name="weapon_skill_dagger_mana_release_attack">Tu charges magiquement ta dague et entaille l\'ennemi !</string>
+    <string name="weapon_skill_dagger_mana_release_attack">Vous chargez magiquement votre dague et entaillez l\'ennemi !</string>
     <string name="weapon_skill_dagger_assassination_name">&font_skill_attack;Assassination&font_end;</string>
     <string name="weapon_skill_dagger_assassination_desc">Coupe l\'ennemi sur plusieurs directions en un clin d\'oeil.</string>
-    <string name="weapon_skill_dagger_assassination_attack">Tu coupes l\'ennemi de partout !</string>
+    <string name="weapon_skill_dagger_assassination_attack">Vous coupez l\'ennemi de partout !</string>
     <string name="weapon_skill_dagger_lightning_double_strike_name">&font_skill_attack;Attaque double éclair&font_end;</string>
     <string name="weapon_skill_dagger_lightning_double_strike_desc">Charge très violement l\'ennemi deux fois de suites.</string>
-    <string name="weapon_skill_dagger_lightning_double_strike_attack">Tu l\'attaques brutalement deux fois de suite !</string>
+    <string name="weapon_skill_dagger_lightning_double_strike_attack">Vous l\'attaquez brutalement deux fois de suite !</string>
     <string name="weapon_skill_dagger_ultimate_cut_name">&font_skill_attack;Slice ultime&font_end;</string>
     <string name="weapon_skill_dagger_ultimate_cut_desc">Entaille brutalement l\'ennemi .</string>
-    <string name="weapon_skill_dagger_ultimate_cut_attack">Tu l\'entailles brutalement !</string>
+    <string name="weapon_skill_dagger_ultimate_cut_attack">Vous l\'entaillez brutalement !</string>
     <string name="weapon_skill_spear_thrust_name">&font_skill_attack;Enfoncement&font_end;</string>
     <string name="weapon_skill_spear_thrust_desc">Enfoncement de la lance dans l\'opposant</string>
-    <string name="weapon_skill_spear_thrust_attack">Tu lui enfonces ta lance !</string>
+    <string name="weapon_skill_spear_thrust_attack">Vous lui enfoncez votre lance !</string>
     <string name="weapon_skill_spear_leg_sweep_name">&font_skill_attack;Balayage&font_end;</string>
     <string name="weapon_skill_spear_leg_sweep_desc">Fauche l\'ennemi</string>
-    <string name="weapon_skill_spear_leg_sweep_attack">Tu fauches l\'ennemi !</string>
+    <string name="weapon_skill_spear_leg_sweep_attack">Vous fauchez l\'ennemi !</string>
     <string name="weapon_skill_spear_double_thrust_name">&font_skill_attack;Attaque double&font_end;</string>
     <string name="weapon_skill_spear_double_thrust_desc">Charge l\'ennemi deux fois de suite.</string>
-    <string name="weapon_skill_spear_double_thrust_attack">Tu attaques l\'ennemi deux fois de suite !</string>
+    <string name="weapon_skill_spear_double_thrust_attack">Vous attaquez l\'ennemi deux fois de suite !</string>
     <string name="weapon_skill_spear_quick_sting_name">&font_skill_attack;Piqûre rapide&font_end;</string>
     <string name="weapon_skill_spear_quick_sting_desc">Pique l\'ennemi. Toujours le premier à attaquer.</string>
-    <string name="weapon_skill_spear_quick_sting_attack">Tu piques l\'ennemi !</string>
+    <string name="weapon_skill_spear_quick_sting_attack">Vous piquez l\'ennemi !</string>
     <string name="weapon_skill_spear_impulsive_thrust_name">&font_skill_attack;Empalement impulsif&font_end;</string>
     <string name="weapon_skill_spear_impulsive_thrust_desc">Empale impulsivement ton ennemi.</string>
-    <string name="weapon_skill_spear_impulsive_thrust_attack">Tu l\'empales impulsivement !</string>
+    <string name="weapon_skill_spear_impulsive_thrust_attack">Vous l\'empalez impulsivement !</string>
     <string name="weapon_skill_spear_fast_sweep_name">&font_skill_attack;Balayage rapide&font_end;</string>
     <string name="weapon_skill_spear_fast_sweep_desc">Fauche rapidement l\'ennemi. Toujours le premier à attaquer.</string>
-    <string name="weapon_skill_spear_fast_sweep_attack">Tu fauches très rapidement l\'ennemi !</string>
+    <string name="weapon_skill_spear_fast_sweep_attack">Vous fauchez très rapidement l\'ennemi !</string>
     <string name="weapon_skill_spear_slow_swipe_name">&font_skill_attack;Lourd balayage&font_end;</string>
     <string name="weapon_skill_spear_slow_swipe_desc">Fauche lourdement l\'ennemi. Toujours le dernier à attaquer.</string>
-    <string name="weapon_skill_spear_slow_swipe_attack">Tu fauches lourdement l\'ennemi !</string>
+    <string name="weapon_skill_spear_slow_swipe_attack">Vous fauchez lourdement l\'ennemi !</string>
     <string name="weapon_skill_spear_sonic_thrust_name">&font_skill_attack;Empalement sonique&font_end;</string>
     <string name="weapon_skill_spear_sonic_thrust_desc">Empale l\'opposant à la vitesse de l\'éclair. Toujours le premier à attaquer.</string>
-    <string name="weapon_skill_spear_sonic_thrust_attack">Tu empalles l\'ennemi à la vitesse de l\'éclair !</string>
+    <string name="weapon_skill_spear_sonic_thrust_attack">Vous empallez l\'ennemi à la vitesse de l\'éclair !</string>
     <string name="weapon_skill_spear_eagle_bite_name">&font_skill_attack;Morsure de l\'aigle&font_end;</string>
     <string name="weapon_skill_spear_eagle_bite_desc">Morsure de l\'ennemi comme un aigle.</string>
-    <string name="weapon_skill_spear_eagle_bite_attack">Tu mords l\'ennemi comme un aigle !</string>
+    <string name="weapon_skill_spear_eagle_bite_attack">Vous mordez l\'ennemi comme un aigle !</string>
     <string name="weapon_skill_spear_ultimate_thrust_name">&font_skill_attack;Poussée ultime&font_end;</string>
-    <string name="weapon_skill_spear_ultimate_thrust_desc">Empale brutalement l\'opposant.</string>
-    <string name="weapon_skill_spear_ultimate_thrust_attack">Tu empales brutalement l\'opposant !</string>
+    <string name="weapon_skill_spear_ultimate_thrust_desc">Empale brutalement l\'ennemi.</string>
+    <string name="weapon_skill_spear_ultimate_thrust_attack">Vous empalez brutalement l\'ennemi !</string>
     <string name="weapon_skill_axe_smash_name">&font_skill_attack;Smash&font_end;</string>
     <string name="weapon_skill_axe_smash_desc">Écrase l\'ennemi.</string>
-    <string name="weapon_skill_axe_smash_attack">Tu écrase l\'ennemi !</string>
+    <string name="weapon_skill_axe_smash_attack">Vous écrasez l\'ennemi !</string>
     <string name="weapon_skill_axe_horizontal_swipe_name">&font_skill_attack;Arc horizontal&font_end;</string>
     <string name="weapon_skill_axe_horizontal_swipe_desc">Fait un grand arc horizontal vers l\'ennemi.</string>
-    <string name="weapon_skill_axe_horizontal_swipe_attack">Tu fais un grand arc horizontal vers l\'ennemi !</string>
+    <string name="weapon_skill_axe_horizontal_swipe_attack">Vous faites un grand arc horizontal vers l\'ennemi !</string>
     <string name="weapon_skill_axe_fast_slash_name">&font_skill_attack;Coup rapide&font_end;</string>
     <string name="weapon_skill_axe_fast_slash_desc">Frappe l\'opposant avec le manche. Toujours le premier à attaquer.</string>
-    <string name="weapon_skill_axe_fast_slash_attack">Tu frappes l\'ennemi avec le manche !</string>
+    <string name="weapon_skill_axe_fast_slash_attack">Vous frappez l\'ennemi avec le manche !</string>
     <string name="weapon_skill_axe_vertical_hit_name">&font_skill_attack;Coupe verticale&font_end;</string>
     <string name="weapon_skill_axe_vertical_hit_desc">Tranche l\'ennemi verticalement.</string>
-    <string name="weapon_skill_axe_vertical_hit_attack">Tu tranches l\'ennemi verticalement !</string>
+    <string name="weapon_skill_axe_vertical_hit_attack">Vous tranchez l\'ennemi verticalement !</string>
     <string name="weapon_skill_axe_berserk_name">&font_skill_attack;Berserk&font_end;</string>
     <string name="weapon_skill_axe_berserk_desc">Lance une attaque berserker contre l\'ennemi.</string>
-    <string name="weapon_skill_axe_berserk_attack">Tu lances une énorme attaque en mode berserker à l\'ennemi !</string>
+    <string name="weapon_skill_axe_berserk_attack">Vous lancez une énorme attaque en mode berserker à l\'ennemi !</string>
     <string name="weapon_skill_axe_axe_stomp_name">&font_skill_attack;Arc rapide&font_end;</string>
     <string name="weapon_skill_axe_axe_stomp_desc">Petit arc vers l\'ennemi. Toujours le premier à attaquer.</string>
-    <string name="weapon_skill_axe_axe_stomp_attack">Tu fais très rapidement un arc de cercle et touches l\'ennemi !</string>
+    <string name="weapon_skill_axe_axe_stomp_attack">Vous faites très rapidement un arc de cercle et touchez l\'ennemi !</string>
     <string name="weapon_skill_axe_life_hit_name">&font_skill_attack;Coup régénérateur&font_end;</string>
     <string name="weapon_skill_axe_life_hit_desc">Frappe l\'ennemi. Absorbe la vie l\'ennemi !</string>
-    <string name="weapon_skill_axe_life_hit_attack">Tu absorbes la vie de l\'ennemi !</string>
+    <string name="weapon_skill_axe_life_hit_attack">Vous absorbez la vie de l\'ennemi !</string>
     <string name="weapon_skill_axe_counter_smash_name">&font_skill_attack;Contre-attaque&font_end;</string>
     <string name="weapon_skill_axe_counter_smash_desc">Écrase l\'ennemi. Toujours le deuxième à attaquer.</string>
-    <string name="weapon_skill_axe_counter_smash_attack">Tu écrase l\'ennemi !</string>
+    <string name="weapon_skill_axe_counter_smash_attack">Vous écrasez l\'ennemi !</string>
     <string name="weapon_skill_axe_magical_sweep_name">&font_skill_attack;Balayage magique&font_end;</string>
     <string name="weapon_skill_axe_magical_sweep_desc">Canalise le mana dans ta hache et fauche l\'ennemi.</string>
-    <string name="weapon_skill_axe_magical_sweep_attack">Tu charge ta hache de mana et fauche l\'ennemi !</string>
+    <string name="weapon_skill_axe_magical_sweep_attack">Vous chargez votre hache de mana et fauchez l\'ennemi !</string>
     <string name="weapon_skill_axe_ultimate_smash_name">&font_skill_attack;Smash ultime&font_end;</string>
     <string name="weapon_skill_axe_ultimate_smash_desc">Écrase l\'ennemi violement.</string>
-    <string name="weapon_skill_axe_ultimate_smash_attack">Tu écrase l\'ennemi violement !</string>
+    <string name="weapon_skill_axe_ultimate_smash_attack">Vous écrasez l\'ennemi violement !</string>
     <string name="weapon_skill_mace_strike_name">&font_skill_attack;Frappe&font_end;</string>
     <string name="weapon_skill_mace_strike_desc">Frappe l\'ennemi.</string>
-    <string name="weapon_skill_mace_strike_attack">Tu frappes l\'ennemi !</string>
+    <string name="weapon_skill_mace_strike_attack">Vous frappez l\'ennemi !</string>
     <string name="weapon_skill_mace_great_hit_name">&font_skill_attack;Frappe lourde&font_end;</string>
     <string name="weapon_skill_mace_great_hit_desc">Frappe lourdement l\'ennemi.</string>
-    <string name="weapon_skill_mace_great_hit_attack">Tu frappes lourdement l\'ennemi !</string>
+    <string name="weapon_skill_mace_great_hit_attack">Vous frappez lourdement l\'ennemi !</string>
     <string name="weapon_skill_mace_quick_strike_name">&font_skill_attack;Frappe rapide&font_end;</string>
     <string name="weapon_skill_mace_quick_strike_desc">Frappe rapidement l\'ennemi. Toujours le premier à attaquer.</string>
-    <string name="weapon_skill_mace_quick_strike_attack">Tu frappe très rapidement l\'ennemi !</string>
+    <string name="weapon_skill_mace_quick_strike_attack">Vous frappez très rapidement l\'ennemi !</string>
     <string name="weapon_skill_mace_double_smash_name">&font_skill_attack;Frappe double&font_end;</string>
     <string name="weapon_skill_mace_double_smash_desc">Frappe deux fois l\'ennemi.</string>
-    <string name="weapon_skill_mace_double_smash_attack">Tu assènes deux coup de mace !</string>
+    <string name="weapon_skill_mace_double_smash_attack">Vous assènez deux coup de masse !</string>
     <string name="weapon_skill_mace_magic_strike_name">&font_skill_attack;Assaut magique&font_end;</string>
-    <string name="weapon_skill_mace_magic_strike_desc">Charge ton arme de mana et frappe magiquement l\'ennemi.</string>
-    <string name="weapon_skill_mace_magic_strike_attack">Tu charges ta mace de mana et charge !</string>
+    <string name="weapon_skill_mace_magic_strike_desc">Charge votre arme de mana et frappe magiquement l\'ennemi.</string>
+    <string name="weapon_skill_mace_magic_strike_attack">Vous chargez votre masse de mana et chargez !</string>
     <string name="weapon_skill_mace_healing_stroke_name">&font_skill_attack;Assaut régénérateur&font_end;</string>
     <string name="weapon_skill_mace_healing_stroke_desc">Absorbe la vie de l\'ennemi.</string>
-    <string name="weapon_skill_mace_healing_stroke_attack">Tu absorbes la vie de ton opposant !</string>
+    <string name="weapon_skill_mace_healing_stroke_attack">Vous absorbez la vie de l'ennemi !</string>
     <string name="weapon_skill_mace_steal_magic_name">&font_skill_attack;Drainage magique&font_end;</string>
     <string name="weapon_skill_mace_steal_magic_desc">Absorbe la mana de l\'opposant.</string>
-    <string name="weapon_skill_mace_steal_magic_attack">Tu absorbes le mana !</string>
+    <string name="weapon_skill_mace_steal_magic_attack">Vous absorbez le mana de l'ennemi !</string>
     <string name="weapon_skill_mace_contussion_name">&font_skill_attack;Contusion&font_end;</string>
     <string name="weapon_skill_mace_contussion_desc">Blesse gravement l\'ennemi.</string>
-    <string name="weapon_skill_mace_contussion_attack">Tu blesses gravement l\'ennemi !</string>
+    <string name="weapon_skill_mace_contussion_attack">Vous blessez gravement l\'ennemi !</string>
     <string name="weapon_skill_mace_great_smash_name">&font_skill_attack;Coup écrasant&font_end;</string>
     <string name="weapon_skill_mace_great_smash_desc">Écrase lourdement l\'ennemi.</string>
-    <string name="weapon_skill_mace_great_smash_attack">Tu écrases lourdement l\'adversaire !</string>
+    <string name="weapon_skill_mace_great_smash_attack">Vous écrasez lourdement l\'ennemi !</string>
     <string name="weapon_skill_mace_ultimate_strike_name">&font_skill_attack;Strike ultime&font_end;</string>
     <string name="weapon_skill_mace_ultimate_strike_desc">Frappe brutalement l\'ennemi.</string>
-    <string name="weapon_skill_mace_ultimate_strike_attack">Tu frappes brutalement l\'ennemi !</string>
+    <string name="weapon_skill_mace_ultimate_strike_attack">Vous frappez brutalement l\'ennemi !</string>
 
     <string name="pets_title">&font_pet;Familiers&font_end; (&lt;font color=\"%1$s\"&gt;%2$d&font_end;/&font_cyan;%3$d&font_end;)</string>
     <string name="pets_monster_joined">%1$s vous rejoins!</string>
@@ -1445,26 +1445,26 @@
     <string name="pets_attacked">%1$s a attaqué !</string>
     <string name="pets_pet_action">%1$s a utilisé sa compétence &font_red;%2$s&font_end;</string>
     <string name="pets_text_pet_dealt_damage_to_monster">%1$s génère %2$s &font_red;%3$d &font_end;de dégâts !</string>
-    <string name="pets_combat_dont_have_an_active_pet">Tu n\'as aucun &font_pet;familier actif&font_end;</string>
+    <string name="pets_combat_dont_have_an_active_pet">Vous n'avez aucun &font_pet;familier actif&font_end;</string>
     <string name="pets_text_pet_level_up_to_level">%1$s est maintenant niveau %2$d</string>
-    <string name="pets_empty_message">Tu n\'as aucun &font_pet;Familier&font_end;…</string>
+    <string name="pets_empty_message">Vous n'avez aucun &font_pet;Familier&font_end;…</string>
     <string name="pets_rename_pet">Renommer ton familier</string>
     <string name="pets_rename_pet_message">Choisis un nouveau nom pour ton familier %1$s !</string>
-    <string name="pets_rename_pet_success">Tu l\'as renommé %1$s ! Super !</string>
+    <string name="pets_rename_pet_success">Vous l\'avez renommé %1$s ! Super !</string>
     <string name="pets_list">Liste des familiers</string>
-    <string name="pets_abandon_pet_message">Es-tu sûr de vouloir abandonner le %1$s ? Il va disparaître &italic;pour toujours&italic_end;…</string>
-    <string name="pets_abandon_pet_abandoned_message">Tu as abandonné %1$s… Adieu…</string>
+    <string name="pets_abandon_pet_message">Êtes-vous sûr de vouloir abandonner le %1$s ? Il disparaîtra &italic;pour toujours&italic_end;…</string>
+    <string name="pets_abandon_pet_abandoned_message">Vous avez abandonné %1$s… Adieu…</string>
 
-    <string name="text_player_experience_given">Tu récoltes &font_cyan;%1$d &font_end;d\'exp !</string>
+    <string name="text_player_experience_given">Vous récoltez &font_cyan;%1$d &font_end;d\'exp !</string>
     <string name="text_pet_experience_given">%1$s récolte &font_cyan;%2$d &font_end;d\'exp !</string>
 
-    <string name="animal_fed_flesh">Tu as nourri %1$s avec %2$s.</string>
-    <string name="animal_is_here_following_you">Ton %1$s est ici et te suis.</string>
+    <string name="animal_fed_flesh">Vous avez nourri %1$s avec %2$s.</string>
+    <string name="animal_is_here_following_you">Votre %1$s est ici et vous suis.</string>
     <string name="animal_is_here">%1$s est ici.</string>
-    <string name="animal_leave_here_message">Laisser %1$s ici ? Si tu souhaites qu\'il te suive a nouveau, tu devras le nourrir a nouveau…</string>
-    <string name="animal_left">Tu as laissé %1$s…</string>
-    <string name="animal_start_following_you">%1$s commence à te suivre !</string>
-    <string name="animal_follow_substitute_animal">%1$s veux te suivre, le laisser te suivre et laisser %2$s ici ?</string>
+    <string name="animal_leave_here_message">Laisser %1$s ici ? Si vous souhaitez qu\'il vous suive à nouveau, vous devrez le nourrir à nouveau…</string>
+    <string name="animal_left">Vous avez laissé %1$s…</string>
+    <string name="animal_start_following_you">%1$s commence à vous suivre !</string>
+    <string name="animal_follow_substitute_animal">%1$s veux vous suivre, le laisser vous suivre et laisser %2$s ici ?</string>
     <string name="animal_dog_name">Chien</string>
     <string name="animal_chicken_name">Poulet</string>
     <string name="animal_cow_name">Vache</string>
@@ -1569,15 +1569,15 @@
     <string name="tile_content_type_iron_bucket_mana">&font_iron;Seau &font_end;de &font_mana;mana&font_end;</string>
 
     <string name="wooden_sign_write">Écrire sur le &font_wooden_sign;panneau&font_end;</string>
-    <string name="wooden_sign_text_chopped_the">Tu as coupé le %1$s.</string>
-    <string name="wooden_sign_wrote_message">Tu as écris un message sur le %1$s.</string>
+    <string name="wooden_sign_text_chopped_the">Vous avez coupé le %1$s.</string>
+    <string name="wooden_sign_wrote_message">Vous avez écris un message sur le %1$s.</string>
 
-    <string name="iron_bucket_pickup_water">Tu as récupéré de l\'&font_water;eau &font_end;avec le &font_iron;seau&font_end;.</string>
-    <string name="iron_bucket_pickup_lava">Tu as récupéré de la &font_attack;lave &font_end;avec le &font_iron;seau&font_end;.</string>
-    <string name="iron_bucket_pickup_mana">Tu as récupéré du &font_mana;mana &font_end;avec le &font_iron;seau&font_end;.</string>
-    <string name="iron_bucket_put_out_firecamp_ash">Tu éteins le &font_attack;feu de camp &font_end;avec le &font_iron;seau&font_end;
+    <string name="iron_bucket_pickup_water">Vous avez récupéré de l\'&font_water;eau &font_end;avec le &font_iron;seau&font_end;.</string>
+    <string name="iron_bucket_pickup_lava">Vous avez récupéré de la &font_attack;lave &font_end;avec le &font_iron;seau&font_end;.</string>
+    <string name="iron_bucket_pickup_mana">Vous avez récupéré du &font_mana;mana &font_end;avec le &font_iron;seau&font_end;.</string>
+    <string name="iron_bucket_put_out_firecamp_ash">Vous éteigniez le &font_attack;feu de camp &font_end;avec le &font_iron;seau&font_end;
         d\'&font_water;Eau&font_end;.</string>
-    <string name="iron_bucket_drank_mana">Tu as bu dans le &font_iron;seau&font_end; de &font_mana;mana&font_end; et tu as régénéré tout ton &font_mana;Mana&font_end;.</string>
+    <string name="iron_bucket_drank_mana">Vous buvez dans le &font_iron;seau&font_end; de &font_mana;mana&font_end; et régénérez tout votre &font_mana;mana&font_end;.</string>
 
     <string name="bank_welcome_message" tools:ignore="PluralsCandidate">Bienvenue à la %1$s !&br;&br;Nous gardons votre &font_gold;or &font_end;en sûreté ici.&br;&br;Vous avez actuellement &font_gold;%2$d d\'or &font_end;dans la %3$s.&br;</string>
     <string name="bank_deposit_message" tools:ignore="PluralsCandidate">Combien voulez-vous &font_gold;déposer&font_end;
@@ -1592,7 +1592,7 @@
 
     <string name="item_island_soul">&font_cyan;Âme de l\'Île&font_end; (%1$s)</string>
     <string name="text_island_soul_title">Île &font_cyan;100%&font_end; Exploré</string>
-    <string name="text_island_soul_message">Tu reçois mystétieusement une %1$s !</string>
+    <string name="text_island_soul_message">Vous recevez mystétieusement une %1$s !</string>
 
     <string name="weather_sunny">Ensoleillé</string>
     <string name="weather_cloudy">Nuageux</string>
@@ -1612,17 +1612,17 @@
     <string name="stash_inventory_title_stash">&font_wood;Inventaire&font_end; (&font_cyan;%1$d&font_end;/&font_cyan;%2$d&font_end;)</string>
     <string name="stash_store_couldnt">Impossible de ranger le %1$s, L\'&font_wood;entrepôt &font_end;est plein !</string>
     <string name="stash_increase_title">Aggrandir l\'&font_wood;Entrepôt&font_end; ?</string>
-    <string name="stash_increase_message" tools:ignore="PluralsCandidate">Veux-tu aggrandir le stockage de ton &font_wood;entrepôt &font_end;de &font_cyan;%1$d &font_end;à &font_cyan;%2$d&font_end;
+    <string name="stash_increase_message" tools:ignore="PluralsCandidate">Voulez-vous aggrandir le stockage de votre &font_wood;entrepôt &font_end;de &font_cyan;%1$d &font_end;à &font_cyan;%2$d&font_end;
         ? Ça te coûtera &font_gold;%3$d d\'or&font_end;.</string>
 
     <string name="merchants_mark">Marque du Marchand &font_cyan;#%1$d&font_end;</string>
     <string name="merchant">Marchand</string>
     <string name="merchant_name">(&font_gold;%1$s&font_end;)</string>
-    <string name="merchant_dialog_text">As-tu rapporté &font_cyan;%1$d&font_end;
+    <string name="merchant_dialog_text">Avez-vous rapporté &font_cyan;%1$d&font_end;
         &lt;font color=\"%2$s\"&gt;%3$s &font_end;pour moi ?</string>
     <string name="merchant_giving_merchant_quest_message">Bonjour! Je recherche &font_cyan;%1$d &font_end;&lt;font color=\"%2$s\"&gt;%3$s&font_end;. Pourrais-tu m\'en apporter ? Je te donnerai quelque chose de très spécial en échange.</string>
-    <string name="merchant_not_enough_materials">Tu n\'as pas assez d\'ingrédients…</string>
-    <string name="merchant_you_receive_the_merchants_mark">Tu reçois la Marque du Marchand &font_cyan;#%1$d&font_end;
+    <string name="merchant_not_enough_materials">Vous n'avez pas assez d\'ingrédients…</string>
+    <string name="merchant_you_receive_the_merchants_mark">Vous recevez la Marque du Marchand &font_cyan;#%1$d&font_end;
         !</string>
     <string name="merchant_dialog_text_mark_given">Tu m\'as déjà donné ce dont j\'avais besoin, merci !</string>
 
@@ -1630,9 +1630,9 @@
     <string name="witch_dialog_text_mark_given">Je n\'ai pas besoin de plus de &font_mushroom;Champignons&font_end;. Merci…</string>
     <string name="witch_received">La &font_witch;Sorcière&font_end; t\'offre son %1$s !</string>
     <string name="witch_hat">&font_witch;Chapeau de Sorcière&font_end;</string>
-    <string name="witch_not_enough_mushrooms">Tu n\'as pas assez de &font_mushroom;Champignons&font_end;…</string>
+    <string name="witch_not_enough_mushrooms">Tu n\'as pas assez de &font_mushroom;champignons&font_end;…</string>
 
-    <string name="wizard_tower_dialog_message_1">Tu entres dans la %1$s et trouves un vieux &font_mana;Sorcier&font_end;…</string>
+    <string name="wizard_tower_dialog_message_1">Vous entrez dans la %1$s et trouves un vieux &font_mana;Sorcier&font_end;…</string>
     <string name="wizard_tower_dialog_message_2">Bienvenue dans notre %1$s… Voudrais-tu devenir un &font_mana;Sorcier &font_end;comme moi ?</string>
     <string name="wizard_tower_dialog_message_2_already_given">Bienvenue dans notre %1$s… Ah… c\'est toi… Je t\'ai déjà donné mon livre de &font_mana;sorts &font_end;… tu dois apprendre par toi même désormais…</string>
     <string name="wizard_tower_dialog_message_3_no">Eh bien partez et ne me faites pas perdre mon temps !</string>
@@ -1650,14 +1650,14 @@
 
     <string name="chest_was_a_mimic">Le %1$s était en fait une %2$s !</string>
     <string name="chest_text_chest_opened">&font_chest;Coffre&font_end; (&font_primary_light;vide&font_end;)</string>
-    <string name="chest_must_kill_the_monster_first">Tu dois d\'abord te débarrasser du monstre !</string>
-    <string name="chest_you_obtained_gold_and_item" tools:ignore="PluralsCandidate">Tu ouvres le %1$s !&br;&br;Tu obtiens &font_gold;%2$d d\'or&font_end;.&br;Tu récupères un(e) %3$s.</string>
-    <string name="chest_you_obtained_gold" tools:ignore="PluralsCandidate">Tu ouvres le %1$s !&br;&br;Tu obtiens &font_gold;%2$d d\'or&font_end;.</string>
+    <string name="chest_must_kill_the_monster_first">Vous devez d\'abord vous débarrasser du monstre !</string>
+    <string name="chest_you_obtained_gold_and_item" tools:ignore="PluralsCandidate">Vous ouvrez le %1$s !&br;&br;Vous obtenez &font_gold;%2$d d\'or&font_end;.&br;Vous récupèrez un(e) %3$s.</string>
+    <string name="chest_you_obtained_gold" tools:ignore="PluralsCandidate">Vous ouvrez le %1$s !&br;&br;Vous obtenez &font_gold;%2$d d\'or&font_end;.</string>
 
     <string name="meditator_silent">(…)</string>
     <string name="meditator_dots">(…)</string>
-    <string name="meditator_meditate_with_me">Médites avec moi…</string>
-    <string name="meditated_with_meditator">Tu as médité avec le %1$s et as restoré tout ton &font_mana;mana&font_end;…</string>
+    <string name="meditator_meditate_with_me">Médite avec moi…</string>
+        <string name="meditated_with_meditator">Vous avez médité avec le %1$s et avez restoré tout votre &font_mana;mana&font_end;…</string>
     <string name="meditator_is_mysteriously_gone">Le %1$s a mystérieusement disparu…</string>
 
     <string name="mine_copper">&font_stone;Mine&font_end; de &font_copper;cuivre&font_end;</string>
@@ -1688,8 +1688,8 @@
 
     <string name="dead_reason_monster">Tué par un %s !</string>
     <string name="dead_reason_hunger">Mort de &font_red;faim&font_end; !</string>
-    <string name="dead_reason_tile_damage_hot">Tu as été &font_red;brûlé&font_end; vif !</string>
-    <string name="dead_reason_tile_damage_cold">Tu as été &font_tundra;congelé&font_end; vivant !</string>
+    <string name="dead_reason_tile_damage_hot">Vous avez été &font_red;brûlé&font_end; vif !</string>
+    <string name="dead_reason_tile_damage_cold">Vous avez été &font_tundra;congelé&font_end; vivant !</string>
 
     <string name="blacksmith_message">Bonjour! As-tu besoin d\'améliorer n\'importe quel "&font_green;\*&font_end;" équipement ?&br;&br;Ou en détruire d\'autre ?&br;&br;Je peux aussi te faire fondre tes minerais pour en faire des lingots.&br;&br;Dis moi juste ce que tu veux que je fasse, je suis chaud !&br;&br;Oublie pas de déséquipper l\'équipement que tu veux modifier.</string>
     <string name="blacksmith_no_equipment_message">Excuse moi mais t\'as pas l\'air d\'avoir quoi que ce soit que je peux travailler…</string>
@@ -1725,14 +1725,14 @@
     <string name="bar_text_question_eat_at_the" tools:ignore="PluralsCandidate">Manger pour &font_gold;%1$d d\'or&font_end;
         ?</string>
     <string name="bar_not_hungry">Déjà rassasié…</string>
-    <string name="bar_ate_at_the">Tu as mangé dans le %1$s.</string>
-    <string name="bar_not_enough_gold">Tu n\'as pas assez d\'or pour manger dans le %1$s.</string>
-    <string name="not_enough_gold">Tu n\'as pas assez d\'or…</string>
+    <string name="bar_ate_at_the">Vous avez mangé dans le %1$s.</string>
+    <string name="bar_not_enough_gold">Vous n'avez pas assez d\'or pour manger dans le %1$s.</string>
+    <string name="not_enough_gold">Vous n'avez pas assez d\'or…</string>
     <string name="abandoned_house_text_question_enter_the">Entrer dans la %1$s ?</string>
-    <string name="abandoned_house_you_find_nothing_in_the_">Tu n\'as rien trouvé dans la %1$s…</string>
+    <string name="abandoned_house_you_find_nothing_in_the_">Vous n'avez rien trouvé dans la %1$s…</string>
     <string name="portal_enter_mysterious_portal">Il y a un &font_portal;portail&font_end;
-        plutôt mystérieux… Y entrer ?</string>
-    <string name="portal_teleported_to_x_y">Tu as été téléporté en &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end;
+        plutôt mystérieux… Le passer ?</string>
+    <string name="portal_teleported_to_x_y">Vous avez été téléporté en &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end;
         !</string>
     <string name="slave">Esclave</string>
     <string name="slave_runs_away">L\'%1$s a fui en laissant quelque chose derrière lui…</string>
@@ -1740,34 +1740,34 @@
     <string name="guard">Garde</string>
     <string name="guard_start_dialog">Jm\'en vais ramener cet &font_cyan;Esclave&font_end; au chateau pour l\'exécuter, dégage ou tu vas goûter au fer de mon épé !</string>
     <string name="troll_pay_or_fight" tools:ignore="PluralsCandidate">Chui %1$s ! Ce pont est mien ! Si tu a envie que tu passe dans le pont, paye avec &font_gold;%2$d d\'or&font_end;, ou meuuurt !</string>
-    <string name="troll_not_enough_gold">Tu n\'as pas assez &font_gold;d\'or&font_end;! Le %1$s t\'attaque !</string>
+    <string name="troll_not_enough_gold">Vous n'avez pas assez &font_gold;d\'or&font_end;! Le %1$s t\'attaque !</string>
     <string name="troll_leaves_happily_with_your_money">%1$s gambade ailleurs avec son or fraîchement acquis…</string>
-    <string name="explorer_you_dont_have_the_necessary_island_soul" tools:ignore="UnusedResources">Tu ne possède pas la bonne &font_cyan;Âme de l\'Île&font_end;…</string>
+    <string name="explorer_you_dont_have_the_necessary_island_soul" tools:ignore="UnusedResources">Vous ne possèdez pas la bonne &font_cyan;Âme de l\'Île&font_end;…</string>
     <string name="explorer_im_looking_for_an_island_soul">Salut ! Je suis un explorateur passionné. Je recherche un %1$s ! S\'il t\'arrivait de trouver cet objet, pourrais-tu me l\'apporter ?&br;&br;Je te donnerais un item &font_cyan;spécial &font_end;en échange !</string>
     <string name="explorer_already_given">Rebonjour ! Merci pour l\'%1$s ! Je n\'ai toujours pas réussi à trouver comment l\'utiliser… À bientôt, l\'ami !</string>
     <string name="explorer_gaven_you">L\'%1$s vous offre un(e) %2$s !</string>
     <string name="waterfall_info">Il y a une magnifique &font_water;chute d\'eau&font_end; près de vous. Tu la contemples un moment avant de reprendre ton aventure.</string>
-    <string name="sphinx_info">Tu observes l\'immense &font_pyramid;Sphinx &font_end;et es fasciné par sa taille et sa beauté. Ça semble plutôt vieux.</string>
-    <string name="text_ruins_info_not_explored">Tu te balades dans ces &font_ruins;ruines &font_end;pendant un moment et avant de partir, tu remarques quelque chose !</string>
-    <string name="text_ruins_info_explored">Tu te balades pour la seconde fois dans les &font_ruins;ruines&font_end;, mais il n\'y a rien d\'autre  à part des cailloux et de la poussière…</string>
+    <string name="sphinx_info">Vous observez l\'immense &font_pyramid;Sphinx &font_end;et êtes fasciné par sa taille et sa beauté. Ça semble plutôt ancien.</string>
+    <string name="text_ruins_info_not_explored">Vous vous baladez dans ces &font_ruins;ruines &font_end;pendant un moment et avant de partir, vous remarquez quelque chose !</string>
+    <string name="text_ruins_info_explored">Vous vous baladez pour la seconde fois dans les &font_ruins;ruines&font_end;, mais il n\'y a rien d\'autre que des cailloux et de la poussière…</string>
     <string name="cabin_rest_in_the_question">Se reposer dans le %1$s ?</string>
-    <string name="cabin_rest_in_the">Tu t\'es reposé dand le %1$s.</string>
+    <string name="cabin_rest_in_the">Vous vous êtes reposé dand le %1$s.</string>
     <string name="oasis_question_drink_from_the">Boire depuis l\'%1$s ?</string>
-    <string name="oasis_drink_from_the">Tu as bus depuis l\'%1$s et as restoré ta faim.</string>
+    <string name="oasis_drink_from_the">Vous avez bus depuis l\'%1$s et avez restoré votre faim.</string>
     <string name="oasis_disappears">L\'%1$s disparaît…</string>
     <string name="firecamp">&font_attack;Feu de Camp&font_end;</string>
-    <string name="firecamp_placed_the_">Tu as placé un %1$s !</string>
+    <string name="firecamp_placed_the_">Vous avez placé un %1$s !</string>
     <string name="firecamp_extinguishes">%1$s s\'éteint…</string>
-    <string name="monster_attacks_in_">Il y avait un %1$s dans un %2$s ! Il t\'attaque !</string>
+    <string name="monster_attacks_in_">Il y avait un %1$s dans un %2$s ! Il vous attaque !</string>
     <string name="thief_dialog">Je n\'ai rien volé ! Je vous en prie, laissez moi partir !</string>
-    <string name="thief_stole_gold">Tu sens ton porte-monnaie plus léger…</string>
+    <string name="thief_stole_gold">Vous sentez ton porte-monnaie plus léger…</string>
 
     <string name="tile_content_stone_bridge_desc">Un vieux &font_stone;pont en pierre &font_end;plutôt sympa.</string>
     <string name="tile_content_type_pyramid_desc">Une immense et très impressionnante &font_pyramid;pyramide&font_end;.</string>
     <string name="tile_content_type_windmill_desc_first">C\'est un grand &font_wood;moulin à vent&font_end;. Il y a l\'air d\'y avoir de la &font_food;nourriture &font_end;à l\'intérieur !</string>
     <string name="tile_content_type_windmill_desc_second">C\'est un grand &font_wood;moulin à vent&font_end;. Il n\'y a rien à l\'intérieur.</string>
 
-    <string name="teleport_stone_teleported_to_x_y">Tu t\'es téléporté en &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end;
+    <string name="teleport_stone_teleported_to_x_y">Vous vous êtes téléporté en &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end;
         !</string>
 
     <string name="merchant_master_marks_exchanged_message">Oh, c\'est encore vous… Merci pour votre contribution à la &font_gold;Guilde des Marchands&font_end;.</string>
@@ -1775,7 +1775,7 @@
     <string name="merchant_master_marks_exchange_message">Oh, bonjour ! Je vois que vous avez une &font_cyan;Marque du Marchand&font_end;…&br;&br;Seriez vous intéressé(e) pour contribuer à la &font_gold;Guilde des Marchands&font_end;
         ? &font_cyan;%1$d&font_end; &font_cyan;Marques &font_end;devrait être assez.&br;&br;En échange, je vous offrirai ceci :&br;%2$s.</string>
     <string name="merchant_master_marks_exchange_success_message">Les voici ! Merci !&br;&br;Comme promis, ce %1$s est pour vous !&br;Oh, et bienvenue dans la &font_gold;Guilde des Marchands&font_end;…</string>
-    <string name="merchant_master_not_enough">Je suis au regret de vous informer que tu n\'as pas assez de &font_cyan;Marques du Marchand &font_end;sur toi…&br;&br;Reviens quand tu auras assez de &font_cyan;%1$d&font_end;.</string>
+    <string name="merchant_master_not_enough">Je suis au regret de vous informer que vous n\'avez pas assez de &font_cyan;Marques du Marchand &font_end;sur toi…&br;&br;Revenez quand vous aurez assez de &font_cyan;%1$d&font_end;.</string>
 
     <string name="temple_explore_the_temple_it_seems_dangerous">Explorer le %1$s ? Ça a l\'air dangereux…</string>
     <string name="temple_explore_1">Tu entres dans le %1$s. Il y a un long couloir et au il y a deux portes au bout : une &font_red;rouge &font_end;et une &font_blue;bleue&font_end;. Laquelle ouvres-tu ?</string>
@@ -3702,10 +3702,10 @@
     <string name="settings_show_pet_in_combat">Montrer Compagnon en Combat</string>
     <string name="settings_show_progress_bars">Montrer Barres Progression</string>
 
-    <string name="wise_have_in_void_island">Great, you are here! You should be careful… Creatures here are more dangerous… And there\'s a powerful being waiting for you…</string>
+    <string name="wise_have_in_void_island">Oh vous êtes là ! Vous devriez faire attention… Les créatures sont plus dangereuses ici… Et un être surpuissant t'attend au tournant…</string>
 
-    <string name="void_master_after_killing_text_3_new">Well well… You are wearing a complete set of the &font_void;Void&font_end;… Here, take this… You will know what to do with it… See you soon…</string>
-    <string name="settings_show_double_space_map">Double Space In Map</string>
+    <string name="void_master_after_killing_text_3_new">Eh bien… Vous portez un set complet du &font_void;néant&font_end;… Tenez, prenez ça… Vous saurez quoi en faire… À très bientôt…</string>
+    <string name="settings_show_double_space_map">Double Espace sur Carte</string>
 
     <string name="young_child_extra_advice_1">Oh, ok… Well, since you seem kind of disoriented, let me give you my advice…&br;&br;I wouldn\'t engage into combat against stronger monsters than you, at least not until you feel you are ready.</string>
     <string name="young_child_extra_advice_2">If I were you, I\'d buy some &font_cyan;Equipment &font_end;at an &font_bronze;Armory &font_end;or a powerful &font_mana;Spell &font_end;at a &font_mana;Magic &font_end;&font_gold;Shop &font_end;if you want to protect yourself better…&br;&br;And no, I don\'t collect commission for this! Even though my &italic;Uncle &italic_end;works at the &font_bronze;Armory &font_end;and my &italic;Grandma &italic_end;runs the &font_mana;Magic &font_end;&font_gold;Shop&font_end;…</string>
