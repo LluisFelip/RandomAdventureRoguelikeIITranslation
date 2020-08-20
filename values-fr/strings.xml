@@ -3673,14 +3673,14 @@
     <string name="infinity_portal_enter">Cross this &font_portal;Portal &font_end;to go to the beginning of this &font_infinity;Infinity &font_end;(if this even makes sense).</string>
     <string name="cant_cross_this_portal">You can\'t enter this &font_infinity;Infinity &font_end;&font_portal;Portal&font_end;…</string>
 
-    <string name="achievement_name_summoner">Summoner</string>
-    <string name="achievement_desc_summoner">Summon a Monster using a Summoning Stone</string>
+    <string name="achievement_name_summoner">Invocateur</string>
+    <string name="achievement_desc_summoner">Invoquez un monstre à l'aide d'une pierre d'invocation.</string>
 
-    <string name="achievement_name_infinity">Infinity</string>
-    <string name="achievement_desc_infinity">Enter the Infinity for the first time.</string>
+    <string name="achievement_name_infinity">Infini</string>
+    <string name="achievement_desc_infinity">Pénétrez l'Infini pour la première fois.</string>
 
-    <string name="achievement_name_ascend">Ascend</string>
-    <string name="achievement_desc_ascend">Ascend for the first time.</string>
+    <string name="achievement_name_ascend">Ascenssion</string>
+    <string name="achievement_desc_ascend">Faites un ascenssion pour la première fois.</string>
 
     <string name="achievement_name_the_end">Boss Final</string>
     <string name="achievement_name_game_breaker">Game Breaker</string>
