@@ -58,7 +58,7 @@
 
     <string name="about_reddit">RAR II sur Reddit</string>
     <string name="about_title">&line_break;À propos de RAR II</string>
-    <string name="about_text">Ce jeu a été créé avec amour et patience par un développeur ^^ (et des traducteurs :p)&br;&br;Je voudrais bien connaître votre opinion ! N\'hésitez pas à partager votre avis et vos opinions.&br;&br;J\'espère que vous vous amuserez !</string>
+    <string name="about_text">Ce jeu a été créé avec amour et patience par un développeur ^^ (aidé de traducteurs :p)&br;&br;J'aimerais bien savoir ce que vous pensez du jeu ! N\'hésitez pas à partager votre avis ou suggestions.&br;&br;J\'espère que vous vous amuserez !</string>
     <string name="about_twitter">Archison sur Twitter</string>
     <string name="about_discord">RAR II sur Discord</string>
 
@@ -484,8 +484,8 @@
     <string name="tile_type_forest">Forêt</string>
     <string name="tile_type_mountain">Montagne</string>
     <string name="tile_type_icy_mountain">Montagne glacée</string>
-    <string name="tile_type_cave">Cave</string>
-    <string name="tile_type_green_cave">Cave verte</string>
+    <string name="tile_type_cave">Caverne</string>
+    <string name="tile_type_green_cave">Caverne verdâtre</string>
     <string name="tile_type_desert">Désert</string>
     <string name="tile_type_cloud">Nuage</string>
     <string name="tile_type_heaven">Paradis</string>
@@ -2451,8 +2451,8 @@
     <string name="achievement_desc_full_equip">Porte tous les types de pièces d\'armure, maniant une épée et un bouclier</string>
     <string name="achievement_desc_traveller">Voyage à une nouvelle île pour la première fois</string>
     <string name="achievement_desc_willy_fog">Découvre 80 îles en une seule partie</string>
-    <string name="achievement_desc_explorer">Explore complètement une île pour la première fois</string>
-    <string name="achievement_desc_completionist">Explore complètement 10 îles en une seule partie</string>
+    <string name="achievement_desc_explorer">Explore entièrement une île pour la première fois</string>
+    <string name="achievement_desc_completionist">Explore entièrement 10 îles en une seule partie</string>
     <string name="achievement_desc_isnt_it_cute">Capture your first pet</string>
     <string name="achievement_desc_pet_collector">Capture 10 familiers en une seule partie</string>
     <string name="achievement_desc_pet_master">Capture 100 familiers en une seule partie</string>
@@ -2491,7 +2491,7 @@
     <string name="achievement_desc_dont_touch_this">Refuse d\'ouvrir le Coffre d\'Argent du Temple</string>
     <string name="achievement_desc_my_treasure">Ouvre le Coffre d\'Argent du Temple</string>
     <string name="achievement_desc_mimic">Ouvre un coffre mimique</string>
-    <string name="achievement_desc_curiousity_killed_the_cat">Accède à la section \'À propos\' du menu principal</string>
+    <string name="achievement_desc_curiousity_killed_the_cat">Accède à la section \« À propos \» du menu principal</string>
     <string name="achievement_desc_dissimulate">Efface les corps du cimitière</string>
     <string name="achievement_desc_mainstory_no_permadeath">Complète le mode Histoire pour la première fois en mode Mort Non Permanente</string>
     <string name="achievement_desc_mainstory_permadeath">Complète le mode Histoire pour la première fois en mode Mort Permanente</string>
@@ -2509,7 +2509,7 @@
     <string name="quest_bring_animal_text_bring">Avez-vous trouvé le &font_animal;%1$s&font_end; ? Montrez-le moi !</string>
 
     <string name="tile_content_type_island_map">&font_gold;Carte de&font_end;&font_cyan;l\'île&font_end;</string>
-    <string name="item_info_island_map">Ustilise cette &font_gold;Carte de&font_end;&font_cyan;l\'île&font_end; pour regarder la carte de l\'île sans avoir besoin de l\'explorer complètement.&br;&br;(Tu devras explorer l\'île si tu veux la completer à 100 %.)</string>
+    <string name="item_info_island_map">Ustilise cette &font_gold;Carte de&font_end;&font_cyan;l\'île&font_end; pour regarder la carte de l\'île sans avoir besoin de l\'explorer entièrement.&br;&br;(Tu devras explorer l\'île si tu veux la completer à 100 %.)</string>
     <string name="island_map_island_name">(&font_cyan;%1$s&font_end;)</string>
 
     <string name="settings_change_language_title">Changer de langue</string>
@@ -2651,9 +2651,9 @@
     <string name="cemetery_cleared">Cimetière vidé !</string>
     <string name="achievements_cleared">Succès éffacés !</string>
 
-    <string name="button_unfold_output_text">Montrer bouton texte de sortie</string>
-    <string name="settings_map_controls">Montrer boutons minimap</string>
-    <string name="settings_output_controls">Montrer bouton de sortie</string>
+    <string name="button_unfold_output_text">Afficher bouton texte de sortie</string>
+    <string name="settings_map_controls">Afficher boutons minimap</string>
+    <string name="settings_output_controls">Afficher bouton de sortie</string>
     <string name="forget_crafting_recipe_title">Oublier la recette de fabrication ?</string>
     <string name="forget_crafting_recipe_message">Voulez-vous oublier comment fabriquer %1$s ?</string>
 
@@ -3060,7 +3060,7 @@
 
     <string name="yang_amulet">Amulette &font_white;Yang&font_end;</string>
 
-    <string name="settings_show_main_stats">Montrer stats principales</string>
+    <string name="settings_show_main_stats">Afficher stats principales</string>
 
     <string name="ranged_weapon_type_bow">&font_speed;Arc&font_end;</string>
     <string name="ranged_weapon_type_crossbow">&font_speed;Arbalète&font_end;</string>
@@ -3390,7 +3390,7 @@
     <string name="void_merchant_message_have">Oh mon &font_void;néant&font_end;… ! Merci… Comme promis, voici pour toi…</string>
     <string name="void_merchant_message_have_2">Reviens me voir si tu en trouves à nouveau…</string>
 
-    <string name="settings_show_gold_on_top">Afficher or en haut</string>
+    <string name="settings_show_gold_on_top">Afficher l'or en haut</string>
     <string name="skill_whip_mastery">Maîtrise du &font_void;fouet&font_end;</string>
     <string name="skill_whip_mastery_desc">Attaquer avec un &font_void;fouet &font_end;en combat débloque les compétences de combat du &font_void;fouet&font_end;.</string>
     <string name="weapon_type_whip">&font_void;Fouet&font_end;</string>
@@ -3451,7 +3451,7 @@
         !</string>
     <string name="purifying_tree_text_completely_purified_label">{ &font_purifying;* Purifiée *&font_end;}</string>
     <string name="tile_type_water">Eau</string>
-    <string name="settings_show_squares_map">Montre les tuiles sur la carte</string>
+    <string name="settings_show_squares_map">Afficher les tuiles sur la carte</string>
 
     <string name="island_remove_mark">Enlever Marque</string>
     <string name="island_remove_text">Enlever Info</string>
@@ -3479,7 +3479,7 @@
     <string name="merchant_quest_quit_description">&font_gold;%1$s&font_end; à &font_cyan;%2$d&font_end;, &font_cyan;%3$d &font_end;vous a demandé de ramener &font_cyan;%4$d &font_end;%5$s.</string>
 
     <string name="content_description_arrow_to_unfold">Flèche pour dérouler</string>
-    <string name="settings_show_hero_icon">Montrer icône héros</string>
+    <string name="settings_show_hero_icon">Afficher icône héros</string>
     <string name="pets_combat_is_dead">%s ne peut pas attaquer car il est mort !</string> 
     <string name="pets_combat_died">%s est mort !</string>
     <string name="pets_combat_received_damage">Votre %1$s a reçu &font_red;%2$d &font_end;dégâts !</string>
@@ -3699,13 +3699,13 @@
     <string name="title_the_ender_female">%1$s, l'&font_legendary;Ender&font_end;</string>
     <string name="title_the_ender_no_gender">%1$s, l'&font_legendary;Ender&font_end;</string>
 
-    <string name="settings_show_pet_in_combat">Montrer Compagnon en Combat</string>
-    <string name="settings_show_progress_bars">Montrer Barres Progression</string>
+    <string name="settings_show_pet_in_combat">Afficher compagnon en combat</string>
+    <string name="settings_show_progress_bars">Afficher barres de progression</string>
 
     <string name="wise_have_in_void_island">Oh vous êtes là ! Vous devriez faire attention… Les créatures sont plus dangereuses ici… Et un être surpuissant t'attend au tournant…</string>
 
     <string name="void_master_after_killing_text_3_new">Eh bien… Vous portez un set complet du &font_void;néant&font_end;… Tenez, prenez ça… Vous saurez quoi en faire… À très bientôt…</string>
-    <string name="settings_show_double_space_map">Double Espace sur Carte</string>
+    <string name="settings_show_double_space_map">Double espace sur la carte</string>
 
     <string name="young_child_extra_advice_1">Oh, OK… Eh bien, vu comme tu as l'air perdu, laisse moi te donner un conseil…&br;&br;Si j'étais toi, j'éviterais d'engager le combat avec des monstres trop haut niveau pour moi.</string>
     <string name="young_child_extra_advice_2">Si j'étais toi, je me fournirais en &font_cyan;équipement &font_end;à une &font_bronze;Armurerie &font_end;ou en puissants &font_mana;sorts &font_end;à une &font_gold;Boutique &font_end;de &font_mana;magie &font_end;afin de mieux pouvoir me protéger…&br;&br;Et non, je ne suis pas payé pour te dire ça ! Bien que mon &italic;oncle &italic_end;travaille à l'&font_bronze;Armurerie &font_end;et ma &italic;grand-mère &italic_end;se charge de la &font_gold;Boutique &font_end;de &font_mana;magie&font_end;…</string>
@@ -3740,7 +3740,7 @@
     <string name="action_treasure_hunter_action_description">&font_cyan;Chasser&font_end; &font_chest;trésors&font_end;</string>
 
     <string name="action_contractor_action_description">&font_cyan;Détecter&font_end; &font_cyan;quêtes&font_end;</string>
-    <string name="settings_show_coordinates_below">Montrer Coordonnées Dessous</string>
+    <string name="settings_show_coordinates_below">Afficher coordonnées dessous</string>
 
     <string name="skill_mana_eyes_description">Permet de voir le &font_mana;mana &font_end;du &font_red;monstre &font_end;en combat.</string>
     <string name="skill_mana_eyes">&font_mushroom;Yeux &font_end;de &font_mana;mana&font_end;</string>
