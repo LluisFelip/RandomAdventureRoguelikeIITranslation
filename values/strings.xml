@@ -1553,8 +1553,8 @@
     <string name="pets_rename_pet_message">Choose the new name for your %1$s!</string>
     <string name="pets_rename_pet_success">You renamed %1$s! Nice!</string>
     <string name="pets_list">Pets List</string>
-    <string name="pets_abandon_pet_message">Are you sure you want to abandon %1$s? It will disappear &italic;forever&italic_end;…</string>
-    <string name="pets_abandon_pet_abandoned_message">You abandoned %1$s… Farewell…</string>
+    <string name="pets_abandon_pet_message">Are you sure you want to release %1$s? It will disappear &italic;forever&italic_end;…</string>
+    <string name="pets_abandon_pet_abandoned_message">You released %1$s… Farewell…</string>
 
     <string name="text_player_experience_given">You gained &font_cyan;%1$d &font_end;experience!</string>
     <string name="text_pet_experience_given">%1$s gained &font_cyan;%2$d &font_end;experience!</string>
