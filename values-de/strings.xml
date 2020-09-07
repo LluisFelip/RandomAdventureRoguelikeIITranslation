@@ -1115,7 +1115,7 @@
     <string name="quest_find_lost_item_item_name_040" tools:ignore="UnusedResources">der Schuh einer Prinzessin</string>
     <string name="quest_find_lost_item_item_name_041" tools:ignore="UnusedResources">ein ausgefallenes Kleid</string>
     <string name="quest_find_lost_item_item_name_042" tools:ignore="UnusedResources">eine tüte Snacks</string>
-    <string name="quest_find_lost_item_item_name_043" tools:ignore="UnusedResources">ein Lachsack/string>
+    <string name="quest_find_lost_item_item_name_043" tools:ignore="UnusedResources">ein Lachsack</string>
     <string name="quest_find_lost_item_item_name_044" tools:ignore="UnusedResources">eine empfindliche Vase</string>
     <string name="quest_find_lost_item_item_name_045" tools:ignore="UnusedResources">eine Nagelfeile</string>
     <string name="quest_find_lost_item_item_name_046" tools:ignore="UnusedResources">Kreide</string>
@@ -1142,7 +1142,7 @@
     <string name="quest_find_lost_item_item_name_067" tools:ignore="UnusedResources">eine Vogelstatue</string>
     <string name="quest_find_lost_item_item_name_068" tools:ignore="UnusedResources">ein Kuchen</string>
     <string name="quest_find_lost_item_item_name_069" tools:ignore="UnusedResources">ein Reißverschluss</string>
-    <string name="quest_find_lost_item_item_name_070" tools:ignore="UnusedResources">eine Elegante Bluse/string>
+    <string name="quest_find_lost_item_item_name_070" tools:ignore="UnusedResources">eine Elegante Bluse</string>
     <string name="quest_find_lost_item_item_name_071" tools:ignore="UnusedResources">eine Sonnenuhr</string>
 
     <string name="quest_bring_items_text_giving">Ich brauche %1$s %2$s…</string>

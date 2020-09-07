@@ -58,7 +58,7 @@
 
     <string name="about_reddit">RAR II sur Reddit</string>
     <string name="about_title">&line_break;À propos de RAR II</string>
-    <string name="about_text">Ce jeu a été créé avec amour et patience par un développeur ^^ (aidé de traducteurs :p)&br;&br;J'aimerais bien savoir ce que vous pensez du jeu ! N\'hésitez pas à partager votre avis ou suggestions.&br;&br;J\'espère que vous vous amuserez !</string>
+    <string name="about_text">Ce jeu a été créé avec amour et patience par un développeur ^^ (aidé de traducteurs :p)&br;&br;J\'aimerais bien savoir ce que vous pensez du jeu ! N\'hésitez pas à partager votre avis ou suggestions.&br;&br;J\'espère que vous vous amuserez !</string>
     <string name="about_twitter">Archison sur Twitter</string>
     <string name="about_discord">RAR II sur Discord</string>
 
@@ -903,7 +903,7 @@
 
 
     <string name="merchants_title">&font_gold;Marchands &font_end;(&font_gold;%1$d&font_end;)</string>
-    <string name="merchant_text_you_have_no_merchants_right_now">Vous n'avez pour le moment rencontré aucun marchand…</string>
+    <string name="merchant_text_you_have_no_merchants_right_now">Vous n\'avez pour le moment rencontré aucun marchand…</string>
     <string name="merchant_quest_description">&font_gold;%1$s&font_end;
         à &font_cyan;%2$d&font_end;, &font_cyan;%3$d &font_end;vous a demandé de ramener&font_cyan;%4$d &font_end;%5$s. Vous possédez en ce moment %6$s. [&font_cyan;%7$s&font_end;]</string>
 
@@ -1210,8 +1210,8 @@
     <string name="skills_title">Compétences</string>
     <string name="skills_skill_learnt">Vous avez appris la compétence de %1$s !</string>
     <string name="skills_tree_title">Arbre de compétences (&font_cyan;%1$d&font_end; Point de Compétence)</string>
-    <string name="skills_empty_message">Vous n'avez encore aucune &font_cyan;Compétence&font_end;…</string>
-    <string name="skills_empty_tree_message">Vous n'avez aucune &font_cyan;Compétence&font_end; à apprendre…</string>
+    <string name="skills_empty_message">Vous n\'avez encore aucune &font_cyan;Compétence&font_end;…</string>
+    <string name="skills_empty_tree_message">Vous n\'avez aucune &font_cyan;Compétence&font_end; à apprendre…</string>
     <string name="skills_necessary_skill_text">Compétence nécessaire : &font_cyan;%1$s&font_end;</string>
 
     <string name="action_search">&font_cyan;Chercher&font_end;</string>
@@ -1281,7 +1281,7 @@
     <string name="action_contractor_pending_amount">Il y a &font_cyan;%d&font_end; &font_cyan;quêtes &font_end;disponibles sur l\'île.</string>
 
     <string name="skill_sense_theres_something_hidden_here">Vous détectez quelque chose de caché dans le coin…</string>
-    <string name="skill_search_found_nothing">Vous n'avez rien trouvé…</string>
+    <string name="skill_search_found_nothing">Vous n\'avez rien trouvé…</string>
 
     <string name="weapon_skill_sword_horizontal_name">&font_skill_attack;Slash horizontal&font_end;</string>
     <string name="weapon_skill_sword_horizontal_desc">Découpe l\'ennemi horizontalement.</string>
@@ -1420,10 +1420,10 @@
     <string name="weapon_skill_mace_magic_strike_attack">Vous chargez votre masse de mana et chargez !</string>
     <string name="weapon_skill_mace_healing_stroke_name">&font_skill_attack;Assaut régénérateur&font_end;</string>
     <string name="weapon_skill_mace_healing_stroke_desc">Absorbe la vie de l\'ennemi.</string>
-    <string name="weapon_skill_mace_healing_stroke_attack">Vous absorbez la vie de l'ennemi !</string>
+    <string name="weapon_skill_mace_healing_stroke_attack">Vous absorbez la vie de l\'ennemi !</string>
     <string name="weapon_skill_mace_steal_magic_name">&font_skill_attack;Drainage magique&font_end;</string>
     <string name="weapon_skill_mace_steal_magic_desc">Absorbe la mana de l\'opposant.</string>
-    <string name="weapon_skill_mace_steal_magic_attack">Vous absorbez le mana de l'ennemi !</string>
+    <string name="weapon_skill_mace_steal_magic_attack">Vous absorbez le mana de l\'ennemi !</string>
     <string name="weapon_skill_mace_contussion_name">&font_skill_attack;Contusion&font_end;</string>
     <string name="weapon_skill_mace_contussion_desc">Blesse gravement l\'ennemi.</string>
     <string name="weapon_skill_mace_contussion_attack">Vous blessez gravement l\'ennemi !</string>
@@ -1445,9 +1445,9 @@
     <string name="pets_attacked">%1$s a attaqué !</string>
     <string name="pets_pet_action">%1$s a utilisé sa compétence &font_red;%2$s&font_end;</string>
     <string name="pets_text_pet_dealt_damage_to_monster">%1$s génère %2$s &font_red;%3$d &font_end;de dégâts !</string>
-    <string name="pets_combat_dont_have_an_active_pet">Vous n'avez aucun &font_pet;familier actif&font_end;</string>
+    <string name="pets_combat_dont_have_an_active_pet">Vous n\'avez aucun &font_pet;familier actif&font_end;</string>
     <string name="pets_text_pet_level_up_to_level">%1$s est maintenant niveau %2$d</string>
-    <string name="pets_empty_message">Vous n'avez aucun &font_pet;Familier&font_end;…</string>
+    <string name="pets_empty_message">Vous n\'avez aucun &font_pet;Familier&font_end;…</string>
     <string name="pets_rename_pet">Renommer ton familier</string>
     <string name="pets_rename_pet_message">Choisis un nouveau nom pour ton familier %1$s !</string>
     <string name="pets_rename_pet_success">Vous l\'avez renommé %1$s ! Super !</string>
@@ -1621,7 +1621,7 @@
     <string name="merchant_dialog_text">Avez-vous rapporté &font_cyan;%1$d&font_end;
         &lt;font color=\"%2$s\"&gt;%3$s &font_end;pour moi ?</string>
     <string name="merchant_giving_merchant_quest_message">Bonjour! Je recherche &font_cyan;%1$d &font_end;&lt;font color=\"%2$s\"&gt;%3$s&font_end;. Pourrais-tu m\'en apporter ? Je te donnerai quelque chose de très spécial en échange.</string>
-    <string name="merchant_not_enough_materials">Vous n'avez pas assez d\'ingrédients…</string>
+    <string name="merchant_not_enough_materials">Vous n\'avez pas assez d\'ingrédients…</string>
     <string name="merchant_you_receive_the_merchants_mark">Vous recevez la Marque du Marchand &font_cyan;#%1$d&font_end;
         !</string>
     <string name="merchant_dialog_text_mark_given">Tu m\'as déjà donné ce dont j\'avais besoin, merci !</string>
@@ -1726,10 +1726,10 @@
         ?</string>
     <string name="bar_not_hungry">Déjà rassasié…</string>
     <string name="bar_ate_at_the">Vous avez mangé dans le %1$s.</string>
-    <string name="bar_not_enough_gold">Vous n'avez pas assez d\'or pour manger dans le %1$s.</string>
-    <string name="not_enough_gold">Vous n'avez pas assez d\'or…</string>
+    <string name="bar_not_enough_gold">Vous n\'avez pas assez d\'or pour manger dans le %1$s.</string>
+    <string name="not_enough_gold">Vous n\'avez pas assez d\'or…</string>
     <string name="abandoned_house_text_question_enter_the">Entrer dans la %1$s ?</string>
-    <string name="abandoned_house_you_find_nothing_in_the_">Vous n'avez rien trouvé dans la %1$s…</string>
+    <string name="abandoned_house_you_find_nothing_in_the_">Vous n\'avez rien trouvé dans la %1$s…</string>
     <string name="portal_enter_mysterious_portal">Il y a un &font_portal;portail&font_end;
         plutôt mystérieux… Le passer ?</string>
     <string name="portal_teleported_to_x_y">Vous avez été téléporté en &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end;
@@ -1740,7 +1740,7 @@
     <string name="guard">Garde</string>
     <string name="guard_start_dialog">Jm\'en vais ramener cet &font_cyan;Esclave&font_end; au chateau pour l\'exécuter, dégage ou tu vas goûter au fer de mon épé !</string>
     <string name="troll_pay_or_fight" tools:ignore="PluralsCandidate">Chui %1$s ! Ce pont est mien ! Si tu a envie que tu passe dans le pont, paye avec &font_gold;%2$d d\'or&font_end;, ou meuuurt !</string>
-    <string name="troll_not_enough_gold">Vous n'avez pas assez &font_gold;d\'or&font_end;! Le %1$s t\'attaque !</string>
+    <string name="troll_not_enough_gold">Vous n\'avez pas assez &font_gold;d\'or&font_end;! Le %1$s t\'attaque !</string>
     <string name="troll_leaves_happily_with_your_money">%1$s gambade ailleurs avec son or fraîchement acquis…</string>
     <string name="explorer_you_dont_have_the_necessary_island_soul" tools:ignore="UnusedResources">Vous ne possèdez pas la bonne &font_cyan;Âme de l\'Île&font_end;…</string>
     <string name="explorer_im_looking_for_an_island_soul">Salut ! Je suis un explorateur passionné. Je recherche un %1$s ! S\'il t\'arrivait de trouver cet objet, pourrais-tu me l\'apporter ?&br;&br;Je te donnerais un item &font_cyan;spécial &font_end;en échange !</string>
@@ -2020,8 +2020,8 @@
     <string name="spell_electricstorm_desc_combat">Vous invoquez un &font_electric;orage &font_end;très puissant sur %1$s ! %2$s reçoit &font_red;%3$d &font_end;de dégâts.</string>
     <string name="spell_capture_monster_name">&font_pet;Capturer&font_end; de &font_red;Monstre&font_end;</string>
     <string name="spell_capture_monster_desc">Tentative de &font_pet;capturer &font_end;l\'adversaire afin de le ralier à votre cause, il deviendra un &font_pet;familier&font_end;. Plus le niveau de cette compétence est élevé, plus vous avez de chance de le capturer.</string>
-    <string name="spell_capture_monster_combat_success">&font_green;Succès&font_end; ! %1$s vous rejoindra après que vous l'ayez vaincu.</string>
-    <string name="spell_capture_monster_combat_fail">Raté ! Vous n'avez pas pu &font_pet;capturer &font_end;%1$s.</string>
+    <string name="spell_capture_monster_combat_success">&font_green;Succès&font_end; ! %1$s vous rejoindra après que vous l\'ayez vaincu.</string>
+    <string name="spell_capture_monster_combat_fail">Raté ! Vous n\'avez pas pu &font_pet;capturer &font_end;%1$s.</string>
     <string name="spell_calmmonster_name">&font_pet;Tranquilisant&font_end;</string>
     <string name="spell_calmmonster_desc">Essayez de &font_pet;calmer &font_end;un &font_red;monstre &font_end;pour faciliter sa &font_pet;capture &font_end;. Ça permet aussi de &font_cyan;fuir&font_end;
         plus facilement.</string>
@@ -2101,7 +2101,7 @@
     <string name="player_waits">Vous attendez…</string>
     <string name="select_island_discover_new_island">Nouvelle Île découverte !</string>
     <string name="select_island_title">Sélection de l\'île</string>
-    <string name="text_select_island_empty_message">Vous n'avez toujours pas exploré d\'autres îles…</string>
+    <string name="text_select_island_empty_message">Vous n\'avez toujours pas exploré d\'autres îles…</string>
     <string name="text_arrived_at">Vous débarquez à &font_cyan;%1$s&font_end; !</string>
     <string name="tile_unexplored">Inexploré</string>
     <string name="text_cant_swim_in_deep_ocean">Impossible de nager dans &font_blue;l\'Océan Profond&font_end;…</string>
@@ -2186,7 +2186,7 @@
         du &font_red;Tyran&font_end; et tue-le !</string>
     <string name="main_story_7_advice_before_sail_title">Voyager à &font_cyan;l\'Île &font_end; du &font_red;Tyran&font_end;
         ?</string>
-    <string name="main_story_7_advice_before_sail_message">Vous êtes sûr ? Il se pourrait que vous n'y reveniez jamais…</string>
+    <string name="main_story_7_advice_before_sail_message">Vous êtes sûr ? Il se pourrait que vous n\'y reveniez jamais…</string>
     <string name="monster_thetyrant">Le Tyran</string>
     <string name="main_story_7_the_tyrant_message_1">S\'il vous plaît, arrêtez ! Je me rends !</string>
     <string name="main_story_7_the_tyrant_message_2">Je ne faisais que suivre des ordres… Il… il m\'a dit qu\'il me tuerait si je ne suivais pas ses ordres…</string>
@@ -2219,7 +2219,7 @@
     <string name="main_story_8_corrupted_god_pre_combat_message_2">Laisse-moi te dire une chose avant que je t\'écrase tel un insecte…</string>
     <string name="main_story_8_corrupted_god_pre_combat_message_3">Il y a un nombre d\' &font_hell;Enfers &font_end;et de &font_heaven;Paradis&font_end;
         infini, et des dimensions infinies…</string>
-    <string name="main_story_8_corrupted_god_pre_combat_message_4">Tout n'est qu'un jeu d\'échecs &font_corrupted_god;Divin&font_end;… Il n\'y a pas d\'espoir pour des mortels tels que toi.</string>
+    <string name="main_story_8_corrupted_god_pre_combat_message_4">Tout n\'est qu\'un jeu d\'échecs &font_corrupted_god;Divin&font_end;… Il n\'y a pas d\'espoir pour des mortels tels que toi.</string>
     <string name="main_story_8_corrupted_god_pre_combat_message_5">Vous tous, les héros, vous essayez tellement dur de \«sauver le monde\»… C\'est une cause perdue, car il y aura toujours un Dieu avec un pouvoir véritable… TU es une cause perdue…</string>
     <string name="main_story_8_corrupted_god_pre_combat_message_6">Alors… Je pense qu\'il est temps… QUE CELA S\'ARRÊTE !</string>
     <string name="main_story_9_corrupted_god_message_1">Oh non… Je… Je ne comprends pas… Comment est-ce possible ? Est-ce que… Serais-tu… ? Non… ce n\'est pas possible…</string>
@@ -3390,7 +3390,7 @@
     <string name="void_merchant_message_have">Oh mon &font_void;néant&font_end;… ! Merci… Comme promis, voici pour toi…</string>
     <string name="void_merchant_message_have_2">Reviens me voir si tu en trouves à nouveau…</string>
 
-    <string name="settings_show_gold_on_top">Afficher l'or en haut</string>
+    <string name="settings_show_gold_on_top">Afficher l\'or en haut</string>
     <string name="skill_whip_mastery">Maîtrise du &font_void;fouet&font_end;</string>
     <string name="skill_whip_mastery_desc">Attaquer avec un &font_void;fouet &font_end;en combat débloque les compétences de combat du &font_void;fouet&font_end;.</string>
     <string name="weapon_type_whip">&font_void;Fouet&font_end;</string>
@@ -3581,14 +3581,14 @@
 
         &br;* Votre &font_attack;attaque &font_end;de base est désormais de &font_attack;%5$d&font_end; &br;* Votre &font_defense;défense &font_end;de base est désormais de &font_defense;%6$d&font_end; &br;* Votre &font_mana;intelligence &font_end;max. est désormais de &font_mana;%7$d&font_end; &br;* Votre &font_speed;vitesse &font_end;max. est désormais de &font_speed;%8$d&font_end;
 
-        &br;* Vous démarrez avec &font_gold;%9$d pièces d'or&font_end; &br;* Vous démarrez avec &font_cyan;%10$d &font_end;&font_cyan;Points de Compétence&font_end; &br;&br;Bonne chance dans vos nouvelles aventures,&br;%11$s !
+        &br;* Vous démarrez avec &font_gold;%9$d pièces d\'or&font_end; &br;* Vous démarrez avec &font_cyan;%10$d &font_end;&font_cyan;Points de Compétence&font_end; &br;&br;Bonne chance dans vos nouvelles aventures,&br;%11$s !
     </string>
 
     <string name="monster_action_break_reality">Brisage de réalité</string>
     <string name="monster_action_discord_spam">Spam Discord</string>
 
     <string name="monster_action_translate_reality">Traduction de réalité</string>
-    <string name="monster_action_anime_transformation">Transformation d'anime</string>
+    <string name="monster_action_anime_transformation">Transformation d\'anime</string>
 
     <string name="monster_action_sleep_deprivation">Manque de sommeil</string>
     <string name="monster_action_infinity_test">Test interminable</string>
@@ -3596,7 +3596,7 @@
     <string name="monster_action_infinity_donation">Donations infinies</string>
     <string name="monster_action_infinity_patreon">Patreon infini</string>
 
-    <string name="monster_action_island_spam">Spam d'îles</string>
+    <string name="monster_action_island_spam">Spam d\'îles</string>
         <string name="monster_action_infinite_islands">Îles infinies</string>
 
     <string name="monster_action_infinity_email">Emails infinis</string>
@@ -3617,32 +3617,32 @@
     <string name="tool_skinning_knife_infinite">Couteau à &font_skin;dépeçer &font_end;&font_infinity;infini&font_end;</string>
     <string name="tool_meat_cleaver_infinite">Couperet à &font_blood;viande &font_end;&font_infinity;infini&font_end;</string>
 
-    <string name="tile_content_type_summoning_stone">&font_stone;Pierre &font_end;d'&font_void;invocation&font_end;</string>
+    <string name="tile_content_type_summoning_stone">&font_stone;Pierre &font_end;d\'&font_void;invocation&font_end;</string>
 
     <string name="item_jade_amulet">Amulette de &font_jade;jade&font_end;</string>
     <string name="item_serpentine_amulet">Amulette de &font_serpentine;serpentinite&font_end;</string>
     <string name="item_sodalite_amulet">Amulette de &font_sodalite;sodalite&font_end;</string>
     <string name="item_saphir_amulet">Amulette de &font_saphir;saphire&font_end;</string>
-    <string name="item_aragonite_amulet">Amulette d'&font_aragonite;aragonite&font_end;</string>
+    <string name="item_aragonite_amulet">Amulette d\'&font_aragonite;aragonite&font_end;</string>
     <string name="item_jasper_amulet">Amulette de &font_jasper;jaspe&font_end;</string>
     <string name="item_ruby_amulet">Amulette de &font_ruby;rubis&font_end;</string>
-    <string name="item_onyx_amulet">Amulette d'&font_onyx;onyx&font_end;</string>
+    <string name="item_onyx_amulet">Amulette d\'&font_onyx;onyx&font_end;</string>
     <string name="item_quartz_amulet">Amulette de &font_quartz;quartz&font_end;</string>
     <string name="item_pearl_amulet">Amulette de &font_pearl;perle&font_end;</string>
 
-    <string name="item_emerald_ring">Anneau d'&font_emerald;émeraude&font_end;</string>
+    <string name="item_emerald_ring">Anneau d\'&font_emerald;émeraude&font_end;</string>
     <string name="item_jade_ring">Anneau de &font_jade;jade&font_end;</string>
     <string name="item_serpentine_ring">Anneau de &font_serpentine;serpentinite&font_end;</string>
     <string name="item_sodalite_ring">Anneau de &font_sodalite;sodalite&font_end;</string>
     <string name="item_saphir_ring">Anneau de &font_saphir;saphire&font_end;</string>
-    <string name="item_aragonite_ring">Anneau d'&font_aragonite;aragonite&font_end;</string>
+    <string name="item_aragonite_ring">Anneau d\'&font_aragonite;aragonite&font_end;</string>
     <string name="item_jasper_ring">Anneau de &font_jasper;jaspe&font_end;</string>
     <string name="item_ruby_ring">Anneau de &font_ruby;rubis&font_end;</string>
-    <string name="item_onyx_ring">Anneau d'&font_onyx;onyx&font_end;</string>
+    <string name="item_onyx_ring">Anneau d\'&font_onyx;onyx&font_end;</string>
     <string name="item_quartz_ring">Anneau de &font_quartz;quartz&font_end;</string>
     <string name="item_pearl_ring">Anneau de &font_pearl;perle&font_end;</string>
 
-    <string name="item_info_summoning_stone">Utilisez cette &font_stone;Pierre &font_end;d'&font_void;invocation&font_end;pour invoquer un &font_void;monstre &font_end;aléatoire !</string>
+    <string name="item_info_summoning_stone">Utilisez cette &font_stone;Pierre &font_end;d\'&font_void;invocation&font_end;pour invoquer un &font_void;monstre &font_end;aléatoire !</string>
 
     <string name="stats_extra_inc_attack">&font_attack;Att&font_end;. augmentée : &font_attack;%d&font_end;</string>
     <string name="stats_extra_inc_defense">&font_defense;Déf&font_end;. augmentée: &font_defense;%d&font_end;</string>
@@ -3652,63 +3652,63 @@
     <string name="increases_max_health">&br;&br;Augmente la &font_health;vie &font_end;maximum.</string>
     <string name="increases_max_mana">&br;&br;Augmente le &font_mana;mana &font_end;maximum.</string>
     <string name="increases_max_hunger">&br;&br;Augmente la &font_hunger;faim &font_end;maximum.</string>
-    <string name="increases_base_attack">&br;&br;Augmente l'&font_attack;attaque &font_end;de &font_cyan;base&font_end;.</string>
+    <string name="increases_base_attack">&br;&br;Augmente l\'&font_attack;attaque &font_end;de &font_cyan;base&font_end;.</string>
     <string name="increases_base_defense">&br;&br;Augmente la &font_defense;défense &font_end;de &font_cyan;base&font_end;.</string>
     <string name="increases_base_speed">&br;&br;Augmente la &font_speed;vitesse &font_end;de &font_cyan;base&font_end;.</string>
-    <string name="increases_base_intelligence">&br;&br;Augmente l'&font_mana;intelligence &font_end;de &font_cyan;base&font_end;.</string>
+    <string name="increases_base_intelligence">&br;&br;Augmente l\'&font_mana;intelligence &font_end;de &font_cyan;base&font_end;.</string>
 
     <string name="summoning_monster">&font_void;Invocation &font_end;du &font_red;monstre&font_end;…</string>
     <string name="summoned_monster">… %1$s &font_void;invoqué&font_end; !</string>
-    <string name="cant_summon_if_theres_a_monster_nearby">Impossible d'&font_void;invoquer &font_end;un &font_red;monstre &font_end;s'il y a déjà un &font_red;monstre &font_end;dans les parages…</string>
-    <string name="scrap_from_inventory_message">Vous avez une &font_red;Flamme &font_end;de l\'&asterisk_ascend_color;Ascension&font_end;, vous pouvez donc &font_iron;ferailler &font_end;vos pièces d'équipement.&br;&br;Voulez-vous &font_iron;ferailer &font_end;%1$s ?</string>
+    <string name="cant_summon_if_theres_a_monster_nearby">Impossible d\'&font_void;invoquer &font_end;un &font_red;monstre &font_end;s\'il y a déjà un &font_red;monstre &font_end;dans les parages…</string>
+    <string name="scrap_from_inventory_message">Vous avez une &font_red;Flamme &font_end;de l\'&asterisk_ascend_color;Ascension&font_end;, vous pouvez donc &font_iron;ferailler &font_end;vos pièces d\'équipement.&br;&br;Voulez-vous &font_iron;ferailer &font_end;%1$s ?</string>
 
     <string name="button_scrap_inventory">Ferailler</string>
     <string name="button_drop_reduced">Jeter</string>
 
     <string name="tile_content_type_monster_trophy">&font_gold;Trophée &font_end;de &font_red;monstre&font_end;</string>
     <string name="monster_trophy_name">&font_gold;Trophée &font_end;de %1$s [&font_cyan;%2$d&font_end;]</string>
-    <string name="item_info_monster_trohpy_info">C'est un &font_gold;trophée &font_end;de %1$s, obtenu pour avoir tué un %1$s niveau &font_cyan;%2$d&font_end; !</string>
+    <string name="item_info_monster_trohpy_info">C\'est un &font_gold;trophée &font_end;de %1$s, obtenu pour avoir tué un %1$s niveau &font_cyan;%2$d&font_end; !</string>
     <string name="tile_content_type_infinity_portal">&font_infinity;Infinity &font_end;&font_portal;Portal&font_end;</string>
     <string name="infinity_portal_info">Utilisez cela pour créer un &font_portal;portail &font_end;menant au début de cet &font_infinity;Infini &font_end;(allez trouver un sens à cette phrase).</string>
     <string name="infinity_portal_enter">Pénétrez ce &font_portal;portail &font_end;pour retourner au début de cet &font_infinity;Infini &font_end;(allez trouver un sens à cette phrase).</string>
-    <string name="cant_cross_this_portal">Vous ne pouvez pas pénétrer ce &font_portal;portail &font_end;de l'&font_infinity;Infini&font_end;…</string>
+    <string name="cant_cross_this_portal">Vous ne pouvez pas pénétrer ce &font_portal;portail &font_end;de l\'&font_infinity;Infini&font_end;…</string>
 
     <string name="achievement_name_summoner">Invocateur</string>
-    <string name="achievement_desc_summoner">Invoquez un monstre à l'aide d'une pierre d'invocation.</string>
+    <string name="achievement_desc_summoner">Invoquez un monstre à l\'aide d\'une pierre d\'invocation.</string>
 
     <string name="achievement_name_infinity">Infini</string>
-    <string name="achievement_desc_infinity">Pénétrez l'Infini pour la première fois.</string>
+    <string name="achievement_desc_infinity">Pénétrez l\'Infini pour la première fois.</string>
 
     <string name="achievement_name_ascend">Ascenssion</string>
     <string name="achievement_desc_ascend">Faites un ascenssion pour la première fois.</string>
 
     <string name="achievement_name_the_end">Boss Final</string>
     <string name="achievement_name_game_breaker">Game Breaker</string>
-    <string name="achievement_name_desc_game_breaker">Tuez tous les boss spéciaux de l'Infini</string>
+    <string name="achievement_name_desc_game_breaker">Tuez tous les boss spéciaux de l\'Infini</string>
     <string name="achievement_name_desc_the_end">Tuez le boss final !</string>
 
-    <string name="title_the_summoner_male">%1$s, l'&font_void;Invocateur&font_end;</string>
-    <string name="title_the_summoner_female">%1$s, l'&font_void;Invocatrice&font_end;</string>
-    <string name="title_the_summoner_no_gender">%1$s, l'&font_void;Invocateur&font_end;</string>
+    <string name="title_the_summoner_male">%1$s, l\'&font_void;Invocateur&font_end;</string>
+    <string name="title_the_summoner_female">%1$s, l\'&font_void;Invocatrice&font_end;</string>
+    <string name="title_the_summoner_no_gender">%1$s, l\'&font_void;Invocateur&font_end;</string>
 
     <string name="title_the_game_breaker_male">%1$s, le &font_pink;Game Breaker&font_end;</string>
     <string name="title_the_game_breaker_female">%1$s, la &font_pink;Game Breaker&font_end;</string>
     <string name="title_the_game_breaker_no_gender">%1$s, le &font_pink;Game Breaker&font_end;</string>
 
-    <string name="title_the_ender_male">%1$s, l'&font_legendary;Ender&font_end;</string>
-    <string name="title_the_ender_female">%1$s, l'&font_legendary;Ender&font_end;</string>
-    <string name="title_the_ender_no_gender">%1$s, l'&font_legendary;Ender&font_end;</string>
+    <string name="title_the_ender_male">%1$s, l\'&font_legendary;Ender&font_end;</string>
+    <string name="title_the_ender_female">%1$s, l\'&font_legendary;Ender&font_end;</string>
+    <string name="title_the_ender_no_gender">%1$s, l\'&font_legendary;Ender&font_end;</string>
 
     <string name="settings_show_pet_in_combat">Afficher compagnon en combat</string>
     <string name="settings_show_progress_bars">Afficher barres de progression</string>
 
-    <string name="wise_have_in_void_island">Oh vous êtes là ! Vous devriez faire attention… Les créatures sont plus dangereuses ici… Et un être surpuissant t'attend au tournant…</string>
+    <string name="wise_have_in_void_island">Oh vous êtes là ! Vous devriez faire attention… Les créatures sont plus dangereuses ici… Et un être surpuissant t\'attend au tournant…</string>
 
     <string name="void_master_after_killing_text_3_new">Eh bien… Vous portez un set complet du &font_void;néant&font_end;… Tenez, prenez ça… Vous saurez quoi en faire… À très bientôt…</string>
     <string name="settings_show_double_space_map">Double espace sur la carte</string>
 
-    <string name="young_child_extra_advice_1">Oh, OK… Eh bien, vu comme tu as l'air perdu, laisse moi te donner un conseil…&br;&br;Si j'étais toi, j'éviterais d'engager le combat avec des monstres trop haut niveau pour moi.</string>
-    <string name="young_child_extra_advice_2">Si j'étais toi, je me fournirais en &font_cyan;équipement &font_end;à une &font_bronze;Armurerie &font_end;ou en puissants &font_mana;sorts &font_end;à une &font_gold;Boutique &font_end;de &font_mana;magie &font_end;afin de mieux pouvoir me protéger…&br;&br;Et non, je ne suis pas payé pour te dire ça ! Bien que mon &italic;oncle &italic_end;travaille à l'&font_bronze;Armurerie &font_end;et ma &italic;grand-mère &italic_end;se charge de la &font_gold;Boutique &font_end;de &font_mana;magie&font_end;…</string>
+    <string name="young_child_extra_advice_1">Oh, OK… Eh bien, vu comme tu as l\'air perdu, laisse moi te donner un conseil…&br;&br;Si j\'étais toi, j\'éviterais d\'engager le combat avec des monstres trop haut niveau pour moi.</string>
+    <string name="young_child_extra_advice_2">Si j\'étais toi, je me fournirais en &font_cyan;équipement &font_end;à une &font_bronze;Armurerie &font_end;ou en puissants &font_mana;sorts &font_end;à une &font_gold;Boutique &font_end;de &font_mana;magie &font_end;afin de mieux pouvoir me protéger…&br;&br;Et non, je ne suis pas payé pour te dire ça ! Bien que mon &italic;oncle &italic_end;travaille à l\'&font_bronze;Armurerie &font_end;et ma &italic;grand-mère &italic_end;se charge de la &font_gold;Boutique &font_end;de &font_mana;magie&font_end;…</string>
     <string name="young_child_extra_advice_3">Ah ! Et vous devriez penser à manger quand vous avez &font_hunger;faim&font_end;, sinon vous mourrez plus vite que vous ne pouvez le croire !&br;&br;Vous pouvez &font_cyan;manger &font_end;de la &font_plant;nourriture &font_end;depuis votre &font_wood;Inventaire &font_end;ou vous restaurer à un &font_bar;bar &font_end;ou une &font_bar;taverne&font_end;…</string>
 
     <string name="pyramid_was_cursed_and_closed">La &font_pyramid;Pyramide &font_end;a été maudite et scellée !</string>
