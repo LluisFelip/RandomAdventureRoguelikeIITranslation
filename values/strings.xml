@@ -3801,6 +3801,7 @@
     <string name="cant_use_this_here">Can\'t use this here…</string>
 
     <string name="tile_content_type_jewelry">&font_pink;Jewelry&font_end;</string>
+    <string name="tile_content_type_grave">&font_stone;Grave&font_end;</string>
 
     <string name="tile_content_type_trainer">&font_epic;Trainer&font_end;</string>
     <string name="trainer_message">Welcome! I can train you if you pay me good &font_gold;gold&font_end;… Get stronger with my lessons!</string>
@@ -3809,4 +3810,11 @@
         [&font_defense;%2$d&font_end;] &br;(&font_gold;%1$d &font_end;&font_gold;gold&font_end;)</string>
     <string name="gold_to_base_stats_speed">Increase &font_speed;Speed &font_end; [&font_speed;%2$d&font_end;] &br;(&font_gold;%1$d &font_end;&font_gold;gold&font_end;)</string>
     <string name="gold_to_base_stats_intelligence">Increase &font_mana;Intelligence &font_end; [&font_mana;%2$d&font_end;] &br;(&font_gold;%1$d &font_end;&font_gold;gold&font_end;)</string>
+
+    <!-- DO NOT TRANSLATE -->
+    <string name="grave_scott">I love you, Mom. I always will. You are eternal.&br;Charlene Samuel 1939-2015 &br;#Foreverlove&br;- Scott</string>
+    <string name="grave_bearer">26.2.1946 – 5.9.2020&br;17.3.1942 – 3.3.2012&br;- BearerOfTheCurse</string>
+
+    <!-- TRANSLATE -->
+    <string name="grave_other">It\'s an old grave…</string>
 </resources>
