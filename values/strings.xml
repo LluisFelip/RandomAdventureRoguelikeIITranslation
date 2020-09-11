@@ -380,10 +380,8 @@
     <string name="item_temporary_potion">&font_white;[Temporary]&font_end;</string>
     <string name="item_heal_potion_amount">&font_health;Heal&font_end; Potion (&font_health;%1$d&font_end;)</string>
     <string name="item_mana_potion_amount">&font_mana;Mana&font_end; Potion (&font_mana;%1$d&font_end;)</string>
-    <string name="item_experience_potion_amount">&font_cyan;Experience&font_end;
-        Potion (&font_cyan;%1$d&font_end;)</string>
-    <string name="item_temporary_potion_amount">%1$s &font_white;[Temporary]&font_end;
-        (&font_cyan;%2$d&font_end;)</string>
+    <string name="item_experience_potion_amount">&font_cyan;Experience &font_end;Potion (&font_cyan;%1$d&font_end;)</string>
+    <string name="item_temporary_potion_amount">%1$s &font_white;[Temporary] &font_end;(&font_cyan;%2$d&font_end;)</string>
     <string name="item_shield">Shield</string>
     <string name="item_monster_flesh">&font_red;%1$s&font_end;\'s &font_red;flesh&font_end;</string>
     <string name="item_monster_flesh_edible">Cooked &font_red;%1$s&font_end;\'s &font_red;flesh &font_end;(&font_cyan;%2$d&font_end;)</string>
@@ -3807,7 +3805,8 @@
     <string name="tile_content_type_trainer">&font_epic;Trainer&font_end;</string>
     <string name="trainer_message">Welcome! I can train you if you pay me good &font_gold;gold&font_end;… Get stronger with my lessons!</string>
     <string name="gold_to_base_stats_attack">Increase &font_attack;Attack &font_end; [&font_attack;%2$d&font_end;] &br;(&font_gold;%1$d &font_end;&font_gold;gold&font_end;)</string>
-    <string name="gold_to_base_stats_defense">Increase &font_defense;Defense &font_end; [&font_defense;%2$d&font_end;] &br;(&font_gold;%1$d &font_end;&font_gold;gold&font_end;)</string>
+    <string name="gold_to_base_stats_defense">Increase &font_defense;Defense &font_end;
+        [&font_defense;%2$d&font_end;] &br;(&font_gold;%1$d &font_end;&font_gold;gold&font_end;)</string>
     <string name="gold_to_base_stats_speed">Increase &font_speed;Speed &font_end; [&font_speed;%2$d&font_end;] &br;(&font_gold;%1$d &font_end;&font_gold;gold&font_end;)</string>
     <string name="gold_to_base_stats_intelligence">Increase &font_mana;Intelligence &font_end; [&font_mana;%2$d&font_end;] &br;(&font_gold;%1$d &font_end;&font_gold;gold&font_end;)</string>
 </resources>
