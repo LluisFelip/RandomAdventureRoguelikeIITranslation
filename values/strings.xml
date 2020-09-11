@@ -3802,4 +3802,5 @@
     <string name="you_cant_go">You can\'t go</string>
     <string name="cant_use_this_here">Can\'t use this here…</string>
 
+    <string name="tile_content_type_jewelry">&font_pink;Jewelry&font_end;</string>
 </resources>
