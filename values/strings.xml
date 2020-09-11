@@ -3799,7 +3799,7 @@
 
     <string name="material_type_gelatine">&font_dark_red;Gelatine&font_end;</string>
 
-    <string name="you_cant_go">You can't go</string>
+    <string name="you_cant_go">You can\'t go</string>
     <string name="cant_use_this_here">Can\'t use this here…</string>
 
 </resources>
