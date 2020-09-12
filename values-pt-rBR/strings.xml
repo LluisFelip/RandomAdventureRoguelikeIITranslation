@@ -2038,7 +2038,7 @@
 
     <string name="monster_info_stats_at_level_1">(Atributos no nível &font_cyan;%1$d&font_end;)</string>
     <string name="monster_info_health">&font_health;Vida&font_end;: &font_health;%1$d&font_end;</string>
-    <string name="monster_info_mana">&font_mana;Mana&font_end;: &font_mana;%1$s&font_end;</string>
+    <string name="monster_info_mana">&font_mana;Mana&font_end;: &font_mana;%1$d&font_end;</string>
     <string name="monster_info_attack">&font_attack;Ataque&font_end;: &font_attack;%1$d&font_end;</string>
     <string name="monster_info_defense">&font_defense;Defesa&font_end;: &font_defense;%1$d&font_end;</string>
     <string name="monster_info_intelligence">&font_mana;Inteligência&font_end;: &font_mana;%1$d&font_end;</string>
