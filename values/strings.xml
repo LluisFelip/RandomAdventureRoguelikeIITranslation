@@ -3831,4 +3831,6 @@
     <string name="item_info_treasure_map">Use this magical &font_gold;Treasure &font_end;&font_wood;Map &font_end;to know the location of a &font_gold;Treasure &font_end;&font_wood;Spot &font_end;in the current island.</string>
     <string name="treasure_map_marks_coordinates">The &font_gold;Treasure &font_end;&font_wood;Map &font_end;displays an &font_wood;X &font_end;in %s!</string>
     <string name="treasure_map_treasure_not_found">The &font_gold;Treasure &font_end;&font_wood;Map &font_end;didn\'t find any &font_gold;Treasure &font_end;&font_wood;Spot&font_end;…</string>
+    <string name="dig_dialog_title">Dig</string>
+    <string name="dig_dialog_message">Use your %s to Dig this wall?</string>
 </resources>
