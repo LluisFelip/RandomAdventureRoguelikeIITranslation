@@ -3637,6 +3637,7 @@
 
     <string name="tool_chopping_axe_infinite">&font_infinity;Infinite &font_end;&font_wood;Chopping &font_end;Axe</string>
     <string name="tool_pickaxe_infinite">&font_infinity;Infinite &font_end;&font_silver;Pickaxe&font_end;</string>
+    <string name="tool_shovel_infinite">&font_infinity;Infinite &font_end;&font_stone;Shovel&font_end;</string>
     <string name="tool_fishing_rod_infinite">&font_infinity;Infinite &font_end;&font_cyan;Fishing &font_end;Rod</string>
     <string name="tool_net_infinite">&font_infinity;Infinite &font_end;&font_insect;Net&font_end;</string>
     <string name="tool_skinning_knife_infinite">&font_infinity;Infinite &font_end;&font_skin;Skinning &font_end;Knife</string>
@@ -3812,9 +3813,22 @@
     <string name="gold_to_base_stats_intelligence">Increase &font_mana;Intelligence &font_end; [&font_mana;%2$d&font_end;] &br;(&font_gold;%1$d &font_end;&font_gold;gold&font_end;)</string>
 
     <!-- DO NOT TRANSLATE -->
-    <string name="grave_scott">I love you, Mom. I always will. You are eternal.&br;Charlene Samuel 1939-2015 &br;#Foreverlove&br;- Scott</string>
+    <string name="grave_scott">I love you, Mom. I always will. You are eternal.&br;Charlene Samuel 1939–2015 &br;#Foreverlove&br;</string>
     <string name="grave_bearer">26.2.1946 – 5.9.2020&br;17.3.1942 – 3.3.2012&br;- BearerOfTheCurse</string>
 
     <!-- TRANSLATE -->
     <string name="grave_other">It\'s an old grave…</string>
+
+    <string name="tool_shovel">&font_stone;Shovel&font_end;</string>
+    <string name="tool_action_shovel">&font_stone;Digging&font_end;</string>
+    <string name="item_info_tool_shovel">Use this to &font_stone;Dig &font_end;on a &font_gold;Treasure &font_end;&font_wood;Spot&font_end;, on a &font_stone;Grave &font_end;and also to &font_stone;Dig &font_end;walls on &font_stone;Dungeons&font_end;.</string>
+    <string name="skill_digger">&font_stone;Digger&font_end;</string>
+    <string name="skill_digger_description">The higher this skill, the better chances of successfully digging.</string>
+
+    <string name="materialsource_treasure_spot">&font_gold;Treasure &font_end;&font_wood;Spot&font_end;</string>
+    <string name="button_dig">Dig</string>
+    <string name="tile_content_type_treasure_map">&font_gold;Treasure &font_end;&font_wood;Map&font_end;</string>
+    <string name="item_info_treasure_map">Use this magical &font_gold;Treasure &font_end;&font_wood;Map &font_end;to know the location of a &font_gold;Treasure &font_end;&font_wood;Spot &font_end;in the current island.</string>
+    <string name="treasure_map_marks_coordinates">The &font_gold;Treasure &font_end;&font_wood;Map &font_end;displays an &font_wood;X &font_end;in %s!</string>
+    <string name="treasure_map_treasure_not_found">The &font_gold;Treasure &font_end;&font_wood;Map &font_end;didn\'t find any &font_gold;Treasure &font_end;&font_wood;Spot&font_end;…</string>
 </resources>
