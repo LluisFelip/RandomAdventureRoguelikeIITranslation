@@ -95,7 +95,7 @@
     <string name="menu_rate">Bewerte</string>
     <string name="menu_share">Teilen</string>
     <string name="menu_exit">Beenden</string>
-    <string name="menu_play">Soielen</string>
+    <string name="menu_play">Spielen</string>
     <string name="menu_new_game_slot_1">Neues Spiel (Slot 1)</string>
     <string name="menu_new_game_slot_2">Neues Spiel (Slot 2)</string>
     <string name="menu_new_game_slot_3">Neues Spiel (Slot 3)</string>
@@ -1151,118 +1151,118 @@
     <string name="quest_bring_items_text_villager_give_items">Gebt %1$s %2$s an %3$s?</string>
     <string name="quest_bring_items_text_you_have_the_items">Ihr habt die Gegenstände!</string>
 
-    <string name="quest_rescue_someone_text_giving">You must rescue %1$s! You should search at %2$s, %3$s, please, hurry up!</string>
-    <string name="quest_rescue_someone_text_quest_screen_rescue">Rescue %1$s! Search at %2$s, %3$s.</string>
-    <string name="quest_rescue_someone_text_quest_screen_return">Return with %1$s to %2$s at %3$s, %4$s.</string>
-    <string name="quest_rescue_someone_text_villager_complete">Thanks for finding %1$s!</string>
-    <string name="quest_rescue_someone_text_reward">Here\'s your reward: %1$s Gold!</string>
-    <string name="quest_rescue_someone">Rescue Someone</string>
-    <string name="quest_rescue_someone_text_output_rescued">Rescued \"%1$s\"!</string>
-    <string name="quest_rescue_someone_following_you">&font_quest;%1$s &font_end;is here, following you…</string>
+    <string name="quest_rescue_someone_text_giving">Ich müsst %1$s retten! Ich solltet bei %2$s, %3$s suchen, bitte beeilt euch!</string>
+    <string name="quest_rescue_someone_text_quest_screen_rescue">Rettete %1$s! Sucht bei %2$s, %3$s.</string>
+    <string name="quest_rescue_someone_text_quest_screen_return">Kommt mit %1$s zu %2$s bei %3$s, %4$s.</string>
+    <string name="quest_rescue_someone_text_villager_complete">Danke das ihr %1$s Gefunden habt!</string>
+    <string name="quest_rescue_someone_text_reward">Hier ist eure Belohnung: %1$s Gold!</string>
+    <string name="quest_rescue_someone">Jemanden Retten</string>
+    <string name="quest_rescue_someone_text_output_rescued">\"%1$s\ gerettet"!</string>
+    <string name="quest_rescue_someone_following_you">&font_quest;%1$s &font_end;ist hier und folgt euch…</string>
 
 
-    <string name="quest_rescue_someone_name_1" tools:ignore="UnusedResources">The Princess</string>
-    <string name="quest_rescue_someone_name_2" tools:ignore="UnusedResources">The Prince</string>
-    <string name="quest_rescue_someone_name_3" tools:ignore="UnusedResources">The Queen</string>
-    <string name="quest_rescue_someone_name_4" tools:ignore="UnusedResources">The King</string>
-    <string name="quest_rescue_someone_name_5" tools:ignore="UnusedResources">The Soldier</string>
-    <string name="quest_rescue_someone_name_6" tools:ignore="UnusedResources">The Wounded Soldier</string>
-    <string name="quest_rescue_someone_name_7" tools:ignore="UnusedResources">The Scared Magician</string>
-    <string name="quest_rescue_someone_name_8" tools:ignore="UnusedResources">The Peasant</string>
-    <string name="quest_rescue_someone_name_9" tools:ignore="UnusedResources">The Farmer</string>
-    <string name="quest_rescue_someone_name_10" tools:ignore="UnusedResources">The Wife</string>
-    <string name="quest_rescue_someone_name_11" tools:ignore="UnusedResources">The Husband</string>
-    <string name="quest_rescue_someone_name_12" tools:ignore="UnusedResources">The Child</string>
-    <string name="quest_rescue_someone_name_13" tools:ignore="UnusedResources">The Son</string>
-    <string name="quest_rescue_someone_name_14" tools:ignore="UnusedResources">The Daughter</string>
-    <string name="quest_rescue_someone_name_15" tools:ignore="UnusedResources">The Friend</string>
-    <string name="quest_rescue_someone_name_16" tools:ignore="UnusedResources">The Baker</string>
-    <string name="quest_rescue_someone_name_17" tools:ignore="UnusedResources">The Banker</string>
-    <string name="quest_rescue_someone_name_18" tools:ignore="UnusedResources">The Neighbour</string>
-    <string name="quest_rescue_someone_name_19" tools:ignore="UnusedResources">The Dog</string>
-    <string name="quest_rescue_someone_name_20" tools:ignore="UnusedResources">The Cat</string>
-    <string name="quest_rescue_someone_name_21" tools:ignore="UnusedResources">The Parrot</string>
-    <string name="quest_rescue_someone_name_22" tools:ignore="UnusedResources">The Clown</string>
-    <string name="quest_rescue_someone_name_23" tools:ignore="UnusedResources">The Jester</string>
-    <string name="quest_rescue_someone_name_24" tools:ignore="UnusedResources">The Maths Teacher</string>
-    <string name="quest_rescue_someone_name_25" tools:ignore="UnusedResources">The Scientist</string>
-    <string name="quest_rescue_someone_name_26" tools:ignore="UnusedResources">The Actress</string>
-    <string name="quest_rescue_someone_name_27" tools:ignore="UnusedResources">The Actor</string>
-    <string name="quest_rescue_someone_name_28" tools:ignore="UnusedResources">The Doctor</string>
-    <string name="quest_rescue_someone_name_29" tools:ignore="UnusedResources">The Good Witch</string>
-    <string name="quest_rescue_someone_name_30" tools:ignore="UnusedResources">The Boy</string>
-    <string name="quest_rescue_someone_name_31" tools:ignore="UnusedResources">The Girl</string>
-    <string name="quest_rescue_someone_name_32" tools:ignore="UnusedResources">The Slave</string>
-    <string name="quest_rescue_someone_name_33" tools:ignore="UnusedResources">The Master</string>
-    <string name="quest_rescue_someone_name_34" tools:ignore="UnusedResources">The Lover</string>
-    <string name="quest_rescue_someone_name_35" tools:ignore="UnusedResources">The Priest</string>
-    <string name="quest_rescue_someone_name_36" tools:ignore="UnusedResources">The Monk</string>
-    <string name="quest_rescue_someone_name_37" tools:ignore="UnusedResources">The Warrior</string>
-    <string name="quest_rescue_someone_name_38" tools:ignore="UnusedResources">The Lost Villager</string>
-    <string name="quest_rescue_someone_name_39" tools:ignore="UnusedResources">The Lost Viking</string>
-    <string name="quest_rescue_someone_name_40" tools:ignore="UnusedResources">The Not So Brave Hero</string>
-    <string name="quest_rescue_someone_name_41" tools:ignore="UnusedResources">The Gamer</string>
-    <string name="quest_rescue_someone_name_42" tools:ignore="UnusedResources">The Gambler</string>
-    <string name="quest_rescue_someone_name_43" tools:ignore="UnusedResources">The Chef</string>
-    <string name="quest_rescue_someone_name_44" tools:ignore="UnusedResources">The Cheater</string>
-    <string name="quest_rescue_someone_name_45" tools:ignore="UnusedResources">The Liar</string>
-    <string name="quest_rescue_someone_name_46" tools:ignore="UnusedResources">The Mysterious Man</string>
-    <string name="quest_rescue_someone_name_47" tools:ignore="UnusedResources">The Mysterious Woman</string>
-    <string name="quest_rescue_someone_name_48" tools:ignore="UnusedResources">The Craftsman</string>
-    <string name="quest_rescue_someone_name_49" tools:ignore="UnusedResources">The Council Member</string>
-    <string name="quest_rescue_someone_name_50" tools:ignore="UnusedResources">The Storyteller</string>
-    <string name="quest_rescue_someone_name_51" tools:ignore="UnusedResources">The Torturer</string>
-    <string name="quest_rescue_someone_name_52" tools:ignore="UnusedResources">The Masochist</string>
-    <string name="quest_rescue_someone_name_53" tools:ignore="UnusedResources">The Tortured</string>
-    <string name="quest_rescue_someone_name_54" tools:ignore="UnusedResources">The Funny Guy</string>
-    <string name="quest_rescue_someone_name_55" tools:ignore="UnusedResources">The Boring Guy</string>
-    <string name="quest_rescue_someone_name_56" tools:ignore="UnusedResources">The Funny Girl</string>
-    <string name="quest_rescue_someone_name_57" tools:ignore="UnusedResources">The Boring Girl</string>
-    <string name="quest_rescue_someone_name_58" tools:ignore="UnusedResources">The Woman</string>
-    <string name="quest_rescue_someone_name_59" tools:ignore="UnusedResources">The Man</string>
-    <string name="quest_rescue_someone_name_60" tools:ignore="UnusedResources">The Ugly Woman</string>
-    <string name="quest_rescue_someone_name_61" tools:ignore="UnusedResources">The Ugly Man</string>
-    <string name="quest_rescue_someone_name_62" tools:ignore="UnusedResources">The Beautiful Woman</string>
-    <string name="quest_rescue_someone_name_63" tools:ignore="UnusedResources">The Handsome Man</string>
-    <string name="quest_rescue_someone_name_64" tools:ignore="UnusedResources">The Poor Woman</string>
-    <string name="quest_rescue_someone_name_65" tools:ignore="UnusedResources">The Poor Man</string>
-    <string name="quest_rescue_someone_name_66" tools:ignore="UnusedResources">The Poor Boy</string>
-    <string name="quest_rescue_someone_name_67" tools:ignore="UnusedResources">The Poor Girl</string>
-    <string name="quest_rescue_someone_name_68" tools:ignore="UnusedResources">The Poor Lady</string>
-    <string name="quest_rescue_someone_name_69" tools:ignore="UnusedResources">The Gentleman</string>
-    <string name="quest_rescue_someone_name_70" tools:ignore="UnusedResources">The Gentlewoman</string>
-    <string name="quest_rescue_someone_name_71" tools:ignore="UnusedResources">The Hero</string>
-    <string name="quest_rescue_someone_name_72" tools:ignore="UnusedResources">The Foreigner</string>
-    <string name="quest_rescue_someone_name_73" tools:ignore="UnusedResources">The Traveller</string>
-    <string name="quest_rescue_someone_name_74" tools:ignore="UnusedResources">The Troublemaker</string>
-    <string name="quest_rescue_someone_name_75" tools:ignore="UnusedResources">The Lazy Woman</string>
-    <string name="quest_rescue_someone_name_76" tools:ignore="UnusedResources">The Lazy Man</string>
-    <string name="quest_rescue_someone_name_77" tools:ignore="UnusedResources">The Lazy Kid</string>
-    <string name="quest_rescue_someone_name_78" tools:ignore="UnusedResources">The Lazy Girl</string>
-    <string name="quest_rescue_someone_name_79" tools:ignore="UnusedResources">The Lazy Boy</string>
-    <string name="quest_rescue_someone_name_80" tools:ignore="UnusedResources">The Mayor</string>
-    <string name="quest_rescue_someone_name_81" tools:ignore="UnusedResources">The Thief</string>
-    <string name="quest_rescue_someone_name_82" tools:ignore="UnusedResources">The Painter</string>
-    <string name="quest_rescue_someone_name_83" tools:ignore="UnusedResources">The Musician</string>
-    <string name="quest_rescue_someone_name_84" tools:ignore="UnusedResources">The Singer</string>
-    <string name="quest_rescue_someone_name_85" tools:ignore="UnusedResources">The Bard</string>
-    <string name="quest_rescue_someone_name_86" tools:ignore="UnusedResources">The Guard</string>
-    <string name="quest_rescue_someone_name_87" tools:ignore="UnusedResources">The Big Woman</string>
-    <string name="quest_rescue_someone_name_88" tools:ignore="UnusedResources">The Big Man</string>
-    <string name="quest_rescue_someone_name_89" tools:ignore="UnusedResources">The Small Woman</string>
-    <string name="quest_rescue_someone_name_90" tools:ignore="UnusedResources">The Small Man</string>
-    <string name="quest_rescue_someone_name_91" tools:ignore="UnusedResources">The Small Boy</string>
-    <string name="quest_rescue_someone_name_92" tools:ignore="UnusedResources">The Small Girl</string>
-    <string name="quest_rescue_someone_name_93" tools:ignore="UnusedResources">The Small Kid</string>
-    <string name="quest_rescue_someone_name_94" tools:ignore="UnusedResources">The Strong Woman</string>
-    <string name="quest_rescue_someone_name_95" tools:ignore="UnusedResources">The Strong Man</string>
-    <string name="quest_rescue_someone_name_96" tools:ignore="UnusedResources">The Guitarist</string>
-    <string name="quest_rescue_someone_name_97" tools:ignore="UnusedResources">The Artisan</string>
-    <string name="quest_rescue_someone_name_98" tools:ignore="UnusedResources">The Free Woman</string>
-    <string name="quest_rescue_someone_name_99" tools:ignore="UnusedResources">The Free Man</string>
-    <string name="quest_rescue_someone_name_100" tools:ignore="UnusedResources">The Prisoner</string>
+    <string name="quest_rescue_someone_name_1" tools:ignore="UnusedResources">Die Prinzessin</string>
+    <string name="quest_rescue_someone_name_2" tools:ignore="UnusedResources">Der Prinz</string>
+    <string name="quest_rescue_someone_name_3" tools:ignore="UnusedResources">Die Königin</string>
+    <string name="quest_rescue_someone_name_4" tools:ignore="UnusedResources">Der König </string>
+    <string name="quest_rescue_someone_name_5" tools:ignore="UnusedResources">Der Soldat</string>
+    <string name="quest_rescue_someone_name_6" tools:ignore="UnusedResources">Der verwundete Soldat</string>
+    <string name="quest_rescue_someone_name_7" tools:ignore="UnusedResources">Der verängstigte Magier</string>
+    <string name="quest_rescue_someone_name_8" tools:ignore="UnusedResources">Der Gemeine</string>
+    <string name="quest_rescue_someone_name_9" tools:ignore="UnusedResources">Der Bauer</string>
+    <string name="quest_rescue_someone_name_10" tools:ignore="UnusedResources">Die Ehefrau</string>
+    <string name="quest_rescue_someone_name_11" tools:ignore="UnusedResources">Der Ehemann</string>
+    <string name="quest_rescue_someone_name_12" tools:ignore="UnusedResources">Das Kind</string>
+    <string name="quest_rescue_someone_name_13" tools:ignore="UnusedResources">Der Sohn</string>
+    <string name="quest_rescue_someone_name_14" tools:ignore="UnusedResources">Die Tochter</string>
+    <string name="quest_rescue_someone_name_15" tools:ignore="UnusedResources">Der Freund</string>
+    <string name="quest_rescue_someone_name_16" tools:ignore="UnusedResources">Der Bäcker</string>
+    <string name="quest_rescue_someone_name_17" tools:ignore="UnusedResources">Der Banker</string>
+    <string name="quest_rescue_someone_name_18" tools:ignore="UnusedResources">Der Nachbar</string>
+    <string name="quest_rescue_someone_name_19" tools:ignore="UnusedResources">Der Hund</string>
+    <string name="quest_rescue_someone_name_20" tools:ignore="UnusedResources">Die Katze</string>
+    <string name="quest_rescue_someone_name_21" tools:ignore="UnusedResources">Der Papagei</string>
+    <string name="quest_rescue_someone_name_22" tools:ignore="UnusedResources">Der Clown</string>
+    <string name="quest_rescue_someone_name_23" tools:ignore="UnusedResources">Der Hofnarr</string>
+    <string name="quest_rescue_someone_name_24" tools:ignore="UnusedResources">Der Mathelehrer</string>
+    <string name="quest_rescue_someone_name_25" tools:ignore="UnusedResources">Der Wissenschaftler</string>
+    <string name="quest_rescue_someone_name_26" tools:ignore="UnusedResources">Die Schauspielerin</string>
+    <string name="quest_rescue_someone_name_27" tools:ignore="UnusedResources">Der Schauspieler</string>
+    <string name="quest_rescue_someone_name_28" tools:ignore="UnusedResources">Der Arzt</string>
+    <string name="quest_rescue_someone_name_29" tools:ignore="UnusedResources">Die gute Hexe</string>
+    <string name="quest_rescue_someone_name_30" tools:ignore="UnusedResources">Der Junge</string>
+    <string name="quest_rescue_someone_name_31" tools:ignore="UnusedResources">Der Mädchen</string>
+    <string name="quest_rescue_someone_name_32" tools:ignore="UnusedResources">Der Sklave</string>
+    <string name="quest_rescue_someone_name_33" tools:ignore="UnusedResources">Der Meister</string>
+    <string name="quest_rescue_someone_name_34" tools:ignore="UnusedResources">Der Geliebte</string>
+    <string name="quest_rescue_someone_name_35" tools:ignore="UnusedResources">Der Prister</string>
+    <string name="quest_rescue_someone_name_36" tools:ignore="UnusedResources">Der Mönch</string>
+    <string name="quest_rescue_someone_name_37" tools:ignore="UnusedResources">Der Krieger</string>
+    <string name="quest_rescue_someone_name_38" tools:ignore="UnusedResources">Der verlorene Dorfbewohner</string>
+    <string name="quest_rescue_someone_name_39" tools:ignore="UnusedResources">Der verlorene Vikinger</string>
+    <string name="quest_rescue_someone_name_40" tools:ignore="UnusedResources">Der, nicht so mutige, Held</string>
+    <string name="quest_rescue_someone_name_41" tools:ignore="UnusedResources">Der Gamer</string>
+    <string name="quest_rescue_someone_name_42" tools:ignore="UnusedResources">Der Glückspieler</string>
+    <string name="quest_rescue_someone_name_43" tools:ignore="UnusedResources">Der Koch</string>
+    <string name="quest_rescue_someone_name_44" tools:ignore="UnusedResources">Der Schummler</string>
+    <string name="quest_rescue_someone_name_45" tools:ignore="UnusedResources">Der Lügner</string>
+    <string name="quest_rescue_someone_name_46" tools:ignore="UnusedResources">Der mysteriöse Mann</string>
+    <string name="quest_rescue_someone_name_47" tools:ignore="UnusedResources">Der mysteriöse Frau</string>
+    <string name="quest_rescue_someone_name_48" tools:ignore="UnusedResources">Der Handwerker</string>
+    <string name="quest_rescue_someone_name_49" tools:ignore="UnusedResources">Das Ratsmitglied</string>
+    <string name="quest_rescue_someone_name_50" tools:ignore="UnusedResources">Der Erzähler</string>
+    <string name="quest_rescue_someone_name_51" tools:ignore="UnusedResources">Der Folterer</string>
+    <string name="quest_rescue_someone_name_52" tools:ignore="UnusedResources">Der Masochist</string>
+    <string name="quest_rescue_someone_name_53" tools:ignore="UnusedResources">Der Gefolterte</string>
+    <string name="quest_rescue_someone_name_54" tools:ignore="UnusedResources">Der lustige Typ</string>
+    <string name="quest_rescue_someone_name_55" tools:ignore="UnusedResources">Der langweilige Typ</string>
+    <string name="quest_rescue_someone_name_56" tools:ignore="UnusedResources">Das lustige Mädchen</string>
+    <string name="quest_rescue_someone_name_57" tools:ignore="UnusedResources">Das langweilige Mädchen</string>
+    <string name="quest_rescue_someone_name_58" tools:ignore="UnusedResources">Die Frau</string>
+    <string name="quest_rescue_someone_name_59" tools:ignore="UnusedResources">Der Mann</string>
+    <string name="quest_rescue_someone_name_60" tools:ignore="UnusedResources">Die hässliche Frau</string>
+    <string name="quest_rescue_someone_name_61" tools:ignore="UnusedResources">Der hässliche Mann</string>
+    <string name="quest_rescue_someone_name_62" tools:ignore="UnusedResources">Die wunderschöne Frau</string>
+    <string name="quest_rescue_someone_name_63" tools:ignore="UnusedResources">Der ansehnliche Mann</string>
+    <string name="quest_rescue_someone_name_64" tools:ignore="UnusedResources">Die arme Frau</string>
+    <string name="quest_rescue_someone_name_65" tools:ignore="UnusedResources">Der arme Mann</string>
+    <string name="quest_rescue_someone_name_66" tools:ignore="UnusedResources">Der arme Junge</string>
+    <string name="quest_rescue_someone_name_67" tools:ignore="UnusedResources">Der arme Mädchen</string>
+    <string name="quest_rescue_someone_name_68" tools:ignore="UnusedResources">Die arme Dame</string>
+    <string name="quest_rescue_someone_name_69" tools:ignore="UnusedResources">Der Gentleman</string>
+    <string name="quest_rescue_someone_name_70" tools:ignore="UnusedResources">Die Dame</string>
+    <string name="quest_rescue_someone_name_71" tools:ignore="UnusedResources">Der Held</string>
+    <string name="quest_rescue_someone_name_72" tools:ignore="UnusedResources">Der Ausländer</string>
+    <string name="quest_rescue_someone_name_73" tools:ignore="UnusedResources">Der Reisende</string>
+    <string name="quest_rescue_someone_name_74" tools:ignore="UnusedResources">Der Unruhespender</string>
+    <string name="quest_rescue_someone_name_75" tools:ignore="UnusedResources">Die faule Frau</string>
+    <string name="quest_rescue_someone_name_76" tools:ignore="UnusedResources">Der faule Mann</string>
+    <string name="quest_rescue_someone_name_77" tools:ignore="UnusedResources">Das faule Kind</string>
+    <string name="quest_rescue_someone_name_78" tools:ignore="UnusedResources">Das faule Mädchen</string>
+    <string name="quest_rescue_someone_name_79" tools:ignore="UnusedResources">Der faule Junge</string>
+    <string name="quest_rescue_someone_name_80" tools:ignore="UnusedResources">Der Bürgermeister</string>
+    <string name="quest_rescue_someone_name_81" tools:ignore="UnusedResources">Der Dieb</string>
+    <string name="quest_rescue_someone_name_82" tools:ignore="UnusedResources">Der Maler</string>
+    <string name="quest_rescue_someone_name_83" tools:ignore="UnusedResources">Der Musiker</string>
+    <string name="quest_rescue_someone_name_84" tools:ignore="UnusedResources">Der Sänger</string>
+    <string name="quest_rescue_someone_name_85" tools:ignore="UnusedResources">Der Barde</string>
+    <string name="quest_rescue_someone_name_86" tools:ignore="UnusedResources">Die Wache</string>
+    <string name="quest_rescue_someone_name_87" tools:ignore="UnusedResources">Die große Frau</string>
+    <string name="quest_rescue_someone_name_88" tools:ignore="UnusedResources">Der große Mann</string>
+    <string name="quest_rescue_someone_name_89" tools:ignore="UnusedResources">Die kleine Frau</string>
+    <string name="quest_rescue_someone_name_90" tools:ignore="UnusedResources">Der kleine Mann</string>
+    <string name="quest_rescue_someone_name_91" tools:ignore="UnusedResources">Der kleine Junge</string>
+    <string name="quest_rescue_someone_name_92" tools:ignore="UnusedResources">Das kleine Mädchen</string>
+    <string name="quest_rescue_someone_name_93" tools:ignore="UnusedResources">Das kleine Kind</string>
+    <string name="quest_rescue_someone_name_94" tools:ignore="UnusedResources">Die starke Frau</string>
+    <string name="quest_rescue_someone_name_95" tools:ignore="UnusedResources">Der starke Mann</string>
+    <string name="quest_rescue_someone_name_96" tools:ignore="UnusedResources">Der Gitarist</string>
+    <string name="quest_rescue_someone_name_97" tools:ignore="UnusedResources">Der Handwerker</string>
+    <string name="quest_rescue_someone_name_98" tools:ignore="UnusedResources">Die freie Frau</string>
+    <string name="quest_rescue_someone_name_99" tools:ignore="UnusedResources">Der freie mann</string>
+    <string name="quest_rescue_someone_name_100" tools:ignore="UnusedResources">Der Gefangene</string>
 
-    <string name="quest_rescue_someone_text_villager_give_rescue_someone">Leave %1$s with %2$s.</string>
+    <string name="quest_rescue_someone_text_villager_give_rescue_someone">Lass %1$s bei %2$s zurück.</string>
 
     <string name="item_temporary_potion_mule">&font_wood;Mule&font_end; Potion</string>
     <string name="item_temporary_potion_mule_info">Drink this to temporarily increase your capacity of carrying items.</string>
