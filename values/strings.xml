@@ -3837,4 +3837,6 @@
     <string name="monster_tag_diamond">&font_cyan;*&font_end;&font_diamond;Diamonded&font_end;&font_cyan;*&font_end;</string>
     <string name="monster_tag_gold">&font_cyan;*&font_end;&font_gold;Golden&font_end;&font_cyan;*&font_end;</string>
     <string name="monster_tag_silver">&font_cyan;*&font_end;&font_silver;Silvered&font_end;&font_cyan;*&font_end;</string>
+
+    <string name="status_royal_rank">Royal Rank: &font_gold;%1$d&font_end;</string>
 </resources>
