@@ -3839,4 +3839,19 @@
     <string name="monster_tag_silver">&font_cyan;*&font_end;&font_silver;Silvered&font_end;&font_cyan;*&font_end;</string>
 
     <string name="status_royal_rank">Royal Rank: &font_gold;%1$d&font_end;</string>
+
+    <string name="tile_content_type_obelisk">&font_gold;Obelisk&font_end;</string>
+
+    <string name="obelisk_text_1">1. jlinwg f xfm</string>
+    <string name="obelisk_text_2">2. jwzxfjwy jyfrnyqz</string>
+    <string name="obelisk_text_3">3. yfmy jhfqu</string>
+    <string name="obelisk_text_4">4. hmnw jg qqnb ztd isf,</string>
+    <string name="obelisk_text_5">5. wztd utwI.</string>
+    <string name="obelisk_text_6">6. jmy pjjx ztd kN.</string>
+    <string name="obelisk_text_7">7. dfb wztd ymlnk,</string>
+    <string name="obelisk_text_8">8. ynfb isf gwt</string>
+    <string name="obelisk_text_9">9. xswzy sjajx</string>
+    <string name="obelisk_text_10">10. jmy pjjx,</string>
+
+
 </resources>
