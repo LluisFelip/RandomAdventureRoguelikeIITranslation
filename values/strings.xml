@@ -3872,4 +3872,17 @@
 
     <string name="material_type_troll_crown">&font_green;Troll &font_end;&font_gold;Crown&font_end;</string>
     <string name="troll_portal_enter_message">Enter this &font_green;Troll &font_end;&font_portal;Portal&font_end;?&br;&br;(If you do, you won\'t be able to come back to this island…)</string>
+
+    <string name="tile_content_type_arena">&font_red;Arena&font_end;</string>
+    <string name="enter_arena_message">Enter the &font_red;Arena&font_end;?&br;&br;You will fight against various enemies of your same level, one after the other.&br;&br;If you win, you will earn a special prize!&br;&br;It costs &font_gold;%d Gold &font_end;to participate.</string>
+    <string name="won_arena_message">Congratulations!&br;&br;You won! Here you have the prize: %1$s and &font_gold;%2$d Gold&font_end;!&br;&br;Bye, champion!</string>
+    <string name="arena_already_completed">You already won in this &font_red;Arena&font_end;, champion!</string>
+    <string name="achievement_desc_arena_fighter">Win in the Arena for the first time.</string>
+
+    <string name="title_the_arena_fighter_male">%1$s, the &font_red;Arena Fighter&font_end;</string>
+    <string name="title_the_arena_fighter_female">%1$s, the &font_red;Arena Fighter&font_end;</string>
+    <string name="title_the_arena_fighter_no_gender">%1$s, the &font_red;Arena Fighter&font_end;</string>
+    <string name="arena_first_enemy_is_here">The first enemy is here!</string>
+    <string name="arena_next_enemy_is_here">The next enemy is here!</string>
+    <string name="arena_last_enemy_is_here">The last enemy is here!</string>
 </resources>
