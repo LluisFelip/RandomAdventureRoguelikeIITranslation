@@ -3885,4 +3885,5 @@
     <string name="arena_first_enemy_is_here">The first enemy is here!</string>
     <string name="arena_next_enemy_is_here">The next enemy is here!</string>
     <string name="arena_last_enemy_is_here">The last enemy is here!</string>
+    <string name="troll_shield">&font_green;Troll&font_end;</string>
 </resources>
