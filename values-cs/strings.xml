@@ -220,15 +220,11 @@
         a částí &font_defense;Brnění&font_end;)</string>
     <string name="advantage_ranger_desc">(Začneš se &font_speed;Zbraní na dálku&font_end; a trochou munice)</string>
 
-
-    <!-- NOTE FOR LANGUAGES ALREADY TRANSLATED: Translate these three  - - - - - - - - - - - - - -->
     <string name="advantage_wizard_desc">(Začneš s náhodným &font_mana;Kouzlem&font_end;
         a &font_mana;Hůlkou&font_end;)</string>
     <string name="advantage_cleric_desc">(Začneš se znalostí &font_health;Uzdravovacího&font_end; &font_mana;kouzla &font_end;
         a &font_mana;Hůlkou&font_end;)</string>
-    <!-- TODO -->
     <string name="advantage_petmaster_desc">(Začneš s &font_mana;kouzlem&font_end; &font_pet;Chytit&font_end; &font_red;příšeru&font_end;, a CR &font_cyan;0&font_end; &font_red;Monster&font_end; &font_pet;Pet &font_end;and a &font_pet;Pet &font_end;&font_cyan;Collar&font_end;)</string>
-    <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
 
     <string name="advantage_worker_desc">(Začneš s náhodným &font_cyan;Nástrojem&font_end;)</string>
     <string name="advantage_alchemist_desc">(Začneš se znalostí receptu &font_cyan;1&font_end; typu lektvaru a &font_cyan;3&font_end;
@@ -402,7 +398,7 @@
     <string name="status_main_story_times">Hlavní příběh dokončen: &font_green;%1$d&font_end;</string>
     <string name="status_void_master_times">Pán prázdnoty poražen: &font_green;%1$d&font_end;</string>
     <string name="status_deaths">Smrtí: &font_red;%1$d&font_end;</string>
-    <!-- TODO -->
+
     <string name="status_ascended_times">Ascended Times: &font_green;%1$d&font_end;</string>
     <string name="status_met_the_creator_times">Poslán ke Stvořiteli: &font_green;%1$d&font_end;</string>
     <string name="status_general">&font_cyan;Obecně&font_end;</string>
