@@ -1690,258 +1690,258 @@
     <string name="wooden_sign_text_chopped_the">Ihr habt die %1$s Gefällt.</string>
     <string name="wooden_sign_wrote_message">Ihr habt eine Nachricht auf das %1$s geschrieben.</string>
 
-    <string name="iron_bucket_pickup_water">You picked up &font_water;Water &font_end;with the &font_iron;Iron Bucket&font_end;.</string>
-    <string name="iron_bucket_pickup_lava">You picked up &font_attack;Lava &font_end;with the &font_iron;Iron Bucket&font_end;.</string>
-    <string name="iron_bucket_pickup_mana">You picked up &font_mana;mana &font_end;with the &font_iron;Iron Bucket&font_end;.</string>
-    <string name="iron_bucket_put_out_firecamp_ash">You put out the &font_attack;Firecamp &font_end;with the &font_water;Water&font_end; &font_iron;Bucket&font_end;.</string>
-    <string name="iron_bucket_drank_mana">You drank from the &font_mana;Mana&font_end; &font_iron;Bucket &font_end;and restored all your &font_mana;mana&font_end;.</string>
+    <string name="iron_bucket_pickup_water">Ihr habt &font_water;Wasser &font_end;mit dem &font_iron;eisernen Eimer&font_end; geschöpft.</string>
+    <string name="iron_bucket_pickup_lava">Ihr habt &font_attack;Lava &font_end;mit dem &font_iron;eisernen Eimer&font_end; geschöpft.</string>
+    <string name="iron_bucket_pickup_mana">Ihr habt &font_mana;Mana &font_end;mit dem &font_iron;eisernen Eimer&font_end; geschöpft.</string>
+    <string name="iron_bucket_put_out_firecamp_ash">Ihr habt das &font_attack;Lagerfeuer &font_end;mit &font_water;Wasser&font_end;&font_iron;eimer&font_end; gelöscht.</string>
+    <string name="iron_bucket_drank_mana">Ihr habt den &font_mana;Mana&font_end;&font_iron;eimer &font_end;getrunken und all euer &font_mana;Mana&font_end; regeneriert.</string>
 
-    <string name="bank_welcome_message" tools:ignore="PluralsCandidate">Welcome to the %1$s!&br;&br;We keep your &font_gold;Gold &font_end;safe here.&br;&br;You currently have &font_gold;%2$d Gold &font_end;in the %3$s.&br;</string>
-    <string name="bank_deposit_message" tools:ignore="PluralsCandidate">How much do you want to &font_gold;deposit&font_end;?&br;&br;You currently have &font_gold;%1$d gold&font_end;.</string>
-    <string name="bank_withdraw_message" tools:ignore="PluralsCandidate">How much do you want to &font_gold;withdraw&font_end;?&br;&br;You currently have &font_gold;%1$d gold &font_end;in the %2$s.</string>
-    <string name="bank_deposit">(Deposit)</string>
-    <string name="bank_withdraw">(Withdraw)</string>
-    <string name="bank_introduce_a_valid_amount">Introduce a valid amount!</string>
-    <string name="bank_withdrawn_amount" tools:ignore="PluralsCandidate">You have withdrawn &font_gold;%1$d gold &font_end;from the %2$s!</string>
-    <string name="bank_deposit_amount" tools:ignore="PluralsCandidate">You deposit &font_gold;%1$d gold &font_end;in the %2$s!</string>
+    <string name="bank_welcome_message" tools:ignore="PluralsCandidate">Willkommen in der %1$s!&br;&br;Wir schützen euer &font_gold;Gold &font_end;.&br;&br;Ihr habt momentan &font_gold;%2$d Gold &font_end;in der %3$s.&br;</string>
+    <string name="bank_deposit_message" tools:ignore="PluralsCandidate">Wieviel möchtet ihr &font_gold;Anlegen&font_end;?&br;&br;Aktuell habt ihr &font_gold;%1$d Gold&font_end;.</string>
+    <string name="bank_withdraw_message" tools:ignore="PluralsCandidate">Wieviel möchtet ihr &font_gold;Abheben&font_end;?&br;&br;Aktuell habt ihr &font_gold;%1$d Gold &font_end;in der %2$s.</string>
+    <string name="bank_deposit">(Anlegen)</string>
+    <string name="bank_withdraw">(Abheben)</string>
+    <string name="bank_introduce_a_valid_amount">Nennt einen möglichen Betrag!</string>
+    <string name="bank_withdrawn_amount" tools:ignore="PluralsCandidate">Ihr habt &font_gold;%1$d Gold &font_end;aus der %2$s abgehoben!</string>
+    <string name="bank_deposit_amount" tools:ignore="PluralsCandidate">Ihr habt &font_gold;%1$d Gold &font_end;in die %2$s gegeben!</string>
 
-    <string name="item_island_soul">&font_cyan;Island Soul&font_end; (%1$s)</string>
-    <string name="text_island_soul_title">Island &font_cyan;100%&font_end; Explored</string>
-    <string name="text_island_soul_message">You mysteriously obtain an %1$s!</string>
+    <string name="item_island_soul">&font_cyan;Seele der Insel&font_end; (%1$s)</string>
+    <string name="text_island_soul_title">Insel&font_cyan;100%&font_end; erkundet</string>
+    <string name="text_island_soul_message">Ihr habt, mysteriöserweise eine %1$s!</string>
 
-    <string name="weather_sunny">Sunny</string>
-    <string name="weather_cloudy">Cloudy</string>
-    <string name="weather_rainy">Rainy</string>
-    <string name="weather_overcasty">Overcast</string>
-    <string name="weather_partly_sunny">Partly Sunny</string>
-    <string name="weather_partly_cloudy">Partly Cloudy</string>
-    <string name="weather_stormy">Stormy</string>
-    <string name="weather_windy">Windy</string>
-    <string name="weather_foggy">Foggy</string>
-    <string name="weather_snowy">Snowy</string>
-    <string name="weather_icy">Icy</string>
+    <string name="weather_sunny">Sonnig</string>
+    <string name="weather_cloudy">Bewölt</string>
+    <string name="weather_rainy">Regnerisch</string>
+    <string name="weather_overcasty">Bedeckt</string>
+    <string name="weather_partly_sunny">Teilweise Sonnig</string>
+    <string name="weather_partly_cloudy">Teilweise Bewölkt</string>
+    <string name="weather_stormy">Stürmisch</string>
+    <string name="weather_windy">Windig</string>
+    <string name="weather_foggy">Nebelig</string>
+    <string name="weather_snowy">Verschneit</string>
+    <string name="weather_icy">Eisig</string>
 
-    <string name="stash_empty_message">There are no items…</string>
-    <string name="stash_title">&font_wood;Stash&font_end; (&font_cyan;%1$d&font_end;/&font_cyan;%2$d&font_end;)</string>
-    <string name="stash_inventory_title_stash">&font_wood;Inventory&font_end; (&font_cyan;%1$d&font_end;/&font_cyan;%2$d&font_end;)</string>
-    <string name="stash_store_couldnt">Couldn\'t store %1$s, &font_wood;Stash &font_end;is full!</string>
-    <string name="stash_increase_title">Increase &font_wood;Stash&font_end; size?</string>
-    <string name="stash_increase_message" tools:ignore="PluralsCandidate">Do you want to increase the &font_wood;stash &font_end;size from &font_cyan;%1$d &font_end;to &font_cyan;%2$d&font_end;? It will cost &font_gold;%3$d gold&font_end;.</string>
+    <string name="stash_empty_message">Das Lager ist leer…</string>
+    <string name="stash_title">&font_wood;Lager&font_end; (&font_cyan;%1$d&font_end;/&font_cyan;%2$d&font_end;)</string>
+    <string name="stash_inventory_title_stash">&font_wood;Inventar&font_end; (&font_cyan;%1$d&font_end;/&font_cyan;%2$d&font_end;)</string>
+    <string name="stash_store_couldnt">%1$s konnte nicht gelagert werden, &font_wood;Lager &font_end;ist voll!</string>
+    <string name="stash_increase_title">&font_wood;Lagergröße&font_end; erhöhen?</string>
+    <string name="stash_increase_message" tools:ignore="PluralsCandidate">Möchtet ihr euere &font_wood;Lagergröße &font_end;von &font_cyan;%1$d &font_end;auf &font_cyan;%2$d&font_end; erhöhen? Es wird euch &font_gold;%3$d gold&font_end; kosten.</string>
 
-    <string name="merchants_mark">Merchant\'s Mark &font_cyan;#%1$d&font_end;</string>
-    <string name="merchant">Merchant</string>
+    <string name="merchants_mark">Zeichen des Händlers &font_cyan;#%1$d&font_end;</string>
+    <string name="merchant">Händler</string>
     <string name="merchant_name">(&font_gold;%1$s&font_end;)</string>
-    <string name="merchant_dialog_text">Have you brought &font_cyan;%1$d&font_end; &lt;font color=\"%2$s\"&gt;%3$s &font_end;to me?</string>
-    <string name="merchant_giving_merchant_quest_message">Hello! I\'m looking for &font_cyan;%1$d &font_end;&lt;font color=\"%2$s\"&gt;%3$s&font_end;. Could you bring them to me? I\'ll give you something very special in exchange.</string>
-    <string name="merchant_not_enough_materials">You don\'t have enough materials…</string>
-    <string name="merchant_you_receive_the_merchants_mark">You received the Merchant\'s Mark &font_cyan;#%1$d&font_end;!</string>
-    <string name="merchant_dialog_text_mark_given">You already gave me what I needed, thanks!</string>
+    <string name="merchant_dialog_text">Habt ihr mir &font_cyan;%1$d&font_end; &lt;font color=\"%2$s\"&gt;%3$s &font_end;gebracht?</string>
+    <string name="merchant_giving_merchant_quest_message">Hallo, ich suche nach &font_cyan;%1$d &font_end;&lt;font color=\"%2$s\"&gt;%3$s&font_end;. Könntet ihr es mir bringen? Ich gebe euch etwas ganz besonderes dafür...</string>
+    <string name="merchant_not_enough_materials">Ihr habt nicht genug Rohstoffe…</string>
+    <string name="merchant_you_receive_the_merchants_mark">ihr habt das Zeichen des Händlers bekommen&font_cyan;(#%1$d)&font_end;!</string>
+    <string name="merchant_dialog_text_mark_given">Ihr habt mir bereits gegeben was ich wollte, danke sehr.</string>
 
-    <string name="witch_dialog_text">Hello… I will give you my &font_witch;Witch Hat &font_end;if you give me &font_cyan;%1$d&font_end; &font_mushroom;Mushrooms&font_end;… and behave yourself or I will transform you into a rat!</string>
-    <string name="witch_dialog_text_mark_given">I don\'t need more &font_mushroom;Mushrooms&font_end;. Thanks…</string>
-    <string name="witch_received">The &font_witch;Witch&font_end; gives you the %1$s!</string>
-    <string name="witch_hat">&font_witch;Witch Hat&font_end;</string>
-    <string name="witch_not_enough_mushrooms">You don\'t have enough &font_mushroom;Mushrooms&font_end;…</string>
+    <string name="witch_dialog_text">Hallo… Ich würde euch meinen &font_witch;Hexenhut &font_end;geben, wenn ihr mir &font_cyan;%1$d&font_end; &font_mushroom;Pilze&font_end; bringt… Und benehmt euch sonst verwandle ich euch in eine Kröte!</string>
+    <string name="witch_dialog_text_mark_given">Ich benötige keine weiteren &font_mushroom;Pilze&font_end;. Danke…</string>
+    <string name="witch_received">Die &font_witch;Hexe&font_end; gibt euch den %1$s!</string>
+    <string name="witch_hat">&font_witch;Hexenhut&font_end;</string>
+    <string name="witch_not_enough_mushrooms">Ihr habt nicht genug &font_mushroom;Pilze&font_end;…</string>
 
-    <string name="wizard_tower_dialog_message_1">You enter the %1$s and find an old &font_mana;Wizard&font_end;…</string>
-    <string name="wizard_tower_dialog_message_2">Welcome to our %1$s… Do you want to become a &font_mana;Wizard &font_end;like me?</string>
-    <string name="wizard_tower_dialog_message_2_already_given">Welcome back to our %1$s… Ah… it\'s you… I already gave you my &font_mana;Spell &font_end;Book… you will have to learn more magic on your own…</string>
-    <string name="wizard_tower_dialog_message_3_no">Then, leave and don\'t waste my time!</string>
-    <string name="wizard_tower_dialog_message_3_yes">Hahaha! And you think you have what you need to become one?</string>
-    <string name="wizard_tower_dialog_message_4_no">Then, go away and don\'t waste my time!</string>
-    <string name="wizard_tower_dialog_message_4_yes">I am not sure you are material for &font_mana;magic&font_end;… are you sure about this?</string>
-    <string name="wizard_tower_dialog_message_5_no">Go away and stop wasting my time!</string>
-    <string name="wizard_tower_dialog_message_5_yes">Would you do whatever it was necessary to become a &font_mana;Wizard&font_end;?</string>
-    <string name="wizard_tower_dialog_message_6_no">I\'m tired of you, I have a very busy day!</string>
-    <string name="wizard_tower_dialog_message_6_yes">Okay, then, tell me, will you be able to understand this &font_mana;Spell &font_end;Book that I will give you?</string>
-    <string name="wizard_tower_dialog_message_7_no">Then I\'ll keep it for me.</string>
-    <string name="wizard_tower_dialog_message_7_yes">Here you are. Remember, in order to learn a spell, you need to know the previous level spell type of that magic…</string>
-    <string name="wizard_name">&font_mana;Old Wizard&font_end;</string>
+    <string name="wizard_tower_dialog_message_1">Ihr betretet den %1$s und trefft einen alten &font_mana;Zauberer&font_end;…</string>
+    <string name="wizard_tower_dialog_message_2">Wilkommen in meinem %1$s… Wünscht ihr ebenfalls ein &font_mana;Zauberer &font_end; wie ich zu werden?</string>
+    <string name="wizard_tower_dialog_message_2_already_given">Wilkommen zurück… Ah… ihr seid es… Ich habe euch mein &font_mana;Zauber&font_end;buch bereits gegeben… Ihr müsst die Magie allein weiter studieren…</string>
+    <string name="wizard_tower_dialog_message_3_no">Dann lasst mich allein und verschwendet meine Zeit nicht!</string>
+    <string name="wizard_tower_dialog_message_3_yes">Hahaha! Und ihr glaubt wirklich ihr könntet ein &font_mana;Zauberer&font_end; werden?</string>
+    <string name="wizard_tower_dialog_message_4_no">Dann lasst mich allein und verschwendet meine Zeit nicht!</string>
+    <string name="wizard_tower_dialog_message_4_yes">Ich weiß nicht ob ihr für &font_mana;Magie&font_end; geeignet seit… Seid ihr sicher das ihr das wollt?</string>
+    <string name="wizard_tower_dialog_message_5_no">Lasst mich allein und verschwendet meine Zeit nicht!</string>
+    <string name="wizard_tower_dialog_message_5_yes">Würdet ihr was auch immer nötig ist tun um ein &font_mana;Zauberer&font_end; zu werden?</string>
+    <string name="wizard_tower_dialog_message_6_no">Ihr strengt mich an ich hatte einen schweren Tag!</string>
+    <string name="wizard_tower_dialog_message_6_yes">Okay, dann sagt mir, seid ihr in der lage dieses &font_mana;Zauber&font_end;buch zu verstehen wenn ich es euch gebe?</string>
+    <string name="wizard_tower_dialog_message_7_no">Dann behalte ich es für mich.</string>
+    <string name="wizard_tower_dialog_message_7_yes">Hier habt ihr es. Denkt daran, um einen Zauberspruch zu lernen müsst ihr den Spruch des vorherigen Leves dieses Magietypes kennen…</string>
+    <string name="wizard_name">&font_mana;Alter Zauberer&font_end;</string>
 
-    <string name="chest_was_a_mimic">The %1$s was actually a %2$s!</string>
-    <string name="chest_text_chest_opened">&font_chest;Chest&font_end; (&font_primary_light;empty&font_end;)</string>
-    <string name="chest_must_kill_the_monster_first">Must kill the monster first!</string>
-    <string name="chest_you_obtained_gold_and_item" tools:ignore="PluralsCandidate">You open the %1$s!&br;&br;You obtain &font_gold;%2$d gold&font_end;.&br;You pick up %3$s.</string>
-    <string name="chest_you_obtained_gold" tools:ignore="PluralsCandidate">You open the %1$s!&br;&br;You obtain &font_gold;%2$d gold&font_end;.</string>
+    <string name="chest_was_a_mimic">Die %1$s war in Wirklichkeit ein %2$s!</string>
+    <string name="chest_text_chest_opened">&font_chest;Kiste&font_end; (&font_primary_light;leer&font_end;)</string>
+    <string name="chest_must_kill_the_monster_first">Ihr müsst zuerst das Monster töten!</string>
+    <string name="chest_you_obtained_gold_and_item" tools:ignore="PluralsCandidate">Ihr habt die %1$s!&br;&br;Ihr erhaltet &font_gold;%2$d Gold&font_end;.&br;Ihr nehmt %3$s.</string>
+    <string name="chest_you_obtained_gold" tools:ignore="PluralsCandidate">Ihr öffnet die %1$s!&br;&br;Ihr erhaltet &font_gold;%2$d Gold&font_end;.</string>
 
     <string name="meditator_silent">(…)</string>
     <string name="meditator_dots">(…)</string>
-    <string name="meditator_meditate_with_me">Meditate with me…</string>
-    <string name="meditated_with_meditator">You meditated with the %1$s and restored your &font_mana;mana&font_end;…</string>
-    <string name="meditator_is_mysteriously_gone">The %1$s is mysteriously gone…</string>
+    <string name="meditator_meditate_with_me">Meditiert mit mir…</string>
+    <string name="meditated_with_meditator">Ihr habt mit dem %1$s mediteirt und euer &font_mana;Mana&font_end; regeneriert…</string>
+    <string name="meditator_is_mysteriously_gone">Der %1$s ist plötzlich verwschwunden…</string>
 
-    <string name="mine_copper">&font_copper;Copper&font_end; &font_stone;Mine&font_end;</string>
-    <string name="mine_tin">&font_tin;Tin&font_end; &font_stone;Mine&font_end;</string>
-    <string name="mine_iron">&font_iron;Iron&font_end; &font_stone;Mine&font_end;</string>
-    <string name="mine_silver">&font_silver;Silver&font_end; &font_stone;Mine&font_end;</string>
-    <string name="mine_gold">&font_gold;Gold&font_end; &font_stone;Mine&font_end;</string>
-    <string name="mine_undiscovered">\? &font_stone;Mine&font_end;</string>
-    <string name="mine_discovered_type">Discovered mine type: %1$s</string>
-    <string name="mine_found_special_ore">Found %1$s!</string>
+    <string name="mine_copper">&font_copper;Kupfer&font_end;&font_stone;mine&font_end;</string>
+    <string name="mine_tin">&font_tin;Zinn&font_end;&font_stone;mine&font_end;</string>
+    <string name="mine_iron">&font_iron;Eisen&font_end;&font_stone;mine&font_end;</string>
+    <string name="mine_silver">&font_silver;Silber&font_end;&font_stone;mine&font_end;</string>
+    <string name="mine_gold">&font_gold;Gold&font_end;&font_stone;mine&font_end;</string>
+    <string name="mine_undiscovered">\?-&font_stone;mine&font_end;</string>
+    <string name="mine_discovered_type">Es ist eine: %1$s</string>
+    <string name="mine_found_special_ore">%1$s gefunden!</string>
 
-    <string name="there_s_nothing_around">There\'s nothing around…</string>
+    <string name="there_s_nothing_around">Hier ist nichts…</string>
 
-    <string name="wise">Wise</string>
+    <string name="wise">Weiser</string>
     <string name="wise_silent">(…)</string>
-    <string name="wise_have_dark_orb">Oh…! You have a %1$s! Soon there will be something worse than what any hero could imagine, and that %1$s you have is the key to it…</string>
+    <string name="wise_have_dark_orb">Oh…! Ihr habt einen %1$s! Schon sehr bald wird hier etwas viel schlimmeres sein als sich jeglicher Held vorstellen kann, und dieser %1$s den ihr habt ist der Schlüssel…</string>
 
     <string name="crafting_filter">Filter</string>
-    <string name="crafting_filter_all">All Recipes</string>
-    <string name="crafting_filter_weapon">Weapon</string>
-    <string name="crafting_filter_shield">Shield</string>
-    <string name="crafting_filter_armor">Armor</string>
-    <string name="crafting_filter_tool">Tool</string>
-    <string name="crafting_filter_food">Food</string>
-    <string name="crafting_filter_potion">Potion</string>
-    <string name="crafting_filter_material">Material</string>
-    <string name="crafting_filter_other">Other</string>
+    <string name="crafting_filter_all">Alle Rezepte</string>
+    <string name="crafting_filter_weapon">Waffen</string>
+    <string name="crafting_filter_shield">Schilde</string>
+    <string name="crafting_filter_armor">Rüstungen</string>
+    <string name="crafting_filter_tool">Werkzeuge</string>
+    <string name="crafting_filter_food">Essen</string>
+    <string name="crafting_filter_potion">Tränke</string>
+    <string name="crafting_filter_material">Materialien</string>
+    <string name="crafting_filter_other">Anderes</string>
 
-    <string name="dead_reason_monster">Killed by %s!</string>
-    <string name="dead_reason_hunger">Died by &font_red;starvation&font_end;!</string>
-    <string name="dead_reason_tile_damage_hot">You were killed by &font_red;scorching heat&font_end;!</string>
-    <string name="dead_reason_tile_damage_cold">You &font_tundra;froze&font_end; to death!</string>
+    <string name="dead_reason_monster">Getötet von %s!</string>
+    <string name="dead_reason_hunger">Ihr seid &font_red;Verhungert&font_end;!</string>
+    <string name="dead_reason_tile_damage_hot">ihr wurdest von &font_red;brennender Hitze&font_end; getötet!</string>
+    <string name="dead_reason_tile_damage_cold">Ihr seid &font_tundra;Erfroren&font_end;!</string>
 
-    <string name="blacksmith_message">Hello! Do you need to improve any "&font_green;\*&font_end;" equipment?&br;&br;Maybe scrap a piece of equipment?&br;&br;I can also craft bars from your ores if you need it.&br;&br;Just tell me and I\'ll do my best!&br;&br;Remember, I can\'t work with wielded or equipped items.</string>
-    <string name="blacksmith_no_equipment_message">I\'m sorry, but you don\'t seem to have any equipment I can improve…</string>
-    <string name="blacksmith_no_equipment_message_scrap">I\'m sorry, but you don\'t seem to have any equipment I can scrap…</string>
+    <string name="blacksmith_message">Hallo! Möchtet ihr irgendwelche "&font_green;\*&font_end;" Ausrüstung verbessert haben?&br;&br;Oder lieber etwas zerlegen?&br;&br;Ich kann auch euer Erz zu barren einschmelzen.&br;&br;Sagt es mir einfach und ich tue mein bestes!&br;&br;Aber denkt daran mit dem was ihr Tragt kann ich nicht arbeiten.</string>
+    <string name="blacksmith_no_equipment_message">Es tut mir leid aber anscheinend habt ihr nichts an dem ich arbeiten könnte…</string>
+    <string name="blacksmith_no_equipment_message_scrap">Es tut mir leid aber ihr habt keine Ausrüstung die ich zerlegen kann…</string>
     <string name="blacksmith_cost" tools:ignore="PluralsCandidate">&font_gold;%1$d Gold&font_end;</string>
-    <string name="blacksmith_improved_equipment_to_level">Improved %1$s!</string>
-    <string name="blacksmith_title">&font_iron;Blacksmith&font_end;</string>
-    <string name="blacksmith_scrapped_equipment">Scrapped %1$s into %2$s!</string>
-    <string name="blacksmith_failed_scrapping">Failed scrapping %1$s…</string>
-    <string name="blacksmith_craft_cost">Craft: &font_gold;%1$d&font_end; Gold</string>
-    <string name="blacksmith_crafted">Crafted %s!</string>
-    <string name="blacksmith_not_enough_material">You don\'t have the necessary materials…</string>
-    <string name="needs_two_dots">Needs:</string>
-    <string name="well_drink_message">Drink from the %1$s?</string>
-    <string name="well_message_empty">The %1$s is empty…</string>
-    <string name="castle_message_cant_pass">Stop! You are not allowed to enter!&br;&br;Only those who have something to offer to the &font_gold;King &font_end;are allowed to pass!</string>
-    <string name="castle_message_have_letter">Hello! You have a &font_cyan;Letter &font_end;For The &font_gold;King &font_end;you say?&br;&br;Come, enter the &font_stone;Castle &font_end;and give it to him…</string>
-    <string name="castle_king_title">&font_gold;King&font_end;</string>
-    <string name="castle_king_message_1">You\'ve got something for me?&br;&br;Give it to me…</string>
-    <string name="castle_king_message_2">Thanks… Oh, interesting… I\'ll read it in private.</string>
+    <string name="blacksmith_improved_equipment_to_level">%1$s verbessert!</string>
+    <string name="blacksmith_title">&font_iron;Schmied&font_end;</string>
+    <string name="blacksmith_scrapped_equipment">%1$s zerlegt und %2$s erhalten!</string>
+    <string name="blacksmith_failed_scrapping">Zerlegen von %1$s fehlgeschlagen…</string>
+    <string name="blacksmith_craft_cost">Herstellen: &font_gold;%1$d&font_end; Gold</string>
+    <string name="blacksmith_crafted">%s hergestellt!</string>
+    <string name="blacksmith_not_enough_material">Ihr habt die nötigen Materialien nicht…</string>
+    <string name="needs_two_dots">Benötigt:</string>
+    <string name="well_drink_message">Trinkt aus dem %1$s?</string>
+    <string name="well_message_empty">Der %1$s ist leer…</string>
+    <string name="castle_message_cant_pass">Stop! Es ist euch nicht gestattet die &font_stone;Burg &font_end; zu betreten!&br;&br;Nur wer etwas mit dem &font_gold;König &font_end;zu tun hat darf eintreten!</string>
+    <string name="castle_message_have_letter">Hallo! Ihr habt einen &font_cyan;Brief &font_end;für den &font_gold;König &font_end;sagt ihr?&br;&br;Kommt, betretet die &font_stone;Burg &font_end;und gebt ihn dem &font_gold;König &font_end; persönlich…</string>
+    <string name="castle_king_title">&font_gold;König&font_end;</string>
+    <string name="castle_king_message_1">Ihr habt etwas für mich? &br;&br;Gebt es mir…</string>
+    <string name="castle_king_message_2">Danke… Oh, Interessant Ich werde das in meinen Gemächern Lesen.</string>
     <string name="castle_king_message_3">…</string>
-    <string name="castle_king_message_4">I see…</string>
-    <string name="castle_king_message_5">Oh, you are still here?</string>
-    <string name="castle_king_message_6">Oh, and I suppose you are expecting something in return…</string>
-    <string name="castle_king_message_7">Okay… here you are! Now, leave my &font_stone;Castle&font_end;!</string>
-    <string name="castle_king_gives_you_this">The &font_gold;King&font_end; gives you %1$s!</string>
-    <string name="castle_message_royal_seal_message">I see you have a &font_gold;Royal Seal &font_end;from the &font_gold;King&font_end;. If you give me &font_cyan;%1$d &font_end;of them, I will give you a &font_gold;Royal&font_end; &font_iron;Shield &font_end;in exchange.&br;&br;Do you want it?</string>
-    <string name="castle_message_royal_seal_not_enough">You don\'t have enough &font_gold;Royal Seal&font_end;… Come back when you have at least &font_cyan;%1$d&font_end;!</string>
+    <string name="castle_king_message_4">Ja genau…</string>
+    <string name="castle_king_message_5">Oh, ihr seid immernoch hier?</string>
+    <string name="castle_king_message_6">Oh, ich nehme an ihr wollt eine Belohnung…</string>
+    <string name="castle_king_message_7">Okay… Nun verlasst meine &font_stone;Burg&font_end;!</string>
+    <string name="castle_king_gives_you_this">Ihr erhaltet %1$s vom &font_gold;König&font_end;!</string>
+    <string name="castle_message_royal_seal_message">Ich sehe ihr habt ein &font_gold;Königliches Siegel &font_end;vom &font_gold;König&font_end;. Wenn ihr mir &font_cyan;%1$d &font_end; gebt, Gebe ich euch dafür einen &font_gold;Königlichen&font_end; &font_iron;Schild &font_end;.&br;&br;Wollt ihr ihn?</string>
+    <string name="castle_message_royal_seal_not_enough">Ihr habt nicht genügend &font_gold;Königliche Siegel&font_end;… Kommt wieder wenn ihr mindestens &font_cyan;%1$d&font_end; habt!</string>
     <string name="bar_caps">Bar</string>
-    <string name="bar_text_question_eat_at_the" tools:ignore="PluralsCandidate">Do you want to eat for &font_gold;%1$d Gold&font_end;?</string>
-    <string name="bar_not_hungry">Not hungry…</string>
-    <string name="bar_ate_at_the">You ate at the %1$s.</string>
-    <string name="bar_not_enough_gold">You don\'t have enough gold to eat in the %1$s.</string>
-    <string name="not_enough_gold">You don\'t have enough gold…</string>
-    <string name="abandoned_house_text_question_enter_the">Enter the %1$s?</string>
-    <string name="abandoned_house_you_find_nothing_in_the_">You find nothing in the %1$s…</string>
-    <string name="portal_enter_mysterious_portal">It is a mysterious &font_portal;Portal&font_end;… enter?</string>
-    <string name="portal_teleported_to_x_y">Teleported to &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end;!</string>
-    <string name="slave">Slave</string>
-    <string name="slave_runs_away">The %1$s runs away leaving something behind…</string>
-    <string name="slave_thanks_for_freeing_me">Thanks for freeing me!</string>
-    <string name="guard">Guard</string>
-    <string name="guard_start_dialog">I\'m taking this &font_cyan;Slave&font_end; to execution, move or you\'ll taste the iron of my sword!</string>
-    <string name="troll_pay_or_fight" tools:ignore="PluralsCandidate">I\'m %1$s! This is my bridge! If you want pass to, you me pay have &font_gold;%2$d gold&font_end;, or you die from me!</string>
-    <string name="troll_not_enough_gold">You don\'t have enough &font_gold;gold&font_end;! The %1$s attacks you!</string>
-    <string name="troll_leaves_happily_with_your_money">%1$s leaves happily with your money…</string>
-    <string name="explorer_you_dont_have_the_necessary_island_soul" tools:ignore="UnusedResources">You don\'t have the necessary &font_cyan;Island Soul&font_end;…</string>
-    <string name="explorer_im_looking_for_an_island_soul">Hello! I\'m a passionate explorer and I\'m looking for an %1$s! If you happen to have one, could you give it to me?&br;&br;I will give you a &font_cyan;special &font_end;item in exchange!</string>
-    <string name="explorer_already_given">Hello! Thanks for the %1$s! I\'m still trying to figure out what to do with it… Onward, my friend!</string>
-    <string name="explorer_gaven_you">The %1$s gave you %2$s!</string>
-    <string name="waterfall_info">There is a beautiful &font_water;Waterfall&font_end; here. You contemplate it for a few moments before continuing with your adventure.</string>
-    <string name="sphinx_info">You look at the giant &font_pyramid;Sphinx &font_end;and are amazed about its size and beauty. It seems pretty old.</string>
-    <string name="text_ruins_info_not_explored">You wander in the &font_ruins;Ruins &font_end;for a while and when you are about to leave, you find something!</string>
-    <string name="text_ruins_info_explored">You wander again in the &font_ruins;Ruins&font_end;, but there\'s nothing around but old ruins and dust…</string>
+    <string name="bar_text_question_eat_at_the" tools:ignore="PluralsCandidate">Wollt ihr für &font_gold;%1$d Gold&font_end; essen?</string>
+    <string name="bar_not_hungry">Hab keinen Hunger…</string>
+    <string name="bar_ate_at_the">Ihr habt in der %1$s gegessen.</string>
+    <string name="bar_not_enough_gold">Ihr habt nicht genug gold um in der %1$s zu essen.</string>
+    <string name="not_enough_gold">Ihr habt nicht genug Gold…</string>
+    <string name="abandoned_house_text_question_enter_the">Das %1$s betreten?</string>
+    <string name="abandoned_house_you_find_nothing_in_the_">Ihr habt im %1$s nichts gefunden…</string>
+    <string name="portal_enter_mysterious_portal">Ein seltsames &font_portal;Portal&font_end;… Wollt ihr es betreten?</string>
+    <string name="portal_teleported_to_x_y">Ihr wurdet nach &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end; teleportiert!</string>
+    <string name="slave">Sklave</string>
+    <string name="slave_runs_away">Der %1$s läuft weg und lässt etwas zurück…</string>
+    <string name="slave_thanks_for_freeing_me">Danke das ihr mich befreit habt!</string>
+    <string name="guard">Wache</string>
+    <string name="guard_start_dialog">Ich bringe diesen &font_cyan;Sklaven&font_end; zu seiner Exekution. Geht mir aus dem Weg oder spürt meine Klinge!</string>
+    <string name="troll_pay_or_fight" tools:ignore="PluralsCandidate">Ich bin ein %1$s! Dies ist meine Brücke! Wenn ihr vorbei wollt müsst ihr mir &font_gold;%2$d gold&font_end; geben. Tut ihr dies nicht töte ich euch!</string>
+    <string name="troll_not_enough_gold">Ihr habt nicht genug &font_gold;Gold&font_end;! Der %1$s greift an!</string>
+    <string name="troll_leaves_happily_with_your_money">Der %1$s geht mit eurem Geld weg…</string>
+    <string name="explorer_you_dont_have_the_necessary_island_soul" tools:ignore="UnusedResources">Ihr habt die nötige &font_cyan;Seele der Insel&font_end; nicht…</string>
+    <string name="explorer_im_looking_for_an_island_soul">Hallo! Ich bin ein Leidenschaftlicher Entdecker und suche nach einer %1$s! Solltet ihr eine haben, könntet ihr sie mir geben?&br;&br; Ich werde euch dafür einen &font_cyan;besonderen &font_end;Gegenstand geben!</string>
+    <string name="explorer_already_given">Hallo! Danke für die %1$s! Ich versuche immernoch herraus zu finden was man damit machen kann… Reist weiter mein Freund!</string>
+    <string name="explorer_gaven_you">Der %1$s hat euch %2$s gegeben!</string>
+    <string name="waterfall_info">Hier ist ein wundervoller &font_water;Wasserfall&font_end;. Ihr grübelt ein wenig bevor ihr euer Arbenteuer fortsetzt.</string>
+    <string name="sphinx_info">Ihr seht eine gigantische &font_pyramid;Sphinx &font_end;und ihr seit von ihrer größe und pracht fasziniert. Sie scheint uralt zu sein.</string>
+    <string name="text_ruins_info_not_explored">Ihr spaziert, etwas, durch die &font_ruins;Ruinen&font_end;, gerade als ihr gehen wollt findet ihr etwas!</string>
+    <string name="text_ruins_info_explored">Ihr spaziert erneut durch die &font_ruins;Ruinen&font_end;, dieses mal leistet euch nur der Staub gesellschaft…</string>
     <string name="cabin_rest_in_the_question">Rest in the %1$s?</string>
-    <string name="cabin_rest_in_the">You rested in the %1$s.</string>
-    <string name="oasis_question_drink_from_the">Drink from the %1$s?</string>
-    <string name="oasis_drink_from_the">You drank from the %1$s and restored your hunger.</string>
-    <string name="oasis_disappears">The %1$s disappears…</string>
-    <string name="firecamp">&font_attack;Firecamp&font_end;</string>
-    <string name="firecamp_placed_the_">Placed the %1$s!</string>
-    <string name="firecamp_extinguishes">%1$s extinguishes…</string>
-    <string name="monster_attacks_in_">There was a %1$s in the %2$s! It attacks you!</string>
-    <string name="thief_dialog">I stole nothing! Please, let me go!</string>
-    <string name="thief_stole_gold">You feel your pockets emptier…</string>
+    <string name="cabin_rest_in_the">Ihr ruht euch in der %1$s aus.</string>
+    <string name="oasis_question_drink_from_the">Ihr trinkt aus der %1$s?</string>
+    <string name="oasis_drink_from_the">ihr habt aus der %1$s getrunken. Euer Hunger wurde Regeneriert</string>
+    <string name="oasis_disappears">Die %1$s verschwindet…</string>
+    <string name="firecamp">&font_attack;Lagerfeuer&font_end;</string>
+    <string name="firecamp_placed_the_">%1$s gebaut!</string>
+    <string name="firecamp_extinguishes">Das %1$s brennt nieder…</string>
+    <string name="monster_attacks_in_">Da war ein %1$s im %2$s! Er greift an!</string>
+    <string name="thief_dialog">Ich hab nichts gestohlen! Bitte, lasst mich gehen!</string>
+    <string name="thief_stole_gold">Eure Taschen werden leichter…</string>
 
-    <string name="tile_content_stone_bridge_desc">An old but nice &font_stone;stone bridge&font_end;.</string>
-    <string name="tile_content_type_pyramid_desc">A huge and impressive &font_pyramid;pyramid&font_end;.</string>
-    <string name="tile_content_type_windmill_desc_first">It\'s a big &font_wood;Windmill&font_end;. There seems to be some &font_food;food &font_end;inside!</string>
-    <string name="tile_content_type_windmill_desc_second">It\'s a big &font_wood;Windmill&font_end;. There\'s nothing inside.</string>
+    <string name="tile_content_stone_bridge_desc">Eine alte aber solide &font_stone;Steinbrücke&font_end;.</string>
+    <string name="tile_content_type_pyramid_desc">Eine große, beeindruckende &font_pyramid;Pyramide&font_end;.</string>
+    <string name="tile_content_type_windmill_desc_first">Eine große &font_wood;Windmühle&font_end;. Es scheint als währe im inneren &font_food;Essen&font_end;!</string>
+    <string name="tile_content_type_windmill_desc_second">Eine große &font_wood;Windmühle&font_end;. Sie ist leer.</string>
 
-    <string name="teleport_stone_teleported_to_x_y">You teleported to &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end;!</string>
+    <string name="teleport_stone_teleported_to_x_y">Ihr wurdet nach &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end; teleportiert!</string>
 
-    <string name="merchant_master_marks_exchanged_message">Oh, it\'s you again… Thanks for your contribution to the &font_gold;Merchants\' Guild&font_end;.</string>
-    <string name="merchant_master_no_business_with_you">I have no business to do with you…</string>
-    <string name="merchant_master_marks_exchange_message">Oh, hello! I see you have a &font_cyan;Merchants\' Mark&font_end;…&br;&br;Would you be interested in contributing to the &font_gold;Merchants\' Guild&font_end;? &font_cyan;%1$d&font_end; &font_cyan;Marks &font_end;will be enough.&br;&br;In exchange, I will give you this:&br;%2$s.</string>
-    <string name="merchant_master_marks_exchange_success_message">There they are! Thank you!&br;&br;As promised, this %1$s is for you!&br;Oh, and welcome to the &font_gold;Merchants\' Guild&font_end;…</string>
-    <string name="merchant_master_not_enough">I\'m afraid you don\'t have enough &font_cyan;Merchants\' Mark &font_end;with you…&br;&br;Come back when you have &font_cyan;%1$d&font_end;.</string>
+    <string name="merchant_master_marks_exchanged_message">Oh, ihr schon wieder… Danke für euren beitrag zur &font_gold;Händlergilde&font_end;.</string>
+    <string name="merchant_master_no_business_with_you">ich habe nichts mit euch zu schaffen…</string>
+    <string name="merchant_master_marks_exchange_message">Oh, hallo! Ich sehe ihr habt ein &font_cyan;Händlerzeichen&font_end;…&br;&br; Seid ihr interessiert euren beitrag zur &font_gold;Händlergilde&font_end; zu leisten? &font_cyan;%1$d&font_end; &font_cyan;Händlerzeichen &font_end;dürften genug sein.&br;&br; Im austausch dafür werde ich euch &br;%2$s geben.</string>
+    <string name="merchant_master_marks_exchange_success_message">Ah, da sind sie ja… Danke sehr!&br;&br;Wie versprochen %1$s gehört nun euch!&br;Oh und übrigens willkommen in der &font_gold;Händlergilde&font_end;…</string>
+    <string name="merchant_master_not_enough">tut mir leid ihr habt nicht genug &font_cyan;Händlerzeichen&font_end;bei euch…&br;&br;Kommt wieder wenn ihr &font_cyan;%1$d&font_end; &font_cyan;Händlerzeichen&font_end; habt.</string>
 
-    <string name="temple_explore_the_temple_it_seems_dangerous">Explore the %1$s? It seems dangerous…</string>
-    <string name="temple_explore_1">You enter the %1$s. There is a long hallway and at the end of it you find two doors: a &font_red;red door &font_end;and a &font_blue;blue door&font_end;. Which one do you open?</string>
-    <string name="temple_explore_1_red_door">&font_red;Red door&font_end;</string>
-    <string name="temple_explore_1_blue_door">&font_blue;Blue door&font_end;</string>
-    <string name="temple_explore_2_a">You continue through a long hallway and at the end you find a lever. It seems you can switch it to the &font_cyan;right &font_end;or to the &font_cyan;left&font_end;. Which direction do you switch it?</string>
-    <string name="temple_explore_2_a_switch_left">&font_cyan;Left&font_end;</string>
-    <string name="temple_explore_2_a_switch_right">&font_cyan;Right&font_end;</string>
-    <string name="temple_explore_2_b">You find a big room full of old furniture and dust. You look around and at the further wall you see two buttons. Which one do you press?</string>
-    <string name="temple_explore_2_b_button_1">&font_cyan;Button 1&font_end;</string>
-    <string name="temple_explore_2_b_button_2">&font_cyan;Button 2&font_end;</string>
-    <string name="temple_explore_2_b_first_button_1">Oh! You are suddenly falling down through what seems to be a spiral slide…</string>
-    <string name="temple_explore_2_b_first_button_2">You finally fall in a small room with nothing else but a small &font_wood;wooden chest&font_end;. Open it?</string>
-    <string name="temple_explore_2_b_first_button_open_yes">Yes</string>
-    <string name="temple_explore_2_b_first_button_open_no">No</string>
-    <string name="temple_explore_2_b_first_button_open_decide_to_open_1" tools:ignore="PluralsCandidate">You open the &font_wood;wooden chest &font_end;and find &font_gold;%1$d gold&font_end;!</string>
-    <string name="temple_explore_2_b_first_button_open_decide_to_open_2">After celebrating the findings, you see a window that seems to strangely connect to the outside of the temple. (How is that even possible? You were falling down through that spiral slide!)</string>
-    <string name="temple_explore_2_b_first_button_open_decide_to_open_3">You jump outside the temple through the window and realise the entrance is suddenly blocked by some rocks. Better leave that temple alone.</string>
-    <string name="temple_explore_2_b_first_button_open_decide_to_not_open_1">You decide to not open the &font_wood;wooden chest&font_end;. You find a window that seems to strangely connect to the outside of the temple. (How is that even possible? You were falling down through that spiral slide!)</string>
-    <string name="temple_explore_2_b_first_button_open_decide_to_not_open_2">You jump outside the temple through the window and realise the entrance is suddenly blocked by some rocks. Better leave that temple alone.</string>
-    <string name="temple_explore_2_b_second_button_1">After pushing the second button, something hits your head and you lose your consciousness.</string>
-    <string name="temple_explore_2_b_second_button_2">You open your eyes outside of the temple. You realise there are rocks blocking where the entrance was.</string>
-    <string name="temple_explore_3_a">As soon as you move the lever, a secret wall is opened and you walk through it. Behind it there\'s a &font_gold;golden chest&font_end;! Open it?</string>
-    <string name="temple_explore_3_a_open_yes">Yes</string>
-    <string name="temple_explore_3_a_open_no">No</string>
-    <string name="temple_explore_3_a_opening_1">You try to open the &font_gold;golden chest &font_end;but as soon as you touch it, you feel an electric shock and lose consciousness.</string>
-    <string name="temple_explore_3_a_opening_2">You open your eyes outside of the temple. You realise there are just rocks blocking where the entrance was.</string>
-    <string name="temple_explore_3_a_not_opening_1">You decide to not open the chest and realise next to the wall there\'s a door. You open it and see there\'s light at the end of the path.</string>
-    <string name="temple_explore_3_a_not_opening_2">As soon as you walk outside, a group of rocks fall and block the entrance.</string>
-    <string name="temple_explore_3_b">As soon as you move the lever, a door is opened. You cross it. There\'s a short hallway and at the end of it there are two paths: one seems darker than the other. Which one do you take?</string>
-    <string name="temple_explore_3_b_darker">&font_cyan;Darker Path&font_end;</string>
-    <string name="temple_explore_3_b_normal">&font_cyan;Normal Path&font_end;</string>
-    <string name="temple_explore_4_a_1">You go through the darker path and continue walking for a while until you find a wall. When you turn around to go back to where you came from, there\'s a new wall.</string>
-    <string name="temple_explore_4_a_2">You are trapped. After being lost for a long time, you lose your consciousness…</string>
-    <string name="temple_explore_4_a_3">You open your eyes outside of the temple. You realise there are rocks blocking where the entrance was.</string>
-    <string name="temple_explore_4_b_1">You follow the normal path for a while until you find a wall with a suspicious &font_red;torch&font_end;. What do you do, &font_cyan;pull it &font_end;or &font_cyan;turn it &font_end;to the side?</string>
-    <string name="temple_explore_4_b_pull_it">&font_cyan;Pull it&font_end;</string>
-    <string name="temple_explore_4_b_turn_it">&font_cyan;Turn it&font_end;</string>
-    <string name="temple_explore_5_a">Suddenly, the walls around you are transformed and a big and golden room appears. There is a &font_silver;silver chest &font_end;in the middle of the room. Do you open it?</string>
-    <string name="temple_explore_5_a_yes">Yes</string>
-    <string name="temple_explore_5_a_no">No</string>
-    <string name="temple_explore_5_a_yes_consequence_1" tools:ignore="PluralsCandidate">You open the &font_silver;silver chest&font_end;! There\'s &font_gold;%1$d gold &font_end;and a %2$s! You take it and suddenly, a mysterious gas comes out and you lose your consciousness…</string>
-    <string name="temple_explore_5_a_yes_consequence_2">You open your eyes outside of the temple. You realise there are rocks blocking where the entrance was.</string>
-    <string name="temple_explore_5_a_no_consequence">After deciding to not open the chest, an unknown deep voice says: \'After reaching so far and surviving all the dangers, you are not opening the chest? Your punishment will be a fight against me!\'</string>
-    <string name="temple_explore_5_b">The &font_red;torch&font_end; turns to dust and everything goes dark…</string>
-    <string name="temple_explore_5_b_2">Suddenly, you open your eyes outside of the temple. You realise there are rocks blocking where the entrance was.</string>
-    <string name="temple_already_explored">Can\'t go inside… The entrance is blocked by rocks.</string>
+    <string name="temple_explore_the_temple_it_seems_dangerous">Diesen %1$s erkunden? Scheint gefährlich zu sein…</string>
+    <string name="temple_explore_1">Ihr betretet den %1$s. Ihr geht durch einen langen Gang an dessen ende ihr zwei Türen findet: eine &font_red;rote Tür &font_end;und eine &font_blue;blaue Tür&font_end;. Durch welche Tür wollt ihr gehen?</string>
+    <string name="temple_explore_1_red_door">Die &font_red;rote Tür&font_end;</string>
+    <string name="temple_explore_1_blue_door">Die &font_blue;Blaue Tür &font_end;</string>
+    <string name="temple_explore_2_a">Ihr geht durch einen weiteren langen Tunnel. Am ende dieses Tunnels findet ihr einen Hebel. Anscheinend könnt ihr ihn nach &font_cyan;Rechts &font_end;oder &font_cyan;Links&font_end; drücken. In welche Richtung wollt ihr ihn umlegen?</string>
+    <string name="temple_explore_2_a_switch_left">Nach &font_cyan;Links&font_end;</string>
+    <string name="temple_explore_2_a_switch_right">Nach &font_cyan;Rechts&font_end;</string>
+    <string name="temple_explore_2_b">Ihr findet einen großen Raum voller alter, staubbedeckter Möbel. Ihr schaut euch um. An der gegenüberliegenden Wand seht ihr zwei Knöpfe. Welchen wollt ihr drücken?</string>
+    <string name="temple_explore_2_b_button_1">Den ersten &font_cyan;Knopf&font_end;</string>
+    <string name="temple_explore_2_b_button_2">Den zweiten &font_cyan;Knopf&font_end;</string>
+    <string name="temple_explore_2_b_first_button_1">Oh! Plötzlich fallt ihr durch den Boden auf eine Spiralförmige Rutsche…</string>
+    <string name="temple_explore_2_b_first_button_2">Am Ende der Rutsche fallt ihr in einen kleinen Raum der, bis auf eine &font_wood;Holzkiste&font_end;, leer ist. Wollt ihr sie Öffnen?</string>
+    <string name="temple_explore_2_b_first_button_open_yes">&font_wood;Holzkiste&font_end; öffnen</string>
+    <string name="temple_explore_2_b_first_button_open_no">&font_wood;Holzkiste&font_end; nicht öffnen</string>
+    <string name="temple_explore_2_b_first_button_open_decide_to_open_1" tools:ignore="PluralsCandidate">Ihr öffnet die &font_wood;Holzkiste &font_end;und findet &font_gold;%1$d Gold&font_end;!</string>
+    <string name="temple_explore_2_b_first_button_open_decide_to_open_2">Nach dem ihr euch über den Fund gefreut habt seht ihr ein Fenster welches, seltsamerweise, zur Außenwelt zu führen scheint. (Wie ist das überhaupt möglich nach dieser Rutsche?)</string>
+    <string name="temple_explore_2_b_first_button_open_decide_to_open_3">Ihr springt nach draußen und realisiert das der Eingang eingestürzt ist. Am besten lasst ihr diesen Tempel alleine.</string>
+    <string name="temple_explore_2_b_first_button_open_decide_to_not_open_1">Ihr entscheidet euch die &font_wood;Holzkiste&font_end; nicht zu öffnen. Ihr findet ein Fenster welches, seltsamerweise, zur Außenwelt zu führen scheint. (Wie ist das überhaupt möglich nach dieser Rutsche?)</string>
+    <string name="temple_explore_2_b_first_button_open_decide_to_not_open_2">Ihr springt nach draußen und realisiert das der Eingang eingestürzt ist. Am besten lasst ihr diesen Tempel alleine.</string>
+    <string name="temple_explore_2_b_second_button_1">Nachdem ihr den Knopf gedrückt habt, trifft etwas euren Kopf und ihr werdet Ohnmächtig.</string>
+    <string name="temple_explore_2_b_second_button_2">Ihr öffnet eure Augen und findet euch auf dem Feld vor dem Tempel. Ihr bemerkt das der Eingang anscheinend eingestürzt ist.</string>
+    <string name="temple_explore_3_a">Genau als ihr den Hebel gewegt öffnet sich ein geheimes Fach. In dem Fach befindet sich eine &font_gold;goldene Truhe&font_end;! Wollt ihr sie Öffnen?</string>
+    <string name="temple_explore_3_a_open_yes">Ja</string>
+    <string name="temple_explore_3_a_open_no">Nein</string>
+    <string name="temple_explore_3_a_opening_1">Ihr versucht die &font_gold;goldene Truhe&font_end; zu öffnen. Als ihr die Truhe berührt, fühlt ihr einen Elektrischen schock und verliert das Bewusstsein.</string>
+    <string name="temple_explore_3_a_opening_2">Ihr öffnet eure Augen und findet euch auf dem Feld vor dem Tempel. Ihr bemerkt das der Eingang eingestürzt ist.</string>
+    <string name="temple_explore_3_a_not_opening_1">Ihr entscheidet euch die &font_gold;goldene Truhe&font_end; nicht zu öffnen. Ihr bemerkt eine Tür neben dem Fach mit einem, schwach vom ende, natürlich beleuchtetenen Tunnel.</string>
+    <string name="temple_explore_3_a_not_opening_2">Gerade als ihr den Tunnel verlassen habt stürzt der Eingang ein und wird blockiert.</string>
+    <string name="temple_explore_3_b">Als ihr den Hebel bewegt öffnet sich ein Tür. Als ihr durch die Tür tretet, seht ihr einen kurzen Gang. Am ende dieses Ganges seht ihr zwei pfade, einen Dunkleren und einen Helleren?</string>
+    <string name="temple_explore_3_b_darker">Den &font_cyan;Dunkleren Pfad&font_end;</string>
+    <string name="temple_explore_3_b_normal">Den &font_cyan;Helleren Pfad&font_end;</string>
+    <string name="temple_explore_4_a_1">Ihr geht für eine weile den dunkleren Pfad entlang bis ihr eine Wand erreicht. Ihr entscheidet euch umzudrehen und zurückzulaufen bis ihr... eine neue Wand Findet.</string>
+    <string name="temple_explore_4_a_2">Ihr seit gefangen, als jeder weitere Weg in einer Wand endet. Nachdem ihr einige Zeit verloren wart verliert ihr das Bewusstsein…</string>
+    <string name="temple_explore_4_a_3">Ihr öffnet eure Augen und findet euch auf dem Feld vor dem Tempel. Ihr bemerkt das der Eingang anscheinend eingestürzt ist.</string>
+    <string name="temple_explore_4_b_1">Ihr folgt dem helleren Pfad bis ihr eine auffällige &font_red;Fackel&font_end; an der Wand findet. Was wollt ihr machen, sie nach &font_cyan;unten drücken&font_end; oder sie &font_cyan;drehen&font_end;?</string>
+    <string name="temple_explore_4_b_pull_it">Sie &font_cyan;drücken&font_end;</string>
+    <string name="temple_explore_4_b_turn_it">Sie &font_cyan;drehen&font_end;</string>
+    <string name="temple_explore_5_a">Plötzlich transformieren sich die Wände und ein großer, goldener Raum erscheint. In der Mitte des Raumes steht eine &font_silver;silberne Truhe &font_end;. Wollt ihr sie öffnen?</string>
+    <string name="temple_explore_5_a_yes">Ja</string>
+    <string name="temple_explore_5_a_no">Nein</string>
+    <string name="temple_explore_5_a_yes_consequence_1" tools:ignore="PluralsCandidate">Ihr öffnet die &font_silver;silbere Kiste&font_end;! In ihr ist ein %2$s und &font_gold;%1$d Gold &font_end;. Ihr nehmt alles, als plötzlich ein unbekanntes Gas von irgendwo herkommt und ihr das verliert das Bewusstsein…</string>
+    <string name="temple_explore_5_a_yes_consequence_2">Ihr öffnet eure Augen und findet euch auf dem Feld vor dem Tempel. Ihr bemerkt das der Eingang eingestürzt ist und nun durch Felsen versperrt ist.</string>
+    <string name="temple_explore_5_a_no_consequence">Nachdem ihr euch dafür entschieden habt die Kiste nicht zu öffnen erklingt eine unbekannte tiefe Stimme und sagt: Nachdem ihr so weit gekommen seit und all die Gefahren überlebt habt wollt ihr die Truhe nicht öffnen? Solche Dummheit muss bestraft werden, ich werde euch vernichten!</string>
+    <string name="temple_explore_5_b">Die &font_red;Fackel&font_end; zerfällt zu Staub und die Welt wird schwarz…</string>
+    <string name="temple_explore_5_b_2">Als ihr eure Augen öffnet findet ihr euch Plötzlich vor dem Eingang des Tempels wieder. Der Eingang ist eingestürzt und unpassierbar ihr solltet gehen.</string>
+    <string name="temple_already_explored">Ihr kommt nicht rein… Der Eingang ist versperrt.</string>
 
-    <string name="inn_title">Inn</string>
-    <string name="inn_question_rest_in_the" tools:ignore="PluralsCandidate">Do you want to rest for &font_gold;%1$d Gold&font_end;?</string>
-    <string name="inn_rest_inn">You rested in the Inn.</string>
-    <string name="inn_not_enough_gold">You don\'t have enough gold to rest in the &font_inn;Inn&font_end;.</string>
-    <string name="inn_already_rested">You don\'t need to rest right now.</string>
+    <string name="inn_title">Gasthaus</string>
+    <string name="inn_question_rest_in_the" tools:ignore="PluralsCandidate">Wollt ich euch im &font_inn;Gasthaus&font_end; für &font_gold;%1$d Gold&font_end; ausruhen?</string>
+    <string name="inn_rest_inn">Ihr habt euch im &font_inn;Gasthaus&font_end; ausgeruht.</string>
+    <string name="inn_not_enough_gold">Ihr habt nicht genug Gold im euch im &font_inn;Gasthaus&font_end; auszuruhen.</string>
+    <string name="inn_already_rested">Ihr müsst euch momentan nicht ausruhen…</string>
 
-    <string name="monster_info_stats_at_level_1">(Stats at level &font_cyan;%1$d&font_end;)</string>
-    <string name="monster_info_health">&font_health;Health&font_end;: &font_health;%1$d&font_end;</string>
+    <string name="monster_info_stats_at_level_1">(Werte auf Level &font_cyan;%1$d&font_end;)</string>
+    <string name="monster_info_health">&font_health;Leben&font_end;: &font_health;%1$d&font_end;</string>
     <string name="monster_info_mana">&font_mana;Mana&font_end;: &font_mana;%1$d&font_end;</string>
-    <string name="monster_info_attack">&font_attack;Attack&font_end;: &font_attack;%1$d&font_end;</string>
-    <string name="monster_info_defense">&font_defense;Defense&font_end;: &font_defense;%1$d&font_end;</string>
-    <string name="monster_info_intelligence">&font_mana;Intelligence&font_end;: &font_mana;%1$d&font_end;</string>
-    <string name="monster_info_speed">&font_speed;Speed&font_end;: &font_speed;%1$d&font_end;</string>
-    <string name="monster_info_actions" tools:ignore="UnusedResources">Actions:</string>
-    <string name="monster_info_action" tools:ignore="UnusedResources"><t>%1$s - &font_attack;Attack&font_end;: &font_attack;%2$d&font_end;</t></string>
-    <string name="monster_info_challenge_rating">&font_white;Challenge Rating&font_end;: &font_cyan;%1$d&font_end;</string>
+    <string name="monster_info_attack">&font_attack;Angriff&font_end;: &font_attack;%1$d&font_end;</string>
+    <string name="monster_info_defense">&font_defense;Verteidigung&font_end;: &font_defense;%1$d&font_end;</string>
+    <string name="monster_info_intelligence">&font_mana;Intilligenz&font_end;: &font_mana;%1$d&font_end;</string>
+    <string name="monster_info_speed">&font_speed;Geschwindigkeit&font_end;: &font_speed;%1$d&font_end;</string>
+    <string name="monster_info_actions" tools:ignore="UnusedResources">Aktionen:</string>
+    <string name="monster_info_action" tools:ignore="UnusedResources"><t>%1$s - &font_attack;Angriff&font_end;: &font_attack;%2$d&font_end;</t></string>
+    <string name="monster_info_challenge_rating">&font_white;Challenge Wertung&font_end;: &font_cyan;%1$d&font_end;</string>
 
     <string name="skill_tree_button_with_sp">Skills Tree (&font_cyan;%1$d&font_end; SP)</string>
     <string name="skill_sacrificer">&font_red;Sacrificer&font_end;</string>
