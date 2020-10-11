@@ -3825,4 +3825,118 @@
 
     <string name="saving_checkpoint">&font_primary_light;&italic;[SAVING CHECKPOINT…]&italic_end;&font_end;</string>
 
+    <!-- NEW STRINGS -->
+    <string name="dropped_ammo_auto_looted_toast">You looted some of the used &font_wood;ammo&font_end;!</string>
+    <string name="settings_auto_loot_ammo_enabled">Combat auto loot ammo enabled</string>
+    <string name="dungeon_completed">(Completed)</string>
+
+    <string name="animal_newt">Newt</string>
+    <string name="animal_parrot">Parrot</string>
+    <string name="animal_dragonfly">Dragonfly</string>
+    <string name="animal_quetzalcoatlus">Quetzalcoatlus</string>
+    <string name="animal_koala">Koala</string>
+    <string name="animal_smilodon">Smilodon</string>
+
+    <string name="food_kalamari_kebab">&font_pet;Kalamari &font_end;&font_wood;Kebab&font_end;</string>
+    <string name="food_impaled_insects">&font_wood;Impaled &font_end;&font_insect;Insects&font_end;</string>
+    <string name="food_sushi">&font_blue;Sushi&font_end;</string>
+    <string name="food_stone_soup">&font_stone;Stone &font_end;&font_white;Soup&font_end;</string>
+    <string name="food_jello">&font_red;Jello&font_end;</string>
+
+    <string name="material_type_gelatine">&font_dark_red;Gelatine&font_end;</string>
+
+    <string name="you_cant_go">You can\'t go</string>
+    <string name="cant_use_this_here">Can\'t use this here…</string>
+
+    <string name="tile_content_type_jewelry">&font_pink;Jewelry&font_end;</string>
+    <string name="tile_content_type_grave">&font_stone;Grave&font_end;</string>
+
+    <string name="tile_content_type_trainer">&font_epic;Trainer&font_end;</string>
+    <string name="trainer_message">Welcome! I can train you if you pay me good &font_gold;gold&font_end;… Get stronger with my lessons!</string>
+    <string name="gold_to_base_stats_attack">Increase &font_attack;Attack &font_end; [&font_attack;%2$d&font_end;] &br;(&font_gold;%1$d &font_end;&font_gold;gold&font_end;)</string>
+    <string name="gold_to_base_stats_defense">Increase &font_defense;Defense &font_end;
+        [&font_defense;%2$d&font_end;] &br;(&font_gold;%1$d &font_end;&font_gold;gold&font_end;)</string>
+    <string name="gold_to_base_stats_speed">Increase &font_speed;Speed &font_end; [&font_speed;%2$d&font_end;] &br;(&font_gold;%1$d &font_end;&font_gold;gold&font_end;)</string>
+    <string name="gold_to_base_stats_intelligence">Increase &font_mana;Intelligence &font_end; [&font_mana;%2$d&font_end;] &br;(&font_gold;%1$d &font_end;&font_gold;gold&font_end;)</string>
+
+    <!-- DO NOT TRANSLATE -->
+    <string name="grave_scott">I love you, Mom. I always will. You are eternal.&br;Charlene Samuel 1939–2015 &br;#Foreverlove&br;</string>
+    <string name="grave_bearer">26.2.1946 – 5.9.2020&br;17.3.1942 – 3.3.2012&br;</string>
+
+    <!-- TRANSLATE -->
+    <string name="grave_other">It\'s an old grave…</string>
+
+    <string name="tool_shovel">&font_stone;Shovel&font_end;</string>
+    <string name="tool_action_shovel">&font_stone;Digging&font_end;</string>
+    <string name="item_info_tool_shovel">Use this to &font_stone;Dig &font_end;on a &font_gold;Treasure &font_end;&font_wood;Spot&font_end;, on a &font_stone;Grave &font_end;and also to &font_stone;Dig &font_end;walls on &font_stone;Dungeons&font_end;.</string>
+    <string name="skill_digger">&font_stone;Digger&font_end;</string>
+    <string name="skill_digger_description">The higher this skill, the better chances of successfully digging.</string>
+
+    <string name="materialsource_treasure_spot">&font_gold;Treasure &font_end;&font_wood;Spot&font_end;</string>
+    <string name="button_dig">Dig</string>
+    <string name="tile_content_type_treasure_map">&font_gold;Treasure &font_end;&font_wood;Map&font_end;</string>
+    <string name="item_info_treasure_map">Use this magical &font_gold;Treasure &font_end;&font_wood;Map &font_end;to know the location of a &font_gold;Treasure &font_end;&font_wood;Spot &font_end;in the current island.</string>
+    <string name="treasure_map_marks_coordinates">The &font_gold;Treasure &font_end;&font_wood;Map &font_end;displays an &font_wood;X &font_end;in %s!</string>
+    <string name="treasure_map_treasure_not_found">The &font_gold;Treasure &font_end;&font_wood;Map &font_end;didn\'t find any &font_gold;Treasure &font_end;&font_wood;Spot&font_end;…</string>
+    <string name="dig_dialog_title">Dig</string>
+    <string name="dig_dialog_message">Use your %s to Dig this wall?</string>
+
+    <string name="monster_tag_diamond">&font_cyan;*&font_end;&font_diamond;Diamonded&font_end;&font_cyan;*&font_end;</string>
+    <string name="monster_tag_gold">&font_cyan;*&font_end;&font_gold;Golden&font_end;&font_cyan;*&font_end;</string>
+    <string name="monster_tag_silver">&font_cyan;*&font_end;&font_silver;Silvered&font_end;&font_cyan;*&font_end;</string>
+
+    <string name="status_royal_rank">Royal Rank: &font_gold;%1$d&font_end;</string>
+
+    <string name="tile_content_type_obelisk">&font_gold;Obelisk&font_end;</string>
+    <string name="tile_content_type_troll_portal">&font_green;Troll &font_end;&font_portal;Portal&font_end;</string>
+
+    <string name="obelisk_text_1">1. jlinwg f xfm</string>
+    <string name="obelisk_text_2">2. jwzxfjwy jyfrnyqz</string>
+    <string name="obelisk_text_3">3. yfmy jhfqu</string>
+    <string name="obelisk_text_4">4. hmnw jg qqnb ztd isf,</string>
+    <string name="obelisk_text_5">5. wztd utwI.</string>
+    <string name="obelisk_text_6">6. jmy pjjx ztd kN.</string>
+    <string name="obelisk_text_7">7. dfb wztd ymlnk,</string>
+    <string name="obelisk_text_8">8. ynfb isf gwt</string>
+    <string name="obelisk_text_9">9. xswzy sjajx</string>
+    <string name="obelisk_text_10">10. jmy pjjx,</string>
+
+    <string name="troll_island_dialog_title">&font_gold;Troll &font_end;&font_cyan;Island &font_end;&font_portal;Portal &font_end;</string>
+    <string name="troll_island_dialog_message">A strange &font_portal;Portal &font_end;has appeared! Do you want to enter?</string>
+    <string name="troll_island_dialog_portal_disappear">The &font_gold;Troll &font_end;&font_cyan;Island &font_end;&font_portal;Portal &font_end;disappears…</string>
+
+    <string name="island_type_troll">&font_gold;Troll&font_end;</string>
+    <string name="island_arrival_type_troll_island">You arrive to what seems to be a small island. You hear some growlings in the distance.</string>
+
+    <string name="tile_type_troll_cave">Troll Cave</string>
+
+    <string name="achievement_name_troll_hunter">Troll Hunter</string>
+    <string name="achievement_desc_troll_hunter">Arrive to a Troll Island for the first time.</string>
+
+    <string name="title_the_troll_hunter_male">%1$s, the &font_stone;Troll Hunter&font_end;</string>
+    <string name="title_the_troll_hunter_female">%1$s, the &font_stone;Troll Hunter&font_end;</string>
+    <string name="title_the_troll_hunter_no_gender">%1$s, the &font_stone;Troll Hunter&font_end;</string>
+
+    <string name="material_type_troll_crown">&font_green;Troll &font_end;&font_gold;Crown&font_end;</string>
+    <string name="troll_portal_enter_message">Enter this &font_green;Troll &font_end;&font_portal;Portal&font_end;?&br;&br;(If you do, you won\'t be able to come back to this island…)</string>
+
+    <string name="tile_content_type_arena">&font_red;Arena&font_end;</string>
+    <string name="enter_arena_message">Enter the &font_red;Arena&font_end;?&br;&br;You will fight against various enemies of your same level, one after the other.&br;&br;If you win, you will earn a special prize!&br;&br;It costs &font_gold;%d Gold &font_end;to participate.</string>
+    <string name="won_arena_message">Congratulations!&br;&br;You won! Here you have the prize: %1$s and &font_gold;%2$d Gold&font_end;!&br;&br;Bye, champion!</string>
+    <string name="arena_already_completed">You already won in this &font_red;Arena&font_end;, champion!</string>
+    <string name="achievement_desc_arena_fighter">Win in the Arena for the first time.</string>
+
+    <string name="title_the_arena_fighter_male">%1$s, the &font_red;Arena Fighter&font_end;</string>
+    <string name="title_the_arena_fighter_female">%1$s, the &font_red;Arena Fighter&font_end;</string>
+    <string name="title_the_arena_fighter_no_gender">%1$s, the &font_red;Arena Fighter&font_end;</string>
+    <string name="arena_first_enemy_is_here">The first enemy is here!</string>
+    <string name="arena_next_enemy_is_here">The next enemy is here!</string>
+    <string name="arena_last_enemy_is_here">The last enemy is here!</string>
+    <string name="troll_shield">&font_green;Troll&font_end;</string>
+    <string name="world_current">Current</string>
+
+    <string name="spell_almost_kill_name">&font_pet;Almost &font_end;&font_red;Kill&font_end;</string>
+    <string name="spell_almost_kill_desc">Hits the enemy, leaving it at 1 health points if its health was greater than 1, otherwise you kill it.</string>
+    <string name="spell_almost_kill_desc_combat">You hit %1$s! %2$s receives &font_red;%3$d &font_end;damage!</string>
+    <string name="you_left_the_monster_very_weak">You left %1$s very weak! Increased chances of &font_pet;capturing &font_end;it!</string>
 </resources>

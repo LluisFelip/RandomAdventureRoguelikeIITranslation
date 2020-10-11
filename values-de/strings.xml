@@ -308,8 +308,7 @@
     <string name="inventory_damaged_by">Beschädigt von %1$s!</string>
     <string name="inventory_pickup_gold">&font_gold;%1$d&font_end; Gold aufgehoben!</string>
     <string name="inventory_required_level_x">&italic;Benötigtes Level: &font_cyan;%1$d&font_end;&italic_end;</string>
-    <string name="inventory_palm_tree_drop">Eine %1$s ist von der &font_coconut;Palme&font_end;
-        gefallen!</string>
+    <string name="inventory_palm_tree_drop">Eine %1$s ist von der &font_coconut;Palme&font_end; gefallen!</string>
     <string name="inventory_equipment_title_with_level">&font_wood;Ausrüstung &font_end;[&font_wood;µ&font_end;: &font_cyan;%1$d&font_end;]</string>
     <string name="inventory_equipment_empty">(Leer)</string>
     <string name="inventory_not_enough_space">Euer Inventar ist &font_red;voll&font_end;!</string>
@@ -348,8 +347,7 @@
     <string name="status_player_name">%1$s</string>
     <string name="status_player_level">Level &font_cyan;%1$d&font_end;</string>
     <string name="status_player_experience_needed">Erfahrung: &font_cyan;%1$d&font_end;/&font_cyan;%2$d&font_end;</string>
-    <string name="status_player_gold">Gold: &font_gold;%1$d&font_end;
-        (&font_gold;%2$d &font_end;+ &font_gold;%3$d&font_end;
+    <string name="status_player_gold">Gold: &font_gold;%1$d&font_end; (&font_gold;%2$d &font_end;+ &font_gold;%3$d&font_end;
         in der &font_gold;Bank&font_end;)</string>
     <string name="status_permadeath">&font_red;&bold;HARDCORE&bold_end;&font_end;</string>
     <string name="status_no_permadeath">&font_green;&bold;KEIN HARDCORE&bold_end;&font_end;</string>
@@ -385,7 +383,8 @@
     <string name="item_heal_potion_amount">&font_health;Heil&font_end;trank (&font_health;%1$d&font_end;)</string>
     <string name="item_mana_potion_amount">&font_mana;Mana&font_end;trank (&font_mana;%1$d&font_end;)</string>
     <string name="item_experience_potion_amount">&font_cyan;Erfahrungs&font_end;trank (&font_cyan;%1$d&font_end;)</string>
-    <string name="item_temporary_potion_amount">%1$s &font_white;[Tempoärer]&font_end; (&font_cyan;%2$d&font_end;)</string>
+    <string name="item_temporary_potion_amount">%1$s &font_white;[Tempoärer]&font_end;
+        (&font_cyan;%2$d&font_end;)</string>
     <string name="item_shield">Schild</string>
     <string name="item_monster_flesh">&font_red;%1$s&font_end; &font_red;Fleisch&font_end;</string>
     <string name="item_monster_flesh_edible">Gekochtes &font_red;%1$s&font_end; &font_red;Fleisch &font_end;(&font_cyan;%2$d&font_end;)</string>
@@ -473,26 +472,24 @@
     <string name="item_info_shield">Nehmt dies um euch gegen Monster zu verteidigen.&br;%1$s&br;%2$s</string>
     <string name="item_info_recipe">Lest dies um zu lernen wie man %1$s &font_cyan;herstellt &font_end;.</string>
     <string name="item_info_firecamp">Startet dieses %1$s um zu &font_green;kochen&font_end;.</string>
-    <string name="item_info_food">Esst dies um &font_green;%1$d&font_end;
-        Hunger zu Regenerieren.</string>
+    <string name="item_info_food">Esst dies um &font_green;%1$d&font_end; Hunger zu Regenerieren.</string>
     <string name="item_info_potion">Kippt euch dies reim um %1$s &font_health;Leben&font_end; zu regenerieren.</string>
-    <string name="item_info_mana_potion">Kippt euch dies reim um %1$s &font_mana;mana&font_end; zu regenerieren.</string>
+    <string name="item_info_mana_potion">Kippt euch dies reim um %1$s &font_mana;mana&font_end;
+        zu regenerieren.</string>
     <string name="item_info_experience_potion">Kippt euch dies reim um sofort %1$s &font_cyan;Erfahrung &font_end;zu erhalten.</string>
     <string name="item_info_material">Ein Material um andere Gegenstände &font_cyan;herzustellen &font_end;.</string>
     <string name="item_info_merchants_mark">Dieses besondere Symbol könnte für Jemanden oder Etwas wertvoll sein…</string>
     <string name="item_info_tool_chopping_axe">Benutze dies um &font_wood;Bäume zu fällen &font_end;um &font_wood;Holz&font_end;
         zu erhalten.</string>
     <string name="item_info_tool_pickaxe">Benutze dies um &font_stone;Steine abzubauen &font_end;um &font_stone;Stein &font_end;und andere Mineralien zu erhalten.</string>
-    <string name="item_info_tool_fishing_rod">Benutze dies um &font_cyan;Fisch&font_end;
-        in einem &font_cyan;Angelplatz&font_end; zu Fangen.</string>
-    <string name="item_info_tool_net">Benutze dies um &font_insect;Insekten&font_end;
-        zu fangen.</string>
+    <string name="item_info_tool_fishing_rod">Benutze dies um &font_cyan;Fisch&font_end; in einem &font_cyan;Angelplatz&font_end;
+        zu Fangen.</string>
+    <string name="item_info_tool_net">Benutze dies um &font_insect;Insekten&font_end; zu fangen.</string>
     <string name="item_info_tool_skinning_knife">Benutze dies um die &font_green;Leiche eines Monsters &font_end;
-        zu &font_skin;häuten &font_end;für die Chance &font_skin;Haut&font_end;
-        zu erhalten.</string>
-    <string name="item_info_tool_meat_cleaver">Nutze dies um die &font_green;Leiche eines Monsters &font_end;
-        zu zerhacken für die Chance &font_green;Monsterfleisch&font_end;zu erhalten.</string>
-    <string name="item_info_monster_flesh_edible">Esst die um &font_green;%1$d&font_end; Hunger zu Regenerieren.</string>
+        zu &font_skin;häuten &font_end;für die Chance &font_skin;Haut&font_end; zu erhalten.</string>
+    <string name="item_info_tool_meat_cleaver">Nutze dies um die &font_green;Leiche eines Monsters &font_end; zu zerhacken für die Chance &font_green;Monsterfleisch&font_end;zu erhalten.</string>
+    <string name="item_info_monster_flesh_edible">Esst die um &font_green;%1$d&font_end;
+        Hunger zu Regenerieren.</string>
     <string name="item_info_monster_flesh_not_edible">Kocht dies über einem &font_attack;Lagerfeuer &font_end;damit man es Essen kann.</string>
     <string name="item_info_nautical_chart">Wird von Seeleuten genutzt um Inseln eines bestimmten &font_cyan;Typs&font_end;
         anzusteuern.</string>
@@ -502,8 +499,7 @@
     <string name="item_info_magic_stone">Benutzt dies um die Intilligenz- und Angriffspunkte eines Gegenstandes miteinander Auszuwechseln.</string>
     <string name="item_info_island_soul">Die Mysteriöse Seele einer Insel…</string>
     <string name="item_info_spellbook">Lest die um den &font_mana;Zauberspruch&font_end;: %1$s zu lernen.</string>
-    <string name="item_info_teleport_stone">Nutzt dies um zum letzten &font_inn;Gasthaus &font_end;
-        in dem ihr ausgeruht habt oder zum Startpunkt dieser &font_cyan;Insel&font_end;
+    <string name="item_info_teleport_stone">Nutzt dies um zum letzten &font_inn;Gasthaus &font_end; in dem ihr ausgeruht habt oder zum Startpunkt dieser &font_cyan;Insel&font_end;
         zurückzukehren.</string>
     <string name="item_info_piece_of_map">Das &font_cyan;Stück einer Karte&font_end;. Um herrauszufinden wofür es ist müsst ihr mehr finden…</string>
     <string name="item_info_dark_orb">Ein Mysteriöser &font_dark_orb;dunkler Orb&font_end;.</string>
@@ -516,13 +512,13 @@
     <string name="item_info_equipment_speed">Geschwindigkeit: &font_speed;%1$d&font_end;</string>
     <string name="item_info_equipment_intelligence">Intelligenz: &font_mana;%1$d&font_end;</string>
     <string name="item_info_iron_bucket_empty">Kann mit Wasser oder anderen Flüssigkeiten gefüllt werden…</string>
-    <string name="item_info_iron_bucket_water">Kann auf ein &font_attack;Lagerfeuer &font_end;
-        geschüttet werden um es zu Löschen oder im Kampf auf ein &font_red;Monster &font_end;geworfen werden!</string>
+    <string name="item_info_iron_bucket_water">Kann auf ein &font_attack;Lagerfeuer &font_end; geschüttet werden um es zu Löschen oder im Kampf auf ein &font_red;Monster &font_end;geworfen werden!</string>
     <string name="item_info_purifying_seed">Pflanzt dies und gießt ihn mit einem &font_water;Wasser&font_end;&font_iron;eimer &font_end;damit er zu einem &font_purifying;Reinigenden&font_end;&font_wood;baum&font_end;
         herranwachsen kann.&br;&br;
         Ein &font_purifying;Reinigender&font_end;&font_wood;baum &font_end;verhindert das &italic;Erscheinen &italic_end;von Monstern auf dieser Insel.</string>
     <string name="item_info_iron_bucket_lava">Werft dies im Kampf auf ein &font_red;Monster &font_end;!</string>
-    <string name="item_info_iron_bucket_mana">Trinkt dies um all euer &font_mana;Mana&font_end; zu Regenerieren.</string>
+    <string name="item_info_iron_bucket_mana">Trinkt dies um all euer &font_mana;Mana&font_end;
+        zu Regenerieren.</string>
     <string name="item_info_a_letter_for_the_king">Er hat ein &font_gold;Royales Siegel&font_end;, Ihr solltet ihn zum &font_gold;König&font_end;
         bringen.</string>
     <string name="item_royal">&font_gold;Royal&font_end;</string>
@@ -818,19 +814,21 @@
     <string name="food_onion">Zwiebel</string>
     <string name="food_cucumber">Gurke</string>
     <string name="text_level_up_increasal">
-        &font_health;Leben&font_end; auf &font_health;%1$d&font_end; erhöht&br;
-        &font_mana;Mana&font_end; auf &font_mana;%2$d&font_end; erhöht&br; &font_attack;Angriff&font_end;
-        auf &font_attack;%3$d&font_end; erhöht&br; &font_defense;Verteidigung&font_end;
-        auf &font_defense;%4$d&font_end; erhöht&br; &font_speed;Geschwindigkeit&font_end; auf &font_speed;%5$d&font_end; erhöht&br;
-        &font_mana;Inelligenz&font_end; auf &font_mana;%6$d&font_end; erhöht&br;
+        &font_health;Leben&font_end; auf &font_health;%1$d&font_end; erhöht&br; &font_mana;Mana&font_end;
+        auf &font_mana;%2$d&font_end; erhöht&br; &font_attack;Angriff&font_end; auf &font_attack;%3$d&font_end;
+        erhöht&br; &font_defense;Verteidigung&font_end; auf &font_defense;%4$d&font_end; erhöht&br; &font_speed;Geschwindigkeit&font_end;
+        auf &font_speed;%5$d&font_end; erhöht&br; &font_mana;Inelligenz&font_end; auf &font_mana;%6$d&font_end; erhöht&br;
     </string>
 
-    <string name="level_up_inventory_increase">&br;Eure &font_gold;Inventargröße &font_end;wurde auf &font_gold;%1$d&font_end; vergrößert</string>
-    <string name="level_up_pets_increase">&br;Euer &font_pet;Haustierlimit &font_end; wurde auf &font_gold;%1$d&font_end; vergrößert</string>
+    <string name="level_up_inventory_increase">&br;Eure &font_gold;Inventargröße &font_end;wurde auf &font_gold;%1$d&font_end;
+        vergrößert</string>
+    <string name="level_up_pets_increase">&br;Euer &font_pet;Haustierlimit &font_end; wurde auf &font_gold;%1$d&font_end;
+        vergrößert</string>
     <string name="level_up_skill_point">&br;Ihr habt &font_cyan;%1$d &font_end;Skillpunkte verdient.</string>
 
     <string name="combat_monster_attacked_player">&font_red;%1$s &font_end;hat Angegriffen!&br;Ihr verliert &font_red;%2$d &font_end;Leben!</string>
-    <string name="combat_monster_action_attacked_player">&font_red;%1$s &font_end;hat mit &font_red;%2$s&font_end; angegriffen!&br;Ihr verliert &font_red;%3$d &font_end;Leben!</string>
+    <string name="combat_monster_action_attacked_player">&font_red;%1$s &font_end;hat mit &font_red;%2$s&font_end;
+        angegriffen!&br;Ihr verliert &font_red;%3$d &font_end;Leben!</string>
     <string name="combat_player_attacked_monster_damage">Ihr greift an!&br;&font_red;%1$s &font_end;verliert &font_red;%2$d &font_end;Leben!</string>
     <string name="combat_player_skill_dealt_damage">&font_red;%1$s &font_end;verliert &font_red;%2$d &font_end;Leben!</string>
     <string name="combat_player_skill_restored_health">Ihr Regeneriert &font_health;%1$d &font_end;Leben!</string>
@@ -1045,7 +1043,8 @@
 
     <string name="merchants_title">&font_gold;Händler &font_end;(&font_gold;%1$d&font_end;)</string>
     <string name="merchant_text_you_have_no_merchants_right_now">Ihr habt bisher noch keine Händler getroffen…</string>
-    <string name="merchant_quest_description">&font_gold;%1$s&font_end; bei &font_cyan;%2$d&font_end;, &font_cyan;%3$d &font_end;hat euch gebeten &font_cyan;%4$d &font_end;%5$s zu besorgen. Aktuell habt ihr %6$s. [&font_cyan;%7$s&font_end;]</string>
+    <string name="merchant_quest_description">&font_gold;%1$s&font_end;
+        bei &font_cyan;%2$d&font_end;, &font_cyan;%3$d &font_end;hat euch gebeten &font_cyan;%4$d &font_end;%5$s zu besorgen. Aktuell habt ihr %6$s. [&font_cyan;%7$s&font_end;]</string>
 
     <string name="quest_quests_title">&font_cyan;Quests &font_end;(&font_cyan;%1$d&font_end;)</string>
     <string name="quest_text_for_gold">für %1$s Gold</string>
@@ -1266,31 +1265,38 @@
 
     <string name="item_temporary_potion_mule">&font_wood;Packesel&font_end;trank</string>
     <string name="item_temporary_potion_mule_info">Trinkt dies um, kurzzeitig, eure Tragekapazität zu erhöhen.</string>
-    <string name="item_temporary_potion_mule_quaff">Inventarkapazität tempoär of &font_wood;%1$d&font_end; erhöht</string>
+    <string name="item_temporary_potion_mule_quaff">Inventarkapazität tempoär of &font_wood;%1$d&font_end;
+        erhöht</string>
     <string name="item_temporary_potion_mule_remove">Der Effekt des &font_wood;Packesel&font_end;tranks lassen nach…</string>
     <string name="item_temporary_potion_coward">&font_glass;Feiglings&font_end;trank</string>
     <string name="item_temporary_potion_coward_info">Trinkt dies um tempoär immer, vor einem Kampf, fliehen zu können.</string>
     <string name="item_temporary_potion_coward_quaff">Zeitfristige garantie vor Kämpfen zu fliehen</string>
     <string name="item_temporary_potion_coward_remove">Der Effekt des &font_glass;Feiglings&font_end;tranks lassen nach…</string>
     <string name="item_temporary_potion_big_stomach">&font_bar;Fettbauch&font_end;trank</string>
-    <string name="item_temporary_potion_big_stomach_info">Trinkt dies um tempoär resistenter gegen Hunger zu werden.<string>
+    <string name="item_temporary_potion_big_stomach_info">Trinkt dies um tempoär resistenter gegen Hunger zu werden.</string>
     <string name="item_temporary_potion_big_stomach_quaff">Tempoär resistenter gegen Hunger (&font_bar;%1$d&font_end;)</string>
     <string name="item_temporary_potion_big_stomach_remove">Der Effekt des &font_bar;Fettbauch&font_end;tranks lassen nach…</string>
     <string name="item_temporary_potion_attack">&font_attack;Angriffs&font_end;trank</string>
     <string name="item_temporary_potion_attack_info">Trinkt dies um tempoär euren &font_attack;Angriff&font_end; zu erhöhen.</string>
-    <string name="item_temporary_potion_attack_quaff">Euer &font_attack;Angriff &font_end;ist, tempoär, auf &font_attack;%1$d&font_end; erhöht.</string>
+    <string name="item_temporary_potion_attack_quaff">Euer &font_attack;Angriff &font_end;ist, tempoär, auf &font_attack;%1$d&font_end;
+        erhöht.</string>
     <string name="item_temporary_potion_attack_remove">Der Effekt des &font_attack;Angriffs&font_end;tranks lassen nach…</string>
     <string name="item_temporary_potion_defense">&font_defense;Verteidigungs&font_end;trank</string>
-    <string name="item_temporary_potion_defense_info">Trinkt dies um tempoär eure &font_defense;Verteidigung&font_end; zu erhöhen.</string>
-    <string name="item_temporary_potion_defense_quaff">Eure &font_defense;Verteidigung &font_end;ist, tempoär, auf &font_defense;%1$d&font_end; erhöht.</string>
+    <string name="item_temporary_potion_defense_info">Trinkt dies um tempoär eure &font_defense;Verteidigung&font_end;
+        zu erhöhen.</string>
+    <string name="item_temporary_potion_defense_quaff">Eure &font_defense;Verteidigung &font_end;ist, tempoär, auf &font_defense;%1$d&font_end;
+        erhöht.</string>
     <string name="item_temporary_potion_defense_remove">Der Effekt des &font_defense;Verteidigungs&font_end;tranks lässt nach</string>
     <string name="item_temporary_potion_speed">&font_speed;Geschwindigkeits&font_end;trank</string>
     <string name="item_temporary_potion_speed_info">Trinkt dies um tempoär eure &font_speed;Geschwindigkeit&font_end; zu erhöhen.</string>
-    <string name="item_temporary_potion_speed_quaff">Eure &font_speed;Geschwindigkeit &font_end;ist, tempoär, auf &font_speed;%1$d&font_end; erhöht.</string>
+    <string name="item_temporary_potion_speed_quaff">Eure &font_speed;Geschwindigkeit &font_end;ist, tempoär, auf &font_speed;%1$d&font_end;
+        erhöht.</string>
     <string name="item_temporary_potion_speed_remove">Der Effekt des &font_speed;Geschwindigkeits&font_end;tranks lässt nach…</string>
     <string name="item_temporary_potion_intelligence">&font_mana;Intilligenz&font_end;trank</string>
-    <string name="item_temporary_potion_intelligence_info">Trinkt dies um tempoär eure &font_mana;Intilligenz&font_end; zu erhöhen.</string>
-    <string name="item_temporary_potion_intelligence_quaff">Eure &font_mana;Intilligenz &font_end;ist, tempoär, auf &font_mana;%1$d&font_end; erhöht.</string>
+    <string name="item_temporary_potion_intelligence_info">Trinkt dies um tempoär eure &font_mana;Intilligenz&font_end;
+        zu erhöhen.</string>
+    <string name="item_temporary_potion_intelligence_quaff">Eure &font_mana;Intilligenz &font_end;ist, tempoär, auf &font_mana;%1$d&font_end;
+        erhöht.</string>
     <string name="item_temporary_potion_intelligence_remove">Der Effekt des &font_mana;Intilligenz&font_end;tranks lässt nach</string>
     <string name="item_temporary_potion_hot_protection">&font_red;Hitze&font_end;&font_green;schutz &font_end;trank [Tempoär]</string>
     <string name="item_temporary_potion_hot_protection_info">Trinkt dies um tempoär Schutz gegen &font_red;Hitze&font_end;schaden zu erhalten.</string>
@@ -1313,7 +1319,8 @@
     <string name="weapon_type_axe">Axt</string>
     <string name="weapon_type_dagger">Dolch</string>
 
-    <string name="hot_damage">Hier ist es zu &font_red;heiß &font_end; &font_red;%1$d &font_end; Hitzeschaden erlitten!</string>
+    <string name="hot_damage">Hier ist es zu &font_red;heiß &font_end; &font_red;%1$d &font_end;
+        Hitzeschaden erlitten!</string>
     <string name="cold_damage">Hier ist es zu &font_tundra;kalt &font_end; &font_red;%1$d &font_end;Kälteschaden erlitten!</string>
     <string name="protection_type_hot">&font_hell;Heiß&font_end;</string>
     <string name="protection_type_cold">&font_tundra;Kalt&font_end;</string>
@@ -1331,8 +1338,7 @@
 
     <string name="skills_title">&font_cyan;Skills&font_end;</string>
     <string name="skills_skill_learnt">%1$s Gelernt!</string>
-    <string name="skills_tree_title">&font_cyan;Skillbaum&font_end; (&font_cyan;%1$d&font_end;
-        Skill Points)</string>
+    <string name="skills_tree_title">&font_cyan;Skillbaum&font_end; (&font_cyan;%1$d &font_end;Skill Points)</string>
     <string name="skills_empty_message">Ihr habt noch keine &font_cyan;Skills&font_end;…</string>
     <string name="skills_empty_tree_message">Ihr habt keine &font_cyan;Skills&font_end; zu lernen…</string>
     <string name="skills_necessary_skill_text">Benötigter Skill: &font_cyan;%1$s&font_end;</string>
@@ -1357,7 +1363,8 @@
     <string name="action_treasure_hunter_treasure_hunter">Erkenne wie viele &font_chest;Versteckte Gegenstände &font_end;auf dieser Insel sind.</string>
     <string name="action_treasure_hunter_action_description_positive_singular">Ihr Erkennt &font_cyan;%1$d &font_end;&font_chest;Versteckten Gegenstand&font_end;.</string>
     <string name="action_treasure_hunter_action_description_positive_plural">Ihr Erkennt &font_cyan;%1$d &font_end;&font_chest;Versteckte Gegenstände&font_end;.</string>
-    <string name="action_treasure_hunter_action_description_negative">Keine &font_chest;Versteckten Gegenstände&font_end; gefunden…</string>
+    <string name="action_treasure_hunter_action_description_negative">Keine &font_chest;Versteckten Gegenstände&font_end;
+        gefunden…</string>
 
     <string name="skill_fisherman">&font_cyan;Fischen&font_end;</string>
     <string name="skill_woodcutter">&font_wood;Holzfällen&font_end;</string>
@@ -1381,10 +1388,9 @@
     <string name="skill_spear_mastery_description">Mit einem &font_skill_attack;Speer &font_end;zu Kämpfen gibt &font_skill_attack;Speer&font_end;kampf Skills.</string>
     <string name="skill_axe_mastery_description">Mit einer &font_skill_attack;Axt &font_end;zu Kämpfen gibt &font_skill_attack;Axt&font_end;kampf Skills.</string>
     <string name="skill_mace_mastery_description">Mit einem &font_skill_attack;Streitkolben &font_end;zu Kämpfen gibt &font_skill_attack;Streitkolben&font_end;kampf Skills.</string>
-    <string name="skill_level_up">%1$s &font_cyan;Skill&font_end;
-        steigt auf &font_cyan;%2$d&font_end; an.</string>
-    <string name="spell_level_up">%1$s &font_mana;Zauberspruch&font_end;
-        steigt auf &font_cyan;%2$d&font_end; an.</string>
+    <string name="skill_level_up">%1$s &font_cyan;Skill&font_end; steigt auf &font_cyan;%2$d&font_end; an.</string>
+    <string name="spell_level_up">%1$s &font_mana;Zauberspruch&font_end; steigt auf &font_cyan;%2$d&font_end;
+        an.</string>
     <string name="skill_failed">%1$s fehlgeschlagen.</string>
     <string name="skill_damage_multiplier">Schaden: &font_red;%1$d&font_end;%% &font_attack;Angriff&font_end;</string>
     <string name="skill_number_of_attacks">&font_cyan;%1$d&font_end; mal angegriffen.</string>
@@ -1396,11 +1402,15 @@
     <string name="skill_mana_cost">Mana: &font_mana;%1$s&font_end;</string>
 
     <string name="action_trader_no_merchants_pending">Es gibt auf dieser Insel keine unbekannten &font_gold;Händler &font_end;mehr.</string>
-    <string name="action_trader_merchants_pending_amount">Es gibt &font_cyan;%d&font_end; unbekannte &font_gold;Händler &font_end;auf dieser Insel.</string>
+    <string name="action_trader_merchants_pending_amount">Es gibt &font_cyan;%d&font_end;
+        unbekannte &font_gold;Händler &font_end;auf dieser Insel.</string>
     <string name="action_trader_merchants_pending_amount_1">Es gibt &font_cyan;1&font_end; unbekannten &font_gold;Händler &font_end;auf dieser Insel.</string>
-    <string name="action_contractor_no_quests">Es gibt auf dieser Insel keine unbekannten &font_cyan;Quests&font_end; mehr.</string>
-    <string name="action_contractor_pending_amount_1">Es gibt &font_cyan;1&font_end; unbekannte &font_cyan;Quest &font_end;auf dieser Insel.</string>
-    <string name="action_contractor_pending_amount">Es gibt &font_cyan;%d&font_end; unbekannte &font_cyan;Quests &font_end;auf dieser Insel.</string>
+    <string name="action_contractor_no_quests">Es gibt auf dieser Insel keine unbekannten &font_cyan;Quests&font_end;
+        mehr.</string>
+    <string name="action_contractor_pending_amount_1">Es gibt &font_cyan;1&font_end;
+        unbekannte &font_cyan;Quest &font_end;auf dieser Insel.</string>
+    <string name="action_contractor_pending_amount">Es gibt &font_cyan;%d&font_end;
+        unbekannte &font_cyan;Quests &font_end;auf dieser Insel.</string>
 
     <string name="skill_sense_theres_something_hidden_here">Ihr fühlt das es hier etwas versteckt ist…</string>
     <string name="skill_search_found_nothing">ihr habt nichts gefunden…</string>
@@ -1574,7 +1584,8 @@
     <string name="pets_rename_pet_message">Wählt einen neuen Namen für %1$s!</string>
     <string name="pets_rename_pet_success">Ihr habt %1$s umbenannt! Nice!</string>
     <string name="pets_list">Haustier Liste</string>
-    <string name="pets_abandon_pet_message">Seit ihr sicher das ihr %1$s verlassen wollt? Es wird  &italic;für immer&italic_end; verschwinden…</string>
+    <string name="pets_abandon_pet_message">Seit ihr sicher das ihr %1$s verlassen wollt? Es wird &italic;für immer&italic_end;
+        verschwinden…</string>
     <string name="pets_abandon_pet_abandoned_message">Ihr habt %1$s verlassen… Auf Wiedersehen…</string>
 
     <string name="text_player_experience_given">Ihr habt &font_cyan;%1$d &font_end;Erfahrung erhalten!</string>
@@ -1998,12 +2009,14 @@
     <string name="skill_meditator">&font_mana;Meditator&font_end;</string>
     <string name="skill_meditator_description">Allows to &font_gold;Meditate &font_end;to restore &font_mana;Mana&font_end;.</string>
     <string name="skill_meditator_action_name">&font_mana;Meditate&font_end;</string>
-    <string name="skill_meditator_action_description">You &font_mana;meditated&font_end; and restored &font_mana;10 &font_end;mana points.</string>
+    <string name="skill_meditator_action_description">You &font_mana;meditated&font_end;
+        and restored &font_mana;10 &font_end;mana points.</string>
     <string name="skill_meditator_action_failed_description">You are too hungry to do this.</string>
     <string name="skill_mana_eater">&font_mana;Mana Eater&font_end;</string>
     <string name="skill_mana_eater_description">Allows to restore your hunger a little bit by using &font_mana;Mana&font_end;.</string>
     <string name="skill_mana_eater_action_name">&font_mana;Eat Mana&font_end;</string>
-    <string name="skill_mana_eater_action_description">You ate &font_mana;mana&font_end; and restored &font_cyan;10 &font_end;hunger points.</string>
+    <string name="skill_mana_eater_action_description">You ate &font_mana;mana&font_end;
+        and restored &font_cyan;10 &font_end;hunger points.</string>
     <string name="skill_mana_eater_action_failed_description">You don\'t have enough &font_mana;mana &font_end;to do this.</string>
     <string name="skill_perceptive">&font_cyan;Perceptive&font_end;</string>
     <string name="skill_perceptive_description">Detects when there\'s something hidden, so you can &font_cyan;Search &font_end;to find it.</string>
@@ -2025,7 +2038,8 @@
     <string name="spells_empty_message">You don\'t know any &font_mana;Spells &font_end;yet…</string>
     <string name="spell_fireball_name">&font_attack;Fireball&font_end;</string>
     <string name="spell_fireball_desc">Throws a &font_attack;fireball &font_end;at the enemy. Can &font_attack;burn&font_end;.</string>
-    <string name="spell_fireball_desc_combat">You throw a &font_attack;fireball&font_end; at %1$s! %2$s receives &font_red;%3$d &font_end;damage.</string>
+    <string name="spell_fireball_desc_combat">You throw a &font_attack;fireball&font_end;
+        at %1$s! %2$s receives &font_red;%3$d &font_end;damage.</string>
     <string name="spell_firebreath_name">&font_attack;Fire Breath&font_end;</string>
     <string name="spell_firebreath_desc">Breathes a large cone of &font_attack;flame&font_end;. Can &font_attack;burn&font_end;.</string>
     <string name="spell_firebreath_desc_combat">You breathe a large cone of &font_attack;flames &font_end;to %1$s! %2$s receives &font_red;%3$d &font_end;damage.</string>
@@ -2033,7 +2047,8 @@
     <string name="spell_flamethrower_desc">Throws a big blast of &font_attack;flames&font_end;. Can &font_attack;burn&font_end;.</string>
     <string name="spell_flamethrower_desc_combat">You throw a big blast of &font_attack;flames &font_end;to %1$s! %2$s receives &font_red;%3$d &font_end;damage.</string>
     <string name="spell_meteorite_name">&font_attack;Meteorite&font_end;</string>
-    <string name="spell_meteorite_desc">Invokes a big &font_attack;meteorite&font_end; towards the enemy. Can &font_attack;burn&font_end;.</string>
+    <string name="spell_meteorite_desc">Invokes a big &font_attack;meteorite&font_end;
+        towards the enemy. Can &font_attack;burn&font_end;.</string>
     <string name="spell_meteorite_desc_combat">You invoke a big &font_attack;meteorite &font_end;towards %1$s! %2$s receives &font_red;%3$d &font_end;damage.</string>
     <string name="spell_firestorm_name">&font_attack;Fire Storm&font_end;</string>
     <string name="spell_firestorm_desc">Invokes a &font_attack;fire storm&font_end;. Can &font_attack;burn&font_end;.</string>
@@ -2055,10 +2070,12 @@
     <string name="spell_tsunami_desc_combat">You invoke a powerful &font_water;tsunami &font_end;to %1$s! %2$s receives &font_red;%3$d &font_end;damage.</string>
     <string name="spell_icebolt_name">&font_ice;Ice Bolt&font_end;</string>
     <string name="spell_icebolt_desc">Launches an &font_ice;ice bolt&font_end;. Can &font_ice;freeze&font_end;.</string>
-    <string name="spell_icebolt_desc_combat">You launch an &font_ice;ice bolt&font_end; to %1$s! %2$s receives &font_red;%3$d &font_end;damage.</string>
+    <string name="spell_icebolt_desc_combat">You launch an &font_ice;ice bolt&font_end;
+        to %1$s! %2$s receives &font_red;%3$d &font_end;damage.</string>
     <string name="spell_icespear_name">&font_ice;Ice Spear&font_end;</string>
     <string name="spell_icespear_desc">Throws an &font_ice;ice spear&font_end;. Can &font_ice;freeze&font_end;.</string>
-    <string name="spell_icespear_desc_combat">You throw an &font_ice;ice spear&font_end; to %1$s! %2$s receives &font_red;%3$d &font_end;damage.</string>
+    <string name="spell_icespear_desc_combat">You throw an &font_ice;ice spear&font_end;
+        to %1$s! %2$s receives &font_red;%3$d &font_end;damage.</string>
     <string name="spell_icearmor_name">&font_ice;Ice Armor&font_end;</string>
     <string name="spell_icearmor_desc">Surrounds you with an &font_ice;ice armor&font_end;. When the enemy attacks you, receives damage from the ice.</string>
     <string name="spell_icearmor_desc_combat">You cast an &font_ice;ice armor&font_end;!</string>
@@ -2068,7 +2085,8 @@
     <string name="spell_frostfire_desc_combat">You cast &font_ice;frost fire&font_end; to %1$s! %2$s receives &font_red;%3$d &font_end;damage.</string>
     <string name="spell_freezingbomb_name">&font_ice;Freezing Bomb&font_end;</string>
     <string name="spell_freezingbomb_desc">Explodes a &font_ice;freezing bomb&font_end;. Can &font_ice;freeze&font_end;.</string>
-    <string name="spell_freezingbomb_desc_combat">You explode a &font_ice;freezing bomb&font_end; to %1$s! %2$s receives &font_red;%3$d &font_end;damage.</string>
+    <string name="spell_freezingbomb_desc_combat">You explode a &font_ice;freezing bomb&font_end;
+        to %1$s! %2$s receives &font_red;%3$d &font_end;damage.</string>
     <string name="spell_windpush_name">&font_spell_wind;Wind Push&font_end;</string>
     <string name="spell_windpush_desc">Pushes the enemy with &font_spell_wind;wind&font_end;. Can &font_spell_wind;block&font_end;.</string>
     <string name="spell_windpush_desc_combat">You push %1$s with &font_spell_wind;wind&font_end;! %2$s receives &font_red;%3$d &font_end;damage.</string>
@@ -2110,7 +2128,8 @@
     <string name="text_monster_is_already_calmed">%1$s is already calmed!</string>
     <string name="text_cant_calm_this_monster">You can\'t calm this monster…</string>
     <string name="spell_punchofstone_name">&font_wood;Punch Of Stone&font_end;</string>
-    <string name="spell_punchofstone_desc">Creates a punch made of &font_wood;stone&font_end; and punches the enemy.</string>
+    <string name="spell_punchofstone_desc">Creates a punch made of &font_wood;stone&font_end;
+        and punches the enemy.</string>
     <string name="spell_punchofstone_desc_combat">You create a punch made of &font_wood;stone &font_end;and punch %1$s! %2$s receives &font_red;%3$d &font_end;damage.</string>
     <string name="spell_stalactite_name">&font_wood;Stalactite&font_end;</string>
     <string name="spell_stalactite_desc">Creates a &font_wood;stalactite&font_end; on top of the enemy.</string>
@@ -2132,7 +2151,8 @@
     <string name="spell_healinglight_desc_combat">You cast a &font_health;healing light &font_end;and heal &font_health;%1$d&font_end; &font_health;health &font_end;points.</string>
     <string name="spell_purelight_name">&font_health;Pure Light&font_end;</string>
     <string name="spell_purelight_desc">Invokes a &font_health;pure light&font_end; to &font_health;heal &font_end;completely.</string>
-    <string name="spell_purelight_desc_combat">You invoke a &font_health;pure light&font_end; and heal &font_health;%1$d&font_end; &font_health;health &font_end;points.</string>
+    <string name="spell_purelight_desc_combat">You invoke a &font_health;pure light&font_end;
+        and heal &font_health;%1$d&font_end; &font_health;health &font_end;points.</string>
 
     <string name="spell_effect_combat_burnt">%1$s is &font_attack;burnt&font_end;!</string>
     <string name="spell_effect_combat_frozen">%1$s is &font_tundra;frozen&font_end;!</string>
@@ -2227,9 +2247,11 @@
     <string name="main_story_the_carpenter_second_dialog_repairing_ship">&font_wood;The Old Carpenter &font_end;is repairing the &font_wood;Ship&font_end;</string>
     <string name="main_story_the_carpenter_third_dialog_1">Great! I haven\'t lost my touch! You now can travel to other islands in search for clues to find &font_red;The Tyrant&font_end;! Good luck, and thank you for everything!</string>
     <string name="main_story_the_carpenter_end_dialog">Hello, hero! How is your quest to find &font_red;The Tyrant &font_end;going?</string>
-    <string name="main_story_4">Find &font_cyan;clues&font_end; about the whereabouts of &font_red;The Tyrant&font_end;.</string>
+    <string name="main_story_4">Find &font_cyan;clues&font_end;
+        about the whereabouts of &font_red;The Tyrant&font_end;.</string>
     <string name="main_story_5_dialog_message">The &font_red;monster &font_end;dropped a strange &font_cyan;Piece Of Map&font_end;. You don\'t know what it exactly is. You should ask a &font_cyan;Cartographer &font_end;about it.</string>
-    <string name="main_story_5">Talk with a &font_cyan;Cartographer&font_end; about the &font_cyan;Piece of Map &font_end;you found. It surely is related with &font_red;The Tyrant &font_end;whereabouts.</string>
+    <string name="main_story_5">Talk with a &font_cyan;Cartographer&font_end;
+        about the &font_cyan;Piece of Map &font_end;you found. It surely is related with &font_red;The Tyrant &font_end;whereabouts.</string>
     <string name="shop_cartographer">Cartographer</string>
     <string name="main_story_cartographer_dialog_1">Hello! What can I help you with?</string>
     <string name="main_story_cartographer_dialog_button_show_piece_of_map">Show the &font_cyan;Piece Of Map&font_end;</string>
@@ -2241,7 +2263,8 @@
     <string name="main_story_6">Find &font_cyan;%1$d &font_end;x &font_cyan;Piece of Map&font_end;. &font_cyan;The Cartographer &font_end;told you that when you do, you\'ll be able to join the pieces into a &font_cyan;Nautical Chart &font_end;and finally be able to find &font_red;The Tyrant &font_end;whereabouts.</string>
     <string name="main_story_6_got_a_piece_total_amount" tools:ignore="PluralsCandidate">Got a &font_cyan;Piece of Map&font_end;! You\'ve got %1$d pieces! %2$d pieces left…</string>
     <string name="main_story_6_got_the_pieces" tools:ignore="PluralsCandidate">Got all the pieces! Join them as &font_cyan;The Cartographer &font_end;told you to…</string>
-    <string name="main_story_7">Follow the &font_cyan;Nautical Chart&font_end; to &font_red;The Tyrant&font_end; &font_cyan;Island &font_end;and kill him!</string>
+    <string name="main_story_7">Follow the &font_cyan;Nautical Chart&font_end;
+        to &font_red;The Tyrant&font_end; &font_cyan;Island &font_end;and kill him!</string>
     <string name="main_story_7_advice_before_sail_title">Travel to &font_red;The Tyrant&font_end; &font_cyan;Island&font_end;?</string>
     <string name="main_story_7_advice_before_sail_message">Are you prepared? You may not make it back from there…</string>
     <string name="monster_thetyrant">The Tyrant</string>
@@ -3751,8 +3774,8 @@
     <string name="pyramid_is_now_open">The &font_pyramid;Pyramid &font_end;is now open!</string>
     <string name="pyramid_didnt_open">The &font_pyramid;Pyramid &font_end;didn\'t open…</string>
     <string name="new_game_chicken_mode_selected">In &font_animal;Chicken Mode &font_end;you will have the following advantages:&br;&br;&font_cyan;* &font_end;&font_red;Monsters &font_end;won\'t block you from interacting with &font_cyan;NPCs&font_end;.&br;&br;&font_cyan;* &font_end;
-        You will start with some extra &font_gold;Gold&font_end;.&br;&br;&font_cyan;* &font_end;
-        Your starting base stats will be slightly better.&br;&br;&font_cyan;* &font_end; You will have extra &font_speed;Speed &font_end;when &font_cyan;fleeing &font_end;from &font_red;Monsters&font_end;.&br;&br;&font_cyan;* &font_end;
+        You will start with some extra &font_gold;Gold&font_end;.&br;&br;&font_cyan;* &font_end; Your starting base stats will be slightly better.&br;&br;&font_cyan;* &font_end;
+        You will have extra &font_speed;Speed &font_end;when &font_cyan;fleeing &font_end;from &font_red;Monsters&font_end;.&br;&br;&font_cyan;* &font_end;
         \"&font_animal;Chicken Mode&font_end;\" will be shown in your &font_cyan;hero &font_end;stats screen!</string>
     <string name="chicken_mode_checkbox">&font_animal;Chicken Mode&font_end;</string>
     <string name="new_game_chicken_mode_not_selected">Enjoy the regular RAR II experience.</string>
@@ -3786,4 +3809,119 @@
 
     <string name="saving_checkpoint">&font_primary_light;&italic;[SAVING CHECKPOINT…]&italic_end;&font_end;</string>
 
+    <!-- NEW STRINGS -->
+    <string name="dropped_ammo_auto_looted_toast">You looted some of the used &font_wood;ammo&font_end;!</string>
+    <string name="settings_auto_loot_ammo_enabled">Combat auto loot ammo enabled</string>
+    <string name="dungeon_completed">(Completed)</string>
+
+    <string name="animal_newt">Newt</string>
+    <string name="animal_parrot">Parrot</string>
+    <string name="animal_dragonfly">Dragonfly</string>
+    <string name="animal_quetzalcoatlus">Quetzalcoatlus</string>
+    <string name="animal_koala">Koala</string>
+    <string name="animal_smilodon">Smilodon</string>
+
+    <string name="food_kalamari_kebab">&font_pet;Kalamari &font_end;&font_wood;Kebab&font_end;</string>
+    <string name="food_impaled_insects">&font_wood;Impaled &font_end;&font_insect;Insects&font_end;</string>
+    <string name="food_sushi">&font_blue;Sushi&font_end;</string>
+    <string name="food_stone_soup">&font_stone;Stone &font_end;&font_white;Soup&font_end;</string>
+    <string name="food_jello">&font_red;Jello&font_end;</string>
+
+    <string name="material_type_gelatine">&font_dark_red;Gelatine&font_end;</string>
+
+    <string name="you_cant_go">You can\'t go</string>
+    <string name="cant_use_this_here">Can\'t use this here…</string>
+
+    <string name="tile_content_type_jewelry">&font_pink;Jewelry&font_end;</string>
+    <string name="tile_content_type_grave">&font_stone;Grave&font_end;</string>
+
+    <string name="tile_content_type_trainer">&font_epic;Trainer&font_end;</string>
+    <string name="trainer_message">Welcome! I can train you if you pay me good &font_gold;gold&font_end;… Get stronger with my lessons!</string>
+    <string name="gold_to_base_stats_attack">Increase &font_attack;Attack &font_end; [&font_attack;%2$d&font_end;] &br;(&font_gold;%1$d &font_end;&font_gold;gold&font_end;)</string>
+    <string name="gold_to_base_stats_defense">Increase &font_defense;Defense &font_end;
+        [&font_defense;%2$d&font_end;] &br;(&font_gold;%1$d &font_end;&font_gold;gold&font_end;)</string>
+    <string name="gold_to_base_stats_speed">Increase &font_speed;Speed &font_end; [&font_speed;%2$d&font_end;] &br;(&font_gold;%1$d &font_end;&font_gold;gold&font_end;)</string>
+    <string name="gold_to_base_stats_intelligence">Increase &font_mana;Intelligence &font_end; [&font_mana;%2$d&font_end;] &br;(&font_gold;%1$d &font_end;&font_gold;gold&font_end;)</string>
+
+    <!-- DO NOT TRANSLATE -->
+    <string name="grave_scott">I love you, Mom. I always will. You are eternal.&br;Charlene Samuel 1939–2015 &br;#Foreverlove&br;</string>
+    <string name="grave_bearer">26.2.1946 – 5.9.2020&br;17.3.1942 – 3.3.2012&br;</string>
+
+    <!-- TRANSLATE -->
+    <string name="grave_other">It\'s an old grave…</string>
+
+    <string name="tool_shovel">&font_stone;Shovel&font_end;</string>
+    <string name="tool_action_shovel">&font_stone;Digging&font_end;</string>
+    <string name="item_info_tool_shovel">Use this to &font_stone;Dig &font_end;on a &font_gold;Treasure &font_end;&font_wood;Spot&font_end;, on a &font_stone;Grave &font_end;and also to &font_stone;Dig &font_end;walls on &font_stone;Dungeons&font_end;.</string>
+    <string name="skill_digger">&font_stone;Digger&font_end;</string>
+    <string name="skill_digger_description">The higher this skill, the better chances of successfully digging.</string>
+
+    <string name="materialsource_treasure_spot">&font_gold;Treasure &font_end;&font_wood;Spot&font_end;</string>
+    <string name="button_dig">Dig</string>
+    <string name="tile_content_type_treasure_map">&font_gold;Treasure &font_end;&font_wood;Map&font_end;</string>
+    <string name="item_info_treasure_map">Use this magical &font_gold;Treasure &font_end;&font_wood;Map &font_end;to know the location of a &font_gold;Treasure &font_end;&font_wood;Spot &font_end;in the current island.</string>
+    <string name="treasure_map_marks_coordinates">The &font_gold;Treasure &font_end;&font_wood;Map &font_end;displays an &font_wood;X &font_end;in %s!</string>
+    <string name="treasure_map_treasure_not_found">The &font_gold;Treasure &font_end;&font_wood;Map &font_end;didn\'t find any &font_gold;Treasure &font_end;&font_wood;Spot&font_end;…</string>
+    <string name="dig_dialog_title">Dig</string>
+    <string name="dig_dialog_message">Use your %s to Dig this wall?</string>
+
+    <string name="monster_tag_diamond">&font_cyan;*&font_end;&font_diamond;Diamonded&font_end;&font_cyan;*&font_end;</string>
+    <string name="monster_tag_gold">&font_cyan;*&font_end;&font_gold;Golden&font_end;&font_cyan;*&font_end;</string>
+    <string name="monster_tag_silver">&font_cyan;*&font_end;&font_silver;Silvered&font_end;&font_cyan;*&font_end;</string>
+
+    <string name="status_royal_rank">Royal Rank: &font_gold;%1$d&font_end;</string>
+
+    <string name="tile_content_type_obelisk">&font_gold;Obelisk&font_end;</string>
+    <string name="tile_content_type_troll_portal">&font_green;Troll &font_end;&font_portal;Portal&font_end;</string>
+
+    <string name="obelisk_text_1">1. jlinwg f xfm</string>
+    <string name="obelisk_text_2">2. jwzxfjwy jyfrnyqz</string>
+    <string name="obelisk_text_3">3. yfmy jhfqu</string>
+    <string name="obelisk_text_4">4. hmnw jg qqnb ztd isf,</string>
+    <string name="obelisk_text_5">5. wztd utwI.</string>
+    <string name="obelisk_text_6">6. jmy pjjx ztd kN.</string>
+    <string name="obelisk_text_7">7. dfb wztd ymlnk,</string>
+    <string name="obelisk_text_8">8. ynfb isf gwt</string>
+    <string name="obelisk_text_9">9. xswzy sjajx</string>
+    <string name="obelisk_text_10">10. jmy pjjx,</string>
+
+    <string name="troll_island_dialog_title">&font_gold;Troll &font_end;&font_cyan;Island &font_end;&font_portal;Portal &font_end;</string>
+    <string name="troll_island_dialog_message">A strange &font_portal;Portal &font_end;has appeared! Do you want to enter?</string>
+    <string name="troll_island_dialog_portal_disappear">The &font_gold;Troll &font_end;&font_cyan;Island &font_end;&font_portal;Portal &font_end;disappears…</string>
+
+    <string name="island_type_troll">&font_gold;Troll&font_end;</string>
+    <string name="island_arrival_type_troll_island">You arrive to what seems to be a small island. You hear some growlings in the distance.</string>
+
+    <string name="tile_type_troll_cave">Troll Cave</string>
+
+    <string name="achievement_name_troll_hunter">Troll Hunter</string>
+    <string name="achievement_desc_troll_hunter">Arrive to a Troll Island for the first time.</string>
+
+    <string name="title_the_troll_hunter_male">%1$s, the &font_stone;Troll Hunter&font_end;</string>
+    <string name="title_the_troll_hunter_female">%1$s, the &font_stone;Troll Hunter&font_end;</string>
+    <string name="title_the_troll_hunter_no_gender">%1$s, the &font_stone;Troll Hunter&font_end;</string>
+
+    <string name="material_type_troll_crown">&font_green;Troll &font_end;&font_gold;Crown&font_end;</string>
+    <string name="troll_portal_enter_message">Enter this &font_green;Troll &font_end;&font_portal;Portal&font_end;?&br;&br;(If you do, you won\'t be able to come back to this island…)</string>
+
+    <string name="tile_content_type_arena">&font_red;Arena&font_end;</string>
+    <string name="enter_arena_message">Enter the &font_red;Arena&font_end;?&br;&br;You will fight against various enemies of your same level, one after the other.&br;&br;If you win, you will earn a special prize!&br;&br;It costs &font_gold;%d Gold &font_end;to participate.</string>
+    <string name="won_arena_message">Congratulations!&br;&br;You won! Here you have the prize: %1$s and &font_gold;%2$d Gold&font_end;!&br;&br;Bye, champion!</string>
+    <string name="arena_already_completed">You already won in this &font_red;Arena&font_end;, champion!</string>
+    <string name="achievement_desc_arena_fighter">Win in the Arena for the first time.</string>
+
+    <string name="title_the_arena_fighter_male">%1$s, the &font_red;Arena Fighter&font_end;</string>
+    <string name="title_the_arena_fighter_female">%1$s, the &font_red;Arena Fighter&font_end;</string>
+    <string name="title_the_arena_fighter_no_gender">%1$s, the &font_red;Arena Fighter&font_end;</string>
+    <string name="arena_first_enemy_is_here">The first enemy is here!</string>
+    <string name="arena_next_enemy_is_here">The next enemy is here!</string>
+    <string name="arena_last_enemy_is_here">The last enemy is here!</string>
+    <string name="troll_shield">&font_green;Troll&font_end;</string>
+    <string name="world_current">Current</string>
+
+    <string name="spell_almost_kill_name">&font_pet;Almost &font_end;&font_red;Kill&font_end;</string>
+    <string name="spell_almost_kill_desc">Hits the enemy, leaving it at 1 health points if its health was greater than 1, otherwise you kill it.</string>
+    <string name="spell_almost_kill_desc_combat">You hit %1$s! %2$s receives &font_red;%3$d &font_end;damage!</string>
+    <string name="you_left_the_monster_very_weak">You left %1$s very weak! Increased chances of &font_pet;capturing &font_end;it!</string>
 </resources>
+

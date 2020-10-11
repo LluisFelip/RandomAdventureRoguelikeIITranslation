@@ -1510,7 +1510,7 @@
     <string name="weapon_skill_mace_great_hit_attack">You hit the enemy!</string>
     <string name="weapon_skill_mace_quick_strike_name">&font_skill_attack;Quick Strike&font_end;</string>
     <string name="weapon_skill_mace_quick_strike_desc">Strikes the enemy. Always attacks first.</string>
-    <string name="weapon_skill_mace_quick_strike_attack">You fast strike the enemy very fast!</string>
+    <string name="weapon_skill_mace_quick_strike_attack">You strike the enemy very fast!</string>
     <string name="weapon_skill_mace_double_smash_name">&font_skill_attack;Double Smash&font_end;</string>
     <string name="weapon_skill_mace_double_smash_desc">Smashes the enemy two times.</string>
     <string name="weapon_skill_mace_double_smash_attack">You smash the enemy two times!</string>
@@ -1663,7 +1663,7 @@
     <string name="tile_content_type_iron_bucket_lava">&font_attack;Lava&font_end; &font_iron;Bucket&font_end;</string>
     <string name="tile_content_type_iron_bucket_mana">&font_mana;Mana&font_end; &font_iron;Bucket&font_end;</string>
 
-    <string name="wooden_sign_write">Write in &font_wooden_sign;Wooden Sign&font_end;</string>
+    <string name="wooden_sign_write">Write on &font_wooden_sign;Wooden Sign&font_end;</string>
     <string name="wooden_sign_text_chopped_the">Chopped the %1$s.</string>
     <string name="wooden_sign_wrote_message">Wrote message in the %1$s.</string>
 
