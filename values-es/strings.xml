@@ -1983,7 +1983,7 @@
     <string name="skill_unbreakable_description">Si un &font_red;monstruo &font_end;te fuera a matar de un golpe, lo resistes y sobrevives con &font_health;1 &font_end;punto de &font_health;vida&font_end;. Ten cuidado con el hambre u otros posibles motivos de daño…</string>
     <string name="skill_unbreakable_skill_saves_you">¡Tu habilidad &font_cyan;Irrompible &font_end;te salva!</string>
     <string name="skill_berserk">&font_cyan;Berserk&font_end;</string>
-    <string name="skill_berserk_description">En combate, si realizas ataques normales, el daño se incrementa un 10% cada turno. Si usas cualquier otra acción en combate, el bonus &font_cyan;Berserk &font_end;se perderá.</string>
+    <string name="skill_berserk_description">En combate, si realizas ataques normales, el daño se incrementa un 10%% cada turno. Si usas cualquier otra acción en combate, el bonus &font_cyan;Berserk &font_end;se perderá.</string>
     <string name="skill_berserk_increased_to">¡Bonus de &font_cyan;Berserk &font_end;incrementado a &font_cyan;x%1$s&font_end;!</string>
     <string name="skill_berserk_lost">Bonus de &font_cyan;Berserk &font_end;perdido…</string>
     <string name="skill_chef">&font_cyan;Cocinero&font_end;</string>

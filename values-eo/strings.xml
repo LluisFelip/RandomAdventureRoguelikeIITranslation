@@ -1,126 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE resources [
-    <!ENTITY br "&lt;br&gt;">
-    <!ENTITY line_break "\n">
-    <!ENTITY bold "&lt;b&gt;">
-    <!ENTITY bold_end "&lt;/b&gt;">
-    <!ENTITY italic "&lt;i&gt;">
-    <!ENTITY italic_end "&lt;/i&gt;">
-    <!ENTITY font_end "&lt;/font&gt;">
-    <!ENTITY font_cyan "&lt;font color=&quot;#00FFFF&quot;&gt;">
-    <!ENTITY font_black "&lt;font color=&quot;#000000&quot;&gt;">
-    <!ENTITY font_black_low "&lt;font color=&quot;#777777&quot;&gt;">
-    <!ENTITY font_asterisk_level "&lt;font color=&quot;#00FFFF&quot;&gt;">
-    <!ENTITY font_asterisk_main_story "&lt;font color=&quot;#F44336&quot;&gt;">
-    <!ENTITY font_asterisk_void_master "&lt;font color=&quot;#C500FF&quot;&gt;">
-    <!ENTITY font_asterisk_creator "&lt;font color=&quot;#FFEB3B&quot;&gt;">
-    <!ENTITY font_scale "&lt;font color=&quot;#02BD00&quot;&gt;">
-    <!ENTITY font_attack "&lt;font color=&quot;#FF1A1A&quot;&gt;">
-    <!ENTITY font_defense "&lt;font color=&quot;#f523f5&quot;&gt;">
-    <!ENTITY font_speed "&lt;font color=&quot;#FF7003&quot;&gt;">
-    <!ENTITY font_mana "&lt;font color=&quot;#0277bd&quot;&gt;">
-    <!ENTITY font_health "&lt;font color=&quot;#11ff22&quot;&gt;">
-    <!ENTITY font_hunger "&lt;font color=&quot;#ff3333&quot;&gt;">
-    <!ENTITY font_pet "&lt;font color=&quot;#FF9D00&quot;&gt;">
-    <!ENTITY font_wood "&lt;font color=&quot;#98795F&quot;&gt;">
-    <!ENTITY font_alchemist "&lt;font color=&quot;#9C27B0&quot;&gt;">
-    <!ENTITY font_silver "&lt;font color=&quot;#C0C0C0&quot;&gt;">
-    <!ENTITY font_gold "&lt;font color=&quot;#FFD700&quot;&gt;">
-    <!ENTITY font_red "&lt;font color=&quot;#FF0000&quot;&gt;">
-    <!ENTITY font_purifying "&lt;font color=&quot;#F85FFF&quot;&gt;">
-    <!ENTITY font_primary_light "&lt;font color=&quot;#616161&quot;&gt;">
-    <!ENTITY font_green "&lt;font color=&quot;#00FF00&quot;&gt;">
-    <!ENTITY font_dark_green "&lt;font color=&quot;#00A800&quot;&gt;">
-    <!ENTITY font_diamond "&lt;font color=&quot;#0EBFE9&quot;&gt;">
-    <!ENTITY font_stone "&lt;font color=&quot;#DDDDDD&quot;&gt;">
-    <!ENTITY font_inn "&lt;font color=&quot;#2A93FF&quot;&gt;">
-    <!ENTITY font_white "&lt;font color=&quot;#FFFFFF&quot;&gt;">
-    <!ENTITY font_volcano "&lt;font color=&quot;#AD1717&quot;&gt;">
-    <!ENTITY font_icy "&lt;font color=&quot;#9DFFFF&quot;&gt;">
-    <!ENTITY font_iron "&lt;font color=&quot;#50676b&quot;&gt;">
-    <!ENTITY font_sand "&lt;font color=&quot;#CEA88F&quot;&gt;">
-    <!ENTITY font_obsidian "&lt;font color=&quot;#3D5B43&quot;&gt;">
-    <!ENTITY font_insect "&lt;font color=&quot;#007DDA&quot;&gt;">
-    <!ENTITY font_skin "&lt;font color=&quot;#FFAD6A&quot;&gt;">
-    <!ENTITY font_coconut "&lt;font color=&quot;#B48359&quot;&gt;">
-    <!ENTITY font_glass "&lt;font color=&quot;#439B81&quot;&gt;">
-    <!ENTITY font_emerald "&lt;font color=&quot;#99F84F&quot;&gt;">
-    <!ENTITY font_cave "&lt;font color=&quot;#97694F&quot;&gt;">
-    <!ENTITY font_copper "&lt;font color=&quot;#b87333&quot;&gt;">
-    <!ENTITY font_leather "&lt;font color=&quot;#B86320&quot;&gt;">
-    <!ENTITY font_tin "&lt;font color=&quot;#d3d4d5&quot;&gt;">
-    <!ENTITY font_plant "&lt;font color=&quot;#0EFF09&quot;&gt;">
-    <!ENTITY font_ice "&lt;font color=&quot;#00BCD4&quot;&gt;">
-    <!ENTITY font_blood "&lt;font color=&quot;#d50000&quot;&gt;">
-    <!ENTITY font_dark_orb "&lt;font color=&quot;#C400FF&quot;&gt;">
-    <!ENTITY font_water "&lt;font color=&quot;#719FFF&quot;&gt;">
-    <!ENTITY font_bone "&lt;font color=&quot;#9e9e9e&quot;&gt;">
-    <!ENTITY font_teeth "&lt;font color=&quot;#3FB900&quot;&gt;">
-    <!ENTITY font_bronze "&lt;font color=&quot;#CD7F32&quot;&gt;">
-    <!ENTITY font_dark_red "&lt;font color=&quot;#740000&quot;&gt;">
-    <!ENTITY font_swamp "&lt;font color=&quot;#7b1fa2&quot;&gt;">
-    <!ENTITY font_cactus "&lt;font color=&quot;#099E06&quot;&gt;">
-    <!ENTITY font_mushroom "&lt;font color=&quot;#B9008F&quot;&gt;">
-    <!ENTITY font_liana "&lt;font color=&quot;#017900&quot;&gt;">
-    <!ENTITY font_electric "&lt;font color=&quot;#FADF4D&quot;&gt;">
-    <!ENTITY font_bomb "&lt;font color=&quot;#C6C9C9&quot;&gt;">
-    <!ENTITY font_string "&lt;font color=&quot;#EC9E65&quot;&gt;">
-    <!ENTITY font_ash "&lt;font color=&quot;#9E9A9A&quot;&gt;">
-    <!ENTITY font_nut "&lt;font color=&quot;#FF4524&quot;&gt;">
-    <!ENTITY font_date "&lt;font color=&quot;#F5671D&quot;&gt;">
-    <!ENTITY font_gunpowder "&lt;font color=&quot;#CEC1C1&quot;&gt;">
-    <!ENTITY font_desert "&lt;font color=&quot;#856C60&quot;&gt;">
-    <!ENTITY font_portal "&lt;font color=&quot;#FF2AFF&quot;&gt;">
-    <!ENTITY font_chest "&lt;font color=&quot;#CC6600&quot;&gt;">
-    <!ENTITY font_skill_attack "&lt;font color=&quot;#FF5B5B&quot;&gt;">
-    <!ENTITY font_quest "&lt;font color=&quot;#9F47BD&quot;&gt;">
-    <!ENTITY font_tundra "&lt;font color=&quot;#5ED6D6&quot;&gt;">
-    <!ENTITY font_yellow "&lt;font color=&quot;#FFEB3B&quot;&gt;">
-    <!ENTITY font_hell "&lt;font color=&quot;#DF0000&quot;&gt;">
-    <!ENTITY font_blue "&lt;font color=&quot;#0000ff&quot;&gt;">
-    <!ENTITY font_bar "&lt;font color=&quot;#51C532&quot;&gt;">
-    <!ENTITY font_witch "&lt;font color=&quot;#8700D3&quot;&gt;">
-    <!ENTITY font_corrupted_god "&lt;font color=&quot;#FF0099&quot;&gt;">
-    <!ENTITY font_pyramid "&lt;font color=&quot;#D1AD00&quot;&gt;">
-    <!ENTITY font_ruins "&lt;font color=&quot;#049700&quot;&gt;">
-    <!ENTITY font_wise "&lt;font color=&quot;#D751FF&quot;&gt;">
-    <!ENTITY font_wooden_sign "&lt;font color=&quot;#FFC166&quot;&gt;">
-    <!ENTITY font_food "&lt;font color=&quot;#78C777&quot;&gt;">
-    <!ENTITY font_spell_wind "&lt;font color=&quot;#00796B&quot;&gt;">
-    <!ENTITY font_heaven "&lt;font color=&quot;#ADFFFF&quot;&gt;">
-    <!ENTITY font_animal "&lt;font color=&quot;#66BB6A&quot;&gt;">
-    <!ENTITY font_unicorn "&lt;font color=&quot;#A500FF&quot;&gt;">
-    <!ENTITY font_gate "&lt;font color=&quot;#D751FF&quot;&gt;">
-    <!ENTITY font_void "&lt;font color=&quot;#D751FF&quot;&gt;">
-    <!ENTITY font_infinity "&lt;font color=&quot;#D8FF00&quot;&gt;">
-    <!ENTITY font_tyrant "&lt;font color=&quot;#CCAEAE&quot;&gt;">
-    <!ENTITY font_pink "&lt;font color=&quot;#FF69B4&quot;&gt;">
-    <!ENTITY font_epic "&lt;font color=&quot;#FF3DFF&quot;&gt;">
-    <!ENTITY font_mark_yellow "&lt;font color=&quot;#FFFF00&quot;&gt;">
-    <!ENTITY font_mark_magenta "&lt;font color=&quot;#ff00ff&quot;&gt;">
-    <!ENTITY font_mark_cyan "&lt;font color=&quot;#00ffff&quot;&gt;">
-    <!ENTITY font_dungeon_boss "&lt;font color=&quot;#FF3DFF&quot;&gt;">
-    <!ENTITY font_beetle_talisman "&lt;font color=&quot;#FFAE28&quot;&gt;">
-    <!ENTITY font_jade "&lt;font color=&quot;#00a86b&quot;&gt;">
-    <!ENTITY font_quartz "&lt;font color=&quot;#e9dfe0&quot;&gt;">
-    <!ENTITY font_jasper "&lt;font color=&quot;#d73b3e&quot;&gt;">
-    <!ENTITY font_sodalite "&lt;font color=&quot;#3e5b99&quot;&gt;">
-    <!ENTITY font_onyx "&lt;font color=&quot;#666666&quot;&gt;">
-    <!ENTITY font_serpentine "&lt;font color=&quot;#78a680&quot;&gt;">
-    <!ENTITY font_aragonite "&lt;font color=&quot;#F39965&quot;&gt;">
-    <!ENTITY font_saphir "&lt;font color=&quot;#0f52ba&quot;&gt;">
-    <!ENTITY font_ruby "&lt;font color=&quot;#e0115f&quot;&gt;">
-    <!ENTITY asterisk_ascend_color "&lt;font color=&quot;#2196F3&quot;&gt;">
-    <!ENTITY font_pearl "&lt;font color=&quot;#CACFCA&quot;&gt;">
-    <!ENTITY font_coral "&lt;font color=&quot;#FF00BF&quot;&gt;">
-    <!ENTITY font_legendary "&lt;font color=&quot;#FF920D&quot;&gt;">
-    ]>
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE resources [<!ENTITY br "&lt;br&gt;"><!ENTITY line_break "\n"><!ENTITY bold "&lt;b&gt;"><!ENTITY bold_end "&lt;/b&gt;"><!ENTITY italic "&lt;i&gt;"><!ENTITY italic_end "&lt;/i&gt;"><!ENTITY font_end "&lt;/font&gt;"><!ENTITY font_cyan "&lt;font color=&quot;#00FFFF&quot;&gt;"><!ENTITY font_black "&lt;font color=&quot;#000000&quot;&gt;"><!ENTITY font_black_low "&lt;font color=&quot;#777777&quot;&gt;"><!ENTITY font_asterisk_level "&lt;font color=&quot;#00FFFF&quot;&gt;"><!ENTITY font_asterisk_main_story "&lt;font color=&quot;#F44336&quot;&gt;"><!ENTITY font_asterisk_void_master "&lt;font color=&quot;#C500FF&quot;&gt;"><!ENTITY font_asterisk_creator "&lt;font color=&quot;#FFEB3B&quot;&gt;"><!ENTITY font_scale "&lt;font color=&quot;#02BD00&quot;&gt;"><!ENTITY font_attack "&lt;font color=&quot;#FF1A1A&quot;&gt;"><!ENTITY font_defense "&lt;font color=&quot;#f523f5&quot;&gt;"><!ENTITY font_speed "&lt;font color=&quot;#FF7003&quot;&gt;"><!ENTITY font_mana "&lt;font color=&quot;#0277bd&quot;&gt;"><!ENTITY font_health "&lt;font color=&quot;#11ff22&quot;&gt;"><!ENTITY font_hunger "&lt;font color=&quot;#ff3333&quot;&gt;"><!ENTITY font_pet "&lt;font color=&quot;#FF9D00&quot;&gt;"><!ENTITY font_wood "&lt;font color=&quot;#98795F&quot;&gt;"><!ENTITY font_alchemist "&lt;font color=&quot;#9C27B0&quot;&gt;"><!ENTITY font_silver "&lt;font color=&quot;#C0C0C0&quot;&gt;"><!ENTITY font_gold "&lt;font color=&quot;#FFD700&quot;&gt;"><!ENTITY font_red "&lt;font color=&quot;#FF0000&quot;&gt;"><!ENTITY font_purifying "&lt;font color=&quot;#F85FFF&quot;&gt;"><!ENTITY font_primary_light "&lt;font color=&quot;#616161&quot;&gt;"><!ENTITY font_green "&lt;font color=&quot;#00FF00&quot;&gt;"><!ENTITY font_dark_green "&lt;font color=&quot;#00A800&quot;&gt;"><!ENTITY font_diamond "&lt;font color=&quot;#0EBFE9&quot;&gt;"><!ENTITY font_stone "&lt;font color=&quot;#DDDDDD&quot;&gt;"><!ENTITY font_inn "&lt;font color=&quot;#2A93FF&quot;&gt;"><!ENTITY font_white "&lt;font color=&quot;#FFFFFF&quot;&gt;"><!ENTITY font_volcano "&lt;font color=&quot;#AD1717&quot;&gt;"><!ENTITY font_icy "&lt;font color=&quot;#9DFFFF&quot;&gt;"><!ENTITY font_iron "&lt;font color=&quot;#50676b&quot;&gt;"><!ENTITY font_sand "&lt;font color=&quot;#CEA88F&quot;&gt;"><!ENTITY font_obsidian "&lt;font color=&quot;#3D5B43&quot;&gt;"><!ENTITY font_insect "&lt;font color=&quot;#007DDA&quot;&gt;"><!ENTITY font_skin "&lt;font color=&quot;#FFAD6A&quot;&gt;"><!ENTITY font_coconut "&lt;font color=&quot;#B48359&quot;&gt;"><!ENTITY font_glass "&lt;font color=&quot;#439B81&quot;&gt;"><!ENTITY font_emerald "&lt;font color=&quot;#99F84F&quot;&gt;"><!ENTITY font_cave "&lt;font color=&quot;#97694F&quot;&gt;"><!ENTITY font_copper "&lt;font color=&quot;#b87333&quot;&gt;"><!ENTITY font_leather "&lt;font color=&quot;#B86320&quot;&gt;"><!ENTITY font_tin "&lt;font color=&quot;#d3d4d5&quot;&gt;"><!ENTITY font_plant "&lt;font color=&quot;#0EFF09&quot;&gt;"><!ENTITY font_ice "&lt;font color=&quot;#00BCD4&quot;&gt;"><!ENTITY font_blood "&lt;font color=&quot;#d50000&quot;&gt;"><!ENTITY font_dark_orb "&lt;font color=&quot;#C400FF&quot;&gt;"><!ENTITY font_water "&lt;font color=&quot;#719FFF&quot;&gt;"><!ENTITY font_bone "&lt;font color=&quot;#9e9e9e&quot;&gt;"><!ENTITY font_teeth "&lt;font color=&quot;#3FB900&quot;&gt;"><!ENTITY font_bronze "&lt;font color=&quot;#CD7F32&quot;&gt;"><!ENTITY font_dark_red "&lt;font color=&quot;#740000&quot;&gt;"><!ENTITY font_swamp "&lt;font color=&quot;#7b1fa2&quot;&gt;"><!ENTITY font_cactus "&lt;font color=&quot;#099E06&quot;&gt;"><!ENTITY font_mushroom "&lt;font color=&quot;#B9008F&quot;&gt;"><!ENTITY font_liana "&lt;font color=&quot;#017900&quot;&gt;"><!ENTITY font_electric "&lt;font color=&quot;#FADF4D&quot;&gt;"><!ENTITY font_bomb "&lt;font color=&quot;#C6C9C9&quot;&gt;"><!ENTITY font_string "&lt;font color=&quot;#EC9E65&quot;&gt;"><!ENTITY font_ash "&lt;font color=&quot;#9E9A9A&quot;&gt;"><!ENTITY font_nut "&lt;font color=&quot;#FF4524&quot;&gt;"><!ENTITY font_date "&lt;font color=&quot;#F5671D&quot;&gt;"><!ENTITY font_gunpowder "&lt;font color=&quot;#CEC1C1&quot;&gt;"><!ENTITY font_desert "&lt;font color=&quot;#856C60&quot;&gt;"><!ENTITY font_portal "&lt;font color=&quot;#FF2AFF&quot;&gt;"><!ENTITY font_chest "&lt;font color=&quot;#CC6600&quot;&gt;"><!ENTITY font_skill_attack "&lt;font color=&quot;#FF5B5B&quot;&gt;"><!ENTITY font_quest "&lt;font color=&quot;#9F47BD&quot;&gt;"><!ENTITY font_tundra "&lt;font color=&quot;#5ED6D6&quot;&gt;"><!ENTITY font_yellow "&lt;font color=&quot;#FFEB3B&quot;&gt;"><!ENTITY font_hell "&lt;font color=&quot;#DF0000&quot;&gt;"><!ENTITY font_blue "&lt;font color=&quot;#0000ff&quot;&gt;"><!ENTITY font_bar "&lt;font color=&quot;#51C532&quot;&gt;"><!ENTITY font_witch "&lt;font color=&quot;#8700D3&quot;&gt;"><!ENTITY font_corrupted_god "&lt;font color=&quot;#FF0099&quot;&gt;"><!ENTITY font_pyramid "&lt;font color=&quot;#D1AD00&quot;&gt;"><!ENTITY font_ruins "&lt;font color=&quot;#049700&quot;&gt;"><!ENTITY font_wise "&lt;font color=&quot;#D751FF&quot;&gt;"><!ENTITY font_wooden_sign "&lt;font color=&quot;#FFC166&quot;&gt;"><!ENTITY font_food "&lt;font color=&quot;#78C777&quot;&gt;"><!ENTITY font_spell_wind "&lt;font color=&quot;#00796B&quot;&gt;"><!ENTITY font_heaven "&lt;font color=&quot;#ADFFFF&quot;&gt;"><!ENTITY font_animal "&lt;font color=&quot;#66BB6A&quot;&gt;"><!ENTITY font_unicorn "&lt;font color=&quot;#A500FF&quot;&gt;"><!ENTITY font_gate "&lt;font color=&quot;#D751FF&quot;&gt;"><!ENTITY font_void "&lt;font color=&quot;#D751FF&quot;&gt;"><!ENTITY font_infinity "&lt;font color=&quot;#D8FF00&quot;&gt;"><!ENTITY font_tyrant "&lt;font color=&quot;#CCAEAE&quot;&gt;"><!ENTITY font_pink "&lt;font color=&quot;#FF69B4&quot;&gt;"><!ENTITY font_epic "&lt;font color=&quot;#FF3DFF&quot;&gt;"><!ENTITY font_mark_yellow "&lt;font color=&quot;#FFFF00&quot;&gt;"><!ENTITY font_mark_magenta "&lt;font color=&quot;#ff00ff&quot;&gt;"><!ENTITY font_mark_cyan "&lt;font color=&quot;#00ffff&quot;&gt;"><!ENTITY font_dungeon_boss "&lt;font color=&quot;#FF3DFF&quot;&gt;"><!ENTITY font_beetle_talisman "&lt;font color=&quot;#FFAE28&quot;&gt;"><!ENTITY font_jade "&lt;font color=&quot;#00a86b&quot;&gt;"><!ENTITY font_quartz "&lt;font color=&quot;#e9dfe0&quot;&gt;"><!ENTITY font_jasper "&lt;font color=&quot;#d73b3e&quot;&gt;"><!ENTITY font_sodalite "&lt;font color=&quot;#3e5b99&quot;&gt;"><!ENTITY font_onyx "&lt;font color=&quot;#666666&quot;&gt;"><!ENTITY font_serpentine "&lt;font color=&quot;#78a680&quot;&gt;"><!ENTITY font_aragonite "&lt;font color=&quot;#F39965&quot;&gt;"><!ENTITY font_saphir "&lt;font color=&quot;#0f52ba&quot;&gt;"><!ENTITY font_ruby "&lt;font color=&quot;#e0115f&quot;&gt;"><!ENTITY asterisk_ascend_color "&lt;font color=&quot;#2196F3&quot;&gt;"><!ENTITY font_pearl "&lt;font color=&quot;#CACFCA&quot;&gt;"><!ENTITY font_coral "&lt;font color=&quot;#FF00BF&quot;&gt;"><!ENTITY font_legendary "&lt;font color=&quot;#FF920D&quot;&gt;">]>
 
 <resources xmlns:tools="http://schemas.android.com/tools">
-
-    <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
-    <!-- DO NOT TRANSLATE                                                                        -->
-    <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
 
     <plurals name="quest_kill_monsters_text_giving" tools:ignore="MissingQuantity">
         <item quantity="one">I need you to kill %1$s %2$s monster</item>
@@ -131,58 +11,6 @@
         <item quantity="one">Kill %1$s %2$s monster</item>
         <item quantity="other">Kill %1$s %2$s monsters</item>
     </plurals>
-    <string name="version_name" translatable="false">v. &font_dungeon_boss;%1$s&font_end;</string>
-    <string name="marked_char_with_color" translatable="false">[&lt;font color=\"%1$s\"&gt;%2$c&font_end;]</string>
-    <string name="mark_white" translatable="false">&font_white;#ffffff&font_end;</string>
-    <string name="mark_red" translatable="false">&font_red;#ff0000&font_end;</string>
-    <string name="mark_green" translatable="false">&font_green;#00ff00&font_end;</string>
-    <string name="mark_blue" translatable="false">&font_blue;#0000ff&font_end;</string>
-    <string name="mark_yellow" translatable="false">&font_mark_yellow;#ffff00&font_end;</string>
-
-    <string name="mark_magenta" translatable="false">&font_mark_magenta;#ff00ff&font_end;</string>
-
-    <string name="mark_cyan" translatable="false">&font_mark_cyan;#00ffff&font_end;</string>
-    <string name="text_br" translatable="false">&br;</string>
-
-    <string name="cyan_text" translatable="false">&font_cyan;%1$s&font_end;</string>
-    <string name="gold_number" translatable="false">&font_gold;%1$d&font_end;</string>
-    <string name="app_name" translatable="false">RAR II</string>
-    <string name="menu_title" translatable="false">Random Adventure&line_break;Roguelike&line_break;II</string>
-
-    <string name="title_" translatable="false">Random&line_break;Adventure&line_break;Roguelike</string>
-
-    <string name="title_2" translatable="false">II</string>
-    <string name="new_game_hero_name_with_roman_number" translatable="false">%1$s %2$s</string>
-    <string name="monster_type_plant" translatable="false">Plant</string>
-    <string name="monster_type_beast" translatable="false">Beast</string>
-    <string name="monster_type_humanoid" translatable="false">Humanoid</string>
-    <string name="monster_type_construct" translatable="false">Construct</string>
-    <string name="monster_type_fiend" translatable="false">Fiend</string>
-    <string name="monster_type_fey" translatable="false">Fey</string>
-    <string name="monster_type_dragon" translatable="false">Dragon</string>
-    <string name="monster_type_undead" translatable="false">Undead</string>
-    <string name="monster_type_elemental" translatable="false">Elemental</string>
-    <string name="monster_type_swarm" translatable="false">Swarm</string>
-    <string name="monster_type_monstrosity" translatable="false">Monstrosity</string>
-    <string name="monster_type_aberration" translatable="false">Aberration</string>
-    <string name="monster_type_giant" translatable="false">Giant</string>
-
-    <string name="monster_type_ooze" translatable="false">Ooze</string>
-
-    <string name="monster_type_celestial" translatable="false">Celestial</string>
-
-    <string name="infinity_island_infinity_level" translatable="false">[+&font_infinity;%d&font_end;]</string>
-
-    <string name="monster_creator_name" translatable="false">Archison</string>
-
-
-    <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
-    <!-- TRANSLATE                                                                               -->
-    <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
-
-
-    <string name="plus_number" translatable="false">+&font_cyan;%d&font_end;</string>
-    <string name="tool_infinite_text" translatable="false">%1$s [&font_infinity;*&font_end;]</string>
 
     <!-- Accessibility -->
     <string name="content_description_arrow_to_unfold_complete_status_info">Arrow to unfold complete status info.</string>
@@ -461,8 +289,7 @@
     <string name="status_player_name">%1$s</string>
     <string name="status_player_level">Level &font_cyan;%1$d&font_end;</string>
     <string name="status_player_experience_needed">Experience: &font_cyan;%1$d&font_end;/&font_cyan;%2$d&font_end;</string>
-    <string name="status_player_gold">Gold: &font_gold;%1$d&font_end;
-        (&font_gold;%2$d &font_end;+ &font_gold;%3$d&font_end;
+    <string name="status_player_gold">Gold: &font_gold;%1$d&font_end; (&font_gold;%2$d &font_end;+ &font_gold;%3$d&font_end;
         in &font_gold;Bank&font_end;)</string>
     <string name="status_permadeath">&font_red;&bold;PERMADEATH&bold_end;&font_end;</string>
     <string name="status_no_permadeath">&font_green;&bold;NO PERMADEATH&bold_end;&font_end;</string>
@@ -479,7 +306,8 @@
     <string name="shop_empty_message_inventory">You don\'t have any items…</string>
     <string name="shop_bought_item">Bought %1$s for &font_gold;%2$d&font_end;.</string>
     <string name="shop_sold_item">Sold %1$s for &font_gold;%2$d&font_end;.</string>
-    <string name="shop_sold_item_with_amount">Sold &font_cyan;%1$d&font_end; x %2$s for &font_gold;%3$d&font_end;.</string>
+    <string name="shop_sold_item_with_amount">Sold &font_cyan;%1$d&font_end;
+        x %2$s for &font_gold;%3$d&font_end;.</string>
     <string name="shop_sell_all_question">Sell all?</string>
     <string name="shop_spell_already_known">&italic;&font_mana;Spell &font_end;already known&italic_end;</string>
 
@@ -496,8 +324,10 @@
     <string name="item_temporary_potion">&font_white;[Temporary]&font_end;</string>
     <string name="item_heal_potion_amount">&font_health;Heal&font_end; Potion (&font_health;%1$d&font_end;)</string>
     <string name="item_mana_potion_amount">&font_mana;Mana&font_end; Potion (&font_mana;%1$d&font_end;)</string>
-    <string name="item_experience_potion_amount">&font_cyan;Experience&font_end; Potion (&font_cyan;%1$d&font_end;)</string>
-    <string name="item_temporary_potion_amount">%1$s &font_white;[Temporary]&font_end; (&font_cyan;%2$d&font_end;)</string>
+    <string name="item_experience_potion_amount">&font_cyan;Experience&font_end;
+        Potion (&font_cyan;%1$d&font_end;)</string>
+    <string name="item_temporary_potion_amount">%1$s &font_white;[Temporary]&font_end;
+        (&font_cyan;%2$d&font_end;)</string>
     <string name="item_shield">Shield</string>
     <string name="item_monster_flesh">&font_red;%1$s&font_end;\'s &font_red;flesh&font_end;</string>
     <string name="item_monster_flesh_edible">Cooked &font_red;%1$s&font_end;\'s &font_red;flesh &font_end;(&font_cyan;%2$d&font_end;)</string>
@@ -597,7 +427,8 @@
     <string name="item_info_monster_flesh_not_edible">Cook this on a &font_attack;Firecamp &font_end;to be able to eat it.</string>
     <string name="item_info_nautical_chart">Used by sailors to travel to an island of a specific &font_cyan;type&font_end;.</string>
     <string name="item_info_whetstone">Use it to repair a &font_cyan;Tool&font_end;.</string>
-    <string name="item_info_pet_collar">Go to the &font_pet;Pets&font_end; screen to be able to put this collar on a &font_pet;Pet &font_end;and rename it!</string>
+    <string name="item_info_pet_collar">Go to the &font_pet;Pets&font_end;
+        screen to be able to put this collar on a &font_pet;Pet &font_end;and rename it!</string>
     <string name="item_info_magic_stone">Use this to exchange the attack and intelligence stats of any equipment.</string>
     <string name="item_info_island_soul">The mysterious soul of an island…</string>
     <string name="item_info_spellbook">Read this to learn the &font_mana;spell&font_end; it contains: %1$s.</string>
@@ -911,11 +742,10 @@
     <string name="food_onion">Onion</string>
     <string name="food_cucumber">Cucumber</string>
     <string name="text_level_up_increasal">
-        Increased &font_health;Health&font_end; to &font_health;%1$d&font_end;&br;
-        Increased &font_mana;Mana&font_end; to &font_mana;%2$d&font_end;&br; Increased &font_attack;Attack&font_end;
-        to &font_attack;%3$d&font_end;&br; Increased &font_defense;Defense&font_end;
-        to &font_defense;%4$d&font_end;&br; Increased &font_speed;Speed&font_end; to &font_speed;%5$d&font_end;&br;
-        Increased &font_mana;Intelligence&font_end; to &font_mana;%6$d&font_end;&br;
+        Increased &font_health;Health&font_end; to &font_health;%1$d&font_end;&br; Increased &font_mana;Mana&font_end;
+        to &font_mana;%2$d&font_end;&br; Increased &font_attack;Attack&font_end; to &font_attack;%3$d&font_end;&br;
+        Increased &font_defense;Defense&font_end; to &font_defense;%4$d&font_end;&br; Increased &font_speed;Speed&font_end;
+        to &font_speed;%5$d&font_end;&br; Increased &font_mana;Intelligence&font_end; to &font_mana;%6$d&font_end;&br;
     </string>
 
     <string name="level_up_inventory_increase">&br;Increased your &font_gold;Inventory Capacity &font_end;to &font_gold;%1$d&font_end;</string>
@@ -1138,7 +968,8 @@
 
     <string name="merchants_title">&font_gold;Merchants &font_end;(&font_gold;%1$d&font_end;)</string>
     <string name="merchant_text_you_have_no_merchants_right_now">You haven\'t found any merchants yet…</string>
-    <string name="merchant_quest_description">&font_gold;%1$s&font_end; at &font_cyan;%2$d&font_end;, &font_cyan;%3$d &font_end;has asked you to bring &font_cyan;%4$d &font_end;%5$s. You currently have %6$s. [&font_cyan;%7$s&font_end;]</string>
+    <string name="merchant_quest_description">&font_gold;%1$s&font_end;
+        at &font_cyan;%2$d&font_end;, &font_cyan;%3$d &font_end;has asked you to bring &font_cyan;%4$d &font_end;%5$s. You currently have %6$s. [&font_cyan;%7$s&font_end;]</string>
 
     <string name="quest_quests_title">&font_cyan;Quests &font_end;(&font_cyan;%1$d&font_end;)</string>
     <string name="quest_text_for_gold">for %1$s Gold</string>
@@ -1416,7 +1247,8 @@
     <string name="crafting_title_with_recipe">&font_cyan;Crafting &font_end;[%1$s]</string>
     <string name="craft_text_you_know_no_crafting_recipes">You don\'t know any &font_cyan;Crafting &font_end;Recipes yet.</string>
     <string name="crafting_recipe_learnt">Learned how to craft %1$s!</string>
-    <string name="crafting_recipe_already_known">&italic;&font_cyan;Crafting&font_end; recipe already known&italic_end;</string>
+    <string name="crafting_recipe_already_known">&italic;&font_cyan;Crafting&font_end;
+        recipe already known&italic_end;</string>
     <string name="crafting_recipe_name">[&font_cyan;Crafting&font_end; Recipe] %1$s</string>
     <string name="crafting_you_crafted_item">You crafted %1$s!</string>
     <string name="crafting_you_crafted_item_but_dropped_it">You crafted %1$s but had to drop it, not enough space in the inventory!</string>
@@ -1424,8 +1256,7 @@
 
     <string name="skills_title">&font_cyan;Skills&font_end;</string>
     <string name="skills_skill_learnt">Learned %1$s skill!</string>
-    <string name="skills_tree_title">&font_cyan;Skills Tree&font_end; (&font_cyan;%1$d&font_end;
-        Skill Points)</string>
+    <string name="skills_tree_title">&font_cyan;Skills Tree&font_end; (&font_cyan;%1$d&font_end; Skill Points)</string>
     <string name="skills_empty_message">You don\'t have any &font_cyan;Skills &font_end;yet…</string>
     <string name="skills_empty_tree_message">You don\'t have any &font_cyan;Skills&font_end; to learn…</string>
     <string name="skills_necessary_skill_text">Necessary Skill: &font_cyan;%1$s&font_end;</string>
@@ -1474,10 +1305,8 @@
     <string name="skill_spear_mastery_description">Attacking with a &font_skill_attack;Spear &font_end;in combat unlocks &font_skill_attack;Spear &font_end;Combat Skills.</string>
     <string name="skill_axe_mastery_description">Attacking with a &font_skill_attack;Axe &font_end;in combat unlocks &font_skill_attack;Axe &font_end;Combat Skills.</string>
     <string name="skill_mace_mastery_description">Attacking with a &font_skill_attack;Mace &font_end;in combat unlocks &font_skill_attack;Mace &font_end;Combat Skills.</string>
-    <string name="skill_level_up">%1$s &font_cyan;skill&font_end;
-        level up to &font_cyan;%2$d&font_end;</string>
-    <string name="spell_level_up">%1$s &font_mana;spell&font_end;
-        level up to &font_cyan;%2$d&font_end;</string>
+    <string name="skill_level_up">%1$s &font_cyan;skill&font_end; level up to &font_cyan;%2$d&font_end;</string>
+    <string name="spell_level_up">%1$s &font_mana;spell&font_end; level up to &font_cyan;%2$d&font_end;</string>
     <string name="skill_failed">%1$s failed.</string>
     <string name="skill_damage_multiplier">Damage: &font_red;%1$d&font_end;%% &font_attack;Attack&font_end;</string>
     <string name="skill_number_of_attacks">Attacks &font_cyan;%1$d&font_end; times</string>
@@ -1491,7 +1320,8 @@
     <string name="action_trader_no_merchants_pending">There are no &font_gold;merchants &font_end;left to be found in the island.</string>
     <string name="action_trader_merchants_pending_amount">There are &font_cyan;%d&font_end; &font_gold;merchants &font_end;pending to be found in the island.</string>
     <string name="action_trader_merchants_pending_amount_1">There is &font_cyan;1&font_end; &font_gold;merchant &font_end;pending to be found in the island.</string>
-    <string name="action_contractor_no_quests">There are no &font_cyan;quests&font_end; left to be found in the island.</string>
+    <string name="action_contractor_no_quests">There are no &font_cyan;quests&font_end;
+        left to be found in the island.</string>
     <string name="action_contractor_pending_amount_1">There is &font_cyan;1&font_end; &font_cyan;quest &font_end;left to be found in the island.</string>
     <string name="action_contractor_pending_amount">There are &font_cyan;%d&font_end; &font_cyan;quests &font_end;left to be found in the island.</string>
 
@@ -1824,7 +1654,8 @@
     <string name="merchants_mark">Merchant\'s Mark &font_cyan;#%1$d&font_end;</string>
     <string name="merchant">Merchant</string>
     <string name="merchant_name">(&font_gold;%1$s&font_end;)</string>
-    <string name="merchant_dialog_text">Have you brought &font_cyan;%1$d&font_end; &lt;font color=\"%2$s\"&gt;%3$s &font_end;to me?</string>
+    <string name="merchant_dialog_text">Have you brought &font_cyan;%1$d&font_end;
+        &lt;font color=\"%2$s\"&gt;%3$s &font_end;to me?</string>
     <string name="merchant_giving_merchant_quest_message">Hello! I\'m looking for &font_cyan;%1$d &font_end;&lt;font color=\"%2$s\"&gt;%3$s&font_end;. Could you bring them to me? I\'ll give you something very special in exchange.</string>
     <string name="merchant_not_enough_materials">You don\'t have enough materials…</string>
     <string name="merchant_you_receive_the_merchants_mark">You received the Merchant\'s Mark &font_cyan;#%1$d&font_end;!</string>
@@ -2091,12 +1922,14 @@
     <string name="skill_meditator">&font_mana;Meditator&font_end;</string>
     <string name="skill_meditator_description">Allows to &font_gold;Meditate &font_end;to restore &font_mana;Mana&font_end;.</string>
     <string name="skill_meditator_action_name">&font_mana;Meditate&font_end;</string>
-    <string name="skill_meditator_action_description">You &font_mana;meditated&font_end; and restored &font_mana;10 &font_end;mana points.</string>
+    <string name="skill_meditator_action_description">You &font_mana;meditated&font_end;
+        and restored &font_mana;10 &font_end;mana points.</string>
     <string name="skill_meditator_action_failed_description">You are too hungry to do this.</string>
     <string name="skill_mana_eater">&font_mana;Mana Eater&font_end;</string>
     <string name="skill_mana_eater_description">Allows to restore your hunger a little bit by using &font_mana;Mana&font_end;.</string>
     <string name="skill_mana_eater_action_name">&font_mana;Eat Mana&font_end;</string>
-    <string name="skill_mana_eater_action_description">You ate &font_mana;mana&font_end; and restored &font_cyan;10 &font_end;hunger points.</string>
+    <string name="skill_mana_eater_action_description">You ate &font_mana;mana&font_end;
+        and restored &font_cyan;10 &font_end;hunger points.</string>
     <string name="skill_mana_eater_action_failed_description">You don\'t have enough &font_mana;mana &font_end;to do this.</string>
     <string name="skill_perceptive">&font_cyan;Perceptive&font_end;</string>
     <string name="skill_perceptive_description">Detects when there\'s something hidden, so you can &font_cyan;Search &font_end;to find it.</string>
@@ -2118,7 +1951,8 @@
     <string name="spells_empty_message">You don\'t know any &font_mana;Spells &font_end;yet…</string>
     <string name="spell_fireball_name">&font_attack;Fireball&font_end;</string>
     <string name="spell_fireball_desc">Throws a &font_attack;fireball &font_end;at the enemy. Can &font_attack;burn&font_end;.</string>
-    <string name="spell_fireball_desc_combat">You throw a &font_attack;fireball&font_end; at %1$s! %2$s receives &font_red;%3$d &font_end;damage.</string>
+    <string name="spell_fireball_desc_combat">You throw a &font_attack;fireball&font_end;
+        at %1$s! %2$s receives &font_red;%3$d &font_end;damage.</string>
     <string name="spell_firebreath_name">&font_attack;Fire Breath&font_end;</string>
     <string name="spell_firebreath_desc">Breathes a large cone of &font_attack;flame&font_end;. Can &font_attack;burn&font_end;.</string>
     <string name="spell_firebreath_desc_combat">You breathe a large cone of &font_attack;flames &font_end;to %1$s! %2$s receives &font_red;%3$d &font_end;damage.</string>
@@ -2126,7 +1960,8 @@
     <string name="spell_flamethrower_desc">Throws a big blast of &font_attack;flames&font_end;. Can &font_attack;burn&font_end;.</string>
     <string name="spell_flamethrower_desc_combat">You throw a big blast of &font_attack;flames &font_end;to %1$s! %2$s receives &font_red;%3$d &font_end;damage.</string>
     <string name="spell_meteorite_name">&font_attack;Meteorite&font_end;</string>
-    <string name="spell_meteorite_desc">Invokes a big &font_attack;meteorite&font_end; towards the enemy. Can &font_attack;burn&font_end;.</string>
+    <string name="spell_meteorite_desc">Invokes a big &font_attack;meteorite&font_end;
+        towards the enemy. Can &font_attack;burn&font_end;.</string>
     <string name="spell_meteorite_desc_combat">You invoke a big &font_attack;meteorite &font_end;towards %1$s! %2$s receives &font_red;%3$d &font_end;damage.</string>
     <string name="spell_firestorm_name">&font_attack;Fire Storm&font_end;</string>
     <string name="spell_firestorm_desc">Invokes a &font_attack;fire storm&font_end;. Can &font_attack;burn&font_end;.</string>
@@ -2148,10 +1983,12 @@
     <string name="spell_tsunami_desc_combat">You invoke a powerful &font_water;tsunami &font_end;to %1$s! %2$s receives &font_red;%3$d &font_end;damage.</string>
     <string name="spell_icebolt_name">&font_ice;Ice Bolt&font_end;</string>
     <string name="spell_icebolt_desc">Launches an &font_ice;ice bolt&font_end;. Can &font_ice;freeze&font_end;.</string>
-    <string name="spell_icebolt_desc_combat">You launch an &font_ice;ice bolt&font_end; to %1$s! %2$s receives &font_red;%3$d &font_end;damage.</string>
+    <string name="spell_icebolt_desc_combat">You launch an &font_ice;ice bolt&font_end;
+        to %1$s! %2$s receives &font_red;%3$d &font_end;damage.</string>
     <string name="spell_icespear_name">&font_ice;Ice Spear&font_end;</string>
     <string name="spell_icespear_desc">Throws an &font_ice;ice spear&font_end;. Can &font_ice;freeze&font_end;.</string>
-    <string name="spell_icespear_desc_combat">You throw an &font_ice;ice spear&font_end; to %1$s! %2$s receives &font_red;%3$d &font_end;damage.</string>
+    <string name="spell_icespear_desc_combat">You throw an &font_ice;ice spear&font_end;
+        to %1$s! %2$s receives &font_red;%3$d &font_end;damage.</string>
     <string name="spell_icearmor_name">&font_ice;Ice Armor&font_end;</string>
     <string name="spell_icearmor_desc">Surrounds you with an &font_ice;ice armor&font_end;. When the enemy attacks you, receives damage from the ice.</string>
     <string name="spell_icearmor_desc_combat">You cast an &font_ice;ice armor&font_end;!</string>
@@ -2161,7 +1998,8 @@
     <string name="spell_frostfire_desc_combat">You cast &font_ice;frost fire&font_end; to %1$s! %2$s receives &font_red;%3$d &font_end;damage.</string>
     <string name="spell_freezingbomb_name">&font_ice;Freezing Bomb&font_end;</string>
     <string name="spell_freezingbomb_desc">Explodes a &font_ice;freezing bomb&font_end;. Can &font_ice;freeze&font_end;.</string>
-    <string name="spell_freezingbomb_desc_combat">You explode a &font_ice;freezing bomb&font_end; to %1$s! %2$s receives &font_red;%3$d &font_end;damage.</string>
+    <string name="spell_freezingbomb_desc_combat">You explode a &font_ice;freezing bomb&font_end;
+        to %1$s! %2$s receives &font_red;%3$d &font_end;damage.</string>
     <string name="spell_windpush_name">&font_spell_wind;Wind Push&font_end;</string>
     <string name="spell_windpush_desc">Pushes the enemy with &font_spell_wind;wind&font_end;. Can &font_spell_wind;block&font_end;.</string>
     <string name="spell_windpush_desc_combat">You push %1$s with &font_spell_wind;wind&font_end;! %2$s receives &font_red;%3$d &font_end;damage.</string>
@@ -2203,7 +2041,8 @@
     <string name="text_monster_is_already_calmed">%1$s is already calmed!</string>
     <string name="text_cant_calm_this_monster">You can\'t calm this monster…</string>
     <string name="spell_punchofstone_name">&font_wood;Punch Of Stone&font_end;</string>
-    <string name="spell_punchofstone_desc">Creates a punch made of &font_wood;stone&font_end; and punches the enemy.</string>
+    <string name="spell_punchofstone_desc">Creates a punch made of &font_wood;stone&font_end;
+        and punches the enemy.</string>
     <string name="spell_punchofstone_desc_combat">You create a punch made of &font_wood;stone &font_end;and punch %1$s! %2$s receives &font_red;%3$d &font_end;damage.</string>
     <string name="spell_stalactite_name">&font_wood;Stalactite&font_end;</string>
     <string name="spell_stalactite_desc">Creates a &font_wood;stalactite&font_end; on top of the enemy.</string>
@@ -2225,7 +2064,8 @@
     <string name="spell_healinglight_desc_combat">You cast a &font_health;healing light &font_end;and heal &font_health;%1$d&font_end; &font_health;health &font_end;points.</string>
     <string name="spell_purelight_name">&font_health;Pure Light&font_end;</string>
     <string name="spell_purelight_desc">Invokes a &font_health;pure light&font_end; to &font_health;heal &font_end;completely.</string>
-    <string name="spell_purelight_desc_combat">You invoke a &font_health;pure light&font_end; and heal &font_health;%1$d&font_end; &font_health;health &font_end;points.</string>
+    <string name="spell_purelight_desc_combat">You invoke a &font_health;pure light&font_end;
+        and heal &font_health;%1$d&font_end; &font_health;health &font_end;points.</string>
 
     <string name="spell_effect_combat_burnt">%1$s is &font_attack;burnt&font_end;!</string>
     <string name="spell_effect_combat_frozen">%1$s is &font_tundra;frozen&font_end;!</string>
@@ -2320,9 +2160,11 @@
     <string name="main_story_the_carpenter_second_dialog_repairing_ship">&font_wood;The Old Carpenter &font_end;is repairing the &font_wood;Ship&font_end;</string>
     <string name="main_story_the_carpenter_third_dialog_1">Great! I haven\'t lost my touch! You now can travel to other islands in search for clues to find &font_red;The Tyrant&font_end;! Good luck, and thank you for everything!</string>
     <string name="main_story_the_carpenter_end_dialog">Hello, hero! How is your quest to find &font_red;The Tyrant &font_end;going?</string>
-    <string name="main_story_4">Find &font_cyan;clues&font_end; about the whereabouts of &font_red;The Tyrant&font_end;.</string>
+    <string name="main_story_4">Find &font_cyan;clues&font_end;
+        about the whereabouts of &font_red;The Tyrant&font_end;.</string>
     <string name="main_story_5_dialog_message">The &font_red;monster &font_end;dropped a strange &font_cyan;Piece Of Map&font_end;. You don\'t know what it exactly is. You should ask a &font_cyan;Cartographer &font_end;about it.</string>
-    <string name="main_story_5">Talk with a &font_cyan;Cartographer&font_end; about the &font_cyan;Piece of Map &font_end;you found. It surely is related with &font_red;The Tyrant &font_end;whereabouts.</string>
+    <string name="main_story_5">Talk with a &font_cyan;Cartographer&font_end;
+        about the &font_cyan;Piece of Map &font_end;you found. It surely is related with &font_red;The Tyrant &font_end;whereabouts.</string>
     <string name="shop_cartographer">Cartographer</string>
     <string name="main_story_cartographer_dialog_1">Hello! What can I help you with?</string>
     <string name="main_story_cartographer_dialog_button_show_piece_of_map">Show the &font_cyan;Piece Of Map&font_end;</string>
@@ -2334,7 +2176,8 @@
     <string name="main_story_6">Find &font_cyan;%1$d &font_end;x &font_cyan;Piece of Map&font_end;. &font_cyan;The Cartographer &font_end;told you that when you do, you\'ll be able to join the pieces into a &font_cyan;Nautical Chart &font_end;and finally be able to find &font_red;The Tyrant &font_end;whereabouts.</string>
     <string name="main_story_6_got_a_piece_total_amount" tools:ignore="PluralsCandidate">Got a &font_cyan;Piece of Map&font_end;! You\'ve got %1$d pieces! %2$d pieces left…</string>
     <string name="main_story_6_got_the_pieces" tools:ignore="PluralsCandidate">Got all the pieces! Join them as &font_cyan;The Cartographer &font_end;told you to…</string>
-    <string name="main_story_7">Follow the &font_cyan;Nautical Chart&font_end; to &font_red;The Tyrant&font_end; &font_cyan;Island &font_end;and kill him!</string>
+    <string name="main_story_7">Follow the &font_cyan;Nautical Chart&font_end;
+        to &font_red;The Tyrant&font_end; &font_cyan;Island &font_end;and kill him!</string>
     <string name="main_story_7_advice_before_sail_title">Travel to &font_red;The Tyrant&font_end; &font_cyan;Island&font_end;?</string>
     <string name="main_story_7_advice_before_sail_message">Are you prepared? You may not make it back from there…</string>
     <string name="monster_thetyrant">The Tyrant</string>
@@ -3705,20 +3548,11 @@
     <string name="ascended">Ascended!</string>
 
     <string name="ascended_text">
-        You forget everything but start to feel more powerful…
-        &br;&br;* You obtain &font_cyan;%1$d &font_end;x &asterisk_ascend_color;Ascension &font_end;&font_red;Flame&font_end;
-        &br;* Your max. &font_health;health &font_end;is now &font_health;%2$d&font_end;
-        &br;* Your max. &font_mana;mana &font_end;is now &font_mana;%3$d&font_end;
-        &br;* Your max. &font_hunger;hunger &font_end;is now &font_hunger;%4$d&font_end;
+        You forget everything but start to feel more powerful… &br;&br;* You obtain &font_cyan;%1$d &font_end;x &asterisk_ascend_color;Ascension &font_end;&font_red;Flame&font_end; &br;* Your max. &font_health;health &font_end;is now &font_health;%2$d&font_end; &br;* Your max. &font_mana;mana &font_end;is now &font_mana;%3$d&font_end; &br;* Your max. &font_hunger;hunger &font_end;is now &font_hunger;%4$d&font_end;
 
-        &br;* Your base &font_attack;attack &font_end;is now &font_attack;%5$d&font_end;
-        &br;* Your base &font_defense;defense &font_end;is now &font_defense;%6$d&font_end;
-        &br;* Your base &font_mana;intelligence &font_end;is now &font_mana;%7$d&font_end;
-        &br;* Your base &font_speed;speed &font_end;is now &font_speed;%8$d&font_end;
+        &br;* Your base &font_attack;attack &font_end;is now &font_attack;%5$d&font_end; &br;* Your base &font_defense;defense &font_end;is now &font_defense;%6$d&font_end; &br;* Your base &font_mana;intelligence &font_end;is now &font_mana;%7$d&font_end; &br;* Your base &font_speed;speed &font_end;is now &font_speed;%8$d&font_end;
 
-        &br;* You start with &font_gold;%9$d gold &font_end;coins
-        &br;* You start with &font_cyan;%10$d &font_end;&font_cyan;Skill Points&font_end;
-        &br;&br;Good luck with your new adventures,&br;%11$s!
+        &br;* You start with &font_gold;%9$d gold &font_end;coins &br;* You start with &font_cyan;%10$d &font_end;&font_cyan;Skill Points&font_end; &br;&br;Good luck with your new adventures,&br;%11$s!
     </string>
 
     <string name="monster_action_break_reality">Break Reality</string>
@@ -3853,8 +3687,8 @@
     <string name="pyramid_is_now_open">The &font_pyramid;Pyramid &font_end;is now open!</string>
     <string name="pyramid_didnt_open">The &font_pyramid;Pyramid &font_end;didn\'t open…</string>
     <string name="new_game_chicken_mode_selected">In &font_animal;Chicken Mode &font_end;you will have the following advantages:&br;&br;&font_cyan;* &font_end;&font_red;Monsters &font_end;won\'t block you from interacting with &font_cyan;NPCs&font_end;.&br;&br;&font_cyan;* &font_end;
-        You will start with some extra &font_gold;Gold&font_end;.&br;&br;&font_cyan;* &font_end;
-        Your starting base stats will be slightly better.&br;&br;&font_cyan;* &font_end; You will have extra &font_speed;Speed &font_end;when &font_cyan;fleeing &font_end;from &font_red;Monsters&font_end;.&br;&br;&font_cyan;* &font_end;
+        You will start with some extra &font_gold;Gold&font_end;.&br;&br;&font_cyan;* &font_end; Your starting base stats will be slightly better.&br;&br;&font_cyan;* &font_end;
+        You will have extra &font_speed;Speed &font_end;when &font_cyan;fleeing &font_end;from &font_red;Monsters&font_end;.&br;&br;&font_cyan;* &font_end;
         \"&font_animal;Chicken Mode&font_end;\" will be shown in your &font_cyan;hero &font_end;stats screen!</string>
     <string name="chicken_mode_checkbox">&font_animal;Chicken Mode&font_end;</string>
     <string name="new_game_chicken_mode_not_selected">Enjoy the regular RAR II experience.</string>

@@ -328,7 +328,7 @@
     <string name="button_cancel">Zrušit</string>
     <string name="button_free">Osvobodit</string>
     <string name="button_thanks">Díky</string>
-    <string name="button_idontknow">Nevím...</string>
+    <string name="button_idontknow">Nevím…</string>
     <string name="button_explore">Prozkoumat</string>
     <string name="button_join">Připojit se</string>
     <string name="button_go">Jít</string>
@@ -1675,7 +1675,6 @@
     <string name="tile_content_type_tool">Nástroj</string>
     <string name="tile_content_type_monster">Příšera</string>
     <string name="tile_content_type_monster_corpse">Tělo příšery</string>
-    <string name="tile_content_type_flesh">Maso příšery</string>
     <string name="tile_content_type_firecamp">Táborák</string>
     <string name="tile_content_type_material_source">Zdrojmateriálu</string>
     <string name="tile_content_type_inn">Hostinec</string>
