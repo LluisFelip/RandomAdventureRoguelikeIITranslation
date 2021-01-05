@@ -1942,7 +1942,7 @@
     <string name="skill_unbreakable_description">If a &font_red;Monster&font_end;\'s attack would kill you, you resist it and survive with &font_health;1 &font_end;health point. Be careful of hunger or weather damage…</string>
     <string name="skill_unbreakable_skill_saves_you">Your &font_cyan;Unbreakable&font_end; skill saves you!</string>
     <string name="skill_berserk">&font_attack;Berserk&font_end;</string>
-    <string name="skill_berserk_description">In combat, using the "Attack" command increases a &font_cyan;10% &font_end;the damage each turn. When using a different action in combat, the &font_cyan;Berserk &font_end;bonus is lost.</string>
+    <string name="skill_berserk_description">In combat, using the "Attack" command increases by &font_cyan;10% &font_end;the damage each turn. When using a different action in combat, the &font_cyan;Berserk &font_end;bonus is lost.</string>
     <string name="skill_berserk_increased_to">&font_attack;Berserk &font_end;bonus increased to &font_cyan;x%1$s&font_end;!</string>
     <string name="skill_berserk_lost">&font_attack;Berserk&font_end; bonus lost…</string>
     <string name="skill_chef">&font_food;Chef&font_end;</string>
