@@ -3892,4 +3892,8 @@
     <string name="spell_almost_kill_desc">Hits the enemy, leaving it at 1 health points if its health was greater than 1, otherwise you kill it.</string>
     <string name="spell_almost_kill_desc_combat">You hit %1$s! %2$s receives &font_red;%3$d &font_end;damage!</string>
     <string name="you_left_the_monster_very_weak">You left %1$s very weak! Increased chances of &font_pet;capturing &font_end;it!</string>
+
+    <!-- New Strings -->
+    <string name="button_points_of_interest">POI</string>
+
 </resources>
