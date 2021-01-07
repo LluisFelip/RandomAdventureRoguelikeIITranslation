@@ -3895,5 +3895,6 @@
 
     <!-- New Strings -->
     <string name="button_points_of_interest">POI</string>
+    <string name="used_item">Used %1$s!</string>
 
 </resources>
