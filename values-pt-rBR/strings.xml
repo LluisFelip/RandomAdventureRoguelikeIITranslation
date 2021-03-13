@@ -2416,7 +2416,7 @@
     <string name="main_story_10">Fugir do &font_heaven;Paraíso&font_end;</string>
     <string name="main_story_10_dialog_title">Você dorme</string>
     <string name="main_story_10_dialog_message">Você perde a consciência assim que o &font_wood;Barco &font_end;começa a navegar…</string>
-    <string name="main_story_sail_advice_wont_be_able_to_come_back_to_island">Se navegar, você não poderá voltar para %1$s!&br;&br;Deseja navegar?</string>
+    <string name="main_story_sail_advice_wont_be_able_to_come_back_to_island">Se navegar, você não poderá voltar para %1$s !&br;&br;Deseja navegar?</string>
     <string name="main_story_heaven_gate_advice_wont_be_able_to_come_back_to_island">Você não poderá voltar para %2$s se entrar em %1$s!&br;Entrar mesmo assim?</string>
 
     <string name="professional_quest_giving_quest_0">Olá, Lenda! Deseja aprender o básico sobre a profissão %1$s?</string>

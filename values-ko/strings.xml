@@ -2325,7 +2325,7 @@
     <string name="main_story_10">&font_heaven;천국&font_end;에서 빠져나왔다</string>
     <string name="main_story_10_dialog_title">당신은 잠이 들었습니다</string>
     <string name="main_story_10_dialog_message">&font_wood;배&font_end;가 출발하자마자 당신은 의식을 잃었습니다…</string>
-    <string name="main_story_sail_advice_wont_be_able_to_come_back_to_island">당신이 항해 한다면, 당신은 %1$s으(로) 돌아올 수 없습니다!&br;&br;항해할까요?</string>
+    <string name="main_story_sail_advice_wont_be_able_to_come_back_to_island">당신이 항해 한다면, 당신은 %1$s으(로) 돌아올 수 없습니다 !&br;&br;항해할까요?</string>
     <string name="main_story_heaven_gate_advice_wont_be_able_to_come_back_to_island">%1$s에 입장한다면 당신은 %2$s으(로) 돌아올 수 없습니다!&br;&br;입장할까요?</string>
 
     <string name="professional_quest_giving_quest_0">안녕하세요, 용사여! 당신은 %1$s 직업에 대해 배우고 싶나요?</string>

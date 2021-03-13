@@ -2229,7 +2229,7 @@
     <string name="main_story_10">Fuis le &font_heaven;Paradis&font_end;</string>
     <string name="main_story_10_dialog_title">Vous vous endormez</string>
         <string name="main_story_10_dialog_message">Vous avez perdu conscience aussitôt que le &font_wood;Navire &font_end;a pris la mer…</string>
-    <string name="main_story_sail_advice_wont_be_able_to_come_back_to_island">Si vous embarquez, vous ne pourrez pas revenir à %1$ !&br;&br;Voulez-vous embarquer ?</string>
+    <string name="main_story_sail_advice_wont_be_able_to_come_back_to_island">Si vous embarquez, vous ne pourrez pas revenir à %1$ ! &br;&br;Voulez-vous embarquer ?</string>
     <string name="main_story_heaven_gate_advice_wont_be_able_to_come_back_to_island">Si vous entrez au %1$s vous ne pourrez pas revenir à %2$s !&br;&br;Entrer quand même ?</string>
 
     <string name="professional_quest_giving_quest_0">Bonjour, héros ! Veux-tu apprendre la base de la profession de %1$s ?</string>

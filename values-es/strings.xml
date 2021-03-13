@@ -2303,7 +2303,7 @@
     <string name="main_story_10">Escapar del &font_heaven;Cielo&font_end;</string>
     <string name="main_story_10_dialog_title">Te quedas dormido</string>
     <string name="main_story_10_dialog_message">Pierdes la conciencia en cuanto el &font_wood;Barco &font_end;se ha puesto en marcha…</string>
-    <string name="main_story_sail_advice_wont_be_able_to_come_back_to_island">Si navegas, ¡no podrás volver a %1$s!&br;&br;¿Quieres navegar?</string>
+    <string name="main_story_sail_advice_wont_be_able_to_come_back_to_island">Si navegas, ¡no podrás volver a %1$s ! &br;&br;¿Quieres navegar?</string>
     <string name="main_story_heaven_gate_advice_wont_be_able_to_come_back_to_island">Si entras en las %1$s no podrás volver al %2$s!&br;&br;¿Entrar de todos modos?</string>
 
     <string name="professional_quest_giving_quest_0">¡Hola! ¿Quieres aprender lo básico de la profesión del %1$s?</string>

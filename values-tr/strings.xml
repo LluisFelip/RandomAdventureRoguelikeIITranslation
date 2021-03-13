@@ -2316,7 +2316,7 @@
     <string name="main_story_10">&font_heaven;Cennetten&font_end; kaç</string>
     <string name="main_story_10_dialog_title">Uyuyakaldın</string>
     <string name="main_story_10_dialog_message">&font_wood;Gemi &font_end;denize açılır açılmaz bilincini kaybettin…</string>
-    <string name="main_story_sail_advice_wont_be_able_to_come_back_to_island">Eğer denize açılırsan, buraya geri dönemeyeceksin: %1$s!&br;&br;Denize açılmak istiyor musun?</string>
+    <string name="main_story_sail_advice_wont_be_able_to_come_back_to_island">Eğer denize açılırsan, buraya geri dönemeyeceksin: %1$s !&br;&br;Denize açılmak istiyor musun?</string>
     <string name="main_story_heaven_gate_advice_wont_be_able_to_come_back_to_island">%1$s\'e girersen %2$s\'e dönemeyeceksin!&br;&br;Yine de gir?</string>
 
     <string name="professional_quest_giving_quest_0">Merhaba, kahraman! %1$s mesleğinin temellerini öğrenmek ister misin?</string>

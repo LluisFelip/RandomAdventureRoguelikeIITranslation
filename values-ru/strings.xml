@@ -2305,7 +2305,7 @@
     <string name="main_story_10">Flee from &font_heaven;Рай&font_end;</string>
     <string name="main_story_10_dialog_title">Вы засыпаете</string>
     <string name="main_story_10_dialog_message">Вы потеряли сознание, как только &font_wood;корабль &font_end;начал плавание…</string>
-    <string name="main_story_sail_advice_wont_be_able_to_come_back_to_island">Если вы отплывёте, то не сможете вернуться на %1$s!&br;&br;Вы хотите отплыть?</string>
+    <string name="main_story_sail_advice_wont_be_able_to_come_back_to_island">Если вы отплывёте, то не сможете вернуться на %1$s !&br;&br;Вы хотите отплыть?</string>
     <string name="main_story_heaven_gate_advice_wont_be_able_to_come_back_to_island">Если вы войдёте в %1$s, то не сможете вернуться на %2$s!&br;&br;Войти?</string>
 
     <string name="professional_quest_giving_quest_0">Привет, герой! Хочешь изучить основы профессии %1$s?</string>
