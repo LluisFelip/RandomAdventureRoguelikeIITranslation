@@ -3818,7 +3818,7 @@
     <string name="tile_content_type_grave">&font_stone;Grave&font_end;</string>
 
     <string name="tile_content_type_trainer">&font_epic;Trainer&font_end;</string>
-    <string name="trainer_message">Welcome! I can train you if you pay me good &font_gold;gold&font_end;… Get stronger with my lessons!</string>
+    <string name="trainer_message">Welcome! I can train you if you pay me good &font_gold;gold&font_end;… Get stronger with my lessons!&br;&br;Every time you increase a stat, it will cost you more &font_gold;gold &font_end;to increase it!</string>
     <string name="gold_to_base_stats_attack">Increase &font_attack;Attack &font_end; [&font_attack;%2$d&font_end;] &br;(&font_gold;%1$d &font_end;&font_gold;gold&font_end;)</string>
     <string name="gold_to_base_stats_defense">Increase &font_defense;Defense &font_end;
         [&font_defense;%2$d&font_end;] &br;(&font_gold;%1$d &font_end;&font_gold;gold&font_end;)</string>
