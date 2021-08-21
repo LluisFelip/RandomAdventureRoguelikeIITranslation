@@ -371,7 +371,7 @@
     <string name="inventory_damaged_by">Você  sofreu %1$s pontos de dano!</string>
     <string name="inventory_pickup_gold">Você  apanhou &font_gold;%1$d&font_end; Ouro!</string>
     <string name="inventory_required_level_x">&italic;Nível necessário: &font_cyan;%1$d&font_end;&italic_end;</string>
-    <string name="inventory_palm_tree_drop">%1$s caiu do &font_coconut;Coqueiro&font_end;!</string>
+    <string name="inventory_tree_drop">%1$s caiu do &font_coconut;Árvore&font_end;!</string>
     <string name="inventory_equipment_title_with_level">&font_wood;Equipamento &font_end;[&font_wood;µ&font_end;: &font_cyan;%1$d&font_end;]</string>
     <string name="inventory_equipment_empty">(vazio)</string>
     <string name="inventory_not_enough_space">Seu inventário está &font_red;cheio&font_end;!</string>

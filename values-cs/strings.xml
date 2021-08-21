@@ -375,7 +375,7 @@
     <string name="inventory_damaged_by">Zranil tě %1$s!</string>
     <string name="inventory_pickup_gold">Získal jsi &font_gold;%1$d&font_end; zlata!</string>
     <string name="inventory_required_level_x">&italic;Požadovaná úroveň: &font_cyan;%1$d&font_end;&italic_end;</string>
-    <string name="inventory_palm_tree_drop">Z &font_coconut;Palmy&font_end; spadl %1$s!</string>
+    <string name="inventory_tree_drop">Z &font_coconut;Strom&font_end; spadl %1$s!</string>
     <string name="inventory_equipment_title_with_level">&font_wood;Výzbroj &font_end;[&font_wood;µ&font_end;: &font_cyan;%1$d&font_end;]</string>
     <string name="inventory_equipment_empty">(prázdné)</string>
     <string name="inventory_not_enough_space">Tvůj inventář je &font_red;plný&font_end;!</string>

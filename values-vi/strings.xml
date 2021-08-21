@@ -365,7 +365,7 @@
     <string name="inventory_damaged_by">Damaged by %1$s!</string>
     <string name="inventory_pickup_gold">Picked up &font_gold;%1$d&font_end; gold!</string>
     <string name="inventory_required_level_x">&italic;Required Level: &font_cyan;%1$d&font_end;&italic_end;</string>
-    <string name="inventory_palm_tree_drop">A %1$s has fallen from the &font_coconut;Palm Tree&font_end;!</string>
+    <string name="inventory_tree_drop">A %1$s has fallen from the &font_coconut;Tree&font_end;!</string>
     <string name="inventory_equipment_title_with_level">&font_wood;Equipment &font_end;[&font_wood;µ&font_end;: &font_cyan;%1$d&font_end;]</string>
     <string name="inventory_equipment_empty">(empty)</string>
     <string name="inventory_not_enough_space">Your inventory is &font_red;full&font_end;!</string>

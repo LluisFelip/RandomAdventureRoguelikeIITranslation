@@ -351,7 +351,7 @@
     <string name="inventory_damaged_by">Uderzony przez %1$s!</string>
     <string name="inventory_pickup_gold">Podniesiono &font_gold;%1$d&font_end; złota!</string>
     <string name="inventory_required_level_x">&italic;Wymagany poziom: &font_cyan;%1$d&font_end;&italic_end;</string>
-    <string name="inventory_palm_tree_drop">Spadło %1$s z &font_coconut;palmy&font_end;!</string>
+    <string name="inventory_tree_drop">Spadło %1$s z &font_coconut;drzewo&font_end;!</string>
     <string name="inventory_equipment_title_with_level">&font_wood;Uzbrojenie &font_end;[&font_wood;µ&font_end;: &font_cyan;%1$d&font_end;]</string>
     <string name="inventory_equipment_empty">(brak)</string>
     <string name="inventory_not_enough_space">Twój ekwipunek jest &font_red;pełny&font_end;!</string>

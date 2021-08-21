@@ -369,7 +369,7 @@
     <string name="inventory_damaged_by">%1$s에 피해를 받았습니다!</string>
     <string name="inventory_pickup_gold">&font_gold;%1$d&font_end;의 골드를 주웠습니다!</string>
     <string name="inventory_required_level_x">&italic;요구 레벨: &font_cyan;%1$d&font_end;&italic_end;</string>
-    <string name="inventory_palm_tree_drop">%1$s가 &font_coconut;야자수&font_end;에서 떨어졌습니다!</string>
+    <string name="inventory_tree_drop">%1$s가 &font_coconut;나무&font_end;에서 떨어졌습니다!</string>
     <string name="inventory_equipment_title_with_level">장비 [µ: &font_cyan;%1$d&font_end;]</string>
     <string name="inventory_equipment_empty">(비었음)</string>
     <string name="inventory_not_enough_space">당신의 인벤토리가 &font_red;꽉 찼습니다&font_end;!</string>

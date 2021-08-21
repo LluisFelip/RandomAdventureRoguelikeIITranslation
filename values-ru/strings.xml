@@ -344,7 +344,7 @@
     <string name="inventory_damaged_by">Вы получили %1$s урона!</string>
     <string name="inventory_pickup_gold">Вы подобрали &font_gold;%1$d&font_end; золота!</string>
     <string name="inventory_required_level_x">&italic;Необходимый уровень: &font_cyan;%1$d&font_end;&italic_end;</string>
-    <string name="inventory_palm_tree_drop">Предмет %1$s упал с &font_coconut;пальмы&font_end;!</string>
+    <string name="inventory_tree_drop">Предмет %1$s упал с &font_coconut;Дерево&font_end;!</string>
     <string name="inventory_equipment_title_with_level">&font_wood;Снаряжение &font_end;[&font_wood;µ&font_end;: &font_cyan;%1$d&font_end;]</string>
     <string name="inventory_equipment_empty">(пусто)</string>
     <string name="inventory_not_enough_space">Инвентарь &font_red;полон&font_end;!</string>

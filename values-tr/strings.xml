@@ -255,7 +255,7 @@
     <string name="inventory_damaged_by">%1$s tarafından hasar!</string>
     <string name="inventory_pickup_gold">&font_gold;%1$d&font_end; altın aldın!</string>
     <string name="inventory_required_level_x">&italic;Gereken Seviye: &font_cyan;%1$d&font_end;&italic_end;</string>
-    <string name="inventory_palm_tree_drop">&font_coconut;Palmiye Ağacı&font_end;ndan bir %1$s düştü!</string>
+    <string name="inventory_tree_drop">&font_coconut;Ağacı&font_end;ndan bir %1$s düştü!</string>
     <string name="inventory_equipment_title_with_level">&font_wood;Ekipman &font_end;[&font_wood;µ&font_end;: &font_cyan;%1$d&font_end;]</string>
     <string name="inventory_equipment_empty">(boş)</string>
     <string name="inventory_not_enough_space">Envanterin &font_red;dolu&font_end;!</string>

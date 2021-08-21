@@ -223,7 +223,7 @@
     <string name="inventory_damaged_by">Endommagé par %1$s !</string>
     <string name="inventory_pickup_gold">Ramassé &font_gold;%1$d&font_end; d\'or !</string>
     <string name="inventory_required_level_x">&italic;Niveau requis : &font_cyan;%1$d&font_end;&italic_end;</string>
-    <string name="inventory_palm_tree_drop">Un %1$s est tombé du &font_coconut;palmier&font_end; !</string>
+    <string name="inventory_tree_drop">Un %1$s est tombé du &font_coconut;arbre&font_end; !</string>
     <string name="inventory_equipment_title_with_level">Équipement [µ: &font_cyan;%1$d&font_end;]</string>
     <string name="inventory_equipment_empty">(vide)</string>
     <string name="inventory_not_enough_space">Votre inventaire est &font_red;plein&font_end; !</string>
