@@ -3327,9 +3327,9 @@
     <string name="ascend_toast">Tout s\'assombrit…</string>
     <string name="ascend_end_toast">… vous vous sentez à nouveau vivant…</string>
 
-    <string name="title_the_ascended_male">%1$s, l\'&asterisk_ascend_color;Ascensionné&font_end;</string>
-    <string name="title_the_ascended_female">%1$s, l\'&asterisk_ascend_color;Ascensionnée&font_end;</string>
-    <string name="title_the_ascended_no_gender">%1$s, l\'&asterisk_ascend_color;Ascensionné&font_end;</string>
+    <string name="title_the_ascended_male">%1$s, l\'&asterisk_ascend_color;Ascendant&font_end;</string>
+    <string name="title_the_ascended_female">%1$s, l\'&asterisk_ascend_color;Ascendant&font_end;</string>
+    <string name="title_the_ascended_no_gender">%1$s, l\'&asterisk_ascend_color;Ascendant&font_end;</string>
 
     <string name="material_type_ascension_flame">&font_red;Flamme &font_end;de l\'&asterisk_ascend_color;Ascension&font_end;</string>
 
