@@ -3659,9 +3659,9 @@
     <string name="summoning_monster">&font_void;Invocation &font_end;du &font_red;monstre&font_end;…</string>
     <string name="summoned_monster">… %1$s &font_void;invoqué&font_end; !</string>
     <string name="cant_summon_if_theres_a_monster_nearby">Impossible d\'&font_void;invoquer &font_end;un &font_red;monstre &font_end;s\'il y a déjà un &font_red;monstre &font_end;dans les parages…</string>
-    <string name="scrap_from_inventory_message">Vous avez une &font_red;Flamme &font_end;de l\'&asterisk_ascend_color;Ascension&font_end;, vous pouvez donc &font_iron;ferailler &font_end;vos pièces d\'équipement.&br;&br;Voulez-vous &font_iron;ferailer &font_end;%1$s ?</string>
+    <string name="scrap_from_inventory_message">Vous avez une &font_red;Flamme &font_end;de l\'&asterisk_ascend_color;Ascension&font_end;, vous pouvez donc &font_iron;démanteler &font_end;vos pièces d\'équipement.&br;&br;Voulez-vous &font_iron;démanteler &font_end;%1$s ?</string>
 
-    <string name="button_scrap_inventory">Ferailler</string>
+    <string name="button_scrap_inventory">Démanteler</string>
     <string name="button_drop_reduced">Jeter</string>
 
     <string name="tile_content_type_monster_trophy">&font_gold;Trophée &font_end;de &font_red;monstre&font_end;</string>
