@@ -737,9 +737,9 @@
         est à &font_gold;%1$d&font_end;</string>
     <string name="level_up_skill_point">&br;Vous recevez &font_cyan;%1$d &font_end;de Point(s) de Compétences.</string>
 
-    <string name="combat_monster_attacked_player">&font_red;%1$s &font_end;vous attaque !&br;Vous percevez &font_red;%2$d &font_end;de dégâts !</string>
+    <string name="combat_monster_attacked_player">&font_red;%1$s &font_end;vous attaque !&br;Vous recevez &font_red;%2$d &font_end;de dégâts !</string>
     <string name="combat_monster_action_attacked_player">&font_red;%1$s &font_end;vous attaque avec son &font_red;%2$s&font_end;
-        !&br;Vous percevez &font_red;%3$d &font_end;de dégâts !</string>
+        !&br;Vous recevez &font_red;%3$d &font_end;de dégâts !</string>
     <string name="combat_player_attacked_monster_damage">Vous attaquez !&br;&font_red;%1$s &font_end;reçoit &font_red;%2$d &font_end;de dégâts !</string>
     <string name="combat_player_skill_dealt_damage">&font_red;%1$s &font_end;reçoit &font_red;%2$d &font_end;de dégâts !</string>
     <string name="combat_player_skill_restored_health">Vous régénérez &font_health;%1$d &font_end;de points de vie !</string>
@@ -3327,9 +3327,9 @@
     <string name="ascend_toast">Tout s\'assombrit…</string>
     <string name="ascend_end_toast">… vous vous sentez à nouveau vivant…</string>
 
-    <string name="title_the_ascended_male">%1$s, l\'&asterisk_ascend_color;Ascensionné&font_end;</string>
-    <string name="title_the_ascended_female">%1$s, l\'&asterisk_ascend_color;Ascensionnée&font_end;</string>
-    <string name="title_the_ascended_no_gender">%1$s, l\'&asterisk_ascend_color;Ascensionné&font_end;</string>
+    <string name="title_the_ascended_male">%1$s, l\'&asterisk_ascend_color;Ascendant&font_end;</string>
+    <string name="title_the_ascended_female">%1$s, l\'&asterisk_ascend_color;Ascendant&font_end;</string>
+    <string name="title_the_ascended_no_gender">%1$s, l\'&asterisk_ascend_color;Ascendant&font_end;</string>
 
     <string name="material_type_ascension_flame">&font_red;Flamme &font_end;de l\'&asterisk_ascend_color;Ascension&font_end;</string>
 
@@ -3659,9 +3659,9 @@
     <string name="summoning_monster">&font_void;Invocation &font_end;du &font_red;monstre&font_end;…</string>
     <string name="summoned_monster">… %1$s &font_void;invoqué&font_end; !</string>
     <string name="cant_summon_if_theres_a_monster_nearby">Impossible d\'&font_void;invoquer &font_end;un &font_red;monstre &font_end;s\'il y a déjà un &font_red;monstre &font_end;dans les parages…</string>
-    <string name="scrap_from_inventory_message">Vous avez une &font_red;Flamme &font_end;de l\'&asterisk_ascend_color;Ascension&font_end;, vous pouvez donc &font_iron;ferailler &font_end;vos pièces d\'équipement.&br;&br;Voulez-vous &font_iron;ferailer &font_end;%1$s ?</string>
+    <string name="scrap_from_inventory_message">Vous avez une &font_red;Flamme &font_end;de l\'&asterisk_ascend_color;Ascension&font_end;, vous pouvez donc &font_iron;démanteler &font_end;vos pièces d\'équipement.&br;&br;Voulez-vous &font_iron;démanteler &font_end;%1$s ?</string>
 
-    <string name="button_scrap_inventory">Ferailler</string>
+    <string name="button_scrap_inventory">Démanteler</string>
     <string name="button_drop_reduced">Jeter</string>
 
     <string name="tile_content_type_monster_trophy">&font_gold;Trophée &font_end;de &font_red;monstre&font_end;</string>
