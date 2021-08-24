@@ -3910,5 +3910,6 @@
     <string name="button_points_of_interest">POI</string>
     <string name="used_item">Used %1$s!</string>
     <string name="material_type_apple">&font_plant;Apple&font_end;</string>
+    <string name="tile_content_type_young_boy_not_so_young">Not So Young Boy</string>
 
 </resources>
