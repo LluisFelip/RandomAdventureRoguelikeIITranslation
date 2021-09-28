@@ -1,131 +1,72 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE resources [
-    <!ENTITY br "&lt;br&gt;">
-    <!ENTITY line_break "\n">
-    <!ENTITY bold "&lt;b&gt;">
-    <!ENTITY bold_end "&lt;/b&gt;">
-    <!ENTITY italic "&lt;i&gt;">
-    <!ENTITY italic_end "&lt;/i&gt;">
-    <!ENTITY font_end "&lt;/font&gt;">
-    <!ENTITY font_cyan "&lt;font color=&quot;#00FFFF&quot;&gt;">
-    <!ENTITY font_black "&lt;font color=&quot;#000000&quot;&gt;">
-    <!ENTITY font_black_low "&lt;font color=&quot;#777777&quot;&gt;">
-    <!ENTITY font_asterisk_level "&lt;font color=&quot;#00FFFF&quot;&gt;">
-    <!ENTITY font_asterisk_main_story "&lt;font color=&quot;#F44336&quot;&gt;">
-    <!ENTITY font_asterisk_void_master "&lt;font color=&quot;#C500FF&quot;&gt;">
-    <!ENTITY font_asterisk_creator "&lt;font color=&quot;#FFEB3B&quot;&gt;">
-    <!ENTITY font_scale "&lt;font color=&quot;#02BD00&quot;&gt;">
-    <!ENTITY font_attack "&lt;font color=&quot;#FF1A1A&quot;&gt;">
-    <!ENTITY font_defense "&lt;font color=&quot;#f523f5&quot;&gt;">
-    <!ENTITY font_speed "&lt;font color=&quot;#FF7003&quot;&gt;">
-    <!ENTITY font_mana "&lt;font color=&quot;#0277bd&quot;&gt;">
-    <!ENTITY font_health "&lt;font color=&quot;#11ff22&quot;&gt;">
-    <!ENTITY font_hunger "&lt;font color=&quot;#ff3333&quot;&gt;">
-    <!ENTITY font_pet "&lt;font color=&quot;#FF9D00&quot;&gt;">
-    <!ENTITY font_wood "&lt;font color=&quot;#98795F&quot;&gt;">
-    <!ENTITY font_alchemist "&lt;font color=&quot;#9C27B0&quot;&gt;">
-    <!ENTITY font_silver "&lt;font color=&quot;#C0C0C0&quot;&gt;">
-    <!ENTITY font_gold "&lt;font color=&quot;#FFD700&quot;&gt;">
-    <!ENTITY font_red "&lt;font color=&quot;#FF0000&quot;&gt;">
-    <!ENTITY font_purifying "&lt;font color=&quot;#F85FFF&quot;&gt;">
-    <!ENTITY font_primary_light "&lt;font color=&quot;#616161&quot;&gt;">
-    <!ENTITY font_green "&lt;font color=&quot;#00FF00&quot;&gt;">
-    <!ENTITY font_dark_green "&lt;font color=&quot;#00A800&quot;&gt;">
-    <!ENTITY font_diamond "&lt;font color=&quot;#0EBFE9&quot;&gt;">
-    <!ENTITY font_stone "&lt;font color=&quot;#DDDDDD&quot;&gt;">
-    <!ENTITY font_inn "&lt;font color=&quot;#2A93FF&quot;&gt;">
-    <!ENTITY font_white "&lt;font color=&quot;#FFFFFF&quot;&gt;">
-    <!ENTITY font_volcano "&lt;font color=&quot;#AD1717&quot;&gt;">
-    <!ENTITY font_icy "&lt;font color=&quot;#9DFFFF&quot;&gt;">
-    <!ENTITY font_iron "&lt;font color=&quot;#50676b&quot;&gt;">
-    <!ENTITY font_sand "&lt;font color=&quot;#CEA88F&quot;&gt;">
-    <!ENTITY font_obsidian "&lt;font color=&quot;#3D5B43&quot;&gt;">
-    <!ENTITY font_insect "&lt;font color=&quot;#007DDA&quot;&gt;">
-    <!ENTITY font_skin "&lt;font color=&quot;#FFAD6A&quot;&gt;">
-    <!ENTITY font_coconut "&lt;font color=&quot;#B48359&quot;&gt;">
-    <!ENTITY font_glass "&lt;font color=&quot;#439B81&quot;&gt;">
-    <!ENTITY font_emerald "&lt;font color=&quot;#99F84F&quot;&gt;">
-    <!ENTITY font_cave "&lt;font color=&quot;#97694F&quot;&gt;">
-    <!ENTITY font_copper "&lt;font color=&quot;#b87333&quot;&gt;">
-    <!ENTITY font_leather "&lt;font color=&quot;#B86320&quot;&gt;">
-    <!ENTITY font_tin "&lt;font color=&quot;#d3d4d5&quot;&gt;">
-    <!ENTITY font_plant "&lt;font color=&quot;#0EFF09&quot;&gt;">
-    <!ENTITY font_ice "&lt;font color=&quot;#00BCD4&quot;&gt;">
-    <!ENTITY font_blood "&lt;font color=&quot;#d50000&quot;&gt;">
-    <!ENTITY font_dark_orb "&lt;font color=&quot;#C400FF&quot;&gt;">
-    <!ENTITY font_water "&lt;font color=&quot;#719FFF&quot;&gt;">
-    <!ENTITY font_bone "&lt;font color=&quot;#9e9e9e&quot;&gt;">
-    <!ENTITY font_teeth "&lt;font color=&quot;#3FB900&quot;&gt;">
-    <!ENTITY font_bronze "&lt;font color=&quot;#CD7F32&quot;&gt;">
-    <!ENTITY font_dark_red "&lt;font color=&quot;#740000&quot;&gt;">
-    <!ENTITY font_swamp "&lt;font color=&quot;#7b1fa2&quot;&gt;">
-    <!ENTITY font_cactus "&lt;font color=&quot;#099E06&quot;&gt;">
-    <!ENTITY font_mushroom "&lt;font color=&quot;#B9008F&quot;&gt;">
-    <!ENTITY font_liana "&lt;font color=&quot;#017900&quot;&gt;">
-    <!ENTITY font_electric "&lt;font color=&quot;#FADF4D&quot;&gt;">
-    <!ENTITY font_bomb "&lt;font color=&quot;#C6C9C9&quot;&gt;">
-    <!ENTITY font_string "&lt;font color=&quot;#EC9E65&quot;&gt;">
-    <!ENTITY font_ash "&lt;font color=&quot;#9E9A9A&quot;&gt;">
-    <!ENTITY font_nut "&lt;font color=&quot;#FF4524&quot;&gt;">
-    <!ENTITY font_date "&lt;font color=&quot;#F5671D&quot;&gt;">
-    <!ENTITY font_gunpowder "&lt;font color=&quot;#CEC1C1&quot;&gt;">
-    <!ENTITY font_desert "&lt;font color=&quot;#856C60&quot;&gt;">
-    <!ENTITY font_portal "&lt;font color=&quot;#FF2AFF&quot;&gt;">
-    <!ENTITY font_chest "&lt;font color=&quot;#CC6600&quot;&gt;">
-    <!ENTITY font_skill_attack "&lt;font color=&quot;#FF5B5B&quot;&gt;">
-    <!ENTITY font_quest "&lt;font color=&quot;#9F47BD&quot;&gt;">
-    <!ENTITY font_tundra "&lt;font color=&quot;#5ED6D6&quot;&gt;">
-    <!ENTITY font_yellow "&lt;font color=&quot;#FFEB3B&quot;&gt;">
-    <!ENTITY font_hell "&lt;font color=&quot;#DF0000&quot;&gt;">
-    <!ENTITY font_blue "&lt;font color=&quot;#0000ff&quot;&gt;">
-    <!ENTITY font_bar "&lt;font color=&quot;#51C532&quot;&gt;">
-    <!ENTITY font_witch "&lt;font color=&quot;#8700D3&quot;&gt;">
-    <!ENTITY font_corrupted_god "&lt;font color=&quot;#FF0099&quot;&gt;">
-    <!ENTITY font_pyramid "&lt;font color=&quot;#D1AD00&quot;&gt;">
-    <!ENTITY font_ruins "&lt;font color=&quot;#049700&quot;&gt;">
-    <!ENTITY font_wise "&lt;font color=&quot;#D751FF&quot;&gt;">
-    <!ENTITY font_wooden_sign "&lt;font color=&quot;#FFC166&quot;&gt;">
-    <!ENTITY font_food "&lt;font color=&quot;#78C777&quot;&gt;">
-    <!ENTITY font_spell_wind "&lt;font color=&quot;#00796B&quot;&gt;">
-    <!ENTITY font_heaven "&lt;font color=&quot;#ADFFFF&quot;&gt;">
-    <!ENTITY font_animal "&lt;font color=&quot;#66BB6A&quot;&gt;">
-    <!ENTITY font_unicorn "&lt;font color=&quot;#A500FF&quot;&gt;">
-    <!ENTITY font_gate "&lt;font color=&quot;#D751FF&quot;&gt;">
-    <!ENTITY font_void "&lt;font color=&quot;#D751FF&quot;&gt;">
-    <!ENTITY font_infinity "&lt;font color=&quot;#D8FF00&quot;&gt;">
-    <!ENTITY font_tyrant "&lt;font color=&quot;#CCAEAE&quot;&gt;">
-    <!ENTITY font_pink "&lt;font color=&quot;#FF69B4&quot;&gt;">
-    <!ENTITY font_epic "&lt;font color=&quot;#FF3DFF&quot;&gt;">
-    <!ENTITY font_mark_yellow "&lt;font color=&quot;#FFFF00&quot;&gt;">
-    <!ENTITY font_mark_magenta "&lt;font color=&quot;#ff00ff&quot;&gt;">
-    <!ENTITY font_mark_cyan "&lt;font color=&quot;#00ffff&quot;&gt;">
-    <!ENTITY font_dungeon_boss "&lt;font color=&quot;#FF3DFF&quot;&gt;">
-    <!ENTITY font_beetle_talisman "&lt;font color=&quot;#FFAE28&quot;&gt;">
-    <!ENTITY font_jade "&lt;font color=&quot;#00a86b&quot;&gt;">
-    <!ENTITY font_quartz "&lt;font color=&quot;#e9dfe0&quot;&gt;">
-    <!ENTITY font_jasper "&lt;font color=&quot;#d73b3e&quot;&gt;">
-    <!ENTITY font_sodalite "&lt;font color=&quot;#3e5b99&quot;&gt;">
-    <!ENTITY font_onyx "&lt;font color=&quot;#666666&quot;&gt;">
-    <!ENTITY font_serpentine "&lt;font color=&quot;#78a680&quot;&gt;">
-    <!ENTITY font_aragonite "&lt;font color=&quot;#F39965&quot;&gt;">
-    <!ENTITY font_saphir "&lt;font color=&quot;#0f52ba&quot;&gt;">
-    <!ENTITY font_ruby "&lt;font color=&quot;#e0115f&quot;&gt;">
-    <!ENTITY asterisk_ascend_color "&lt;font color=&quot;#2196F3&quot;&gt;">
-    <!ENTITY font_pearl "&lt;font color=&quot;#CACFCA&quot;&gt;">
-    <!ENTITY font_coral "&lt;font color=&quot;#FF00BF&quot;&gt;">
-    <!ENTITY font_legendary "&lt;font color=&quot;#FF920D&quot;&gt;">
-    ]>
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE resources [<!ENTITY br "&lt;br&gt;"><!ENTITY line_break "\n"><!ENTITY bold "&lt;b&gt;"><!ENTITY bold_end "&lt;/b&gt;"><!ENTITY italic "&lt;i&gt;"><!ENTITY italic_end "&lt;/i&gt;"><!ENTITY font_end "&lt;/font&gt;"><!ENTITY font_cyan "&lt;font color=&quot;#00FFFF&quot;&gt;"><!ENTITY font_black "&lt;font color=&quot;#000000&quot;&gt;"><!ENTITY font_black_low "&lt;font color=&quot;#777777&quot;&gt;"><!ENTITY font_asterisk_level "&lt;font color=&quot;#00FFFF&quot;&gt;"><!ENTITY font_asterisk_main_story "&lt;font color=&quot;#F44336&quot;&gt;"><!ENTITY font_asterisk_void_master "&lt;font color=&quot;#C500FF&quot;&gt;"><!ENTITY font_asterisk_creator "&lt;font color=&quot;#FFEB3B&quot;&gt;"><!ENTITY font_scale "&lt;font color=&quot;#02BD00&quot;&gt;"><!ENTITY font_attack "&lt;font color=&quot;#FF1A1A&quot;&gt;"><!ENTITY font_defense "&lt;font color=&quot;#f523f5&quot;&gt;"><!ENTITY font_speed "&lt;font color=&quot;#FF7003&quot;&gt;"><!ENTITY font_mana "&lt;font color=&quot;#0277bd&quot;&gt;"><!ENTITY font_health "&lt;font color=&quot;#11ff22&quot;&gt;"><!ENTITY font_hunger "&lt;font color=&quot;#ff3333&quot;&gt;"><!ENTITY font_pet "&lt;font color=&quot;#FF9D00&quot;&gt;"><!ENTITY font_wood "&lt;font color=&quot;#98795F&quot;&gt;"><!ENTITY font_alchemist "&lt;font color=&quot;#9C27B0&quot;&gt;"><!ENTITY font_silver "&lt;font color=&quot;#C0C0C0&quot;&gt;"><!ENTITY font_gold "&lt;font color=&quot;#FFD700&quot;&gt;"><!ENTITY font_red "&lt;font color=&quot;#FF0000&quot;&gt;"><!ENTITY font_purifying "&lt;font color=&quot;#F85FFF&quot;&gt;"><!ENTITY font_primary_light "&lt;font color=&quot;#616161&quot;&gt;"><!ENTITY font_green "&lt;font color=&quot;#00FF00&quot;&gt;"><!ENTITY font_dark_green "&lt;font color=&quot;#00A800&quot;&gt;"><!ENTITY font_diamond "&lt;font color=&quot;#0EBFE9&quot;&gt;"><!ENTITY font_stone "&lt;font color=&quot;#DDDDDD&quot;&gt;"><!ENTITY font_inn "&lt;font color=&quot;#2A93FF&quot;&gt;"><!ENTITY font_white "&lt;font color=&quot;#FFFFFF&quot;&gt;"><!ENTITY font_volcano "&lt;font color=&quot;#AD1717&quot;&gt;"><!ENTITY font_icy "&lt;font color=&quot;#9DFFFF&quot;&gt;"><!ENTITY font_iron "&lt;font color=&quot;#50676b&quot;&gt;"><!ENTITY font_sand "&lt;font color=&quot;#CEA88F&quot;&gt;"><!ENTITY font_obsidian "&lt;font color=&quot;#3D5B43&quot;&gt;"><!ENTITY font_insect "&lt;font color=&quot;#007DDA&quot;&gt;"><!ENTITY font_skin "&lt;font color=&quot;#FFAD6A&quot;&gt;"><!ENTITY font_coconut "&lt;font color=&quot;#B48359&quot;&gt;"><!ENTITY font_glass "&lt;font color=&quot;#439B81&quot;&gt;"><!ENTITY font_emerald "&lt;font color=&quot;#99F84F&quot;&gt;"><!ENTITY font_cave "&lt;font color=&quot;#97694F&quot;&gt;"><!ENTITY font_copper "&lt;font color=&quot;#b87333&quot;&gt;"><!ENTITY font_leather "&lt;font color=&quot;#B86320&quot;&gt;"><!ENTITY font_tin "&lt;font color=&quot;#d3d4d5&quot;&gt;"><!ENTITY font_plant "&lt;font color=&quot;#0EFF09&quot;&gt;"><!ENTITY font_ice "&lt;font color=&quot;#00BCD4&quot;&gt;"><!ENTITY font_blood "&lt;font color=&quot;#d50000&quot;&gt;"><!ENTITY font_dark_orb "&lt;font color=&quot;#C400FF&quot;&gt;"><!ENTITY font_water "&lt;font color=&quot;#719FFF&quot;&gt;"><!ENTITY font_bone "&lt;font color=&quot;#9e9e9e&quot;&gt;"><!ENTITY font_teeth "&lt;font color=&quot;#3FB900&quot;&gt;"><!ENTITY font_bronze "&lt;font color=&quot;#CD7F32&quot;&gt;"><!ENTITY font_dark_red "&lt;font color=&quot;#740000&quot;&gt;"><!ENTITY font_swamp "&lt;font color=&quot;#7b1fa2&quot;&gt;"><!ENTITY font_cactus "&lt;font color=&quot;#099E06&quot;&gt;"><!ENTITY font_mushroom "&lt;font color=&quot;#B9008F&quot;&gt;"><!ENTITY font_liana "&lt;font color=&quot;#017900&quot;&gt;"><!ENTITY font_electric "&lt;font color=&quot;#FADF4D&quot;&gt;"><!ENTITY font_bomb "&lt;font color=&quot;#C6C9C9&quot;&gt;"><!ENTITY font_string "&lt;font color=&quot;#EC9E65&quot;&gt;"><!ENTITY font_ash "&lt;font color=&quot;#9E9A9A&quot;&gt;"><!ENTITY font_nut "&lt;font color=&quot;#FF4524&quot;&gt;"><!ENTITY font_date "&lt;font color=&quot;#F5671D&quot;&gt;"><!ENTITY font_gunpowder "&lt;font color=&quot;#CEC1C1&quot;&gt;"><!ENTITY font_desert "&lt;font color=&quot;#856C60&quot;&gt;"><!ENTITY font_portal "&lt;font color=&quot;#FF2AFF&quot;&gt;"><!ENTITY font_chest "&lt;font color=&quot;#CC6600&quot;&gt;"><!ENTITY font_skill_attack "&lt;font color=&quot;#FF5B5B&quot;&gt;"><!ENTITY font_quest "&lt;font color=&quot;#9F47BD&quot;&gt;"><!ENTITY font_tundra "&lt;font color=&quot;#5ED6D6&quot;&gt;"><!ENTITY font_yellow "&lt;font color=&quot;#FFEB3B&quot;&gt;"><!ENTITY font_hell "&lt;font color=&quot;#DF0000&quot;&gt;"><!ENTITY font_blue "&lt;font color=&quot;#0000ff&quot;&gt;"><!ENTITY font_bar "&lt;font color=&quot;#51C532&quot;&gt;"><!ENTITY font_witch "&lt;font color=&quot;#8700D3&quot;&gt;"><!ENTITY font_corrupted_god "&lt;font color=&quot;#FF0099&quot;&gt;"><!ENTITY font_pyramid "&lt;font color=&quot;#D1AD00&quot;&gt;"><!ENTITY font_ruins "&lt;font color=&quot;#049700&quot;&gt;"><!ENTITY font_wise "&lt;font color=&quot;#D751FF&quot;&gt;"><!ENTITY font_wooden_sign "&lt;font color=&quot;#FFC166&quot;&gt;"><!ENTITY font_food "&lt;font color=&quot;#78C777&quot;&gt;"><!ENTITY font_spell_wind "&lt;font color=&quot;#00796B&quot;&gt;"><!ENTITY font_heaven "&lt;font color=&quot;#ADFFFF&quot;&gt;"><!ENTITY font_animal "&lt;font color=&quot;#66BB6A&quot;&gt;"><!ENTITY font_unicorn "&lt;font color=&quot;#A500FF&quot;&gt;"><!ENTITY font_gate "&lt;font color=&quot;#D751FF&quot;&gt;"><!ENTITY font_void "&lt;font color=&quot;#D751FF&quot;&gt;"><!ENTITY font_infinity "&lt;font color=&quot;#D8FF00&quot;&gt;"><!ENTITY font_tyrant "&lt;font color=&quot;#CCAEAE&quot;&gt;"><!ENTITY font_pink "&lt;font color=&quot;#FF69B4&quot;&gt;"><!ENTITY font_epic "&lt;font color=&quot;#FF3DFF&quot;&gt;"><!ENTITY font_mark_yellow "&lt;font color=&quot;#FFFF00&quot;&gt;"><!ENTITY font_mark_magenta "&lt;font color=&quot;#ff00ff&quot;&gt;"><!ENTITY font_mark_cyan "&lt;font color=&quot;#00ffff&quot;&gt;"><!ENTITY font_dungeon_boss "&lt;font color=&quot;#FF3DFF&quot;&gt;"><!ENTITY font_beetle_talisman "&lt;font color=&quot;#FFAE28&quot;&gt;"><!ENTITY font_jade "&lt;font color=&quot;#00a86b&quot;&gt;"><!ENTITY font_quartz "&lt;font color=&quot;#e9dfe0&quot;&gt;"><!ENTITY font_jasper "&lt;font color=&quot;#d73b3e&quot;&gt;"><!ENTITY font_sodalite "&lt;font color=&quot;#3e5b99&quot;&gt;"><!ENTITY font_onyx "&lt;font color=&quot;#666666&quot;&gt;"><!ENTITY font_serpentine "&lt;font color=&quot;#78a680&quot;&gt;"><!ENTITY font_aragonite "&lt;font color=&quot;#F39965&quot;&gt;"><!ENTITY font_saphir "&lt;font color=&quot;#0f52ba&quot;&gt;"><!ENTITY font_ruby "&lt;font color=&quot;#e0115f&quot;&gt;"><!ENTITY asterisk_ascend_color "&lt;font color=&quot;#2196F3&quot;&gt;"><!ENTITY font_pearl "&lt;font color=&quot;#CACFCA&quot;&gt;"><!ENTITY font_coral "&lt;font color=&quot;#FF00BF&quot;&gt;"><!ENTITY font_legendary "&lt;font color=&quot;#FF920D&quot;&gt;">]>
 
 <resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+    <!-- DO NOT TRANSLATE                                                                        -->
+    <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
 
     <plurals name="quest_kill_monsters_text_giving" tools:ignore="MissingQuantity">
         <item quantity="one">I need you to kill %1$s %2$s monster</item>
         <item quantity="other">I need you to kill %1$s %2$s monsters</item>
     </plurals>
+
     <plurals name="quest_kill_monsters_text_quest_screen" tools:ignore="MissingQuantity">
         <item quantity="one">Kill %1$s %2$s monster</item>
         <item quantity="other">Kill %1$s %2$s monsters</item>
     </plurals>
+    <string name="version_name" translatable="false">v. &font_obsidian;%1$s&font_end;</string>
+    <string name="marked_char_with_color" translatable="false">[&lt;font color=\"%1$s\"&gt;%2$c&font_end;]</string>
+    <string name="mark_white" translatable="false">&font_white;#ffffff&font_end;</string>
+    <string name="mark_red" translatable="false">&font_red;#ff0000&font_end;</string>
+    <string name="mark_green" translatable="false">&font_green;#00ff00&font_end;</string>
+    <string name="mark_blue" translatable="false">&font_blue;#0000ff&font_end;</string>
+    <string name="mark_yellow" translatable="false">&font_mark_yellow;#ffff00&font_end;</string>
+
+    <string name="mark_magenta" translatable="false">&font_mark_magenta;#ff00ff&font_end;</string>
+
+    <string name="mark_cyan" translatable="false">&font_mark_cyan;#00ffff&font_end;</string>
+    <string name="text_br" translatable="false">&br;</string>
+
+    <string name="cyan_text" translatable="false">&font_cyan;%1$s&font_end;</string>
+    <string name="gold_number" translatable="false">&font_gold;%1$d&font_end;</string>
+    <string name="app_name" translatable="false">RAR II</string>
+    <string name="menu_title" translatable="false">Random Adventure&line_break;Roguelike&line_break;II</string>
+
+    <string name="title_" translatable="false">Random&line_break;Adventure&line_break;Roguelike</string>
+
+    <string name="title_2" translatable="false">II</string>
+    <string name="new_game_hero_name_with_roman_number" translatable="false">%1$s %2$s</string>
+    <string name="monster_type_plant" translatable="false">Plant</string>
+    <string name="monster_type_beast" translatable="false">Beast</string>
+    <string name="monster_type_humanoid" translatable="false">Humanoid</string>
+    <string name="monster_type_construct" translatable="false">Construct</string>
+    <string name="monster_type_fiend" translatable="false">Fiend</string>
+    <string name="monster_type_fey" translatable="false">Fey</string>
+    <string name="monster_type_dragon" translatable="false">Dragon</string>
+    <string name="monster_type_undead" translatable="false">Undead</string>
+    <string name="monster_type_elemental" translatable="false">Elemental</string>
+    <string name="monster_type_swarm" translatable="false">Swarm</string>
+    <string name="monster_type_monstrosity" translatable="false">Monstrosity</string>
+    <string name="monster_type_aberration" translatable="false">Aberration</string>
+    <string name="monster_type_giant" translatable="false">Giant</string>
+
+    <string name="monster_type_ooze" translatable="false">Ooze</string>
+
+    <string name="monster_type_celestial" translatable="false">Celestial</string>
+
+    <string name="infinity_island_infinity_level" translatable="false">[+&font_infinity;%d&font_end;]</string>
+
+    <string name="monster_creator_name" translatable="false">Archison</string>
+
+
+    <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+    <!-- TRANSLATE                                                                               -->
+    <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+
+
+    <string name="plus_number" translatable="false">+&font_cyan;%d&font_end;</string>
+    <string name="tool_infinite_text" translatable="false">%1$s [&font_infinity;*&font_end;]</string>
 
     <!-- Accessibility -->
     <string name="content_description_arrow_to_unfold_complete_status_info">Arrow to unfold complete status info.</string>
@@ -318,7 +259,7 @@
     <string name="button_deposit_bank">&font_gold;Gửi tiền&font_end;</string>
     <string name="button_exit">Thoát</string>
     <string name="button_cancel">Hủy</string>
-    <string name="button_free">Miễn phí</string>
+    <string name="button_free">Giải cứu</string>
     <string name="button_thanks">Cảm ơn</string>
     <string name="button_idontknow">Tôi không biết...</string>
     <string name="button_explore">Thám hiểm</string>
