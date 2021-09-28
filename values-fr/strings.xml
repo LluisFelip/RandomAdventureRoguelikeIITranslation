@@ -1738,8 +1738,8 @@
     <string name="slave_runs_away">L\'%1$s a fui en laissant quelque chose derrière lui…</string>
     <string name="slave_thanks_for_freeing_me">Merci de m\'avoir libéré !</string>
     <string name="guard">Garde</string>
-    <string name="guard_start_dialog">Jm\'en vais ramener cet &font_cyan;Esclave&font_end; au chateau pour l\'exécuter, dégage ou tu vas goûter au fer de mon épé !</string>
-    <string name="troll_pay_or_fight" tools:ignore="PluralsCandidate">Chui %1$s ! Ce pont est mien ! Si tu a envie que tu passe dans le pont, paye avec &font_gold;%2$d d\'or&font_end;, ou meuuurt !</string>
+    <string name="guard_start_dialog">Jm\'en vais ramener cet &font_cyan;Esclave&font_end; au chateau pour l\'exécuter, dégage de là ou tu subira le même sort !</string>
+    <string name="troll_pay_or_fight" tools:ignore="PluralsCandidate">Chui %1$s ! Ce pont est à moi ! Si t'as envie de le passer, file moi &font_gold;%2$d d\'or&font_end;, ou ne le fait pas.. mais tu mourras</string>
     <string name="troll_not_enough_gold">Vous n\'avez pas assez &font_gold;d\'or&font_end;! Le %1$s t\'attaque !</string>
     <string name="troll_leaves_happily_with_your_money">%1$s gambade ailleurs avec son or fraîchement acquis…</string>
     <string name="explorer_you_dont_have_the_necessary_island_soul" tools:ignore="UnusedResources">Vous ne possèdez pas la bonne &font_cyan;Âme de l\'Île&font_end;…</string>
@@ -1803,10 +1803,10 @@
     <string name="temple_explore_3_a_open_yes">Oui</string>
     <string name="temple_explore_3_a_open_no">Non</string>
     <string name="temple_explore_3_a_opening_1">Tu essayes d\'ouvrir le &font_gold;coffre doré &font_end;mais au moment ou tu le touches, tu te prends un énorme choc électrique et perds instantanément conscience.</string>
-    <string name="temple_explore_3_a_opening_2">Tu ouvres les yeux et te retrouves à l\'extérieur. Tu réalises qu\'il y a des rochers à l\'entrée, impossible de rentrer.</string>
+    <string name="temple_explore_3_a_opening_2">Tu ouvres les yeux et te retrouves à l\'extérieur. Tu réalises qu\'il y a des rochers à l\'entrée, impossible de les retirer.</string>
     <string name="temple_explore_3_a_not_opening_1">Tu décides de ne pas ouvrir le coffre et tu réalises qu\'il y a une porte près du mur. Tu l\'ouvres et apperçois de la lumière au bout du chemin.</string>
     <string name="temple_explore_3_a_not_opening_2">Cette porte mène à l\'extérieur. Tu sors et au même moment, l\'entrée s\'écroule et un tas de rochers bloque l\'accès au temple.</string>
-    <string name="temple_explore_3_b">Au moment ou tu bouges le levier, une porte se révèle. Tu la traverses. Tu te retrouves dans un petit couloir qui se sépare en deux au bout : l\'un moins éclairé que l\'autre. Lequel prends tu ?</string>
+    <string name="temple_explore_3_b">Au moment ou tu bouges le levier, une porte se révèle. Tu l'ouvres et passes sans encombre. Tu te retrouves dans un petit couloir qui se sépare en deux au bout : l\'un moins éclairé que l\'autre. Lequel prends tu ?</string>
     <string name="temple_explore_3_b_darker">&font_cyan;Le chemin mal éclairé&font_end;</string>
     <string name="temple_explore_3_b_normal">&font_cyan;Le chemin bien éclairé&font_end;</string>
     <string name="temple_explore_4_a_1">Tu optes pour le chemins plus sombre et continues de marcher jusqu\'a heurter un mur. Quand tu te retournes pour rebrousser chemin, il y a un nouveau mur.</string>
@@ -1821,7 +1821,7 @@
     <string name="temple_explore_5_a_yes_consequence_1" tools:ignore="PluralsCandidate">Tu ouvres le &font_silver;coffre argenté&font_end;
         ! Il y a &font_gold;%1$d d\'or &font_end;et un %2$s ! Tu récupères le tout et soudainement, un mystérieux gaz s\'échappe et tu perds conscience…</string>
     <string name="temple_explore_5_a_yes_consequence_2">Tu ouvres les yeux et tu te retrouves dehors. Tu réalise que quelqu\'un a bloqué l\'entrée avec des pierres.</string>
-    <string name="temple_explore_5_a_no_consequence">Après avoir décidé de ne pas l\'ouvrir, une voix inconnue résonne dans ta tête et contre les parrois des murs : \'Après être allé aussi loin, tu ne veux pas ouvrir mon coffre ? Ta punition sera terrible !\'</string>
+    <string name="temple_explore_5_a_no_consequence">Après avoir décidé de ne pas l\'ouvrir, une voix inconnue résonne dans les murs : \'Après être allé aussi loin, tu ne veux pas ouvrir mon cadeux ? Quel ingrat, ta punition sera terrible !\'</string>
     <string name="temple_explore_5_b">Les &font_red;torches&font_end;
         sont réduites en poussière et tout s\'assombrit…</string>
     <string name="temple_explore_5_b_2">Soudainement, tu ouvres les yeux et tu te retrouves dehors. Tu réalises que le monstre a bloqué l\'entrée avec des pierres.</string>
