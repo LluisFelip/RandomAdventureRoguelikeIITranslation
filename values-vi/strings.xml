@@ -345,8 +345,7 @@
     <string name="status_player_name">%1$s</string>
     <string name="status_player_level">Level &font_cyan;%1$d&font_end;</string>
     <string name="status_player_experience_needed">Kinh nghiệm: &font_cyan;%1$d&font_end;/&font_cyan;%2$d&font_end;</string>
-    <string name="status_player_gold">Vàng: &font_gold;%1$d&font_end;
-        (&font_gold;%2$d &font_end;+ &font_gold;%3$d&font_end;
+    <string name="status_player_gold">Vàng: &font_gold;%1$d&font_end; (&font_gold;%2$d &font_end;+ &font_gold;%3$d&font_end;
         in &font_gold;Ngân hàng&font_end;)</string>
     <string name="status_permadeath">&font_red;&bold;CHẾT VĨNH VIỄN&bold_end;&font_end;</string>
     <string name="status_no_permadeath">&font_green;&bold;KHÔNG CHẾT VĨNH VIỄN&bold_end;&font_end;</string>
