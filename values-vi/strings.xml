@@ -146,20 +146,20 @@
     <string name="content_description_dungeon_current_position_info">Current dungeon position button</string>
 
 
-    <string name="menu_new_game">Chơi mới</string>
-    <string name="menu_continue_button">&font_cyan;Continue&font_end;&br;%1$s [&font_cyan;%2$d&font_end;]</string>
-    <string name="menu_cemetery">Cemetery</string>
-    <string name="menu_collection">Collection</string>
+    <string name="menu_new_game">Trò Chơi Mới</string>
+    <string name="menu_continue_button">&font_cyan;Tiếp Tục&font_end;&br;%1$s [&font_cyan;%2$d&font_end;]</string>
+    <string name="menu_cemetery">Nghĩa Trang</string>
+    <string name="menu_collection">Sưu Tầm</string>
     <string name="menu_achievements">Thành tích</string>
-    <string name="menu_rate">Đánh giá</string>
-    <string name="menu_share">Chia sẻ</string>
+    <string name="menu_rate">Đánh Giá</string>
+    <string name="menu_share">Chia Sẻ</string>
     <string name="menu_exit">Thoát</string>
     <string name="menu_play">Chơi</string>
-    <string name="menu_new_game_slot_1">Chơi Mới (Slot 1)</string>
-    <string name="menu_new_game_slot_2">Chơi Mới (Slot 2)</string>
-    <string name="menu_new_game_slot_3">Chơi Mới (Slot 3)</string>
+    <string name="menu_new_game_slot_1">Trò Chơi Mới (Slot 1)</string>
+    <string name="menu_new_game_slot_2">Trò Chơi Mới (Slot 2)</string>
+    <string name="menu_new_game_slot_3">Trò Chơi Mới (Slot 3)</string>
 
-    <string name="text_achievement_unlocked_">Achievement \'&bold;%1$s&bold_end;\' unlocked!</string>
+    <string name="text_achievement_unlocked_">Thành tích \'&bold;%1$s&bold_end;\' đã mở khoá!</string>
 
     <string name="select_game_slot_title">Chọn Slot Game</string>
     <string name="select_game_slot_asterisc_level">&font_asterisk_level;&bold;\*&bold_end;&font_end;</string>
@@ -167,83 +167,83 @@
     <string name="select_game_slot_asterisc_void_master_killed">&font_asterisk_void_master;&bold;\*&bold_end;&font_end;</string>
     <string name="select_game_slot_asterisc_ascended">&asterisk_ascend_color;&bold;\*&bold_end;&font_end;</string>
     <string name="select_game_slot_asterisc_met_the_creator">&font_asterisk_creator;&bold;\*&bold_end;&font_end;</string>
-    <string name="select_game_slot_erase_game_title">Delete game?</string>
+    <string name="select_game_slot_erase_game_title">Xoá slot game?</string>
 
     <string name="text_update_available_title">Cập nhật có sẵn</string>
     <string name="text_update_available_message">Có một phiên bản mới đã có sẵn!</string>
     <string name="text_update_available_positive">Cập nhật</string>
     <string name="text_update_available_cancel">Hủy</string>
 
-    <string name="game_over_rank_top">You made it to the top &font_cyan;#%d&font_end; in the Cemetery!</string>
-    <string name="game_over_rank_rest">You were ranked &font_cyan;#%d &font_end;in the Cemetery.</string>
+    <string name="game_over_rank_top">Bạn đã lên top &font_cyan;#%d&font_end; trong Nghĩa Trang!</string>
+    <string name="game_over_rank_rest">Bạn ở rank &font_cyan;#%d &font_end;trong Nghĩa Trang.</string>
 
     <string name="welcome_message_title">Chào mừng</string>
 
     <string name="collection_question_marks">\?????</string>
-    <string name="collections_title">Collections</string>
-    <string name="collection_plants">Plants</string>
-    <string name="collection_fishes">Fish</string>
-    <string name="collection_cactus">Cactus</string>
-    <string name="collection_monsters">Monsters</string>
-    <string name="collection_island">Islands</string>
+    <string name="collections_title">Bộ Sưu Tầm</string>
+    <string name="collection_plants">Cây cỏ</string>
+    <string name="collection_fishes">Cá</string>
+    <string name="collection_cactus">Cây xương rồng</string>
+    <string name="collection_monsters">Quái vật</string>
+    <string name="collection_island">Hòn đảo</string>
     <string name="collection_icon">Collection Icon</string>
-    <string name="collection_merchants_mark">Merchant\'s Mark</string>
-    <string name="collection_insects">Insects</string>
-    <string name="collection_animals">Animals</string>
+    <string name="collection_merchants_mark">Dấu của Người buôn bán</string>
+    <string name="collection_insects">Côn trùng</string>
+    <string name="collection_animals">Động vật</string>
 
-    <string name="about_reddit">RAR II on Reddit</string>
-    <string name="about_title">&line_break;About RAR II</string>
-    <string name="about_text">This game has been created by a one-man developer team with love and patience :)&br;&br;I would love to hear about your opinion! Please feel free to contact me and share your ideas and suggestions.&br;&br;Hope you enjoy your adventure!</string>
-    <string name="about_twitter">Archison on Twitter</string>
-    <string name="about_discord">RAR II on Discord</string>
+    <string name="about_reddit">RAR II trên Reddit</string>
+    <string name="about_title">&line_break;Thông tin về RAR II</string>
+    <string name="about_text">Trò chơi này được tạo ra bởi một nhóm phát triển gồm một người với tâm huyết và sự kiên trì :)&br;&br;Tôi muốn nghe về ý kiến của bạn! Hãy liên hệ với tôi và chia sẻ ý tưởng và đóng gói.&br;&br;Mong bạn tận hưởng cuộc phiêu lưu của bạn!</string>
+    <string name="about_twitter">Archison trên Twitter</string>
+    <string name="about_discord">RAR II trên Discord</string>
 
     <string name="new_game_welcome_hero_whats_your_name">Chào mừng anh hùng! Bạn tên là gì?</string>
     <string name="new_game_hero_name">Anh hùng</string>
     <string name="new_game_whats_your_starting_advantage">… Và lợi thế khởi đầu của bạn là gì?</string>
 
     <string name="advantage_random">Ngẫu nhiên</string>
-    <string name="advantage_ranger">&font_wood;Ranger&font_end;</string>
-    <string name="advantage_warrior">&font_attack;Warrior&font_end;</string>
-    <string name="advantage_wizard">&font_mana;Wizard&font_end;</string>
-    <string name="advantage_cleric">&font_health;Cleric&font_end;</string>
-    <string name="advantage_petmaster">&font_pet;Pet Master&font_end;</string>
-    <string name="advantage_worker">&font_wood;Worker&font_end;</string>
-    <string name="advantage_alchemist">&font_alchemist;Alchemist&font_end;</string>
-    <string name="advantage_blacksmith">&font_silver;Blacksmith&font_end;</string>
-    <string name="advantage_noble">&font_gold;Noble&font_end;</string>
-    <string name="advantage_librarian">&font_wood;Librarian&font_end;</string>
-    <string name="advantage_librarian_desc">(You will start with a random crafting recipe, an &font_cyan;experience &font_end;potion and 5 &font_cyan;skill &font_end;points)</string>
+    <string name="advantage_ranger">&font_wood;Xạ Thủ&font_end;</string>
+    <string name="advantage_warrior">&font_attack;Chiến Binh&font_end;</string>
+    <string name="advantage_wizard">&font_mana;Phù Thủy&font_end;</string>
+    <string name="advantage_cleric">&font_health;Giáo Sĩ&font_end;</string>
+    <string name="advantage_petmaster">&font_pet;Người Thuần Thú&font_end;</string>
+    <string name="advantage_worker">&font_wood;Công Nhân&font_end;</string>
+    <string name="advantage_alchemist">&font_alchemist;Nhà Luyện Kim&font_end;</string>
+    <string name="advantage_blacksmith">&font_silver;Thợ Rèn&font_end;</string>
+    <string name="advantage_noble">&font_gold;Giàu Sang&font_end;</string>
+    <string name="advantage_librarian">&font_wood;Thủ Thư&font_end;</string>
+    <string name="advantage_librarian_desc">(Bạn sẽ bắt đầu với một công thức chế tạo ngẫu nhiên, một lọ thuốc &font_cyan;kinh nghiệm &font_end;và 5 điểm &font_cyan;kĩ năng &font_end;)</string>
     <string name="advantage_random_desc">(Bạn sẽ bắt đầu với một tài năng ngẫu nhiên)</string>
-    <string name="advantage_warrior_desc">(You will start with a &font_attack;Weapon&font_end;, a &font_defense;Shield&font_end;, and a piece of &font_defense;Armor&font_end;)</string>
-    <string name="advantage_ranger_desc">(You will start with a &font_speed;Ranged &font_end;weapon and a few of its ammunition)</string>
+    <string name="advantage_warrior_desc">(Bạn sẽ bắt đầu với một &font_attack;Vũ khí&font_end;, một chiếc &font_defense;Khiên&font_end;, và &font_defense;Áo giáp&font_end;)</string>
+    <string name="advantage_ranger_desc">(Bạn sẽ bắt đầu với một Vũ khí &font_speed;từ xa &font_end; và vài viên đạn của chúng)</string>
 
 
     <!-- NOTE FOR LANGUAGES ALREADY TRANSLATED: Translate these three  - - - - - - - - - - - - - -->
-    <string name="advantage_wizard_desc">(You will start knowing a random &font_mana;Spell &font_end;and a &font_mana;Staff&font_end;)</string>
-    <string name="advantage_cleric_desc">(You will start knowing a &font_health;heal&font_end; &font_mana;Spell &font_end;and a &font_mana;Staff&font_end;)</string>
-    <string name="advantage_petmaster_desc">(You will start knowing the &font_pet;Capture&font_end; &font_red;Monster&font_end; &font_mana;spell &font_end;, a CR &font_cyan;0&font_end; &font_red;Monster&font_end; &font_pet;Pet &font_end;and a &font_pet;Pet &font_end;&font_cyan;Collar&font_end;)</string>
+    <string name="advantage_wizard_desc">(Bạn sẽ bắt đầu với một &font_mana;Phép thuật &font_end;ngẫu nhiên và một &font_mana;Cây gậy&font_end;)</string>
+    <string name="advantage_cleric_desc">(Bạn sẽ bắt đầu với một &font_mana;Phép thuật&font_end; &font_health;Hồi máu&font_end; và một &font_mana;Cây gậy&font_end;)</string>
+    <string name="advantage_petmaster_desc">(Bạn sẽ bắt đầu với &font_mana;Phép thuật#80FF00&font_end; &font_pet;Bắt&font_end; &font_red;Quái vật&font_end;, một CR &font_cyan;0&font_end; &font_pet;Pet &font_end;&font_red;Quái vật&font_end; và một &font_cyan;Vòng cổ&font_end; &font_pet;Pet&font_end;)</string>
     <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
 
-    <string name="advantage_worker_desc">(You will start with a random &font_cyan;Tool&font_end;)</string>
-    <string name="advantage_alchemist_desc">(You will start knowing how to brew &font_cyan;1 &font_end;type of potion and &font_cyan;3 &font_end;random materials)</string>
-    <string name="advantage_blacksmith_desc">(You will start knowing how to craft a &font_attack;Weapon&font_end;, a &font_defense;Shield&font_end;, and a piece of &font_defense;Armor &font_end;and &font_cyan;3 &font_end;random materials)</string>
-    <string name="advantage_noble_desc">(You will start with more &font_gold;gold&font_end;)</string>
-    <string name="advantage_random_selected">Starting as: %1$s!</string>
+    <string name="advantage_worker_desc">(Bạn sẽ bắt đầu với một &font_cyan;Dụng cụ&font_end; ngẫu nhiên)</string>
+    <string name="advantage_alchemist_desc">(Bạn sẽ bắt đầu với một cách pha chế &font_cyan;một&font_end; lọ thuốc và &font_cyan;3 &font_end;nguyên liệu ngẫu nhiên)</string>
+    <string name="advantage_blacksmith_desc">(Bạn sẽ bắt đầu với một cách chế tạo &font_attack;Vũ khí&font_end;, một chiếc &font_defense;Khiên&font_end;, &font_defense;Áo giáp &font_end;và &font_cyan;3 &font_end;nguyên liệu ngẫu nhiên)</string>
+    <string name="advantage_noble_desc">(Bạn sẽ bắt đầu với nhiều &font_gold;vàng&font_end; hơn)</string>
+    <string name="advantage_random_selected">Bắt đầu là: %1$s!</string>
 
-    <string name="new_game_permadeath_question">Select permadeath mode…</string>
-    <string name="new_game_permadeath_selected">&font_red;&bold;PERMADEATH&bold_end;&font_end; mode selected.&br;&br;If you &font_red;die&font_end;, you will &font_cyan;lose everything &font_end;and will have to &font_cyan;start over&font_end;!</string>
-    <string name="new_game_no_permadeath_selected">&font_red;&bold;NO PERMADEATH &bold_end;&font_end;mode selected.&br;&br;If you die, you will be able to continue your game from the last &font_primary_light;&italic;[SAVED CHECKPOINT] &italic_end;&font_end;(when you rest at an &font_inn;Inn &font_end;or when you &font_cyan;level up&font_end;, a &font_primary_light;&italic;[SAVED CHECKPOINT] &italic_end;&font_end;will be made).</string>
+    <string name="new_game_permadeath_question">Chọn chế độ chết vĩnh viễn…</string>
+    <string name="new_game_permadeath_selected">Chế độ &font_red;&bold;CHẾT VĨNH VIỄN&bold_end;&font_end;đã được chọn.&br;&br;Nếu bạn &font_red;chết&font_end;, bạn sẽ &font_cyan;mất tất cả mọi thứ &font_end;và phải &font_cyan;chơi lại từ đầu&font_end;!</string>
+    <string name="new_game_no_permadeath_selected">Chế độ&font_red;&bold;KHÔNG CHẾT VĨNH VIỄN &bold_end;&font_end;đã được chọn.&br;&br;Nếu bạn chết, bạn sẽ tiếp tục trò chơi của bạn từ phần &font_primary_light;&italic;[SAVED CHECKPOINT] &italic_end;&font_end;(khi bạn nghỉ ở &font_inn;Nhà trọ &font_end;hoặc khi bạn &font_cyan;lên level&font_end;, một &font_primary_light;&italic;[SAVED CHECKPOINT] &italic_end;&font_end;sẽ được tạo).</string>
     <string name="saved_checkpoint">&font_primary_light;&italic;[SAVED CHECKPOINT]&italic_end;&font_end;</string>
 
-    <string name="cemetery_clear">Clear</string>
+    <string name="cemetery_clear">Xoá</string>
     <string name="cemetery_cancel">Hủy</string>
     <string name="cemetery_clear_title">Bạn có chắc không?</string>
     <string name="cemetery_remove_player">Xóa bỏ nhân vật này?</string>
-    <string name="cemetery_permadeath">(&font_red;P&font_end;)</string>
-    <string name="cemetery_no_permadeath">(&font_green;NP&font_end;)</string>
+    <string name="cemetery_permadeath">(&font_red;CVV&font_end;)</string>
+    <string name="cemetery_no_permadeath">(&font_green;KCVV&font_end;)</string>
 
-    <string name="button_permadeath">Permadeath</string>
-    <string name="button_no_permadeath">No Permadeath</string>
+    <string name="button_permadeath">Chết Vĩnh Viễn</string>
+    <string name="button_no_permadeath">Không Chết Vĩnh Viễn</string>
     <string name="button_start">Bắt đầu</string>
     <string name="button_east">Đông</string>
     <string name="button_south">Nam</string>
@@ -255,19 +255,19 @@
     <string name="button_buy_mode">Mua</string>
     <string name="button_sell_mode">Bán</string>
     <string name="button_clear">Xóa dữ liệu</string>
-    <string name="button_craft">Thủ công</string>
+    <string name="button_craft">Chế tạo</string>
     <string name="button_drop">Bỏ đi</string>
     <string name="button_use">Sử dụng</string>
-    <string name="button_water_seed">Water Seed</string>
+    <string name="button_water_seed">Tưới hạt giống</string>
     <string name="button_cook">Nấu</string>
     <string name="button_eat">Ăn</string>
     <string name="button_drink">Uống</string>
-    <string name="button_wield">Sử dụng</string>
-    <string name="button_unwield">Không sử dụng</string>
+    <string name="button_wield">Trang bị</string>
+    <string name="button_unwield">Bỏ trang bị</string>
     <string name="button_pickup">Nhặt lên</string>
     <string name="button_attack">Tấn công</string>
-    <string name="button_butcher">Nấy thịt</string>
-    <string name="button_skin">Skin</string>
+    <string name="button_butcher">Chặt thịt</string>
+    <string name="button_skin">Lấy da</string>
     <string name="button_enter">Vào</string>
     <string name="button_talk">Nói chuyện</string>
     <string name="button_sell">Bán</string>
@@ -276,678 +276,678 @@
     <string name="button_back">Quay lại</string>
     <string name="button_ok">OK</string>
     <string name="button_no">Không</string>
-    <string name="button_give">Give</string>
+    <string name="button_give">Cho</string>
     <string name="button_bye">Tạm biệt</string>
-    <string name="button_quaff">Quaff</string>
-    <string name="button_shake">Shake</string>
+    <string name="button_quaff">Uống</string>
+    <string name="button_shake">Lắc</string>
     <string name="button_equip">Trang bị</string>
     <string name="button_cast">Cast</string>
-    <string name="button_remove">Remove</string>
+    <string name="button_remove">Xoá</string>
     <string name="button_info">i</string>
     <string name="button_minus">-</string>
     <string name="button_open">Mở</string>
-    <string name="button_catch">Catch</string>
+    <string name="button_catch">Bắt</string>
     <string name="button_sort_by_level">Sắp xếp (cấp độ)</string>
     <string name="button_sort_by_type">Sắp xếp (loại)</string>
     <string name="button_sort_by_az">Sắp xếp (A-Z)</string>
-    <string name="button_mine">Mine</string>
+    <string name="button_mine">Đào</string>
     <string name="button_chop_tree">Chặt cây</string>
-    <string name="button_fish">Cá</string>
-    <string name="button_sail">Sail</string>
+    <string name="button_fish">Câu cá</string>
+    <string name="button_sail">Ra khơi</string>
     <string name="button_flee">Chạy</string>
-    <string name="button_items">Items</string>
+    <string name="button_items">Vật phẩm</string>
     <string name="button_skills">Kỹ năng</string>
-    <string name="button_spells">Spells</string>
+    <string name="button_spells">Phép thuật</string>
     <string name="button_pets">Pet</string>
-    <string name="button_rescue">Rescue</string>
-    <string name="button_learn">Learn</string>
+    <string name="button_rescue">Giải cứu</string>
+    <string name="button_learn">Học</string>
     <string name="button_ranking">Xếp hạng</string>
     <string name="button_about">Thông tin</string>
-    <string name="button_feed">Feed</string>
-    <string name="button_leave">Leave</string>
-    <string name="button_pay">Pay</string>
+    <string name="button_feed">Cho ăn</string>
+    <string name="button_leave">Rời</string>
+    <string name="button_pay">Trả</string>
     <string name="button_ok_ellipsis">OK…</string>
-    <string name="button_analyse">Analyse</string>
+    <string name="button_analyse">Nghiên cứu</string>
     <string name="button_repair">Sửa</string>
     <string name="button_look">Nhìn</string>
     <string name="button_ellipsis">…</string>
-    <string name="button_sacrifice">Sự hy sinh</string>
+    <string name="button_sacrifice">Hiến tế</string>
     <string name="button_set_active">Đặt hoạt động</string>
-    <string name="button_withdraw">Withdraw</string>
-    <string name="button_withdraw_bank">&font_gold;Withdraw&font_end;</string>
-    <string name="button_deposit_bank">&font_gold;Deposit&font_end;</string>
-    <string name="button_exit">Exit</string>
-    <string name="button_cancel">Cancel</string>
-    <string name="button_free">Free</string>
+    <string name="button_withdraw">Rút lui</string>
+    <string name="button_withdraw_bank">&font_gold;Lấy tiền&font_end;</string>
+    <string name="button_deposit_bank">&font_gold;Gửi tiền&font_end;</string>
+    <string name="button_exit">Thoát</string>
+    <string name="button_cancel">Hủy</string>
+    <string name="button_free">Miễn phí</string>
     <string name="button_thanks">Cảm ơn</string>
-    <string name="button_idontknow">I don\'t know…</string>
-    <string name="button_explore">Explore</string>
+    <string name="button_idontknow">Tôi không biết...</string>
+    <string name="button_explore">Thám hiểm</string>
     <string name="button_join">Tham gia</string>
-    <string name="button_go">Go</string>
-    <string name="button_yes">Yes</string>
+    <string name="button_go">Đi</string>
+    <string name="button_yes">Có</string>
     <string name="button_store">Cửa hàng</string>
     <string name="button_rename">Đổi tên</string>
     <string name="button_transform">Biến đổi</string>
     <string name="button_status">Trạng thái</string>
     <string name="button_map">Bản đồ</string>
-    <string name="button_world">World</string>
+    <string name="button_world">Thế giới</string>
     <string name="button_settings">Cài đặt</string>
-    <string name="button_equipment">Trang thiết b</string>
+    <string name="button_equipment">Trang thiết bị</string>
     <string name="button_inventory">Ba lô</string>
     <string name="button_journey">Hành trình</string>
     <string name="button_abandon">Từ bỏ</string>
-    <string name="button_improve">Cải tiếne</string>
+    <string name="button_improve">Cải tiến</string>
     <string name="button_chop">Chặt</string>
     <string name="button_sort_by_price">Sắp xếp (Giá)</string>
     <string name="button_inventory_mode">Ba lô</string>
-    <string name="button_stash_mode">Stash</string>
-    <string name="button_stash_increase_stash">Increase &font_wood;Stash&font_end; size</string>
-    <string name="button_scrap_per_gold">Scrap: &font_gold;%1$d&font_end; Gold</string>
-    <string name="button_feedback">&font_cyan;Feedback&font_end;</string>
-    <string name="button_blacksmith_upgrade_equipment">Upgrade &font_green;\*&font_end;Equipment</string>
-    <string name="button_blacksmith_scrap_equipment">&font_copper;Scrap&font_end; Equipment</string>
-    <string name="button_blacksmith_craft_bars">Craft &font_gold;Bars&font_end;</string>
-    <string name="button_scrap">Scrap</string>
+    <string name="button_stash_mode">Kho dự trữ</string>
+    <string name="button_stash_increase_stash">Tăng kích thước &font_wood;Kho dự trữ&font_end;</string>
+    <string name="button_scrap_per_gold">Tách: &font_gold;%1$d&font_end; Vàng</string>
+    <string name="button_feedback">&font_cyan;Phản hồi&font_end;</string>
+    <string name="button_blacksmith_upgrade_equipment">Nâng cấp &font_green;\*&font_end;Trang bị</string>
+    <string name="button_blacksmith_scrap_equipment">&font_copper;Tách&font_end; Trang bị</string>
+    <string name="button_blacksmith_craft_bars">Chế tạo &font_gold;Hàm thiếc&font_end;</string>
+    <string name="button_scrap">Tách</string>
 
-    <string name="inventory_title">&font_wood;Inventory&font_end;</string>
-    <string name="inventory_removed_equipment">Removed %1$s.</string>
-    <string name="inventory_equipped_equipment">Equipped %1$s.</string>
-    <string name="inventory_wielded_item">Wielded %1$s.</string>
-    <string name="inventory_unwielded_item">Unwielded %1$s.</string>
-    <string name="inventory_you_have_no_items_right_now">You have no items right now…</string>
-    <string name="inventory_text_you_quaff_the">You quaff the %1$s!</string>
+    <string name="inventory_title">&font_wood;Ba lô&font_end;</string>
+    <string name="inventory_removed_equipment">Đã bỏ trang bị %1$s.</string>
+    <string name="inventory_equipped_equipment">Đã trang bị %1$s.</string>
+    <string name="inventory_wielded_item">Đã trang bị %1$s.</string>
+    <string name="inventory_unwielded_item">Đã bỏ trang bị %1$s.</string>
+    <string name="inventory_you_have_no_items_right_now">Bạn không có vật phẩm nào bây giờ…</string>
+    <string name="inventory_text_you_quaff_the">Bạn uống %1$s!</string>
     <string name="inventory_amount_parenthesis">(&font_cyan;%1$d&font_end;)</string>
-    <string name="inventory_pickup_couldnt">Couldn\'t pick up %1$s, inventory is full!</string>
-    <string name="inventory_ate_thing">Ate %1$s!</string>
-    <string name="inventory_ate_thing_and_restored">Ate %1$s and restored &font_cyan;%2$d &font_end;hunger.</string>
-    <string name="inventory_cooked_thing">Cooked %1$s!</string>
-    <string name="inventory_pickup">Picked up %1$s!</string>
-    <string name="inventory_damaged_by">Damaged by %1$s!</string>
-    <string name="inventory_pickup_gold">Picked up &font_gold;%1$d&font_end; gold!</string>
-    <string name="inventory_required_level_x">&italic;Required Level: &font_cyan;%1$d&font_end;&italic_end;</string>
-    <string name="inventory_tree_drop">A %1$s has fallen from the &font_coconut;Tree&font_end;!</string>
-    <string name="inventory_equipment_title_with_level">&font_wood;Equipment &font_end;[&font_wood;µ&font_end;: &font_cyan;%1$d&font_end;]</string>
-    <string name="inventory_equipment_empty">(empty)</string>
-    <string name="inventory_not_enough_space">Your inventory is &font_red;full&font_end;!</string>
+    <string name="inventory_pickup_couldnt">Không thể nhặt %1$s, ba lô đầy!</string>
+    <string name="inventory_ate_thing">Đã ăn %1$s!</string>
+    <string name="inventory_ate_thing_and_restored">Đã ăn %1$s và hồi phục &font_cyan;%2$d &font_end;đói bụng.</string>
+    <string name="inventory_cooked_thing">Đã nấu %1$s!</string>
+    <string name="inventory_pickup">Nhặt được %1$s!</string>
+    <string name="inventory_damaged_by">Bị hư hỏng bởi %1$s!</string>
+    <string name="inventory_pickup_gold">Nhặt được &font_gold;%1$d&font_end; vàng!</string>
+    <string name="inventory_required_level_x">&italic;Cần lên level: &font_cyan;%1$d&font_end;&italic_end;</string>
+    <string name="inventory_palm_tree_drop">Một %1$s đã rơi xuống từ &font_coconut;Cây Cọ&font_end;!</string>
+    <string name="inventory_equipment_title_with_level">&font_wood;Trang bị &font_end;[&font_wood;µ&font_end;: &font_cyan;%1$d&font_end;]</string>
+    <string name="inventory_equipment_empty">(Trống)</string>
+    <string name="inventory_not_enough_space">Ba lô của bạn đã &font_red;đầy&font_end;!</string>
     <string name="inventory_equipment_levels_up_string">&font_green;\*&font_end;</string>
 
-    <string name="status_health_two_dots">Health:</string>
+    <string name="status_health_two_dots">Máu:</string>
     <string name="status_mana_two_dots">Mana:</string>
-    <string name="status_hunger_two_dots">Hunger:</string>
+    <string name="status_hunger_two_dots">Đói bụng:</string>
     <string name="status_exp_two_dots">Exp:</string>
-    <string name="status_data">&font_cyan;Data&font_end;</string>
-    <string name="status_monsters_killed">Monsters Killed: &font_attack;%1$d&font_end;</string>
-    <string name="status_quests_completed">Quests Completed: &font_cyan;%1$d&font_end;</string>
-    <string name="status_islands_visited_completed">Islands &font_cyan;V&font_end;/&font_health;E&font_end;/&font_purifying;P&font_end;: &font_cyan;%1$d&font_end;/&font_health;%2$d&font_end;/&font_purifying;%3$d&font_end;</string>
-    <string name="status_pets_captured">Pets Captured: &font_pet;%1$d&font_end;</string>
-    <string name="status_animals_befriended">Animals Befriended: &font_pet;%1$d&font_end;</string>
-    <string name="status_crafting_recipes">Crafting Recipes: &font_cyan;%1$d&font_end;</string>
-    <string name="status_crafted_items">Crafted Items: &font_cyan;%1$d&font_end;</string>
-    <string name="status_skills_learnt">Skills Learned: &font_green;%1$d&font_end;</string>
-    <string name="status_spells_learnt">Spells Learned: &font_mana;%1$d&font_end;</string>
-    <string name="status_main_story_times">Main Story Completed Times: &font_asterisk_main_story;%1$d&font_end;</string>
-    <string name="status_void_master_times">Void Master Killed Times: &font_asterisk_void_master;%1$d&font_end;</string>
-    <string name="status_deaths">Deaths: &font_red;%1$d&font_end;</string>
-    <string name="status_ascended_times">Ascended Times: &asterisk_ascend_color;%1$d&font_end;</string>
-    <string name="status_met_the_creator_times">Met The Creator Times: &font_asterisk_creator;%1$d&font_end;</string>
+    <string name="status_data">&font_cyan;Dữ liệu&font_end;</string>
+    <string name="status_monsters_killed">Quái đã giết: &font_attack;%1$d&font_end;</string>
+    <string name="status_quests_completed">Nhiệm vụ đã hoàn thành: &font_cyan;%1$d&font_end;</string>
+    <string name="status_islands_visited_completed">Đảo &font_cyan;V&font_end;/&font_health;E&font_end;/&font_purifying;P&font_end;: &font_cyan;%1$d&font_end;/&font_health;%2$d&font_end;/&font_purifying;%3$d&font_end;</string>
+    <string name="status_pets_captured">Pet đã bắt: &font_pet;%1$d&font_end;</string>
+    <string name="status_animals_befriended">Động vật đã nuôi: &font_pet;%1$d&font_end;</string>
+    <string name="status_crafting_recipes">Công thức chế tạo: &font_cyan;%1$d&font_end;</string>
+    <string name="status_crafted_items">Vật phẩm đã chế tạo: &font_cyan;%1$d&font_end;</string>
+    <string name="status_skills_learnt">Kĩ năng đã học: &font_green;%1$d&font_end;</string>
+    <string name="status_spells_learnt">Phép thuật đã học: &font_mana;%1$d&font_end;</string>
+    <string name="status_main_story_times">Số lần hoàn thành Main Story: &font_asterisk_main_story;%1$d&font_end;</string>
+    <string name="status_void_master_times">Số lần giết Void Master: &font_asterisk_void_master;%1$d&font_end;</string>
+    <string name="status_deaths">Số lần đã chết: &font_red;%1$d&font_end;</string>
+    <string name="status_ascended_times">Số lần thăng thiên: &asterisk_ascend_color;%1$d&font_end;</string>
+    <string name="status_met_the_creator_times">Số lần gặp Nhà phát triển: &font_asterisk_creator;%1$d&font_end;</string>
     <string name="status_general">&font_cyan;General&font_end;</string>
-    <string name="status_health">Health:&font_health;\t%1$d&font_end;/&font_health;%2$d&font_end;</string>
+    <string name="status_health">Máu:&font_health;\t%1$d&font_end;/&font_health;%2$d&font_end;</string>
     <string name="status_mana">Mana:&font_mana;\t%1$d&font_end;/&font_mana;%2$d&font_end;</string>
-    <string name="status_hunger">Hunger:&font_hunger;\t%1$d&font_end;/&font_hunger;%2$d&font_end;</string>
+    <string name="status_hunger">Đói bụng:&font_hunger;\t%1$d&font_end;/&font_hunger;%2$d&font_end;</string>
     <string name="status_attack">Att:&font_attack;\t%1$d&font_end;</string>
     <string name="status_defense">Def:\t&font_defense;%1$d&font_end;</string>
     <string name="status_speed">Spd:\t&font_speed;%1$d&font_end;</string>
     <string name="status_intelligence">Int:\t&font_mana;%1$d&font_end;</string>
     <string name="status_caps">&font_cyan;Stats&font_end;</string>
-    <string name="status_turns_in_game">Turns: &font_cyan;%1$d&font_end;</string>
-    <string name="status_currently_at">Currently at &font_cyan;%1$d&font_end;, &font_cyan;%2$d &font_end;in &font_cyan;%3$s&font_end;</string>
+    <string name="status_turns_in_game">Số lượt: &font_cyan;%1$d&font_end;</string>
+    <string name="status_currently_at">Đang ở &font_cyan;%1$d&font_end;, &font_cyan;%2$d &font_end;in &font_cyan;%3$s&font_end;</string>
     <string name="status_player_name">%1$s</string>
     <string name="status_player_level">Level &font_cyan;%1$d&font_end;</string>
-    <string name="status_player_experience_needed">Experience: &font_cyan;%1$d&font_end;/&font_cyan;%2$d&font_end;</string>
-    <string name="status_player_gold">Gold: &font_gold;%1$d&font_end;
+    <string name="status_player_experience_needed">Kinh nghiệm: &font_cyan;%1$d&font_end;/&font_cyan;%2$d&font_end;</string>
+    <string name="status_player_gold">Vàng: &font_gold;%1$d&font_end;
         (&font_gold;%2$d &font_end;+ &font_gold;%3$d&font_end;
-        in &font_gold;Bank&font_end;)</string>
-    <string name="status_permadeath">&font_red;&bold;PERMADEATH&bold_end;&font_end;</string>
-    <string name="status_no_permadeath">&font_green;&bold;NO PERMADEATH&bold_end;&font_end;</string>
+        in &font_gold;Ngân hàng&font_end;)</string>
+    <string name="status_permadeath">&font_red;&bold;CHẾT VĨNH VIỄN&bold_end;&font_end;</string>
+    <string name="status_no_permadeath">&font_green;&bold;KHÔNG CHẾT VĨNH VIỄN&bold_end;&font_end;</string>
 
-    <string name="shop_capitalised">Shop</string>
-    <string name="shop_title_sell">Shop (Sell)</string>
-    <string name="shop_generic_title_buy">%1$s (Buy)</string>
-    <string name="shop_generic_title_sell">%1$s (Sell)</string>
-    <string name="shop_alchemist_capitalised">Alchemist</string>
-    <string name="shop_armory_capitalised">Armory</string>
-    <string name="shop_florist_capitalised">Florist</string>
-    <string name="shop_farmer_capitalised">Farmer</string>
-    <string name="shop_empty_message"><![CDATA[There aren\'t items to buy…]]></string>
-    <string name="shop_empty_message_inventory">You don\'t have any items…</string>
-    <string name="shop_bought_item">Bought %1$s for &font_gold;%2$d&font_end;.</string>
-    <string name="shop_sold_item">Sold %1$s for &font_gold;%2$d&font_end;.</string>
-    <string name="shop_sold_item_with_amount">Sold &font_cyan;%1$d&font_end; x %2$s for &font_gold;%3$d&font_end;.</string>
-    <string name="shop_sell_all_question">Sell all?</string>
-    <string name="shop_spell_already_known">&italic;&font_mana;Spell &font_end;already known&italic_end;</string>
+    <string name="shop_capitalised">Cửa hàng</string>
+    <string name="shop_title_sell">Cửa hàng (Bán)</string>
+    <string name="shop_generic_title_buy">%1$s (Mua)</string>
+    <string name="shop_generic_title_sell">%1$s (Bán)</string>
+    <string name="shop_alchemist_capitalised">Cửa hàng giả kim thuật</string>
+    <string name="shop_armory_capitalised">Cửa hàng trang bị</string>
+    <string name="shop_florist_capitalised">Cửa hàng hoa</string>
+    <string name="shop_farmer_capitalised">Cửa hàng nông sản</string>
+    <string name="shop_empty_message"><![CDATA[Không có vật phẩm nào để mua…]]></string>
+    <string name="shop_empty_message_inventory">Bạn không có vật phẩm nào...</string>
+    <string name="shop_bought_item">Đã mua %1$s với giá &font_gold;%2$d&font_end;.</string>
+    <string name="shop_sold_item">Đã bán %1$s với giá &font_gold;%2$d&font_end;.</string>
+    <string name="shop_sold_item_with_amount">Đã bán &font_cyan;%1$d&font_end; x %2$s với giá &font_gold;%3$d&font_end;.</string>
+    <string name="shop_sell_all_question">Bán tất cả?</string>
+    <string name="shop_spell_already_known">&italic;&font_mana;Phép thuật &font_end;đã được học&italic_end;</string>
 
-    <string name="pause_menu_title">Pause</string>
-    <string name="pause_menu_message">Do you want to exit?</string>
+    <string name="pause_menu_title">Tạm dừng</string>
+    <string name="pause_menu_message">Bạn có muốn thoát ra?</string>
 
-    <string name="settings_title">Settings</string>
-    <string name="settings_sound">Sound</string>
-    <string name="settings_music">Music</string>
+    <string name="settings_title">Cài Đặt</string>
+    <string name="settings_sound">Âm thanh</string>
+    <string name="settings_music">Nhạc</string>
 
-    <string name="item_heal_potion">&font_health;Heal&font_end; Potion</string>
-    <string name="item_mana_potion">&font_mana;Mana&font_end; Potion</string>
-    <string name="item_experience_potion">&font_cyan;Experience&font_end; Potion</string>
-    <string name="item_temporary_potion">&font_white;[Temporary]&font_end;</string>
-    <string name="item_heal_potion_amount">&font_health;Heal&font_end; Potion (&font_health;%1$d&font_end;)</string>
-    <string name="item_mana_potion_amount">&font_mana;Mana&font_end; Potion (&font_mana;%1$d&font_end;)</string>
-    <string name="item_experience_potion_amount">&font_cyan;Experience&font_end; Potion (&font_cyan;%1$d&font_end;)</string>
-    <string name="item_temporary_potion_amount">%1$s &font_white;[Temporary]&font_end; (&font_cyan;%2$d&font_end;)</string>
-    <string name="item_shield">Shield</string>
-    <string name="item_monster_flesh">&font_red;%1$s&font_end;\'s &font_red;flesh&font_end;</string>
-    <string name="item_monster_flesh_edible">Cooked &font_red;%1$s&font_end;\'s &font_red;flesh &font_end;(&font_cyan;%2$d&font_end;)</string>
-    <string name="item_food">Food</string>
-    <string name="item_dark_orb">Dark Orb</string>
-    <string name="item_magic_stone_transformed_item">Transformed %1$s to %2$s!</string>
+    <string name="item_heal_potion">Thuốc hồi &font_health;Máu&font_end;</string>
+    <string name="item_mana_potion">Thuốc hồi &font_mana;Mana&font_end;</string>
+    <string name="item_experience_potion">Thuốc &font_cyan;Kinh nghiệm&font_end;</string>
+    <string name="item_temporary_potion">&font_white;[Tạm thời]&font_end;</string>
+    <string name="item_heal_potion_amount">Thuốc hồi &font_health;Máu&font_end; (&font_health;%1$d&font_end;)</string>
+    <string name="item_mana_potion_amount">Thuốc hồi &font_mana;Mana&font_end; (&font_mana;%1$d&font_end;)</string>
+    <string name="item_experience_potion_amount">Thuốc &font_cyan;Kinh nghiệm&font_end; (&font_cyan;%1$d&font_end;)</string>
+    <string name="item_temporary_potion_amount">%1$s &font_white;[Tạm thời]&font_end; (&font_cyan;%2$d&font_end;)</string>
+    <string name="item_shield">Khiên</string>
+    <string name="item_monster_flesh">&font_red;Thịt&font_end; &font_red;%1$s&font_end;</string>
+    <string name="item_monster_flesh_edible">&font_red;Thịt&font_end; &font_red;%1$s&font_end; chín (&font_cyan;%2$d&font_end;)</string>
+    <string name="item_food">Đồ ăn</string>
+    <string name="item_dark_orb">Quả cầu Bóng tối</string>
+    <string name="item_magic_stone_transformed_item">Đã biến đổi %1$s thành %2$s!</string>
 
-    <string name="purifying_seed_plant_message">Plant &font_purifying;Purifying&font_end; &font_plant;Seed&font_end;?&br;&br;Once it becomes a &font_purifying;Purifying&font_end; &font_wood;Tree&font_end;, it will prevent monsters from respawning on the island.&br;&br;Remember to water it with a &font_water;Water&font_end; &font_iron;Bucket &font_end;to make it grow.</string>
-    <string name="purifying_seed_island_already_purified">Some magical force blocks you from planting it… (The island is already purified…)</string>
-    <string name="purifying_seed_island_already_planted_purified_seed">Some magical force blocks you from planting it… (The island has a &font_purifying;Purifying&font_end; &font_plant;Seed &font_end;already planted…)</string>
-    <string name="purifying_seed_planted">You planted the &font_purifying;Purifying&font_end; &font_plant;Seed&font_end;.</string>
-    <string name="purifying_seed_watered_magically_grows">The &font_purifying;Purifying&font_end; &font_plant;Seed &font_end;magically grows into a &font_purifying;Purifying&font_end; &font_wood;Tree&font_end;! You feel a purification sensation as the island becomes purified.</string>
-    <string name="purifying_tree_chop_title">Chop &font_purifying;Purifying&font_end; &font_wood;Tree&font_end;?</string>
-    <string name="purifying_tree_chop_message">If you chop the &font_purifying;Purifying&font_end; &font_wood;Tree&font_end;, the island will no longer be purified and monsters will respawn again…</string>
-    <string name="purifying_tree_island_no_longer_purified">The island is no longer purified… You can feel the evil presence again…</string>
-    <string name="purifying_tree_text_purified_label">{ &font_purifying;Purified &font_end;}</string>
+    <string name="purifying_seed_plant_message">Trồng &font_plant;Hạt giống&font_end; &font_purifying;Thanh lọc&font_end; ?&br;&br;Một khi nó trở thành &font_wood;Cây&font_end;&font_purifying; Thanh lọc&font_end;, nó sẽ ngăn cản không cho quái vật hồi sinh.&br;&br;Nhớ tưới cho nó bằng &font_iron;Xô&font_end; &font_water;Nước&font_end; để cho nó lớn.</string>
+    <string name="purifying_seed_island_already_purified">Một thế lực ma thuật đã cản trở bạn khỏi trồng nó… (Hòn đảo đã được thanh lọc…)</string>
+    <string name="purifying_seed_island_already_planted_purified_seed">Một thế lực ma thuật đã cản trở bạn khỏi trồng nó… (Hòn đảo đã được trồng &font_plant;Hạt giống&font_end; &font_purifying;Thanh lọc&font_end;…)</string>
+    <string name="purifying_seed_planted">Bạn trồng &font_plant;Hạt giống&font_end; &font_purifying;Thanh lọc&font_end;.</string>
+    <string name="purifying_seed_watered_magically_grows">&font_plant;Hạt giống&font_end; &font_purifying;Thanh lọc&font_end; đã mọc thành &font_wood;Cây&font_end; &font_purifying;Thanh lọc&font_end; một cách thần kì! Bạn cảm nhân được cảm giác thanh lọc và hòn đảo đã được thanh lọc.</string>
+    <string name="purifying_tree_chop_title">Chặt &font_wood;Cây&font_end; &font_purifying;Thanh lọc&font_end;?</string>
+    <string name="purifying_tree_chop_message">Nếu bạn chặt &font_wood;Cây&font_end; &font_purifying;Thanh lọc&font_end;, hòn đảo sẽ không được thanh lọc và quái vật sẽ hồi sinh…</string>
+    <string name="purifying_tree_island_no_longer_purified">Hòn đảo không còn được thanh lọc nữa… Bạn có thể cảm nhận sự hiện diện xấu xa một lần nữa…</string>
+    <string name="purifying_tree_text_purified_label">{ &font_purifying;Được thanh lọc &font_end;}</string>
 
-    <string name="material_wood_eq">&font_wood;Wood&font_end;</string>
-    <string name="material_leather_eq">&font_leather;Leather&font_end;</string>
-    <string name="material_bone_eq">&font_bone;Bone&font_end;</string>
-    <string name="material_copper_eq">&font_copper;Copper&font_end;</string>
-    <string name="material_tin_eq">&font_tin;Tin&font_end;</string>
-    <string name="material_iron_eq">&font_iron;Iron&font_end;</string>
-    <string name="material_bronze_eq">&font_bronze;Bronze&font_end;</string>
-    <string name="material_silver_eq">&font_silver;Silver&font_end;</string>
-    <string name="material_gold_eq">&font_gold;Gold&font_end;</string>
-    <string name="material_diamond_eq">&font_diamond;Diamond&font_end;</string>
-    <string name="material_obsidian_eq">&font_obsidian;Obsidian&font_end;</string>
-    <string name="material_glassbottle">&font_glass;Glass&font_end; Bottle</string>
-    <string name="material_silver_ore">&font_silver;Silver&font_end; Ore</string>
-    <string name="material_gold_ore">&font_gold;Gold&font_end; Ore</string>
-    <string name="material_copper_bar">&font_copper;Copper&font_end; Bar</string>
-    <string name="material_tin_bar">&font_tin;Tin&font_end; Bar</string>
-    <string name="material_iron_bar">&font_iron;Iron&font_end; Bar</string>
-    <string name="material_bronze_bar">&font_bronze;Bronze&font_end; Bar</string>
-    <string name="material_silver_bar">&font_silver;Silver&font_end; Bar</string>
-    <string name="material_gold_bar">&font_gold;Gold&font_end; Bar</string>
-    <string name="material_diamond">&font_diamond;Diamond&font_end;</string>
-    <string name="material_obsidian">&font_obsidian;Obsidian&font_end;</string>
-    <string name="material_gunpowder">&font_gunpowder;Gunpowder&font_end;</string>
-    <string name="material_ash">&font_ash;Ash&font_end;</string>
-    <string name="material_date">&font_date;Date&font_end;</string>
-    <string name="material_nut">&font_nut;Nut&font_end;</string>
-    <string name="material_stone">&font_stone;Stone&font_end;</string>
-    <string name="material_copper_ore">&font_copper;Copper&font_end; Ore</string>
-    <string name="material_tin_ore">&font_tin;Tin&font_end; Ore</string>
-    <string name="material_iron">&font_iron;Iron&font_end; Ore</string>
-    <string name="material_wood">&font_wood;Wood&font_end;</string>
-    <string name="material_coconut">&font_coconut;Coconut&font_end;</string>
-    <string name="material_plant">&font_plant;Plant&font_end;</string>
-    <string name="material_sand">&font_sand;Sand&font_end;</string>
-    <string name="material_stick">&font_wood;Stick&font_end;</string>
-    <string name="material_claw">&font_bone;Claw&font_end;</string>
-    <string name="material_scale">&font_scale;Scale&font_end;</string>
-    <string name="material_teeth">&font_teeth;Teeth&font_end;</string>
-    <string name="material_fang">&font_bone;Fang&font_end;</string>
-    <string name="material_bone">&font_bone;Bone&font_end;</string>
-    <string name="material_skull">&font_bone;Skull&font_end;</string>
-    <string name="material_dust">&font_white;Dust&font_end;</string>
-    <string name="material_blood">&font_blood;Blood&font_end;</string>
-    <string name="material_eye">&font_swamp;Eye&font_end;</string>
-    <string name="material_cactus">&font_cactus;Cactus&font_end;</string>
-    <string name="material_mushroom">&font_mushroom;Mushroom&font_end;</string>
-    <string name="material_liana">&font_liana;Liana&font_end;</string>
-    <string name="material_string">&font_string;String&font_end;</string>
-    <string name="material_fish">&font_cyan;Fish&font_end;</string>
-    <string name="material_insect">&font_insect;Insect&font_end;</string>
-    <string name="material_skin">&font_skin;Skin&font_end;</string>
-    <string name="material_leather">&font_leather;Leather&font_end;</string>
-    <string name="material_yin_piece">&font_black_low;Yin&font_end; Piece</string>
-    <string name="material_yang_piece">&font_white;Yang&font_end; Piece</string>
+    <string name="material_wood_eq">&font_wood;Gỗ&font_end;</string>
+    <string name="material_leather_eq">&font_leather;Da&font_end;</string>
+    <string name="material_bone_eq">&font_bone;Xương&font_end;</string>
+    <string name="material_copper_eq">&font_copper;Đồng&font_end;</string>
+    <string name="material_tin_eq">&font_tin;Thiếc&font_end;</string>
+    <string name="material_iron_eq">&font_iron;Sắt&font_end;</string>
+    <string name="material_bronze_eq">&font_bronze;Đồng thiếc&font_end;</string>
+    <string name="material_silver_eq">&font_silver;Bạc&font_end;</string>
+    <string name="material_gold_eq">&font_gold;Vàng&font_end;</string>
+    <string name="material_diamond_eq">&font_diamond;Kim cương&font_end;</string>
+    <string name="material_obsidian_eq">&font_obsidian;Hắc diện thạch&font_end;</string>
+    <string name="material_glassbottle">Chai &font_glass;Thủy tinh&font_end;</string>
+    <string name="material_silver_ore">Quặng &font_silver;Bạc&font_end;</string>
+    <string name="material_gold_ore">Quặng &font_gold;Vàng&font_end;</string>
+    <string name="material_copper_bar">Thỏi &font_copper;Đồng&font_end;</string>
+    <string name="material_tin_bar">Thỏi &font_tin;Thiếc&font_end;</string>
+    <string name="material_iron_bar">Thỏi &font_iron;Sắt&font_end;</string>
+    <string name="material_bronze_bar">Thỏi &font_bronze;Đồng thiếc&font_end;</string>
+    <string name="material_silver_bar">Thỏi &font_silver;Bạc&font_end;</string>
+    <string name="material_gold_bar">Thỏi &font_gold;Vàng&font_end;</string>
+    <string name="material_diamond">&font_diamond;Kinh cương&font_end;</string>
+    <string name="material_obsidian">&font_obsidian;Hắc diện thạch&font_end;</string>
+    <string name="material_gunpowder">&font_gunpowder;Thuốc súng&font_end;</string>
+    <string name="material_ash">&font_ash;Tro bụi&font_end;</string>
+    <string name="material_date">&font_date;Quả chà&font_end;</string>
+    <string name="material_nut">&font_nut;Hạt&font_end;</string>
+    <string name="material_stone">&font_stone;Đá&font_end;</string>
+    <string name="material_copper_ore">Quặng &font_copper;Đồng&font_end;</string>
+    <string name="material_tin_ore">Quặng &font_tin;Thiếc&font_end;</string>
+    <string name="material_iron">Quặng &font_iron;Sắt&font_end;</string>
+    <string name="material_wood">&font_wood;Gỗ&font_end;</string>
+    <string name="material_coconut">&font_coconut;Quả dừa&font_end;</string>
+    <string name="material_plant">&font_plant;Cây cỏ&font_end;</string>
+    <string name="material_sand">&font_sand;Cát&font_end;</string>
+    <string name="material_stick">&font_wood;Cây gậy&font_end;</string>
+    <string name="material_claw">&font_bone;Móng&font_end;</string>
+    <string name="material_scale">&font_scale;Vảy&font_end;</string>
+    <string name="material_teeth">&font_teeth;Hàm răng&font_end;</string>
+    <string name="material_fang">&font_bone;Răng nanh&font_end;</string>
+    <string name="material_bone">&font_bone;Xương&font_end;</string>
+    <string name="material_skull">&font_bone;Sọ&font_end;</string>
+    <string name="material_dust">&font_white;Bụi&font_end;</string>
+    <string name="material_blood">&font_blood;Máu&font_end;</string>
+    <string name="material_eye">&font_swamp;Mắt&font_end;</string>
+    <string name="material_cactus">&font_cactus;Cây xương rồng&font_end;</string>
+    <string name="material_mushroom">&font_mushroom;Nấm&font_end;</string>
+    <string name="material_liana">&font_liana;Dây leo&font_end;</string>
+    <string name="material_string">&font_string;Sợi chỉ&font_end;</string>
+    <string name="material_fish">&font_cyan;Cá&font_end;</string>
+    <string name="material_insect">&font_insect;Côn trùng&font_end;</string>
+    <string name="material_skin">&font_skin;Da&font_end;</string>
+    <string name="material_leather">&font_leather;Da thuộc&font_end;</string>
+    <string name="material_yin_piece">Mảnh &font_black_low;Yin&font_end;</string>
+    <string name="material_yang_piece">Mảnh &font_white;Yang&font_end;</string>
     <string name="material_yin">&font_black_low;Yin&font_end;</string>
     <string name="material_yang">&font_white;Yang&font_end;</string>
-    <string name="material_volcanic_stone">&font_volcano;Volcanic&font_end; &font_stone;Stone&font_end;</string>
-    <string name="material_icy_stone">&font_icy;Icy&font_end; &font_stone;Stone&font_end;</string>
+    <string name="material_volcanic_stone">&font_stone;Đá&font_end; &font_volcano;Núi lửa&font_end;</string>
+    <string name="material_icy_stone">&font_stone;Đá&font_end; &font_icy;Băng&font_end;</string>
 
-    <string name="item_info_material_edible">Can be eaten to restore &font_hunger;%1$d &font_end;hunger.</string>
-    <string name="item_info_royal_seal">A &font_gold;Royal Seal&font_end; can be used to buy something special…</string>
-    <string name="item_info_armor">Equip this to improve your stats.&br;%1$s&br;%2$s</string>
-    <string name="item_info_weapon">Wield this to be stronger against monsters!&br;%1$s&br;%2$s</string>
-    <string name="item_info_shield">Wield this to protect yourself against monsters.&br;%1$s&br;%2$s</string>
-    <string name="item_info_recipe">Read this to learn how to &font_cyan;craft &font_end;%1$s.</string>
-    <string name="item_info_firecamp">Start this %1$s to be able to &font_green;cook&font_end;.</string>
-    <string name="item_info_food">Eat this to reduce your hunger by &font_green;%1$d&font_end;.</string>
-    <string name="item_info_potion">Quaff this to restore %1$s &font_health;health&font_end;.</string>
-    <string name="item_info_mana_potion">Quaff this to restore %1$s &font_mana;mana&font_end;.</string>
-    <string name="item_info_experience_potion">Quaff this to gain %1$s &font_cyan;experience &font_end;instantly.</string>
-    <string name="item_info_material">A material used to &font_cyan;Craft &font_end;other items.</string>
-    <string name="item_info_merchants_mark">This special symbol may be valuable for something or someone…</string>
-    <string name="item_info_tool_chopping_axe">Use this to &font_wood;chop trees &font_end;to obtain &font_wood;Wood&font_end;.</string>
-    <string name="item_info_tool_pickaxe">Use this to &font_stone;mine rocks &font_end;to obtain &font_stone;Stone &font_end;and other minerals.</string>
-    <string name="item_info_tool_fishing_rod">Use this to &font_cyan;fish&font_end; in a &font_cyan;Fishing Spot&font_end;.</string>
-    <string name="item_info_tool_net">Use this to capture an &font_insect;insect&font_end;.</string>
-    <string name="item_info_tool_skinning_knife">Use this to &font_skin;skin &font_end;a &font_green;monster\'s corpse &font_end;to try to obtain &font_skin;Skin&font_end;.</string>
-    <string name="item_info_tool_meat_cleaver">Use this to butcher a &font_green;monster\'s corpse &font_end;to try to obtain &font_green;Monster Flesh&font_end;.</string>
-    <string name="item_info_monster_flesh_edible">Eat this to decrease your hunger by &font_green;%1$d&font_end;.</string>
-    <string name="item_info_monster_flesh_not_edible">Cook this on a &font_attack;Firecamp &font_end;to be able to eat it.</string>
-    <string name="item_info_nautical_chart">Used by sailors to travel to an island of a specific &font_cyan;type&font_end;.</string>
-    <string name="item_info_whetstone">Use it to repair a &font_cyan;Tool&font_end;.</string>
-    <string name="item_info_pet_collar">Go to the &font_pet;Pets&font_end; screen to be able to put this collar on a &font_pet;Pet &font_end;and rename it!</string>
-    <string name="item_info_magic_stone">Use this to exchange the attack and intelligence stats of any equipment.</string>
-    <string name="item_info_island_soul">The mysterious soul of an island…</string>
-    <string name="item_info_spellbook">Read this to learn the &font_mana;spell&font_end; it contains: %1$s.</string>
-    <string name="item_info_teleport_stone">Use this to go back to the last &font_inn;Inn &font_end;where you rested or your starting point at this &font_cyan;island&font_end;.</string>
-    <string name="item_info_piece_of_map">A &font_cyan;Piece Of Map&font_end;. To figure out what it is you will need to find more pieces…</string>
-    <string name="item_info_dark_orb">It\'s a mysterious &font_dark_orb;Dark Orb&font_end;.</string>
-    <string name="item_info_bomb_normal">Throw this &font_bomb;Bomb&font_end; to your enemy in combat.</string>
-    <string name="item_info_bomb_fire">Throw this &font_attack;Fire&font_end; &font_bomb;Bomb &font_end;to your enemy in combat. Can &font_attack;burn &font_end;.</string>
-    <string name="item_info_bomb_ice">Throw this &font_ice;Ice&font_end; &font_bomb;Bomb &font_end;to your enemy in combat. Can &font_ice;freeze &font_end;.</string>
-    <string name="item_info_bomb_electric">Throw this &font_electric;Electric &font_end;&font_bomb;Bomb &font_end;to your enemy in combat. Can &font_electric;paralyse &font_end;.</string>
-    <string name="item_info_equipment_attack">Attack: &font_attack;%1$d&font_end;</string>
-    <string name="item_info_equipment_defense">Defense: &font_defense;%1$d&font_end;</string>
-    <string name="item_info_equipment_speed">Speed: &font_speed;%1$d&font_end;</string>
+    <string name="item_info_material_edible">Có thể ăn và phục hồi &font_hunger;%1$d &font_end;đói bụng.</string>
+    <string name="item_info_royal_seal">Một &font_gold;Con dấu Hoàng gia&font_end; có thể dùng để mua cái gì đó đặc biệt…</string>
+    <string name="item_info_armor">Trang bị cái này để tăng stats của bạn.&br;%1$s&br;%2$s</string>
+    <string name="item_info_weapon">Trang bị cái này để khỏe hơn so với quái vật!&br;%1$s&br;%2$s</string>
+    <string name="item_info_shield">Trang bị cái này để bảo vệ bạn trước quái vật.&br;%1$s&br;%2$s</string>
+    <string name="item_info_recipe">Đọc cái này để học cách &font_cyan;chế tạo &font_end;%1$s.</string>
+    <string name="item_info_firecamp">Làm %1$s để có thể &font_green;nấu&font_end;.</string>
+    <string name="item_info_food">Ăn cái này để giảm &font_green;%1$d&font_end; đói bụng của bạn.</string>
+    <string name="item_info_potion">Uống cái này để phục hồi %1$s &font_health;máu&font_end;.</string>
+    <string name="item_info_mana_potion">Uống cái này để phục hồi %1$s &font_mana;mana&font_end;.</string>
+    <string name="item_info_experience_potion">Uống cái này để được nhận %1$s &font_cyan;kinh nghiệm &font_end;ngay.</string>
+    <string name="item_info_material">Một nguyên liệu dùng để &font_cyan;Chế tạo&font_end; các vật phẩm.</string>
+    <string name="item_info_merchants_mark">Cái biểu tượng đặc biệt này có thể quý giá cho cái gì đó hoặc ai đó…</string>
+    <string name="item_info_tool_chopping_axe">Sử dụng cái này để &font_wood;chặt cây &font_end;để nhận &font_wood;Gỗ&font_end;.</string>
+    <string name="item_info_tool_pickaxe">Sử dụng cái này để &font_stone;đào đá &font_end;để nhận &font_stone;Đá &font_end;và các khoáng sản khác.</string>
+    <string name="item_info_tool_fishing_rod">Sử dụng cái này để &font_cyan;câu cá&font_end; ở &font_cyan;Chỗ câu Cá&font_end;.</string>
+    <string name="item_info_tool_net">Sử dụng cái này để bắt &font_insect; côn trùng&font_end;.</string>
+    <string name="item_info_tool_skinning_knife">Sử dụng cái này để &font_skin;lột da &font_end;từ &font_green;xác quái vật &font_end;để nhận &font_skin;Da&font_end;.</string>
+    <string name="item_info_tool_meat_cleaver">Sử dụng cái này để chặt &font_green;xác quái vật &font_end;để nhận &font_green;Thịt Quái vật&font_end;.</string>
+    <string name="item_info_monster_flesh_edible">Ăn cái này để giảm &font_green;%1$d&font_end; đói bụng của bạn.</string>
+    <string name="item_info_monster_flesh_not_edible">Nấu cái này trên &font_attack;Lửa trại &font_end;để có thể ăn nó.</string>
+    <string name="item_info_nautical_chart">Được sử dụng bởi thủy thủ để đi đến một &font_cyan;loại &font_end;hòn đảo riêng biệt.</string>
+    <string name="item_info_whetstone">Sử dụng cái này để sửa một &font_cyan;Dụng cụ&font_end;.</string>
+    <string name="item_info_pet_collar">Đi đến &font_pet;Pets&font_end; menu để có thể đeo vòng cổ này vào một con &font_pet;Pet &font_end;và đổi tên chúng!</string>
+    <string name="item_info_magic_stone">Sử dụng cái này để chuyển đổi stats tấn công và trí tuệ cho nhau của một trang bị.</string>
+    <string name="item_info_island_soul">Linh hồn bí ẩn của một hòn đảo…</string>
+    <string name="item_info_spellbook">Đọc cái này để học một &font_mana;phép thuật&font_end; chứa trong nó: %1$s.</string>
+    <string name="item_info_teleport_stone">Sử dụng cái này để dịch chuyển đến &font_inn;Quán trọ &font_end;nơi mà bạn đã nghỉ hoặc điểm khởi đầu của bạn ở &font_cyan;hòn đảo&font_end; này.</string>
+    <string name="item_info_piece_of_map">Một &font_cyan;Mảnh Bản đồ&font_end;. Để biết được cái này là gì bạn cần phải tìm thêm mảnh...</string>
+    <string name="item_info_dark_orb">Đó là một &font_dark_orb;Quả cầu Bóng tối&font_end; bí ẩn.</string>
+    <string name="item_info_bomb_normal">Ném &font_bomb;Quả bom&font_end; này vào đối phương trong trận chiến.</string>
+    <string name="item_info_bomb_fire">Ném &font_bomb;Quả bom &font_end;&font_attack;Lửa&font_end; này vào đối phương trong trận chiến. Có thể &font_attack;cháy&font_end;.</string>
+    <string name="item_info_bomb_ice">Ném &font_bomb;Quả bom &font_end;&font_ice;Băng&font_end; này vào đối phương trong trận chiến. Có thể &font_ice;đóng băng&font_end;.</string>
+    <string name="item_info_bomb_electric">Ném &font_bomb;Quả bom &font_end;&font_electric;Điện&font_end; này vào đối phương trong trận chiến. Có thể &font_electric;tê liệt&font_end;.</string>
+    <string name="item_info_equipment_attack">Tấn công: &font_attack;%1$d&font_end;</string>
+    <string name="item_info_equipment_defense">Phòng thủ: &font_defense;%1$d&font_end;</string>
+    <string name="item_info_equipment_speed">Tốc độ: &font_speed;%1$d&font_end;</string>
     <string name="item_info_equipment_intelligence">Intelligence: &font_mana;%1$d&font_end;</string>
-    <string name="item_info_iron_bucket_empty">Fill it with water or other types of liquid…</string>
-    <string name="item_info_iron_bucket_water">Throw this to put out a &font_attack;Firecamp &font_end;or throw it to a &font_red;monster &font_end;in combat!</string>
-    <string name="item_info_purifying_seed">Plant this and water it with a &font_water;Water&font_end; &font_iron;Bucket &font_end;to make it grow into a &font_purifying;Purifying&font_end; &font_wood;Tree&font_end;.&br;&br;A &font_purifying;Purifying&font_end; &font_wood;Tree &font_end;prevents monsters from &italic;respawning &italic_end;on the island.</string>
-    <string name="item_info_iron_bucket_lava">Throw this to a &font_red;monster &font_end;in combat!</string>
-    <string name="item_info_iron_bucket_mana">Drink this to recover all your the &font_mana;mana&font_end;.</string>
-    <string name="item_info_a_letter_for_the_king">It has a &font_gold;Royal Seal&font_end;, you should bring this to the &font_gold;King&font_end;.</string>
-    <string name="item_royal">&font_gold;Royal&font_end;</string>
+    <string name="item_info_iron_bucket_empty">Đổ nước vào hoặc các loại chất lỏng khác…</string>
+    <string name="item_info_iron_bucket_water">Đổ cái này để dập tắt &font_attack;Lửa trại &font_end;hoặc đổ vào &font_red;quái vật &font_end;trong trận chiến!</string>
+    <string name="item_info_purifying_seed">Trồng cái này và tưới nó với &font_iron;Xô &font_end;&font_water;Nước&font_end; để cho nó mọc thành &font_wood;Cây&font_end; &font_purifying; Thanh lọc&font_end;.&br;&br;&font_wood;Cây &font_end;&font_purifying;Thanh lọc&font_end; ngăn cản quái vật khỏi &italic;hồi sinh &italic_end;trên hòn đảo.</string>
+    <string name="item_info_iron_bucket_lava">Đổ cái này vào &font_red;quái vật &font_end;trong trận chiến!</string>
+    <string name="item_info_iron_bucket_mana">Uống cái này để phục hồi tất cả &font_mana;mana&font_end; của bạn.</string>
+    <string name="item_info_a_letter_for_the_king">Nó có &font_gold;Dấu ấn Hoàng gia&font_end;, bạn nên đưa nó đến &font_gold;Vua&font_end;.</string>
+    <string name="item_royal">&font_gold;Hoàng gia&font_end;</string>
 
-    <string name="materialsource_exhausted">%1$s exhausted…</string>
-    <string name="materialsource_rock">Rock</string>
-    <string name="materialsource_tree">Tree</string>
-    <string name="materialsource_palm_tree">Palm Tree</string>
-    <string name="materialsource_fish">Fishing Spot</string>
-    <string name="materialsource_insect">Bug</string>
+    <string name="materialsource_exhausted">%1$s bị hao mòn…</string>
+    <string name="materialsource_rock">Đá</string>
+    <string name="materialsource_tree">Cây</string>
+    <string name="materialsource_palm_tree">Cây cọ</string>
+    <string name="materialsource_fish">Chỗ câu cá</string>
+    <string name="materialsource_insect">Con bọ</string>
 
-    <string name="tools_butchered_monster_corpse">Butchered %1$s!</string>
-    <string name="tools_used_tool">Used %1$s.</string>
-    <string name="tools_repaired_tool">Repaired %1$s!</string>
-    <string name="tool_chopping_axe">&font_wood;Chopping&font_end; Axe</string>
+    <string name="tools_butchered_monster_corpse">Đã chặt thịt %1$s!</string>
+    <string name="tools_used_tool">Đã dùng %1$s.</string>
+    <string name="tools_repaired_tool">Đã sửa %1$s!</string>
+    <string name="tool_chopping_axe">Rìu &font_wood;Chặt cây&font_end;</string>
     <string name="tool_pickaxe">&font_silver;Pickaxe&font_end;</string>
-    <string name="tool_fishing_rod">&font_cyan;Fishing&font_end; Rod</string>
+    <string name="tool_fishing_rod">Cần &font_cyan;Câu&font_end;</string>
 
-    <string name="tool_action_chopping">&font_wood;Chopping&font_end;</string>
-    <string name="tool_action_mining">&font_silver;Mining&font_end;</string>
-    <string name="tool_action_fishing">&font_cyan;Fishing&font_end;</string>
-    <string name="tool_action_catching_bug">&font_insect;Catching bug&font_end;</string>
-    <string name="tool_action_skinning">&font_skin;Skinning&font_end;</string>
-    <string name="tool_action_butchering">&font_blood;Butchering&font_end;</string>
+    <string name="tool_action_chopping">&font_wood;Chặt cây&font_end;</string>
+    <string name="tool_action_mining">&font_silver;Đào mỏ&font_end;</string>
+    <string name="tool_action_fishing">&font_cyan;Câu cá&font_end;</string>
+    <string name="tool_action_catching_bug">&font_insect;Bắt bọ&font_end;</string>
+    <string name="tool_action_skinning">&font_skin;Lấy da&font_end;</string>
+    <string name="tool_action_butchering">&font_blood;Chặt thịt&font_end;</string>
     <string name="tool_text">%1$s [&font_cyan;%2$d&font_end;/&font_cyan;%3$d&font_end;]</string>
-    <string name="tool_net">&font_insect;Net&font_end;</string>
-    <string name="tool_skinning_knife">&font_skin;Skinning&font_end; Knife</string>
-    <string name="tool_meat_cleaver">&font_blood;Meat&font_end; Cleaver</string>
+    <string name="tool_net">&font_insect;Lưới&font_end;</string>
+    <string name="tool_skinning_knife">Dao &font_skin;Lấy da&font_end;</string>
+    <string name="tool_meat_cleaver">Dao &font_blood;Chặt thịt&font_end;</string>
 
-    <string name="text_armor_head">Helmet</string>
-    <string name="text_armor_body">Plate</string>
-    <string name="text_armor_legs">Pants</string>
-    <string name="text_armor_feet">Boots</string>
-    <string name="text_armor_hands">Gloves</string>
-    <string name="text_armor_neck">Amulet</string>
-    <string name="text_armor_finger">Ring</string>
-    <string name="text_armor_magic_head">&font_mana;Magic&font_end; Helmet</string>
-    <string name="text_armor_magic_body">&font_mana;Magic&font_end; Plate</string>
-    <string name="text_armor_magic_legs">&font_mana;Magic&font_end; Pants</string>
-    <string name="text_armor_magic_feet">&font_mana;Magic&font_end; Boots</string>
-    <string name="text_armor_magic_hands">&font_mana;Magic&font_end; Gloves</string>
-    <string name="text_armor_magic_neck">&font_mana;Magic&font_end; Amulet</string>
-    <string name="text_armor_magic_finger">&font_mana;Magic&font_end; Ring</string>
+    <string name="text_armor_head">Mũ</string>
+    <string name="text_armor_body">Áo giáp</string>
+    <string name="text_armor_legs">Quần</string>
+    <string name="text_armor_feet">Giày</string>
+    <string name="text_armor_hands">Găng tay</string>
+    <string name="text_armor_neck">Vòng cổ</string>
+    <string name="text_armor_finger">Nhẫn</string>
+    <string name="text_armor_magic_head">Mũ &font_mana;Ma thuật&font_end;</string>
+    <string name="text_armor_magic_body">Áo giáp&font_mana;Ma thuật&font_end;</string>
+    <string name="text_armor_magic_legs">Quần &font_mana;Ma thuật&font_end;</string>
+    <string name="text_armor_magic_feet">Giày &font_mana;Ma thuật&font_end;</string>
+    <string name="text_armor_magic_hands">Găng tay &font_mana;Ma thuật&font_end;</string>
+    <string name="text_armor_magic_neck">Vòng cổ &font_mana;Ma thuật&font_end;</string>
+    <string name="text_armor_magic_finger">Nhẫn &font_mana;Ma thuật&font_end;</string>
 
-    <string name="tile_type_deepocean">Deep Ocean</string>
-    <string name="tile_type_ocean">Ocean</string>
-    <string name="tile_type_beach">Beach</string>
-    <string name="tile_type_lake">Lake</string>
-    <string name="tile_type_barrens">Barrens</string>
-    <string name="tile_type_plain">Plain</string>
-    <string name="tile_type_forest">Forest</string>
-    <string name="tile_type_mountain">Mountain</string>
-    <string name="tile_type_icy_mountain">Icy Mountain</string>
-    <string name="tile_type_cave">Cave</string>
-    <string name="tile_type_green_cave">Green Cave</string>
-    <string name="tile_type_desert">Desert</string>
-    <string name="tile_type_cloud">Cloud</string>
-    <string name="tile_type_heaven">Heaven</string>
-    <string name="tile_type_silver_throne">Silver Throne</string>
-    <string name="tile_type_swamp">Swamp</string>
-    <string name="tile_type_savanna">Savanna</string>
-    <string name="tile_type_jungle">Jungle</string>
-    <string name="tile_type_mesa">Mesa</string>
+    <string name="tile_type_deepocean">Biển Sâu</string>
+    <string name="tile_type_ocean">Biển</string>
+    <string name="tile_type_beach">Bãi Biển</string>
+    <string name="tile_type_lake">Hồ</string>
+    <string name="tile_type_barrens">Đồng Hoang</string>
+    <string name="tile_type_plain">Đồng Bằng</string>
+    <string name="tile_type_forest">Khu Rừng</string>
+    <string name="tile_type_mountain">Núi</string>
+    <string name="tile_type_icy_mountain">Núi Băng</string>
+    <string name="tile_type_cave">Hang Động</string>
+    <string name="tile_type_green_cave">Hang động Xanh</string>
+    <string name="tile_type_desert">Sa Mạc</string>
+    <string name="tile_type_cloud">Mây</string>
+    <string name="tile_type_heaven">Thiên Đường</string>
+    <string name="tile_type_silver_throne">Ngai Bạc</string>
+    <string name="tile_type_swamp">Đầm Lầy</string>
+    <string name="tile_type_savanna">Xavan</string>
+    <string name="tile_type_jungle">Rừng Rậm</string>
+    <string name="tile_type_mesa">Núi Đồi Bằng</string>
     <string name="tile_type_taiga">Taiga</string>
     <string name="tile_type_tundra">Tundra</string>
-    <string name="tile_type_volcano">Volcano</string>
-    <string name="tile_type_lava">Lava</string>
-    <string name="tile_type_deadland">Dead Land</string>
-    <string name="tile_type_hell_fortress">Hell Fortress</string>
-    <string name="tile_type_cemetery">Cemetery</string>
-    <string name="tile_type_dragon_nest">Dragon\'s Nest</string>
-    <string name="tile_type_white_lotus">White Lotus</string>
-    <string name="tile_type_beast_nest">Beast\'s Nest</string>
-    <string name="tile_type_ooze_nest">Ooze\'s Nest</string>
-    <string name="tile_type_swarm_nest">Swarm\'s Nest</string>
-    <string name="tile_type_hideout">Hideout</string>
-    <string name="tile_type_factory">Factory</string>
-    <string name="tile_type_eye_of_the_storm">Eye Of The Storm</string>
-    <string name="tile_type_giant_nest">Giant\'s Nest</string>
-    <string name="tile_type_crater">Crater</string>
-    <string name="tile_type_witch_hut">Witch Hut</string>
-    <string name="tile_type_tyrant_quarters">Tyrant Quarters</string>
-    <string name="tile_type_oasis">Oasis</string>
-    <string name="tile_type_pyramid">Pyramid</string>
-    <string name="tile_type_frozen_cave">Frozen Cave</string>
-    <string name="tile_type_city">City</string>
-    <string name="tile_type_town">Town</string>
-    <string name="tile_type_village">Village</string>
-    <string name="tile_type_black_sand">Black Sand</string>
-    <string name="tile_type_white_sand">White Sand</string>
-    <string name="tile_type_black_monolith">Black Monolith</string>
-    <string name="tile_type_white_monolith">White Monolith</string>
-    <string name="tile_type_hell">Hell</string>
+    <string name="tile_type_volcano">Núi Lửa</string>
+    <string name="tile_type_lava">Dung nham</string>
+    <string name="tile_type_deadland">Đất Chết</string>
+    <string name="tile_type_hell_fortress">Pháo đài Địa ngục</string>
+    <string name="tile_type_cemetery">Nghĩa trang</string>
+    <string name="tile_type_dragon_nest">Ổ Rồng</string>
+    <string name="tile_type_white_lotus">Hoa sen Trắng</string>
+    <string name="tile_type_beast_nest">Ổ Quái vật</string>
+    <string name="tile_type_ooze_nest">Ổ Bùn</string>
+    <string name="tile_type_swarm_nest">Ổ Bày đàn</string>
+    <string name="tile_type_hideout">Nơi Ẩn Náu</string>
+    <string name="tile_type_factory">Nhà Máy</string>
+    <string name="tile_type_eye_of_the_storm">Con mắt của Cơn bão</string>
+    <string name="tile_type_giant_nest">Ổ của Người khổng lồ</string>
+    <string name="tile_type_crater">Miệng Núi Lửa</string>
+    <string name="tile_type_witch_hut">Nhà Phù Thủy</string>
+    <string name="tile_type_tyrant_quarters">Khu Bạo Chúa</string>
+    <string name="tile_type_oasis">Ốc Đảo</string>
+    <string name="tile_type_pyramid">Kim Tự Tháp</string>
+    <string name="tile_type_frozen_cave">Hang Động Băng</string>
+    <string name="tile_type_city">Thành Phố</string>
+    <string name="tile_type_town">Thị Trấn</string>
+    <string name="tile_type_village">Làng</string>
+    <string name="tile_type_black_sand">Cát Đen</string>
+    <string name="tile_type_white_sand">Cát Trắng</string>
+    <string name="tile_type_black_monolith">Khối Đá Đen</string>
+    <string name="tile_type_white_monolith">Khối Đá Trắng</string>
+    <string name="tile_type_hell">Địa Ngục</string>
 
-    <string name="islandtype_valley">Valley</string>
-    <string name="islandtype_high_mountains">High Mountains</string>
-    <string name="islandtype_undead">Undead</string>
-    <string name="islandtype_plant">Plant</string>
-    <string name="islandtype_fey">Fey</string>
-    <string name="islandtype_beast">Beast</string>
-    <string name="islandtype_aberration">Aberration</string>
-    <string name="islandtype_ooze">Ooze</string>
-    <string name="islandtype_swarm">Swarm</string>
-    <string name="islandtype_elemental">Elemental</string>
-    <string name="islandtype_construct">Construct</string>
-    <string name="islandtype_humanoid">Humanoid</string>
-    <string name="islandtype_dragons">Dragons</string>
-    <string name="islandtype_giants">Giants</string>
-    <string name="islandtype_tyrant">Tyrant</string>
-    <string name="islandtype_heaven">Heaven</string>
+    <string name="islandtype_valley">Thung Lũng</string>
+    <string name="islandtype_high_mountains">Núi Cao</string>
+    <string name="islandtype_undead">Xác Chết</string>
+    <string name="islandtype_plant">Cây Cỏ</string>
+    <string name="islandtype_fey">Gần Chết</string>
+    <string name="islandtype_beast">Quái Thú</string>
+    <string name="islandtype_aberration">Kì Quái</string>
+    <string name="islandtype_ooze">Bùn</string>
+    <string name="islandtype_swarm">Bầy đàn</string>
+    <string name="islandtype_elemental">Nguyên Tố</string>
+    <string name="islandtype_construct">Kiến Trúc</string>
+    <string name="islandtype_humanoid">Hình Người</string>
+    <string name="islandtype_dragons">Rồng</string>
+    <string name="islandtype_giants">Người Khổng Lồ</string>
+    <string name="islandtype_tyrant">Bạo Chúa</string>
+    <string name="islandtype_heaven">Thiên Đường</string>
 
-    <string name="island_type_black_island">Black Island</string>
-    <string name="island_type_white_island">White Island</string>
+    <string name="island_type_black_island">Đảo Đen</string>
+    <string name="island_type_white_island">Đảo Trắng</string>
 
-    <string name="item_wood_sword">&font_wood;Wood&font_end; Sword</string>
-    <string name="item_bone_sword">&font_bone;Bone&font_end; Sword</string>
-    <string name="item_copper_sword">&font_copper;Copper&font_end; Sword</string>
-    <string name="item_tin_sword">&font_tin;Tin&font_end; Sword</string>
-    <string name="item_iron_sword">&font_iron;Iron&font_end; Sword</string>
-    <string name="item_bronze_sword">&font_bronze;Bronze&font_end; Sword</string>
-    <string name="item_silver_sword">&font_silver;Silver&font_end; Sword</string>
-    <string name="item_gold_sword">&font_gold;Gold&font_end; Sword</string>
+    <string name="item_wood_sword">Kiếm &font_wood;Gỗ&font_end;</string>
+    <string name="item_bone_sword">Kiếm &font_bone;Xương&font_end;</string>
+    <string name="item_copper_sword">Kiếm &font_copper;Đồng&font_end;</string>
+    <string name="item_tin_sword">Kiếm &font_tin;Thiếc&font_end;</string>
+    <string name="item_iron_sword">Kiếm &font_iron;Sắt&font_end;</string>
+    <string name="item_bronze_sword">Kiếm &font_bronze;Đồng Thiếc&font_end;</string>
+    <string name="item_silver_sword">Kiếm &font_silver;Bạc&font_end;</string>
+    <string name="item_gold_sword">Kiếm &font_gold;Vàng&font_end;</string>
 
-    <string name="item_diamond_sword">&font_diamond;Diamond&font_end; Sword</string>
-    <string name="item_obsidian_sword">&font_obsidian;Obsidian&font_end; Sword</string>
-    <string name="item_wood_dagger">&font_wood;Wood&font_end; Dagger</string>
-    <string name="item_bone_dagger">&font_bone;Bone&font_end; Dagger</string>
-    <string name="item_copper_dagger">&font_copper;Copper&font_end; Dagger</string>
-    <string name="item_tin_dagger">&font_tin;Tin&font_end; Dagger</string>
-    <string name="item_iron_dagger">&font_iron;Iron&font_end; Dagger</string>
-    <string name="item_bronze_dagger">&font_bronze;Bronze&font_end; Dagger</string>
-    <string name="item_silver_dagger">&font_silver;Silver&font_end; Dagger</string>
-    <string name="item_gold_dagger">&font_gold;Gold&font_end; Dagger</string>
+    <string name="item_diamond_sword">Kiếm &font_diamond;Kim Cương&font_end;</string>
+    <string name="item_obsidian_sword">Kiếm &font_obsidian;Hắc Diện Thạch&font_end;</string>
+    <string name="item_wood_dagger">Dao &font_wood;Gỗ&font_end;</string>
+    <string name="item_bone_dagger">Dao &font_bone;Xương&font_end;</string>
+    <string name="item_copper_dagger">Dao &font_copper;Đồng&font_end;</string>
+    <string name="item_tin_dagger">Dao &font_tin;Thiếc&font_end;</string>
+    <string name="item_iron_dagger">Dao &font_iron;Sắt&font_end;</string>
+    <string name="item_bronze_dagger">Dao &font_bronze;Đồng Thiếc&font_end;</string>
+    <string name="item_silver_dagger">Dao &font_silver;Bạc&font_end;</string>
+    <string name="item_gold_dagger">Dao &font_gold;Vàng&font_end;</string>
 
-    <string name="item_diamond_dagger">&font_diamond;Diamond&font_end; Dagger</string>
-    <string name="item_obsidian_dagger">&font_obsidian;Obsidian&font_end; Dagger</string>
-    <string name="item_wood_spear">&font_wood;Wood&font_end; Spear</string>
-    <string name="item_bone_spear">&font_bone;Bone&font_end; Spear</string>
-    <string name="item_copper_spear">&font_copper;Copper&font_end; Spear</string>
-    <string name="item_tin_spear">&font_tin;Tin&font_end; Spear</string>
-    <string name="item_iron_spear">&font_iron;Iron&font_end; Spear</string>
-    <string name="item_bronze_spear">&font_bronze;Bronze&font_end; Spear</string>
-    <string name="item_silver_spear">&font_silver;Silver&font_end; Spear</string>
-    <string name="item_gold_spear">&font_gold;Gold&font_end; Spear</string>
+    <string name="item_diamond_dagger">Dao &font_diamond;Kim Cương&font_end;</string>
+    <string name="item_obsidian_dagger">Dao &font_obsidian;Hắc Diện Thạch&font_end;</string>
+    <string name="item_wood_spear">Giáo &font_wood;Gỗ&font_end;</string>
+    <string name="item_bone_spear">Giáo &font_bone;Xương&font_end;</string>
+    <string name="item_copper_spear">Giáo &font_copper;Đồng&font_end;</string>
+    <string name="item_tin_spear">Giáo &font_tin;Thiếc&font_end;</string>
+    <string name="item_iron_spear">Giáo &font_iron;Sắt&font_end;</string>
+    <string name="item_bronze_spear">Giáo &font_bronze;Đồng Thiếc&font_end;</string>
+    <string name="item_silver_spear">Giáo &font_silver;Bạc&font_end;</string>
+    <string name="item_gold_spear">Giáo &font_gold;Vàng&font_end;</string>
 
-    <string name="item_diamond_spear">&font_diamond;Diamond&font_end; Spear</string>
-    <string name="item_obsidian_spear">&font_obsidian;Obsidian&font_end; Spear</string>
-    <string name="item_wood_axe">&font_wood;Wood&font_end; Axe</string>
-    <string name="item_bone_axe">&font_bone;Bone&font_end; Axe</string>
-    <string name="item_copper_axe">&font_copper;Copper&font_end; Axe</string>
-    <string name="item_tin_axe">&font_tin;Tin&font_end; Axe</string>
-    <string name="item_iron_axe">&font_iron;Iron&font_end; Axe</string>
-    <string name="item_bronze_axe">&font_bronze;Bronze&font_end; Axe</string>
-    <string name="item_silver_axe">&font_silver;Silver&font_end; Axe</string>
-    <string name="item_gold_axe">&font_gold;Gold&font_end; Axe</string>
+    <string name="item_diamond_spear">Giáo &font_diamond;Kim Cương&font_end;</string>
+    <string name="item_obsidian_spear">Giáo &font_obsidian;Hắc Diện Thạch&font_end;</string>
+    <string name="item_wood_axe">Rìu &font_wood;Gỗ&font_end;</string>
+    <string name="item_bone_axe">Rìu &font_bone;Xương&font_end;</string>
+    <string name="item_copper_axe">Rìu &font_copper;Đồng&font_end;</string>
+    <string name="item_tin_axe">Rìu &font_tin;Thiếc&font_end;</string>
+    <string name="item_iron_axe">Rìu &font_iron;Sắt&font_end;</string>
+    <string name="item_bronze_axe">Rìu &font_bronze;Đồng Thiếc&font_end;</string>
+    <string name="item_silver_axe">Rìu &font_silver;Bạc&font_end;</string>
+    <string name="item_gold_axe">Rìu &font_gold;Vàng&font_end;</string>
 
-    <string name="item_diamond_axe">&font_diamond;Diamond&font_end; Axe</string>
-    <string name="item_obsidian_axe">&font_obsidian;Obsidian&font_end; Axe</string>
-    <string name="item_wood_mace">&font_wood;Wood&font_end; Mace</string>
-    <string name="item_bone_mace">&font_bone;Bone&font_end; Mace</string>
-    <string name="item_copper_mace">&font_copper;Copper&font_end; Mace</string>
-    <string name="item_tin_mace">&font_tin;Tin&font_end; Mace</string>
-    <string name="item_iron_mace">&font_iron;Iron&font_end; Mace</string>
-    <string name="item_bronze_mace">&font_bronze;Bronze&font_end; Mace</string>
-    <string name="item_silver_mace">&font_silver;Silver&font_end; Mace</string>
-    <string name="item_gold_mace">&font_gold;Gold&font_end; Mace</string>
-    <string name="item_diamond_mace">&font_diamond;Diamond&font_end; Mace</string>
-    <string name="item_obsidian_mace">&font_obsidian;Obsidian&font_end; Mace</string>
+    <string name="item_diamond_axe">Rìu &font_diamond;Kim Cương&font_end;</string>
+    <string name="item_obsidian_axe">Rìu &font_obsidian;Hắc Diện Thạch&font_end;</string>
+    <string name="item_wood_mace">Chùy &font_wood;Gỗ&font_end;</string>
+    <string name="item_bone_mace">Chùy &font_bone;Xương&font_end;</string>
+    <string name="item_copper_mace">Chùy &font_copper;Đồng&font_end;</string>
+    <string name="item_tin_mace">Chùy &font_tin;Thiếc&font_end;</string>
+    <string name="item_iron_mace">Chùy &font_iron;Sắt&font_end;</string>
+    <string name="item_bronze_mace">Chùy &font_bronze;Đồng Thiếc&font_end;</string>
+    <string name="item_silver_mace">Chùy &font_silver;Bạc&font_end;</string>
+    <string name="item_gold_mace">Chùy &font_gold;Vàng&font_end;</string>
+    <string name="item_diamond_mace">Chùy &font_diamond; Kim Cương&font_end;</string>
+    <string name="item_obsidian_mace">Chùy &font_obsidian;Hắc Diện Thạch&font_end;</string>
 
-    <string name="item_volcanic_sword">&font_volcano;Volcanic&font_end; Sword</string>
-    <string name="item_volcanic_mace">&font_volcano;Volcanic&font_end; Mace</string>
-    <string name="item_volcanic_axe">&font_volcano;Volcanic&font_end; Axe</string>
-    <string name="item_volcanic_spear">&font_volcano;Volcanic&font_end; Spear</string>
-    <string name="item_volcanic_dagger">&font_volcano;Volcanic&font_end; Dagger</string>
+    <string name="item_volcanic_sword">Kiếm &font_volcano;Núi Lửa&font_end;</string>
+    <string name="item_volcanic_mace">Chùy &font_volcano; Núi Lửa&font_end;</string>
+    <string name="item_volcanic_axe">Rìu &font_volcano;Núi Lửa&font_end;</string>
+    <string name="item_volcanic_spear">Giáo &font_volcano;Núi Lửa&font_end;</string>
+    <string name="item_volcanic_dagger">Dao &font_volcano;Núi Lửa&font_end;</string>
 
-    <string name="item_icy_sword">&font_icy;Icy&font_end; Sword</string>
-    <string name="item_icy_mace">&font_icy;Icy&font_end; Mace</string>
-    <string name="item_icy_axe">&font_icy;Icy&font_end; Axe</string>
-    <string name="item_icy_spear">&font_icy;Icy&font_end; Spear</string>
-    <string name="item_icy_dagger">&font_icy;Icy&font_end; Dagger</string>
+    <string name="item_icy_sword">Kiếm &font_icy;Băng&font_end;</string>
+    <string name="item_icy_mace">Chùy &font_icy;Băng&font_end;</string>
+    <string name="item_icy_axe">Rìu &font_icy;Băng&font_end;</string>
+    <string name="item_icy_spear">Giáo &font_icy;Băng&font_end;</string>
+    <string name="item_icy_dagger">Dao &font_icy;Băng&font_end;</string>
 
-    <string name="text_wood_shield">&font_wood;Wood&font_end; Shield</string>
-    <string name="text_bone_shield">&font_bone;Bone&font_end; Shield</string>
-    <string name="text_copper_shield">&font_copper;Copper&font_end; Shield</string>
-    <string name="text_tin_shield">&font_tin;Tin&font_end; Shield</string>
-    <string name="text_iron_shield">&font_iron;Iron&font_end; Shield</string>
-    <string name="text_bronze_shield">&font_bronze;Bronze&font_end; Shield</string>
-    <string name="text_silver_shield">&font_silver;Silver&font_end; Shield</string>
-    <string name="text_gold_shield">&font_gold;Gold&font_end; Shield</string>
-    <string name="text_diamond_shield">&font_diamond;Diamond&font_end; Shield</string>
-    <string name="text_obsidian_shield">&font_obsidian;Obsidian&font_end; Shield</string>
-    <string name="text_wood_helmet">&font_wood;Wood&font_end; Helmet</string>
-    <string name="text_leather_helmet">&font_leather;Leather&font_end; Helmet</string>
-    <string name="text_bone_helmet">&font_bone;Bone&font_end; Helmet</string>
-    <string name="text_copper_helmet">&font_copper;Copper&font_end; Helmet</string>
-    <string name="text_tin_helmet">&font_tin;Tin&font_end; Helmet</string>
-    <string name="text_iron_helmet">&font_iron;Iron&font_end; Helmet</string>
-    <string name="text_bronze_helmet">&font_bronze;Bronze&font_end; Helmet</string>
-    <string name="text_silver_helmet">&font_silver;Silver&font_end; Helmet</string>
-    <string name="text_gold_helmet">&font_gold;Gold&font_end; Helmet</string>
-    <string name="text_diamond_helmet">&font_diamond;Diamond&font_end; Helmet</string>
-    <string name="text_obsidian_helmet">&font_obsidian;Obsidian&font_end; Helmet</string>
-    <string name="text_wood_plate">&font_wood;Wood&font_end; Plate</string>
-    <string name="text_leather_plate">&font_leather;Leather&font_end; Plate</string>
-    <string name="text_bone_plate">&font_bone;Bone&font_end; Plate</string>
-    <string name="text_copper_plate">&font_copper;Copper&font_end; Plate</string>
-    <string name="text_tin_plate">&font_tin;Tin&font_end; Plate</string>
-    <string name="text_iron_plate">&font_iron;Iron&font_end; Plate</string>
-    <string name="text_bronze_plate">&font_bronze;Bronze&font_end; Plate</string>
-    <string name="text_silver_plate">&font_silver;Silver&font_end; Plate</string>
-    <string name="text_gold_plate">&font_gold;Gold&font_end; Plate</string>
-    <string name="text_diamond_plate">&font_diamond;Diamond&font_end; Plate</string>
-    <string name="text_obsidian_plate">&font_obsidian;Obsidian&font_end; Plate</string>
-    <string name="text_wood_pants">&font_wood;Wood&font_end; Pants</string>
-    <string name="text_leather_pants">&font_leather;Leather&font_end; Pants</string>
-    <string name="text_bone_pants">&font_bone;Bone&font_end; Pants</string>
-    <string name="text_copper_pants">&font_copper;Copper&font_end; Pants</string>
-    <string name="text_tin_pants">&font_tin;Tin&font_end; Pants</string>
-    <string name="text_iron_pants">&font_iron;Iron&font_end; Pants</string>
-    <string name="text_bronze_pants">&font_bronze;Bronze&font_end; Pants</string>
-    <string name="text_silver_pants">&font_silver;Silver&font_end; Pants</string>
-    <string name="text_gold_pants">&font_gold;Gold&font_end; Pants</string>
-    <string name="text_diamond_pants">&font_diamond;Diamond&font_end; Pants</string>
-    <string name="text_obsidian_pants">&font_obsidian;Obsidian&font_end; Pants</string>
-    <string name="text_wood_boots">&font_wood;Wood&font_end; Boots</string>
-    <string name="text_leather_boots">&font_leather;Leather&font_end; Boots</string>
-    <string name="text_bone_boots">&font_bone;Bone&font_end; Boots</string>
-    <string name="text_copper_boots">&font_copper;Copper&font_end; Boots</string>
-    <string name="text_tin_boots">&font_tin;Tin&font_end; Boots</string>
-    <string name="text_iron_boots">&font_iron;Iron&font_end; Boots</string>
-    <string name="text_bronze_boots">&font_bronze;Bronze&font_end; Boots</string>
-    <string name="text_silver_boots">&font_silver;Silver&font_end; Boots</string>
-    <string name="text_gold_boots">&font_gold;Gold&font_end; Boots</string>
-    <string name="text_diamond_boots">&font_diamond;Diamond&font_end; Boots</string>
-    <string name="text_obsidian_boots">&font_obsidian;Obsidian&font_end; Boots</string>
-    <string name="text_wood_gloves">&font_wood;Wood&font_end; Gloves</string>
-    <string name="text_leather_gloves">&font_leather;Leather&font_end; Gloves</string>
-    <string name="text_bone_gloves">&font_bone;Bone&font_end; Gloves</string>
-    <string name="text_copper_gloves">&font_copper;Copper&font_end; Gloves</string>
-    <string name="text_tin_gloves">&font_tin;Tin&font_end; Gloves</string>
-    <string name="text_iron_gloves">&font_iron;Iron&font_end; Gloves</string>
-    <string name="text_bronze_gloves">&font_bronze;Bronze&font_end; Gloves</string>
-    <string name="text_silver_gloves">&font_silver;Silver&font_end; Gloves</string>
-    <string name="text_gold_gloves">&font_gold;Gold&font_end; Gloves</string>
-    <string name="text_diamond_gloves">&font_diamond;Diamond&font_end; Gloves</string>
-    <string name="text_obsidian_gloves">&font_obsidian;Obsidian&font_end; Gloves</string>
-    <string name="text_wood_amulet">&font_wood;Wood&font_end; Amulet</string>
-    <string name="text_leather_amulet">&font_leather;Leather&font_end; Amulet</string>
-    <string name="text_bone_amulet">&font_bone;Bone&font_end; Amulet</string>
-    <string name="text_copper_amulet">&font_copper;Copper&font_end; Amulet</string>
-    <string name="text_tin_amulet">&font_tin;Tin&font_end; Amulet</string>
-    <string name="text_iron_amulet">&font_iron;Iron&font_end; Amulet</string>
-    <string name="text_bronze_amulet">&font_bronze;Bronze&font_end; Amulet</string>
-    <string name="text_silver_amulet">&font_silver;Silver&font_end; Amulet</string>
-    <string name="text_gold_amulet">&font_gold;Gold&font_end; Amulet</string>
-    <string name="text_diamond_amulet">&font_diamond;Diamond&font_end; Amulet</string>
-    <string name="text_obsidian_amulet">&font_obsidian;Obsidian&font_end; Amulet</string>
-    <string name="text_wood_ring">&font_wood;Wood&font_end; Ring</string>
-    <string name="text_leather_ring">&font_leather;Leather&font_end; Ring</string>
-    <string name="text_bone_ring">&font_bone;Bone&font_end; Ring</string>
-    <string name="text_copper_ring">&font_copper;Copper&font_end; Ring</string>
-    <string name="text_tin_ring">&font_tin;Tin&font_end; Ring</string>
-    <string name="text_iron_ring">&font_iron;Iron&font_end; Ring</string>
-    <string name="text_bronze_ring">&font_bronze;Bronze&font_end; Ring</string>
-    <string name="text_silver_ring">&font_silver;Silver&font_end; Ring</string>
-    <string name="text_gold_ring">&font_gold;Gold&font_end; Ring</string>
-    <string name="text_diamond_ring">&font_diamond;Diamond&font_end; Ring</string>
-    <string name="text_obsidian_ring">&font_obsidian;Obsidian&font_end; Ring</string>
+    <string name="text_wood_shield">Khiên &font_wood;Gỗ&font_end;</string>
+    <string name="text_bone_shield">Khiên &font_bone;Xương&font_end;</string>
+    <string name="text_copper_shield">Khiên &font_copper;Đồng&font_end;</string>
+    <string name="text_tin_shield">Khiên &font_tin;Thiếc&font_end;</string>
+    <string name="text_iron_shield">Khiên &font_iron;Sắt&font_end;</string>
+    <string name="text_bronze_shield">Khiên &font_bronze;Đồng Thiếc&font_end;</string>
+    <string name="text_silver_shield">Khiên &font_silver;Bạc&font_end;</string>
+    <string name="text_gold_shield">Khiên &font_gold;Vàng&font_end;</string>
+    <string name="text_diamond_shield">Khiên &font_diamond;Kim Cương&font_end;</string>
+    <string name="text_obsidian_shield">Khiên &font_obsidian;Hắc Diện Thạch&font_end;</string>
+    <string name="text_wood_helmet">Mũ &font_wood;Gỗ&font_end;</string>
+    <string name="text_leather_helmet">Mũ &font_leather;Da&font_end;</string>
+    <string name="text_bone_helmet">Mũ &font_bone;Xương&font_end;</string>
+    <string name="text_copper_helmet">Mũ &font_copper;Đồng&font_end;</string>
+    <string name="text_tin_helmet">Mũ &font_tin;Thiếc&font_end;</string>
+    <string name="text_iron_helmet">Mũ &font_iron;Sắt&font_end;</string>
+    <string name="text_bronze_helmet">Mũ &font_bronze;Đồng Thiếc&font_end;</string>
+    <string name="text_silver_helmet">Mũ &font_silver;Bạc&font_end;</string>
+    <string name="text_gold_helmet">Mũ &font_gold;Vàng&font_end;</string>
+    <string name="text_diamond_helmet">Mũ &font_diamond;Kim Cương&font_end;</string>
+    <string name="text_obsidian_helmet">Mũ &font_obsidian;Hắc Diện Thạch&font_end;</string>
+    <string name="text_wood_plate">Áo &font_wood;Gỗ&font_end;</string>
+    <string name="text_leather_plate">Áo &font_leather;Da&font_end;</string>
+    <string name="text_bone_plate">Áo &font_bone;Xương&font_end;</string>
+    <string name="text_copper_plate">Áo &font_copper;Đồng&font_end;</string>
+    <string name="text_tin_plate">Áo &font_tin;Thiếc&font_end;</string>
+    <string name="text_iron_plate">Áo &font_iron;Sắt&font_end;</string>
+    <string name="text_bronze_plate">Áo &font_bronze;Đồng Thiếc&font_end;</string>
+    <string name="text_silver_plate">Áo &font_silver;Bạc&font_end;</string>
+    <string name="text_gold_plate">Áo &font_gold;Vàng&font_end;</string>
+    <string name="text_diamond_plate">Áo &font_diamond;Kim Cương&font_end;</string>
+    <string name="text_obsidian_plate">Áo &font_obsidian;Hắc Diện Thạch&font_end;</string>
+    <string name="text_wood_pants">Quần &font_wood;Gỗ&font_end;</string>
+    <string name="text_leather_pants">Quần &font_leather;Da&font_end;</string>
+    <string name="text_bone_pants">Quần &font_bone;Xương&font_end;</string>
+    <string name="text_copper_pants">Quần &font_copper;Đồng&font_end;</string>
+    <string name="text_tin_pants">Quần &font_tin;Thiếc&font_end;</string>
+    <string name="text_iron_pants">Quần &font_iron;Sắt&font_end;</string>
+    <string name="text_bronze_pants">Quần &font_bronze;Đồng Thiếc&font_end;</string>
+    <string name="text_silver_pants">Quần &font_silver;Bạc&font_end;</string>
+    <string name="text_gold_pants">Quần &font_gold;Vàng&font_end;</string>
+    <string name="text_diamond_pants">Quần &font_diamond;Kim Cương&font_end;</string>
+    <string name="text_obsidian_pants">Quần &font_obsidian;Hắc Diện Thạch&font_end;</string>
+    <string name="text_wood_boots">Giày &font_wood;Gỗ&font_end;</string>
+    <string name="text_leather_boots">Giày &font_leather;Da&font_end;</string>
+    <string name="text_bone_boots">Giày &font_bone;Xương&font_end;</string>
+    <string name="text_copper_boots">Giày &font_copper;Đồng&font_end;</string>
+    <string name="text_tin_boots">Giày &font_tin;Thiếc&font_end;</string>
+    <string name="text_iron_boots">Giày &font_iron;Sắt&font_end;</string>
+    <string name="text_bronze_boots">Giày &font_bronze;Đồng Thiếc&font_end;</string>
+    <string name="text_silver_boots">Giày &font_silver;Bạc&font_end;</string>
+    <string name="text_gold_boots">Giày &font_gold;Vàng&font_end;</string>
+    <string name="text_diamond_boots">Giày &font_diamond;Kim Cương&font_end;</string>
+    <string name="text_obsidian_boots">Giày &font_obsidian;Hắc Diện Thạch&font_end;</string>
+    <string name="text_wood_gloves">Găng tay &font_wood;Gỗ&font_end;</string>
+    <string name="text_leather_gloves">Găng tay &font_leather;Da&font_end;</string>
+    <string name="text_bone_gloves">Găng tay &font_bone;Xương&font_end;</string>
+    <string name="text_copper_gloves">Găng tay &font_copper;Đồng&font_end;</string>
+    <string name="text_tin_gloves">Găng tay &font_tin;Thiếc&font_end;</string>
+    <string name="text_iron_gloves">Găng tay &font_iron;Sắt&font_end;</string>
+    <string name="text_bronze_gloves">Găng tay &font_bronze;Đồng Thiếc&font_end;</string>
+    <string name="text_silver_gloves">Găng tay &font_silver;Bạc&font_end;</string>
+    <string name="text_gold_gloves">Găng tay &font_gold;Vàng&font_end;</string>
+    <string name="text_diamond_gloves">Găng tay &font_diamond;Kim Cương&font_end;</string>
+    <string name="text_obsidian_gloves">Găng tay &font_obsidian;Hắc Diện Thạch&font_end;</string>
+    <string name="text_wood_amulet">Vòng cổ &font_wood;Gỗ&font_end;</string>
+    <string name="text_leather_amulet">Vòng cổ &font_leather;Da&font_end;</string>
+    <string name="text_bone_amulet">Vòng cổ &font_bone;Xương&font_end;</string>
+    <string name="text_copper_amulet">Vòng cổ &font_copper;Đồng&font_end;</string>
+    <string name="text_tin_amulet">Vòng cổ &font_tin;Thiếc&font_end;</string>
+    <string name="text_iron_amulet">Vòng cổ &font_iron;Sắt&font_end;</string>
+    <string name="text_bronze_amulet">Vòng cổ &font_bronze;Đồng Thiếc&font_end;</string>
+    <string name="text_silver_amulet">Vòng cổ &font_silver;Bạc&font_end;</string>
+    <string name="text_gold_amulet">Vòng cổ &font_gold;Vàng&font_end;</string>
+    <string name="text_diamond_amulet">Vòng cổ &font_diamond;Kim Cương&font_end;</string>
+    <string name="text_obsidian_amulet">Vòng cổ &font_obsidian;Hắc Diện Thạch&font_end;</string>
+    <string name="text_wood_ring">Nhẫn &font_wood;Gỗ&font_end;</string>
+    <string name="text_leather_ring">Nhẫn &font_leather;Da&font_end;</string>
+    <string name="text_bone_ring">Nhẫn &font_bone;Xương&font_end;</string>
+    <string name="text_copper_ring">Nhẫn &font_copper;Đồng&font_end;</string>
+    <string name="text_tin_ring">Nhẫn &font_tin;Thiếc&font_end;</string>
+    <string name="text_iron_ring">Nhẫn &font_iron;Sắt&font_end;</string>
+    <string name="text_bronze_ring">Nhẫn &font_bronze;Đồng Thiếc&font_end;</string>
+    <string name="text_silver_ring">Nhẫn &font_silver;Bạc&font_end;</string>
+    <string name="text_gold_ring">Nhẫn &font_gold;Vàng&font_end;</string>
+    <string name="text_diamond_ring">Nhẫn &font_diamond;Kim Cương&font_end;</string>
+    <string name="text_obsidian_ring">Nhẫn &font_obsidian;Hắc Diện Thạch&font_end;</string>
 
-    <string name="bomb_normal">&font_bomb;Bomb&font_end;</string>
-    <string name="bomb_fire">&font_attack;Fire &font_end;&font_bomb;Bomb&font_end;</string>
-    <string name="bomb_ice">&font_ice;Ice &font_end;&font_bomb;Bomb&font_end;</string>
-    <string name="bomb_electric">&font_electric;Electric&font_end; &font_bomb;Bomb&font_end;</string>
-    <string name="bomb_you_throw_the_bomb_to">You throw %1$s to %2$s! %3$s receives &font_red;%4$d &font_end;damage!</string>
+    <string name="bomb_normal">&font_bomb;Quả bom&font_end;</string>
+    <string name="bomb_fire">&font_bomb;Quả bom&font_end;&font_attack; Lửa&font_end;</string>
+    <string name="bomb_ice">&font_bomb;Quả bom&font_end;&font_ice; Băng&font_end;</string>
+    <string name="bomb_electric">&font_bomb;Quả bom&font_end;&font_electric; Điện&font_end;</string>
+    <string name="bomb_you_throw_the_bomb_to">Bạn ném %1$s vào %2$s! %3$s nhận &font_red;%4$d &font_end;sát thương!</string>
 
-    <string name="food_green_salad">&font_plant;Green&font_end; Salad</string>
-    <string name="food_eye_soup">&font_swamp;Eye&font_end; Soup</string>
-    <string name="food_mushroom_stew">&font_mushroom;Mushroom &font_end;Stew</string>
-    <string name="food_cactus_salad">&font_cactus;Cactus &font_end;Salad</string>
-    <string name="food_coconut_soda">&font_coconut;Coconut&font_end; Soda</string>
-    <string name="food_fish_salad">&font_cyan;Fish&font_end; Salad</string>
-    <string name="food_desert_fish">&font_desert;Desert&font_end; &font_cyan;Fish&font_end;</string>
-    <string name="food_marrow">&font_bone;Marrow&font_end;</string>
-    <string name="food_meat_stick">&font_copper;Steak &font_end;on a &font_wood;Stake&font_end;</string>
-    <string name="food_vegetable_stick">&font_plant;Vegetables&font_end; &font_wood;Stick&font_end;</string>
-    <string name="food_milk">Milk</string>
-    <string name="food_cereal">Cereal</string>
-    <string name="food_fruit">Fruit</string>
-    <string name="food_egg">Egg</string>
-    <string name="food_tomato">Tomato</string>
-    <string name="food_cheese">Cheese</string>
-    <string name="food_garlic">Garlic</string>
-    <string name="food_onion">Onion</string>
-    <string name="food_cucumber">Cucumber</string>
+    <string name="food_green_salad">Xa lát &font_plant;Xanh&font_end;</string>
+    <string name="food_eye_soup">Súp &font_swamp;Mắt&font_end;</string>
+    <string name="food_mushroom_stew">Súp &font_mushroom;Nấm&font_end;</string>
+    <string name="food_cactus_salad">Xa lát &font_cactus;Cây xương rồng&font_end;</string>
+    <string name="food_coconut_soda">Nước &font_coconut;Dừa&font_end;</string>
+    <string name="food_fish_salad">Xa lát &font_cyan;Cá&font_end;</string>
+    <string name="food_desert_fish">&font_cyan;Cá &font_end;&font_desert;Sa mạc&font_end; </string>
+    <string name="food_marrow">&font_bone;Xương tủy&font_end;</string>
+    <string name="food_meat_stick">&font_copper;Thịt &font_end;trên &font_wood;Que&font_end;</string>
+    <string name="food_vegetable_stick">&font_wood;Thanh&font_end;&font_plant; Rau&font_end;</string>
+    <string name="food_milk">Sữa</string>
+    <string name="food_cereal">Ngũ cốc</string>
+    <string name="food_fruit">Hoa quả</string>
+    <string name="food_egg">Trứng</string>
+    <string name="food_tomato">Cà chua</string>
+    <string name="food_cheese">Phô mai</string>
+    <string name="food_garlic">Tỏi</string>
+    <string name="food_onion">Hành</string>
+    <string name="food_cucumber">Dưa chuột</string>
     <string name="text_level_up_increasal">
-        Increased &font_health;Health&font_end; to &font_health;%1$d&font_end;&br;
-        Increased &font_mana;Mana&font_end; to &font_mana;%2$d&font_end;&br; Increased &font_attack;Attack&font_end;
-        to &font_attack;%3$d&font_end;&br; Increased &font_defense;Defense&font_end;
-        to &font_defense;%4$d&font_end;&br; Increased &font_speed;Speed&font_end; to &font_speed;%5$d&font_end;&br;
-        Increased &font_mana;Intelligence&font_end; to &font_mana;%6$d&font_end;&br;
+        Tăng &font_health;Máu&font_end; lên &font_health;%1$d&font_end;&br;
+        Tăng &font_mana;Mana&font_end; lên &font_mana;%2$d&font_end;&br; Tăng &font_attack;Tấn công&font_end;
+        lên &font_attack;%3$d&font_end;&br; Tăng &font_defense;Phòng thủ&font_end;
+        lên &font_defense;%4$d&font_end;&br; Tăng &font_speed;Tốc độ&font_end; lên &font_speed;%5$d&font_end;&br;
+        Tăng &font_mana;Trí tuệ&font_end; lên &font_mana;%6$d&font_end;&br;
     </string>
 
-    <string name="level_up_inventory_increase">&br;Increased your &font_gold;Inventory Capacity &font_end;to &font_gold;%1$d&font_end;</string>
-    <string name="level_up_pets_increase">&br;Increased your &font_pet;Pets Capacity &font_end;to &font_gold;%1$d&font_end;</string>
-    <string name="level_up_skill_point">&br;You earned &font_cyan;%1$d &font_end;Skill Points.</string>
+    <string name="level_up_inventory_increase">&br;Tăng &font_gold;Sức chứa Ba lô &font_end;của bạn lên &font_gold;%1$d&font_end;</string>
+    <string name="level_up_pets_increase">&br; Tăng &font_pet;Sức chứa Pet &font_end;của bạn lên &font_gold;%1$d&font_end;</string>
+    <string name="level_up_skill_point">&br;Bạn nhận được &font_cyan;%1$d &font_end;Điểm Kĩ năng.</string>
 
-    <string name="combat_monster_attacked_player">&font_red;%1$s &font_end;attacked!&br;You received &font_red;%2$d &font_end;damage!</string>
-    <string name="combat_monster_action_attacked_player">&font_red;%1$s &font_end;attacked with its &font_red;%2$s&font_end;!&br;You received &font_red;%3$d &font_end;damage!</string>
-    <string name="combat_player_attacked_monster_damage">You attacked!&br;&font_red;%1$s &font_end;received &font_red;%2$d &font_end;damage!</string>
-    <string name="combat_player_skill_dealt_damage">&font_red;%1$s &font_end;received &font_red;%2$d &font_end;damage!</string>
-    <string name="combat_player_skill_restored_health">You restored &font_health;%1$d &font_end;health!</string>
-    <string name="combat_player_skill_restored_mana">You restored &font_mana;%1$d &font_end;mana!</string>
-    <string name="combat_player_skill_dealt_damage_n_times">You hit &font_cyan;%1$d &font_end;times! &font_red;%2$s &font_end;received &font_red;%3$d &font_end;damage!</string>
-    <string name="combat_player_skill_attacks_first">You attack first!</string>
-    <string name="combat_dont_know_any_skill">You don\'t know any &font_skill_attack;Skills&font_end;!</string>
-    <string name="combat_dont_know_any_spell">You don\'t know any &font_mana;Spells&font_end;!</string>
-    <string name="combat_cant_cast_skill">You don\'t have enough resources to do this!</string>
-    <string name="combat_cant_cast_spell">You don\'t have enough resources to cast this!</string>
-    <string name="combat_already_captured">You have already captured it!</string>
-    <string name="combat_cant_carry_more_pets">You can\'t have more pets!</string>
-    <string name="combat_monster_dead_vanishes">%1$s turns to dust!</string>
-    <string name="combat_monster_attacks">%1$s attacks!</string>
-    <string name="combat_fight">Fight</string>
-    <string name="combat_player_flee_fails">You tried to escape and failed…</string>
-    <string name="combat_player_flee_succeeds">You escaped successfully!</string>
-    <string name="combat_killed_monster">You killed %1$s!</string>
-    <string name="combat_player_is_dead">%1$s&br;died at level &font_cyan;%2$d&font_end;!</string>
-    <string name="combat_corpse_name">Corpse of %1$s</string>
+    <string name="combat_monster_attacked_player">&font_red;%1$s &font_end;tấn công!&br;Bạn nhận &font_red;%2$d &font_end;sát thương!</string>
+    <string name="combat_monster_action_attacked_player">&font_red;%1$s &font_end;tấn công với &font_red;%2$s&font_end;!&br;Bạn nhận &font_red;%3$d &font_end;sát thương!</string>
+    <string name="combat_player_attacked_monster_damage">Bạn tấn công!&br;&font_red;%1$s &font_end;nhận &font_red;%2$d &font_end;sát thương!</string>
+    <string name="combat_player_skill_dealt_damage">&font_red;%1$s &font_end;nhận &font_red;%2$d &font_end;sát thương!</string>
+    <string name="combat_player_skill_restored_health">Bạn phục hồi &font_health;%1$d &font_end;máu!</string>
+    <string name="combat_player_skill_restored_mana">Bạn phục hồi &font_mana;%1$d &font_end;mana!</string>
+    <string name="combat_player_skill_dealt_damage_n_times">Bạn tấn công &font_cyan;%1$d &font_end;lần! &font_red;%2$s &font_end;nhận &font_red;%3$d &font_end;sát thương!</string>
+    <string name="combat_player_skill_attacks_first">Bạn tấn công trước!</string>
+    <string name="combat_dont_know_any_skill">Bạn không có &font_skill_attack;Kĩ năng&font_end; nào!</string>
+    <string name="combat_dont_know_any_spell">Bạn không có &font_mana;Phép thuật&font_end; nào!</string>
+    <string name="combat_cant_cast_skill">Bạn không có đủ tài nguyên để làm điều này!</string>
+    <string name="combat_cant_cast_spell">Bạn không có đủ tài nguyên để làm điều này!</string>
+    <string name="combat_already_captured">Bạn đã bắt nó!</string>
+    <string name="combat_cant_carry_more_pets">Bạn không thể bắt thêm pet!</string>
+    <string name="combat_monster_dead_vanishes">%1$s hoá thành cát bụi!</string>
+    <string name="combat_monster_attacks">%1$s tấn công!</string>
+    <string name="combat_fight">Tấn công</string>
+    <string name="combat_player_flee_fails">Bạn cố gắng chạy thoát và thất bại…</string>
+    <string name="combat_player_flee_succeeds">Bạn chạy thoát thành công!</string>
+    <string name="combat_killed_monster">Bạn giết %1$s!</string>
+    <string name="combat_player_is_dead">%1$s&br; chết ở level &font_cyan;%2$d&font_end;!</string>
+    <string name="combat_corpse_name">Xác %1$s</string>
     <string name="combat_monster_attacking_symbol">-&font_dark_red;A&font_end;-</string>
-    <string name="combat_cant_flee_from_monster">Can\'t flee from %1$s…</string>
-    <string name="combat_monster_obtained_gold">Obtained &font_gold;%1$d&font_end; gold.</string>
-    <string name="combat_monster_obtained_item">Obtained %1$s.</string>
-    <string name="combat_you_throw_the_bucket_to">You throw the %1$s to %2$s! %3$s receives &font_red;%4$d &font_end;damage!</string>
+    <string name="combat_cant_flee_from_monster">Không thể chạy thoát khỏi %1$s…</string>
+    <string name="combat_monster_obtained_gold">Nhận được &font_gold;%1$d&font_end; vàng.</string>
+    <string name="combat_monster_obtained_item">Nhận được %1$s.</string>
+    <string name="combat_you_throw_the_bucket_to">Bạn ném %1$s vào %2$s! %3$s nhận &font_red;%4$d &font_end;sát thương y!</string>
 
 
-    <string name="villager_text_hello_1" tools:ignore="UnusedResources">Hi!</string>
-    <string name="villager_text_hello_2" tools:ignore="UnusedResources">Hi, hero!</string>
-    <string name="villager_text_hello_3" tools:ignore="UnusedResources">Hi, adventurer!</string>
-    <string name="villager_text_hello_4" tools:ignore="UnusedResources">Hello!</string>
-    <string name="villager_text_hello_5" tools:ignore="UnusedResources">Hello, adventurer!</string>
-    <string name="villager_text_hello_6" tools:ignore="UnusedResources">Hello, hero!</string>
-    <string name="villager_text_hello_7" tools:ignore="UnusedResources">Hey…</string>
-    <string name="villager_text_hello_8" tools:ignore="UnusedResources">Hey, adventurer…</string>
-    <string name="villager_text_hello_9" tools:ignore="UnusedResources">Hey, hero…</string>
-    <string name="villager_text_hello_10" tools:ignore="UnusedResources">Nice to meet you!</string>
-    <string name="villager_text_hello_11" tools:ignore="UnusedResources">Nice to meet you, adventurer!</string>
-    <string name="villager_text_hello_12" tools:ignore="UnusedResources">Nice to meet you, hero!</string>
-    <string name="villager_text_hello_13" tools:ignore="UnusedResources">How\'s it going?</string>
-    <string name="villager_text_hello_14" tools:ignore="UnusedResources">How\'s it going, adventurer?</string>
-    <string name="villager_text_hello_15" tools:ignore="UnusedResources">How\'s it going, hero?</string>
-    <string name="villager_text_hello_16" tools:ignore="UnusedResources">How are you doing?</string>
-    <string name="villager_text_hello_17" tools:ignore="UnusedResources">How are you doing, adventurer?</string>
-    <string name="villager_text_hello_18" tools:ignore="UnusedResources">How are you doing, hero?</string>
+    <string name="villager_text_hello_1" tools:ignore="UnusedResources">Chào!</string>
+    <string name="villager_text_hello_2" tools:ignore="UnusedResources">Chào, anh hùng!</string>
+    <string name="villager_text_hello_3" tools:ignore="UnusedResources">Chào, người phiêu lưu!</string>
+    <string name="villager_text_hello_4" tools:ignore="UnusedResources">Xin chào!</string>
+    <string name="villager_text_hello_5" tools:ignore="UnusedResources">Xin chào, người phiêu lưu !</string>
+    <string name="villager_text_hello_6" tools:ignore="UnusedResources">Xin chào, anh hùng!</string>
+    <string name="villager_text_hello_7" tools:ignore="UnusedResources">Này…</string>
+    <string name="villager_text_hello_8" tools:ignore="UnusedResources">Này, người phiêu lưu…</string>
+    <string name="villager_text_hello_9" tools:ignore="UnusedResources">Này, anh hùng…</string>
+    <string name="villager_text_hello_10" tools:ignore="UnusedResources">Rất vui được gặp bạn!</string>
+    <string name="villager_text_hello_11" tools:ignore="UnusedResources">Rất vui được gặp bạn, người phiêu lưu!</string>
+    <string name="villager_text_hello_12" tools:ignore="UnusedResources">Rất vui được gặp bạn, anh hùng!</string>
+    <string name="villager_text_hello_13" tools:ignore="UnusedResources">Mọi chuyện thế nào rồi?</string>
+    <string name="villager_text_hello_14" tools:ignore="UnusedResources">Mọi chuyện thế nào rồi, người phiêu lưu?</string>
+    <string name="villager_text_hello_15" tools:ignore="UnusedResources">Mọi chuyện thế nào rồi, anh hùng?</string>
+    <string name="villager_text_hello_16" tools:ignore="UnusedResources">Bạn dạo này ra sao rồi?</string>
+    <string name="villager_text_hello_17" tools:ignore="UnusedResources">Bạn dạo này ra sao rồi, người phiêu lưu?</string>
+    <string name="villager_text_hello_18" tools:ignore="UnusedResources">Bạn dạo này ra sao rồi, anh hùng?</string>
     <string name="villager_text_hello_19" tools:ignore="UnusedResources">Mmm…</string>
     <string name="villager_text_hello_20" tools:ignore="UnusedResources">Pse…</string>
     <string name="villager_text_hello_21" tools:ignore="UnusedResources">Wow!</string>
     <string name="villager_text_hello_22" tools:ignore="UnusedResources">Oh!</string>
     <string name="villager_text_hello_23" tools:ignore="UnusedResources">Eh!</string>
-    <string name="villager_text_hello_24" tools:ignore="UnusedResources">Hey!</string>
-    <string name="villager_text_hello_25" tools:ignore="UnusedResources">Howdy!</string>
-    <string name="villager_text_hello_26" tools:ignore="UnusedResources">What\'s up?</string>
-    <string name="villager_text_hello_27" tools:ignore="UnusedResources">What\'s up, adventurer?</string>
-    <string name="villager_text_hello_28" tools:ignore="UnusedResources">What\'s up, hero?</string>
-    <string name="villager_text_hello_29" tools:ignore="UnusedResources">Hi…</string>
-    <string name="villager_text_hello_30" tools:ignore="UnusedResources">Hello…</string>
+    <string name="villager_text_hello_24" tools:ignore="UnusedResources">Này!</string>
+    <string name="villager_text_hello_25" tools:ignore="UnusedResources">Chào bạn!</string>
+    <string name="villager_text_hello_26" tools:ignore="UnusedResources">Có chuyện gì không?</string>
+    <string name="villager_text_hello_27" tools:ignore="UnusedResources">Thế nào rồi, người phiêu lưu?</string>
+    <string name="villager_text_hello_28" tools:ignore="UnusedResources">Thế nào rồi, anh hùng?</string>
+    <string name="villager_text_hello_29" tools:ignore="UnusedResources">Chào…</string>
+    <string name="villager_text_hello_30" tools:ignore="UnusedResources">Xin chào…</string>
     <string name="villager_text_hello_31" tools:ignore="UnusedResources">…</string>
-    <string name="villager_text_hello_32" tools:ignore="UnusedResources">Well…</string>
-    <string name="villager_text_hello_33" tools:ignore="UnusedResources">So…</string>
-    <string name="villager_text_hello_34" tools:ignore="UnusedResources">What\'s new?</string>
-    <string name="villager_text_hello_35" tools:ignore="UnusedResources">G\'day!</string>
-    <string name="villager_text_hello_36" tools:ignore="UnusedResources">Yo!</string>
-    <string name="villager_text_hello_37" tools:ignore="UnusedResources">Hello.</string>
-    <string name="villager_text_hello_38" tools:ignore="UnusedResources">Hi.</string>
-    <string name="villager_text_hello_39" tools:ignore="UnusedResources">Hey.</string>
+    <string name="villager_text_hello_32" tools:ignore="UnusedResources">Vậy…</string>
+    <string name="villager_text_hello_33" tools:ignore="UnusedResources">Thì…</string>
+    <string name="villager_text_hello_34" tools:ignore="UnusedResources">Có gì mới không?</string>
+    <string name="villager_text_hello_35" tools:ignore="UnusedResources">Chào buổi sáng!</string>
+    <string name="villager_text_hello_36" tools:ignore="UnusedResources">Êy!</string>
+    <string name="villager_text_hello_37" tools:ignore="UnusedResources">Xin chào.</string>
+    <string name="villager_text_hello_38" tools:ignore="UnusedResources">Chào.</string>
+    <string name="villager_text_hello_39" tools:ignore="UnusedResources">Này.</string>
     <string name="villager_text_hello_40" tools:ignore="UnusedResources" />
 
 
     <string name="villager_i_need_help">
         <![CDATA[
-    I need help with something…\n
-    Can I ask you for a favor?\n
-    I\'d be grateful if you could help me…\n
-    Could you help me with something?\n
-    You look like someone who can help!\n
-    If you aren\'t busy, I\'d need something from you…\n
-    Could you please help?\n
-    Could you please help me?\n
-    My family and I would be grateful if you could help us…\n
-    My family and I need something…\n
+    Tôi cần giúp với việc này…\n
+    Tôi có thể hỏi bạn một việc không?\n
+    Thật tốt nếu như bạn giúp tôi…\n
+    Bạn có thể giúp mình việc này không?\n
+    Bạn nhìn như bạn có thể giúp tôi đó!\n
+    Nếu cậu không bận, tớ cần cậu giúp cái này ứng…\n
+    Bạn có thể giúp được không?\n
+    Bạn làm ơn giúp tôi chứ?\n
+    Tôi và gia đình tôi sẽ rất cảm phục nếu bạn giúp chúng tôi...\n
+    Tôi và gia đình tôi cần cái này…\n
     There\'s something I need…\n
     Would you be so kind to help me?\n
     Could you help me out?\n
