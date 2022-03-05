@@ -1633,8 +1633,8 @@
     <string name="witch_not_enough_mushrooms">Tu n\'as pas assez de &font_mushroom;champignons&font_end;…</string>
 
     <string name="wizard_tower_dialog_message_1">Vous entrez dans la %1$s et trouves un vieux &font_mana;Sorcier&font_end;…</string>
-    <string name="wizard_tower_dialog_message_2">Bienvenue dans notre %1$s… Voudrais-tu devenir un &font_mana;Sorcier &font_end;comme moi ?</string>
-    <string name="wizard_tower_dialog_message_2_already_given">Bienvenue dans notre %1$s… Ah… c\'est toi… Je t\'ai déjà donné mon livre de &font_mana;sorts &font_end;… tu dois apprendre par toi même désormais…</string>
+    <string name="wizard_tower_dialog_message_2">Bienvenue dans mon humble %1$s… Voudrais-tu devenir un &font_mana;Sorcier &font_end;comme moi ?</string>
+    <string name="wizard_tower_dialog_message_2_already_given">Un visiteur venant dans ma %1$s ? Ah… c\'est toi… Je t\'ai déjà donné mon livre de &font_mana;sorts &font_end;… tu dois apprendre par toi même désormais…</string>
     <string name="wizard_tower_dialog_message_3_no">Eh bien partez et ne me faites pas perdre mon temps !</string>
     <string name="wizard_tower_dialog_message_3_yes">Hahaha ! Et tu penses avoir ce qu\'il faut pour en devenir un ?</string>
     <string name="wizard_tower_dialog_message_4_no">Alors, qu\'est ce que vous faites là ? Vous gaspillez mon temps !</string>
@@ -2189,18 +2189,18 @@
     <string name="main_story_7_advice_before_sail_message">Vous êtes sûr ? Il se pourrait que vous n\'y reveniez jamais…</string>
     <string name="monster_thetyrant">Le Tyran</string>
     <string name="main_story_7_the_tyrant_message_1">S\'il vous plaît, arrêtez ! Je me rends !</string>
-    <string name="main_story_7_the_tyrant_message_2">Je ne faisais que suivre des ordres… Il… il m\'a dit qu\'il me tuerait si je ne suivais pas ses ordres…</string>
+    <string name="main_story_7_the_tyrant_message_2">Je ne faisais que suivre les ordres… Il… il m\'a dit qu\'il me tuerait si je ne l'obéissais pas…</string>
     <string name="main_story_7_the_tyrant_message_2_button">Qui ça ?</string>
-    <string name="main_story_7_the_tyrant_message_3">Je peux pas le dire… Bon… tu allais me tuer de toute façon… donc…</string>
+    <string name="main_story_7_the_tyrant_message_3">Je peux pas le dire… Enfin… tu m\'a épargné… donc…</string>
     <string name="main_story_7_the_tyrant_message_4">Il n\'a pas de nom… C\'est… &font_red;le Diable&font_end;…</string>
-    <string name="main_story_7_the_tyrant_message_5">Il est en &font_red;Enfer&font_end;…</string>
-    <string name="main_story_7_the_tyrant_message_6">Je te donnerai cette &font_cyan;Carte Nautique&font_end; pour atteindre &font_red;l\'Enfer&font_end;…</string>
-    <string name="main_story_7_the_tyrant_message_7">Je te conseille d\'y aller préparé. La &font_red;Lave &font_end;et &font_red;l\'Enfer &font_end;en général te fera mal, et les monstres là-bas n\'ont rien à voir avec les miens…</string>
+    <string name="main_story_7_the_tyrant_message_5">Il est donc en &font_red;Enfer&font_end;…</string>
+    <string name="main_story_7_the_tyrant_message_6">Voici une &font_cyan;Carte &font_end; pour trouver &font_red;l\'Enfer&font_end;…</string>
+    <string name="main_story_7_the_tyrant_message_7">Je te conseille d\'y aller préparé. La &font_red;Lave &font_end;et &font_red;le Feu &font_end;te fera mal, et les monstres là-bas n\'ont rien à voir avec les miens…</string>
     <string name="main_story_7_the_tyrant_message_8">Bonne chance, et si on te pose la question, je ne t\'ai rien dit !</string>
     <string name="tyrant_disappears">&font_red;Le Tyran&font_end; disparaît…</string>
     <string name="main_story_7_ship_is_back">Ton &font_wood;Navire&font_end; est de retour…</string>
     <string name="main_story_7_the_tyrant_pre_combat_message_1">Hein ? Qu\'est-ce que tu fais ici, toi ?</string>
-    <string name="main_story_7_the_tyrant_pre_combat_message_2">Ahaha ! Voyons voir combien de temps tu survis jusqu\'à JE TE TUE !</string>
+    <string name="main_story_7_the_tyrant_pre_combat_message_2">Ahaha ! Voyons voir combien de temps tu tiendras toi !</string>
     <string name="main_story_7_the_tyrant_pre_combat_message_button">Vous tuer</string>
     <string name="main_story_8">Va en &font_hell;Enfer&font_end; et tue le &font_hell;Diable&font_end; !</string>
     <string name="main_story_8_advice_before_sail_title">Voyager jusqu\'à &font_cyan;l\'Île&font_end; de &font_red;l\'Enfer&font_end;
@@ -2615,7 +2615,7 @@
     <string name="dark_orb_gate_open">Le &font_gate;portail sombre &font_end;s\'ouvre soudainement sous vos yeux, une quantité importante d\'&italic;énergie sombre &italic_end;en émane…</string>
 
     <string name="void_master_after_killing_text">En me tuant, tu condamne tous les mortels, toi y compris… Prépare toi à ce que les monstres du &font_void;néant &font_end;commencent à apparaitre dans ton monde…</string>
-    <string name="void_master_after_killing_text_2">Encore toi… ? Pour dire vrai… Je suis surpris que tu tienne le coup face à mes monstres du &font_void;néant &font_end;éparpillés dans le monde… On se reverra…</string>
+    <string name="void_master_after_killing_text_2">Encore toi… ? à vrai dire… Je suis surpris que tu tienne le coup face à mes monstres du &font_void;néant &font_end;éparpillés dans le monde… On se reverra…</string>
     <string name="void_master_after_killing_text_3">Bien, bien… Je vois que tu portes un set complet du &font_void;néant&font_end;… Pour l\'instant, je ne peux rien t\'offrir d\'autre… Mais reviens une autre fois et je te donnerais quelque chose dont tu as besoin…</string>
 
     <string name="your_ship_appears_magically">Votre &font_wood;navire &font_end;apparaît comme par magie…</string>
@@ -2883,17 +2883,17 @@
     <string name="race_lizard">&font_yellow;Lézard&font_end;</string>
     <string name="race_unknown">&font_white;Inconnu&font_end;</string>
 
-    <string name="race_human_desc">La plus polyvalente et flexible des races communes. Leur force réside en un esprit capable du bien comme du mal. Ils sont équilibrés pour le combat et la magie. Ils ont une connaissance innée de la fabrication et sont des explorateurs-nés.</string>
+    <string name="race_human_desc">La plus polyvalente et flexible des races communes. Leur force réside en un esprit capable du bien comme du mal. Ils sont équilibrés pour le combat et la magie. Ils ont une connaissance innée pour la fabrication et sont des explorateurs-nés.</string>
     <string name="race_dwarf_desc">Intéressés uniquement par les mines et la bière, ils sont habitués à vivre sous terre. Mais suite à l\'expansion du mal, ils ont commencés à explorer le monde et marcher dans les pas de leurs légendaires ancètres. Ils sont une des races les plus robustes, avec de bonnes compétences de minage et sont également les seuls à savoir confectionner de la bière.</string>
     <string name="race_halfling_desc">Bien qu\'ils soient apparus dans bon nombres de livres et de contes, les personnes en ayant vus de leur vivant se comptent sur les doigts de la main. Les Halfelins sont paisibles et vivent dans leurs villages cachés. Ils cuisinent, mangent, lisent des histoires datant de la première ère, et vivent toutes sortes d\'aventures dans leur rêves. Depuis que le mal s\'est répandu autour du monde, certains des Halfelins les plus courageux sont partis en quête d\'aventure, à la manière de ceux décrits dans les livres qu\'ils avaient l\'habitude de lire.</string>
     <string name="race_gnome_desc">Ils prennent plaisir à vivre et savourent chaque instant où ils créent des inventions, explorent et étudient l\'inconnu. Ils étaient généralement concentrés sur leurs inventions, mais certains Gnomes courageux se sont lancés dans une aventure autour du globe.</string>
     <string name="race_elf_desc">Les Elfes sont des créatures magiques possédant une grâce inégalable. Ils vivent dans ce monde mais n\'en font pas totalement parti. Egoïstes et égocentriques, la présence du mal de plus en plus importante rend leur avenir incertain. Ils ont ainsi commencés à être plus présents dans le monde afin d\'atteindre la délivrance.</string>
-    <string name="race_drow_desc">Generally known as the evil version of the regular elves. They are extremely intelligent, charismatic and dexterous, but share surface elves\' comparative frailty and slight frames. They are characterized by white or silver hair and obsidian black skin.</string>
-    <string name="race_undead_desc">Once living humans brought to life in a horrifying state of undeath through the practice of necromantic magic. They have great strength and intelligence but lack of speed. Their hunger increases faster than the other races, but they can eat corpses to restore Mana, Hunger, and Health.</string>
-    <string name="race_orc_desc">Bestial and savage, orcs band together as trıbes, living on hunting and raiding. As lovers of war, they have found a great enemy in the evil that has recently spread around the world. They have started to relate to other races with whom they had only spoken in the language of weapons and magic not so long ago.</string>
-    <string name="race_lizard_desc">They are semi-aquatic reptilian humanoids. Their skin was covered in scales and varied in color from dark green through to shades of brown and gray. The most brave of them have been travelling around the world, finding other places to expand their lifes and be able to help in the destruction of evil.</string>
-    <string name="race_unknown_desc">A strange being who no one has ever seen before. Balanced, smart, and able to adapt to any situation, their purpose in life is a mystery.</string>
-    <string name="race_attributes">Attribus</string>
+    <string name="race_drow_desc">Généralement moins populaire que les elfes normaux due a une réputation bancale. Ils sont extrêmement intelligent, charismatique et adroit de leurs mains, mais ils sont tout aussi chétif que leurs compères. Ils sont charactérisé par des cheveux plutot clair/argenté et une peau aux couleurs de la nuit.</string>
+    <string name="race_undead_desc">Réssuscités il y a peu lors d'une expérience catastrophique, ils furent autrefois des humains. Gardant leurs forces et leurs intelligences, ils sont néanmoins beaucoup plus lent maintenant. Ils ont aussi beaucoup plus faim que leurs compères vivant, mais sont capable de manger des corps pour se rassasier, mais aussi pour regagner de la mana, et de la vie.</string>
+    <string name="race_orc_desc">Béstial et sauvage, les orcs préfèrent se regrouper et former des tribus, leurs activités principales sont la chasse et les raids. Adorateurs de conflits, lorsqu'un mal commença à se répandre ils ont tous joyeusement pris leurs armes. Ils ont aussi commencé à s'entendre avec les autres races jusqu'à ce que l'ennemi commun soit anéanti.</string>
+    <string name="race_lizard_desc">Ce sont des reptiles ancêtre des poissons. Leurs peaux est couverte d'écaille aux couleurs variés, allant du vert foncé au marron avec des dégradés grisés. Les plus braves ont voyagé partout dans l'espoir que leur race puisse s'étendre, afin de mieux combattre le mal.</string>
+    <string name="race_unknown_desc">Un étranger aux yeux de tous. Intelligent, il peut s'adapter à toutes les situations, leurs buts dans la vie est un mystère.</string>
+    <string name="race_attributes">Attributs</string>
     <string name="race_traits">Caractéristiques</string>
 
     <string name="race_attributes_with_numbers">Att. : &font_attack;%1$s &font_end;Def. : &font_defense;%2$s&font_end;&br;Int. : &font_mana;%3$s &font_end;Vit. : &font_speed;%4$s&font_end;</string>
@@ -2907,7 +2907,7 @@
     <string name="skill_natural_explorer_description">Peut voir les cases alentour en se déplaçant, rendant l\'exploration plus aisée.</string>
 
     <string name="human_traits">&font_cyan;* &font_end;Démarre avec des connaissances de fabrication basiques.&br;&br;&font_cyan;* &font_end;Démarre avec un peu de &font_food;nourriture&font_end;.&br;&br;&font_cyan;Explorateur-né&font_end; : Peut voir les cases alentours en se déplaçant, ce qui facilite l\'exploration.</string>
-    <string name="dwarf_traits">&font_cyan;* &font_end;Démarre avec une &font_silver;pioche&font_end;.&br;&br;&font_cyan;Forgeron&font_end; : Augmente les chances de fabriquer de meilleurs arems, boucliers ou armures. (Niveau &font_cyan;%1$d&font_end;).&br;&br;&font_cyan;Maître &font_end;&font_gold;brasseur &font_end;: Peut fabriquer des &font_gold;bières &font_end;et des &font_gold;bières &font_end;&font_epic;épiques&font_end;
+    <string name="dwarf_traits">&font_cyan;* &font_end;Démarre avec une &font_silver;pioche&font_end;.&br;&br;&font_cyan;Forgeron&font_end; : Augmente les chances de fabriquer de meilleurs armes, boucliers ou armures. (Niveau &font_cyan;%1$d&font_end;).&br;&br;&font_cyan;Maître &font_end;&font_gold;brasseur &font_end;: Peut fabriquer des &font_gold;bières &font_end;et des &font_gold;bières &font_end;&font_epic;épiques&font_end;
         (et démarre avec les matériaux nécessaires pour faire de la &font_gold;bière&font_end;).</string>
     <string name="halfling_traits">&font_food;Gourmand&font_end; : Augmente la faim max., permet de résister plus longtemps sans manger.&br;&br;&font_food;Gourmet&font_end; : Augmente la faim restaurée en mangeant.&br;&br;&font_cyan;Discret&font_end; : Réduit les chances d\'être attaqué par un &font_red;monstre &font_end;de &font_cyan;33 &font_end;%.</string>
     <string name="gnome_traits">&font_wood;Espace gnomique&font_end; : Augmente la taille de l\'inventaire de &font_cyan;10&font_end;.&br;&br;&font_bomb;Bomberman&font_end; : Démarre avec un peu de &font_gunpowder;Poudre à canon&font_end;, divers &font_bomb;bombes &font_end;et des recettes pour les fabriquer.&br;&br;&font_cyan;Perspicace&font_end; : Détecte s\'il y a quelque-chose de caché et peut utiliser &font_cyan;recherche &font_end;pour le trouver.</string>
@@ -3171,7 +3171,7 @@
     <string name="island_arrival_type_ooze">Vous découvrez une île. Il ne semble y avoir rien dans les parages, mais quelque chose vous dit que cette impression est fausse.</string>
     <string name="island_arrival_type_aberration">Vous découvrez une île. Cette île n\'a rien d\'habituel. Vous sentez que d\'imposants monstres hideux y ont établi domicile.</string>
 
-    <string name="island_arrival_type_tyrant">Au moment où vous posez le pied sur cette île, vous ressentez des frissons et réalisez que ce ne sera pas de tout repos.</string>
+    <string name="island_arrival_type_tyrant">Au moment où vous posez le pied sur cette île, des frissons vous parcourent le bas du dos et vous réalisez que ce ne sera pas de tout repos.</string>
     <string name="island_arrival_type_hell">De la lave et du feu à perte de vue. C\'est littéralement l\'Enfer. Le lieu dégage une odeur de soufre et vous sentez la présence de nombreux êtres démoniaques.</string>
     <string name="island_arrival_type_heaven">Les nuages, l\'air frais recouvrant ce lieu… Vous avez le sentiment que c’est l’endroit le plus dangereux que vous ayez jamais visité.</string>
 
@@ -3284,7 +3284,7 @@
 
     <string name="item_info_creator_medal">C\'est une médaille éblouisante que vous gardez en mémoire de la fois où vous avez vaincu &font_asterisk_creator;le Créateur&font_end;.</string>
 
-    <string name="wise_main_story_island_first_message">Bonjour, héros ! Je serais ici en cas de besoin !&br;&br;Parle-moi si vous voulez vous reposer ou quitter cet endroit…</string>
+    <string name="wise_main_story_island_first_message">Bonjour, héros ! Je serai ici en cas de besoin !&br;&br;Parlez-moi si vous voulez vous reposer ou quitter cet endroit…</string>
     <string name="wise_main_story_island_second_message">Voulez-vous restaurer votre &font_health;vie&font_end;, votre &font_mana;mana &font_end;et votre &font_hunger;faim &font_end;pour &font_gold;%1$d d\'or&font_end; ? (Un &font_primary_light;&italic;[POINT DE SAUVEGARDE] &italic_end;&font_end;sera enregistré)&br;&br;Ou alors…&br;&br;Voulez-vous quitter cet endroit ? L\'île disparaîtra pour toujours et vous perdrez la moitié de l\'&font_gold;or &font_end;que vous transportez et qui se trouve dans la &font_gold;BANQUE&font_end;, et vous devrez à nouveau chercher les &font_cyan;morceaux de carte&font_end;.</string>
     <string name="wise_leave_island_confirmation_message">Êtes-vous sûr de vouloir partir ?&br;&br;l\'île disparaîtra pour toujours et vous perdrez la moitié de l\'&font_gold;or &font_end;que vous transportiez et qui se trouve dans la &font_gold;BANQUE&font_end;, et vous devrez à nouveau chercher les &font_cyan;morceaux de carte&font_end;.</string>
 
@@ -3296,9 +3296,9 @@
 
     <string name="creator_pre_combat_message_1">Vous savez… Ce n\'est pas facile d\'être &font_asterisk_creator;le créateur&font_end;… Toujours là à coder, à ajouter de plus grands défis, à corriger les bugs, à répondre aux emails, à discuter sur discord, reddit, sur le web, etc…</string>
     <string name="creator_pre_combat_message_2">Et tout ça pour quoi ? Dites-moi, pourquoi devrais-je faire tout cela ? Je ne peux plus supporter la pression… !</string>
-    <string name="creator_pre_combat_message_3">PRÉPAREZ-VOUS À MOURIR ! Mmmmmwwwwahahahahahahaha !</string>
+    <string name="creator_pre_combat_message_3">PRÉPAREZ-VOUS À MOURIR ! MMMMWHAHAHAHAHA !</string>
 
-    <string name="void_master_after_killing_text_4">Eh bien… Vous portez un set complet du &font_void;Néant&font_end;… Voilà pour vous. Vous saurez quoi en faire en temps voulu…</string>
+    <string name="void_master_after_killing_text_4">Eh bien… Vous portez un set complet du &font_void;Néant&font_end;… Une récompense est mérité, vous saurez quoi en faire en temps voulu…</string>
 
     <string name="dungeon_infinite_vortex">&font_void;Vortex &font_end;&font_infinity;infini&font_end;</string>
     <string name="collection_tiles">Cases</string>
@@ -3566,7 +3566,7 @@
     <string name="wooden_sign_info">Utilisez ça pour créer un &font_wood;panneau en bois &font_end;et écrire des notes dessus. Il sera montré sur la map comme un &font_wood;X&font_end;.</string>
 
     <string name="button_blacksmith_ask_about_material_tiers">Demander des informations à propos de l\'&font_cyan;ordre de rareté&font_end;des &font_wood;matériaux&font_end;</string>
-    <string name="blacksmith_material_tiers_message">Oh, vous voulez connaître l\'odre de rareté des matériaux ? Le voici :&br;&br;&font_wood;bois &font_end;-> &font_leather;cuir &font_end;-> &font_copper;cuivre &font_end;-> &font_tin;étain &font_end;-> &font_iron;fer &font_end;-> &font_bronze;bronze &font_end;-> &font_silver;argent &font_end;-> &font_gold;or &font_end;-> &font_diamond;diamant &font_end;-> &font_obsidian;obsidienne &font_end;&br;&br;Il existe d\'autres matériaux encore plus rares mais il me paraît presque impossible que tu les découvre…</string>
+    <string name="blacksmith_material_tiers_message">Oh, vous voulez connaître l\'ordre de rareté des matériaux ? Alors habituellement c'est :&br;&br;&font_wood;bois &font_end;-> &font_leather;cuir &font_end;-> &font_copper;cuivre &font_end;-> &font_tin;étain &font_end;-> &font_iron;fer &font_end;-> &font_bronze;bronze &font_end;-> &font_silver;argent &font_end;-> &font_gold;or &font_end;-> &font_diamond;diamant &font_end;-> &font_obsidian;obsidienne &font_end;&br;&br;Il existe d\'autres matériaux encore plus rares mais il me paraît presque impossible que tu les découvre…</string>
     <string name="button_sort_by_can_craft">Trier (peux fabriquer)</string>
     <string name="crafting_filter_can_craft">Peux fabriquer</string>
 
