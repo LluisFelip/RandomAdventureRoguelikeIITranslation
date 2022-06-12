@@ -3906,4 +3906,14 @@
     <string name="skill_elven_magic_description">Have extra &font_mana;mana &font_end;(&font_cyan;+25&font_end;)</string>
     <string name="skill_vision_description">Have extended sight in dungeons without needing a &font_red;Torch&font_end;.</string>
 
+    <string name="tile_content_type_black_hole">&font_ash;Black Hole&font_end;</string>
+    <string name="black_hole_no_interaction_message">It\'s a &font_ash;Black Hole &font_end;which seems ready to absorb anything… It\'s better to not touch it…</string>
+    <string name="black_hole_not_enough_flame">Your &asterisk_ascend_color;Ascension &font_end;&font_red;Flame &font_end;seems to shine stronger when you approach this &font_ash;Black Hole &font_end;…</string>
+    <string name="black_hole_not_enough_flames">Your &asterisk_ascend_color;Ascension &font_end;&font_red;Flames &font_end;seem to shine stronger when you approach this &font_ash;Black Hole &font_end;…</string>
+    <string name="black_hole_enough_flame">Your &asterisk_ascend_color;Ascension &font_end;&font_red;Flames &font_end;seem to shine stronger when you approach this &font_ash;Black Hole&font_end;…&br;&br;The &font_ash;Black Hole &font_end;is asking for your &asterisk_ascend_color;Ascension &font_end;&font_red;Flames&font_end;… do you want to throw them inside?</string>
+    <string name="achievement_desc_black_hole">Throw all your &asterisk_ascend_color;Ascension &font_end;&font_red;Flames &font_end;into a &font_ash;Black Hole&font_end;!</string>
+    <string name="title_the_black_hole">%1$s, the &font_ash;Black Hole&font_end;</string>
+    <string name="black_hole_disappears">The Black Hole disappears and with it, your Ascension Flames… but you notice your body has changed somehow…</string>
+    <string name="status_black_hole_level">&font_ash;Black Hole &font_end;&font_cyan;level&font_end;&font_white;: &font_end;&font_red;%1$d&font_end;</string>
+
 </resources>
