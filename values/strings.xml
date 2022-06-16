@@ -3915,5 +3915,7 @@
     <string name="title_the_black_hole">%1$s, the &font_ash;Black Hole&font_end;</string>
     <string name="black_hole_disappears">The Black Hole disappears and with it, your Ascension Flames… but you notice your body has changed somehow…</string>
     <string name="status_black_hole_level">&font_ash;Black Hole &font_end;&font_cyan;level&font_end;&font_white;: &font_end;&font_red;%1$d&font_end;</string>
+    <string name="island_fix_title">Creator</string>
+    <string name="island_fix_message">Attention, hero… There seemed to be a glitch in this world and the last island you travelled to, and had to teleport you to your initial island to avoid you being destroyed forever…&br;&br;Forgive the gods and myself for this issue, I hope everything else is fine!</string>
 
 </resources>
