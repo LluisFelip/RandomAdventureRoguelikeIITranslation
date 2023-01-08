@@ -32,7 +32,7 @@
 
 
     <string name="menu_new_game">Neues Spiel</string>
-    <string name="menu_continue_button">&font_cyan;Fortsetzen&font_end;&br;%1$s [&font_cyan;%2$d&font_end;]</string>
+    <string name="menu_continue_button">&font_cyan;Fortsetzen&font_end;&br;%1$s &font_cyan;%2$s&font_end;</string>
     <string name="menu_cemetery">Friedhof</string>
     <string name="menu_collection">Sammlung</string>
     <string name="menu_achievements">Erungenschaften</string>

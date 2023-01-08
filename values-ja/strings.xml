@@ -147,7 +147,7 @@
 
 
     <string name="menu_new_game">New Game</string>
-    <string name="menu_continue_button">&font_cyan;Continue&font_end;&br;%1$s [&font_cyan;%2$d&font_end;]</string>
+    <string name="menu_continue_button">&font_cyan;Continue&font_end;&br;%1$s &font_cyan;%2$s&font_end;</string>
     <string name="menu_cemetery">Cemetery</string>
     <string name="menu_collection">Collection</string>
     <string name="menu_achievements">Achievements</string>

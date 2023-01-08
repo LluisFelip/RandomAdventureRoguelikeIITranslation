@@ -146,7 +146,7 @@
 
 
     <string name="menu_new_game">Novo Jogo</string>
-    <string name="menu_continue_button">&font_cyan;Continuar&font_end;&br;%1$s [&font_cyan;%2$d&font_end;]</string>
+    <string name="menu_continue_button">&font_cyan;Continuar&font_end;&br;%1$s &font_cyan;%2$s&font_end;</string>
     <string name="menu_cemetery">Cemitério</string>
     <string name="menu_collection">Coleção</string>
     <string name="menu_achievements">Conquistas</string>
