@@ -147,7 +147,7 @@
 
 
     <string name="menu_new_game">새로운 게임</string>
-    <string name="menu_continue_button">이어하기&br;&font_cyan;%1$s&font_end; &font_cyan;%2$s&font_end;</string>
+    <string name="menu_continue_button">이어하기&br;&font_cyan;%1$s&font_end; [&font_cyan;%2$d&font_end;]</string>
     <string name="menu_cemetery">묘지</string>
     <string name="menu_collection">수집품</string>
     <string name="menu_achievements">업적들</string>

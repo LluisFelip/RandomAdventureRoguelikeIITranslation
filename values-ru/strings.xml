@@ -128,7 +128,7 @@
     </plurals>
 
     <string name="menu_new_game">Новая игра</string>
-    <string name="menu_continue_button">&font_cyan;Продолжить&font_end;&br;%1$s &font_cyan;%2$s&font_end;</string>
+    <string name="menu_continue_button">&font_cyan;Продолжить&font_end;&br;%1$s [&font_cyan;%2$d&font_end;]</string>
     <string name="menu_cemetery">Чистилище</string>
     <string name="menu_collection">Коллекция</string>
     <string name="menu_achievements">Достижения</string>

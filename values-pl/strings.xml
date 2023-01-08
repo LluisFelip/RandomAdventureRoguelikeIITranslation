@@ -128,7 +128,7 @@
     </plurals>
 
     <string name="menu_new_game">Nowa gra</string>
-    <string name="menu_continue_button">&font_cyan;Kontynuuj&font_end;&br;%1$s &font_cyan;%2$s&font_end;</string>
+    <string name="menu_continue_button">&font_cyan;Kontynuuj&font_end;&br;%1$s [&font_cyan;%2$d&font_end;]</string>
     <string name="menu_cemetery">Cmentarz</string>
     <string name="menu_collection">Leksykon</string>
     <string name="menu_achievements">Osiągnięcia</string>
