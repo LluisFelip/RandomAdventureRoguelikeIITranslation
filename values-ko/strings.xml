@@ -167,14 +167,14 @@
     <string name="select_game_slot_asterisc_void_master_killed">&font_asterisk_void_master;&bold;\*&bold_end;&font_end;</string>
     <string name="select_game_slot_asterisc_ascended">&font_alchemist;&bold;\*&bold_end;&font_end;</string>
     <string name="select_game_slot_asterisc_met_the_creator">&font_asterisk_creator;&bold;\*&bold_end;&font_end;</string>
-    <string name="select_game_slot_erase_game_title">슬롯 삭제?</string>
+    <string name="select_game_slot_erase_game_title">해당 슬롯을 삭제하시겠습니까?</string>
 
     <string name="text_update_available_title">업데이트가 있습니다</string>
     <string name="text_update_available_message">새로운 버전을 사용가능합니다!</string>
     <string name="text_update_available_positive">업데이트</string>
     <string name="text_update_available_cancel">취소</string>
 
-    <string name="game_over_rank_top">당신은 묘지에서 상위 &font_cyan;#%d&font_end;등 입니다!</string>
+    <string name="game_over_rank_top">묘지 랭킹 상위 &font_cyan;#%d&font_end;등 입니다!</string>
     <string name="game_over_rank_rest">당신은 묘지에서 &font_cyan;#%d&font_end;등 입니다.</string>
 
     <string name="welcome_message_title">환영합니다</string>
