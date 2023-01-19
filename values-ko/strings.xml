@@ -278,8 +278,8 @@
     <string name="button_buy">구매</string>
     <string name="button_complete">완료</string>
     <string name="button_back">뒤로가기</string>
-    <string name="button_ok">수락</string>
-    <string name="button_no">거절</string>
+    <string name="button_ok">예</string>
+    <string name="button_no">아니오</string>
     <string name="button_give">건네기</string>
     <string name="button_bye">떠나기</string>
     <string name="button_quaff">벌컥이기</string>
@@ -290,7 +290,7 @@
     <string name="button_info">i</string>
     <string name="button_minus">-</string>
     <string name="button_open">열기</string>
-    <string name="button_catch">잡기</string>
+    <string name="button_catch">집기</string>
     <string name="button_sort_by_level">정렬 (레벨순)</string>
     <string name="button_sort_by_type">정렬 (타입별)</string>
     <string name="button_sort_by_az">정렬 (A-Z)</string>
@@ -428,7 +428,7 @@
     <string name="shop_sell_all_question">전부 판매?</string>
     <string name="shop_spell_already_known">&italic;이미 알고있는&font_cyan;주문&font_end;&italic_end;</string>
 
-    <string name="pause_menu_title">일시정지</string>
+    <string name="pause_menu_title">휴식</string>
     <string name="pause_menu_message">정말로 나가겠습니까?</string>
 
     <string name="settings_title">설정</string>
@@ -573,7 +573,7 @@
     <string name="materialsource_fish">낚시터</string>
     <string name="materialsource_insect">곤충</string>
 
-    <string name="tools_butchered_monster_corpse">%1$s을(를) 도살하였습니다!</string>
+    <string name="tools_butchered_monster_corpse">%1$s을(를) 도축하였습니다!</string>
     <string name="tools_used_tool">%1$s을(를) 사용하였습니다.</string>
     <string name="tools_repaired_tool">%1$s을(를) 수리하였습니다!</string>
     <string name="tool_chopping_axe">&font_wood;벌목&font_end; 도끼</string>
@@ -884,7 +884,7 @@
     <string name="combat_monster_dead_vanishes">%1$s은(는) 모래로 바뀌었습니다!</string>
     <string name="combat_monster_attacks">%1$s가 공격합니다!</string>
     <string name="combat_fight">전투</string>
-    <string name="combat_player_flee_fails">도망치려 실패했습니다 했지만…</string>
+    <string name="combat_player_flee_fails">도망치려했지만 실패했습니다…</string>
     <string name="combat_player_flee_succeeds">성공적으로 도망쳤습니다!</string>
     <string name="combat_killed_monster">%1$s을(를) 죽였습니다!</string>
     <string name="combat_player_is_dead"> &font_cyan;%1$s &font_end;은(는) &line_break;레벨&font_cyan;%2$d&font_end;에 죽었습니다!</string>
@@ -937,7 +937,7 @@
     <string name="villager_text_hello_39" tools:ignore="UnusedResources">거기.</string>
     <string name="villager_text_hello_40" tools:ignore="UnusedResources" />
 
-
+여기까지
     <string name="villager_i_need_help">
         <![CDATA[
     I need help with something…\n
@@ -2232,25 +2232,24 @@
 
     <string name="corpse_turns_to_dust">%1$s은(는) 먼지로 변했습니다…</string>
 
-    <string name="main_story_new_game_first_output">당신은 &font_cyan;%1$s&font_end;에 있는 &font_sand;해변&font_end;에서 눈을 떴습니다.</string>
+    <string name="main_story_new_game_first_output">당신은 &font_cyan;%1$s&font_end;에 있는 &font_sand;해변&font_end;에서 눈을 떴다.</string>
     <string name="main_story_1_dialog_title">눈을 뜨기</string>
-    <string name="main_story_1_dialog_message">영원할 것 같은 일이 있고난 후, 눈을 뜨고 일어서려 합니다.&br;&br;당신은 주위를 둘러보니 &font_sand;해변&font_end;에 있습니다. &font_wood;난파선&font_end;이 보입니다.&br;&br;얼마 지나지 않아, &font_cyan;어린 아이&font_end;가 당신을 지켜보고 있습니다.</string>
-    <string name="main_story_shipwreck_info">&font_wood;난파선&font_end;을 다시 항해 하게 만드는 것은 불가능해 보입니다.&br;&br;자세히 살펴보면 익숙한 것을 알 수 있습니다…</string>
-    <string name="main_story_young_boy_message_1">안… 안녕? 괜찮니? 놀고 있다가 정신을 잃은 널 발견했어…</string>
-    <string name="main_story_young_boy_message_2">너가 죽은줄 알고 놀랐어. 살아있어서 다행이야! 저건 너의 &font_wood;배&font_end;니?</string>
-    <string name="main_story_young_boy_message_3">음… 그래, 너는 휴식이 필요할 것 같아. 내 아빠는 &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end;.에 있는 &font_inn;여관&font_end;의 주인이야. 거기에 가서 쉬고, 필요한게 있으면 물어봐. 만나서 반가워!</string>
-    <string name="main_story_young_boy_runs_away">&font_cyan;어린 아이&font_end;는 도망갔습니다.</string>
-    <string name="main_story_1_giving_description">&font_sand;해변&font_end;에서 눈을 뜬 후, &font_cyan;어린 아이&font_end;는 &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end;에 있는 여관으로 가라고 말했습니다. 쉴 수 있고, 그의 아버지에게 말을 거세요.</string>
+    <string name="main_story_1_dialog_message">길고 길었던 시간이 지나고, 당신은 정신을 차렸다.&br;&br; 주위를 둘러보니 &font_sand;해변&font_end;에 있었다. 한 쪽에 &font_wood;난파선&font_end;이 보인다. &br;&br;잠시 뒤, 한 &font_cyan;아이&font_end;가 당신을 지켜보고 있다는 것을 깨달았다.</string>
+    <string name="main_story_shipwreck_info">&font_wood;난파선&font_end;으로 다시 항해에 나서는 것은 힘들어 보인다. &br;&br;자세히 보니 낯이 익은 것 같기도 하고…</string>
+    <string name="main_story_young_boy_message_1">아, 안녕하세요? 괜찮아요? 놀고 있다가 쓰러진 모험가님을 발견했어요…</string>
+    <string name="main_story_young_boy_message_2">죽은 줄 알고 엄청 놀랐지 뭐에요. 괜찮은가 보네요! 저건 타고 온 &font_wood;배&font_end;인가요?</string>
+    <string name="main_story_young_boy_message_3">아… 좀 휴식이 필요해 보이네요. 우리 아빠가 &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end;.에 있는 &font_inn;여관&font_end;의 주인이에요. 거기에 가서 내 이야기를 하면 재워줄 거에요. 그럼 이만!</string>
+    <string name="main_story_young_boy_runs_away">&font_cyan;아이&font_end;는 뛰어갔다.</string>
+    <string name="main_story_1_giving_description">&font_sand;해변&font_end;에서 눈을 뜬 후, 만난 &font_cyan;아이&font_end;는 &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end;에 있는 여관으로 가라고 말했다. 휴식을 취하러 그의 아버지에게 말을 걸자.</string>
     <string name="main_story_inn_owner_title">&font_inn;여관 주인&font_end;</string>
-    <string name="main_story_inn_dialog_1">안녕하세요! 저의 아들과 이야기 했나요? &font_wood;난파선&font_end;이요? 음… 당신은 피곤해 보이네요, 저의 &font_inn;여관&font_end;에서 쉬세요.</string>
-    <string name="main_story_inn_dialog_2">그나저나, 그 섬의 주민들은 최근에 정말 무서워 했다고 하더군요. 한가지 떠도는 이야기가 있는데, &font_cyan;%1$d&font_end;, &font_cyan;%2$d 에 있는 &font_cave;동굴&font_end;에서 &font_end;굉장히 무서운 &font_red;몬스터&font_end;가 산다고 하더군요.</string>
-    <string name="main_story_inn_dialog_3">섬의 &font_wood;목수&font_end;가 모험심이 넘쳐서 그곳에 갔다가 돌아오지 않고 있어요… 제발, 가능하다면 &font_red;몬스터&font_end;를 죽이고 그를 구출해주세요!</string>
+    <string name="main_story_inn_dialog_1">안녕하세요! 제 아들과 이야기를 나누었다구요? &font_wood;난파선&font_end;이요? 음… 꽤 피곤해 보이시네요, 이곳 &font_inn;여관&font_end;에서 좀 쉬시죠.</string>
+    <string name="main_story_inn_dialog_2">그나저나, 당신 조난 당했다지만 꽤 강해보이네요. 요즘 섬에 도는 어떤 소문이 있는데, &font_cyan;%1$d&font_end;, &font_cyan;%2$d 에 있는 &font_cave;동굴&font_end;에서 &font_end;굉장히 무서운 &font_red;몬스터&font_end;가 산다고 하더군요.</string>
+    <string name="main_story_inn_dialog_3">섬의 &font_wood;목수&font_end;가 모험심이 넘쳐서 그곳에 갔다가 돌아오지 않고 있어요… 부디, 가능하다면 &font_red;몬스터&font_end;를 죽이고 그를 구출해주세요!</string>
     <string name="main_story_inn_dialog_2_button">뭘 할 수 있을까?</string>
     <string name="main_story_1_stand_up_button">일어나기</string>
-    <string name="main_story_2">&font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end;
-        에 있는 &font_cave;동굴&font_end;에서 &font_red;몬스터&font_end;를 죽이고 &font_wood;늙은 목수&font_end;를 구하세요.</string>
+    <string name="main_story_2">&font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end; 에 있는 &font_cave;동굴&font_end;에서 &font_red;몬스터&font_end;를 죽이고 &font_wood;늙은 목수&font_end;를 구하자.</string>
     <string name="main_story_the_carpenter_1">구해줘서 고맙소! 여기서 죽는줄만 알았다오!</string>
-    <string name="main_story_the_carpenter_2">한자기 떠도는 이야기가 있는데, &font_red;폭군 &font_end;몬스터가 여기 있고 그것의 존재를 찾고있소…</string>
+    <string name="main_story_the_carpenter_2">한 가지 떠도는 이야기가 있는데, &font_red;폭군 &font_end;몬스터가 여기 있고 그것의 존재를 찾고있소…</string>
     <string name="main_story_the_carpenter_3">당신은 &font_red;폭군&font_end;이 누군줄 모르오? 오… 짧게 말하면: 그는 최근에 악이 전세계에 퍼진 이유라고 할 수 있소.</string>
     <string name="main_story_the_carpenter_4">그가 어디있는지 아무도 모르지만, 전설로 내려오는 이야기로는 진정한 영웅이 그를 물리칠 수 있을 것이라고 말하오…</string>
     <string name="main_story_the_carpenter_5">당신이 죽인 이 &font_red;몬스터&font_end;때문에 섬에 있는 모든 &font_wood;배&font_end;가 없어졌다오. 그가 다 부수었거든!</string>
@@ -2787,7 +2786,7 @@
     <string name="title_noble_female">%1$s, the &font_gold;Noble&font_end;</string>
     <string name="male">Man</string>
     <string name="female">Woman</string>
-    <string name="new_game_whats_your_sex">… and what is your sex?</string>
+    <string name="new_game_whats_your_sex">… 당신의 성별은?</string>
     <string name="title_unlocked">[Title unlocked: %1$s]</string>
     <string name="settings_show_player_title">Show title</string>
     <string name="settings_player_title">&font_cyan;Player Title&font_end;</string>
@@ -2965,9 +2964,9 @@
 
     <string name="food_fish_stick">&font_cyan;Fish &font_end;&font_wood;Stick&font_end;</string>
 
-    <string name="new_game_whats_your_race">… and what is your race?</string>
+    <string name="new_game_whats_your_race">… 당신의 종족은?</string>
 
-    <string name="race_human">&font_cyan;Human&font_end;</string>
+    <string name="race_human">&font_cyan;인간&font_end;</string>
     <string name="race_dwarf">&font_red;Dwarf&font_end;</string>
     <string name="race_halfling">&font_speed;Halfling&font_end;</string>
     <string name="race_gnome">&font_green;Gnome&font_end;</string>
@@ -3128,7 +3127,7 @@
     <string name="weapon_skill_unarmed_fastfist_desc">Punches the enemy strongly. Always attacks first.</string>
     <string name="weapon_skill_unarmed_fastfist_attack">You push the enemy strongly!</string>
 
-    <string name="material_type_cartographer_stone">&font_cyan;Cartographer &font_end;&font_stone;Stone&font_end;</string>
+    <string name="material_type_cartographer_stone">&font_cyan;지도제작자 &font_end;&font_stone;돌&font_end;</string>
     <string name="world_info_empty">(No info added, use a &font_cyan;Cartographer &font_end;&font_stone;Stone &font_end;to add a text to an island)</string>
     <string name="button_plus">+</string>
     <string name="button_mark">Mark</string>
@@ -3534,11 +3533,11 @@
     <string name="tile_type_water">Water</string>
     <string name="settings_show_squares_map">Show squares in map</string>
 
-    <string name="island_remove_mark">Remove Mark</string>
-    <string name="island_remove_text">Remove Info</string>
+    <string name="island_remove_mark">마크 되돌리기</string>
+    <string name="island_remove_text">정보 되돌리기</string>
 
-    <string name="advantage_cartographer">&font_cyan;Cartographer&font_end;</string>
-    <string name="advantage_cartographer_desc">(You will start with an &font_cyan;Island &font_end;&font_gold;Map &font_end;and a random &font_cyan;Nautical Chart&font_end;)</string>
+    <string name="advantage_cartographer">&font_cyan;지도제작자&font_end;</string>
+    <string name="advantage_cartographer_desc">(당신은 무작위 &font_cyan;섬&font_end;의 &font_gold;지도&font_end;와 &font_cyan;해도&font_end;를 가지고 시작합니다.)</string>
 
     <string name="title_the_cartographer_male">%1$s, the &font_cyan;Cartographer&font_end;</string>
     <string name="title_the_cartographer_female">%1$s, the &font_cyan;Cartographer&font_end;</string>
