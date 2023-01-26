@@ -246,8 +246,8 @@
     <string name="cemetery_permadeath">(&font_red;P&font_end;)</string>
     <string name="cemetery_no_permadeath">(&font_green;NP&font_end;)</string>
 
-    <string name="button_permadeath">Permadeath</string>
-    <string name="button_no_permadeath">No Permadeath</string>
+    <string name="button_permadeath">단 한번의 생</string>
+    <string name="button_no_permadeath">여러 번의 생</string>
     <string name="button_start">시작</string>
     <string name="button_east">동쪽</string>
     <string name="button_south">남쪽</string>
@@ -278,7 +278,7 @@
     <string name="button_buy">구매</string>
     <string name="button_complete">완료</string>
     <string name="button_back">뒤로가기</string>
-    <string name="button_ok">예</string>
+    <string name="button_ok">확인</string>
     <string name="button_no">아니오</string>
     <string name="button_give">건네기</string>
     <string name="button_bye">떠나기</string>
@@ -1928,8 +1928,8 @@
     <string name="temple_explore_2_b_button_2">&font_cyan;버튼 2&font_end;</string>
     <string name="temple_explore_2_b_first_button_1">오! 당신은 나선형의 함정으로 미끄러져 내려갔습니다…</string>
     <string name="temple_explore_2_b_first_button_2">당신은 작은 방으로 떨어졌습니다. 그곳에는 &font_wood;나무 상자&font_end;가 있습니다. 열까요?</string>
-    <string name="temple_explore_2_b_first_button_open_yes">네</string>
-    <string name="temple_explore_2_b_first_button_open_no">아니오</string>
+    <string name="temple_explore_2_b_first_button_open_yes">열기</string>
+    <string name="temple_explore_2_b_first_button_open_no">놔두기</string>
     <string name="temple_explore_2_b_first_button_open_decide_to_open_1" tools:ignore="PluralsCandidate">당신은 &font_wood;나무 상자&font_end;를 열고&font_gold;%1$d 골드&font_end;를 얻었습니다!</string>
     <string name="temple_explore_2_b_first_button_open_decide_to_open_2">보상을 확인하던 도중에, 밖으로 나가는 창문 하나를 발견하였습니다. (어떻게 이것이 가능한가요? 나선형의 미끄럼틀로 떨어지고 있습니다!)</string>
     <string name="temple_explore_2_b_first_button_open_decide_to_open_3">당신은 창문을 통하여 밖으로 나갔습니다. 갑자기 어떤 바위들에 의해 입구가 막혔다는 것을 깨달았습니다. 그대로 놔두는게 좋아보이군요.</string>
@@ -2244,71 +2244,68 @@
     <string name="main_story_inn_owner_title">&font_inn;여관 주인&font_end;</string>
     <string name="main_story_inn_dialog_1">안녕하세요! 제 아들과 이야기를 나누었다구요? &font_wood;난파선&font_end;이요? 음… 꽤 피곤해 보이시네요, 이곳 &font_inn;여관&font_end;에서 좀 쉬시죠.</string>
     <string name="main_story_inn_dialog_2">그나저나, 당신 조난 당했다지만 꽤 강해보이네요. 요즘 섬에 도는 어떤 소문이 있는데, &font_cyan;%1$d&font_end;, &font_cyan;%2$d 에 있는 &font_cave;동굴&font_end;에서 &font_end;굉장히 무서운 &font_red;몬스터&font_end;가 산다고 하더군요.</string>
-    <string name="main_story_inn_dialog_3">섬의 &font_wood;목수&font_end;가 모험심이 넘쳐서 그곳에 갔다가 돌아오지 않고 있어요… 부디, 가능하다면 &font_red;몬스터&font_end;를 죽이고 그를 구출해주세요!</string>
+    <string name="main_story_inn_dialog_3">섬의 &font_wood;목수&font_end;가 모험심이 넘쳐서 그곳에 갔다가 돌아오지 않고 있어요… 부디, 가능하다면 &font_red;몬스터&font_end;를 죽이고 그를 구해주세요!</string>
     <string name="main_story_inn_dialog_2_button">뭘 할 수 있을까?</string>
     <string name="main_story_1_stand_up_button">일어나기</string>
     <string name="main_story_2">&font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end; 에 있는 &font_cave;동굴&font_end;에서 &font_red;몬스터&font_end;를 죽이고 &font_wood;늙은 목수&font_end;를 구하자.</string>
     <string name="main_story_the_carpenter_1">구해줘서 고맙소! 여기서 죽는줄만 알았다오!</string>
-    <string name="main_story_the_carpenter_2">한 가지 떠도는 이야기가 있는데, &font_red;폭군 &font_end;몬스터가 여기 있고 그것의 존재를 찾고있소…</string>
-    <string name="main_story_the_carpenter_3">당신은 &font_red;폭군&font_end;이 누군줄 모르오? 오… 짧게 말하면: 그는 최근에 악이 전세계에 퍼진 이유라고 할 수 있소.</string>
-    <string name="main_story_the_carpenter_4">그가 어디있는지 아무도 모르지만, 전설로 내려오는 이야기로는 진정한 영웅이 그를 물리칠 수 있을 것이라고 말하오…</string>
-    <string name="main_story_the_carpenter_5">당신이 죽인 이 &font_red;몬스터&font_end;때문에 섬에 있는 모든 &font_wood;배&font_end;가 없어졌다오. 그가 다 부수었거든!</string>
-    <string name="main_story_the_carpenter_5b">배가 있다면, &font_red;폭군&font_end;에 대한 정보를 찾고 내가 그를 무찌를것이오! (내가 너무 늙지만 않았다면…)</string>
-    <string name="main_story_the_carpenter_6">당신은 &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end;
-        에서 &font_wood;난파선&font_end;을 찾았다고 하지 않았소? 충분한 &font_wood;목재&font_end;를 가져다 준다면 고칠 수 있을것이오!</string>
+    <string name="main_story_the_carpenter_2">세상에 한 가지 떠도는 이야기 중에, &font_red;폭군&font_end;이라는 몬스터가 있소. 난 그것의 존재를 찾고있소…</string>
+    <string name="main_story_the_carpenter_3">당신은 &font_red;폭군&font_end;이 누군줄 모르오? 오… 짧게 말하면 놈은 최근에 악이 전세계에 퍼진 원인이라고 할 수 있소.</string>
+    <string name="main_story_the_carpenter_4">놈이 어디있는지 아무도 모르지만, 전설로 내려오는 이야기로는 진정한 영웅이 그를 물리칠 수 있을 것이라고 말하오…</string>
+    <string name="main_story_the_carpenter_5">당신이 죽인 이 &font_red;몬스터&font_end;때문에 섬에 있는 모든 &font_wood;배&font_end;가 없어졌다오. 그 썩을 놈이 다 부수었거든!</string>
+    <string name="main_story_the_carpenter_5b">배가 있다면, &font_red;폭군&font_end;에 대한 정보를 찾고 내가 그를 무찔렀을 것이오! (뭐, 이젠 너무 늙어버렸지만...)</string>
+    <string name="main_story_the_carpenter_6">당신은 &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end;에서 &font_wood;난파선&font_end;을 찾았다고 하지 않았소? 충분한 &font_wood;목재&font_end;를 가져다 준다면 고칠 수 있을것이오!</string>
     <string name="main_story_the_carpenter_7">여기, 나의 &font_wood;도끼&font_end;를 가져가시오! 당신은 &font_wood;나무&font_end;를 자르고 &font_wood;목재&font_end;를 얻을 수 있소.</string>
-    <string name="main_story_the_carpenter_8">좋소, 나는 &font_wood;목재&font_end;를 찾기 전까지 &font_wood;난파선&font_end;
-        근처에 있겠소! 내 생각으론 &font_cyan;5 &font_end;개면 충분할 것 같소. 나중에 보게나!</string>
+    <string name="main_story_the_carpenter_8">좋소, 나는 &font_wood;목재&font_end;를 찾기 전까지 &font_wood;난파선&font_end; 근처에 있겠소! 내 생각으론 &font_cyan;5 &font_end;개면 충분할 것 같소. 나중에 보게나!</string>
     <string name="main_story_the_carpenter_left">&font_wood;늙은 목수&font_end;는 떠났습니다…</string>
     <string name="main_story_the_carpenter_shipwreck_button">&font_wood;난파선&font_end;에 대해 이야기하기</string>
-    <string name="main_story_3">&font_wood;목재&font_end; &font_cyan;5&font_end; 개를 &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end;
-        에 있는 &font_wood;늙은 목수&font_end;에게 가져다 주고 &font_wood;난파선&font_end;을 고치세요!.</string>
+    <string name="main_story_3">&font_wood;목재&font_end; &font_cyan;5&font_end; 개를 &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end;에 있는 &font_wood;늙은 목수&font_end;에게 가져다 주고 &font_wood;난파선&font_end;을 고치자.</string>
     <string name="main_story_the_carpenter_second_dialog_1">반갑네! &font_wood;목재&font_end; &font_cyan;5 &font_end;개를 가져왔는가?</string>
-    <string name="main_story_the_carpenter_second_dialog_1_not_enough">오, 충분하지 않구만… 최소 &font_wood;목재&font_end; &font_cyan;5 &font_end;개를 가져다 주게나!</string>
+    <string name="main_story_the_carpenter_second_dialog_1_not_enough">오, 충분하지 않구만… 최소한 &font_wood;목재&font_end; &font_cyan;5 &font_end;개는 가져다 주었으면 하네!</string>
     <string name="main_story_the_carpenter_second_dialog_2">오, 좋구만! 바로 작업에 들어가겠네!</string>
-    <string name="main_story_the_carpenter_second_dialog_repairing_ship">&font_wood;늙은 목수&font_end;는 &font_wood;배&font_end;를 고치고 있습니다.</string>
-    <string name="main_story_the_carpenter_third_dialog_1">완벽해! 감이 죽지 않았군! 자네는 이제 다른 섬을 여행하면서 &font_red;폭군&font_end;에 대한 정보를 찾아주게! 행운을 빌게나, 그리고 모든 것이 고맙다네!</string>
-    <string name="main_story_the_carpenter_end_dialog">반갑네, 용사여! &font_red;폭군&font_end;을 찾는 퀘스트는 잘 되고 있는가?</string>
+    <string name="main_story_the_carpenter_second_dialog_repairing_ship">&font_wood;늙은 목수&font_end;가 &font_wood;배&font_end;를 고쳤다!</string>
+    <string name="main_story_the_carpenter_third_dialog_1">완벽해! 감이 죽지 않았군! 자네는 이제 다른 섬을 여행하면서 &font_red;폭군&font_end;에 대한 정보를 찾아보게! 행운을 빌지. 내 꿈을 이어줘서 고맙네!</string>
+    <string name="main_story_the_carpenter_end_dialog">반갑네, 용사여! &font_red;폭군&font_end;을 찾는 일은 잘 되고 있는가?</string>
     <string name="main_story_4">&font_red;폭군&font_end;에 대한 &font_cyan;단서&font_end; 찾기.</string>
-    <string name="main_story_5_dialog_message">&font_red;몬스터&font_end;가 수상한 &font_cyan;지도 조각&font_end;을 떨어뜨렸습니다. 당신은 이것이 정확하게 무엇인지 모르겠습니다. &font_cyan;지도학자&font_end;에게 무엇인지 물어봐야 합니다.</string>
-    <string name="main_story_5">&font_cyan;지도학자&font_end;에게 당신이 찾은 &font_cyan;지도 조각&font_end;에 대해 물어보세요. 이것은 확실하게 &font_red;폭군&font_end;의 행방에 대한 단서입니다.</string>
+    <string name="main_story_5_dialog_message">&font_red;몬스터&font_end;가 수상한 &font_cyan;지도 조각&font_end;을 떨어뜨렸다. 당신은 이것이 무엇인지 모르지만 &font_cyan;지도학자&font_end;라면 알지도 모른다.</string>
+    <string name="main_story_5">&font_cyan;지도학자&font_end;에게 &font_cyan;지도 조각&font_end;에 대해 물어보자. 이것은 분명 &font_red;폭군&font_end;에 대한 단서일 것이다.</string>
     <string name="shop_cartographer">지도학자</string>
     <string name="main_story_cartographer_dialog_1">반가워요! 도와줄 것 있나요?</string>
     <string name="main_story_cartographer_dialog_button_show_piece_of_map">&font_cyan;지도 조각&font_end;을 보여주기</string>
-    <string name="main_story_cartographer_dialog_2">어머나… 이것은 제가 생각하는게 맞나요? 믿을 수 없어요!</string>
-    <string name="main_story_cartographer_dialog_3">이것은 전설로 내려오는 한개의 &font_cyan;지도 조각&font_end;이에요! 사실이였군요!</string>
-    <string name="main_story_cartographer_dialog_4">너무 흥분해서 죄송해요… 이런걸 볼줄은 몰랐어요…</string>
-    <string name="main_story_cartographer_dialog_5" tools:ignore="PluralsCandidate">음, 전설로 내려오는 말에 의하면 지도 조각 %1$d 개를 모은다면, 당신은 &font_red;폭군&font_end; &font_cyan;섬&font_end;을 찾을 수 있다고 해요… 저는 전설인줄만 알았어요, 이제서야 실존하는 걸 알았군요…</string>
-    <string name="main_story_cartographer_dialog_6">조심해서 &font_cyan;지도 조각&font_end;을 찾는 여정을 떠나세요. 지도 조각을 지키는 몬스터는 강력하답니다…</string>
-    <string name="main_story_6">&font_cyan;%1$d &font_end;개의 &font_cyan;지도 조각&font_end;을 찾으세요. &font_cyan;지도학자&font_end;는 조각을 다 찾으면, &font_cyan;해상 지도&font_end;를 만들어서 &font_red;폭군&font_end;의 위치를 알 수 있습니다.</string>
-    <string name="main_story_6_got_a_piece_total_amount" tools:ignore="PluralsCandidate">&font_cyan;지도 조각&font_end;을 찾았습니다! %1$d 조각을 찾았습니다! %2$d 조각 남았습니다…</string>
-    <string name="main_story_6_got_the_pieces" tools:ignore="PluralsCandidate">모든 조각을 모았습니다! &font_cyan;지도학자&font_end;가 말한대로 조각을 모으세요…</string>
-    <string name="main_story_7">&font_cyan;해상 지도&font_end;를 보고 &font_red;폭군&font_end; &font_cyan;섬 &font_end;으로 가서 그를 죽이세요!</string>
-    <string name="main_story_7_advice_before_sail_title"> &font_red;폭군&font_end; &font_cyan;섬&font_end;으로 이동할까요?</string>
-    <string name="main_story_7_advice_before_sail_message">확실한가요? 거기서 돌아올 수 없습니다…</string>
+    <string name="main_story_cartographer_dialog_2">어머나… 제가 생각하는게 맞나요? 믿을 수 없어요!</string>
+    <string name="main_story_cartographer_dialog_3">이건 전설로만 들었던 &font_cyan;지도 조각&font_end;이군요! 사실이였군요!</string>
+    <string name="main_story_cartographer_dialog_4">흠흠... 너무 흥분해서 추태를 보였네요. 죄송해요. 여기서 이런 걸 볼줄은 몰랐어요…</string>
+    <string name="main_story_cartographer_dialog_5" tools:ignore="PluralsCandidate">음, 전설로 내려오는 말에 의하면 지도 조각 %1$d 개를 모은다면 &font_red;폭군&font_end;이 있는 &font_cyan;섬&font_end;을 찾을 수 있다고 해요. 정말... 전설인줄로만 알았는데 실존했군요…</string>
+    <string name="main_story_cartographer_dialog_6">조심하세요. &font_cyan;지도 조각&font_end;을 찾는 여정은 힘들거에요. 지도 조각을 지키는 몬스터는 강력하답니다…</string>
+    <string name="main_story_6">&font_cyan;%1$d &font_end;개의 &font_cyan;지도 조각&font_end;을 찾자. &font_cyan;지도학자&font_end;가 말하길, 조각을 다 찾으면 &font_cyan;해상 지도&font_end;를 만들어서 &font_red;폭군&font_end;의 위치를 알 수 있다고 한다.</string>
+    <string name="main_story_6_got_a_piece_total_amount" tools:ignore="PluralsCandidate">&font_cyan;지도 조각&font_end;을 %1$d 조각을 찾았습니다! %2$d 조각 남았습니다…</string>
+    <string name="main_story_6_got_the_pieces" tools:ignore="PluralsCandidate">모든 조각을 모았습니다! &font_cyan;지도학자&font_end;가 말한대로 조각을 합치자.</string>
+    <string name="main_story_7">&font_cyan;해상 지도&font_end;를 보고 &font_red;폭군&font_end;이 있는 &font_cyan;섬&font_end;으로 가서 놈을 죽이자!</string>
+    <string name="main_story_7_advice_before_sail_title"> &font_red;폭군&font_end;이 있는 &font_cyan;섬&font_end;으로 이동하시겠습니까?</string>
+    <string name="main_story_7_advice_before_sail_message">정말 출항하시겠습니까? 다시 되돌아올 수 없습니다.</string>
     <string name="monster_thetyrant">폭군</string>
     <string name="main_story_7_the_tyrant_message_1">제발, 멈춰! 항복할게!</string>
-    <string name="main_story_7_the_tyrant_message_2">나는 다른사람 처럼 그를 따르고 있었어… 그… 그가 자신을 따르지 않으면 죽인다고 말했어…</string>
-    <string name="main_story_7_the_tyrant_message_2_button">누구?</string>
-    <string name="main_story_7_the_tyrant_message_3">말할 수 없어… 음… 너는 나를 어차피 죽이려 했으니… 그러니…</string>
-    <string name="main_story_7_the_tyrant_message_4">그는 이름이 없어… 그는… &font_red;악마&font_end;야…</string>
+    <string name="main_story_7_the_tyrant_message_2">나는 다른 사람처럼 그를 따르고 있었어… 그… 그가 자신을 따르지 않으면 죽인다고 말했어…</string>
+    <string name="main_story_7_the_tyrant_message_2_button">누구를 말하는거지?</string>
+    <string name="main_story_7_the_tyrant_message_3">말할 수 없… 음… 살려줬으니… 얘기해 줄게…</string>
+    <string name="main_story_7_the_tyrant_message_4">그는 이름이 없어… 그는… '&font_red;악마&font_end;'야…!</string>
     <string name="main_story_7_the_tyrant_message_5">그는 &font_red;지옥&font_end;에 있어…</string>
     <string name="main_story_7_the_tyrant_message_6">내가 &font_red;지옥&font_end;으로 가는 &font_cyan;해상 지도&font_end;를 줄게…</string>
-    <string name="main_story_7_the_tyrant_message_7">준비가 완료되고 가는걸 추천해. &font_red;용암&font_end;그리고 &font_red;지옥&font_end;이 널 다치게 할거야, 그리고 거기에 있는 몬스터는 쉽지 않아…</string>
-    <string name="main_story_7_the_tyrant_message_8">행운을 빌어, 그들이 물어보면, 나는 아무말도 하지 않은거야!</string>
+    <string name="main_story_7_the_tyrant_message_7">만반의 준비를 마치고 가는걸 추천해. &font_red;용암&font_end;과 &font_red;지옥&font_end;은 아주 위험해. 그곳의 몬스터도 쉽지 않지...</string>
+    <string name="main_story_7_the_tyrant_message_8">행운을 빌게. 그들이 물어보면, 나는, 나는 아무말도 하지 않은거야!</string>
     <string name="tyrant_disappears">&font_red;폭군&font_end;이 사라졌습니다…</string>
-    <string name="main_story_7_ship_is_back">당신의 &font_wood;배&font_end;가 돌아왔습니다…</string>
+    <string name="main_story_7_ship_is_back">당신의 &font_wood;배&font_end;가 돌아왔습니다.</string>
     <string name="main_story_7_the_tyrant_pre_combat_message_1">어? 여기서 뭐하는거지?</string>
-    <string name="main_story_7_the_tyrant_pre_combat_message_2">흐하하! 내가 너를 죽이는 시간까지 얼마나 걸릴까!</string>
-    <string name="main_story_7_the_tyrant_pre_combat_message_button">죽인다</string>
-    <string name="main_story_8">&font_hell;지옥&font_end;으로 가서 &font_hell;악마&font_end;를 죽이세요!</string>
-    <string name="main_story_8_advice_before_sail_title">&font_red;지옥&font_end; &font_cyan;섬&font_end;으로 이동할까요?</string>
-    <string name="main_story_8_advice_before_sail_message">확실한가요? 거기서 돌아올 수 없습니다…</string>
+    <string name="main_story_7_the_tyrant_pre_combat_message_2">흐하하! 내가 너를 죽이는데 얼마나 걸릴까!</string>
+    <string name="main_story_7_the_tyrant_pre_combat_message_button">전투 시작</string>
+    <string name="main_story_8">&font_hell;지옥&font_end;으로 가서 &font_hell;악마&font_end;를 처치하자!</string>
+    <string name="main_story_8_advice_before_sail_title">&font_red;지옥&font_end; &font_cyan;섬&font_end;으로 이동하시겠습니까?</string>
+    <string name="main_story_8_advice_before_sail_message">정말 출항하시겠습니까? 다시 되돌아올 수 없습니다.</string>
     <string name="monster_devil">악마</string>
-    <string name="main_story_8_the_devil_pre_combat_message_1">하! 역시 &font_red;폭군&font_end;을 믿는게 아니였어!</string>
-    <string name="main_story_8_the_devil_pre_combat_message_2">나는 그 게으른 쥐가 죽었길 바래. 만약 아니면, 내가 죽일거야!</string>
-    <string name="main_story_8_the_devil_pre_combat_message_3">흠… 그리고 너… 준비해라… 죽을 준비를!</string>
-    <string name="main_story_8_devil_message_1">오… 미안해… &font_corrupted_god;신&font_end;이시여, 절 용서해 주세요…</string>
+    <string name="main_story_8_the_devil_pre_combat_message_1">하! 역시 &font_red;폭군&font_end;을 믿는 게 아니였어!</string>
+    <string name="main_story_8_the_devil_pre_combat_message_2">그 배신자 자식이 죽었길 바라지. 만약 아니라면, 내가 죽일거거든!</string>
+    <string name="main_story_8_the_devil_pre_combat_message_3">흥, 네놈… 죽을 준비는 되었겠지!</string>
+    <string name="main_story_8_devil_message_1">윽, … &font_corrupted_god;신&font_end;이시여, 절 용서해 주세요…</string>
     <string name="devil_disappears">&font_red;악마&font_end;가 사라졌습니다…</string>
     <string name="main_story_9">&font_heaven;천국&font_end;으로 가서 &font_corrupted_god;타락한 신&font_end;을 찾으세요, 모두를 위해서 그를 죽이세요!</string>
     <string name="monster_corrupted_god">타락한 신</string>
