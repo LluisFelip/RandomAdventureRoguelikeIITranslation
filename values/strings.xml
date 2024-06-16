@@ -3860,7 +3860,11 @@
     <string name="island_type_troll">&font_gold;Troll&font_end;</string>
     <string name="island_arrival_type_troll_island">You arrive to what seems to be a small island. You hear some growlings in the distance.</string>
 
+    <string name="island_type_dream">&font_cyan;Dream&font_end;</string>
+    <string name="island_arrival_type_dream_island">It seems you fell asleep, but you have arrived at such a dreamy place. You can feel peace and calmness here…</string>
+
     <string name="tile_type_troll_cave">Troll Cave</string>
+    <string name="tile_type_dream_cloud">&font_cyan;Dream Cloud&font_end;</string>
 
     <string name="achievement_name_troll_hunter">Troll Hunter</string>
     <string name="achievement_desc_troll_hunter">Arrive to a Troll Island for the first time.</string>
@@ -3878,6 +3882,9 @@
     <string name="arena_already_completed">You already won in this &font_red;Arena&font_end;, champion!</string>
     <string name="achievement_arena_fighter" tools:ignore="MissingTranslation">Arena Fighter</string>
     <string name="achievement_desc_arena_fighter">Win in the Arena for the first time.</string>
+
+    <string name="achievement_dreamer" tools:ignore="MissingTranslation">&font_cyan;Dreamer&font_end;</string>
+    <string name="achievement_desc_dreamer">Encounter a Dream Island for the first time.</string>
 
     <string name="title_the_arena_fighter_male">%1$s, the &font_red;Arena Fighter&font_end;</string>
     <string name="title_the_arena_fighter_female">%1$s, the &font_red;Arena Fighter&font_end;</string>
@@ -3913,6 +3920,7 @@
     <string name="black_hole_enough_flame">Your &asterisk_ascend_color;Ascension &font_end;&font_red;Flames &font_end;seem to shine stronger when you approach this &font_ash;Black Hole&font_end;…&br;&br;The &font_ash;Black Hole &font_end;is asking for your &asterisk_ascend_color;Ascension &font_end;&font_red;Flames&font_end;… do you want to throw them inside?</string>
     <string name="achievement_desc_black_hole">Throw all your &asterisk_ascend_color;Ascension &font_end;&font_red;Flames &font_end;into a &font_ash;Black Hole&font_end;!</string>
     <string name="title_the_black_hole">%1$s, the &font_ash;Black Hole&font_end;</string>
+    <string name="title_the_dreamer">%1$s, the &font_cyan;Dreamer&font_end;</string>
     <string name="black_hole_disappears">The Black Hole disappears and with it, your Ascension Flames… but you notice your body has changed somehow…</string>
     <string name="status_black_hole_level">&font_ash;Black Hole &font_end;&font_cyan;level&font_end;&font_white;: &font_end;&font_red;%1$d&font_end;</string>
     <string name="island_fix_title">Creator</string>
