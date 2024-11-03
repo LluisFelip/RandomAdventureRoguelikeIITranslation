@@ -80,6 +80,7 @@
     <string name="content_description_recipe_image">The recipe image</string>
     <string name="content_description_weapon_image">Weapon Image</string>
     <string name="content_description_monster_icon">Monster Icon</string>
+    <string name="content_description_monster_captured">Monster Captured</string>
     <string name="content_description_decrease_minimap_size">Decrease Minimap Size</string>
     <string name="content_description_increase_minimap_size">Increase Minimap Size</string>
     <string name="button_shortcut_content_description">Add to combat shortcut</string>
