@@ -232,6 +232,8 @@
     <string name="button_sort_by_level">Sort (level)</string>
     <string name="button_sort_by_type">Sort (type)</string>
     <string name="button_sort_by_az">Sort (A-Z)</string>
+    <string name="button_sort_by_mark">Sort (Mark)</string>
+    <string name="button_sort_by_notes">Sort (Notes)</string>
     <string name="button_mine">Mine</string>
     <string name="button_chop_tree">Chop Tree</string>
     <string name="button_fish">Fish</string>
