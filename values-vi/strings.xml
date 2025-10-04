@@ -215,7 +215,11 @@
     <string name="button_equip">Trang bị</string>
     <string name="button_cast">Thi triển</string>
     <string name="button_remove">Gỡ bỏ</string>
+<<<<<<< HEAD
     <string name="button_info">Thông tin</string>
+=======
+    <string name="button_info">i</string>
+>>>>>>> 30c6c35f153dfec7442c87e3c8e22992bc686d4a
     <string name="button_minus">-</string>
     <string name="button_open">Mở</string>
     <string name="button_catch">Bắt</string>
@@ -994,7 +998,11 @@
   Tôi biết đường đi nước bước của khoai tây.\n
   Cứu! Tôi bị kẹt trong một trò chơi điện tử!\n
   May mà tôi không phải là NPC, nếu không thì tệ thật.\n
+<<<<<<< HEAD
   Tôi đã từng là một nhà thám hiểm như bạn, nhưng rồi tôi bị một mũi tên vào đầu gối.\n
+=======
+  Tôi đã từng là một nhà thám hiểm như bạn, nhưng rồi tôi bị một mũi tên vào đầu gối.\n
+>>>>>>> 30c6c35f153dfec7442c87e3c8e22992bc686d4a
   Đôi khi, tôi mơ về phô mai.\n
   Lỗi khi lấy một câu trích dẫn;\n
   Tôi tự hỏi ánh sáng xanh ở phía bên kia mặt nước là gì.\n
@@ -2224,7 +2232,7 @@
     <string name="main_story_1_dialog_title">Mở mắt ra</string>
     <string name="main_story_1_dialog_message">Sau một khoảng thời gian dường như là vô tận, bạn mở mắt và cố gắng đứng dậy.&br;&br;Bạn nhìn xung quanh và nhận ra mình đang ở một &font_sand;Bãi biển&font_end;. Có một &font_wood;Xác tàu đắm&font_end;.&br;&br;Một lúc sau, bạn nhận ra có một &font_cyan;Cậu bé &font_end;đang nhìn chằm chằm vào bạn.</string>
     <string name="main_story_shipwreck_info">Dường như không thể làm cho &font_wood;Xác tàu đắm &font_end;này ra khơi lần nữa.&br;&br;Kiểm tra kỹ hơn, bạn nhận ra nó trông quen quen…</string>
-    <string name="main_story_young_boy_message_1">Ơ... xin chào? Người lạ có sao không ạ? Cháu đang chơi ở gần đây thì thấy người lạ nằm bất tỉnh...</string>
+    <string name="main_story_young_boy_message_1">Ơ... xin chào? Người lạ có sao không ạ? Cháu đang chơi ở gần đây thì thấy người nằm bất tỉnh. À nhân tiện, người đừng kỳ lạ về cách xưng hô của cháu với người nhé, vì trò chơi không hỗ trợ đại từ nhân xưng trong tiếng việt nên cháu không có lựa chọn khác hoặc ít nhất thằng dịch giả nó không tìm được giải pháp hợp lý cho chúng ta...</string>
     <string name="main_story_young_boy_message_2">Cháu đã sợ là người chết rồi. Mừng là người còn sống! Đó có phải là &font_wood;Thuyền&font_end;
         của người không ạ?</string>
     <string name="main_story_young_boy_message_3">Ồ… à, cháu cho là người cần nghỉ ngơi. Bố cháu là chủ &font_inn;Quán trọ &font_end;ở &font_cyan;%1$d&font_end;, &font_cyan;%2$d&font_end;. Người đến đó nghỉ ngơi đi, và nói chuyện với bố cháu nếu người cần gì đó. Rất vui được gặp!</string>
@@ -2262,12 +2270,20 @@
         kỳ lạ. Bạn không biết chính xác nó là gì. Bạn nên hỏi một &font_cyan;Nhà vẽ bản đồ &font_end;về nó.</string>
     <string name="main_story_5">Nói chuyện với một &font_cyan;Nhà vẽ bản đồ&font_end; về &font_cyan;Mảnh Bản đồ &font_end;bạn tìm thấy. Nó chắc chắn có liên quan đến tung tích của &font_red;Bạo Chúa&font_end;.</string>
     <string name="shop_cartographer">Nhà vẽ bản đồ</string>
+<<<<<<< HEAD
     <string name="main_story_cartographer_dialog_1">Xin chào! Tôi có thể giúp gì?</string>
+=======
+    <string name="main_story_cartographer_dialog_1">Xin chào! Tôi có thể giúp gì?</string>
+>>>>>>> 30c6c35f153dfec7442c87e3c8e22992bc686d4a
     <string name="main_story_cartographer_dialog_button_show_piece_of_map">Cho xem &font_cyan;Mảnh Bản đồ&font_end;</string>
     <string name="main_story_cartographer_dialog_2">Ôi trời… đây có phải là thứ tôi đang nghĩ không? Tôi không thể tin được!</string>
     <string name="main_story_cartographer_dialog_3">Đây là một &font_cyan;Mảnh Bản đồ &font_end;trong truyền thuyết! Nó là thật!</string>
     <string name="main_story_cartographer_dialog_4">Xin lỗi vì sự phấn khích của tôi… Tôi chưa bao giờ nghĩ mình sẽ thấy một thứ như thế này…</string>
+<<<<<<< HEAD
     <string name="main_story_cartographer_dialog_5" tools:ignore="PluralsCandidate">À, truyền thuyết kể rằng nếu tìm thấy đủ %1$d mảnh, bạn sẽ có thể tìm thấy &font_cyan;Hòn đảo&font_end;
+=======
+    <string name="main_story_cartographer_dialog_5" tools:ignore="PluralsCandidate">À, truyền thuyết kể rằng nếu bạn tìm thấy đủ %1$d mảnh, bạn sẽ có thể tìm thấy &font_cyan;Hòn đảo&font_end;
+>>>>>>> 30c6c35f153dfec7442c87e3c8e22992bc686d4a
         của &font_red;Bạo Chúa&font_end;… Tôi đã nghĩ đó chỉ là một truyền thuyết, nhưng bây giờ tôi thấy nó có thật…</string>
     <string name="main_story_cartographer_dialog_6">Hãy cẩn thận trên hành trình tìm kiếm các &font_cyan;Mảnh Bản đồ&font_end;. Những con quái vật canh giữ chúng rất nguy hiểm…</string>
     <string name="main_story_6">Tìm &font_cyan;%1$d &font_end;x &font_cyan;Mảnh Bản đồ&font_end;. &font_cyan;Nhà vẽ bản đồ &font_end;đã nói với bạn rằng khi bạn làm vậy, bạn sẽ có thể ghép các mảnh thành một &font_cyan;Hải đồ &font_end;và cuối cùng có thể tìm thấy tung tích của &font_red;Bạo Chúa&font_end;.</string>
@@ -2287,7 +2303,11 @@
     <string name="main_story_7_the_tyrant_message_5">Hắn ở &font_red;Địa ngục&font_end;…</string>
     <string name="main_story_7_the_tyrant_message_6">Ta sẽ đưa cho ngươi &font_cyan;Hải đồ &font_end;này để đến &font_red;Địa ngục&font_end;…</string>
     <string name="main_story_7_the_tyrant_message_7">Ta khuyên ngươi nên chuẩn bị kỹ. &font_red;Dung nham &font_end;và &font_red;Địa ngục &font_end;nói chung sẽ làm ngươi bị thương, và những con quái vật ở đó không giống như của ta…</string>
+<<<<<<< HEAD
     <string name="main_story_7_the_tyrant_message_8">Chúc may mắn, và nếu có ai hỏi, thì cứ coi như ta chưa nói gì với ngươi nhé!</string>
+=======
+    <string name="main_story_7_the_tyrant_message_8">Chúc may mắn, và nếu họ hỏi, ta không nói gì cho ngươi cả!</string>
+>>>>>>> 30c6c35f153dfec7442c87e3c8e22992bc686d4a
     <string name="tyrant_disappears">&font_red;Bạo Chúa&font_end; biến mất…</string>
     <string name="main_story_7_ship_is_back">&font_wood;Con tàu&font_end;
         của bạn đã trở lại…</string>
@@ -2344,7 +2364,11 @@
     <string name="professional_quest_giving_quest_4_check_if_have_materials">Bạn có đủ nguyên liệu cần thiết không?</string>
     <string name="professional_quest_giving_quest_4_negative">Hãy quay lại khi có đủ nguyên liệu…</string>
     <string name="professional_quest_giving_quest_4_positive_dont_have">Tôi xin lỗi, nhưng có vẻ như bạn không có đủ nguyên liệu cần thiết…</string>
+<<<<<<< HEAD
     <string name="professional_quest_giving_quest_4_positive_have">Tuyệt vời! Bạn có đủ nguyên liệu rồi! Bạn biết không? Bạn có thể giữ chúng.</string>
+=======
+    <string name="professional_quest_giving_quest_4_positive_have">Tuyệt vời! Bạn có đủ nguyên liệu rồi! Bạn biết không? Bạn có thể giữ chúng.</string>
+>>>>>>> 30c6c35f153dfec7442c87e3c8e22992bc686d4a
     <string name="professional_step_5">Vậy đó là những điều cơ bản của nghề… &font_gold;Mua &font_end;hoặc &font_cyan;chế tạo &font_end;một &font_cyan;công cụ &font_end;và sử dụng nó để khai thác nguyên liệu… Với những nguyên liệu đó, bạn có thể &font_cyan;chế tạo&font_end; &font_cyan;vũ khí&font_end;, &font_cyan;áo giáp&font_end;, &font_cyan;độc dược &font_end;và nhiều thứ khác…</string>
     <string name="professional_step_6">Đây, bạn có thể lấy %1$s này! Chúc may mắn trên cuộc phiêu lưu của bạn, người hùng!</string>
     <string name="professional_no_quest_message">Bây giờ bạn đã sẵn sàng để thành công! Chúc may mắn, người hùng!</string>
@@ -2592,10 +2616,17 @@
     <string name="achievement_desc_gotta_catch_em_all">Bắt tất cả quái vật trong trò chơi</string>
     <string name="achievement_desc_animal_lover">Kết bạn với tất cả các loài động vật trong trò chơi</string>
 
+<<<<<<< HEAD
     <string name="quest_bring_animal_text_giving">Ồ… Tôi có một giấc mơ… Tôi muốn được nhìn thấy một &font_animal;%1$s &font_end;ít nhất một lần trong đời… Bạn có thể mang một con đến cho tôi được không?</string>
     <string name="quest_bring_animal_text_desc">Bạn phải tìm một con vật: &font_animal;%1$s &font_end;và mang nó đến cho %2$s tại %3$s,%4$s</string>
     <string name="quest_bring_animal_text_complete_desc">Ồ! Nó còn dễ thương hơn tôi nghĩ! Cảm ơn rất nhiều!</string>
     <string name="quest_bring_animal_text_negative">E rằng bạn không có &font_animal;%1$s &font_end;bên mình… Hãy quay lại khi bạn tìm thấy một con nhé, Bạn sẽ làm tôi rất vui!</string>
+=======
+    <string name="quest_bring_animal_text_giving">Ồ… Tôi có một giấc mơ… Tôi muốn được nhìn thấy một &font_animal;%1$s &font_end;ít nhất một lần trong đời… Bạn có thể mang một con đến cho tôi được không?</string>
+    <string name="quest_bring_animal_text_desc">Bạn phải tìm một con vật: &font_animal;%1$s &font_end;và mang nó đến cho %2$s tại %3$s,%4$s</string>
+    <string name="quest_bring_animal_text_complete_desc">Ồ! Nó còn dễ thương hơn tôi nghĩ! Cảm ơn bạn rất nhiều!</string>
+    <string name="quest_bring_animal_text_negative">E rằng bạn không có &font_animal;%1$s &font_end;bên mình… Hãy quay lại khi bạn tìm thấy một con nhé, bạn sẽ làm tôi rất vui!</string>
+>>>>>>> 30c6c35f153dfec7442c87e3c8e22992bc686d4a
     <string name="quest_bring_animal_text_bring">Bạn đã tìm thấy &font_animal;%1$s&font_end; chưa? Cho tôi xem nào!</string>
 
     <string name="tile_content_type_island_map">Bản đồ &font_cyan;Đảo&font_end;</string>
@@ -2977,7 +3008,11 @@
     <string name="race_unknown">Không &font_white;rõ&font_end;</string>
 
     <string name="race_human_desc">Họ là chủng tộc dễ thích nghi nhất trong các chủng tộc phổ biến. Hệ của họ nằm trên ranh giới mong manh giữa thiện và ác. Họ cân bằng về khả năng chiến đấu và sử dụng phép thuật. Họ có kiến thức bẩm sinh về chế tạo và là những nhà thám hiểm tự nhiên.</string>
+<<<<<<< HEAD
     <string name="race_dwarf_desc">Họ từng sống dưới những ngọn núi, chỉ quan tâm đến hầm mỏ và bia của mình, nhưng do sự lan rộng gần đây của cái ác trên thế giới, nhiều người đã bắt đầu khám phá bên ngoài quê hương núi non của họ để tạo ra những huyền thoại của riêng mình như tổ tiên của họ đã làm trong quá khứ. Họ là một trong những chủng tộc mạnh nhất về thể chất và có kỹ năng khai thác tuyệt vời. Họ là những người duy nhất có khả năng nấu loại bia lúa mạch trứ danh.</string>
+=======
+    <string name="race_dwarf_desc">Họ từng sống dưới những ngọn núi, chỉ quan tâm đến hầm mỏ và bia của mình, nhưng do sự lan rộng gần đây của cái ác trên thế giới, nhiều người đã bắt đầu khám phá bên ngoài quê hương núi non của họ để tạo ra những huyền thoại của riêng mình như tổ tiên của họ đã làm trong quá khứ. Họ là một trong những chủng tộc mạnh nhất về thể chất và có kỹ năng khai thác tuyệt vời. Họ là những người duy nhất có khả năng chế tạo bia.</string>
+>>>>>>> 30c6c35f153dfec7442c87e3c8e22992bc686d4a
     <string name="race_halfling_desc">Mặc dù họ đã xuất hiện trong sách và truyện, nhưng hầu như không ai từng thấy một người lùn trong đời, vì họ là những người yêu chuộng hòa bình sống trong những ngôi làng ẩn giấu, biệt lập. Họ thích nấu ăn, ăn uống, đọc những câu chuyện từ thời kỳ đầu, và sống trong mọi loại tưởng tượng trong trí óc của họ. Kể từ khi cái ác bắt đầu lan rộng khắp thế giới, một số người Lùn dũng cảm nhất đã bắt đầu những cuộc phiêu lưu của riêng mình tương tự như những gì họ đã đọc trong sách.</string>
     <string name="race_gnome_desc">Họ vui hưởng cuộc sống, tận hưởng từng khoảnh khắc của sự sáng tạo, khám phá và điều tra. Họ từng chỉ tập trung vào các phát minh và khám phá của mình, nhưng gần đây nhiều người Gnome dũng cảm đã được nhìn thấy phiêu lưu khắp thế giới.</string>
     <string name="race_elf_desc">Tiên tộc là những người có phép thuật với vẻ đẹp thanh tao, sống trong thế giới nhưng không hoàn toàn là một phần của nó. Ích kỷ và tự cho mình là trung tâm, họ lo lắng về tương lai của mình do sự hiện diện ngày càng tăng của cái ác, vì vậy họ đã bắt đầu hiện diện nhiều hơn trên thế giới để tìm kiếm sự cứu rỗi.</string>
@@ -3506,7 +3541,7 @@
 
     <string name="autolevelup_levelled_up">%1$s đã tự động lên cấp &font_cyan;%2$d&font_end;</string>
     <string name="received_void_weapon">Bạn đã nhận được %1$s!</string>
-    <string name="settings_auto_pick_up_enabled">Đã bật tự động nhặt đồ trong chiến đấu</string>
+    <string name="settings_auto_pick_up_enabled">Bật tự động nhặt đồ trong chiến đấu</string>
     <string name="material_seaweed">Rong biển &font_red;&font_end;</string>
     <string name="material_pearl">Ngọc trai &font_pearl;&font_end;</string>
 
@@ -3662,7 +3697,11 @@
     <string name="cartographer_stone_info">Cho phép đánh dấu hoặc thêm thông tin vào các hòn đảo của bạn từ danh sách đảo.</string>
     <string name="wooden_sign_info">Sử dụng cái này để tạo một &font_wood;Biển báo Gỗ &font_end;ở bất cứ đâu và viết một số văn bản lên đó. Nó sẽ được hiển thị trên bản đồ dưới dạng chữ &font_wood;X&font_end;.</string>
     <string name="button_blacksmith_ask_about_material_tiers">Hỏi về các &font_cyan;bậc&font_end; &font_wood;nguyên liệu&font_end;</string>
+<<<<<<< HEAD
     <string name="blacksmith_material_tiers_message">Ồ, bạn muốn biết về các bậc nguyên liệu à? Đây là thứ tự:&br;&br;&font_wood;Gỗ &font_end;-> &font_leather;Da thuộc &font_end;-> &font_stone;Đá &font_end;-> &font_bone;Xương &font_end;-> &font_copper;Đồng &font_end;-> &font_tin;Thiếc &font_end;-> &font_iron;Sắt &font_end;-> &font_bronze;Đồng thau &font_end;-> &font_silver;Bạc &font_end;-> &font_gold;Vàng &font_end;-> &font_diamond;Kim cương &font_end;-> &font_obsidian;Hắc曜 thạch &font_end;&br;&br;Còn một số nguyên liệu rất hiếm khác nhưng tôi không nghĩ bạn sẽ có thể tìm thấy chúng đâu…</string>
+=======
+    <string name="blacksmith_material_tiers_message">Ồ, bạn muốn biết về các bậc nguyên liệu à? Đây là thứ tự:&br;&br;&font_wood;Gỗ &font_end;-> &font_leather;Da thuộc &font_end;-> &font_stone;Đá &font_end;-> &font_bone;Xương &font_end;-> &font_copper;Đồng &font_end;-> &font_tin;Thiếc &font_end;-> &font_iron;Sắt &font_end;-> &font_bronze;Đồng thau &font_end;-> &font_silver;Bạc &font_end;-> &font_gold;Vàng &font_end;-> &font_diamond;Kim cương &font_end;-> &font_obsidian;Hắc曜 thạch &font_end;&br;&br;Còn một số nguyên liệu rất hiếm khác nhưng tôi không nghĩ bạn sẽ có thể tìm thấy chúng đâu…</string>
+>>>>>>> 30c6c35f153dfec7442c87e3c8e22992bc686d4a
     <string name="button_sort_by_can_craft">Sắp xếp (có thể chế tạo)</string>
     <string name="crafting_filter_can_craft">Có thể Chế tạo</string>
 
@@ -3812,9 +3851,15 @@
         hoàn chỉnh… Đây, cầm lấy thứ này… Ngươi sẽ biết phải làm gì với nó… Hẹn sớm gặp lại…</string>
     <string name="settings_show_double_space_map">Khoảng cách đôi trong Bản đồ</string>
 
+<<<<<<< HEAD
     <string name="young_child_extra_advice_1">Ồ, được rồi… Chà, vì người có vẻ hơi mất phương hướng, để cháu cho người lời khuyên…&br;&br;Cháu sẽ không tham gia chiến đấu với những con quái vật mạnh hơn mình, ít nhất là cho đến khi cháu cảm thấy sẵn sàng.</string>
     <string name="young_child_extra_advice_2">Nếu cháu là người, cháu sẽ mua một ít &font_cyan;Trang bị &font_end;tại &font_bronze;Tiệm vũ khí &font_end;hoặc một &font_mana;Phép thuật &font_end;mạnh mẽ tại &font_mana;Cửa hàng &font_end;&font_gold;Ma thuật &font_end;nếu người muốn tự bảo vệ mình tốt hơn…&br;&br;Và không, cháu không nhận hoa hồng cho việc này đâu! Mặc dù &italic;Chú &italic_end;cháu làm việc tại &font_bronze;Tiệm vũ khí &font_end;và &italic;Bà &italic_end;cháu điều hành &font_mana;Cửa hàng &font_end;&font_gold;Ma thuật&font_end;…</string>
     <string name="young_child_extra_advice_3">À! Và người nên ăn khi &font_hunger;đói &font_end;nếu không người sẽ chết nhanh hơn người nghĩ đấy!&br;&br;Người có thể &font_cyan;ăn &font_end;&font_plant;thức ăn &font_end;từ &font_wood;Hành trang &font_end;của mình hoặc ăn tại &font_bar;Quán bar &font_end;hoặc &font_bar;Quán rượu&font_end;…</string>
+=======
+    <string name="young_child_extra_advice_1">Ồ, được rồi… Chà, vì người có vẻ hơi mất phương hướng, để cháu cho người lời khuyên…&br;&br;Cháu sẽ không tham gia chiến đấu với những con quái vật mạnh hơn mình, ít nhất là cho đến khi cháu cảm thấy sẵn sàng.</string>
+    <string name="young_child_extra_advice_2">Nếu cháu là người, cháu sẽ mua một ít &font_cyan;Trang bị &font_end;tại &font_bronze;Tiệm vũ khí &font_end;hoặc một &font_mana;Phép thuật &font_end;mạnh mẽ tại &font_mana;Cửa hàng &font_end;&font_gold;Ma thuật &font_end;nếu người muốn tự bảo vệ mình tốt hơn…&br;&br;Và không, cháu không nhận hoa hồng cho việc này đâu! Mặc dù &italic;Chú &italic_end;cháu làm việc tại &font_bronze;Tiệm vũ khí &font_end;và &italic;Bà &italic_end;cháu điều hành &font_mana;Cửa hàng &font_end;&font_gold;Ma thuật&font_end;…</string>
+    <string name="young_child_extra_advice_3">À! Và người nên ăn khi &font_hunger;đói &font_end;nếu không người sẽ chết nhanh hơn người nghĩ đấy!&br;&br;Người có thể &font_cyan;ăn &font_end;&font_plant;thức ăn &font_end;từ &font_wood;Hành trang &font_end;của mình hoặc ăn tại &font_bar;Quán bar &font_end;hoặc &font_bar;Quán rượu&font_end;…</string>
+>>>>>>> 30c6c35f153dfec7442c87e3c8e22992bc686d4a
 
     <string name="pyramid_was_cursed_and_closed">&font_pyramid;Kim tự tháp &font_end;đã bị nguyền rủa và đóng lại!</string>
     <string name="pyramid_is_now_open">&font_pyramid;Kim tự tháp &font_end;hiện đã mở!</string>
@@ -3860,7 +3905,7 @@
 
     <string name="dropped_ammo_auto_looted_toast">Bạn đã nhặt được một số &font_wood;đạn&font_end;
         đã sử dụng!</string>
-    <string name="settings_auto_loot_ammo_enabled">Đã bật tự động nhặt đạn trong chiến đấu</string>
+    <string name="settings_auto_loot_ammo_enabled">Bật tự động nhặt đạn trong chiến đấu</string>
     <string name="dungeon_completed">(Đã hoàn thành)</string>
 
     <string name="animal_newt">Sa giông</string>
