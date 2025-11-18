@@ -15,7 +15,7 @@
         <item quantity="one">Kill %1$s %2$s monster</item>
         <item quantity="other">Kill %1$s %2$s monsters</item>
     </plurals>
-    <string name="version_name" translatable="false">v. &font_cyan;%1$s&font_end;</string>
+    <string name="version_name" translatable="false">v. &font_green;%1$s&font_end;</string>
     <string name="marked_char_with_color" translatable="false">[&lt;font color=\"%1$s\"&gt;%2$c&font_end;]</string>
     <string name="mark_white" translatable="false">&font_white;#ffffff&font_end;</string>
     <string name="mark_red" translatable="false">&font_red;#ff0000&font_end;</string>
