@@ -51,6 +51,8 @@
     <string name="monster_type_aberration" translatable="false">Aberration</string>
     <string name="monster_type_giant" translatable="false">Giant</string>
 
+    <string name="button_rar_islands" translatable="false">RAR Islands</string>
+
     <string name="monster_type_ooze" translatable="false">Ooze</string>
 
     <string name="monster_type_celestial" translatable="false">Celestial</string>
