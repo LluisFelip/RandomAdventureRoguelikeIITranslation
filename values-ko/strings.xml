@@ -3946,4 +3946,27 @@
     <string name="spell_almost_kill_desc">Hits the enemy, leaving it at 1 health points if its health was greater than 1, otherwise you kill it.</string>
     <string name="spell_almost_kill_desc_combat">You hit %1$s! %2$s receives &font_red;%3$d &font_end;damage!</string>
     <string name="you_left_the_monster_very_weak">You left %1$s very weak! Increased chances of &font_pet;capturing &font_end;it!</string>
+
+    <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+    <!-- SAVE EXPORT / IMPORT                                                                    -->
+    <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+
+    <string name="settings_save_data">&font_cyan;저장 데이터&font_end;</string>
+    <string name="button_export_save">저장 파일 내보내기</string>
+    <string name="text_export_confirm_title">저장 파일을 내보낼까요?</string>
+    <string name="text_export_confirm_message">현재 게임의 저장 파일을 만듭니다. 백업으로 보관하거나 다른 기기로 가져올 수 있습니다.</string>
+    <string name="text_export_failed_title">내보내기 실패</string>
+    <string name="text_export_failed_message">저장 파일을 준비하는 중 문제가 발생했습니다. 다시 시도해 주세요.</string>
+    <string name="button_import_save">저장 파일 가져오기</string>
+    <string name="text_import_confirm_title">저장 파일을 가져올까요?</string>
+    <string name="text_import_confirm_message">&bold;%1$s&bold_end;: 레벨 &font_cyan;%2$d&font_end;</string>
+    <string name="text_import_success_title">저장 파일을 가져왔습니다!</string>
+    <string name="text_import_success_message">&bold;%1$s&bold_end;(이)가 모험을 이어갈 준비가 되었습니다.</string>
+    <string name="text_import_invalid_file_title">올바른 저장 파일이 아닙니다</string>
+    <string name="text_import_invalid_file_message">이 파일은 Random Adventure Roguelike II 저장 파일이 아니거나 손상 또는 변경되었습니다.</string>
+    <string name="text_import_unsupported_version_title">저장 파일이 너무 최신입니다</string>
+    <string name="text_import_unsupported_version_message">이 저장 파일은 더 최신 버전에서 내보낸 것입니다. Random Adventure Roguelike II를 업데이트한 후 다시 시도해 주세요.</string>
+    <string name="text_import_failed_title">가져오기 실패</string>
+    <string name="text_import_failed_message">저장 파일을 가져오지 못했습니다. 슬롯은 변경되지 않았습니다.</string>
+
 </resources>

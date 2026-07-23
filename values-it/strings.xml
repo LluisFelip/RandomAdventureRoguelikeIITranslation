@@ -3315,4 +3315,27 @@
     <string name="spell_almost_kill_desc">Hits the enemy, leaving it at 1 health points if its health was greater than 1, otherwise you kill it.</string>
     <string name="spell_almost_kill_desc_combat">You hit %1$s! %2$s receives &font_red;%3$d &font_end;damage!</string>
     <string name="you_left_the_monster_very_weak">You left %1$s very weak! Increased chances of &font_pet;capturing &font_end;it!</string>
+
+    <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+    <!-- SAVE EXPORT / IMPORT                                                                    -->
+    <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+
+    <string name="settings_save_data">&font_cyan;Dati di Salvataggio&font_end;</string>
+    <string name="button_export_save">Esporta salvataggio</string>
+    <string name="text_export_confirm_title">Esportare il salvataggio?</string>
+    <string name="text_export_confirm_message">Verrà creato un file di salvataggio della tua partita attuale, che puoi conservare come backup o importare su un altro dispositivo.</string>
+    <string name="text_export_failed_title">Esportazione non riuscita</string>
+    <string name="text_export_failed_message">Qualcosa è andato storto durante la preparazione del file di salvataggio. Riprova.</string>
+    <string name="button_import_save">Importa salvataggio</string>
+    <string name="text_import_confirm_title">Importare il salvataggio?</string>
+    <string name="text_import_confirm_message">&bold;%1$s&bold_end;: livello &font_cyan;%2$d&font_end;</string>
+    <string name="text_import_success_title">Salvataggio importato!</string>
+    <string name="text_import_success_message">&bold;%1$s&bold_end; è pronto a continuare l\'avventura.</string>
+    <string name="text_import_invalid_file_title">Salvataggio non valido</string>
+    <string name="text_import_invalid_file_message">Questo file non è un salvataggio di Random Adventure Roguelike II, oppure è stato danneggiato o modificato.</string>
+    <string name="text_import_unsupported_version_title">Salvataggio troppo recente</string>
+    <string name="text_import_unsupported_version_message">Questo salvataggio è stato esportato da una versione più recente del gioco. Aggiorna Random Adventure Roguelike II e riprova.</string>
+    <string name="text_import_failed_title">Importazione non riuscita</string>
+    <string name="text_import_failed_message">Non è stato possibile importare il salvataggio. I tuoi slot non sono stati modificati.</string>
+
 </resources>

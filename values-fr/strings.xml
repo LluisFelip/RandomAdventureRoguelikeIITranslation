@@ -3890,4 +3890,27 @@
     <string name="spell_almost_kill_desc">Hits the enemy, leaving it at 1 health points if its health was greater than 1, otherwise you kill it.</string>
     <string name="spell_almost_kill_desc_combat">You hit %1$s! %2$s receives &font_red;%3$d &font_end;damage!</string>
     <string name="you_left_the_monster_very_weak">You left %1$s very weak! Increased chances of &font_pet;capturing &font_end;it!</string>
+
+    <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+    <!-- SAVE EXPORT / IMPORT                                                                    -->
+    <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+
+    <string name="settings_save_data">&font_cyan;Données de Sauvegarde&font_end;</string>
+    <string name="button_export_save">Exporter la sauvegarde</string>
+    <string name="text_export_confirm_title">Exporter la sauvegarde ?</string>
+    <string name="text_export_confirm_message">Cela créera un fichier de sauvegarde de ta partie actuelle, que tu peux conserver comme copie de secours ou importer sur un autre appareil.</string>
+    <string name="text_export_failed_title">Échec de l\'exportation</string>
+    <string name="text_export_failed_message">Une erreur est survenue lors de la préparation du fichier de sauvegarde. Réessaye.</string>
+    <string name="button_import_save">Importer une sauvegarde</string>
+    <string name="text_import_confirm_title">Importer la sauvegarde ?</string>
+    <string name="text_import_confirm_message">&bold;%1$s&bold_end; : niveau &font_cyan;%2$d&font_end;</string>
+    <string name="text_import_success_title">Sauvegarde importée !</string>
+    <string name="text_import_success_message">&bold;%1$s&bold_end; est prêt à continuer l\'aventure.</string>
+    <string name="text_import_invalid_file_title">Sauvegarde invalide</string>
+    <string name="text_import_invalid_file_message">Ce fichier n\'est pas une sauvegarde de Random Adventure Roguelike II, ou il a été endommagé ou modifié.</string>
+    <string name="text_import_unsupported_version_title">Sauvegarde trop récente</string>
+    <string name="text_import_unsupported_version_message">Cette sauvegarde a été exportée depuis une version plus récente du jeu. Mets à jour Random Adventure Roguelike II et réessaye.</string>
+    <string name="text_import_failed_title">Échec de l\'importation</string>
+    <string name="text_import_failed_message">La sauvegarde n\'a pas pu être importée. Tes slots n\'ont pas été modifiés.</string>
+
 </resources>

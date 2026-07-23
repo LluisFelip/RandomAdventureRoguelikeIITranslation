@@ -4040,4 +4040,27 @@
     <string name="spell_almost_kill_desc">Hits the enemy, leaving it at 1 health points if its health was greater than 1, otherwise you kill it.</string>
     <string name="spell_almost_kill_desc_combat">You hit %1$s! %2$s receives &font_red;%3$d &font_end;damage!</string>
     <string name="you_left_the_monster_very_weak">You left %1$s very weak! Increased chances of &font_pet;capturing &font_end;it!</string>
+
+    <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+    <!-- SAVE EXPORT / IMPORT                                                                    -->
+    <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+
+    <string name="settings_save_data">&font_cyan;Kayıt Verileri&font_end;</string>
+    <string name="button_export_save">Kaydı dışa aktar</string>
+    <string name="text_export_confirm_title">Kayıt dışa aktarılsın mı?</string>
+    <string name="text_export_confirm_message">Bu, mevcut oyununun bir kayıt dosyasını oluşturur; yedek olarak saklayabilir veya başka bir cihaza aktarabilirsin.</string>
+    <string name="text_export_failed_title">Dışa aktarılamadı</string>
+    <string name="text_export_failed_message">Kayıt dosyası hazırlanırken bir sorun oluştu. Lütfen tekrar dene.</string>
+    <string name="button_import_save">Kayıt içe aktar</string>
+    <string name="text_import_confirm_title">Kayıt içe aktarılsın mı?</string>
+    <string name="text_import_confirm_message">&bold;%1$s&bold_end;: seviye &font_cyan;%2$d&font_end;</string>
+    <string name="text_import_success_title">Kayıt içe aktarıldı!</string>
+    <string name="text_import_success_message">&bold;%1$s&bold_end; maceraya devam etmeye hazır.</string>
+    <string name="text_import_invalid_file_title">Geçerli bir kayıt değil</string>
+    <string name="text_import_invalid_file_message">Bu dosya bir Random Adventure Roguelike II kaydı değil ya da bozulmuş veya değiştirilmiş.</string>
+    <string name="text_import_unsupported_version_title">Kayıt çok yeni</string>
+    <string name="text_import_unsupported_version_message">Bu kayıt oyunun daha yeni bir sürümünden dışa aktarılmış. Lütfen Random Adventure Roguelike II oyununu güncelle ve tekrar dene.</string>
+    <string name="text_import_failed_title">İçe aktarılamadı</string>
+    <string name="text_import_failed_message">Kayıt içe aktarılamadı. Slotların değiştirilmedi.</string>
+
 </resources>

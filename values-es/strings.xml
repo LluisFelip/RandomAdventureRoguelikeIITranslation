@@ -3944,4 +3944,27 @@
     <string name="spell_almost_kill_desc">Hits the enemy, leaving it at 1 health points if its health was greater than 1, otherwise you kill it.</string>
     <string name="spell_almost_kill_desc_combat">You hit %1$s! %2$s receives &font_red;%3$d &font_end;damage!</string>
     <string name="you_left_the_monster_very_weak">You left %1$s very weak! Increased chances of &font_pet;capturing &font_end;it!</string>
+
+    <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+    <!-- SAVE EXPORT / IMPORT                                                                    -->
+    <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+
+    <string name="settings_save_data">&font_cyan;Datos de Partida&font_end;</string>
+    <string name="button_export_save">Exportar partida</string>
+    <string name="text_export_confirm_title">¿Exportar partida?</string>
+    <string name="text_export_confirm_message">Esto creará un archivo con tu partida actual que podrás guardar como copia de seguridad o importar en otro dispositivo.</string>
+    <string name="text_export_failed_title">No se pudo exportar</string>
+    <string name="text_export_failed_message">Algo salió mal al preparar el archivo de la partida. Inténtalo de nuevo.</string>
+    <string name="button_import_save">Importar partida</string>
+    <string name="text_import_confirm_title">¿Importar partida?</string>
+    <string name="text_import_confirm_message">&bold;%1$s&bold_end;: nivel &font_cyan;%2$d&font_end;</string>
+    <string name="text_import_success_title">¡Partida importada!</string>
+    <string name="text_import_success_message">&bold;%1$s&bold_end; está listo para continuar la aventura.</string>
+    <string name="text_import_invalid_file_title">Partida no válida</string>
+    <string name="text_import_invalid_file_message">Este archivo no es una partida de Random Adventure Roguelike II, o ha sido dañado o modificado.</string>
+    <string name="text_import_unsupported_version_title">La partida es demasiado nueva</string>
+    <string name="text_import_unsupported_version_message">Esta partida se exportó desde una versión más reciente del juego. Actualiza Random Adventure Roguelike II e inténtalo de nuevo.</string>
+    <string name="text_import_failed_title">No se pudo importar</string>
+    <string name="text_import_failed_message">No se pudo importar la partida. Tus ranuras no han sido modificadas.</string>
+
 </resources>

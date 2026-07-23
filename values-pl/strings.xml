@@ -3958,4 +3958,27 @@
     <string name="spell_almost_kill_desc">Hits the enemy, leaving it at 1 health points if its health was greater than 1, otherwise you kill it.</string>
     <string name="spell_almost_kill_desc_combat">You hit %1$s! %2$s receives &font_red;%3$d &font_end;damage!</string>
     <string name="you_left_the_monster_very_weak">You left %1$s very weak! Increased chances of &font_pet;capturing &font_end;it!</string>
+
+    <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+    <!-- SAVE EXPORT / IMPORT                                                                    -->
+    <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+
+    <string name="settings_save_data">&font_cyan;Dane zapisu&font_end;</string>
+    <string name="button_export_save">Eksportuj zapis</string>
+    <string name="text_export_confirm_title">Eksportować zapis?</string>
+    <string name="text_export_confirm_message">Utworzy to plik zapisu twojej obecnej gry, który możesz zachować jako kopię zapasową lub zaimportować na innym urządzeniu.</string>
+    <string name="text_export_failed_title">Nie udało się wyeksportować</string>
+    <string name="text_export_failed_message">Coś poszło nie tak podczas przygotowywania pliku zapisu. Spróbuj ponownie.</string>
+    <string name="button_import_save">Importuj zapis</string>
+    <string name="text_import_confirm_title">Zaimportować zapis?</string>
+    <string name="text_import_confirm_message">&bold;%1$s&bold_end;: poziom &font_cyan;%2$d&font_end;</string>
+    <string name="text_import_success_title">Zapis zaimportowany!</string>
+    <string name="text_import_success_message">&bold;%1$s&bold_end; jest gotowy, by kontynuować przygodę.</string>
+    <string name="text_import_invalid_file_title">Nieprawidłowy zapis</string>
+    <string name="text_import_invalid_file_message">Ten plik nie jest zapisem Random Adventure Roguelike II albo został uszkodzony lub zmodyfikowany.</string>
+    <string name="text_import_unsupported_version_title">Zapis jest zbyt nowy</string>
+    <string name="text_import_unsupported_version_message">Ten zapis został wyeksportowany z nowszej wersji gry. Zaktualizuj Random Adventure Roguelike II i spróbuj ponownie.</string>
+    <string name="text_import_failed_title">Nie udało się zaimportować</string>
+    <string name="text_import_failed_message">Nie udało się zaimportować zapisu. Twoje sloty nie zostały zmienione.</string>
+
 </resources>

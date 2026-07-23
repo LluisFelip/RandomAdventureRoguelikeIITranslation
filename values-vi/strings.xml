@@ -4007,4 +4007,27 @@
     <string name="status_black_hole_level">Cấp độ &font_cyan;&font_end; &font_ash;Hố đen&font_end;: &font_red;%1$d&font_end;</string>
     <string name="island_fix_title">Đấng Sáng Tạo</string>
     <string name="island_fix_message">Chú ý, người hùng… Dường như đã có một lỗi trong thế giới này và hòn đảo cuối cùng bạn đến, và đã phải dịch chuyển bạn đến hòn đảo ban đầu của bạn để tránh bạn bị hủy diệt mãi mãi…&br;&br;Hãy tha thứ cho các vị thần và bản thân tôi vì vấn đề này, tôi hy vọng mọi thứ khác đều ổn!</string>
+
+    <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+    <!-- SAVE EXPORT / IMPORT                                                                    -->
+    <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+
+    <string name="settings_save_data">&font_cyan;Dữ Liệu Lưu&font_end;</string>
+    <string name="button_export_save">Xuất bản lưu</string>
+    <string name="text_export_confirm_title">Xuất bản lưu?</string>
+    <string name="text_export_confirm_message">Thao tác này sẽ tạo một tệp lưu cho ván chơi hiện tại của bạn, bạn có thể giữ làm bản sao lưu hoặc nhập vào thiết bị khác.</string>
+    <string name="text_export_failed_title">Không thể xuất</string>
+    <string name="text_export_failed_message">Đã xảy ra lỗi khi chuẩn bị tệp lưu. Vui lòng thử lại.</string>
+    <string name="button_import_save">Nhập bản lưu</string>
+    <string name="text_import_confirm_title">Nhập bản lưu?</string>
+    <string name="text_import_confirm_message">&bold;%1$s&bold_end;: cấp &font_cyan;%2$d&font_end;</string>
+    <string name="text_import_success_title">Đã nhập bản lưu!</string>
+    <string name="text_import_success_message">&bold;%1$s&bold_end; đã sẵn sàng tiếp tục cuộc phiêu lưu.</string>
+    <string name="text_import_invalid_file_title">Tệp lưu không hợp lệ</string>
+    <string name="text_import_invalid_file_message">Tệp này không phải là bản lưu của Random Adventure Roguelike II, hoặc đã bị hỏng hay chỉnh sửa.</string>
+    <string name="text_import_unsupported_version_title">Bản lưu quá mới</string>
+    <string name="text_import_unsupported_version_message">Bản lưu này được xuất từ phiên bản game mới hơn. Vui lòng cập nhật Random Adventure Roguelike II và thử lại.</string>
+    <string name="text_import_failed_title">Không thể nhập</string>
+    <string name="text_import_failed_message">Không thể nhập bản lưu. Các ô của bạn không bị thay đổi.</string>
+
 </resources>

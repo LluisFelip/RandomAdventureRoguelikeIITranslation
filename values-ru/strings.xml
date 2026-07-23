@@ -3932,5 +3932,28 @@
     <string name="spell_almost_kill_desc">Hits the enemy, leaving it at 1 health points if its health was greater than 1, otherwise you kill it.</string>
     <string name="spell_almost_kill_desc_combat">You hit %1$s! %2$s receives &font_red;%3$d &font_end;damage!</string>
     <string name="you_left_the_monster_very_weak">You left %1$s very weak! Increased chances of &font_pet;capturing &font_end;it!</string>
+
+    <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+    <!-- SAVE EXPORT / IMPORT                                                                    -->
+    <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+
+    <string name="settings_save_data">&font_cyan;Данные сохранения&font_end;</string>
+    <string name="button_export_save">Экспорт сохранения</string>
+    <string name="text_export_confirm_title">Экспортировать сохранение?</string>
+    <string name="text_export_confirm_message">Будет создан файл с вашей текущей игрой, который можно хранить как резервную копию или импортировать на другое устройство.</string>
+    <string name="text_export_failed_title">Не удалось экспортировать</string>
+    <string name="text_export_failed_message">При подготовке файла сохранения произошла ошибка. Попробуйте ещё раз.</string>
+    <string name="button_import_save">Импорт сохранения</string>
+    <string name="text_import_confirm_title">Импортировать сохранение?</string>
+    <string name="text_import_confirm_message">&bold;%1$s&bold_end;: уровень &font_cyan;%2$d&font_end;</string>
+    <string name="text_import_success_title">Сохранение импортировано!</string>
+    <string name="text_import_success_message">&bold;%1$s&bold_end; готов продолжить приключение.</string>
+    <string name="text_import_invalid_file_title">Неверный файл сохранения</string>
+    <string name="text_import_invalid_file_message">Этот файл не является сохранением Random Adventure Roguelike II, либо он повреждён или изменён.</string>
+    <string name="text_import_unsupported_version_title">Сохранение слишком новое</string>
+    <string name="text_import_unsupported_version_message">Это сохранение экспортировано из более новой версии игры. Обновите Random Adventure Roguelike II и попробуйте ещё раз.</string>
+    <string name="text_import_failed_title">Не удалось импортировать</string>
+    <string name="text_import_failed_message">Не удалось импортировать сохранение. Ваши слоты не изменены.</string>
+
 </resources>
 
