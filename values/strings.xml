@@ -3940,20 +3940,20 @@
     <!-- Export -->
     <string name="button_export_save">Export save</string>
     <string name="text_export_confirm_title">Export save?</string>
-    <string name="text_export_confirm_message">This will create a save file of your current game that you can keep as a backup, or import into another slot or another device.&br;&br;Your current game is not modified.</string>
+    <string name="text_export_confirm_message">This will create a save file of your current game that you can keep as a backup, or import into another device.</string>
     <string name="text_export_failed_title">Could not export</string>
     <string name="text_export_failed_message">Something went wrong while preparing the save file. Please try again.</string>
 
     <!-- Import -->
     <string name="button_import_save">Import save</string>
     <string name="text_import_confirm_title">Import save?</string>
-    <string name="text_import_confirm_message">&bold;%1$s&bold_end; — level %2$d</string>
+    <string name="text_import_confirm_message">&bold;%1$s&bold_end;: level &font_cyan;%2$d&font_end;</string>
     <string name="text_import_success_title">Save imported!</string>
-    <string name="text_import_success_message">&bold;%1$s&bold_end; (level %2$d) is ready to continue the adventure.</string>
+    <string name="text_import_success_message">&bold;%1$s&bold_end; is ready to continue the adventure.</string>
     <string name="text_import_invalid_file_title">Not a valid save</string>
-    <string name="text_import_invalid_file_message">This file is not a Random Adventure Roguelike 2 save, or it has been damaged or modified.</string>
+    <string name="text_import_invalid_file_message">This file is not a Random Adventure Roguelike II save, or it has been damaged or modified.</string>
     <string name="text_import_unsupported_version_title">Save is too new</string>
-    <string name="text_import_unsupported_version_message">This save was exported from a newer version of the game. Please update Random Adventure Roguelike 2 and try again.</string>
+    <string name="text_import_unsupported_version_message">This save was exported from a newer version of the game. Please update Random Adventure Roguelike II and try again.</string>
     <string name="text_import_failed_title">Could not import</string>
     <string name="text_import_failed_message">The save could not be imported. Your slots have not been changed.</string>
 
