@@ -1692,7 +1692,7 @@
     <string name="iron_bucket_drank_mana">You drank from the &font_mana;Mana&font_end; &font_iron;Bucket &font_end;and restored all your &font_mana;mana&font_end;.</string>
 
     <string name="bank_welcome_message" tools:ignore="PluralsCandidate">Welcome to the %1$s!&br;&br;We keep your &font_gold;Gold &font_end;safe here.&br;&br;You currently have &font_gold;%2$d Gold &font_end;in the %3$s.&br;</string>
-    <string name="bank_welcome_message_rich" tools:ignore="PluralsCandidate">Welcome to the %1$s…&br;&br;By the gods — &font_gold;%2$d Gold&font_end;?! Ahem… I mean, it is perfectly safe here, of course.&br;&br;A hero of your… means… is always most welcome in the %3$s. *the banker eyes your purse*&br;</string>
+    <string name="bank_welcome_message_rich" tools:ignore="PluralsCandidate">Welcome to the %1$s…&br;&br;Oh my… &font_gold;%2$d Gold&font_end;?! Ahem… I mean, it is perfectly safe here, of course.&br;&br;A hero of your… means… is always most welcome in the %3$s. *the banker eyes your purse*&br;</string>
     <string name="bank_deposit_message" tools:ignore="PluralsCandidate">How much do you want to &font_gold;deposit&font_end;?&br;&br;You currently have &font_gold;%1$d gold&font_end;.</string>
     <string name="bank_withdraw_message" tools:ignore="PluralsCandidate">How much do you want to &font_gold;withdraw&font_end;?&br;&br;You currently have &font_gold;%1$d gold &font_end;in the %2$s.</string>
     <string name="bank_deposit">(Deposit)</string>
