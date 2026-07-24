@@ -4063,4 +4063,12 @@
     <string name="text_import_failed_title">İçe aktarılamadı</string>
     <string name="text_import_failed_message">Kayıt içe aktarılamadı. Slotların değiştirilmedi.</string>
 
+
+    <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+    <!-- EASTER EGGS (reserved Creator name, wealthy-player bank greeting)                        -->
+    <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+
+    <string name="text_creator_name_not_allowed">Yalnızca tek bir &font_asterisk_creator;Yaratıcı&font_end; olabilir…</string>
+    <string name="bank_welcome_message_rich" tools:ignore="PluralsCandidate">%1$s\'a hoş geldin…&br;&br;Vay canına… &font_gold;%2$d Altın&font_end; mı?! Ehm… yani, burada elbette tamamen güvende.&br;&br;Senin… ayarında… bir kahraman %3$s\'da her zaman baş tacıdır. *bankacı gözünü kesene dikiyor*&br;</string>
+
 </resources>

@@ -3990,5 +3990,13 @@
     <string name="text_import_failed_title">Import se nezdařil</string>
     <string name="text_import_failed_message">Uloženou hru se nepodařilo importovat. Tvé pozice nebyly změněny.</string>
 
+
+    <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+    <!-- EASTER EGGS (reserved Creator name, wealthy-player bank greeting)                        -->
+    <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+
+    <string name="text_creator_name_not_allowed">Může být jen jeden &font_asterisk_creator;Stvořitel&font_end;…</string>
+    <string name="bank_welcome_message_rich" tools:ignore="PluralsCandidate">Vítej v %1$s…&br;&br;Propána… &font_gold;%2$d zlata&font_end;?! Ehm… tedy, tady je samozřejmě naprosto v bezpečí.&br;&br;Hrdina tvého… postavení… je v %3$s vždy nanejvýš vítán. *bankéř lačně pošilhává po tvém měšci*&br;</string>
+
 </resources>
 

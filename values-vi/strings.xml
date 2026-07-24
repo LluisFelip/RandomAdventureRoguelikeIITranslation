@@ -4030,4 +4030,12 @@
     <string name="text_import_failed_title">Không thể nhập</string>
     <string name="text_import_failed_message">Không thể nhập bản lưu. Các ô của bạn không bị thay đổi.</string>
 
+
+    <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+    <!-- EASTER EGGS (reserved Creator name, wealthy-player bank greeting)                        -->
+    <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+
+    <string name="text_creator_name_not_allowed">Chỉ có thể có một &font_asterisk_creator;Đấng Sáng Tạo&font_end;…</string>
+    <string name="bank_welcome_message_rich" tools:ignore="PluralsCandidate">Chào mừng đến %1$s…&br;&br;Ôi chao… &font_gold;%2$d Vàng&font_end; ư?! Ừm… ý ta là, tất nhiên nó hoàn toàn an toàn ở đây.&br;&br;Một anh hùng… giàu có như ngài… luôn được chào đón nồng nhiệt tại %3$s. *tay chủ ngân hàng thèm thuồng liếc túi tiền của ngài*&br;</string>
+
 </resources>

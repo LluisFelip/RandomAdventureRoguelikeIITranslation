@@ -4118,4 +4118,12 @@
     <string name="text_import_failed_title">Não foi possível importar</string>
     <string name="text_import_failed_message">Não foi possível importar o jogo. Os seus espaços não foram alterados.</string>
 
+
+    <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+    <!-- EASTER EGGS (reserved Creator name, wealthy-player bank greeting)                        -->
+    <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+
+    <string name="text_creator_name_not_allowed">Só pode haver um &font_asterisk_creator;Criador&font_end;…</string>
+    <string name="bank_welcome_message_rich" tools:ignore="PluralsCandidate">Bem-vindo ao %1$s…&br;&br;Nossa… &font_gold;%2$d de Ouro&font_end;?! Ahn… quer dizer, aqui está perfeitamente seguro, é claro.&br;&br;Um herói do seu… porte… é sempre muito bem-vindo no %3$s. *o banqueiro cobiça a sua bolsa*&br;</string>
+
 </resources>

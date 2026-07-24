@@ -3934,5 +3934,13 @@
     <string name="text_import_failed_title">Import fehlgeschlagen</string>
     <string name="text_import_failed_message">Der Spielstand konnte nicht importiert werden. Deine Slots wurden nicht verändert.</string>
 
+
+    <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+    <!-- EASTER EGGS (reserved Creator name, wealthy-player bank greeting)                        -->
+    <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+
+    <string name="text_creator_name_not_allowed">Es kann nur einen &font_asterisk_creator;Schöpfer&font_end; geben…</string>
+    <string name="bank_welcome_message_rich" tools:ignore="PluralsCandidate">Willkommen in der %1$s…&br;&br;Ach du meine Güte… &font_gold;%2$d Gold&font_end;?! Ähem… ich meine, es ist hier natürlich vollkommen sicher.&br;&br;Ein Held von deinem… Format… ist in der %3$s stets höchst willkommen. *der Bankier beäugt deinen Beutel*&br;</string>
+
 </resources>
 

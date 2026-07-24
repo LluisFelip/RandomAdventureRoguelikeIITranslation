@@ -3969,4 +3969,12 @@
     <string name="text_import_failed_title">가져오기 실패</string>
     <string name="text_import_failed_message">저장 파일을 가져오지 못했습니다. 슬롯은 변경되지 않았습니다.</string>
 
+
+    <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+    <!-- EASTER EGGS (reserved Creator name, wealthy-player bank greeting)                        -->
+    <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+
+    <string name="text_creator_name_not_allowed">&font_asterisk_creator;창조주&font_end;는 오직 하나뿐이다…</string>
+    <string name="bank_welcome_message_rich" tools:ignore="PluralsCandidate">%1$s에 오신 것을 환영합니다…&br;&br;어머… &font_gold;%2$d 골드&font_end;라고요?! 흠… 아니, 여기서는 물론 완벽하게 안전합니다.&br;&br;당신 같은… 재력의… 영웅은 %3$s에서 언제나 대환영입니다. *은행원이 당신의 지갑을 탐욕스럽게 바라본다*&br;</string>
+
 </resources>

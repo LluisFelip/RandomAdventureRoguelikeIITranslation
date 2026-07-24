@@ -3955,5 +3955,13 @@
     <string name="text_import_failed_title">Не удалось импортировать</string>
     <string name="text_import_failed_message">Не удалось импортировать сохранение. Ваши слоты не изменены.</string>
 
+
+    <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+    <!-- EASTER EGGS (reserved Creator name, wealthy-player bank greeting)                        -->
+    <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+
+    <string name="text_creator_name_not_allowed">Может быть только один &font_asterisk_creator;Создатель&font_end;…</string>
+    <string name="bank_welcome_message_rich" tools:ignore="PluralsCandidate">Добро пожаловать в %1$s…&br;&br;Ох ты… &font_gold;%2$d золота&font_end;?! Кхм… то есть, здесь оно, конечно, в полной безопасности.&br;&br;Герой вашего… положения… всегда желанный гость в %3$s. *банкир жадно косится на ваш кошелёк*&br;</string>
+
 </resources>
 

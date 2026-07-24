@@ -3967,4 +3967,12 @@
     <string name="text_import_failed_title">No se pudo importar</string>
     <string name="text_import_failed_message">No se pudo importar la partida. Tus ranuras no han sido modificadas.</string>
 
+
+    <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+    <!-- EASTER EGGS (reserved Creator name, wealthy-player bank greeting)                        -->
+    <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+
+    <string name="text_creator_name_not_allowed">Solo puede haber un &font_asterisk_creator;Creador&font_end;…</string>
+    <string name="bank_welcome_message_rich" tools:ignore="PluralsCandidate">Bienvenido al %1$s…&br;&br;Cielos… &font_gold;%2$d de Oro&font_end;?! Ejem… quiero decir, aquí está perfectamente a salvo, por supuesto.&br;&br;Un héroe de tu… posición… siempre es muy bienvenido en el %3$s. *el banquero mira tu bolsa con avaricia*&br;</string>
+
 </resources>

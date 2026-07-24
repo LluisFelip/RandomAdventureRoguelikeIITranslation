@@ -3981,4 +3981,12 @@
     <string name="text_import_failed_title">Nie udało się zaimportować</string>
     <string name="text_import_failed_message">Nie udało się zaimportować zapisu. Twoje sloty nie zostały zmienione.</string>
 
+
+    <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+    <!-- EASTER EGGS (reserved Creator name, wealthy-player bank greeting)                        -->
+    <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+
+    <string name="text_creator_name_not_allowed">Może być tylko jeden &font_asterisk_creator;Stwórca&font_end;…</string>
+    <string name="bank_welcome_message_rich" tools:ignore="PluralsCandidate">Witaj w %1$s…&br;&br;O rety… &font_gold;%2$d złota&font_end;?! Ehm… to znaczy, jest tu oczywiście zupełnie bezpieczne.&br;&br;Bohater twojego… pokroju… jest zawsze mile widziany w %3$s. *bankier łakomie zerka na twoją sakiewkę*&br;</string>
+
 </resources>

@@ -3913,4 +3913,12 @@
     <string name="text_import_failed_title">Échec de l\'importation</string>
     <string name="text_import_failed_message">La sauvegarde n\'a pas pu être importée. Tes slots n\'ont pas été modifiés.</string>
 
+
+    <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+    <!-- EASTER EGGS (reserved Creator name, wealthy-player bank greeting)                        -->
+    <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+
+    <string name="text_creator_name_not_allowed">Il ne peut y avoir qu\'un seul &font_asterisk_creator;Créateur&font_end;…</string>
+    <string name="bank_welcome_message_rich" tools:ignore="PluralsCandidate">Bienvenue dans la %1$s…&br;&br;Oh là là… &font_gold;%2$d d\'Or&font_end;?! Hum… je veux dire, c\'est parfaitement en sécurité ici, bien sûr.&br;&br;Un héros de ton… envergure… est toujours le bienvenu dans la %3$s. *le banquier lorgne ta bourse*&br;</string>
+
 </resources>
