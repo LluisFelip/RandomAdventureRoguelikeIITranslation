@@ -2311,7 +2311,7 @@
     <string name="monster_corrupted_god">타락한 신</string>
     <string name="main_story_8_corrupted_god_pre_combat_message_1">너는 아무것도 알지 못해…</string>
     <string name="main_story_8_corrupted_god_pre_combat_message_2">너를 벌레처럼 죽이기 전에 한마디 하지…</string>
-    <string name="main_story_8_corrupted_god_pre_combat_message_3">영원한 &font_hell;지옥 &font_end;그리고 &font_heaven;천국&font_end;이 있었네, 영원한 시공간 처럼…</string>
+    <string name="main_story_8_corrupted_god_pre_combat_message_3">영원한 &font_hell;지옥 &font_end;그리고 &font_heaven;천국&font_end;이 있었네, 영원한 시공간 처럼… 나는 섬들이 &font_void;Void&font_end; 속으로 가라앉고 그 잔해에서 새로운 세계가 피어나는 것을 보아 왔다 — 너의 세계는 그저 가장 최근의 것일 뿐…</string>
     <string name="main_story_8_corrupted_god_pre_combat_message_4">&font_corrupted_god;신 &font_end;의 단순한 게임 같은 것이야… 너같은 인간에게 희망은 없어.</string>
     <string name="main_story_8_corrupted_god_pre_combat_message_5">너같은, 영웅들, 다들 \"세상을 구하려고\" 하지… 하지만 그것은 잘못된 생각이야, 신의 힘이 있기 때문에… 참으로 안타깝구만…</string>
     <string name="main_story_8_corrupted_god_pre_combat_message_6">음… 시간이 되었군… 끝을 보자구!</string>
@@ -2707,7 +2707,7 @@
 
     <string name="dark_orb_gate_open">The &font_gate;Dark Gate &font_end;suddenly opens in front of you, there\'s a lot of &italic;dark energy &italic_end;coming out from it…</string>
 
-    <string name="void_master_after_killing_text">Killing me, you have activated the end for you and the rest of mortals… get ready for the &font_void;Void &font_end;Monsters appearing in your world…</string>
+    <string name="void_master_after_killing_text">Killing me, you have activated the end for you and the rest of mortals… get ready for the &font_void;Void &font_end;Monsters appearing in your world…&br;&br;This rot is older than your world — it first crept in through the islands that sank before yours was born… and it always finds its way back…</string>
     <string name="void_master_after_killing_text_2">You again…? Well… I\'m surprised you arrived so far with my &font_void;Void &font_end;Monsters around the world… I\'ll see you again…</string>
     <string name="void_master_after_killing_text_3">Well well… You are wearing a complete set of the &font_void;Void&font_end;… Right now there\'s nothing else I can offer… But come soon, and I\'ll give you something you need…</string>
 
@@ -3373,7 +3373,7 @@
     <string name="wise_completely_rested">You feel completely rested!</string>
     <string name="wise_main_story_island_lost_gold_and_memory">You lost some &font_gold;gold &font_end;and some of your memories…</string>
 
-    <string name="creator_pre_combat_message_1">You know… It\’s not easy to be &font_asterisk_creator;The Creator&font_end;… Always coding, adding greater challenges, fixing bugs, answering emails, chatting in discord, reddit, the web, etc…</string>
+    <string name="creator_pre_combat_message_1">You know… It\’s not easy to be &font_asterisk_creator;The Creator&font_end;… Always coding, adding greater challenges, fixing bugs, answering emails, chatting in discord, reddit, the web, etc…&br;&br;I raised this whole world after the last one drowned… all those islands, gone beneath the &font_void;Void&font_end;… do you have any idea how much it takes to build a world from that wreckage?</string>
     <string name="creator_pre_combat_message_2">And all of it for what? Tell me, why am I supposed to do this? I can\'t stand the pressure anymore…!</string>
     <string name="creator_pre_combat_message_3">GET READY TO DIE! Mmmmmwwwwahahahahahahaha!</string>
 

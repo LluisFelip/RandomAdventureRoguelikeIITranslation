@@ -2305,7 +2305,7 @@
     <string name="main_story_8_corrupted_god_pre_combat_message_1">Hiçbir şey bilmiyorsun…</string>
     <string name="main_story_8_corrupted_god_pre_combat_message_2">Seni bir böcek gibi ezmeden önce sana bir şey söylememe izin ver…</string>
     <string name="main_story_8_corrupted_god_pre_combat_message_3">Sonsuz &font_hell;Cehennem &font_end;ve &font_heaven;Cennet&font_end;
-        var, sonsuz boyutlar gibi…</string>
+        var, sonsuz boyutlar gibi… Adaların &font_void;Hiçlik&font_end;\'e gömüldüğünü ve enkazından yeni dünyaların doğduğunu gördüm — seninki yalnızca sonuncusu…</string>
     <string name="main_story_8_corrupted_god_pre_combat_message_4">Herşey sadece &font_corrupted_god;Tanrısal &font_end;bir satranç oyunu… Senin gibi ölümlüler için umut yok.</string>
     <string name="main_story_8_corrupted_god_pre_combat_message_5">Hepiniz, kahramanlar, her zaman \"dünyayı kurtarmak\" için çok çalışıyorsunuz… Bu saçma bir amaç. Çünkü her zaman gerçek güce sahip bir tanrı olacaktır… SEN saçma bir amaçsın…</string>
     <string name="main_story_8_corrupted_god_pre_combat_message_6">Pekala… Bence şimdi sırası… BU ŞİMDİ BİTMELİ!</string>
@@ -2734,7 +2734,7 @@
 
     <string name="dark_orb_gate_open">&font_gate;Kara Kapı &font_end;aniden önünde açılıyor, ve kapıdan çokça &italic;kara enerji &italic_end;geliyor…</string>
 
-    <string name="void_master_after_killing_text">Beni öldürerek, kendinin ve geri kalan ölümlülerin sonunu getirdin… dünyanda belirecek &font_void;Hiçlik &font_end;Canavarlarına hazır ol…</string>
+    <string name="void_master_after_killing_text">Beni öldürerek, kendinin ve geri kalan ölümlülerin sonunu getirdin… dünyanda belirecek &font_void;Hiçlik &font_end;Canavarlarına hazır ol…&br;&br;Bu çürüme senin dünyandan daha eski — ilk olarak, seninki doğmadan önce batan adalardan sızdı… ve daima geri dönmenin bir yolunu bulur…</string>
     <string name="void_master_after_killing_text_2">Yine mi sen…? Pekala… Şimdiye kadar dünyadaki &font_void;Hiçlik&font_end;
         Canavarlarıma rağmen gelebildiğine şaşırdım… Seni tekrar göreceğim…</string>
     <string name="void_master_after_killing_text_3">Pekala pekala… &font_void;Hiçliğin&font_end; tam setini giyiyorsun… Şu an sana sunabileceğim hiçbir şey yok… Ama yakında geri gel, ve sana ihtiyacın olan bir şey vereceğim…</string>
@@ -3434,7 +3434,7 @@
     <string name="wise_completely_rested">Tamamen dinlenmiş hissediyorsun!</string>
     <string name="wise_main_story_island_lost_gold_and_memory">Biraz &font_gold;altın &font_end;kaybettin ve biraz da hafızanı…</string>
 
-    <string name="creator_pre_combat_message_1">Bilirsin… &font_asterisk_creator;Yaratıcı&font_end; olmak kolay değil… Her zaman kodluyorum, daha büyük zorluklar ekliyorum, hataları çözüyorum, e-postalara cevap veriyorum, Discord\'da sohbet ediyorum, reddit, internet, vb. çok meşgulüm…</string>
+    <string name="creator_pre_combat_message_1">Bilirsin… &font_asterisk_creator;Yaratıcı&font_end; olmak kolay değil… Her zaman kodluyorum, daha büyük zorluklar ekliyorum, hataları çözüyorum, e-postalara cevap veriyorum, Discord\'da sohbet ediyorum, reddit, internet, vb. çok meşgulüm…&br;&br;Bir öncekisi boğulduktan sonra tüm bu dünyayı ben kurdum… o adaların hepsi &font_void;Hiçlik&font_end;\'in dibine gömüldü… böyle bir enkazdan bir dünya kurmanın neye mal olduğuna dair bir fikrin var mı?</string>
     <string name="creator_pre_combat_message_2">Ve bunun hepsi ne için? Söyle bana, neden bunu yapmalıyım? Baskıya artık dayanamıyorum…!</string>
     <string name="creator_pre_combat_message_3">ÖLMEYE HAZIR OL! Mmmmmwwwwahahahahahahaha!</string>
 

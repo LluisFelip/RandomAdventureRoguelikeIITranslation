@@ -2243,7 +2243,7 @@
     <string name="main_story_8_corrupted_god_pre_combat_message_1">Tu ne sais rien…</string>
     <string name="main_story_8_corrupted_god_pre_combat_message_2">Laisse-moi te dire une chose avant que je t\'écrase tel un insecte…</string>
     <string name="main_story_8_corrupted_god_pre_combat_message_3">Il y a un nombre d\' &font_hell;Enfers &font_end;et de &font_heaven;Paradis&font_end;
-        infini, et des dimensions infinies…</string>
+        infini, et des dimensions infinies… J\'ai vu des îles sombrer dans le &font_void;néant &font_end;et de nouveaux mondes éclore de leurs débris — le tien n\'est que le dernier en date…</string>
     <string name="main_story_8_corrupted_god_pre_combat_message_4">Tout n\'est qu\'un jeu d\'échecs &font_corrupted_god;Divin&font_end;… Il n\'y a pas d\'espoir pour des mortels tels que toi.</string>
     <string name="main_story_8_corrupted_god_pre_combat_message_5">Vous tous, les héros, vous essayez tellement dur de \«sauver le monde\»… C\'est une cause perdue, car il y aura toujours un Dieu avec un pouvoir véritable… TU es une cause perdue…</string>
     <string name="main_story_8_corrupted_god_pre_combat_message_6">Alors… Je pense qu\'il est temps… QUE CELA S\'ARRÊTE !</string>
@@ -2643,7 +2643,7 @@
 
     <string name="dark_orb_gate_open">Le &font_gate;portail sombre &font_end;s\'ouvre soudainement sous vos yeux, une quantité importante d\'&italic;énergie sombre &italic_end;en émane…</string>
 
-    <string name="void_master_after_killing_text">En me tuant, tu condamne tous les mortels, toi y compris… Prépare toi à ce que les monstres du &font_void;néant &font_end;commencent à apparaitre dans ton monde…</string>
+    <string name="void_master_after_killing_text">En me tuant, tu condamne tous les mortels, toi y compris… Prépare toi à ce que les monstres du &font_void;néant &font_end;commencent à apparaitre dans ton monde…&br;&br;Cette pourriture est plus ancienne que ton monde — elle s\'est d\'abord insinuée par les îles qui ont sombré avant que le tien ne naisse… et elle finit toujours par revenir…</string>
     <string name="void_master_after_killing_text_2">Encore toi… ? à vrai dire… Je suis surpris que tu tienne le coup face à mes monstres du &font_void;néant &font_end;éparpillés dans le monde… On se reverra…</string>
     <string name="void_master_after_killing_text_3">Bien, bien… Je vois que tu portes un set complet du &font_void;néant&font_end;… Pour l\'instant, je ne peux rien t\'offrir d\'autre… Mais reviens une autre fois et je te donnerais quelque chose dont tu as besoin…</string>
 
@@ -3323,7 +3323,7 @@
     <string name="wise_completely_rested">Vous vous sentez en pleine forme !</string>
     <string name="wise_main_story_island_lost_gold_and_memory">Vous avez perdu un peu d\' &font_gold;or &font_end;et une partie de ta mémoire…</string>
 
-    <string name="creator_pre_combat_message_1">Vous savez… Ce n\'est pas facile d\'être &font_asterisk_creator;le créateur&font_end;… Toujours là à coder, à ajouter de plus grands défis, à corriger les bugs, à répondre aux emails, à discuter sur discord, reddit, sur le web, etc…</string>
+    <string name="creator_pre_combat_message_1">Vous savez… Ce n\'est pas facile d\'être &font_asterisk_creator;le créateur&font_end;… Toujours là à coder, à ajouter de plus grands défis, à corriger les bugs, à répondre aux emails, à discuter sur discord, reddit, sur le web, etc…&br;&br;J\'ai bâti ce monde entier après que le précédent s\'est noyé… toutes ces îles, englouties par le &font_void;néant&font_end;… as-tu la moindre idée de ce qu\'il faut pour bâtir un monde à partir de pareilles ruines ?</string>
     <string name="creator_pre_combat_message_2">Et tout ça pour quoi ? Dites-moi, pourquoi devrais-je faire tout cela ? Je ne peux plus supporter la pression… !</string>
     <string name="creator_pre_combat_message_3">PRÉPAREZ-VOUS À MOURIR ! MMMMWHAHAHAHAHA !</string>
 

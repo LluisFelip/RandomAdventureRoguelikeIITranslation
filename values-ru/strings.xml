@@ -2295,7 +2295,7 @@
     <string name="monster_corrupted_god">Извращённый Бог</string>
     <string name="main_story_8_corrupted_god_pre_combat_message_1">Ты ничего не знаешь…</string>
     <string name="main_story_8_corrupted_god_pre_combat_message_2">Я тебе расскажу кое-что перед тем, как раздавлю, как букашку…</string>
-    <string name="main_story_8_corrupted_god_pre_combat_message_3">Существует бесконечное количество &font_hell;Адов &font_end;и &font_heaven;Раев&font_end;, равно как и измерений…</string>
+    <string name="main_story_8_corrupted_god_pre_combat_message_3">Существует бесконечное количество &font_hell;Адов &font_end;и &font_heaven;Раев&font_end;, равно как и измерений… Я видел, как острова тонули в &font_void;Бездне &font_end;и новые миры расцветали на их обломках — твой лишь последний из них…</string>
     <string name="main_story_8_corrupted_god_pre_combat_message_4">Это всё словно шахматная партия &font_corrupted_god;богов&font_end;… Для смертных, как ты, нет надежды.</string>
     <string name="main_story_8_corrupted_god_pre_combat_message_5">Все вы, герои, изо всех сил пытаетесь \"спасти мир\"… это бессмысленно, ибо всегда есть Бог с настоящей силой… в ТЕБЕ нет смысла…</string>
     <string name="main_story_8_corrupted_god_pre_combat_message_6">Что же… Пришло время… ПОКОНЧИТЬ С ЭТИМ!</string>
@@ -2686,7 +2686,7 @@
 
     <string name="dark_orb_gate_open">Перед вами неожиданно распахиваются &font_gate;Тёмные врата&font_end;, от них исходит много &italic;тёмной энергии&italic_end;…</string>
 
-    <string name="void_master_after_killing_text">Убив меня, ты устроил начало конца для себя и остальных смертных… готовься к появлению монстров &font_void;Бездны &font_end;в своём мире…</string>
+    <string name="void_master_after_killing_text">Убив меня, ты устроил начало конца для себя и остальных смертных… готовься к появлению монстров &font_void;Бездны &font_end;в своём мире…&br;&br;Эта гниль древнее твоего мира — впервые она просочилась через острова, что затонули прежде, чем родился твой… и она всегда находит путь назад…</string>
     <string name="void_master_after_killing_text_2">Снова ты…? Что ж… Я удивлён, что ты смог забраться так далеко, учитывая монстров &font_void;Бездны,&font_end; что ходят по всему миру… Мы ещё увидимся…</string>
     <string name="void_master_after_killing_text_3">Что тут у нас… Ты носишь полный комплект &font_void;Бездны&font_end;… Прямо сейчас мне нечего тебе предложить… Однако возвращайся, и я дам тебе то, что тебе нужно…</string>
 
@@ -3360,7 +3360,7 @@
     <string name="wise_completely_rested">Вы полностью отдохнули!</string>
     <string name="wise_main_story_island_lost_gold_and_memory">Вы потеряли немного &font_gold;золота &font_end; и некоторые воспоминания…</string>
 
-    <string name="creator_pre_combat_message_1">Знаешь… Не так-то просто быть &font_asterisk_creator;Создателем&font_end;… Постоянно пишешь коды, добавляешь более сложные испытания, исправляешь баги, отвечаешь на почту, общаешься в discord, reddit, в сети и т.д.…</string>
+    <string name="creator_pre_combat_message_1">Знаешь… Не так-то просто быть &font_asterisk_creator;Создателем&font_end;… Постоянно пишешь коды, добавляешь более сложные испытания, исправляешь баги, отвечаешь на почту, общаешься в discord, reddit, в сети и т.д.…&br;&br;Я воздвиг весь этот мир после того, как утонул прежний… все те острова, поглощённые &font_void;Бездной&font_end;… ты хоть представляешь, чего стоит построить мир из подобных обломков?</string>
     <string name="creator_pre_combat_message_2">И всё это для чего? Скажи, почему я должен этим заниматься? Я больше не выдержу…!</string>
     <string name="creator_pre_combat_message_3">ГОТОВЬСЯ УМЕРЕТЬ! Мва-ха-ха-ха-ха!</string>
 

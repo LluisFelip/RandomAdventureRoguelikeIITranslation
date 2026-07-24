@@ -2303,7 +2303,7 @@
     <string name="monster_corrupted_god">Corrupted God</string>
     <string name="main_story_8_corrupted_god_pre_combat_message_1">You know nothing…</string>
     <string name="main_story_8_corrupted_god_pre_combat_message_2">Let me tell you something before I crush you like an insect…</string>
-    <string name="main_story_8_corrupted_god_pre_combat_message_3">There are infinite &font_hell;Hells &font_end;and &font_heaven;Heavens&font_end;, like infinite dimensions…</string>
+    <string name="main_story_8_corrupted_god_pre_combat_message_3">There are infinite &font_hell;Hells &font_end;and &font_heaven;Heavens&font_end;, like infinite dimensions… I have watched islands sink into the &font_void;Void &font_end;and new worlds bloom from the wreckage — yours is only the latest…</string>
     <string name="main_story_8_corrupted_god_pre_combat_message_4">Everything is just a &font_corrupted_god;God &font_end;chess game… There is no hope for mortals like you.</string>
     <string name="main_story_8_corrupted_god_pre_combat_message_5">All of you, heroes, always trying so hard to \"save the world\"… it is just a lost cause because there will always be a God with true power… YOU are a lost cause…</string>
     <string name="main_story_8_corrupted_god_pre_combat_message_6">Well… I think it\'s time… THIS MUST END NOW!</string>
@@ -2699,7 +2699,7 @@
 
     <string name="dark_orb_gate_open">The &font_gate;Dark Gate &font_end;suddenly opens in front of you, there\'s a lot of &italic;dark energy &italic_end;coming out from it…</string>
 
-    <string name="void_master_after_killing_text">Killing me, you have activated the end for you and the rest of mortals… get ready for the &font_void;Void &font_end;Monsters appearing in your world…</string>
+    <string name="void_master_after_killing_text">Killing me, you have activated the end for you and the rest of mortals… get ready for the &font_void;Void &font_end;Monsters appearing in your world…&br;&br;This rot is older than your world — it first crept in through the islands that sank before yours was born… and it always finds its way back…</string>
     <string name="void_master_after_killing_text_2">You again…? Well… I\'m surprised you arrived so far with my &font_void;Void &font_end;Monsters around the world… I\'ll see you again…</string>
     <string name="void_master_after_killing_text_3">Well well… You are wearing a complete set of the &font_void;Void&font_end;… Right now there\'s nothing else I can offer… But come soon, and I\'ll give you something you need…</string>
 
@@ -3366,7 +3366,7 @@
     <string name="wise_completely_rested">You feel completely rested!</string>
     <string name="wise_main_story_island_lost_gold_and_memory">You lost some &font_gold;gold &font_end;and some of your memories…</string>
 
-    <string name="creator_pre_combat_message_1">You know… It\’s not easy to be &font_asterisk_creator;The Creator&font_end;… Always coding, adding greater challenges, fixing bugs, answering emails, chatting in discord, reddit, the web, etc…</string>
+    <string name="creator_pre_combat_message_1">You know… It\’s not easy to be &font_asterisk_creator;The Creator&font_end;… Always coding, adding greater challenges, fixing bugs, answering emails, chatting in discord, reddit, the web, etc…&br;&br;I raised this whole world after the last one drowned… all those islands, gone beneath the &font_void;Void&font_end;… do you have any idea how much it takes to build a world from that wreckage?</string>
     <string name="creator_pre_combat_message_2">And all of it for what? Tell me, why am I supposed to do this? I can\'t stand the pressure anymore…!</string>
     <string name="creator_pre_combat_message_3">GET READY TO DIE! Mmmmmwwwwahahahahahahaha!</string>
 

@@ -2308,7 +2308,7 @@
     <string name="monster_corrupted_god">Vị Thần Sa Ngã</string>
     <string name="main_story_8_corrupted_god_pre_combat_message_1">Ngươi không biết gì cả…</string>
     <string name="main_story_8_corrupted_god_pre_combat_message_2">Để ta nói cho ngươi một điều trước khi ta nghiền nát ngươi như một con côn trùng…</string>
-    <string name="main_story_8_corrupted_god_pre_combat_message_3">Có vô số &font_hell;Địa ngục &font_end;và &font_heaven;Thiên đàng&font_end;, giống như vô số chiều không gian…</string>
+    <string name="main_story_8_corrupted_god_pre_combat_message_3">Có vô số &font_hell;Địa ngục &font_end;và &font_heaven;Thiên đàng&font_end;, giống như vô số chiều không gian… Ta đã chứng kiến những hòn đảo chìm vào &font_void;Hư không &font_end;và những thế giới mới nảy nở từ đống đổ nát — thế giới của ngươi chỉ là mới nhất mà thôi…</string>
     <string name="main_story_8_corrupted_god_pre_combat_message_4">Mọi thứ chỉ là một ván cờ của &font_corrupted_god;Thần linh&font_end;… Không có hy vọng nào cho những kẻ phàm trần như ngươi.</string>
     <string name="main_story_8_corrupted_god_pre_combat_message_5">Tất cả các ngươi, những anh hùng, luôn cố gắng hết sức để "cứu thế giới"… đó chỉ là một nỗ lực vô ích vì sẽ luôn có một vị Thần với sức mạnh thực sự… NGƯƠI là một nỗ lực vô ích…</string>
     <string name="main_story_8_corrupted_god_pre_combat_message_6">Chà… Ta nghĩ đã đến lúc… CHUYỆN NÀY PHẢI KẾT THÚC NGAY BÂY GIỜ!</string>
@@ -2705,7 +2705,7 @@
 
     <string name="dark_orb_gate_open">&font_gate;Cổng Hắc Ám &font_end;đột nhiên mở ra trước mắt bạn, có rất nhiều &italic;năng lượng hắc ám &italic_end;tỏa ra từ đó…</string>
 
-    <string name="void_master_after_killing_text">Giết ta, ngươi đã kích hoạt sự kết thúc cho ngươi và phần còn lại của loài người… hãy sẵn sàng cho những &font_void;Quái vật Hư không &font_end;xuất hiện trong thế giới của ngươi…</string>
+    <string name="void_master_after_killing_text">Giết ta, ngươi đã kích hoạt sự kết thúc cho ngươi và phần còn lại của loài người… hãy sẵn sàng cho những &font_void;Quái vật Hư không &font_end;xuất hiện trong thế giới của ngươi…&br;&br;Thứ mục ruỗng này còn cổ xưa hơn thế giới của ngươi — nó len lỏi vào lần đầu qua những hòn đảo đã chìm trước khi thế giới của ngươi ra đời… và nó luôn tìm được đường quay lại…</string>
     <string name="void_master_after_killing_text_2">Lại là ngươi…? Chà… Ta ngạc nhiên khi ngươi đã đi xa đến vậy với những &font_void;Quái vật Hư không &font_end;của ta trên khắp thế giới… Ta sẽ gặp lại ngươi…</string>
     <string name="void_master_after_killing_text_3">Chà chà… Ngươi đang mặc một bộ đồ &font_void;Hư không&font_end;
         hoàn chỉnh… Ngay bây giờ ta không còn gì để ban cho ngươi nữa… Nhưng hãy sớm quay lại, và ta sẽ cho ngươi thứ ngươi cần…</string>
@@ -3379,7 +3379,7 @@
     <string name="wise_completely_rested">Bạn cảm thấy hoàn toàn được nghỉ ngơi!</string>
     <string name="wise_main_story_island_lost_gold_and_memory">Bạn đã mất một ít &font_gold;vàng &font_end;và một vài ký ức…</string>
 
-    <string name="creator_pre_combat_message_1">Ngươi biết đấy… Không dễ để trở thành &font_asterisk_creator;Đấng Sáng Tạo&font_end;… Luôn phải viết mã, thêm những thử thách lớn hơn, sửa lỗi, trả lời email, trò chuyện trên discord, reddit, web, v.v…</string>
+    <string name="creator_pre_combat_message_1">Ngươi biết đấy… Không dễ để trở thành &font_asterisk_creator;Đấng Sáng Tạo&font_end;… Luôn phải viết mã, thêm những thử thách lớn hơn, sửa lỗi, trả lời email, trò chuyện trên discord, reddit, web, v.v…&br;&br;Ta đã dựng nên cả thế giới này sau khi thế giới trước chìm nghỉm… tất cả những hòn đảo ấy biến mất dưới &font_void;Hư không&font_end;… ngươi có hình dung nổi phải tốn bao công sức để dựng một thế giới từ đống đổ nát đó không?</string>
     <string name="creator_pre_combat_message_2">Và tất cả để làm gì? Nói cho ta biết, tại sao ta phải làm điều này? Ta không thể chịu đựng áp lực này nữa…!</string>
     <string name="creator_pre_combat_message_3">CHUẨN BỊ CHẾT ĐI! Mmmmmwwwwahahahahahahaha!</string>
 
@@ -4006,7 +4006,7 @@
     <string name="black_hole_disappears">Hố đen biến mất và cùng với nó, Ngọn lửa Thăng Thiên của bạn… nhưng bạn nhận thấy cơ thể mình đã thay đổi theo một cách nào đó…</string>
     <string name="status_black_hole_level">Cấp độ &font_cyan;&font_end; &font_ash;Hố đen&font_end;: &font_red;%1$d&font_end;</string>
     <string name="island_fix_title">Đấng Sáng Tạo</string>
-    <string name="island_fix_message">Chú ý, người hùng… Dường như đã có một lỗi trong thế giới này và hòn đảo cuối cùng bạn đến, và đã phải dịch chuyển bạn đến hòn đảo ban đầu của bạn để tránh bạn bị hủy diệt mãi mãi…&br;&br;Hãy tha thứ cho các vị thần và bản thân tôi vì vấn đề này, tôi hy vọng mọi thứ khác đều ổn!</string>
+    <string name="island_fix_message">Chú ý, người hùng… Dường như đã có một lỗi trong thế giới này và hòn đảo cuối cùng bạn đến, và đã phải dịch chuyển bạn đến hòn đảo ban đầu của bạn để tránh bạn bị hủy diệt mãi mãi…&br;&br;Những trục trặc này là những vết thương cũ — tiếng vọng mờ nhạt của một thế giới đảo đã chìm từ rất lâu trước khi thế giới của ngươi trỗi dậy từ đống đổ nát của nó…&br;&br;Hãy tha thứ cho các vị thần và bản thân tôi vì vấn đề này, tôi hy vọng mọi thứ khác đều ổn!</string>
 
     <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
     <!-- SAVE EXPORT / IMPORT                                                                    -->

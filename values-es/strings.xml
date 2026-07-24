@@ -2293,7 +2293,7 @@
     <string name="monster_corrupted_god">Dios Corrupto</string>
     <string name="main_story_8_corrupted_god_pre_combat_message_1">No sabes nada…</string>
     <string name="main_story_8_corrupted_god_pre_combat_message_2">Deja que te diga algo antes de que te aplaste como a un insecto…</string>
-    <string name="main_story_8_corrupted_god_pre_combat_message_3">Hay infinitos &font_hell;Infiernos &font_end;y &font_heaven;Cielos&font_end;, como dimensiones infinitas…</string>
+    <string name="main_story_8_corrupted_god_pre_combat_message_3">Hay infinitos &font_hell;Infiernos &font_end;y &font_heaven;Cielos&font_end;, como dimensiones infinitas… He visto islas hundirse en el &font_void;Vacío &font_end;y nuevos mundos florecer de sus restos — el tuyo no es más que el último…</string>
     <string name="main_story_8_corrupted_god_pre_combat_message_4">Todo es un simple juego de ajedrez… No hay esperanza para los mortales como tú…</string>
     <string name="main_story_8_corrupted_god_pre_combat_message_5">Todos vosotros, héroes, siempre intentando \"salvar el mundo\"… es una causa perdida porque siempre habrá un &font_corrupted_god;Dios &font_end;con verdadero poder… TÚ eres una causa perdida…</string>
     <string name="main_story_8_corrupted_god_pre_combat_message_6">Bueno… Creo que ha llegado la hora… ESTO DEBE ACABAR AHORA!</string>
@@ -2686,7 +2686,7 @@
     <string name="tile_type_infinity">Infinito</string>
 
     <string name="dark_orb_gate_open">El &font_gate;Portal Oscuro &font_end;se abre de repente, emitiendo una &italic;energía oscura &italic_end;muy poderosa…</string>
-    <string name="void_master_after_killing_text">Matándome, has activado el final para ti y el resto de los mortales… prepárate para que los Monstruos del &font_void;Vacío &font_end;aparezcan en tu mundo…</string>
+    <string name="void_master_after_killing_text">Matándome, has activado el final para ti y el resto de los mortales… prepárate para que los Monstruos del &font_void;Vacío &font_end;aparezcan en tu mundo…&br;&br;Esta podredumbre es más antigua que tu mundo — se coló por primera vez a través de las islas que se hundieron antes de que el tuyo naciera… y siempre encuentra el modo de regresar…</string>
     <string name="void_master_after_killing_text_2">¿Tú de nuevo…? Vaya… Estoy sorprendido que hayas llegado tan lejos con mis &font_red;Monstruos &font_end;del &font_void;Vacío &font_end;por el mundo… Nos veremos de nuevo…</string>
     <string name="void_master_after_killing_text_3">Vaya vaya… ¿Qué ven mis ojos? Llevas un set completo del &font_void;Vacío&font_end;… Ahora mismo no hay nada más que te pueda ofrecer, pero vuelve pronto y te daré algo que necesitas…</string>
 
@@ -3361,7 +3361,7 @@
     <string name="wise_completely_rested">¡Te sientes completamente recuperado!</string>
     <string name="wise_main_story_island_lost_gold_and_memory">Has perdido tu &font_gold;oro &font_end;y algunos de tus recuerdos…</string>
 
-    <string name="creator_pre_combat_message_1">Sabes… No es fácil ser el &font_asterisk_creator;Creador&font_end;. Siempre programando, añadiendo nuevos retos, corrigiendo errores, contestando los mails, chateando en Discord, Reddit, la web, etc…</string>
+    <string name="creator_pre_combat_message_1">Sabes… No es fácil ser el &font_asterisk_creator;Creador&font_end;. Siempre programando, añadiendo nuevos retos, corrigiendo errores, contestando los mails, chateando en Discord, Reddit, la web, etc…&br;&br;Levanté este mundo entero después de que el anterior se ahogara… todas aquellas islas, engullidas por el &font_void;Vacío&font_end;… ¿tienes idea de lo que cuesta construir un mundo a partir de semejantes ruinas?</string>
     <string name="creator_pre_combat_message_2">¿Y todo eso para qué? Dime, ¿por qué se supone que estoy haciendo esto? No puedo soportar la presión más…!</string>
     <string name="creator_pre_combat_message_3">¡PREPÁRATE PARA MORIR! Mmmmmwwwwahahahahahahaha!</string>
 
