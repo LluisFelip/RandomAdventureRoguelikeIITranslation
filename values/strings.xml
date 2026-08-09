@@ -139,6 +139,8 @@
     <string name="about_title">&line_break;About RAR II</string>
     <string name="about_text">This game has been created by a one-man developer team with love and patience :)&br;&br;I would love to hear about your opinion! Please feel free to contact me and share your ideas and suggestions.&br;&br;Hope you enjoy your adventure!</string>
     <string name="about_discord">RAR II on Discord</string>
+    <string name="about_archison_games">Archison Games</string>
+    <string name="about_archison_website">Archison Website</string>
 
     <string name="new_game_welcome_hero_whats_your_name">Welcome, hero! What\'s your name?</string>
     <string name="new_game_hero_name">Hero</string>
