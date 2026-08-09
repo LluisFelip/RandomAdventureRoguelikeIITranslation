@@ -3959,4 +3959,13 @@
     <string name="text_import_failed_title">Could not import</string>
     <string name="text_import_failed_message">The save could not be imported. Your slots have not been changed.</string>
 
+    <string name="text_new_game_name_needed">Please write a name for your hero first.</string>
+
+    <!-- Save progress -->
+    <string name="text_save_progress_preparing">Preparing…</string>
+    <string name="text_save_progress_packing_islands">Packing islands…</string>
+    <string name="text_save_progress_writing_islands">Writing islands…</string>
+    <string name="text_save_progress_finishing">Finishing…</string>
+    <string name="text_save_progress_count">%1$d / %2$d</string>
+
 </resources>
