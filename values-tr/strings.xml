@@ -78,7 +78,6 @@
     <string name="about_reddit">Reddit\'te RAR II</string>
     <string name="about_title">&line_break;RAR II Hakkında</string>
     <string name="about_text">Bu oyun tek kişilik bir geliştirici takımı tarafından sevgi ve sabırla oluşturulmuştur :)&br;&br;Görüşlerini duymak isterim! Lütfen benimle iletişime geçmekten çekinme ve fikir ve önerilerini paylaş.&br;&br;Umarım macerandan zevk alırsın!</string>
-    <string name="about_twitter">Twitter\'da Archison</string>
     <string name="about_discord">Discord\'da RAR II</string>
 
     <string name="new_game_welcome_hero_whats_your_name">Hoşgeldin, kahraman! Adın ne?</string>
@@ -232,7 +231,7 @@
     <string name="button_inventory_mode">Envanter</string>
     <string name="button_stash_mode">Depo</string>
     <string name="button_stash_increase_stash">&font_wood;Depo&font_end; boyutunu artır</string>
-    <string name="button_scrap_per_gold">Parçala: &font_gold;%1$d&font_end; Altın</string>
+    <string name="button_scrap_per_gold">Parçala: &font_gold;%1$,d&font_end; Altın</string>
     <string name="button_feedback">&font_cyan;Geri Bildirim&font_end;</string>
     <string name="button_blacksmith_upgrade_equipment">&font_green;\*&font_end;Ekipman Geliştir</string>
     <string name="button_blacksmith_scrap_equipment">Ekipman &font_copper;Parçala&font_end;</string>
@@ -253,7 +252,7 @@
     <string name="inventory_cooked_thing">%1$s pişirdin!</string>
     <string name="inventory_pickup">%1$s aldın!</string>
     <string name="inventory_damaged_by">%1$s tarafından hasar!</string>
-    <string name="inventory_pickup_gold">&font_gold;%1$d&font_end; altın aldın!</string>
+    <string name="inventory_pickup_gold">&font_gold;%1$,d&font_end; altın aldın!</string>
     <string name="inventory_required_level_x">&italic;Gereken Seviye: &font_cyan;%1$d&font_end;&italic_end;</string>
     <string name="inventory_tree_drop">&font_coconut;Ağacı&font_end;ndan bir %1$s düştü!</string>
     <string name="inventory_equipment_title_with_level">&font_wood;Ekipman &font_end;[&font_wood;µ&font_end;: &font_cyan;%1$d&font_end;]</string>
@@ -293,9 +292,9 @@
     <string name="status_currently_at">Şu konumdasın: &font_cyan;%1$d&font_end;, &font_cyan;%2$d &font_end;in &font_cyan;%3$s&font_end;</string>
     <string name="status_player_name">%1$s</string>
     <string name="status_player_level">Seviye &font_cyan;%1$d&font_end;</string>
-    <string name="status_player_experience_needed">Tecrübe: &font_cyan;%1$d&font_end;/&font_cyan;%2$d&font_end;</string>
-    <string name="status_player_gold">Altın: &font_gold;%1$d&font_end;
-        (&font_gold;Bankada&font_end; &font_gold;%2$d &font_end;+ &font_gold;%3$d&font_end;)</string>
+    <string name="status_player_experience_needed">Tecrübe: &font_cyan;%1$,d&font_end;/&font_cyan;%2$,d&font_end;</string>
+    <string name="status_player_gold">Altın: &font_gold;%1$,d&font_end;
+        (&font_gold;Bankada&font_end; &font_gold;%2$,d &font_end;+ &font_gold;%3$,d&font_end;)</string>
     <string name="status_permadeath">&font_red;&bold;ÖLDÜBİTTİ&bold_end;&font_end;</string>
     <string name="status_no_permadeath">&font_green;&bold;ÖLDÜBİTTİ YOK&bold_end;&font_end;</string>
 
@@ -309,9 +308,9 @@
     <string name="shop_farmer_capitalised">Çiftçi</string>
     <string name="shop_empty_message"><![CDATA[Satın alacak eşya yok…]]></string>
     <string name="shop_empty_message_inventory">Hiç eşyan yok…</string>
-    <string name="shop_bought_item">&font_gold;%2$d&font_end; karşılığında %1$s satın aldın.</string>
-    <string name="shop_sold_item">&font_gold;%2$d&font_end; karşılığında %1$s sattın.</string>
-    <string name="shop_sold_item_with_amount">&font_gold;%3$d&font_end; karşılığında &font_cyan;%1$d&font_end; x %2$s sattın.</string>
+    <string name="shop_bought_item">&font_gold;%2$,d&font_end; karşılığında %1$s satın aldın.</string>
+    <string name="shop_sold_item">&font_gold;%2$,d&font_end; karşılığında %1$s sattın.</string>
+    <string name="shop_sold_item_with_amount">&font_gold;%3$,d&font_end; karşılığında &font_cyan;%1$d&font_end; x %2$s sattın.</string>
     <string name="shop_sell_all_question">Tümünü sat?</string>
     <string name="shop_spell_already_known">&italic;&font_mana;Büyü &font_end;zaten biliniyor&italic_end;</string>
 
@@ -330,7 +329,7 @@
         İksiri (&font_health;%1$d&font_end;)</string>
     <string name="item_mana_potion_amount">&font_mana;Mana&font_end; İksiri (&font_mana;%1$d&font_end;)</string>
     <string name="item_experience_potion_amount">&font_cyan;Tecrübe&font_end;
-        İksiri (&font_cyan;%1$d&font_end;)</string>
+        İksiri (&font_cyan;%1$,d&font_end;)</string>
     <string name="item_temporary_potion_amount">%1$s &font_white;[Geçici]&font_end; (&font_cyan;%2$d&font_end;)</string>
     <string name="item_shield">Kalkan</string>
     <string name="item_monster_flesh">&font_red;%1$s&font_end;\'in &font_red;eti&font_end;</string>
@@ -785,7 +784,7 @@
     <string name="combat_corpse_name">%1$s\'in Cesedi</string>
     <string name="combat_monster_attacking_symbol">-&font_dark_red;S&font_end;-</string>
     <string name="combat_cant_flee_from_monster">%1$s\'den kaçamazsın…</string>
-    <string name="combat_monster_obtained_gold">&font_gold;%1$d&font_end; altın elde ettin.</string>
+    <string name="combat_monster_obtained_gold">&font_gold;%1$,d&font_end; altın elde ettin.</string>
     <string name="combat_monster_obtained_item">%1$s elde ettin.</string>
     <string name="combat_you_throw_the_bucket_to">%1$s\'i %2$s\'e fırlattın! %3$s &font_red;%4$d &font_end;hasar aldı!</string>
 
@@ -1518,8 +1517,8 @@
         yok olacak…</string>
     <string name="pets_abandon_pet_abandoned_message">%1$s\'i terk ettin… Elveda…</string>
 
-    <string name="text_player_experience_given">&font_cyan;%1$d &font_end;tecrübe kazandın!</string>
-    <string name="text_pet_experience_given">%1$s &font_cyan;%2$d &font_end;tecrübe kazandı!</string>
+    <string name="text_player_experience_given">&font_cyan;%1$,d &font_end;tecrübe kazandın!</string>
+    <string name="text_pet_experience_given">%1$s &font_cyan;%2$,d &font_end;tecrübe kazandı!</string>
 
     <string name="animal_fed_flesh">%1$s\'i %2$s ile besledin.</string>
     <string name="animal_is_here_following_you">%1$s burada, seni takip ediyor</string>
@@ -1643,16 +1642,16 @@
         içtin ve eksik &font_mana;manan&font_end; doldu.</string>
 
     <string name="bank_welcome_message" tools:ignore="PluralsCandidate">%1$s\'e hoşgeldin!&br;&br;Biz &font_gold;Altınını&font_end;
-        burada güvende tutarız.&br;&br;%3$s\'de senin&font_gold;%2$d Altının &font_end; var.&br;</string>
+        burada güvende tutarız.&br;&br;%3$s\'de senin&font_gold;%2$,d Altının &font_end; var.&br;</string>
     <string name="bank_deposit_message" tools:ignore="PluralsCandidate">Ne kadar &font_gold;yatırmak&font_end;
-        istiyorsun?&br;&br;&font_gold;%1$d altının&font_end; var.</string>
+        istiyorsun?&br;&br;&font_gold;%1$,d altının&font_end; var.</string>
     <string name="bank_withdraw_message" tools:ignore="PluralsCandidate">Ne kadar &font_gold;çekmek&font_end;
-        istiyorsun?&br;&br;%2$s\'de senin &font_gold;%1$d altının &font_end;var.</string>
+        istiyorsun?&br;&br;%2$s\'de senin &font_gold;%1$,d altının &font_end;var.</string>
     <string name="bank_deposit">(Yatır)</string>
     <string name="bank_withdraw">(Çek)</string>
     <string name="bank_introduce_a_valid_amount">Geçerli bir miktar gir!</string>
-    <string name="bank_withdrawn_amount" tools:ignore="PluralsCandidate">%2$s\'den &font_gold;%1$d altın &font_end;çektin!</string>
-    <string name="bank_deposit_amount" tools:ignore="PluralsCandidate">%2$s\'e &font_gold;%1$d altın &font_end;yatırdın!</string>
+    <string name="bank_withdrawn_amount" tools:ignore="PluralsCandidate">%2$s\'den &font_gold;%1$,d altın &font_end;çektin!</string>
+    <string name="bank_deposit_amount" tools:ignore="PluralsCandidate">%2$s\'e &font_gold;%1$,d altın &font_end;yatırdın!</string>
 
     <string name="item_island_soul">&font_cyan;Ada Ruhu&font_end; (%1$s)</string>
     <string name="text_island_soul_title">Ada &font_cyan;100%&font_end; Keşfedildi</string>
@@ -1675,7 +1674,7 @@
     <string name="stash_inventory_title_stash">&font_wood;Envanter&font_end; (&font_cyan;%1$d&font_end;/&font_cyan;%2$d&font_end;)</string>
     <string name="stash_store_couldnt">%1$s depolanamadı, &font_wood;Depo &font_end;dolu!</string>
     <string name="stash_increase_title">&font_wood;Depo&font_end; boyutunu artır?</string>
-    <string name="stash_increase_message" tools:ignore="PluralsCandidate">&font_wood;Depo &font_end;boyutunu &font_cyan;%1$d\'den &font_end;&font_cyan;%2$d&font_end;\'e yükseltmek istiyor musun? Bu sana &font_gold;%3$d altına&font_end;
+    <string name="stash_increase_message" tools:ignore="PluralsCandidate">&font_wood;Depo &font_end;boyutunu &font_cyan;%1$d\'den &font_end;&font_cyan;%2$d&font_end;\'e yükseltmek istiyor musun? Bu sana &font_gold;%3$,d altına&font_end;
         mal olacak.</string>
 
     <string name="merchants_mark">Tüccar\'ın İşareti &font_cyan;#%1$d&font_end;</string>
@@ -1718,9 +1717,9 @@
     <string name="chest_was_a_mimic">%1$s aslında bir %2$s miş!</string>
     <string name="chest_text_chest_opened">&font_chest;Sandık&font_end; (&font_primary_light;boş&font_end;)</string>
     <string name="chest_must_kill_the_monster_first">İlk önce canavarı öldürmelisin!</string>
-    <string name="chest_you_obtained_gold_and_item" tools:ignore="PluralsCandidate">%1$s\'i açtın!&br;&br;&font_gold;%2$d altın&font_end;
+    <string name="chest_you_obtained_gold_and_item" tools:ignore="PluralsCandidate">%1$s\'i açtın!&br;&br;&font_gold;%2$,d altın&font_end;
         elde ettin.&br;%3$s aldın.</string>
-    <string name="chest_you_obtained_gold" tools:ignore="PluralsCandidate">%1$s\'i açtın!&br;&br;&font_gold;%2$d altın&font_end;
+    <string name="chest_you_obtained_gold" tools:ignore="PluralsCandidate">%1$s\'i açtın!&br;&br;&font_gold;%2$,d altın&font_end;
         elde ettin.</string>
 
     <string name="meditator_silent">(…)</string>
@@ -1764,12 +1763,12 @@
     <string name="blacksmith_message">Merhaba! Herhangi bir "&font_green;\*&font_end;" ekipmanı geliştirmeye ihtiyacın var mı?&br;&br;Ya da ekipman parçala?&br;&br;Eğer ihtiyacın varsa cevherlerinden külçeler de yapabilirim.&br;&br;Sadece ne istediğini söyle ve elimden gelenin en iyisini yapayım! Elimden her iş gelir!&br;&br;Unutma, Kuşanılan veya wielded eşyalarda çalışamam.</string>
     <string name="blacksmith_no_equipment_message">Üzgünüm, ama geliştirebileceğim herhangi bir ekipmanın yok…</string>
     <string name="blacksmith_no_equipment_message_scrap">Üzgünüm ama parçalayabileceğim herhangi bir ekipmanın yok…</string>
-    <string name="blacksmith_cost" tools:ignore="PluralsCandidate">&font_gold;%1$d Gold&font_end;</string>
+    <string name="blacksmith_cost" tools:ignore="PluralsCandidate">&font_gold;%1$,d Gold&font_end;</string>
     <string name="blacksmith_improved_equipment_to_level">%1$s geliştirildi!</string>
     <string name="blacksmith_title">&font_iron;Demirci&font_end;</string>
     <string name="blacksmith_scrapped_equipment">%1$s parçalayıp %2$s elde ettin!</string>
     <string name="blacksmith_failed_scrapping">%1$s\'i parçalama başarısız oldu…</string>
-    <string name="blacksmith_craft_cost">Üret: &font_gold;%1$d&font_end; Altın</string>
+    <string name="blacksmith_craft_cost">Üret: &font_gold;%1$,d&font_end; Altın</string>
     <string name="blacksmith_crafted">%s ürettin!</string>
     <string name="blacksmith_not_enough_material">Gerekli materyallere sahip değilsin…</string>
     <string name="needs_two_dots">Gerekenler:</string>
@@ -1793,7 +1792,7 @@
     <string name="castle_message_royal_seal_not_enough">Yeterli &font_gold;RKraliyet Mührün&font_end; yok… &font_cyan;%1$d&font_end;
         olunca tekrar gel!</string>
     <string name="bar_caps">Bar</string>
-    <string name="bar_text_question_eat_at_the" tools:ignore="PluralsCandidate">&font_gold;%1$d Altına&font_end; yemek ister misin?</string>
+    <string name="bar_text_question_eat_at_the" tools:ignore="PluralsCandidate">&font_gold;%1$,d Altına&font_end; yemek ister misin?</string>
     <string name="bar_not_hungry">Aç değilim…</string>
     <string name="bar_ate_at_the">%1$s\'de yedin.</string>
     <string name="bar_not_enough_gold">%1$s\'de yemek için yeterli altının yok.</string>
@@ -1807,7 +1806,7 @@
     <string name="slave_thanks_for_freeing_me">Beni özgür bıraktığın için teşekkürler!</string>
     <string name="guard">Bekçi</string>
     <string name="guard_start_dialog">Bu &font_cyan;Köleyi&font_end; infaz etmek için alıyorum, çekil ya da kılıcımın tadına bak!</string>
-    <string name="troll_pay_or_fight" tools:ignore="PluralsCandidate">Ben %1$s! Burası benim köprüm! Geçmek istiyorsan, bana &font_gold;%2$d altın&font_end;
+    <string name="troll_pay_or_fight" tools:ignore="PluralsCandidate">Ben %1$s! Burası benim köprüm! Geçmek istiyorsan, bana &font_gold;%2$,d altın&font_end;
         öde, ya da seni geberteceğim!</string>
     <string name="troll_not_enough_gold">Yeterli &font_gold;altına&font_end;
         sahip değilsin! %1$s sana saldırıyor!</string>
@@ -1865,7 +1864,7 @@
     <string name="temple_explore_2_b_first_button_2">Sonunda küçük bir &font_wood;tahta sandıktan&font_end; başka hiçbir şey olmayan küçük bir odaya düştün. Onu açacak mısın?</string>
     <string name="temple_explore_2_b_first_button_open_yes">Evet</string>
     <string name="temple_explore_2_b_first_button_open_no">Hayır</string>
-    <string name="temple_explore_2_b_first_button_open_decide_to_open_1" tools:ignore="PluralsCandidate">&font_wood;Tahta sandığı açtın &font_end;ve &font_gold;%1$d altın buldun&font_end;!</string>
+    <string name="temple_explore_2_b_first_button_open_decide_to_open_1" tools:ignore="PluralsCandidate">&font_wood;Tahta sandığı açtın &font_end;ve &font_gold;%1$,d altın buldun&font_end;!</string>
     <string name="temple_explore_2_b_first_button_open_decide_to_open_2">Bulguları kutladıktan sonra, tapınağın dışına garip bir şekilde bağlanmış gibi görünen bir pencere görüyorsun. (Bu nasıl mümkün olabilir? O sarmal kaydıraktan aşağı düşüyordun!)</string>
     <string name="temple_explore_2_b_first_button_open_decide_to_open_3">Pencereden tapınağın dışına atlıyorsun ve girişin aniden bazı kayalar tarafından engellendiğini fark ediyorsun. Tapınağı yalnız bıraksan iyi olur.</string>
     <string name="temple_explore_2_b_first_button_open_decide_to_not_open_1">&font_wood;Tahta sandığı&font_end; açmamaya karar verdin, korkak! Tapınağın dışına garip bir şekilde bağlanmış gibi görünen bir pencere buluyorsun. (Bu nasıl mümkün olabilir? O sarmal kaydıraktan aşağı düşüyordun!)</string>
@@ -1892,7 +1891,7 @@
     <string name="temple_explore_5_a">Aniden, etrafındaki duvarlar dönüşmeye başlar ve büyük altın bir oda görünür. Odanın ortasında &font_silver;gümüş bir sandık &font_end;. Açacak mısın?</string>
     <string name="temple_explore_5_a_yes">Evet</string>
     <string name="temple_explore_5_a_no">Hayır</string>
-    <string name="temple_explore_5_a_yes_consequence_1" tools:ignore="PluralsCandidate">&font_silver;Gümüş sandığı açtın&font_end;! &font_gold;%1$d altın &font_end;ve bir %2$s var! Onu alıyorsun ve aniden, gizemli bir gaz yüzünden bilincini kaybediyorsun…</string>
+    <string name="temple_explore_5_a_yes_consequence_1" tools:ignore="PluralsCandidate">&font_silver;Gümüş sandığı açtın&font_end;! &font_gold;%1$,d altın &font_end;ve bir %2$s var! Onu alıyorsun ve aniden, gizemli bir gaz yüzünden bilincini kaybediyorsun…</string>
     <string name="temple_explore_5_a_yes_consequence_2">Tapınağın dışında gözlerini açıyorsun. Girişi engelleyen kayaların olduğunu fark ediyorsun.</string>
     <string name="temple_explore_5_a_no_consequence">Sandığı açmamaya karar verdikten sonra, bilinmeyen derin bir ses şöyle diyor: \'Buraya kadar ulaştıktan sonra ve tüm tehlikelerden kurtulduktan sonra sandığı neden açmıyorsun? Cezan bana karşı bir mücadele olacak!\'</string>
     <string name="temple_explore_5_b">&font_red;Meşale&font_end; sönüp toza dönüşüyor ve her şey kararıyor…</string>
@@ -1900,7 +1899,7 @@
     <string name="temple_already_explored">İçeri giremezsin… Giriş kayalar tarafından engellendi.</string>
 
     <string name="inn_title">Han</string>
-    <string name="inn_question_rest_in_the" tools:ignore="PluralsCandidate">&font_gold;%1$d Altın&font_end; karşılığında dinlenmek istiyor musun?</string>
+    <string name="inn_question_rest_in_the" tools:ignore="PluralsCandidate">&font_gold;%1$,d Altın&font_end; karşılığında dinlenmek istiyor musun?</string>
     <string name="inn_rest_inn">Handa dinlendin.</string>
     <string name="inn_not_enough_gold">&font_inn;Handa&font_end;
         dinlenmek için yeterli altının yok. Seni fakir şey!</string>
@@ -1921,7 +1920,7 @@
     <string name="skill_sacrificer">&font_red;Kurbancı&font_end;</string>
     <string name="skill_sacrificer_description">Bir canavarın cesedini tanrılara \"Kurban Edebilirsin\". Seni az bir miktar &font_gold;Altınla&font_end;
         ödüllendirecekler.</string>
-    <string name="skill_sacrificed_corpse_to_the_gods">%1$s\'i kurban ettin… Gizemli bir şekilde &font_gold;%2$d &font_end;altın elde ettin…</string>
+    <string name="skill_sacrificed_corpse_to_the_gods">%1$s\'i kurban ettin… Gizemli bir şekilde &font_gold;%2$,d &font_end;altın elde ettin…</string>
     <string name="skill_points_needed_short">Bedel: &font_cyan;%1$d&font_end; BP</string>
     <string name="skill_points_needed">&font_cyan;%1$d &font_end;Beceri Puanı gerekli.</string>
     <string name="skill_mule">&font_wood;Katır&font_end;</string>
@@ -2194,7 +2193,7 @@
     <string name="sail_cant">Denize açılamazsın</string>
     <string name="sail_rescued_message">Önce kurtarılan insanları geri götürmelisin!</string>
     <string name="sail_pay_sailing_taxes">Denize bu adadan açılmak için &font_wood;İskeleye gidip &font_end;vergini ödemen lazım.!</string>
-    <string name="sail_pier_pay_taxes_to_sail" tools:ignore="PluralsCandidate">Merhaba, Bu adadan &font_wood;geminle &font_end;&font_cyan;denize açılmak için &font_end;vergileri ödeyecek misin?&br;&br;&font_gold;%1$d altın&font_end;
+    <string name="sail_pier_pay_taxes_to_sail" tools:ignore="PluralsCandidate">Merhaba, Bu adadan &font_wood;geminle &font_end;&font_cyan;denize açılmak için &font_end;vergileri ödeyecek misin?&br;&br;&font_gold;%1$,d altın&font_end;
         yeterli olur.</string>
     <string name="sail_pier_already_payed">Bu adadan &font_cyan;denize açılmak için &font_end;vergini ödediğin için teşekkürler. Maceralarının tadını çıkar!</string>
 
@@ -3122,9 +3121,9 @@
     <string name="game_over_rank_no_permadeath">Mezarlıkta &font_cyan;#%d &font_end;. oldun. (&font_green;Öldübitti Yok modunda&font_end;).</string>
 
     <string name="blacksmith_level_up_button">&font_iron;Demirciyi&font_end;
-        Seviye Atlat: &font_gold;%1$d&font_end;</string>
+        Seviye Atlat: &font_gold;%1$,d&font_end;</string>
     <string name="blacksmith_level">&font_iron;Demirci &font_end;Seviyesi: &font_cyan;%1$d&font_end;</string>
-    <string name="blacksmith_levelup_dialog_text">Her &font_gold;%1$d &font_end;altın için demirciyi 1 seviye atlat?&br;&br;(Seviye atlayan ekipmanları biraz geliştirir, &font_copper;parçalamanın &font_end;başarı oranını artırır, ve külçe üretme bedelini azaltır)</string>
+    <string name="blacksmith_levelup_dialog_text">Her &font_gold;%1$,d &font_end;altın için demirciyi 1 seviye atlat?&br;&br;(Seviye atlayan ekipmanları biraz geliştirir, &font_copper;parçalamanın &font_end;başarı oranını artırır, ve külçe üretme bedelini azaltır)</string>
     <string name="blacksmith_scrap_probability">Başarı oranı: %1$s%%</string>
     <string name="success_lower_than_100">&font_cyan;%1$d&font_end;</string>
     <string name="success_100">&font_green;%1$d&font_end;</string>
@@ -3422,7 +3421,7 @@
     <string name="item_info_creator_medal">Parlak bir madalya, &font_asterisk_creator;Yaratıcıyı&font_end; öldürdüğün anın hatırası.</string>
 
     <string name="wise_main_story_island_first_message">Merhaba, kahraman! Eğer yardıma ihtiyacın olursa burada olacağım!&br;&br;Dinlenmen gerekiyorsa ya da burayı terk etmek istiyorsan benimle konuş…</string>
-    <string name="wise_main_story_island_second_message">&font_health;Sağlık &font_end;, &font_mana;mana &font_end;ve &font_hunger;açlığını &font_end;&font_gold;%1$d altın&font_end;
+    <string name="wise_main_story_island_second_message">&font_health;Sağlık &font_end;, &font_mana;mana &font_end;ve &font_hunger;açlığını &font_end;&font_gold;%1$,d altın&font_end;
         karşılığında yenilemek istiyor musun? (Bir &font_primary_light;&italic;[KONTROL NOKTASI] &italic_end;&font_end;kaydedilecek)&br;&br;…ya da…&br;&br;Bu yerden ayrılmak mı istiyorsun? Bu mekan sonsuza dek yok olacak, &font_gold;bankadaki&font_end;
         ve taşıdığın &font_gold;altının &font_end;yarısını kaybedeceksin, ve &font_cyan;Harita Parçası &font_end;aramaya tekrar başlamak zorunda kalacaksın.</string>
     <string name="wise_leave_island_confirmation_message">Çıkmak istediğine emin misin?&br;&br;Bu mekan sonsuza dek yok olacak, &font_gold;bankadaki&font_end;
@@ -3662,7 +3661,7 @@
     <string name="item_name_mana_pet_potion">&font_pet;Evcil Hayvan &font_end;&font_mana;Mana &font_end;İksiri (&font_health;%1$d&font_end;%%)</string>
     <string name="item_name_revive_pet_potion">&font_pet;Evcil Hayvan &font_end;&font_health;Diriltme &font_end;İksiri (&font_health;%1$d&font_end;%%)</string>
     <string name="item_experience_pet_potion">&font_pet;Evcil Hayvan &font_end;&font_cyan;Tecrübe &font_end;İksiri</string>
-    <string name="item_experience_pet_potion_amount">&font_pet;Evcil Hayvan &font_end;&font_cyan;Tecrübe &font_end;İksiri (&font_cyan;%1$d&font_end;)</string>
+    <string name="item_experience_pet_potion_amount">&font_pet;Evcil Hayvan &font_end;&font_cyan;Tecrübe &font_end;İksiri (&font_cyan;%1$,d&font_end;)</string>
 
     <string name="tile_content_type_pet_shop">&font_pet;Evcil Hayvan &font_end;&font_gold;Dükkanı&font_end;</string>
     <string name="pet_item_name">&font_pet;Evcil Hayvan &font_end; (%1$s)</string>
@@ -3954,11 +3953,11 @@
 
     <string name="tile_content_type_trainer">&font_epic;Trainer&font_end;</string>
     <string name="trainer_message">Welcome! I can train you if you pay me good &font_gold;gold&font_end;… Get stronger with my lessons!</string>
-    <string name="gold_to_base_stats_attack">Increase &font_attack;Attack &font_end; [&font_attack;%2$d&font_end;] &br;(&font_gold;%1$d &font_end;&font_gold;gold&font_end;)</string>
+    <string name="gold_to_base_stats_attack">Increase &font_attack;Attack &font_end; [&font_attack;%2$d&font_end;] &br;(&font_gold;%1$,d &font_end;&font_gold;gold&font_end;)</string>
     <string name="gold_to_base_stats_defense">Increase &font_defense;Defense &font_end;
-        [&font_defense;%2$d&font_end;] &br;(&font_gold;%1$d &font_end;&font_gold;gold&font_end;)</string>
-    <string name="gold_to_base_stats_speed">Increase &font_speed;Speed &font_end; [&font_speed;%2$d&font_end;] &br;(&font_gold;%1$d &font_end;&font_gold;gold&font_end;)</string>
-    <string name="gold_to_base_stats_intelligence">Increase &font_mana;Intelligence &font_end; [&font_mana;%2$d&font_end;] &br;(&font_gold;%1$d &font_end;&font_gold;gold&font_end;)</string>
+        [&font_defense;%2$d&font_end;] &br;(&font_gold;%1$,d &font_end;&font_gold;gold&font_end;)</string>
+    <string name="gold_to_base_stats_speed">Increase &font_speed;Speed &font_end; [&font_speed;%2$d&font_end;] &br;(&font_gold;%1$,d &font_end;&font_gold;gold&font_end;)</string>
+    <string name="gold_to_base_stats_intelligence">Increase &font_mana;Intelligence &font_end; [&font_mana;%2$d&font_end;] &br;(&font_gold;%1$,d &font_end;&font_gold;gold&font_end;)</string>
 
     <!-- DO NOT TRANSLATE -->
     <string name="grave_scott">I love you, Mom. I always will. You are eternal.&br;Charlene Samuel 1939–2015 &br;#Foreverlove&br;</string>
@@ -4069,6 +4068,6 @@
     <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
 
     <string name="text_creator_name_not_allowed">Yalnızca tek bir &font_asterisk_creator;Yaratıcı&font_end; olabilir…</string>
-    <string name="bank_welcome_message_rich" tools:ignore="PluralsCandidate">%1$s\'a hoş geldin…&br;&br;Vay canına… &font_gold;%2$d Altın&font_end; mı?! Ehm… yani, burada elbette tamamen güvende.&br;&br;Senin… ayarında… bir kahraman %3$s\'da her zaman baş tacıdır. *bankacı gözünü kesene dikiyor*&br;</string>
+    <string name="bank_welcome_message_rich" tools:ignore="PluralsCandidate">%1$s\'a hoş geldin…&br;&br;Vay canına… &font_gold;%2$,d Altın&font_end; mı?! Ehm… yani, burada elbette tamamen güvende.&br;&br;Senin… ayarında… bir kahraman %3$s\'da her zaman baş tacıdır. *bankacı gözünü kesene dikiyor*&br;</string>
 
 </resources>

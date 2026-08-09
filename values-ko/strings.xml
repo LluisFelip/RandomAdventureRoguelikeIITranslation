@@ -194,7 +194,6 @@
     <string name="about_reddit">RAR II 의 Reddit</string>
     <string name="about_title">RAR II에&line_break;대하여</string>
     <string name="about_text">이 게임은 1인 개발자가 사랑과 인내심을 가지고 만들었습니다 :)&br;&br;저는 당신의 의견을 듣고 싶습니다! 연제든지 연락하여 아이디어와 제안을 해주세요.&br;&br;당신이 모험을 즐기길 바랍니다!</string>
-    <string name="about_twitter">Archison의 트위터</string>
     <string name="about_discord">RAR II의 디스코드</string>
 
     <string name="new_game_welcome_hero_whats_your_name">환영합니다 용사여! 당신의 이름은 무엇인가요?</string>
@@ -346,7 +345,7 @@
     <string name="button_inventory_mode">인벤토리</string>
     <string name="button_stash_mode">보관함</string>
     <string name="button_stash_increase_stash">&font_wood;보관함&font_end; 크기 증가</string>
-    <string name="button_scrap_per_gold">해체: &font_gold;%1$d&font_end; 골드</string>
+    <string name="button_scrap_per_gold">해체: &font_gold;%1$,d&font_end; 골드</string>
     <string name="button_feedback">&font_cyan;피드백&font_end;</string>
     <string name="button_blacksmith_upgrade_equipment">업그레이드 &font_green;\*&font_end;장비</string>
     <string name="button_blacksmith_scrap_equipment">장비 &font_copper;해체&font_end;</string>
@@ -367,7 +366,7 @@
     <string name="inventory_cooked_thing">%1$s을(를) 요리했습니다!</string>
     <string name="inventory_pickup">%1$s을(를) 집었습니다!</string>
     <string name="inventory_damaged_by">%1$s에 피해를 받았습니다!</string>
-    <string name="inventory_pickup_gold">&font_gold;%1$d&font_end;의 골드를 주웠습니다!</string>
+    <string name="inventory_pickup_gold">&font_gold;%1$,d&font_end;의 골드를 주웠습니다!</string>
     <string name="inventory_required_level_x">&italic;요구 레벨: &font_cyan;%1$d&font_end;&italic_end;</string>
     <string name="inventory_tree_drop">%1$s가 &font_coconut;나무&font_end;에서 떨어졌습니다!</string>
     <string name="inventory_equipment_title_with_level">장비 [µ: &font_cyan;%1$d&font_end;]</string>
@@ -407,8 +406,8 @@
     <string name="status_currently_at">현재 위치 &font_cyan;%1$d&font_end;, &font_cyan;%2$d &font_end;in &font_cyan;%3$s&font_end;</string>
     <string name="status_player_name">%1$s</string>
     <string name="status_player_level">레벨 &font_cyan;%1$d&font_end;</string>
-    <string name="status_player_experience_needed">경험치: &font_cyan;%1$d&font_end;/&font_cyan;%2$d&font_end;</string>
-    <string name="status_player_gold">골드: &font_gold;%1$d &font_end;(&font_gold;%2$d &font_end;+ &font_gold;%3$d &font_end;&font_gold;(은행)&font_end;)</string>
+    <string name="status_player_experience_needed">경험치: &font_cyan;%1$,d&font_end;/&font_cyan;%2$,d&font_end;</string>
+    <string name="status_player_gold">골드: &font_gold;%1$,d &font_end;(&font_gold;%2$,d &font_end;+ &font_gold;%3$,d &font_end;&font_gold;(은행)&font_end;)</string>
     <string name="status_permadeath">&font_red;&bold;PERMADEATH&bold_end;&font_end;</string>
     <string name="status_no_permadeath">&font_green;&bold;NO PERMADEATH&bold_end;&font_end;</string>
 
@@ -422,9 +421,9 @@
     <string name="shop_farmer_capitalised">농장</string>
     <string name="shop_empty_message"><![CDATA[There aren\'t items to buy…]]></string>
     <string name="shop_empty_message_inventory">아이템이 없습니다…</string>
-    <string name="shop_bought_item">%1$s을( &font_gold;%2$d&font_end;에 샀습니다.</string>
-    <string name="shop_sold_item">%1$s을( &font_gold;%2$d&font_end;에 팔았습니다.</string>
-    <string name="shop_sold_item_with_amount">&font_cyan;%1$d&font_end; %2$s개를 &font_gold;%3$d&font_end;에 팔았습니다.</string>
+    <string name="shop_bought_item">%1$s을( &font_gold;%2$,d&font_end;에 샀습니다.</string>
+    <string name="shop_sold_item">%1$s을( &font_gold;%2$,d&font_end;에 팔았습니다.</string>
+    <string name="shop_sold_item_with_amount">&font_cyan;%1$d&font_end; %2$s개를 &font_gold;%3$,d&font_end;에 팔았습니다.</string>
     <string name="shop_sell_all_question">전부 판매?</string>
     <string name="shop_spell_already_known">&italic;이미 알고있는&font_cyan;주문&font_end;&italic_end;</string>
 
@@ -441,7 +440,7 @@
     <string name="item_temporary_potion">&font_white;[일시적]&font_end;</string>
     <string name="item_heal_potion_amount">&font_health;체력&font_end; 물약 (&font_health;%1$d&font_end;)</string>
     <string name="item_mana_potion_amount">&font_mana;마나 &font_end;물약 (&font_mana;%1$d&font_end;)</string>
-    <string name="item_experience_potion_amount">&font_cyan;경험치&font_end; 물약 (&font_cyan;%1$d&font_end;)</string>
+    <string name="item_experience_potion_amount">&font_cyan;경험치&font_end; 물약 (&font_cyan;%1$,d&font_end;)</string>
     <string name="item_temporary_potion_amount">%1$s &font_white;[일시적]&font_end; (&font_cyan;%2$d&font_end;)</string>
     <string name="item_shield">방패</string>
     <string name="item_monster_flesh">&font_red;%1$s&font_end;의 &font_red;살점&font_end;</string>
@@ -891,7 +890,7 @@
     <string name="combat_corpse_name">%1$s의 시체</string>
     <string name="combat_monster_attacking_symbol">-&font_dark_red;A&font_end;-</string>
     <string name="combat_cant_flee_from_monster">%1$s로부터 도망칠 수 없습니다…</string>
-    <string name="combat_monster_obtained_gold">&font_gold;%1$d&font_end;의 골드를 얻었습니다.</string>
+    <string name="combat_monster_obtained_gold">&font_gold;%1$,d&font_end;의 골드를 얻었습니다.</string>
     <string name="combat_monster_obtained_item">%1$s을(를) 얻었습니다.</string>
     <string name="combat_you_throw_the_bucket_to">%1$s을(를) %2$s에게 던졌습니다! %3$s은(는) &font_red;%4$d&font_end;의 피해를 받았습니다!</string>
 
@@ -1611,8 +1610,8 @@
     <string name="pets_abandon_pet_message">당신은 %1$s을(를) 버릴건가요? 영원히 &italic;사라질겁니다&italic_end;…</string>
     <string name="pets_abandon_pet_abandoned_message">당신은 %1$s을(를) 버렸습니다… 잘가렴…</string>
 
-    <string name="text_player_experience_given">당신은 &font_cyan;%1$d &font_end;경험치를 얻었습니다!</string>
-    <string name="text_pet_experience_given">%1$s이(가) &font_cyan;%2$d &font_end;경험치를 얻었습니다!</string>
+    <string name="text_player_experience_given">당신은 &font_cyan;%1$,d &font_end;경험치를 얻었습니다!</string>
+    <string name="text_pet_experience_given">%1$s이(가) &font_cyan;%2$,d &font_end;경험치를 얻었습니다!</string>
 
     <string name="animal_fed_flesh">당신은 %1$s에게 %2$s을(를) 먹였습니다.</string>
     <string name="animal_is_here_following_you">당신의 %1$s이(가) 당신은 따라오고 있습니다! </string>
@@ -1730,14 +1729,14 @@
     <string name="iron_bucket_put_out_firecamp_ash">당신은 &font_attack;캠프파이어&font_end;에 &font_water;물&font_end; &font_iron;양동이&font_end;를 뿌렸습니다.</string>
     <string name="iron_bucket_drank_mana">당신은 &font_mana;마나&font_end; &font_iron;양동이&font_end;를 마시고 모든 &font_mana;마나&font_end;를 회복했습니다.</string>
 
-    <string name="bank_welcome_message" tools:ignore="PluralsCandidate">%1$s에 온것을 환영합니다!&br;&br;우리는 당신의 &font_gold;골드&font_end;를 안전하게 보관합니다.&br;&br;당신은 현재 &font_gold;%2$d 골드&font_end;가 %3$s에 있습니다.&br;</string>
-    <string name="bank_deposit_message" tools:ignore="PluralsCandidate">얼마나 &font_gold;입금&font_end;하시겠습니까?&br;&br;당신은 현재 &font_gold;%1$d 골드&font_end;를 가지고 있습니다.</string>
-    <string name="bank_withdraw_message" tools:ignore="PluralsCandidate">얼마나 &font_gold;출금&font_end;하시겠습니까?&br;&br;당신은 현재 &font_gold;%1$d 골드&font_end;를 %2$s에 보관하고 있습니다.</string>
+    <string name="bank_welcome_message" tools:ignore="PluralsCandidate">%1$s에 온것을 환영합니다!&br;&br;우리는 당신의 &font_gold;골드&font_end;를 안전하게 보관합니다.&br;&br;당신은 현재 &font_gold;%2$,d 골드&font_end;가 %3$s에 있습니다.&br;</string>
+    <string name="bank_deposit_message" tools:ignore="PluralsCandidate">얼마나 &font_gold;입금&font_end;하시겠습니까?&br;&br;당신은 현재 &font_gold;%1$,d 골드&font_end;를 가지고 있습니다.</string>
+    <string name="bank_withdraw_message" tools:ignore="PluralsCandidate">얼마나 &font_gold;출금&font_end;하시겠습니까?&br;&br;당신은 현재 &font_gold;%1$,d 골드&font_end;를 %2$s에 보관하고 있습니다.</string>
     <string name="bank_deposit">(입금)</string>
     <string name="bank_withdraw">(출금)</string>
     <string name="bank_introduce_a_valid_amount">가능한 금액을 적으세요!</string>
-    <string name="bank_withdrawn_amount" tools:ignore="PluralsCandidate">당신은 &font_gold;%1$d 골드&font_end;를 %2$s에서 출금했습니다!</string>
-    <string name="bank_deposit_amount" tools:ignore="PluralsCandidate">당신은 &font_gold;%1$d 골드&font_end;를 %2$s에 입금했습니다!</string>
+    <string name="bank_withdrawn_amount" tools:ignore="PluralsCandidate">당신은 &font_gold;%1$,d 골드&font_end;를 %2$s에서 출금했습니다!</string>
+    <string name="bank_deposit_amount" tools:ignore="PluralsCandidate">당신은 &font_gold;%1$,d 골드&font_end;를 %2$s에 입금했습니다!</string>
 
     <string name="item_island_soul">&font_cyan;섬의 영혼&font_end; (%1$s)</string>
     <string name="text_island_soul_title">섬 &font_cyan;100%&font_end; 탐험됨</string>
@@ -1760,7 +1759,7 @@
     <string name="stash_inventory_title_stash">&font_wood;인벤토리&font_end; (&font_cyan;%1$d&font_end;/&font_cyan;%2$d&font_end;)</string>
     <string name="stash_store_couldnt">%1$s을(를) 저장할 수 없습니다, &font_wood;창고&font_end;가 다 찼습니다!</string>
     <string name="stash_increase_title">&font_wood;창고&font_end;크기를 증가시키겠습니까?</string>
-    <string name="stash_increase_message" tools:ignore="PluralsCandidate">&font_wood;창고&font_end;의 크기를 &font_cyan;%1$d&font_end;에서 &font_cyan;%2$d&font_end;로 증가시키겠습니까? &font_gold;%3$d 골드&font_end;가 소모됩니다.</string>
+    <string name="stash_increase_message" tools:ignore="PluralsCandidate">&font_wood;창고&font_end;의 크기를 &font_cyan;%1$d&font_end;에서 &font_cyan;%2$d&font_end;로 증가시키겠습니까? &font_gold;%3$,d 골드&font_end;가 소모됩니다.</string>
 
     <string name="merchants_mark">상인의 징표&font_cyan;#%1$d&font_end;</string>
     <string name="merchant">상인</string>
@@ -1795,8 +1794,8 @@
     <string name="chest_was_a_mimic">%1$s은(는) 사실 %2$s 이였습니다!</string>
     <string name="chest_text_chest_opened">&font_chest;궤짝&font_end; (&font_primary_light;비었음&font_end;)</string>
     <string name="chest_must_kill_the_monster_first">몬스터를 먼저 죽이세요!</string>
-    <string name="chest_you_obtained_gold_and_item" tools:ignore="PluralsCandidate">%1$s을(를) 열었습니다!&br;&br;당신은 &font_gold;%2$d 골드&font_end;를 얻었습니다.&br;당신은 %3$s을(를) 주웠습니다.</string>
-    <string name="chest_you_obtained_gold" tools:ignore="PluralsCandidate">%1$s을(를) 열었습니다!&br;&br;당신은 &font_gold;%2$d 골드&font_end;를 얻었습니다.</string>
+    <string name="chest_you_obtained_gold_and_item" tools:ignore="PluralsCandidate">%1$s을(를) 열었습니다!&br;&br;당신은 &font_gold;%2$,d 골드&font_end;를 얻었습니다.&br;당신은 %3$s을(를) 주웠습니다.</string>
+    <string name="chest_you_obtained_gold" tools:ignore="PluralsCandidate">%1$s을(를) 열었습니다!&br;&br;당신은 &font_gold;%2$,d 골드&font_end;를 얻었습니다.</string>
 
     <string name="meditator_silent">(…)</string>
     <string name="meditator_dots">(…)</string>
@@ -1838,12 +1837,12 @@
     <string name="blacksmith_message">안녕하세요! 당신은 "&font_green;\*&font_end;" 장비를 강화하고 싶나요?&br;&br;장비를 재활용하고 싶나요?&br;&br;나는 원석으로 부터 괴들을 만들 수 있어요.&br;&br;나에게 말만 하면 최선을 다할게요!&br;&br;기억하세요, 나는 장착한 아이템들은 불가능하다구요.</string>
     <string name="blacksmith_no_equipment_message">미안해요, 당신은 강화 가능한 아이템들을 가지고 있지 않군요…</string>
     <string name="blacksmith_no_equipment_message_scrap">미안해요, 당신은 재활용 가능한 아이템들을 가지고 있지 않군요…</string>
-    <string name="blacksmith_cost" tools:ignore="PluralsCandidate">&font_gold;%1$d 골드&font_end;</string>
+    <string name="blacksmith_cost" tools:ignore="PluralsCandidate">&font_gold;%1$,d 골드&font_end;</string>
     <string name="blacksmith_improved_equipment_to_level">%1$s을(를) 강화 했어요!</string>
     <string name="blacksmith_title">&font_iron;대장간&font_end;</string>
     <string name="blacksmith_scrapped_equipment">%1$s을(를) %2$s으(로) 폐기했어요!</string>
     <string name="blacksmith_failed_scrapping">%s을(를) 폐기에 실패했어요…</string>
-    <string name="blacksmith_craft_cost">제작: &font_gold;%1$d&font_end; 골드</string>
+    <string name="blacksmith_craft_cost">제작: &font_gold;%1$,d&font_end; 골드</string>
     <string name="blacksmith_crafted">%s을(를) 만들었어요!</string>
     <string name="blacksmith_not_enough_material">필요한 재료들을 가지고 있지 않네요…</string>
     <string name="needs_two_dots">필요:</string>
@@ -1863,7 +1862,7 @@
     <string name="castle_message_royal_seal_message">나는 자네가 &font_gold;왕&font_end;으로 부터 &font_gold;옥쇄&font_end;를 받았다는 것을 알고있소. 나에게 &font_cyan;%1$d &font_end;옥쇄를 준다면, 나는 &font_gold;왕&font_end;의 &font_iron;방패&font_end;를 주겠소.&br;&br;가지고 싶소?</string>
     <string name="castle_message_royal_seal_not_enough">당신은 충분한 &font_gold;옥쇄&font_end;가 없소… &font_cyan;%1$d&font_end;개를 모으고 다시 오시오!</string>
     <string name="bar_caps">바</string>
-    <string name="bar_text_question_eat_at_the" tools:ignore="PluralsCandidate">을(를) &font_gold;%1$d 골드&font_end;를 내고 먹을까요?</string>
+    <string name="bar_text_question_eat_at_the" tools:ignore="PluralsCandidate">을(를) &font_gold;%1$,d 골드&font_end;를 내고 먹을까요?</string>
     <string name="bar_not_hungry">배고프지 않습니다…</string>
     <string name="bar_ate_at_the">당신은 %1$s에서 먹었습니다.</string>
     <string name="bar_not_enough_gold">당신은 %1$s에서 먹기에 충분한 골드가 없습니다.</string>
@@ -1877,7 +1876,7 @@
     <string name="slave_thanks_for_freeing_me">저를 살려주셔서 감사합니다!</string>
     <string name="guard">경비</string>
     <string name="guard_start_dialog">나는 이 &font_cyan;노예&font_end;를 처형해야 한다, 비키지 않으면 나의 칼 맛을 보게 해주마!</string>
-    <string name="troll_pay_or_fight" tools:ignore="PluralsCandidate">나는 %1$s! 이것은 나의 다리다! 지나가고 싶다면, 나에게 &font_gold;%2$d 골드&font_end;를 내거나, 나에게 죽어라!</string>
+    <string name="troll_pay_or_fight" tools:ignore="PluralsCandidate">나는 %1$s! 이것은 나의 다리다! 지나가고 싶다면, 나에게 &font_gold;%2$,d 골드&font_end;를 내거나, 나에게 죽어라!</string>
     <string name="troll_not_enough_gold">당신은 &font_gold;골드&font_end;가 부족합니다! %1$s이(가) 당신을 공격합니다!</string>
     <string name="troll_leaves_happily_with_your_money">%1$s은(는) 행복하게 당신의 골드를 가지고 갔습니다…</string>
     <string name="explorer_you_dont_have_the_necessary_island_soul" tools:ignore="UnusedResources">당신은 &font_cyan;섬의 영혼&font_end;이 부족합니다…</string>
@@ -1930,7 +1929,7 @@
     <string name="temple_explore_2_b_first_button_2">당신은 작은 방으로 떨어졌습니다. 그곳에는 &font_wood;나무 상자&font_end;가 있습니다. 열까요?</string>
     <string name="temple_explore_2_b_first_button_open_yes">열기</string>
     <string name="temple_explore_2_b_first_button_open_no">놔두기</string>
-    <string name="temple_explore_2_b_first_button_open_decide_to_open_1" tools:ignore="PluralsCandidate">당신은 &font_wood;나무 상자&font_end;를 열고&font_gold;%1$d 골드&font_end;를 얻었습니다!</string>
+    <string name="temple_explore_2_b_first_button_open_decide_to_open_1" tools:ignore="PluralsCandidate">당신은 &font_wood;나무 상자&font_end;를 열고&font_gold;%1$,d 골드&font_end;를 얻었습니다!</string>
     <string name="temple_explore_2_b_first_button_open_decide_to_open_2">보상을 확인하던 도중에, 밖으로 나가는 창문 하나를 발견하였습니다. (어떻게 이것이 가능한가요? 나선형의 미끄럼틀로 떨어지고 있습니다!)</string>
     <string name="temple_explore_2_b_first_button_open_decide_to_open_3">당신은 창문을 통하여 밖으로 나갔습니다. 갑자기 어떤 바위들에 의해 입구가 막혔다는 것을 깨달았습니다. 그대로 놔두는게 좋아보이군요.</string>
     <string name="temple_explore_2_b_first_button_open_decide_to_not_open_1">당신은 &font_wood;나무 상자&font_end;를 열지 않기로 했습니다. 밖으로 나가는 창문 하나를 발견하였습니다. (어떻게 이것이 가능한가요? 나선형의 미끄럼틀로 떨어지고 있습니다!)</string>
@@ -1956,7 +1955,7 @@
     <string name="temple_explore_5_a">갑자기, 주위의 벽이 바뀌면서 크고 황금빛의 방이 나타났습니다. &font_silver;은색 상자&font_end;가 방의 가운데에 있습니다. 열까요?</string>
     <string name="temple_explore_5_a_yes">네</string>
     <string name="temple_explore_5_a_no">아니오</string>
-    <string name="temple_explore_5_a_yes_consequence_1" tools:ignore="PluralsCandidate">당신은 &font_silver;은색 상자&font_end;를 열었습니다! &font_gold;%1$d 골드&font_end;와 %2$s을(를) 얻었습니다! 그것을 가져가는 순간, 미지의 가스가 나와서 의식을 잃었습니다…</string>
+    <string name="temple_explore_5_a_yes_consequence_1" tools:ignore="PluralsCandidate">당신은 &font_silver;은색 상자&font_end;를 열었습니다! &font_gold;%1$,d 골드&font_end;와 %2$s을(를) 얻었습니다! 그것을 가져가는 순간, 미지의 가스가 나와서 의식을 잃었습니다…</string>
     <string name="temple_explore_5_a_yes_consequence_2">당신은 밖에서 눈을 떴습니다. 입구가 있던 곳에 바위가 가로막고 있다는 것을 알게되었습니다.</string>
     <string name="temple_explore_5_a_no_consequence">상자를 열지 않기로 결심한 후, 미지의 목소리가 말합니다: \'모든 위험을 이겨내고 나서, 당신은 상자를 열지 않는단 말인가? 당신에게 주어질 벌은 나와 싸우는 것이다.\'</string>
     <string name="temple_explore_5_b">&font_red;횃불&font_end;이 모래로 변하고 어두워집니다…</string>
@@ -1964,7 +1963,7 @@
     <string name="temple_already_explored">안으로 들어갈 수 없습니다… 입구가 바위로 막혔습니다.</string>
 
     <string name="inn_title">여관</string>
-    <string name="inn_question_rest_in_the" tools:ignore="PluralsCandidate">에서 &font_gold;%1$d 골드&font_end;를 내고 쉴까요?</string>
+    <string name="inn_question_rest_in_the" tools:ignore="PluralsCandidate">에서 &font_gold;%1$,d 골드&font_end;를 내고 쉴까요?</string>
     <string name="inn_rest_inn">당신은 여관에서 휴식을 취했습니다.</string>
     <string name="inn_not_enough_gold">당신은 &font_inn;여관&font_end;에 머물만한 충분한 골드가 없습니다.</string>
     <string name="inn_already_rested">당신은 당장 휴식을 취하지 않아도 됩니다.</string>
@@ -1983,7 +1982,7 @@
     <string name="skill_tree_button_with_sp">스킬트리 (&font_cyan;%1$d&font_end; SP)</string>
     <string name="skill_sacrificer">&font_cyan;희생자&font_end;</string>
     <string name="skill_sacrificer_description">당신은 몬스터의 시체를 신에게 \"희생\" 합니다. 그들은 당신에게 소정의 &font_gold;골드&font_end;를 줍니다.</string>
-    <string name="skill_sacrificed_corpse_to_the_gods">%1$s을(를) 희생하였습니다… 당신은 &font_gold;%2$d &font_end;골드를 받았습니다…</string>
+    <string name="skill_sacrificed_corpse_to_the_gods">%1$s을(를) 희생하였습니다… 당신은 &font_gold;%2$,d &font_end;골드를 받았습니다…</string>
     <string name="skill_points_needed_short">비용: &font_cyan;%1$d&font_end; SP</string>
     <string name="skill_points_needed">&font_cyan;%1$d &font_end;스킬포인트가 필요합니다.</string>
     <string name="skill_mule">&font_cyan;당나귀&font_end;</string>
@@ -2227,7 +2226,7 @@
     <string name="sail_cant">항해 불가</string>
     <string name="sail_rescued_message">당신은 먼저 구조된 사람들을 돌려보내야 합니다!</string>
     <string name="sail_pay_sailing_taxes">당신은 항해 세금을 &font_wood;부두&font_end;에 내고 항해 할 수 있습니다!</string>
-    <string name="sail_pier_pay_taxes_to_sail" tools:ignore="PluralsCandidate">안녕하세요, 당신은 이 섬에서 당신의 &font_wood;배&font_end;로 &font_cyan;항해&font_end;를 하고싶나요?&br;&br; &font_gold;%1$d 골드&font_end;입니다.</string>
+    <string name="sail_pier_pay_taxes_to_sail" tools:ignore="PluralsCandidate">안녕하세요, 당신은 이 섬에서 당신의 &font_wood;배&font_end;로 &font_cyan;항해&font_end;를 하고싶나요?&br;&br; &font_gold;%1$,d 골드&font_end;입니다.</string>
     <string name="sail_pier_already_payed">이 섬에서 &font_cyan;항해&font_end;하기 위한 세금을 내주셔서 감사합니다. 탐험을 즐기세요!</string>
 
     <string name="corpse_turns_to_dust">%1$s은(는) 먼지로 변했습니다…</string>
@@ -3073,9 +3072,9 @@
     <string name="game_over_rank_permadeath">You ranked &font_cyan;#%d &font_end;on &font_red;Permadeath &font_end;in the Cemetery.</string>
     <string name="game_over_rank_no_permadeath">You ranked &font_cyan;#%d &font_end;on &font_green;No Permadeath &font_end;in the Cemetery.</string>
 
-    <string name="blacksmith_level_up_button">Level Up &font_iron;Blacksmith&font_end;: &font_gold;%1$d&font_end;</string>
+    <string name="blacksmith_level_up_button">Level Up &font_iron;Blacksmith&font_end;: &font_gold;%1$,d&font_end;</string>
     <string name="blacksmith_level">&font_iron;Blacksmith &font_end;Level: &font_cyan;%1$d&font_end;</string>
-    <string name="blacksmith_levelup_dialog_text">Level up Blacksmith per &font_gold;%1$d &font_end;gold?&br;&br;(Slightly improves the levelled up equipment, increases the success rate of &font_copper;scrapping &font_end;, and reduces the cost of crafting bars)</string>
+    <string name="blacksmith_levelup_dialog_text">Level up Blacksmith per &font_gold;%1$,d &font_end;gold?&br;&br;(Slightly improves the levelled up equipment, increases the success rate of &font_copper;scrapping &font_end;, and reduces the cost of crafting bars)</string>
     <string name="blacksmith_scrap_probability">Success rate: %1$s%%</string>
     <string name="success_lower_than_100">&font_cyan;%1$d&font_end;</string>
     <string name="success_100">&font_green;%1$d&font_end;</string>
@@ -3364,7 +3363,7 @@
 
     <string name="item_info_creator_medal">It is a bright medal, a memory of the time you killed &font_asterisk_creator;The Creator&font_end;.</string>
     <string name="wise_main_story_island_first_message">Hello, hero! I\'ll be here if you need help!&br;&br;Talk to me if you need to rest or if you want to leave this place…</string>
-    <string name="wise_main_story_island_second_message">Do you want to restore your &font_health;health &font_end;, &font_mana;mana &font_end;and &font_hunger;hunger &font_end;for &font_gold;%1$d gold&font_end;? (A &font_primary_light;&italic;[CHECKPOINT] &italic_end;&font_end;will be saved)&br;&br;…or…&br;&br;Do you want to leave this place? It will disappear forever, you\'ll lose half of the &font_gold;gold &font_end;you are carrying, half from the &font_gold;BANK&font_end;, and you\'ll have to start looking for the &font_cyan;Pieces Of Map &font_end;again.</string>
+    <string name="wise_main_story_island_second_message">Do you want to restore your &font_health;health &font_end;, &font_mana;mana &font_end;and &font_hunger;hunger &font_end;for &font_gold;%1$,d gold&font_end;? (A &font_primary_light;&italic;[CHECKPOINT] &italic_end;&font_end;will be saved)&br;&br;…or…&br;&br;Do you want to leave this place? It will disappear forever, you\'ll lose half of the &font_gold;gold &font_end;you are carrying, half from the &font_gold;BANK&font_end;, and you\'ll have to start looking for the &font_cyan;Pieces Of Map &font_end;again.</string>
     <string name="wise_leave_island_confirmation_message">Are you sure you want to leave?&br;&br;This place will disappear forever, you\'ll lose half of the &font_gold;gold &font_end;you are carrying, half from the &font_gold;BANK&font_end;, and you\'ll have to start looking for the &font_cyan;Pieces Of Map &font_end;again.</string>
 
     <string name="button_rest">Rest</string>
@@ -3585,7 +3584,7 @@
     <string name="item_name_mana_pet_potion">&font_mana;Mana &font_end;&font_pet;Pet &font_end;Potion (&font_health;%1$d&font_end;%%)</string>
     <string name="item_name_revive_pet_potion">&font_health;Revive &font_end;&font_pet;Pet &font_end;Potion (&font_health;%1$d&font_end;%%)</string>
     <string name="item_experience_pet_potion">&font_cyan;Experience &font_end;&font_pet;Pet &font_end;Potion</string>
-    <string name="item_experience_pet_potion_amount">&font_cyan;Experience &font_end;&font_pet;Pet &font_end;Potion (&font_cyan;%1$d&font_end;)</string>
+    <string name="item_experience_pet_potion_amount">&font_cyan;Experience &font_end;&font_pet;Pet &font_end;Potion (&font_cyan;%1$,d&font_end;)</string>
 
     <string name="tile_content_type_pet_shop">&font_pet;Pet &font_end;&font_gold;Shop&font_end;</string>
     <string name="pet_item_name">&font_pet;Pet &font_end; (%1$s)</string>
@@ -3860,11 +3859,11 @@
 
     <string name="tile_content_type_trainer">&font_epic;Trainer&font_end;</string>
     <string name="trainer_message">Welcome! I can train you if you pay me good &font_gold;gold&font_end;… Get stronger with my lessons!</string>
-    <string name="gold_to_base_stats_attack">Increase &font_attack;Attack &font_end; [&font_attack;%2$d&font_end;] &br;(&font_gold;%1$d &font_end;&font_gold;gold&font_end;)</string>
+    <string name="gold_to_base_stats_attack">Increase &font_attack;Attack &font_end; [&font_attack;%2$d&font_end;] &br;(&font_gold;%1$,d &font_end;&font_gold;gold&font_end;)</string>
     <string name="gold_to_base_stats_defense">Increase &font_defense;Defense &font_end;
-        [&font_defense;%2$d&font_end;] &br;(&font_gold;%1$d &font_end;&font_gold;gold&font_end;)</string>
-    <string name="gold_to_base_stats_speed">Increase &font_speed;Speed &font_end; [&font_speed;%2$d&font_end;] &br;(&font_gold;%1$d &font_end;&font_gold;gold&font_end;)</string>
-    <string name="gold_to_base_stats_intelligence">Increase &font_mana;Intelligence &font_end; [&font_mana;%2$d&font_end;] &br;(&font_gold;%1$d &font_end;&font_gold;gold&font_end;)</string>
+        [&font_defense;%2$d&font_end;] &br;(&font_gold;%1$,d &font_end;&font_gold;gold&font_end;)</string>
+    <string name="gold_to_base_stats_speed">Increase &font_speed;Speed &font_end; [&font_speed;%2$d&font_end;] &br;(&font_gold;%1$,d &font_end;&font_gold;gold&font_end;)</string>
+    <string name="gold_to_base_stats_intelligence">Increase &font_mana;Intelligence &font_end; [&font_mana;%2$d&font_end;] &br;(&font_gold;%1$,d &font_end;&font_gold;gold&font_end;)</string>
 
     <!-- DO NOT TRANSLATE -->
     <string name="grave_scott">I love you, Mom. I always will. You are eternal.&br;Charlene Samuel 1939–2015 &br;#Foreverlove&br;</string>
@@ -3975,6 +3974,6 @@
     <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
 
     <string name="text_creator_name_not_allowed">&font_asterisk_creator;창조주&font_end;는 오직 하나뿐이다…</string>
-    <string name="bank_welcome_message_rich" tools:ignore="PluralsCandidate">%1$s에 오신 것을 환영합니다…&br;&br;어머… &font_gold;%2$d 골드&font_end;라고요?! 흠… 아니, 여기서는 물론 완벽하게 안전합니다.&br;&br;당신 같은… 재력의… 영웅은 %3$s에서 언제나 대환영입니다. *은행원이 당신의 지갑을 탐욕스럽게 바라본다*&br;</string>
+    <string name="bank_welcome_message_rich" tools:ignore="PluralsCandidate">%1$s에 오신 것을 환영합니다…&br;&br;어머… &font_gold;%2$,d 골드&font_end;라고요?! 흠… 아니, 여기서는 물론 완벽하게 안전합니다.&br;&br;당신 같은… 재력의… 영웅은 %3$s에서 언제나 대환영입니다. *은행원이 당신의 지갑을 탐욕스럽게 바라본다*&br;</string>
 
 </resources>

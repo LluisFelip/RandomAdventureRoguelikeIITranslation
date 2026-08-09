@@ -180,7 +180,6 @@
     <string name="about_text">Creado por un desarrollador con mucho amor y paciencia :)&br;&br;Me encanta escuchar vuestra opinión, ¡suscribiros al subreddit y/o al canal Discord para compartir vuestras ideas o sugerencias!&br;&br;Espero que disfrutéis en vuestras aventuras.</string>
     <string name="about_reddit">RAR II en Reddit</string>
     <string name="about_discord">RAR II en Discord</string>
-    <string name="about_twitter">Archison en Twitter</string>
 
     <string name="new_game_welcome_hero_whats_your_name">Bienvenido, ¡héroe! ¿Cuál es tu nombre?</string>
     <string name="new_game_hero_name">Héroe</string>
@@ -322,7 +321,7 @@
     <string name="button_inventory_mode">Inventario</string>
     <string name="button_stash_mode">Alijo</string>
     <string name="button_stash_increase_stash">Mejorar &font_wood;Alijo&font_end;</string>
-    <string name="button_scrap_per_gold">Desguazar: &font_gold;%1$d&font_end; Oro</string>
+    <string name="button_scrap_per_gold">Desguazar: &font_gold;%1$,d&font_end; Oro</string>
     <string name="button_feedback">&font_cyan;Feedback&font_end;</string>
     <string name="button_blacksmith_upgrade_equipment">Mejorar Equipo &font_green;\*&font_end;</string>
     <string name="button_blacksmith_scrap_equipment">&font_copper;Desguazar &font_end;Equipo</string>
@@ -344,7 +343,7 @@
     <string name="inventory_cooked_thing">¡Cocinas %1$s!</string>
     <string name="inventory_pickup">¡Obtienes %1$s!</string>
     <string name="inventory_damaged_by">¡Dañado por %1$s!</string>
-    <string name="inventory_pickup_gold">¡Obtienes &font_gold;%1$d&font_end; monedas de &font_gold;oro&font_end;!</string>
+    <string name="inventory_pickup_gold">¡Obtienes &font_gold;%1$,d&font_end; monedas de &font_gold;oro&font_end;!</string>
     <string name="inventory_required_level_x">&italic;Nivel necesario: &font_cyan;%1$d&font_end;&italic_end;</string>
     <string name="inventory_tree_drop">%1$s ha caído del &font_coconut;Árbol&font_end;!</string>
     <string name="inventory_equipment_title_with_level">&font_wood;Equipo&font_end; [µ: &font_cyan;%1$d&font_end;]</string>
@@ -384,8 +383,8 @@
     <string name="status_currently_at">En &font_cyan;%1$d&font_end;, &font_cyan;%2$d &font_end;en &font_cyan;%3$s&font_end;</string>
     <string name="status_player_name">%1$s</string>
     <string name="status_player_level">Nivel &font_cyan;%1$d&font_end;</string>
-    <string name="status_player_experience_needed">Experiencia: &font_cyan;%1$d&font_end;/&font_cyan;%2$d&font_end;</string>
-    <string name="status_player_gold">Oro: &font_gold;%1$d &font_end;(&font_gold;%2$d &font_end;+ &font_gold;%3$d &font_end;en el &font_gold;Banco&font_end;)</string>
+    <string name="status_player_experience_needed">Experiencia: &font_cyan;%1$,d&font_end;/&font_cyan;%2$,d&font_end;</string>
+    <string name="status_player_gold">Oro: &font_gold;%1$,d &font_end;(&font_gold;%2$,d &font_end;+ &font_gold;%3$,d &font_end;en el &font_gold;Banco&font_end;)</string>
     <string name="status_permadeath">&font_red;&bold;PERMADEATH&bold_end;&font_end;</string>
     <string name="status_no_permadeath">&font_green;&bold;NO PERMADEATH&bold_end;&font_end;</string>
 
@@ -399,9 +398,9 @@
     <string name="shop_farmer_capitalised">Granjero</string>
     <string name="shop_empty_message"><![CDATA[No hay objetos para comprar…]]></string>
     <string name="shop_empty_message_inventory">No tienes ningún objeto…</string>
-    <string name="shop_bought_item">Comprado %1$s por &font_gold;%2$d&font_end;.</string>
-    <string name="shop_sold_item">Vendido %1$s por &font_gold;%2$d&font_end;.</string>
-    <string name="shop_sold_item_with_amount">Vendido &font_cyan;%1$d &font_end;x %2$s por &font_gold;%3$d&font_end;.</string>
+    <string name="shop_bought_item">Comprado %1$s por &font_gold;%2$,d&font_end;.</string>
+    <string name="shop_sold_item">Vendido %1$s por &font_gold;%2$,d&font_end;.</string>
+    <string name="shop_sold_item_with_amount">Vendido &font_cyan;%1$d &font_end;x %2$s por &font_gold;%3$,d&font_end;.</string>
     <string name="shop_sell_all_question">¿Vender todos?</string>
     <string name="shop_spell_already_known">&italic;&font_mana;Hechizo &font_end;ya conocido&italic_end;</string>
 
@@ -418,7 +417,7 @@
     <string name="item_temporary_potion">&font_white;[Temporal]&font_end;</string>
     <string name="item_heal_potion_amount">Poción de &font_health;Salud&font_end; (&font_health;%1$d&font_end;)</string>
     <string name="item_mana_potion_amount">Poción de &font_mana;Mana&font_end; (&font_mana;%1$d&font_end;)</string>
-    <string name="item_experience_potion_amount">Poción de &font_cyan;Experiencia&font_end; (&font_cyan;%1$d&font_end;)</string>
+    <string name="item_experience_potion_amount">Poción de &font_cyan;Experiencia&font_end; (&font_cyan;%1$,d&font_end;)</string>
     <string name="item_temporary_potion_amount">%1$s &font_white;[Temporal]&font_end; (&font_cyan;%2$d&font_end;)</string>
     <string name="item_shield">Escudo</string>
     <string name="item_monster_flesh">&font_red;Carne&font_end; de &font_red;%1$s&font_end;</string>
@@ -889,7 +888,7 @@
     <string name="combat_corpse_name">Cadáver de %1$s</string>
     <string name="combat_monster_attacking_symbol">-&font_dark_red;A&font_end;-</string>
     <string name="combat_cant_flee_from_monster">No puedes huir de %1$s…</string>
-    <string name="combat_monster_obtained_gold">Obtienes &font_gold;%1$d &font_end;monedas de &font_gold;oro&font_end;.</string>
+    <string name="combat_monster_obtained_gold">Obtienes &font_gold;%1$,d &font_end;monedas de &font_gold;oro&font_end;.</string>
     <string name="combat_monster_obtained_item">Obtienes %1$s.</string>
     <string name="combat_you_throw_the_bucket_to">¡Lanzas %1$s a %2$s! ¡%3$s recibe &font_red;%4$d &font_end;puntos de daño!</string>
 
@@ -1595,8 +1594,8 @@
     <string name="pets_abandon_pet_message">¿Seguro que quieres abandonar a %1$s? Desaparecerá &italic;para siempre&italic_end;…</string>
     <string name="pets_abandon_pet_abandoned_message">Abandonas a %1$s… Adiós…</string>
 
-    <string name="text_player_experience_given">¡Obtienes &font_cyan;%1$d &font_end;puntos de experiencia!</string>
-    <string name="text_pet_experience_given">¡%1$s obtiene &font_cyan;%2$d &font_end;puntos de experiencia!</string>
+    <string name="text_player_experience_given">¡Obtienes &font_cyan;%1$,d &font_end;puntos de experiencia!</string>
+    <string name="text_pet_experience_given">¡%1$s obtiene &font_cyan;%2$,d &font_end;puntos de experiencia!</string>
 
     <string name="animal_fed_flesh">Alimentas a %1$s con %2$s.</string>
     <string name="animal_is_here_following_you">Tu %1$s está aquí, siguiéndote</string>
@@ -1714,14 +1713,14 @@
     <string name="iron_bucket_put_out_firecamp_ash">Apagas la &font_attack;Hoguera &font_end;con el &font_iron;Cubo &font_end;de &font_water;Agua&font_end;.</string>
     <string name="iron_bucket_drank_mana">Bebes del &font_iron;Cubo &font_end;de &font_mana;Maná &font_end;y recuperas todo el &font_mana;mana&font_end;.</string>
 
-    <string name="bank_welcome_message" tools:ignore="PluralsCandidate">¡Bienvenid@ al %1$s!&br;&br;Mantenemos tu &font_gold;Oro &font_end;seguro aquí.&br;&br;Actualmente tienes &font_gold;%2$d &font_end;monedas de &font_gold;oro &font_end;en el %3$s.&br;</string>
-    <string name="bank_deposit_message" tools:ignore="PluralsCandidate">¿Cuánto quieres &font_gold;depositar&font_end;?&br;&br;Llevas &font_gold;%1$d &font_end;monedas de &font_gold;oro&font_end;.</string>
-    <string name="bank_withdraw_message" tools:ignore="PluralsCandidate">¿Cuánto quieres &font_gold;sacar&font_end;?&br;&br;Tienes &font_gold;%1$d &font_end;monedas de &font_gold;oro &font_end;en el %2$s.</string>
+    <string name="bank_welcome_message" tools:ignore="PluralsCandidate">¡Bienvenid@ al %1$s!&br;&br;Mantenemos tu &font_gold;Oro &font_end;seguro aquí.&br;&br;Actualmente tienes &font_gold;%2$,d &font_end;monedas de &font_gold;oro &font_end;en el %3$s.&br;</string>
+    <string name="bank_deposit_message" tools:ignore="PluralsCandidate">¿Cuánto quieres &font_gold;depositar&font_end;?&br;&br;Llevas &font_gold;%1$,d &font_end;monedas de &font_gold;oro&font_end;.</string>
+    <string name="bank_withdraw_message" tools:ignore="PluralsCandidate">¿Cuánto quieres &font_gold;sacar&font_end;?&br;&br;Tienes &font_gold;%1$,d &font_end;monedas de &font_gold;oro &font_end;en el %2$s.</string>
     <string name="bank_deposit">(Depositar)</string>
     <string name="bank_withdraw">(Sacar)</string>
     <string name="bank_introduce_a_valid_amount">¡Introduce una cantidad válida!</string>
-    <string name="bank_withdrawn_amount" tools:ignore="PluralsCandidate">¡Has sacado &font_gold;%1$d &font_end;monedas de &font_gold;oro &font_end;del %2$s!</string>
-    <string name="bank_deposit_amount" tools:ignore="PluralsCandidate">¡Has depositado &font_gold;%1$d &font_end;monedas de &font_gold;oro &font_end;en el %2$s!</string>
+    <string name="bank_withdrawn_amount" tools:ignore="PluralsCandidate">¡Has sacado &font_gold;%1$,d &font_end;monedas de &font_gold;oro &font_end;del %2$s!</string>
+    <string name="bank_deposit_amount" tools:ignore="PluralsCandidate">¡Has depositado &font_gold;%1$,d &font_end;monedas de &font_gold;oro &font_end;en el %2$s!</string>
 
     <string name="item_island_soul">&font_cyan;Alma de Isla &font_end;(%1$s)</string>
     <string name="text_island_soul_title">Isla &font_cyan;100%&font_end; Explorada</string>
@@ -1744,7 +1743,7 @@
     <string name="stash_inventory_title_stash">&font_wood;Inventario&font_end; (&font_cyan;%1$d&font_end;/&font_cyan;%2$d&font_end;)</string>
     <string name="stash_store_couldnt">No puedes guardar %1$s, ¡el &font_wood;Alijo &font_end;está lleno!</string>
     <string name="stash_increase_title">¿Incrementar el tamaño del &font_wood;Alijo&font_end;?</string>
-    <string name="stash_increase_message" tools:ignore="PluralsCandidate">¿Quieres incrementar el tamaño del &font_wood;alijo &font_end;de &font_cyan;%1$d &font_end;a &font_cyan;%2$d&font_end;? Te costará &font_gold;%3$d &font_end;monedas de &font_gold;oro&font_end;.</string>
+    <string name="stash_increase_message" tools:ignore="PluralsCandidate">¿Quieres incrementar el tamaño del &font_wood;alijo &font_end;de &font_cyan;%1$d &font_end;a &font_cyan;%2$d&font_end;? Te costará &font_gold;%3$,d &font_end;monedas de &font_gold;oro&font_end;.</string>
 
     <string name="merchants_mark">Marca de Mercader &font_cyan;#%1$d&font_end;</string>
     <string name="merchant">Mercader</string>
@@ -1780,8 +1779,8 @@
     <string name="chest_was_a_mimic">El %1$s era realmente un %2$s!</string>
     <string name="chest_text_chest_opened">&font_chest;Cofre&font_end; (&font_primary_light;vacío&font_end;)</string>
     <string name="chest_must_kill_the_monster_first">¡Debes matar al monstruo primero!</string>
-    <string name="chest_you_obtained_gold_and_item" tools:ignore="PluralsCandidate">¡Abres el %1$s!&br;&br;Obtienes &font_gold;%2$d &font_end;monedas de &font_gold;oro&font_end;.&br;Obtienes %3$s.</string>
-    <string name="chest_you_obtained_gold" tools:ignore="PluralsCandidate">¡Abres el %1$s!&br;&br;Obtienes &font_gold;%2$d &font_end;monedas de &font_gold;oro&font_end;.</string>
+    <string name="chest_you_obtained_gold_and_item" tools:ignore="PluralsCandidate">¡Abres el %1$s!&br;&br;Obtienes &font_gold;%2$,d &font_end;monedas de &font_gold;oro&font_end;.&br;Obtienes %3$s.</string>
+    <string name="chest_you_obtained_gold" tools:ignore="PluralsCandidate">¡Abres el %1$s!&br;&br;Obtienes &font_gold;%2$,d &font_end;monedas de &font_gold;oro&font_end;.</string>
 
     <string name="meditator_silent">(…)</string>
     <string name="meditator_dots">(…)</string>
@@ -1823,12 +1822,12 @@
     <string name="blacksmith_message">¡Hola! ¿Necesitas mejorar alguna pieza de tu equipo "&font_green;\*&font_end;"?&br;&br;¿Quizás desguazar alguna pieza de equipo?&br;&br;También puedo fabricar barras a partir de tus minerales si lo necesitas.&br;&br;¡Dímelo y lo haré lo mejor que pueda!&br;&br;Recuerda, no puedo trabajar con un objeto equipado o empuñado.</string>
     <string name="blacksmith_no_equipment_message">Lo siento pero no tienes ninguna pieza de equipo que pueda mejorar…</string>
     <string name="blacksmith_no_equipment_message_scrap">Lo siento pero no tienes ninguna pieza que pueda desguazar…</string>
-    <string name="blacksmith_cost" tools:ignore="PluralsCandidate">&font_gold;%1$d&font_end;</string>
+    <string name="blacksmith_cost" tools:ignore="PluralsCandidate">&font_gold;%1$,d&font_end;</string>
     <string name="blacksmith_improved_equipment_to_level">Mejorado: %1$s!</string>
     <string name="blacksmith_title">&font_iron;Herrero&font_end;</string>
     <string name="blacksmith_scrapped_equipment">Desguazado %1$s a %2$s!</string>
     <string name="blacksmith_failed_scrapping">Fallo desguazando %s…</string>
-    <string name="blacksmith_craft_cost">Fabricar: &font_gold;%1$d&font_end;</string>
+    <string name="blacksmith_craft_cost">Fabricar: &font_gold;%1$,d&font_end;</string>
     <string name="blacksmith_crafted">¡Fabricado: %s!</string>
     <string name="blacksmith_not_enough_material">No tienes los materiales necesarios…</string>
     <string name="needs_two_dots">Necesario:</string>
@@ -1849,7 +1848,7 @@
         a cambio.&br;&br;¿Lo quieres?</string>
     <string name="castle_message_royal_seal_not_enough">No tienes suficientes &font_gold;Sellos Reales&font_end;… ¡Vuelve cuando tengas al menos &font_cyan;%1$d&font_end;!</string>
     <string name="bar_caps">Bar</string>
-    <string name="bar_text_question_eat_at_the" tools:ignore="PluralsCandidate">¿Quieres comer por &font_gold;%1$d &font_end;monedas de &font_gold;oro&font_end;?</string>
+    <string name="bar_text_question_eat_at_the" tools:ignore="PluralsCandidate">¿Quieres comer por &font_gold;%1$,d &font_end;monedas de &font_gold;oro&font_end;?</string>
     <string name="bar_not_hungry">No tienes hambre…</string>
     <string name="bar_ate_at_the">Has comido en el %1$s.</string>
     <string name="bar_not_enough_gold">No tienes suficiente &font_gold;oro&font_end; para comer en el %1$s.</string>
@@ -1863,7 +1862,7 @@
     <string name="slave_thanks_for_freeing_me">¡Gracias por liberarme!</string>
     <string name="guard">Guardia</string>
     <string name="guard_start_dialog">Estoy llevando este &font_cyan;Esclavo&font_end; para ser ejecutado por sus crímenes, muévete o probarás el hierro de mi espada!</string>
-    <string name="troll_pay_or_fight" tools:ignore="PluralsCandidate">¡Soy %1$s! ¡Este es puente mío! Si pasar quieres, pagar me tienes que &font_gold;%2$d monedos de oro&font_end;, o muere!</string>
+    <string name="troll_pay_or_fight" tools:ignore="PluralsCandidate">¡Soy %1$s! ¡Este es puente mío! Si pasar quieres, pagar me tienes que &font_gold;%2$,d monedos de oro&font_end;, o muere!</string>
     <string name="troll_not_enough_gold">No tienes suficiente &font_gold;oro&font_end;… ¡El %1$s te ataca!</string>
     <string name="troll_leaves_happily_with_your_money">%1$s se marcha feliz con tu &font_gold;oro&font_end;…</string>
     <string name="explorer_you_dont_have_the_necessary_island_soul" tools:ignore="UnusedResources">No tienes el &font_cyan;Alma de Isla &font_end;necesaria…</string>
@@ -1910,7 +1909,7 @@
     <string name="temple_explore_2_b_first_button_2">Finalmente aareces en una pequeña habitación con nada más que un pequeño &font_wood;cofre de madera&font_end;. ¿Lo abres?</string>
     <string name="temple_explore_2_b_first_button_open_yes">Si</string>
     <string name="temple_explore_2_b_first_button_open_no">No</string>
-    <string name="temple_explore_2_b_first_button_open_decide_to_open_1" tools:ignore="PluralsCandidate">¡Abres el &font_wood;cofre de madera &font_end;y encuentras &font_gold;%1$d monedas de gold&font_end;!</string>
+    <string name="temple_explore_2_b_first_button_open_decide_to_open_1" tools:ignore="PluralsCandidate">¡Abres el &font_wood;cofre de madera &font_end;y encuentras &font_gold;%1$,d monedas de gold&font_end;!</string>
     <string name="temple_explore_2_b_first_button_open_decide_to_open_2">Después de celebrarlo, encuentras una ventana que comunica con el exterior. (¿Cómo puede ser? ¿No habías caído por un tobogán en espiral…?)</string>
     <string name="temple_explore_2_b_first_button_open_decide_to_open_3">Saltas fuera del templo a través de una ventana y ves que la entrada está bloqueada por rocas. Ya no podrás entrar al templo de nuevo…</string>
     <string name="temple_explore_2_b_first_button_open_decide_to_not_open_1">Decides no abrir el &font_wood;cofre de madera&font_end;. Encuentras una ventana que comunica con el exterior. (¿Cómo puede ser? ¿No habías caído por un tobogán en espiral…?)</string>
@@ -1937,7 +1936,7 @@
     <string name="temple_explore_5_a">De repente, las paredes se transforman en oro y aparece un &font_silver;Cofre de Plata &font_end;en medio de la habitación. ¿Lo abres?</string>
     <string name="temple_explore_5_a_yes">Si</string>
     <string name="temple_explore_5_a_no">No</string>
-    <string name="temple_explore_5_a_yes_consequence_1" tools:ignore="PluralsCandidate">¡Abres el &font_silver;Cofre de Plata&font_end;! ¡Hay &font_gold;%1$d &font_end;monedas de &font_gold;oro &font_end;y un %2$s! Lo coges, y de repente aparece un gas misterioso y te quedas dormido…</string>
+    <string name="temple_explore_5_a_yes_consequence_1" tools:ignore="PluralsCandidate">¡Abres el &font_silver;Cofre de Plata&font_end;! ¡Hay &font_gold;%1$,d &font_end;monedas de &font_gold;oro &font_end;y un %2$s! Lo coges, y de repente aparece un gas misterioso y te quedas dormido…</string>
     <string name="temple_explore_5_a_yes_consequence_2">Abres los ojos y estás fuera del templo. Al recobrar el sentido ves que la entrada está bloqueada por rocas. Ya no podrás entrar al templo de nuevo…</string>
     <string name="temple_explore_5_a_no_consequence">Después de decidir no abrir el cofre, de repente una voz profunda dice: \'Después de llegar hasta aquí y sobrevivir a todos los peligros, ¿no abres los cofres? ¡Tu castigo será luchar contra mí!\'</string>
     <string name="temple_explore_5_b">La &font_red;antorcha&font_end; se apaga y todo se vuelve oscuro…</string>
@@ -1945,7 +1944,7 @@
     <string name="temple_already_explored">No puedes entrar… La entrada está bloqueada por rocas.</string>
 
     <string name="inn_title">Posada</string>
-    <string name="inn_question_rest_in_the" tools:ignore="PluralsCandidate">¿Quieres descansar por &font_gold;%1$d &font_end;monedas de &font_gold;oro&font_end;?</string>
+    <string name="inn_question_rest_in_the" tools:ignore="PluralsCandidate">¿Quieres descansar por &font_gold;%1$,d &font_end;monedas de &font_gold;oro&font_end;?</string>
     <string name="inn_rest_inn">Descansas en la &font_inn;Posada&font_end;.</string>
     <string name="inn_not_enough_gold">No tienes suficiente oro para descansar en la &font_inn;Posada&font_end;.</string>
     <string name="inn_already_rested">No necesitas descansar ahora mismo…</string>
@@ -1965,7 +1964,7 @@
         SP)</string>
     <string name="skill_sacrificer">&font_cyan;Sacrificador&font_end;</string>
     <string name="skill_sacrificer_description">Puedes \"Sacrificar\" un cadáver de monstruo a los Dioses. Ellos te recompensarán con una pequeña cantidad de &font_gold;oro&font_end;.</string>
-    <string name="skill_sacrificed_corpse_to_the_gods">Sacrificas %1$s… recibes misteriosamente &font_gold;%2$d &font_end;monedas de &font_gold;oro&font_end;…</string>
+    <string name="skill_sacrificed_corpse_to_the_gods">Sacrificas %1$s… recibes misteriosamente &font_gold;%2$,d &font_end;monedas de &font_gold;oro&font_end;…</string>
     <string name="skill_points_needed_short">PH: &font_cyan;%1$d&font_end;</string>
     <string name="skill_points_needed">&font_cyan;%1$d &font_end;Puntos de Habilidad necesarios.</string>
     <string name="skill_mule">&font_cyan;Mula&font_end;</string>
@@ -2209,7 +2208,7 @@
     <string name="sail_cant">No puedes navegar</string>
     <string name="sail_rescued_message">¡Debes devolver la gente rescatada primero!</string>
     <string name="sail_pay_sailing_taxes">¡Debes pagar los impuestos de &font_cyan;navegación &font_end;en el &font_wood;Muelle &font_end;para navegar desde aquí!</string>
-    <string name="sail_pier_pay_taxes_to_sail" tools:ignore="PluralsCandidate">Hola, quieres pagar los impuestos para &font_cyan;navegar &font_end;con tu &font_wood;barco &font_end;desde esta isla?&br;&br;Son &font_gold;%1$d &font_end;monedas de &font_gold;oro&font_end;, por favor.</string>
+    <string name="sail_pier_pay_taxes_to_sail" tools:ignore="PluralsCandidate">Hola, quieres pagar los impuestos para &font_cyan;navegar &font_end;con tu &font_wood;barco &font_end;desde esta isla?&br;&br;Son &font_gold;%1$,d &font_end;monedas de &font_gold;oro&font_end;, por favor.</string>
     <string name="sail_pier_already_payed">Gracias por pagar los impuestos para &font_cyan;navegar &font_end;desde esta isla. ¡Disfruta de tus aventuras!</string>
 
     <string name="corpse_turns_to_dust">%1$s se convierte en polvo…</string>
@@ -3057,9 +3056,9 @@
     <string name="game_over_rank_permadeath">Has quedado en la posición &font_cyan;#%d &font_end;para &font_red;Permadeath &font_end;en el cementerio.</string>
     <string name="game_over_rank_no_permadeath">Has quedado en la posición &font_cyan;#%d&font_end;para &font_green;No Permadeath &font_end;en el cementerio.</string>
 
-    <string name="blacksmith_level_up_button">Subir Nivel &font_iron;Herrero&font_end;: &font_gold;%1$d&font_end;</string>
+    <string name="blacksmith_level_up_button">Subir Nivel &font_iron;Herrero&font_end;: &font_gold;%1$,d&font_end;</string>
     <string name="blacksmith_level">Nivel de &font_iron;Herrero&font_end;: &font_cyan;%1$d&font_end;</string>
-    <string name="blacksmith_levelup_dialog_text">Subir de nivel al &font_iron;Herrero &font_end;por &font_gold;%1$d &font_end;monedas de oro?&br;&br;(Incrementa ligeramente las piezas de equipo mejoradas, incrementa la tasa de éxito de &font_copper;desguazar &font_end;y reduce el precio de fabricar barras)</string>
+    <string name="blacksmith_levelup_dialog_text">Subir de nivel al &font_iron;Herrero &font_end;por &font_gold;%1$,d &font_end;monedas de oro?&br;&br;(Incrementa ligeramente las piezas de equipo mejoradas, incrementa la tasa de éxito de &font_copper;desguazar &font_end;y reduce el precio de fabricar barras)</string>
     <string name="blacksmith_scrap_probability">Tasa de éxito: %1$s%%</string>
     <string name="success_lower_than_100">&font_cyan;%1$d&font_end;</string>
     <string name="success_100">&font_green;%1$d&font_end;</string>
@@ -3352,7 +3351,7 @@
     <string name="item_info_creator_medal">Es una medalla brillante, un recuerdo de la ocasión en la que mataste al &font_asterisk_creator;Creador&font_end;.</string>
 
     <string name="wise_main_story_island_first_message">Hola, héroe! Estaré aquí si me necesitas.&br;&br;Habla conmigo si quieres descansar o si quieres abandonar este lugar…</string>
-    <string name="wise_main_story_island_second_message">¿Quieres recuperar tu &font_health;salud &font_end;, &font_mana;maná &font_end;y &font_hunger;hambre &font_end;por &font_gold;%1$d &font_end;monedas de &font_gold;oro&font_end;? (Se guardará un &font_primary_light;&italic;[CHECKPOINT] &italic_end;&font_end;)&br;&br;…o…&br;&br;¿Quieres abandonar este lugar? Desaparecerá para siempre, perderás la mitad de tu &font_gold;oro &font_end;, incluido el del &font_gold;Banco&font_end;, y tendrás que buscar las &font_cyan;Piezas de Mapa &font_end;de nuevo…</string>
+    <string name="wise_main_story_island_second_message">¿Quieres recuperar tu &font_health;salud &font_end;, &font_mana;maná &font_end;y &font_hunger;hambre &font_end;por &font_gold;%1$,d &font_end;monedas de &font_gold;oro&font_end;? (Se guardará un &font_primary_light;&italic;[CHECKPOINT] &italic_end;&font_end;)&br;&br;…o…&br;&br;¿Quieres abandonar este lugar? Desaparecerá para siempre, perderás la mitad de tu &font_gold;oro &font_end;, incluido el del &font_gold;Banco&font_end;, y tendrás que buscar las &font_cyan;Piezas de Mapa &font_end;de nuevo…</string>
     <string name="wise_leave_island_confirmation_message">¿Estás seguro de que te quieres ir?&br;&br;Desaparecerá para siempre, perderás la mitad de tu &font_gold;oro &font_end;, incluido el del &font_gold;Banco&font_end;, y tendrás que buscar las &font_cyan;Piezas de Mapa &font_end;de nuevo…</string>
 
     <string name="button_rest">Descansar</string>
@@ -3577,7 +3576,7 @@
     <string name="item_name_revive_pet_potion">Poción de &font_health;Revivir &font_end;&font_pet;Mascota &font_end;(&font_health;%1$d&font_end;%%)</string>
 
     <string name="item_experience_pet_potion">Poción de &font_cyan;Experiencia &font_end;de &font_pet;Mascota&font_end;</string>
-    <string name="item_experience_pet_potion_amount">Poción de &font_cyan;Experiencia &font_end;de &font_pet;Mascota &font_end;(&font_cyan;%1$d&font_end;)</string>
+    <string name="item_experience_pet_potion_amount">Poción de &font_cyan;Experiencia &font_end;de &font_pet;Mascota &font_end;(&font_cyan;%1$,d&font_end;)</string>
 
     <string name="tile_content_type_pet_shop">&font_gold;Tienda &font_end;de &font_pet;Mascotas&font_end;</string>
     <string name="pet_item_name">&font_pet;Mascota &font_end; (%1$s)</string>
@@ -3858,11 +3857,11 @@
 
     <string name="tile_content_type_trainer">&font_epic;Trainer&font_end;</string>
     <string name="trainer_message">Welcome! I can train you if you pay me good &font_gold;gold&font_end;… Get stronger with my lessons!</string>
-    <string name="gold_to_base_stats_attack">Increase &font_attack;Attack &font_end; [&font_attack;%2$d&font_end;] &br;(&font_gold;%1$d &font_end;&font_gold;gold&font_end;)</string>
+    <string name="gold_to_base_stats_attack">Increase &font_attack;Attack &font_end; [&font_attack;%2$d&font_end;] &br;(&font_gold;%1$,d &font_end;&font_gold;gold&font_end;)</string>
     <string name="gold_to_base_stats_defense">Increase &font_defense;Defense &font_end;
-        [&font_defense;%2$d&font_end;] &br;(&font_gold;%1$d &font_end;&font_gold;gold&font_end;)</string>
-    <string name="gold_to_base_stats_speed">Increase &font_speed;Speed &font_end; [&font_speed;%2$d&font_end;] &br;(&font_gold;%1$d &font_end;&font_gold;gold&font_end;)</string>
-    <string name="gold_to_base_stats_intelligence">Increase &font_mana;Intelligence &font_end; [&font_mana;%2$d&font_end;] &br;(&font_gold;%1$d &font_end;&font_gold;gold&font_end;)</string>
+        [&font_defense;%2$d&font_end;] &br;(&font_gold;%1$,d &font_end;&font_gold;gold&font_end;)</string>
+    <string name="gold_to_base_stats_speed">Increase &font_speed;Speed &font_end; [&font_speed;%2$d&font_end;] &br;(&font_gold;%1$,d &font_end;&font_gold;gold&font_end;)</string>
+    <string name="gold_to_base_stats_intelligence">Increase &font_mana;Intelligence &font_end; [&font_mana;%2$d&font_end;] &br;(&font_gold;%1$,d &font_end;&font_gold;gold&font_end;)</string>
 
     <!-- DO NOT TRANSLATE -->
     <string name="grave_scott">I love you, Mom. I always will. You are eternal.&br;Charlene Samuel 1939–2015 &br;#Foreverlove&br;</string>
@@ -3973,6 +3972,6 @@
     <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
 
     <string name="text_creator_name_not_allowed">Solo puede haber un &font_asterisk_creator;Creador&font_end;…</string>
-    <string name="bank_welcome_message_rich" tools:ignore="PluralsCandidate">Bienvenido al %1$s…&br;&br;Cielos… &font_gold;%2$d de Oro&font_end;?! Ejem… quiero decir, aquí está perfectamente a salvo, por supuesto.&br;&br;Un héroe de tu… posición… siempre es muy bienvenido en el %3$s. *el banquero mira tu bolsa con avaricia*&br;</string>
+    <string name="bank_welcome_message_rich" tools:ignore="PluralsCandidate">Bienvenido al %1$s…&br;&br;Cielos… &font_gold;%2$,d de Oro&font_end;?! Ejem… quiero decir, aquí está perfectamente a salvo, por supuesto.&br;&br;Un héroe de tu… posición… siempre es muy bienvenido en el %3$s. *el banquero mira tu bolsa con avaricia*&br;</string>
 
 </resources>

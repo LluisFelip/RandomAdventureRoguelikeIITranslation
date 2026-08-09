@@ -25,7 +25,7 @@
     <string name="text_br" translatable="false">&br;</string>
 
     <string name="cyan_text" translatable="false">&font_cyan;%1$s&font_end;</string>
-    <string name="gold_number" translatable="false">&font_gold;%1$d&font_end;</string>
+    <string name="gold_number" translatable="false">&font_gold;%1$,d&font_end;</string>
     <string name="app_name" translatable="false">RAR II</string>
     <string name="menu_title" translatable="false">Random Adventure&line_break;Roguelike&line_break;II</string>
 
@@ -127,7 +127,6 @@
     <string name="about_reddit">RAR II trên Reddit</string>
     <string name="about_title">&line_break;Về RAR II</string>
     <string name="about_text">Trò chơi này được tạo ra bởi một nhà phát triển độc lập với tất cả tình yêu và sự kiên nhẫn :)&br;&br;Tôi rất muốn nghe ý kiến của bạn! Xin đừng ngần ngại liên hệ và chia sẻ ý tưởng cũng như góp ý của bạn.&br;&br;Chúc bạn có một cuộc phiêu lưu vui vẻ!</string>
-    <string name="about_twitter">Archison trên Twitter</string>
     <string name="about_discord">RAR II trên Discord</string>
 
     <string name="new_game_welcome_hero_whats_your_name">Chào mừng, hỡi người hùng! Tên của bạn là gì?</string>
@@ -276,7 +275,7 @@
     <string name="button_inventory_mode">Hành trang</string>
     <string name="button_stash_mode">Rương đồ</string>
     <string name="button_stash_increase_stash">Tăng kích thước &font_wood;Rương đồ&font_end;</string>
-    <string name="button_scrap_per_gold">Phân rã: &font_gold;%1$d&font_end; Vàng</string>
+    <string name="button_scrap_per_gold">Phân rã: &font_gold;%1$,d&font_end; Vàng</string>
     <string name="button_feedback">&font_cyan;Phản hồi&font_end;</string>
     <string name="button_blacksmith_upgrade_equipment">Nâng cấp &font_green;\*&font_end;Trang bị</string>
     <string name="button_blacksmith_scrap_equipment">Phân rã Trang bị &font_copper;&font_end;</string>
@@ -297,7 +296,7 @@
     <string name="inventory_cooked_thing">Đã nấu %1$s!</string>
     <string name="inventory_pickup">Đã nhặt %1$s!</string>
     <string name="inventory_damaged_by">Bị hư hại bởi %1$s!</string>
-    <string name="inventory_pickup_gold">Nhặt được &font_gold;%1$d&font_end; vàng!</string>
+    <string name="inventory_pickup_gold">Nhặt được &font_gold;%1$,d&font_end; vàng!</string>
     <string name="inventory_required_level_x">&italic;Yêu cầu Cấp: &font_cyan;%1$d&font_end;&italic_end;</string>
     <string name="inventory_tree_drop">Một %1$s đã rơi từ &font_coconut;Cây&font_end;!</string>
     <string name="inventory_equipment_title_with_level">&font_wood;Trang bị &font_end;[&font_wood;µ&font_end;: &font_cyan;%1$d&font_end;]</string>
@@ -337,9 +336,9 @@
     <string name="status_currently_at">Hiện ở &font_cyan;%1$d&font_end;, &font_cyan;%2$d &font_end;trong &font_cyan;%3$s&font_end;</string>
     <string name="status_player_name">%1$s</string>
     <string name="status_player_level">Cấp &font_cyan;%1$d&font_end;</string>
-    <string name="status_player_experience_needed">Kinh nghiệm: &font_cyan;%1$d&font_end;/&font_cyan;%2$d&font_end;</string>
-    <string name="status_player_gold">Vàng: &font_gold;%1$d&font_end;
-        (&font_gold;%2$d &font_end;+ &font_gold;%3$d&font_end;
+    <string name="status_player_experience_needed">Kinh nghiệm: &font_cyan;%1$,d&font_end;/&font_cyan;%2$,d&font_end;</string>
+    <string name="status_player_gold">Vàng: &font_gold;%1$,d&font_end;
+        (&font_gold;%2$,d &font_end;+ &font_gold;%3$,d&font_end;
         trong &font_gold;Ngân hàng&font_end;)</string>
     <string name="status_permadeath">&font_red;&bold;CHẾT VĨNH VIỄN&bold_end;&font_end;</string>
     <string name="status_no_permadeath">&font_green;&bold;KHÔNG CHẾT VĨNH VIỄN&bold_end;&font_end;</string>
@@ -354,10 +353,10 @@
     <string name="shop_farmer_capitalised">Nông dân</string>
     <string name="shop_empty_message"><![CDATA[Không có vật phẩm nào để mua…]]></string>
     <string name="shop_empty_message_inventory">Bạn không có vật phẩm nào…</string>
-    <string name="shop_bought_item">Đã mua %1$s với giá &font_gold;%2$d&font_end;.</string>
-    <string name="shop_sold_item">Đã bán %1$s với giá &font_gold;%2$d&font_end;.</string>
+    <string name="shop_bought_item">Đã mua %1$s với giá &font_gold;%2$,d&font_end;.</string>
+    <string name="shop_sold_item">Đã bán %1$s với giá &font_gold;%2$,d&font_end;.</string>
     <string name="shop_sold_item_with_amount">Đã bán &font_cyan;%1$d&font_end;
-        x %2$s với giá &font_gold;%3$d&font_end;.</string>
+        x %2$s với giá &font_gold;%3$,d&font_end;.</string>
     <string name="shop_sell_all_question">Bán tất cả?</string>
     <string name="shop_spell_already_known">&italic;&font_mana;Phép thuật &font_end;đã biết&italic_end;</string>
 
@@ -374,7 +373,7 @@
     <string name="item_temporary_potion">&font_white;[Tạm thời]&font_end;</string>
     <string name="item_heal_potion_amount">Thuốc &font_health;Hồi máu&font_end; (&font_health;%1$d&font_end;)</string>
     <string name="item_mana_potion_amount">Thuốc &font_mana;Hồi Năng lượng&font_end; (&font_mana;%1$d&font_end;)</string>
-    <string name="item_experience_potion_amount">Thuốc &font_cyan;Kinh nghiệm &font_end;(&font_cyan;%1$d&font_end;)</string>
+    <string name="item_experience_potion_amount">Thuốc &font_cyan;Kinh nghiệm &font_end;(&font_cyan;%1$,d&font_end;)</string>
     <string name="item_temporary_potion_amount">%1$s &font_white;[Tạm thời] &font_end;(&font_cyan;%2$d&font_end;)</string>
     <string name="item_shield">Khiên</string>
     <string name="item_monster_flesh">&font_red;Thịt&font_end; của &font_red;%1$s&font_end;</string>
@@ -828,7 +827,7 @@
     <string name="combat_corpse_name">Xác của %1$s</string>
     <string name="combat_monster_attacking_symbol">-&font_dark_red;A&font_end;-</string>
     <string name="combat_cant_flee_from_monster">Không thể trốn thoát khỏi %1$s…</string>
-    <string name="combat_monster_obtained_gold">Nhận được &font_gold;%1$d&font_end; vàng.</string>
+    <string name="combat_monster_obtained_gold">Nhận được &font_gold;%1$,d&font_end; vàng.</string>
     <string name="combat_monster_obtained_item">Nhận được %1$s.</string>
     <string name="combat_you_throw_the_bucket_to">Bạn ném %1$s vào %2$s! %3$s nhận &font_red;%4$d &font_end;sát thương!</string>
 
@@ -1567,8 +1566,8 @@
     <string name="pets_abandon_pet_message">Bạn có chắc muốn thả %1$s không? Nó sẽ biến mất &italic;mãi mãi&italic_end;…</string>
     <string name="pets_abandon_pet_abandoned_message">Bạn đã thả %1$s… Tạm biệt…</string>
 
-    <string name="text_player_experience_given">Bạn nhận được &font_cyan;%1$d &font_end;kinh nghiệm!</string>
-    <string name="text_pet_experience_given">%1$s nhận được &font_cyan;%2$d &font_end;kinh nghiệm!</string>
+    <string name="text_player_experience_given">Bạn nhận được &font_cyan;%1$,d &font_end;kinh nghiệm!</string>
+    <string name="text_pet_experience_given">%1$s nhận được &font_cyan;%2$,d &font_end;kinh nghiệm!</string>
 
     <string name="animal_fed_flesh">Bạn đã cho %1$s ăn %2$s.</string>
     <string name="animal_is_here_following_you">%1$s của bạn đang ở đây, đi theo bạn</string>
@@ -1685,16 +1684,16 @@
     <string name="iron_bucket_put_out_firecamp_ash">Bạn đã dập tắt &font_attack;Lửa trại &font_end;bằng &font_water;Xô&font_end; &font_iron;Nước&font_end;.</string>
     <string name="iron_bucket_drank_mana">Bạn đã uống từ &font_mana;Xô&font_end; &font_iron;Năng lượng &font_end;và hồi lại toàn bộ &font_mana;năng lượng&font_end;.</string>
 
-    <string name="bank_welcome_message" tools:ignore="PluralsCandidate">Chào mừng đến với %1$s!&br;&br;Chúng tôi giữ &font_gold;Vàng &font_end;của bạn an toàn tại đây.&br;&br;Bạn hiện có &font_gold;%2$d Vàng &font_end;trong %3$s.&br;</string>
+    <string name="bank_welcome_message" tools:ignore="PluralsCandidate">Chào mừng đến với %1$s!&br;&br;Chúng tôi giữ &font_gold;Vàng &font_end;của bạn an toàn tại đây.&br;&br;Bạn hiện có &font_gold;%2$,d Vàng &font_end;trong %3$s.&br;</string>
     <string name="bank_deposit_message" tools:ignore="PluralsCandidate">Bạn muốn &font_gold;gửi&font_end;
-        bao nhiêu?&br;&br;Bạn hiện có &font_gold;%1$d vàng&font_end;.</string>
+        bao nhiêu?&br;&br;Bạn hiện có &font_gold;%1$,d vàng&font_end;.</string>
     <string name="bank_withdraw_message" tools:ignore="PluralsCandidate">Bạn muốn &font_gold;rút&font_end;
-        bao nhiêu?&br;&br;Bạn hiện có &font_gold;%1$d vàng &font_end;trong %2$s.</string>
+        bao nhiêu?&br;&br;Bạn hiện có &font_gold;%1$,d vàng &font_end;trong %2$s.</string>
     <string name="bank_deposit">(Gửi)</string>
     <string name="bank_withdraw">(Rút)</string>
     <string name="bank_introduce_a_valid_amount">Hãy nhập một số tiền hợp lệ!</string>
-    <string name="bank_withdrawn_amount" tools:ignore="PluralsCandidate">Bạn đã rút &font_gold;%1$d vàng &font_end;từ %2$s!</string>
-    <string name="bank_deposit_amount" tools:ignore="PluralsCandidate">Bạn gửi &font_gold;%1$d vàng &font_end;vào %2$s!</string>
+    <string name="bank_withdrawn_amount" tools:ignore="PluralsCandidate">Bạn đã rút &font_gold;%1$,d vàng &font_end;từ %2$s!</string>
+    <string name="bank_deposit_amount" tools:ignore="PluralsCandidate">Bạn gửi &font_gold;%1$,d vàng &font_end;vào %2$s!</string>
 
     <string name="item_island_soul">&font_cyan;Linh hồn Đảo&font_end; (%1$s)</string>
     <string name="text_island_soul_title">Đã khám phá &font_cyan;100%&font_end; Đảo</string>
@@ -1718,7 +1717,7 @@
     <string name="stash_store_couldnt">Không thể cất giữ %1$s, &font_wood;Rương đồ &font_end;đã đầy!</string>
     <string name="stash_increase_title">Tăng kích thước &font_wood;Rương đồ&font_end;?</string>
     <string name="stash_increase_message" tools:ignore="PluralsCandidate">Bạn có muốn tăng kích thước &font_wood;rương đồ &font_end;từ &font_cyan;%1$d &font_end;lên &font_cyan;%2$d&font_end;
-        không? Sẽ tốn &font_gold;%3$d vàng&font_end;.</string>
+        không? Sẽ tốn &font_gold;%3$,d vàng&font_end;.</string>
 
     <string name="merchants_mark">Dấu hiệu của Thương nhân &font_cyan;#%1$d&font_end;</string>
     <string name="merchant">Thương nhân</string>
@@ -1755,8 +1754,8 @@
     <string name="chest_was_a_mimic">%1$s thực ra là một %2$s!</string>
     <string name="chest_text_chest_opened">Rương &font_chest;&font_end;(&font_primary_light;rỗng&font_end;)</string>
     <string name="chest_must_kill_the_monster_first">Phải giết quái vật trước!</string>
-    <string name="chest_you_obtained_gold_and_item" tools:ignore="PluralsCandidate">Bạn mở %1$s!&br;&br;Bạn nhận được &font_gold;%2$d vàng&font_end;.&br;Bạn nhặt được %3$s.</string>
-    <string name="chest_you_obtained_gold" tools:ignore="PluralsCandidate">Bạn mở %1$s!&br;&br;Bạn nhận được &font_gold;%2$d vàng&font_end;.</string>
+    <string name="chest_you_obtained_gold_and_item" tools:ignore="PluralsCandidate">Bạn mở %1$s!&br;&br;Bạn nhận được &font_gold;%2$,d vàng&font_end;.&br;Bạn nhặt được %3$s.</string>
+    <string name="chest_you_obtained_gold" tools:ignore="PluralsCandidate">Bạn mở %1$s!&br;&br;Bạn nhận được &font_gold;%2$,d vàng&font_end;.</string>
 
     <string name="meditator_silent">(…)</string>
     <string name="meditator_dots">(…)</string>
@@ -1798,12 +1797,12 @@
     <string name="blacksmith_message">Xin chào! Bạn có cần cải thiện bất kỳ trang bị "&font_green;\*&font_end;" nào không?&br;&br;Hay là phân rã một món trang bị?&br;&br;Tôi cũng có thể chế tạo thỏi kim loại từ quặng của bạn nếu bạn cần.&br;&br;Cứ nói với tôi và tôi sẽ cố gắng hết sức!&br;&br;Hãy nhớ, tôi không thể làm việc với các vật phẩm đang được trang bị.</string>
     <string name="blacksmith_no_equipment_message">Tôi xin lỗi, nhưng có vẻ như bạn không có trang bị nào tôi có thể cải thiện…</string>
     <string name="blacksmith_no_equipment_message_scrap">Tôi xin lỗi, nhưng có vẻ như bạn không có trang bị nào tôi có thể phân rã…</string>
-    <string name="blacksmith_cost" tools:ignore="PluralsCandidate">&font_gold;%1$d Vàng&font_end;</string>
+    <string name="blacksmith_cost" tools:ignore="PluralsCandidate">&font_gold;%1$,d Vàng&font_end;</string>
     <string name="blacksmith_improved_equipment_to_level">Đã cải thiện %1$s!</string>
     <string name="blacksmith_title">&font_iron;Thợ rèn&font_end;</string>
     <string name="blacksmith_scrapped_equipment">Đã phân rã %1$s thành %2$s!</string>
     <string name="blacksmith_failed_scrapping">Phân rã %1$s thất bại…</string>
-    <string name="blacksmith_craft_cost">Chế tạo: &font_gold;%1$d&font_end; Vàng</string>
+    <string name="blacksmith_craft_cost">Chế tạo: &font_gold;%1$,d&font_end; Vàng</string>
     <string name="blacksmith_crafted">Đã chế tạo %s!</string>
     <string name="blacksmith_not_enough_material">Bạn không có đủ nguyên liệu cần thiết…</string>
     <string name="needs_two_dots">Cần:</string>
@@ -1826,7 +1825,7 @@
     <string name="castle_message_royal_seal_not_enough">Ngươi không có đủ &font_gold;Ấn Hoàng Gia&font_end;… Hãy quay lại khi ngươi có ít nhất &font_cyan;%1$d&font_end;
         cái!</string>
     <string name="bar_caps">Quán bar</string>
-    <string name="bar_text_question_eat_at_the" tools:ignore="PluralsCandidate">Bạn có muốn ăn với giá &font_gold;%1$d Vàng&font_end;
+    <string name="bar_text_question_eat_at_the" tools:ignore="PluralsCandidate">Bạn có muốn ăn với giá &font_gold;%1$,d Vàng&font_end;
         không?</string>
     <string name="bar_not_hungry">Không đói…</string>
     <string name="bar_ate_at_the">Bạn đã ăn tại %1$s.</string>
@@ -1842,7 +1841,7 @@
     <string name="slave_thanks_for_freeing_me">Cảm ơn đã giải thoát cho tôi!</string>
     <string name="guard">Lính gác</string>
     <string name="guard_start_dialog">Ta đang áp giải &font_cyan;Tên Nô lệ&font_end; này đến nơi hành quyết, tránh đường hoặc ngươi sẽ nếm mùi sắt từ thanh kiếm của ta!</string>
-    <string name="troll_pay_or_fight" tools:ignore="PluralsCandidate">Tao là %1$s! Đây là cầu của tao! Nếu mày muốn qua, mày phải trả cho tao &font_gold;%2$d vàng&font_end;, hoặc mày chết dưới tay tao!</string>
+    <string name="troll_pay_or_fight" tools:ignore="PluralsCandidate">Tao là %1$s! Đây là cầu của tao! Nếu mày muốn qua, mày phải trả cho tao &font_gold;%2$,d vàng&font_end;, hoặc mày chết dưới tay tao!</string>
     <string name="troll_not_enough_gold">Mày không có đủ &font_gold;vàng&font_end;! %1$s tấn công bạn!</string>
     <string name="troll_leaves_happily_with_your_money">%1$s vui vẻ rời đi với tiền của bạn…</string>
     <string name="explorer_you_dont_have_the_necessary_island_soul" tools:ignore="UnusedResources">Bạn không có &font_cyan;Linh hồn Đảo&font_end;
@@ -1898,7 +1897,7 @@
         nhỏ. Mở nó chứ?</string>
     <string name="temple_explore_2_b_first_button_open_yes">Có</string>
     <string name="temple_explore_2_b_first_button_open_no">Không</string>
-    <string name="temple_explore_2_b_first_button_open_decide_to_open_1" tools:ignore="PluralsCandidate">Bạn mở &font_wood;chiếc rương gỗ &font_end;và tìm thấy &font_gold;%1$d vàng&font_end;!</string>
+    <string name="temple_explore_2_b_first_button_open_decide_to_open_1" tools:ignore="PluralsCandidate">Bạn mở &font_wood;chiếc rương gỗ &font_end;và tìm thấy &font_gold;%1$,d vàng&font_end;!</string>
     <string name="temple_explore_2_b_first_button_open_decide_to_open_2">Sau khi ăn mừng những gì tìm được, bạn thấy một cửa sổ dường như kết nối một cách kỳ lạ với bên ngoài ngôi đền. (Làm sao có thể như vậy được? Bạn vừa rơi xuống qua đường trượt xoắn ốc đó mà!)</string>
     <string name="temple_explore_2_b_first_button_open_decide_to_open_3">Bạn nhảy ra ngoài ngôi đền qua cửa sổ và nhận ra lối vào đột nhiên bị một số tảng đá chặn lại. Tốt hơn hết là nên để ngôi đền đó yên.</string>
     <string name="temple_explore_2_b_first_button_open_decide_to_not_open_1">Bạn quyết định không mở &font_wood;chiếc rương gỗ&font_end;. Bạn tìm thấy một cửa sổ dường như kết nối một cách kỳ lạ với bên ngoài ngôi đền. (Làm sao có thể như vậy được? Bạn vừa rơi xuống qua đường trượt xoắn ốc đó mà!)</string>
@@ -1925,7 +1924,7 @@
     <string name="temple_explore_5_a">Đột nhiên, các bức tường xung quanh bạn biến đổi và một căn phòng lớn màu vàng xuất hiện. Có một &font_silver;chiếc rương bạc &font_end;ở giữa phòng. Bạn có mở nó không?</string>
     <string name="temple_explore_5_a_yes">Có</string>
     <string name="temple_explore_5_a_no">Không</string>
-    <string name="temple_explore_5_a_yes_consequence_1" tools:ignore="PluralsCandidate">Bạn mở &font_silver;chiếc rương bạc&font_end;! Có &font_gold;%1$d vàng &font_end;và một %2$s! Bạn lấy nó và đột nhiên, một luồng khí bí ẩn tỏa ra và bạn bất tỉnh…</string>
+    <string name="temple_explore_5_a_yes_consequence_1" tools:ignore="PluralsCandidate">Bạn mở &font_silver;chiếc rương bạc&font_end;! Có &font_gold;%1$,d vàng &font_end;và một %2$s! Bạn lấy nó và đột nhiên, một luồng khí bí ẩn tỏa ra và bạn bất tỉnh…</string>
     <string name="temple_explore_5_a_yes_consequence_2">Bạn mở mắt ra ở bên ngoài ngôi đền. Bạn nhận ra có những tảng đá chặn nơi từng là lối vào.</string>
     <string name="temple_explore_5_a_no_consequence">Sau khi quyết định không mở rương, một giọng nói sâu thẳm không xác định vang lên: \'Sau khi đã đi xa đến vậy và sống sót qua mọi nguy hiểm, ngươi lại không mở rương sao? Hình phạt của ngươi sẽ là một cuộc chiến chống lại ta!\'</string>
     <string name="temple_explore_5_b">&font_red;Ngọn đuốc&font_end; biến thành cát bụi và mọi thứ trở nên tối tăm…</string>
@@ -1933,7 +1932,7 @@
     <string name="temple_already_explored">Không thể vào trong… Lối vào đã bị đá chặn.</string>
 
     <string name="inn_title">Quán trọ</string>
-    <string name="inn_question_rest_in_the" tools:ignore="PluralsCandidate">Bạn có muốn nghỉ ngơi với giá &font_gold;%1$d Vàng&font_end;
+    <string name="inn_question_rest_in_the" tools:ignore="PluralsCandidate">Bạn có muốn nghỉ ngơi với giá &font_gold;%1$,d Vàng&font_end;
         không?</string>
     <string name="inn_rest_inn">Bạn đã nghỉ ngơi trong Quán trọ.</string>
     <string name="inn_not_enough_gold">Bạn không có đủ vàng để nghỉ ngơi trong &font_inn;Quán trọ&font_end;.</string>
@@ -1953,7 +1952,7 @@
     <string name="skill_tree_button_with_sp">Cây Kỹ năng (&font_cyan;%1$d&font_end; ĐKN)</string>
     <string name="skill_sacrificer">&font_red;Kẻ Hiến tế&font_end;</string>
     <string name="skill_sacrificer_description">Bạn có thể "Hiến tế" xác của quái vật cho các vị thần. Họ sẽ thưởng cho bạn một lượng nhỏ &font_gold;Vàng&font_end;.</string>
-    <string name="skill_sacrificed_corpse_to_the_gods">Đã hiến tế %1$s… bạn nhận được &font_gold;%2$d &font_end;vàng một cách bí ẩn…</string>
+    <string name="skill_sacrificed_corpse_to_the_gods">Đã hiến tế %1$s… bạn nhận được &font_gold;%2$,d &font_end;vàng một cách bí ẩn…</string>
     <string name="skill_points_needed_short">Giá: &font_cyan;%1$d&font_end; ĐKN</string>
     <string name="skill_points_needed">Cần &font_cyan;%1$d &font_end;Điểm Kỹ năng.</string>
     <string name="skill_mule">&font_wood;Cửu vạn&font_end;</string>
@@ -2215,7 +2214,7 @@
     <string name="sail_cant">Không thể ra khơi</string>
     <string name="sail_rescued_message">Bạn nên đưa những người được giải cứu trở về trước!</string>
     <string name="sail_pay_sailing_taxes">Bạn phải trả thuế đi biển ở &font_wood;Bến tàu &font_end;để ra khơi từ đây!</string>
-    <string name="sail_pier_pay_taxes_to_sail" tools:ignore="PluralsCandidate">Xin chào, bạn có muốn trả thuế để có thể &font_cyan;ra khơi &font_end;bằng &font_wood;thuyền &font_end;của mình từ hòn đảo này không?&br;&br;Giá là &font_gold;%1$d vàng&font_end;, thưa ngài.</string>
+    <string name="sail_pier_pay_taxes_to_sail" tools:ignore="PluralsCandidate">Xin chào, bạn có muốn trả thuế để có thể &font_cyan;ra khơi &font_end;bằng &font_wood;thuyền &font_end;của mình từ hòn đảo này không?&br;&br;Giá là &font_gold;%1$,d vàng&font_end;, thưa ngài.</string>
     <string name="sail_pier_already_payed">Cảm ơn bạn đã trả thuế để &font_cyan;ra khơi &font_end;từ hòn đảo này. Chúc bạn có những cuộc phiêu lưu vui vẻ!</string>
 
     <string name="corpse_turns_to_dust">%1$s biến thành cát bụi…</string>
@@ -3077,9 +3076,9 @@
     <string name="game_over_rank_permadeath">Bạn xếp hạng &font_cyan;#%d &font_end;trên bảng &font_red;Chết Vĩnh Viễn &font_end;trong Nghĩa trang.</string>
     <string name="game_over_rank_no_permadeath">Bạn xếp hạng &font_cyan;#%d &font_end;trên bảng &font_green;Không Chết Vĩnh Viễn &font_end;trong Nghĩa trang.</string>
 
-    <string name="blacksmith_level_up_button">Nâng cấp &font_iron;Thợ rèn&font_end;: &font_gold;%1$d&font_end;</string>
+    <string name="blacksmith_level_up_button">Nâng cấp &font_iron;Thợ rèn&font_end;: &font_gold;%1$,d&font_end;</string>
     <string name="blacksmith_level">Cấp độ &font_iron;Thợ rèn&font_end;: &font_cyan;%1$d&font_end;</string>
-    <string name="blacksmith_levelup_dialog_text">Nâng cấp Thợ rèn với giá &font_gold;%1$d &font_end;vàng?&br;&br;(Cải thiện một chút trang bị được nâng cấp, tăng tỷ lệ thành công của việc &font_copper;phân rã &font_end;, và giảm chi phí chế tạo thỏi kim loại)</string>
+    <string name="blacksmith_levelup_dialog_text">Nâng cấp Thợ rèn với giá &font_gold;%1$,d &font_end;vàng?&br;&br;(Cải thiện một chút trang bị được nâng cấp, tăng tỷ lệ thành công của việc &font_copper;phân rã &font_end;, và giảm chi phí chế tạo thỏi kim loại)</string>
     <string name="blacksmith_scrap_probability">Tỷ lệ thành công: %1$s%%</string>
     <string name="success_lower_than_100">&font_cyan;%1$d&font_end;</string>
     <string name="success_100">&font_green;%1$d&font_end;</string>
@@ -3369,7 +3368,7 @@
     <string name="item_info_creator_medal">Đó là một huy chương sáng chói, một kỷ niệm về lần bạn đã giết &font_asterisk_creator;Đấng Sáng Tạo&font_end;.</string>
 
     <string name="wise_main_story_island_first_message">Xin chào, người hùng! Ta sẽ ở đây nếu cậu cần giúp đỡ!&br;&br;Hãy nói chuyện với ta nếu cậu cần nghỉ ngơi hoặc nếu cậu muốn rời khỏi nơi này…</string>
-    <string name="wise_main_story_island_second_message">Cậu có muốn phục hồi &font_health;máu &font_end;, &font_mana;năng lượng &font_end;và &font_hunger;độ đói &font_end;với giá &font_gold;%1$d vàng&font_end;
+    <string name="wise_main_story_island_second_message">Cậu có muốn phục hồi &font_health;máu &font_end;, &font_mana;năng lượng &font_end;và &font_hunger;độ đói &font_end;với giá &font_gold;%1$,d vàng&font_end;
         không? Hoặc…&br;&br;cậu có muốn rời khỏi nơi này không? Nó sẽ biến mất mãi mãi, cậu sẽ mất một nửa số &font_gold;vàng &font_end;đang mang theo, một nửa từ &font_gold;NGÂN HÀNG&font_end;, và cậu sẽ phải bắt đầu tìm kiếm lại các &font_cyan;Mảnh Bản đồ&font_end;.</string>
     <string name="wise_leave_island_confirmation_message">Cậu có chắc muốn rời đi không?&br;&br;Nơi này sẽ biến mất mãi mãi, cậu sẽ mất một nửa số &font_gold;vàng &font_end;đang mang theo, một nửa từ &font_gold;NGÂN HÀNG&font_end;, và cậu sẽ phải bắt đầu tìm kiếm lại các &font_cyan;Mảnh Bản đồ&font_end;.</string>
 
@@ -3602,7 +3601,7 @@
         (&font_health;%1$d&font_end;%)</string>
     <string name="item_experience_pet_potion">Thuốc &font_cyan;Kinh nghiệm&font_end; &font_pet;Thú cưng&font_end;</string>
     <string name="item_experience_pet_potion_amount">Thuốc &font_cyan;Kinh nghiệm&font_end; &font_pet;Thú cưng&font_end;
-        (&font_cyan;%1$d&font_end;)</string>
+        (&font_cyan;%1$,d&font_end;)</string>
 
     <string name="tile_content_type_pet_shop">Cửa hàng &font_gold;&font_end;&font_pet;Thú cưng&font_end;</string>
     <string name="pet_item_name">&font_pet;Thú cưng &font_end;(%1$s)</string>
@@ -3887,10 +3886,10 @@
     <string name="tile_content_type_trainer">Huấn luyện &font_epic;viên&font_end;</string>
     <string name="trainer_message">Chào mừng! Tôi có thể huấn luyện bạn nếu bạn trả cho tôi &font_gold;vàng&font_end;
         hậu hĩnh… Hãy trở nên mạnh mẽ hơn với các bài học của tôi!&br;&br;Mỗi lần bạn tăng một chỉ số, bạn sẽ tốn nhiều &font_gold;vàng &font_end;hơn để tăng nó!</string>
-    <string name="gold_to_base_stats_attack">Tăng &font_attack;Tấn công &font_end; [&font_attack;%2$d&font_end;] &br;(&font_gold;%1$d &font_end;&font_gold;vàng&font_end;)</string>
-    <string name="gold_to_base_stats_defense">Tăng &font_defense;Phòng thủ &font_end; [&font_defense;%2$d&font_end;] &br;(&font_gold;%1$d &font_end;&font_gold;vàng&font_end;)</string>
-    <string name="gold_to_base_stats_speed">Tăng &font_speed;Tốc độ &font_end; [&font_speed;%2$d&font_end;] &br;(&font_gold;%1$d &font_end;&font_gold;vàng&font_end;)</string>
-    <string name="gold_to_base_stats_intelligence">Tăng &font_mana;Trí tuệ &font_end; [&font_mana;%2$d&font_end;] &br;(&font_gold;%1$d &font_end;&font_gold;vàng&font_end;)</string>
+    <string name="gold_to_base_stats_attack">Tăng &font_attack;Tấn công &font_end; [&font_attack;%2$d&font_end;] &br;(&font_gold;%1$,d &font_end;&font_gold;vàng&font_end;)</string>
+    <string name="gold_to_base_stats_defense">Tăng &font_defense;Phòng thủ &font_end; [&font_defense;%2$d&font_end;] &br;(&font_gold;%1$,d &font_end;&font_gold;vàng&font_end;)</string>
+    <string name="gold_to_base_stats_speed">Tăng &font_speed;Tốc độ &font_end; [&font_speed;%2$d&font_end;] &br;(&font_gold;%1$,d &font_end;&font_gold;vàng&font_end;)</string>
+    <string name="gold_to_base_stats_intelligence">Tăng &font_mana;Trí tuệ &font_end; [&font_mana;%2$d&font_end;] &br;(&font_gold;%1$,d &font_end;&font_gold;vàng&font_end;)</string>
 
     <string name="grave_scott">I love you, Mom. I always will. You are eternal.&br;Charlene Samuel 1939–2015 &br;#Foreverlove&br;</string>
     <string name="grave_bearer">26.2.1946 – 5.9.2020&br;17.3.1942 – 3.3.2012&br;</string>
@@ -4036,6 +4035,6 @@
     <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
 
     <string name="text_creator_name_not_allowed">Chỉ có thể có một &font_asterisk_creator;Đấng Sáng Tạo&font_end;…</string>
-    <string name="bank_welcome_message_rich" tools:ignore="PluralsCandidate">Chào mừng đến %1$s…&br;&br;Ôi chao… &font_gold;%2$d Vàng&font_end; ư?! Ừm… ý ta là, tất nhiên nó hoàn toàn an toàn ở đây.&br;&br;Một anh hùng… giàu có như ngài… luôn được chào đón nồng nhiệt tại %3$s. *tay chủ ngân hàng thèm thuồng liếc túi tiền của ngài*&br;</string>
+    <string name="bank_welcome_message_rich" tools:ignore="PluralsCandidate">Chào mừng đến %1$s…&br;&br;Ôi chao… &font_gold;%2$,d Vàng&font_end; ư?! Ừm… ý ta là, tất nhiên nó hoàn toàn an toàn ở đây.&br;&br;Một anh hùng… giàu có như ngài… luôn được chào đón nồng nhiệt tại %3$s. *tay chủ ngân hàng thèm thuồng liếc túi tiền của ngài*&br;</string>
 
 </resources>
