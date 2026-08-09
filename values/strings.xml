@@ -3263,6 +3263,7 @@
     <string name="dungeon_west_content">&font_cyan;West&font_end;: %1$s</string>
     <string name="dungeon_boss">&font_dungeon_boss;Boss&font_end;</string>
     <string name="settings_show_combat_shortcuts">Enable Combat Shortcuts</string>
+    <string name="settings_combat_animations">Enable Combat Animations</string>
 
     <string name="dungeon_enter_portal">Enter Portal</string>
     <string name="dungeon_entered_portal">You entered the portal and appeared at the entrance of the dungeon!</string>
