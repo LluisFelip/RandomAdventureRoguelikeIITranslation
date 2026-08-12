@@ -335,6 +335,8 @@
     <string name="status_main_story_times">Main Story Completed Times: &font_asterisk_main_story;%1$d&font_end;</string>
     <string name="status_void_master_times">Void Master Killed Times: &font_asterisk_void_master;%1$d&font_end;</string>
     <string name="status_deaths">Deaths: &font_red;%1$d&font_end;</string>
+    <string name="status_cause_of_death">Cause of Death: &font_red;%1$s&font_end;</string>
+    <string name="status_cause_of_death_unknown">Unknown</string>
     <string name="status_ascended_times">Ascended Times: &asterisk_ascend_color;%1$d&font_end;</string>
     <string name="status_met_the_creator_times">Met The Creator Times: &font_asterisk_creator;%1$d&font_end;</string>
     <string name="status_general">&font_cyan;General&font_end;</string>
