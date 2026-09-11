@@ -268,7 +268,7 @@
     <!-- VOID SEAL: RAR I legacy import -->
     <!-- Layout button label: plain text. android:text does not run Html.fromHtml, so
          colour markup here would render as literal <font> tags. -->
-    <string name="void_seal_menu">&font_void;Fragment &font_end;&font_white;of &font_end;&font_infinity;Infinity&font_end;</string>
+    <string name="void_seal_menu">Fragment of Infinity</string>
     <string name="void_seal_eternal">Eternal</string>
     <string name="void_seal_title">&font_void;Fragment &font_end;&font_white;of &font_end;&font_infinity;Infinity&font_end;</string>
     <string name="void_seal_message">Something crossed over from a world that ended.&br;&br;If a &font_void;Fragment &font_end;&font_white;of &font_end;&font_infinity;Infinity&font_end; was yours in a world before this one… speak the name you carried there, and the &font_void;Fragment &font_end;it gave you…</string>
