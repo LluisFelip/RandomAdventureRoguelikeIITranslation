@@ -80,7 +80,6 @@
     <string name="content_description_item_image">The image of the item</string>
     <string name="content_description_tile_content_image">Tile Content Image</string>
     <string name="content_description_recipe_image">The recipe image</string>
-    <string name="content_description_weapon_image">Weapon Image</string>
     <string name="content_description_monster_icon">Monster Icon</string>
     <string name="content_description_monster_captured">Monster Captured</string>
     <string name="content_description_decrease_minimap_size">Decrease Minimap Size</string>
@@ -3997,5 +3996,20 @@
     <string name="text_save_progress_writing_islands">Writing islands…</string>
     <string name="text_save_progress_finishing">Finishing…</string>
     <string name="text_save_progress_count">%1$d / %2$d</string>
+
+    <!-- Accessibility (TalkBack) -->
+    <string name="a11y_achievement_unlocked">Unlocked</string>
+    <string name="a11y_achievement_locked">Locked</string>
+    <string name="a11y_achievement_hidden">Hidden achievement</string>
+    <string name="a11y_achievement_row">%1$s. %2$s. %3$s</string>
+    <string name="a11y_cemetery_remove_action">Remove from graveyard</string>
+    <string name="a11y_cemetery_info_for">Show details for %1$s</string>
+    <string name="a11y_cemetery_row">%1$d. %2$s</string>
+    <string name="a11y_cemetery_level">Level %1$d</string>
+    <string name="a11y_cemetery_asterisk_level">Reached level %1$d</string>
+    <string name="a11y_cemetery_asterisk_main_story">Main story completed</string>
+    <string name="a11y_cemetery_asterisk_void_master">Void Master defeated</string>
+    <string name="a11y_cemetery_asterisk_creator">Met the Creator</string>
+    <string name="a11y_cemetery_asterisk_ascended">Ascended</string>
 
 </resources>

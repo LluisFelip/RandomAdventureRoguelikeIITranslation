@@ -22,7 +22,6 @@
     <string name="content_description_item_image">Gegenstands Symbol</string>
     <string name="content_description_tile_content_image">Feldinhaltsbild</string>
     <string name="content_description_recipe_image">Anleitungsbild</string>
-    <string name="content_description_weapon_image">Waffenbild</string>
     <string name="content_description_monster_icon">Monster Symbol</string>
     <string name="content_description_decrease_minimap_size">Minimapgröße verringern</string>
     <string name="content_description_increase_minimap_size">Minimapgröße erhöhen</string>

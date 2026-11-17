@@ -1330,7 +1330,6 @@
     <string name="content_description_item_image">Objeto</string>
     <string name="content_description_tile_content_image">Contenido</string>
     <string name="content_description_recipe_image">Receta</string>
-    <string name="content_description_weapon_image">Arma</string>
     <string name="content_description_monster_icon">Monster Icon</string>
     <string name="content_description_ranged_weapon_image">Arma a distancia</string>
     <string name="content_description_decrease_minimap_size">Reducir Tamaño Minimapa</string>

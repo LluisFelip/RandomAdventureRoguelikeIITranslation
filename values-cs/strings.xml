@@ -137,7 +137,6 @@
     <string name="content_description_item_image">Obrázek předmětu</string>
     <string name="content_description_tile_content_image">Obrázek políčka</string>
     <string name="content_description_recipe_image">Obrázek receptu</string>
-    <string name="content_description_weapon_image">Obrázek zbraně</string>
     <string name="content_description_monster_icon">Ikona příšery</string>
     <string name="content_description_decrease_minimap_size">Zmenšit velikost minimapy</string>
     <string name="content_description_increase_minimap_size">Zvětšit velikost minimapy</string>

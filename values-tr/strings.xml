@@ -21,7 +21,6 @@
     <string name="content_description_item_image">Eşyanın resmi</string>
     <string name="content_description_tile_content_image">Karo İçeriği Resmi</string>
     <string name="content_description_recipe_image">Tarif resmi</string>
-    <string name="content_description_weapon_image">Silah Resmi</string>
     <string name="content_description_monster_icon">Canavar İkonu</string>
     <string name="content_description_decrease_minimap_size">Mini harita boyutunu azalt</string>
     <string name="content_description_increase_minimap_size">Mini harita boyutunu artır</string>

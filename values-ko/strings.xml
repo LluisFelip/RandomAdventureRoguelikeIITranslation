@@ -137,7 +137,6 @@
     <string name="content_description_item_image">아이템 이미지</string>
     <string name="content_description_tile_content_image">타일 정보 이미지</string>
     <string name="content_description_recipe_image">레시피 이미지</string>
-    <string name="content_description_weapon_image">무기 이미지</string>
     <string name="content_description_monster_icon">몬스터 아이콘</string>
     <string name="content_description_decrease_minimap_size">미니맵 크기 축소</string>
     <string name="content_description_increase_minimap_size">미니맵 크기 확대</string>

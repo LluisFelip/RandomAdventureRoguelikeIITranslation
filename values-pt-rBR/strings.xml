@@ -136,7 +136,6 @@
     <string name="content_description_item_image">Imagem do Item</string>
     <string name="content_description_tile_content_image">Imagem do conteúdo da Peça</string>
     <string name="content_description_recipe_image">Imagem da Receita</string>
-    <string name="content_description_weapon_image">Imagem da Arma</string>
     <string name="content_description_monster_icon">Ícone de Monstro</string>
     <string name="content_description_decrease_minimap_size">Diminui o tamanho do minimapa</string>
     <string name="content_description_increase_minimap_size">Aumenta o tamanho do minimapa</string>

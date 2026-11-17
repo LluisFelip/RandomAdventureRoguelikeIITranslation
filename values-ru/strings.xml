@@ -1337,7 +1337,6 @@
     <string name="content_description_item_image">Изображение предмета</string>
     <string name="content_description_tile_content_image">Изображение содержимого ячейки</string>
     <string name="content_description_recipe_image">Изображение рецепта</string>
-    <string name="content_description_weapon_image">Изображение оружия</string>
     <string name="content_description_monster_icon">Иконка монстра</string>
     <string name="content_description_dungeon_current_position_info">Кнопка текущего положения в подземелье</string>
 

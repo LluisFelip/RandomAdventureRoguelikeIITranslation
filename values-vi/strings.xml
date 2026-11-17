@@ -68,7 +68,6 @@
     <string name="content_description_item_image">Hình ảnh của vật phẩm</string>
     <string name="content_description_tile_content_image">Hình ảnh Nội dung Ô</string>
     <string name="content_description_recipe_image">Hình ảnh công thức</string>
-    <string name="content_description_weapon_image">Hình ảnh Vũ khí</string>
     <string name="content_description_monster_icon">Biểu tượng Quái vật</string>
     <string name="content_description_monster_captured">Quái vật đã bị bắt</string>
     <string name="content_description_decrease_minimap_size">Thu nhỏ Bản đồ mini</string>

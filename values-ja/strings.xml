@@ -137,7 +137,6 @@
     <string name="content_description_item_image">The image of the item</string>
     <string name="content_description_tile_content_image">Tile Content Image</string>
     <string name="content_description_recipe_image">The recipe image</string>
-    <string name="content_description_weapon_image">Weapon Image</string>
     <string name="content_description_monster_icon">Monster Icon</string>
     <string name="content_description_decrease_minimap_size">Decrease Minimap Size</string>
     <string name="content_description_increase_minimap_size">Increase Minimap Size</string>

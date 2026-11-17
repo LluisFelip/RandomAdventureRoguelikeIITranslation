@@ -1202,7 +1202,6 @@
     <string name="content_description_item_image">Image de l\'objet</string>
     <string name="content_description_tile_content_image">Image du contenu dans les cases</string>
     <string name="content_description_recipe_image">Image de recette</string>
-    <string name="content_description_weapon_image">Image d\'arme</string>
     <string name="content_description_monster_icon">Icône de monstre</string>
     <string name="content_description_dungeon_current_position_info">Bouton de position actuelle du donjon</string>
 
