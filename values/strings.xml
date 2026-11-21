@@ -4002,6 +4002,9 @@
     <string name="a11y_achievement_locked">Locked</string>
     <string name="a11y_achievement_hidden">Hidden achievement</string>
     <string name="a11y_achievement_row">%1$s. %2$s. %3$s</string>
+    <string name="a11y_unknown">Unknown</string>
+    <string name="a11y_amount_out_of">%1$d out of %2$d</string>
+    <string name="a11y_title_with_amount">%1$s, %2$s</string>
     <string name="a11y_cemetery_remove_action">Remove from graveyard</string>
     <string name="a11y_cemetery_info_for">Show details for %1$s</string>
     <string name="a11y_cemetery_row">%1$d. %2$s</string>
